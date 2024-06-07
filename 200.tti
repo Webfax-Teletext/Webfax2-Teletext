@@ -1,29 +1,54 @@
-PN,20000
-DE,Radio Guide
+PN,20001
+CT,8,T
+DE,National Radio Guide
 PS,8000
-SC,0000
-OL,1,W{$~{4k4h7} h7sj5j5k4~s            
+SC,0001
+OL,1,W{$~{4k4h7} h7sj5j5k4~s       G1/2 
 OL,2,W/*%/*%/.!/"-' "-'"-'*%/.!+,V(,,,,,,,,,,
 OL,3,CSchedules for key national stations    
-OL,4,W      h                                
-OL,5,W      j                  CTODAY TOMRW  
-OL,6,Wzsssss{{0FBBC Radio 1 ----G201F-G231   
-OL,7,Wupp=wfff5GBBC Radio 2 ----G202 -G232   
-OL,8,W=9995FBBC Radio 3 ----G203F-G233   
-OL,9,W########!GBBC Radio 4 ----G204 -G234   
-OL,10,F   BBC Radio 5 Live ------G205F-G235   
-OL,11,    BBC Radio 6 Music ----- 206 -G236   
-OL,12,F   BBC Radio 1Xtra -------G207F-G237   
-OL,13,    BBC Radio 4 Extra -----G208 -G238   
-OL,14,F   BBC Radio 5 Sports Ex -G209F-G239   
-OL,15,    BBC Asian Network -----G210 -G240   
-OL,16,F   LBC -------------------G211F-G241   
-OL,17,    TalkSport -------------G212 -G242   
-OL,18,F   Classic FM ------------G213F-G243   
-OL,19,    Heart -----------------G214 -G244   
-OL,20,F   Magic -----------------G215F-G245   
-OL,21,    Kiss ------------------G216 -G246   
-OL,22,   FGreatest Hits Radio ---G217F-G247   
+OL,4,               W      h                 
+OL,5,VZ`px|lhd3+r|--!## "WYjVZ!p,`,hp<,h8p(  
+OL,6,VZ`prrxy< 'd=$WYzsssss{{0ZV(},2(zj,tzb  
+OL,7,VZ ja9l8%xe:j%WYupp=wfff5ZV>o4;axj.bbw  
+OL,8,VZ #,f$h6k/j!WY=9995ZV(*lb&to:=*:  
+OL,9,VZ ! !"!   ""!WY########!VZ"  ! " " "   
+OL,10,                          CTODAY TOMRW  
+OL,11,F   BBC Radio 1 -----------G201F-G231   
+OL,12,    BBC Radio 2 -----------G202G-G232   
+OL,13,F   BBC Radio 3 -----------G203F-G233   
+OL,14,    BBC Radio 4 -----------G204G-G234   
+OL,15,F   BBC Radio 5 Live ------G205F-G235   
+OL,16,F  GBBC Radio 6 Music -----G206G-G236   
+OL,17,F   BBC Radio 1Xtra -------G207F-G237   
+OL,18,F  GBBC Radio 4 Extra -----G208G-G238   
+OL,19,F   BBC Radio 5 Sports Ex -G209F-G239   
+OL,20,F  GBBC Asian Network -----G210G-G240   
+OL,21,F   BBC World Service -----G211F-G241   
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ARad 1 TdyBRad 2 TdyCRadio GuideFWeather
-FL,201,202,200,120,0,100
+OL,24,ARad 1 TdyBRad 2 Tdy CReg Radio FWeather
+FL,201,202,250,120,0,100
+PN,20002
+CT,8,T
+DE,National Radio Guide
+PS,8000
+SC,0002
+OL,1,W{$~{4k4h7} h7sj5j5k4~s       G2/2 
+OL,2,W/*%/*%/.!/"-' "-'"-'*%/.!+,V(,,,,,,,,,,
+OL,3,CSchedules for key national stations    
+OL,4,               W      h                 
+OL,5,VZ`px|lhd3+r|--!## "WYjVZ!p,`,hp<,h8p(  
+OL,6,VZ`prrxy< 'd=$WYzsssss{{0ZV(},2(zj,tzb  
+OL,7,VZ ja9l8%xe:j%WYupp=wfff5ZV>o4;axj.bbw  
+OL,8,VZ #,f$h6k/j!WY=9995ZV(*lb&to:=*:  
+OL,9,VZ ! !"!   ""!WY########!VZ"  ! " " "   
+OL,12,                          CTODAY TOMRW  
+OL,13,F   LBC -------------------G212F-G242   
+OL,14,    TalkSport -------------G213G-G243   
+OL,15,F   Classic FM ------------G214F-G244   
+OL,16,    Heart -----------------G215G-G245   
+OL,17,F   Magic -----------------G216F-G246   
+OL,18,F  GKiss ------------------G217G-G247   
+OL,19,F   Greatest Hits Radio ---G218F-G248   
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ARad 1 TdyBRad 2 Tdy CReg Radio FWeather
+FL,201,202,250,120,0,100
