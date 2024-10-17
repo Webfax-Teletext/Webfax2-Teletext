@@ -1,7 +1,7 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
@@ -28,7 +28,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
@@ -53,7 +53,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
@@ -77,7 +77,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
@@ -104,7 +104,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
@@ -112,24 +112,26 @@ OL,4,G1130FBBC News Summary
 OL,5,     GThe latest two minute news
 OL,6,     Gsummary from BBC World Service.
 OL,7,G1132FThe Global Story
-OL,8,     G.
-OL,9,G1200FBBC News
-OL,10,     GThe latest five minute news
-OL,11,     Gbulletin from BBC World Service.
-OL,12,G1206FOutlook
-OL,13,     GTrue stories of ordinary people
-OL,14,     Gand the extraordinary events that
-OL,15,     Ghave shaped their lives.
-OL,16,G1250FWitness History
-OL,17,     GIn 1969, Len Dyke and Dudley
-OL,18,     GDryden started a new company
-OL,19,     Gselling Afro hair care. It would
-OL,20,     Ggo on to make millions.
+OL,8,     GIsrael has inflicted a string of
+OL,9,     Gblows on the Lebanon-based armed
+OL,10,     Ggroup.
+OL,11,G1200FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G1206FOutlook
+OL,15,     GTrue stories of ordinary people
+OL,16,     Gand the extraordinary events that
+OL,17,     Ghave shaped their lives.
+OL,18,G1250FWitness History
+OL,19,     GIn 1969, Len Dyke and Dudley
+OL,20,     GDryden started a new company
+OL,21,     Gselling Afro hair care. It would
+OL,22,     Ggo on to make millions.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
@@ -143,264 +145,260 @@ OL,10,G1330FBBC News Summary
 OL,11,     GThe latest two minute news
 OL,12,     Gsummary from BBC World Service.
 OL,13,G1332FThe Food Chain
-OL,14,     GThe Food Chain examines the
-OL,15,     Gbusiness, science and cultural
-OL,16,     Gsignificance of food, and what it
-OL,17,     Gtakes to put food on your plate.
-OL,18,G1400FBBC News
-OL,19,     GThe latest five minute news
-OL,20,     Gbulletin from BBC World Service.
+OL,14,     GThe highs and lows of cooking in
+OL,15,     Ga shared kitchen.
+OL,16,G1400FBBC News
+OL,17,     GThe latest five minute news
+OL,18,     Gbulletin from BBC World Service.
+OL,19,G1406FNewshour
+OL,20,     GInterviews, news and analysis of
+OL,21,     Gthe day's global events.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1406FNewshour
-OL,5,     GInterviews, news and analysis of
-OL,6,     Gthe day's global events.
-OL,7,G1500FBBC News
-OL,8,     GThe latest five minute news
-OL,9,     Gbulletin from BBC World Service.
-OL,10,G1506FThe Inquiry
-OL,11,     GWhat is likely to happen to the
-OL,12,     GMurdoch media empire in the
-OL,13,     Gfuture?
-OL,14,G1530FBBC News Summary
-OL,15,     GThe latest two minute news
-OL,16,     Gsummary from BBC World Service.
-OL,17,G1532FWorld Business Report
-OL,18,     GThe latest business and finance
-OL,19,     Gnews from around the world, on
-OL,20,     Gthe BBC.
+OL,4,G1500FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G1506FThe Inquiry
+OL,8,     GWhat is likely to happen to the
+OL,9,     GMurdoch media empire in the
+OL,10,     Gfuture?
+OL,11,G1530FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G1532FWorld Business Report
+OL,15,     GThe latest business and finance
+OL,16,     Gnews from around the world, on
+OL,17,     Gthe BBC.
+OL,18,G1600FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1600FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G1606FBBC OS
-OL,8,     GBBC OS gives a vibrant account of
-OL,9,     Gthe day's events with explanation
-OL,10,     Gand reaction from those involved.
-OL,11,G1700FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G1706FBBC OS
-OL,15,     GBBC OS gives a vibrant account of
-OL,16,     Gthe day's events with explanation
-OL,17,     Gand reaction from those involved.
-OL,18,G1800FBBC News
-OL,19,     GThe latest five minute news
-OL,20,     Gbulletin from BBC World Service.
+OL,4,G1606FBBC OS
+OL,5,     GBBC OS gives a vibrant account of
+OL,6,     Gthe day's events with explanation
+OL,7,     Gand reaction from those involved.
+OL,8,G1700FBBC News
+OL,9,     GThe latest five minute news
+OL,10,     Gbulletin from BBC World Service.
+OL,11,G1706FBBC OS
+OL,12,     GBBC OS gives a vibrant account of
+OL,13,     Gthe day's events with explanation
+OL,14,     Gand reaction from those involved.
+OL,15,G1800FBBC News
+OL,16,     GThe latest five minute news
+OL,17,     Gbulletin from BBC World Service.
+OL,18,G1806FOutlook
+OL,19,     GTrue stories of ordinary people
+OL,20,     Gand the extraordinary events that
+OL,21,     Ghave shaped their lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1806FOutlook
-OL,5,     GTrue stories of ordinary people
-OL,6,     Gand the extraordinary events that
-OL,7,     Ghave shaped their lives.
-OL,8,G1850FWitness History
-OL,9,     GIn 1969, Len Dyke and Dudley
-OL,10,     GDryden started a new company
-OL,11,     Gselling Afro hair care. It would
-OL,12,     Ggo on to make millions.
-OL,13,G1900FBBC News
-OL,14,     GThe latest five minute news
-OL,15,     Gbulletin from BBC World Service.
-OL,16,G1906FThe Newsroom
-OL,17,     GThe world's Newsroom brings you
-OL,18,     Gglobal events as they happen.
-OL,19,G1930FBBC News Summary
-OL,20,     GThe latest two minute news
-OL,21,     Gsummary from BBC World Service.
+OL,4,G1850FWitness History
+OL,5,     GIn 1969, Len Dyke and Dudley
+OL,6,     GDryden started a new company
+OL,7,     Gselling Afro hair care. It would
+OL,8,     Ggo on to make millions.
+OL,9,G1900FBBC News
+OL,10,     GThe latest five minute news
+OL,11,     Gbulletin from BBC World Service.
+OL,12,G1906FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G1930FBBC News Summary
+OL,16,     GThe latest two minute news
+OL,17,     Gsummary from BBC World Service.
+OL,18,G1932FSport Today
+OL,19,     GBBC sports correspondents tell
+OL,20,     Gthe story behind today's top
+OL,21,     Gsporting news, with interviews
+OL,22,     Gand reports from across the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G1932FSport Today
-OL,5,     GBBC sports correspondents tell
-OL,6,     Gthe story behind today's top
-OL,7,     Gsporting news, with interviews
-OL,8,     Gand reports from across the world.
-OL,9,G2000FBBC News
-OL,10,     GThe latest five minute news
-OL,11,     Gbulletin from BBC World Service.
-OL,12,G2006FThe Documentary
-OL,13,     GA free, state-of-the-art
-OL,14,     Gchildren's hospital is
-OL,15,     Gtransforming paediatric care in
-OL,16,     GUganda. But is one hospital
-OL,17,     Genough to reset the future for
-OL,18,     GUganda's children?
-OL,19,G2030FBBC News Summary
-OL,20,     GThe latest two minute news
-OL,21,     Gsummary from BBC World Service.
+OL,4,G2000FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G2006FThe Documentary
+OL,8,     GA free, state-of-the-art
+OL,9,     Gchildren's hospital is
+OL,10,     Gtransforming paediatric care in
+OL,11,     GUganda. But is one hospital
+OL,12,     Genough to reset the future for
+OL,13,     GUganda's children?
+OL,14,G2030FBBC News Summary
+OL,15,     GThe latest two minute news
+OL,16,     Gsummary from BBC World Service.
+OL,17,G2032FScience In Action
+OL,18,     GThe BBC brings you all the week's
+OL,19,     Gscience news.
+OL,20,G2100FBBC News
+OL,21,     GThe latest five minute news
+OL,22,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24111
 SC,0011
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G2032FScience In Action
-OL,5,     GThe BBC brings you all the week's
-OL,6,     Gscience news.
-OL,7,G2100FBBC News
+OL,4,G2106FNewshour
+OL,5,     GInterviews, news and analysis of
+OL,6,     Gthe day's global events.
+OL,7,G2200FBBC News
 OL,8,     GThe latest five minute news
 OL,9,     Gbulletin from BBC World Service.
-OL,10,G2106FNewshour
-OL,11,     GInterviews, news and analysis of
-OL,12,     Gthe day's global events.
-OL,13,G2200FBBC News
-OL,14,     GThe latest five minute news
-OL,15,     Gbulletin from BBC World Service.
-OL,16,G2206FThe Inquiry
-OL,17,     GWhat is likely to happen to the
-OL,18,     GMurdoch media empire in the
-OL,19,     Gfuture?
-OL,20,G2230FBBC News Summary
-OL,21,     GThe latest two minute news
-OL,22,     Gsummary from BBC World Service.
+OL,10,G2206FThe Inquiry
+OL,11,     GWhat is likely to happen to the
+OL,12,     GMurdoch media empire in the
+OL,13,     Gfuture?
+OL,14,G2230FBBC News Summary
+OL,15,     GThe latest two minute news
+OL,16,     Gsummary from BBC World Service.
+OL,17,G2232FThe Food Chain
+OL,18,     GThe highs and lows of cooking in
+OL,19,     Ga shared kitchen.
+OL,20,G2300FBBC News
+OL,21,     GThe latest five minute news
+OL,22,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24112
 SC,0012
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G2232FThe Food Chain
-OL,5,     GThe Food Chain examines the
-OL,6,     Gbusiness, science and cultural
-OL,7,     Gsignificance of food, and what it
-OL,8,     Gtakes to put food on your plate.
-OL,9,G2300FBBC News
-OL,10,     GThe latest five minute news
-OL,11,     Gbulletin from BBC World Service.
-OL,12,G2306FThe Newsroom
-OL,13,     GThe world's Newsroom brings you
-OL,14,     Gglobal events as they happen.
-OL,15,G2330FBBC News Summary
-OL,16,     GThe latest two minute news
-OL,17,     Gsummary from BBC World Service.
-OL,18,G2332FWorld Business Report
-OL,19,     GThe latest business and finance
-OL,20,     Gnews from around the world, on
-OL,21,     Gthe BBC.
+OL,4,G2306FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G2330FBBC News Summary
+OL,8,     GThe latest two minute news
+OL,9,     Gsummary from BBC World Service.
+OL,10,G2332FWorld Business Report
+OL,11,     GThe latest business and finance
+OL,12,     Gnews from around the world, on
+OL,13,     Gthe BBC.
+OL,14,G0000FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G0006FThe Explanation
+OL,18,     GWhere the world is explained.
+OL,19,     GMaking sense of the big stories -
+OL,20,     Glooking behind the spin.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24113
 SC,0013
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G0000FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G0006FThe Explanation
-OL,8,     GWhere the world is explained.
-OL,9,     GMaking sense of the big stories -
-OL,10,     Glooking behind the spin.
-OL,11,G0030FBBC News Summary
-OL,12,     GThe latest two minute news
-OL,13,     Gsummary from BBC World Service.
-OL,14,G0032FUnspun World with John Simpson
-OL,15,     G.
-OL,16,G0100FBBC News
+OL,4,G0030FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0032FUnspun World with John Simpson
+OL,8,     G.
+OL,9,G0100FBBC News
+OL,10,     GThe latest five minute news
+OL,11,     Gbulletin from BBC World Service.
+OL,12,G0106FBusiness Matters
+OL,13,     GGlobal business news, with live
+OL,14,     Gguests and contributions from
+OL,15,     GAsia and the USA.
+OL,16,G0200FBBC News
 OL,17,     GThe latest five minute news
 OL,18,     Gbulletin from BBC World Service.
-OL,19,G0106FBusiness Matters
-OL,20,     GGlobal business news, with live
-OL,21,     Gguests and contributions from
-OL,22,     GAsia and the USA.
+OL,19,G0206FThe Newsroom
+OL,20,     GThe world's Newsroom brings you
+OL,21,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24114
 SC,0014
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G0200FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G0206FThe Newsroom
-OL,8,     GThe world's Newsroom brings you
-OL,9,     Gglobal events as they happen.
-OL,10,G0230FBBC News Summary
-OL,11,     GThe latest two minute news
-OL,12,     Gsummary from BBC World Service.
-OL,13,G0232FTech Life
-OL,14,     GDoes the tech you use depend too
-OL,15,     Gmuch on a few critical minerals ?
-OL,16,     GWhen a hurricane temporarily
-OL,17,     Gdisrupted mining in the small
-OL,18,     Gtown of Spruce Pine, the tech
-OL,19,     Gworld was concerned.
-OL,20,G0300FBBC News
-OL,21,     GThe latest five minute news
-OL,22,     Gbulletin from BBC World Service.
+OL,4,G0230FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0232FTech Life
+OL,8,     GDoes the tech you use depend too
+OL,9,     Gmuch on a few critical minerals ?
+OL,10,     GWhen a hurricane temporarily
+OL,11,     Gdisrupted mining in the small
+OL,12,     Gtown of Spruce Pine, the tech
+OL,13,     Gworld was concerned.
+OL,14,G0300FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G0306FOutlook
+OL,18,     GTrue stories of ordinary people
+OL,19,     Gand the extraordinary events that
+OL,20,     Ghave shaped their lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24115
 SC,0015
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G0306FOutlook
-OL,5,     GTrue stories of ordinary people
-OL,6,     Gand the extraordinary events that
-OL,7,     Ghave shaped their lives.
-OL,8,G0350FWitness History
-OL,9,     GIn 1969, Len Dyke and Dudley
-OL,10,     GDryden started a new company
-OL,11,     Gselling Afro hair care. It would
-OL,12,     Ggo on to make millions.
-OL,13,G0400FBBC News
-OL,14,     GThe latest five minute news
-OL,15,     Gbulletin from BBC World Service.
-OL,16,G0406FThe Newsroom
-OL,17,     GThe world's Newsroom brings you
-OL,18,     Gglobal events as they happen.
-OL,19,G0430FBBC News Summary
-OL,20,     GThe latest two minute news
-OL,21,     Gsummary from BBC World Service.
+OL,4,G0350FWitness History
+OL,5,     GIn 1969, Len Dyke and Dudley
+OL,6,     GDryden started a new company
+OL,7,     Gselling Afro hair care. It would
+OL,8,     Ggo on to make millions.
+OL,9,G0400FBBC News
+OL,10,     GThe latest five minute news
+OL,11,     Gbulletin from BBC World Service.
+OL,12,G0406FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G0430FBBC News Summary
+OL,16,     GThe latest two minute news
+OL,17,     Gsummary from BBC World Service.
+OL,18,G0432FHeart and Soul
+OL,19,     GWhat is Enkumbi, a ritual
+OL,20,     Gpracticed in certain cultures in
+OL,21,     GUganda and across Africa?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24116
 SC,0016
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729056699
+OL,0,        ECIMSBWebfax 2   F241A1729136006
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G16/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 17 OCT
-OL,4,G0432FHeart and Soul
-OL,5,     GWhat is Enkumbi, a ritual
-OL,6,     Gpracticed in certain cultures in
-OL,7,     GUganda and across Africa?
-OL,8,G0500FBBC News
-OL,9,     GThe latest five minute news
-OL,10,     Gbulletin from BBC World Service.
-OL,11,G0506FNewsday
-OL,12,     GLive news, business and sport
-OL,13,     Gfrom around the world.
+OL,4,G0500FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G0506FNewsday
+OL,8,     GLive news, business and sport
+OL,9,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
