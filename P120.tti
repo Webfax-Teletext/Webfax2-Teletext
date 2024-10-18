@@ -1,19 +1,27 @@
 PN,12000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F120A1728836812
+OL,0,        ECIMSBWebfax 2   F120A1729294649
 OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,CINDEX
-OL,5,AThis section is not yet available
-OL,10, 121FNational forecast
-OL,12,CRegional forecasts
-OL,13,G122FBorders        G 128FS/SE England
-OL,14, 123FYorkshire       G129FNE England
-OL,15,G124FC England       G130FSW England
-OL,16,G125FChannel Is      G131FN Ireland
-OL,17,G126FNW England      G132FScotland
-OL,18,G127FLondon          G133FWales
+OL,3,CINDEX           H  AThis service is not
+OL,4,                 H  A      yet available
+OL,5,CUK forecasts
+OL,6,G121FToday/tomorrow  G123FLong range
+OL,7, 122F3 - 5 day
+OL,8,G
+OL,9,CEnglish regions
+OL,10,G124FNE England     G 128FW Midlands
+OL,11, 125FNW England      G129FE England
+OL,12,G126FYorkshire/Humb  G130FLondon/SE Eng
+OL,13,G127FE Midlands      G131FSW England
+OL,15,CNorthern Ireland/Wales
+OL,16,G132FN Ireland       G133FWales
+OL,18,CScotland
+OL,19,G134FOrkney/Shetland G137FGrampian
+OL,20,G135FHighlands       G138FStrathclyde
+OL,21,G136FCentral/Fife/   G139FBorders/G'way/
+OL,22,    FTayside             FDumfries/Loth
 OL,23,Qppppppppppppppppppppppppppppppppppppppp
 OL,24,ATravel BNat Sport CReg Sport FNat Radio
-FL,140,300,301,200,0,100
+FL,150,300,301,200,0,100

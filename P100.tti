@@ -1,7 +1,7 @@
 PN,10000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F100A1728847628
+OL,0,        ECIMSBWebfax 2   F100A1729294649
 OL,1,W|4|h4|||h||4|||h||4|4|Rh||4
 OL,2,W5j5u3jz%u3jz5ou?Rbsz5C   Teletext
 OL,3,W5j57qjk47!jk5~7}Rjc1C on the web
@@ -12,7 +12,7 @@ OL,7,F This is a test transmission
 OL,8,C Not all content is available just yet
 OL,10,MFWeather ------G120BRegional RadioG250
 OL,11,              -
-OL,12,MBTravel -------G140FNational SportG300
+OL,12,MBTravel -------G150FNational SportG300
 OL,14,MFNational RadioG200BRegional SportG301
 OL,15,-
 OL,17,BGOver on Webfax 1:
@@ -22,4 +22,4 @@ OL,21, BNational TV --G200FRegional News G301
 OL,22,C
 OL,23,B]D  NMS/thetvroom.com collaboration
 OL,24,AWeather B TravelC Nat Radio  FNat Sport
-FL,120,140,200,300,0,100
+FL,120,150,200,300,0,100

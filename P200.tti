@@ -2,7 +2,7 @@ PN,20001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F200A1728836812
+OL,0,        ECIMSBWebfax 2   F200A1729294649
 OL,1,W{$~{4k4h7} h7sj5j5k4~s       G1/2
 OL,2,W/*%/*%/.!/"-' "-'"-'*%/.!+,V(,,,,,,,,,,
 OL,3,CSchedules for key national stations
@@ -25,13 +25,13 @@ OL,19,F   BBC Radio 5 Sports Ex -G209F-G239
 OL,20,F  GBBC Asian Network -----G210G-G240
 OL,21,F   BBC World Service -----G211F-G241
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ARad 1 TdyBRad 2 Tdy CReg Radio FWeather
-FL,201,202,250,120,0,100
+OL,24,ANext Page BReg RadioCWeather FNat Sport
+FL,201,250,120,300,0,100
 PN,20002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F200A1728836812
+OL,0,        ECIMSBWebfax 2   F200A1729294649
 OL,1,W{$~{4k4h7} h7sj5j5k4~s       G2/2
 OL,2,W/*%/*%/.!/"-' "-'"-'*%/.!+,V(,,,,,,,,,,
 OL,3,CSchedules for key national stations
@@ -50,5 +50,5 @@ OL,17,F   Magic -----------------G216F-G246
 OL,18,F  GKiss ------------------G217G-G247
 OL,19,F   Greatest Hits Radio ---G218F-G248
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ARad 1 TdyBRad 2 Tdy CReg Radio FWeather
-FL,201,202,250,120,0,100
+OL,24,ANext Page BReg RadioCWeather FNat Sport
+FL,201,250,120,300,0,100
