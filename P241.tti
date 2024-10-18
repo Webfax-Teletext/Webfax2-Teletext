@@ -1,8 +1,8 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
 OL,4,G0600FBBC News
@@ -20,48 +20,65 @@ OL,15,     Gfrom around the world.
 OL,16,G0800FBBC News
 OL,17,     GThe latest five minute news
 OL,18,     Gbulletin from BBC World Service.
-OL,19,G0806FHARDtalk
-OL,20,     GIn-depth, hard-hitting interviews
-OL,21,     Gwith newsworthy personalities.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G0830FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G0832FBusiness Daily
-OL,8,     GThe daily drama of money and work
-OL,9,     Gfrom the BBC.
-OL,10,G0850FWitness History
-OL,11,     GKnown as the 'yellow fleet', 14
-OL,12,     Gships were trapped on the Great
-OL,13,     GBitter Lake in 1967 after the Six
-OL,14,     GDay War.
-OL,15,G0900FBBC News
-OL,16,     GThe latest five minute news
-OL,17,     Gbulletin from BBC World Service.
-OL,18,G0906FThe Newsroom
-OL,19,     GThe world's Newsroom brings you
-OL,20,     Gglobal events as they happen.
+OL,4,G0806FHARDtalk
+OL,5,     GExiled former Iranian nuclear
+OL,6,     Gnegotiator Seyed Hossein
+OL,7,     GMousavian is an advocate for
+OL,8,     Gdialogue between Iran and the
+OL,9,     GWest. With Israel poised to
+OL,10,     Gstrike, how vulnerable is Iran?
+OL,11,G0830FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G0832FBusiness Daily
+OL,15,     GWe meet the Team Principal at
+OL,16,     GWilliams Racing, who says he's
+OL,17,     Gdetermined to turn the team's
+OL,18,     Gfortunes around.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G0930FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G0932FScience In Action
-OL,8,     GThe BBC brings you all the week's
-OL,9,     Gscience news.
+OL,4,G0850FWitness History
+OL,5,     GKnown as the 'yellow fleet', 14
+OL,6,     Gships were trapped on the Great
+OL,7,     GBitter Lake in 1967 after the Six
+OL,8,     GDay War.
+OL,9,G0900FBBC News
+OL,10,     GThe latest five minute news
+OL,11,     Gbulletin from BBC World Service.
+OL,12,G0906FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G0930FBBC News Summary
+OL,16,     GThe latest two minute news
+OL,17,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24104
+SC,0004
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 18 OCT
+OL,4,G0932FScience In Action
+OL,5,     GFish Farming impacts on the wild
+OL,6,     Gare growing, and at the same time
+OL,7,     Gwe find extraordinary ways that
+OL,8,     Gliving things have found their
+OL,9,     Gniche.
 OL,10,G1000FBBC News
 OL,11,     GThe latest five minute news
 OL,12,     Gbulletin from BBC World Service.
@@ -75,11 +92,11 @@ OL,19,G1100FBBC News
 OL,20,     GThe latest five minute news
 OL,21,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24104
-SC,0004
+PN,24105
+SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
 OL,4,G1106FThe Newsroom
@@ -89,20 +106,22 @@ OL,7,G1130FBBC News Summary
 OL,8,     GThe latest two minute news
 OL,9,     Gsummary from BBC World Service.
 OL,10,G1132FThe Global Story
-OL,11,     G.
-OL,12,G1200FBBC News
-OL,13,     GThe latest five minute news
-OL,14,     Gbulletin from BBC World Service.
-OL,15,G1206FOutlook
-OL,16,     GTrue stories of ordinary people
-OL,17,     Gand the extraordinary events that
-OL,18,     Ghave shaped their lives.
+OL,11,     GThere is an overcrowding crisis
+OL,12,     Gin prisons across England and
+OL,13,     GWales.
+OL,14,G1200FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G1206FOutlook
+OL,18,     GTrue stories of ordinary people
+OL,19,     Gand the extraordinary events that
+OL,20,     Ghave shaped their lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24105
-SC,0005
+PN,24106
+SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
 OL,4,G1250FWitness History
@@ -121,14 +140,14 @@ OL,16,     GThe latest two minute news
 OL,17,     Gsummary from BBC World Service.
 OL,18,G1332FHeart and Soul
 OL,19,     GWhat is Enkumbi, a ritual
-OL,20,     Gpracticed in certain cultures in
+OL,20,     Gpractised in certain cultures in
 OL,21,     GUganda and across Africa?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24106
-SC,0006
+PN,24107
+SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
 OL,4,G1400FBBC News
@@ -141,216 +160,226 @@ OL,10,G1500FBBC News
 OL,11,     GThe latest five minute news
 OL,12,     Gbulletin from BBC World Service.
 OL,13,G1506FHARDtalk
-OL,14,     GIn-depth, hard-hitting interviews
-OL,15,     Gwith newsworthy personalities.
-OL,16,G1530FBBC News Summary
-OL,17,     GThe latest two minute news
-OL,18,     Gsummary from BBC World Service.
-OL,19,G1532FWorld Business Report
-OL,20,     GThe latest business and finance
-OL,21,     Gnews from around the world, on
-OL,22,     Gthe BBC.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24107
-SC,0007
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/16
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G1600FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G1606FBBC OS
-OL,8,     GBBC OS gives a vibrant account of
-OL,9,     Gthe day's events with explanation
-OL,10,     Gand reaction from those involved.
-OL,11,G1700FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G1706FBBC OS
-OL,15,     GBBC OS gives a vibrant account of
-OL,16,     Gthe day's events with explanation
-OL,17,     Gand reaction from those involved.
-OL,18,G1800FBBC News
-OL,19,     GThe latest five minute news
-OL,20,     Gbulletin from BBC World Service.
+OL,14,     GExiled former Iranian nuclear
+OL,15,     Gnegotiator Seyed Hossein
+OL,16,     GMousavian is an advocate for
+OL,17,     Gdialogue between Iran and the
+OL,18,     GWest. With Israel poised to
+OL,19,     Gstrike, how vulnerable is Iran?
+OL,20,G1530FBBC News Summary
+OL,21,     GThe latest two minute news
+OL,22,     Gsummary from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G1806FOutlook
-OL,5,     GTrue stories of ordinary people
-OL,6,     Gand the extraordinary events that
-OL,7,     Ghave shaped their lives.
-OL,8,G1850FWitness History
-OL,9,     GKnown as the 'yellow fleet', 14
-OL,10,     Gships were trapped on the Great
-OL,11,     GBitter Lake in 1967 after the Six
-OL,12,     GDay War.
-OL,13,G1900FBBC News
-OL,14,     GThe latest five minute news
-OL,15,     Gbulletin from BBC World Service.
-OL,16,G1906FThe Newsroom
-OL,17,     GThe world's Newsroom brings you
-OL,18,     Gglobal events as they happen.
-OL,19,G1930FBBC News Summary
-OL,20,     GThe latest two minute news
-OL,21,     Gsummary from BBC World Service.
+OL,4,G1532FWorld Business Report
+OL,5,     GThe latest business and finance
+OL,6,     Gnews from around the world, on
+OL,7,     Gthe BBC.
+OL,8,G1600FBBC News
+OL,9,     GThe latest five minute news
+OL,10,     Gbulletin from BBC World Service.
+OL,11,G1606FBBC OS
+OL,12,     GBBC OS gives a vibrant account of
+OL,13,     Gthe day's events with explanation
+OL,14,     Gand reaction from those involved.
+OL,15,G1700FBBC News
+OL,16,     GThe latest five minute news
+OL,17,     Gbulletin from BBC World Service.
+OL,18,G1706FBBC OS
+OL,19,     GBBC OS gives a vibrant account of
+OL,20,     Gthe day's events with explanation
+OL,21,     Gand reaction from those involved.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G1932FSport Today
-OL,5,     GBBC sports correspondents tell
-OL,6,     Gthe story behind today's top
-OL,7,     Gsporting news, with interviews
-OL,8,     Gand reports from across the world.
-OL,9,G2000FBBC News
-OL,10,     GThe latest five minute news
-OL,11,     Gbulletin from BBC World Service.
-OL,12,G2006FBBC OS Conversations
-OL,13,     GHow major news stories are
-OL,14,     Gaffecting the lives of people
-OL,15,     Garound the world.
-OL,16,G2030FBBC News Summary
-OL,17,     GThe latest two minute news
-OL,18,     Gsummary from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24110
-SC,0010
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/16
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G2032FCrowdScience
-OL,5,     GDeodorant hasn't been around
-OL,6,     Gforever, so is there any
-OL,7,     Gevolutionary reason for body
-OL,8,     Godour?
-OL,9,G2100FBBC News
-OL,10,     GThe latest five minute news
-OL,11,     Gbulletin from BBC World Service.
-OL,12,G2106FNewshour
-OL,13,     GInterviews, news and analysis of
-OL,14,     Gthe day's global events.
-OL,15,G2200FBBC News
-OL,16,     GThe latest five minute news
-OL,17,     Gbulletin from BBC World Service.
-OL,18,G2206FHARDtalk
-OL,19,     GIn-depth, hard-hitting interviews
-OL,20,     Gwith newsworthy personalities.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24111
-SC,0011
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/16
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G2230FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G2232FHeart and Soul
-OL,8,     GWhat is Enkumbi, a ritual
-OL,9,     Gpracticed in certain cultures in
-OL,10,     GUganda and across Africa?
-OL,11,G2300FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G2306FThe Newsroom
-OL,15,     GThe world's Newsroom brings you
-OL,16,     Gglobal events as they happen.
-OL,17,G2330FBBC News Summary
-OL,18,     GThe latest two minute news
-OL,19,     Gsummary from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24112
-SC,0012
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/16
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G2332FWorld Business Report
-OL,5,     GThe latest business and finance
-OL,6,     Gnews from around the world, on
-OL,7,     Gthe BBC.
-OL,8,G0000FBBC News
-OL,9,     GThe latest five minute news
-OL,10,     Gbulletin from BBC World Service.
-OL,11,G0006FUnexpected Elements
-OL,12,     GFrench President Emmanuel Macron
-OL,13,     Ghas said we will fight hard to
-OL,14,     Gkeep Emily in Paris in France.
-OL,15,     GHow have film and TV shaped - and
-OL,16,     Gbeen shaped by - science?
-OL,17,G0100FBBC News
-OL,18,     GThe latest five minute news
-OL,19,     Gbulletin from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24113
-SC,0013
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/16
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G0106FBusiness Matters
-OL,5,     GGlobal business news, with live
-OL,6,     Gguests and contributions from
-OL,7,     GAsia and the USA.
-OL,8,G0200FBBC News
-OL,9,     GThe latest five minute news
-OL,10,     Gbulletin from BBC World Service.
-OL,11,G0206FThe Newsroom
-OL,12,     GThe world's Newsroom brings you
-OL,13,     Gglobal events as they happen.
-OL,14,G0230FBBC News Summary
-OL,15,     GThe latest two minute news
-OL,16,     Gsummary from BBC World Service.
-OL,17,G0232FStumped
-OL,18,     GThe weekly cricket show from BBC
-OL,19,     GSport in association with ABC and
-OL,20,     GAkashvani.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24114
-SC,0014
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/16
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 18 OCT
-OL,4,G0300FBBC News
+OL,4,G1800FBBC News
 OL,5,     GThe latest five minute news
 OL,6,     Gbulletin from BBC World Service.
-OL,7,G0306FOutlook
+OL,7,G1806FOutlook
 OL,8,     GTrue stories of ordinary people
 OL,9,     Gand the extraordinary events that
 OL,10,     Ghave shaped their lives.
-OL,11,G0350FWitness History
+OL,11,G1850FWitness History
 OL,12,     GKnown as the 'yellow fleet', 14
 OL,13,     Gships were trapped on the Great
 OL,14,     GBitter Lake in 1967 after the Six
 OL,15,     GDay War.
-OL,16,G0400FBBC News
+OL,16,G1900FBBC News
 OL,17,     GThe latest five minute news
 OL,18,     Gbulletin from BBC World Service.
+OL,19,G1906FThe Newsroom
+OL,20,     GThe world's Newsroom brings you
+OL,21,     Gglobal events as they happen.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24110
+SC,0010
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 18 OCT
+OL,4,G1930FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G1932FSport Today
+OL,8,     GBBC sports correspondents tell
+OL,9,     Gthe story behind today's top
+OL,10,     Gsporting news, with interviews
+OL,11,     Gand reports from across the world.
+OL,12,G2000FBBC News
+OL,13,     GThe latest five minute news
+OL,14,     Gbulletin from BBC World Service.
+OL,15,G2006FBBC OS Conversations
+OL,16,     GHow major news stories are
+OL,17,     Gaffecting the lives of people
+OL,18,     Garound the world.
+OL,19,G2030FBBC News Summary
+OL,20,     GThe latest two minute news
+OL,21,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24111
+SC,0011
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 18 OCT
+OL,4,G2032FCrowdScience
+OL,5,     GDeodorant hasn't been around
+OL,6,     Gforever, so how did humans stay
+OL,7,     Gclean in the past, or did they
+OL,8,     Gnot care so much? And is there
+OL,9,     Gany evolutionary reason for body
+OL,10,     Godour?
+OL,11,G2100FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G2106FNewshour
+OL,15,     GInterviews, news and analysis of
+OL,16,     Gthe day's global events.
+OL,17,G2200FBBC News
+OL,18,     GThe latest five minute news
+OL,19,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24112
+SC,0012
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 18 OCT
+OL,4,G2206FHARDtalk
+OL,5,     GExiled former Iranian nuclear
+OL,6,     Gnegotiator Seyed Hossein
+OL,7,     GMousavian is an advocate for
+OL,8,     Gdialogue between Iran and the
+OL,9,     GWest. With Israel poised to
+OL,10,     Gstrike, how vulnerable is Iran?
+OL,11,G2230FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G2232FHeart and Soul
+OL,15,     GWhat is Enkumbi, a ritual
+OL,16,     Gpractised in certain cultures in
+OL,17,     GUganda and across Africa?
+OL,18,G2300FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24113
+SC,0013
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 18 OCT
+OL,4,G2306FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G2330FBBC News Summary
+OL,8,     GThe latest two minute news
+OL,9,     Gsummary from BBC World Service.
+OL,10,G2332FWorld Business Report
+OL,11,     GThe latest business and finance
+OL,12,     Gnews from around the world, on
+OL,13,     Gthe BBC.
+OL,14,G0000FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G0006FUnexpected Elements
+OL,18,     GFrench President Emmanuel Macron
+OL,19,     Ghas said we will fight hard to
+OL,20,     Gkeep Emily in Paris in France.
+OL,21,     GHow have film and TV shaped - and
+OL,22,     Gbeen shaped by - science?
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24114
+SC,0014
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 18 OCT
+OL,4,G0100FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G0106FBusiness Matters
+OL,8,     GGlobal business news, with live
+OL,9,     Gguests and contributions from
+OL,10,     GAsia and the USA.
+OL,11,G0200FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G0206FThe Newsroom
+OL,15,     GThe world's Newsroom brings you
+OL,16,     Gglobal events as they happen.
+OL,17,G0230FBBC News Summary
+OL,18,     GThe latest two minute news
+OL,19,     Gsummary from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24115
 SC,0015
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 18 OCT
+OL,4,G0232FStumped
+OL,5,     GScotland leg spinner Abtaha
+OL,6,     GMaqsood reflects on her T20 World
+OL,7,     GCup debut.
+OL,8,G0300FBBC News
+OL,9,     GThe latest five minute news
+OL,10,     Gbulletin from BBC World Service.
+OL,11,G0306FOutlook
+OL,12,     GTrue stories of ordinary people
+OL,13,     Gand the extraordinary events that
+OL,14,     Ghave shaped their lives.
+OL,15,G0350FWitness History
+OL,16,     GKnown as the 'yellow fleet', 14
+OL,17,     Gships were trapped on the Great
+OL,18,     GBitter Lake in 1967 after the Six
+OL,19,     GDay War.
+OL,20,G0400FBBC News
+OL,21,     GThe latest five minute news
+OL,22,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24116
+SC,0016
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G16/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
 OL,4,G0406FUnexpected Elements
@@ -372,11 +401,11 @@ OL,19,G0532FDear Daughter
 OL,20,     GIt's a girl! Bucking the trend of
 OL,21,     Gwanting a son. _DearDaughter.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24116
-SC,0016
+PN,24117
+SC,0017
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729143217
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G16/16
+OL,0,        ECIMSBWebfax 2   F241A1729222519
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G17/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 18 OCT
 OL,4,G0550FMore or Less
