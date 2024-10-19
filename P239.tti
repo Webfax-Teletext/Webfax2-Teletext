@@ -1,7 +1,7 @@
 PN,23901
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1729229729
+OL,0,        ECIMSBWebfax 2   F239A1729298284
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SAT 19 OCT
@@ -24,10 +24,12 @@ OL,19,G1855FFormula 1
 OL,20,     GLive F1 commentary of Sprint in
 OL,21,     Gthe United States.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
 PN,23902
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1729229729
+OL,0,        ECIMSBWebfax 2   F239A1729298284
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SAT 19 OCT
@@ -41,3 +43,5 @@ OL,10,G0005FComing Up On 5 Sports Extra
 OL,11,     GLive sport coming up on 5 Sports
 OL,12,     GExtra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
