@@ -1,25 +1,24 @@
 PN,10000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F100A1729294649
-OL,1,W|4|h4|||h||4|||h||4|4|Rh||4
-OL,2,W5j5u3jz%u3jz5ou?Rbsz5C   Teletext
-OL,3,W5j57qjk47!jk5~7}Rjc1C on the web
-OL,4,W////%///*//%/% */*%/%/R*//% ,,,,,,,,,,,
+OL,0,        ECIMSBWebfax 2   F100A1729354409
+OL,1,W|4|h4|||h||4|||h||4|4|Qh||4
+OL,2,W5j5u3jz%u3jz5ou?Qbsz5C   Teletext
+OL,3,W5j57qjk47!jk5~7}Qjc1C on the web
+OL,4,W////%///*//%/% */*%/%/Q*//% ,,,,,,,,,,,
 OL,5,                   B
-OL,6,BGWebfax is updated 24-hours-a-day
-OL,7,F This is a test transmission
-OL,8,C Not all content is available just yet
-OL,10,MFWeather ------G120BRegional RadioG250
+OL,6,AGWebfax is updated 24-hours-a-day
+OL,7,AGEm: site.editor@webfax.thetvroom.com
+OL,8,AGWhat is Webfax? Find out more on 499
+OL,10,MBWeather ------G120BRegional RadioG250
 OL,11,              -
-OL,12,MBTravel -------G150FNational SportG300
-OL,14,MFNational RadioG200BRegional SportG301
+OL,12,MCTravel -------G150CNational SportG300
+OL,14,MBNational RadioG200BRegional SportG301
 OL,15,-
-OL,17,BGOver on Webfax 1:
-OL,19, BOn This Day --G120FRegional TV --G300
-OL,20, FClean Feed ---G140BNational News G300
-OL,21, BNational TV --G200FRegional News G301
-OL,22,C
-OL,23,B]D  NMS/thetvroom.com collaboration
-OL,24,AWeather B TravelC Nat Radio  FNat Sport
+OL,17,AGContent available over on Webfax 1
+OL,19, COn This Day --G120CRegional TV --G260
+OL,20, BClean Feed ---G140BNational News G300
+OL,21, CNational TV --G200CRegional News G301
+OL,22,Q
+OL,23,Q]C  NMS/thetvroom.com collaboration
 FL,120,150,200,300,0,100
