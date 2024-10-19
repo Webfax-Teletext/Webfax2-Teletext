@@ -1,7 +1,7 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
@@ -27,7 +27,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
@@ -35,9 +35,9 @@ OL,4,G0900FBBC News
 OL,5,     GThe latest five minute news
 OL,6,     Gbulletin from BBC World Service.
 OL,7,G0906FBBC OS Conversations
-OL,8,     GHow major news stories are
-OL,9,     Gaffecting the lives of people
-OL,10,     Garound the world.
+OL,8,     GResidents in Mexico on coping
+OL,9,     Gwith crime, kidnappings and
+OL,10,     Gmurders.
 OL,11,G0930FBBC News Summary
 OL,12,     GThe latest two minute news
 OL,13,     Gsummary from BBC World Service.
@@ -52,132 +52,138 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
 OL,4,G0950FOver to You
-OL,5,     GTalk back to the BBC and
-OL,6,     Gchallenge the programme makers.
-OL,7,G1000FBBC News
-OL,8,     GThe latest five minute news
-OL,9,     Gbulletin from BBC World Service.
-OL,10,G1006FSportshour
-OL,11,     GLive Saturday morning global
-OL,12,     Gsports show with reports, debate
-OL,13,     Gand humour.
-OL,14,G1100FBBC News
-OL,15,     GThe latest five minute news
-OL,16,     Gbulletin from BBC World Service.
-OL,17,G1106FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G1130FBBC News Summary
-OL,21,     GThe latest two minute news
-OL,22,     Gsummary from BBC World Service.
+OL,5,     GListener comments and an
+OL,6,     Ginterview with the editor of Al
+OL,7,     GFayed, Predator at Harrods. Plus,
+OL,8,     Gdid the Fifth Floor fall short
+OL,9,     Gwith its analysis on Mexico's
+OL,10,     Gfirst female president?
+OL,11,G1000FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G1006FSportshour
+OL,15,     GF1 broadcaster Jennie Gow has had
+OL,16,     Gto learn to speak and write again
+OL,17,     Gafter a stroke.
+OL,18,G1100FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
-OL,4,G1132FUnspun World with John Simpson
-OL,5,     GThis week John Simpson analyses
-OL,6,     GIsrael's long-term strategy in
-OL,7,     Gthe Middle East.
-OL,8,G1200FBBC News
-OL,9,     GThe latest five minute news
-OL,10,     Gbulletin from BBC World Service.
-OL,11,G1206FThe Documentary
-OL,12,     GIs the goal of an end to the HIV/
-OL,13,     GAids pandemic by 2030 really
-OL,14,     Gpossible?
-OL,15,G1300FBBC News
-OL,16,     GThe latest five minute news
-OL,17,     Gbulletin from BBC World Service.
-OL,18,G1306FNewshour
-OL,19,     GInterviews, news and analysis of
-OL,20,     Gthe day's global events.
+OL,4,G1106FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G1130FBBC News Summary
+OL,8,     GThe latest two minute news
+OL,9,     Gsummary from BBC World Service.
+OL,10,G1132FHealth Check
+OL,11,     GCan rapid diagnostic tests make a
+OL,12,     Gdifference in the fight against
+OL,13,     Gmalaria? A new study tries to
+OL,14,     Gquantify the real-world
+OL,15,     Gdifference these tests are making.
+OL,16,G1200FBBC News
+OL,17,     GThe latest five minute news
+OL,18,     Gbulletin from BBC World Service.
+OL,19,G1206FThe Documentary
+OL,20,     GIs the goal of an end to the HIV/
+OL,21,     GAids pandemic by 2030 really
+OL,22,     Gpossible?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
-OL,4,G1400FBBC News
+OL,4,G1300FBBC News
 OL,5,     GThe latest five minute news
 OL,6,     Gbulletin from BBC World Service.
-OL,7,G1406FSportsworld
-OL,8,     GLive sport from around the world
-OL,9,     Gwith news, interviews and
-OL,10,     Ganalysis.
-OL,11,G1800FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G1806FThe Newsroom
-OL,15,     GThe world's Newsroom brings you
-OL,16,     Gglobal events as they happen.
-OL,17,G1830FBBC News Summary
-OL,18,     GThe latest two minute news
-OL,19,     Gsummary from BBC World Service.
-OL,20,G1832FDear Daughter
-OL,21,     GIt's a girl! Bucking the trend of
-OL,22,     Gwanting a son. _DearDaughter.
+OL,7,G1306FNewshour
+OL,8,     GInterviews, news and analysis of
+OL,9,     Gthe day's global events.
+OL,10,G1400FBBC News
+OL,11,     GThe latest five minute news
+OL,12,     Gbulletin from BBC World Service.
+OL,13,G1406FSportsworld
+OL,14,     GLive sport from around the world
+OL,15,     Gwith news, interviews and
+OL,16,     Ganalysis.
+OL,17,G1800FBBC News
+OL,18,     GThe latest five minute news
+OL,19,     Gbulletin from BBC World Service.
+OL,20,G1806FThe Newsroom
+OL,21,     GThe world's Newsroom brings you
+OL,22,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
-OL,4,G1850FSporting Witness
-OL,5,     GHungarian Agnes Keleti is the
-OL,6,     Gworld's oldest living Olympian at
-OL,7,     G103. She was the most successful
-OL,8,     Gathlete at the 1956 Summer
-OL,9,     GOlympics, winning four gymnastic
-OL,10,     Ggolds and two silvers.
-OL,11,G1900FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G1906FThe Evidence
-OL,15,     GWhy are some people deliberately
-OL,16,     Ginfected with diseases?
-OL,17,G2000FBBC News
+OL,4,G1830FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G1832FDear Daughter
+OL,8,     GIt's a girl! Bucking the trend of
+OL,9,     Gwanting a son. _DearDaughter.
+OL,10,G1850FSporting Witness
+OL,11,     GHungarian Agnes Keleti is the
+OL,12,     Gworld's oldest living Olympian at
+OL,13,     G103. She was the most successful
+OL,14,     Gathlete at the 1956 Summer
+OL,15,     GOlympics, winning four gymnastic
+OL,16,     Ggolds and two silvers.
+OL,17,G1900FBBC News
 OL,18,     GThe latest five minute news
 OL,19,     Gbulletin from BBC World Service.
+OL,20,G1906FThe Evidence
+OL,21,     GWhy are some people deliberately
+OL,22,     Ginfected with diseases?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
-OL,4,G2006FThe Arts Hour
-OL,5,     GNikki Bedi and film critic Guy
-OL,6,     GLodge celebrate some of the
-OL,7,     Ginternational filmmakers from
-OL,8,     Gthis year's London Film Festival.
-OL,9,G2100FBBC News
-OL,10,     GThe latest five minute news
-OL,11,     Gbulletin from BBC World Service.
-OL,12,G2106FNewshour
-OL,13,     GInterviews, news and analysis of
-OL,14,     Gthe day's global events.
-OL,15,G2200FBBC News
-OL,16,     GThe latest five minute news
-OL,17,     Gbulletin from BBC World Service.
+OL,4,G2000FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G2006FThe Arts Hour
+OL,8,     GNikki Bedi and film critic Guy
+OL,9,     GLodge celebrate some of the
+OL,10,     Ginternational filmmakers from
+OL,11,     Gthis year's London Film Festival.
+OL,12,G2100FBBC News
+OL,13,     GThe latest five minute news
+OL,14,     Gbulletin from BBC World Service.
+OL,15,G2106FNewshour
+OL,16,     GInterviews, news and analysis of
+OL,17,     Gthe day's global events.
+OL,18,G2200FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
@@ -192,139 +198,143 @@ OL,11,G2230FBBC News Summary
 OL,12,     GThe latest two minute news
 OL,13,     Gsummary from BBC World Service.
 OL,14,G2232FThis Is Africa
-OL,15,     GDJ Edu's pan-African music show
-OL,16,     Gfor the BBC World Service.
-OL,17,G2300FBBC News
-OL,18,     GThe latest five minute news
-OL,19,     Gbulletin from BBC World Service.
-OL,20,G2306FThe Newsroom
-OL,21,     GThe world's Newsroom brings you
-OL,22,     Gglobal events as they happen.
+OL,15,     GDJ Edu speaks to Wado who is
+OL,16,     Gexploring his Nigerian-Italian
+OL,17,     Gidentity in his Afrobeats music.
+OL,18,G2300FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
-OL,4,G2330FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G2332FAssignment
-OL,8,     GSingapore's use of the death
-OL,9,     Gpenalty for drug trafficking
-OL,10,     Goffences.
-OL,11,G0000FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G0006FBBC OS Conversations
-OL,15,     GHow major news stories are
-OL,16,     Gaffecting the lives of people
-OL,17,     Garound the world.
-OL,18,G0030FBBC News Summary
-OL,19,     GThe latest two minute news
-OL,20,     Gsummary from BBC World Service.
+OL,4,G2306FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G2330FBBC News Summary
+OL,8,     GThe latest two minute news
+OL,9,     Gsummary from BBC World Service.
+OL,10,G2332FAssignment
+OL,11,     GSingapore's use of the death
+OL,12,     Gpenalty for drug trafficking
+OL,13,     Goffences.
+OL,14,G0000FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G0006FBBC OS Conversations
+OL,18,     GResidents in Mexico on coping
+OL,19,     Gwith crime, kidnappings and
+OL,20,     Gmurders.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
-OL,4,G0032FDear Daughter
-OL,5,     GIt's a girl! Bucking the trend of
-OL,6,     Gwanting a son. _DearDaughter.
-OL,7,G0050FSporting Witness
-OL,8,     GHungarian Agnes Keleti is the
-OL,9,     Gworld's oldest living Olympian at
-OL,10,     G103. She was the most successful
-OL,11,     Gathlete at the 1956 Summer
-OL,12,     GOlympics, winning four gymnastic
-OL,13,     Ggolds and two silvers.
-OL,14,G0100FBBC News
-OL,15,     GThe latest five minute news
-OL,16,     Gbulletin from BBC World Service.
-OL,17,G0106FThe Inquiry
-OL,18,     GWhat is likely to happen to the
-OL,19,     GMurdoch media empire in the
-OL,20,     Gfuture?
+OL,4,G0030FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0032FDear Daughter
+OL,8,     GIt's a girl! Bucking the trend of
+OL,9,     Gwanting a son. _DearDaughter.
+OL,10,G0050FSporting Witness
+OL,11,     GHungarian Agnes Keleti is the
+OL,12,     Gworld's oldest living Olympian at
+OL,13,     G103. She was the most successful
+OL,14,     Gathlete at the 1956 Summer
+OL,15,     GOlympics, winning four gymnastic
+OL,16,     Ggolds and two silvers.
+OL,17,G0100FBBC News
+OL,18,     GThe latest five minute news
+OL,19,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24111
 SC,0011
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
-OL,4,G0130FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G0132FWorld Of Secrets
-OL,8,     GSecurity cameras were everywhere
-OL,9,     G- in Harrods and in a luxury
-OL,10,     Gapartment used by staff. There's
-OL,11,     Gan atmosphere of paranoia.
-OL,12,G0200FBBC News
-OL,13,     GThe latest five minute news
-OL,14,     Gbulletin from BBC World Service.
-OL,15,G0206FThe Newsroom
-OL,16,     GThe world's Newsroom brings you
-OL,17,     Gglobal events as they happen.
-OL,18,G0230FBBC News Summary
-OL,19,     GThe latest two minute news
-OL,20,     Gsummary from BBC World Service.
+OL,4,G0106FThe Inquiry
+OL,5,     GWhat is likely to happen to the
+OL,6,     GMurdoch media empire in the
+OL,7,     Gfuture?
+OL,8,G0130FBBC News Summary
+OL,9,     GThe latest two minute news
+OL,10,     Gsummary from BBC World Service.
+OL,11,G0132FWorld Of Secrets
+OL,12,     GSecurity cameras were everywhere
+OL,13,     G- in Harrods and in a luxury
+OL,14,     Gapartment used by staff. There's
+OL,15,     Gan atmosphere of paranoia.
+OL,16,G0200FBBC News
+OL,17,     GThe latest five minute news
+OL,18,     Gbulletin from BBC World Service.
+OL,19,G0206FThe Newsroom
+OL,20,     GThe world's Newsroom brings you
+OL,21,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24112
 SC,0012
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
-OL,4,G0232FThe Global Story
-OL,5,     G.Sumi Somaskanda and Anthony
-OL,6,     GZurcher respond to listener
-OL,7,     Gquestions about the upcoming US
-OL,8,     Gelection. What are the key topics
-OL,9,     Gshaping the vote?
-OL,10,G0300FBBC News
-OL,11,     GThe latest five minute news
-OL,12,     Gbulletin from BBC World Service.
-OL,13,G0306FThe Documentary
-OL,14,     GIs the goal of an end to the HIV/
-OL,15,     GAids pandemic by 2030 really
-OL,16,     Gpossible?
-OL,17,G0400FBBC News
-OL,18,     GThe latest five minute news
-OL,19,     Gbulletin from BBC World Service.
+OL,4,G0230FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0232FThe Global Story
+OL,8,     GSumi Somaskanda and Anthony
+OL,9,     GZurcher respond to listener
+OL,10,     Gquestions about the upcoming US
+OL,11,     Gelection. What are the key topics
+OL,12,     Gshaping the vote?
+OL,13,G0300FBBC News
+OL,14,     GThe latest five minute news
+OL,15,     Gbulletin from BBC World Service.
+OL,16,G0306FThe Documentary
+OL,17,     GIs the goal of an end to the HIV/
+OL,18,     GAids pandemic by 2030 really
+OL,19,     Gpossible?
+OL,20,G0400FBBC News
+OL,21,     GThe latest five minute news
+OL,22,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24113
 SC,0013
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
 OL,4,G0406FFrom Our Own Correspondent
-OL,5,     GInsight, wit and analysis from
-OL,6,     GBBC correspondents, journalists
-OL,7,     Gand writers from around the world.
-OL,8,G0430FBBC News Summary
-OL,9,     GThe latest two minute news
-OL,10,     Gsummary from BBC World Service.
-OL,11,G0432FTrending
-OL,12,     GBBC Trending investigates the
-OL,13,     Gphenomenon of yami baito, where
-OL,14,     Greplying to a job posting on
-OL,15,     Gsocial media could put you behind
-OL,16,     Gbars.
+OL,5,     GYoung Israelis and Palestinians
+OL,6,     Gspeak of their hopes and their
+OL,7,     Glack of trust; Georgia goes
+OL,8,     Ggreener - but just don't say
+OL,9,     Gclimate change ; and the priests
+OL,10,     Gblessing cars in Bolivia.
+OL,11,G0430FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G0432FTrending
+OL,15,     GBBC Trending investigates the
+OL,16,     Gphenomenon of yami baito, where
+OL,17,     Greplying to a job posting on
+OL,18,     Gsocial media could put you behind
+OL,19,     Gbars.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24114
 SC,0014
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
@@ -348,7 +358,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24115
 SC,0015
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1729229729
+OL,0,        ECIMSBWebfax 2   F241A1729311101
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/15
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 19 OCT
