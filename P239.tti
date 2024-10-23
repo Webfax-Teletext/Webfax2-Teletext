@@ -1,8 +1,8 @@
-PN,23900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F239A1729616748
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,23901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1729652817
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for WED 23 OCT
 OL,4,G0600FComing Up On 5 Sports Extra
@@ -11,17 +11,31 @@ OL,6,     GExtra.
 OL,7,G1200FComing Up On 5 Sports Extra
 OL,8,     GLive sport coming up on 5 Sports
 OL,9,     GExtra.
-OL,10,G1800FComing Up On 5 Sports Extra
-OL,11,     GLive sport coming up on 5 Sports
-OL,12,     GExtra.
-OL,13,G0000FComing Up On 5 Sports Extra
-OL,14,     GLive sport coming up on 5 Sports
-OL,15,     GExtra.
-OL,16,G0545FTest Match Special
-OL,17,     GLive ball-by-ball commentary of
-OL,18,     GPakistan v England on the 1st day
-OL,19,     Gof the 3rd Test at the Rawalpindi
-OL,20,     GCricket Stadium.
+OL,10,G1730FFootball
+OL,11,     GLive football commentary from BBC
+OL,12,     GRadio Sccotland of Atalanta v
+OL,13,     GCeltic in the Champions League.
+OL,14,G2000FComing Up On 5 Sports Extra
+OL,15,     GLive sport coming up on 5 Sports
+OL,16,     GExtra.
+OL,17,G0000FComing Up On 5 Sports Extra
+OL,18,     GLive sport coming up on 5 Sports
+OL,19,     GExtra.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
+PN,23902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1729652817
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for WED 23 OCT
+OL,4,G0545FTest Match Special
+OL,5,     GLive ball-by-ball commentary of
+OL,6,     GPakistan v England on the 1st day
+OL,7,     Gof the 3rd Test at the Rawalpindi
+OL,8,     GCricket Stadium.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,240,200,150,300,000,100
