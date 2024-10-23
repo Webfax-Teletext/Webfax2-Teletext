@@ -1,28 +1,25 @@
 PN,20900
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1729681664
+OL,0,        ECIMSBWebfax 2   F209A1729703299
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for WED 23 OCT
-OL,4,G1200FComing Up On 5 Sports Extra
-OL,5,     GLive sport coming up on 5 Sports
-OL,6,     GExtra.
-OL,7,G1730FFootball
-OL,8,     GLive football commentary from BBC
-OL,9,     GRadio Sccotland of Atalanta v
-OL,10,     GCeltic in the Champions League.
-OL,11,G2000FComing Up On 5 Sports Extra
+OL,4,G1730FFootball
+OL,5,     GLive football commentary from BBC
+OL,6,     GRadio Sccotland of Atalanta v
+OL,7,     GCeltic in the Champions League.
+OL,8,G2000FComing Up On 5 Sports Extra
+OL,9,     GLive sport coming up on 5 Sports
+OL,10,     GExtra.
+OL,11,G0000FComing Up On 5 Sports Extra
 OL,12,     GLive sport coming up on 5 Sports
 OL,13,     GExtra.
-OL,14,G0000FComing Up On 5 Sports Extra
-OL,15,     GLive sport coming up on 5 Sports
-OL,16,     GExtra.
-OL,17,G0545FTest Match Special
-OL,18,     GLive ball-by-ball commentary of
-OL,19,     GPakistan v England on the 1st day
-OL,20,     Gof the 3rd Test at the Rawalpindi
-OL,21,     GCricket Stadium.
+OL,14,G0545FTest Match Special
+OL,15,     GLive ball-by-ball commentary of
+OL,16,     GPakistan v England on the 1st day
+OL,17,     Gof the 3rd Test at the Rawalpindi
+OL,18,     GCricket Stadium.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
