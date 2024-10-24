@@ -1,105 +1,84 @@
 PN,21101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1729804284
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/6
+OL,0,        ECIMSBWebfax 2   F211A1729807889
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 OCT
-OL,4,G2206FThe Inquiry
-OL,5,     GIs the war in Ukraine likely to
-OL,6,     Gbe a priority for the next
-OL,7,     GPresident of the United States?
-OL,8,G2230FBBC News Summary
-OL,9,     GThe latest two minute news
-OL,10,     Gsummary from BBC World Service.
-OL,11,G2232FThe Food Chain
-OL,12,     GThe cities living with drought
-OL,13,     Gand limited water supplies.
-OL,14,G2300FBBC News
+OL,4,G2306FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G2330FBBC News Summary
+OL,8,     GThe latest two minute news
+OL,9,     Gsummary from BBC World Service.
+OL,10,G2332FWorld Business Report
+OL,11,     GThe latest business and finance
+OL,12,     Gnews from around the world, on
+OL,13,     Gthe BBC.
+OL,14,G0000FBBC News
 OL,15,     GThe latest five minute news
 OL,16,     Gbulletin from BBC World Service.
-OL,17,G2306FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G2330FBBC News Summary
-OL,21,     GThe latest two minute news
-OL,22,     Gsummary from BBC World Service.
+OL,17,G0006FThe Explanation
+OL,18,     GWhere the world is explained.
+OL,19,     GMaking sense of the big stories -
+OL,20,     Glooking behind the spin.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1729804284
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/6
+OL,0,        ECIMSBWebfax 2   F211A1729807889
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 OCT
-OL,4,G2332FWorld Business Report
-OL,5,     GThe latest business and finance
-OL,6,     Gnews from around the world, on
-OL,7,     Gthe BBC.
-OL,8,G0000FBBC News
-OL,9,     GThe latest five minute news
-OL,10,     Gbulletin from BBC World Service.
-OL,11,G0006FThe Explanation
-OL,12,     GWhere the world is explained.
-OL,13,     GMaking sense of the big stories -
-OL,14,     Glooking behind the spin.
-OL,15,G0030FBBC News Summary
-OL,16,     GThe latest two minute news
-OL,17,     Gsummary from BBC World Service.
-OL,18,G0032FUnspun World with John Simpson
-OL,19,     G.
-OL,20,G0100FBBC News
-OL,21,     GThe latest five minute news
-OL,22,     Gbulletin from BBC World Service.
+OL,4,G0030FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0032FUnspun World with John Simpson
+OL,8,     G.
+OL,9,G0100FBBC News
+OL,10,     GThe latest five minute news
+OL,11,     Gbulletin from BBC World Service.
+OL,12,G0106FBusiness Matters
+OL,13,     GGlobal business news, with live
+OL,14,     Gguests and contributions from
+OL,15,     GAsia and the USA.
+OL,16,G0200FBBC News
+OL,17,     GThe latest five minute news
+OL,18,     Gbulletin from BBC World Service.
+OL,19,G0206FThe Newsroom
+OL,20,     GThe world's Newsroom brings you
+OL,21,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1729804284
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/6
+OL,0,        ECIMSBWebfax 2   F211A1729807889
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 OCT
-OL,4,G0106FBusiness Matters
-OL,5,     GGlobal business news, with live
-OL,6,     Gguests and contributions from
-OL,7,     GAsia and the USA.
-OL,8,G0200FBBC News
-OL,9,     GThe latest five minute news
-OL,10,     Gbulletin from BBC World Service.
-OL,11,G0206FThe Newsroom
-OL,12,     GThe world's Newsroom brings you
-OL,13,     Gglobal events as they happen.
-OL,14,G0230FBBC News Summary
-OL,15,     GThe latest two minute news
-OL,16,     Gsummary from BBC World Service.
+OL,4,G0230FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0232FTech Life
+OL,8,     GThis week we're looking at
+OL,9,     Gartificial intelligence in the
+OL,10,     Gworkplace - how are employers and
+OL,11,     Gemployees using it ? An
+OL,12,     Ginternational survey provides
+OL,13,     Gsome answers.
+OL,14,G0300FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G0306FOutlook
+OL,18,     GTrue stories of ordinary people
+OL,19,     Gand the extraordinary events that
+OL,20,     Ghave shaped their lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1729804284
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/6
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for THU 24 OCT
-OL,4,G0232FTech Life
-OL,5,     GThis week we're looking at
-OL,6,     Gartificial intelligence in the
-OL,7,     Gworkplace - how are employers and
-OL,8,     Gemployees using it ? An
-OL,9,     Ginternational survey provides
-OL,10,     Gsome answers.
-OL,11,G0300FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G0306FOutlook
-OL,15,     GTrue stories of ordinary people
-OL,16,     Gand the extraordinary events that
-OL,17,     Ghave shaped their lives.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,21105
-SC,0005
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1729804284
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/6
+OL,0,        ECIMSBWebfax 2   F211A1729807889
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 OCT
 OL,4,G0350FWitness History
@@ -123,11 +102,11 @@ OL,21,     GSurvivors seeking justice from
 OL,22,     GOpus Dei.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,26,@oD@Lrw
-PN,21106
-SC,0006
+PN,21105
+SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1729804284
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/6
+OL,0,        ECIMSBWebfax 2   F211A1729807889
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 OCT
 OL,4,G0500FBBC News
