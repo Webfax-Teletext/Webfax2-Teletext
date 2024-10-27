@@ -1,15 +1,46 @@
-PN,20900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1730006254
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,20901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1730009862
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for SAT 26 OCT
-OL,4,G0230FWomen's Big Bash League
-OL,5,     GLive ball-by-ball commentary from
-OL,6,     GABC in Australia of Adelaide
-OL,7,     GStrikers v Brisbane Heat in the
-OL,8,     GWomen's Big Bash League.
+OL,3,CProgramme listings for SUN 27 OCT
+OL,4,G0610FWomen's Big Bash League
+OL,5,     GLive commentary of Melbourne
+OL,6,     GRenegades v Sydney Sixers in the
+OL,7,     GWomen's Big Bash League.
+OL,8,G0930FWomen's Big Bash League
+OL,9,     GLive commentary of Perth
+OL,10,     GScorchers v Melbourne Stars in
+OL,11,     Gthe Women's Big Bash League.
+OL,12,G1300FComing Up On 5 Sports Extra
+OL,13,     GLive sport coming up on 5 Sports
+OL,14,     GExtra.
+OL,15,G1355FFootball
+OL,16,     GLive football commentary of
+OL,17,     GChelsea v Newcastle United in the
+OL,18,     GPremier League.
+OL,19,G1600FComing Up On 5 Sports Extra
+OL,20,     GLive sport coming up on 5 Sports
+OL,21,     GExtra.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,210,200,150,300,000,100
+PN,20902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1730009862
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for SUN 27 OCT
+OL,4,G2000FNFL
+OL,5,     GDarren Fletcher and Greg Brady
+OL,6,     Gpresent live play-by-play
+OL,7,     Gcommentary Chicago Bears at
+OL,8,     GWashington Commanders in the NFL.
+OL,9,G0000FComing Up On 5 Sports Extra
+OL,10,     GLive sport coming up on 5 Sports
+OL,11,     GExtra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
