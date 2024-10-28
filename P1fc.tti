@@ -1,7 +1,7 @@
 PN,1fc00
 SC,0000
 PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1730150527
+OL,0,        ECIMSBWebfax 2   F1fcA1730154134
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -11,17 +11,20 @@ OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
 OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G Cims-zln   \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
-OL,10,GService: Webfax 2 - 389 c4a11cb
-OL,11,FLast Update: 28/10/2024 21:22:07
+OL,10,GService: Webfax 2 - 390 2ab8948
+OL,11,FLast Update: 28/10/2024 22:22:14
 OL,12,CbbcSport/Horse%20Racing
 OL,13,Cgeneric/weather_warnings
-OL,14,Cgeneric/league-two
-OL,15,CitvSport/border
-OL,16,CitvSport/calendar
-OL,17,CitvSport/central
-OL,18,CitvSport/channel
-OL,19,CitvSport/london
-OL,20,CitvSport/meridian
-OL,21,CitvSport/tyne-tees
-OL,22,CitvSport/utv
-OL,23,CitvSport/wales                        
+OL,14,Ccharts/singles
+OL,15,Cgeneric/f1
+OL,16,Cgeneric/league-two
+OL,17,Ctvroom/cleanfeed
+OL,18,CitvSport/border
+OL,19,CitvSport/calendar
+OL,20,CitvSport/central
+OL,21,CitvSport/channel
+OL,22,CitvSport/london
+OL,23,CitvSport/meridian
+OL,24,CitvSport/tyne-tees
+OL,25,CitvSport/utv
+OL,26,CitvSport/wales                        
