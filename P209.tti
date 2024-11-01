@@ -1,41 +1,26 @@
-PN,20901
-SC,0001
-PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1730489559
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
+PN,20900
+SC,0000
+PS,8008
+OL,0,        ECIMSBWebfax 2   F209A1730500378
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for FRI 1 NOV
-OL,4,G1930FFootball
-OL,5,     GLive football commentary from BBC
-OL,6,     GRadio Nottingham of Notts County
-OL,7,     Gv Alfreton Town in the 1st round
-OL,8,     Gof the FA Cup.
-OL,9,G2200FComing Up On 5 Sports Extra
-OL,10,     GLive sport coming up on 5 Sports
-OL,11,     GExtra.
-OL,12,G0000FComing Up On 5 Sports Extra
-OL,13,     GLive sport coming up on 5 Sports
-OL,14,     GExtra.
-OL,15,G0015FWomen's Big Bash League
+OL,4,G2200FComing Up On 5 Sports Extra
+OL,5,     GLive sport coming up on 5 Sports
+OL,6,     GExtra.
+OL,7,G0000FComing Up On 5 Sports Extra
+OL,8,     GLive sport coming up on 5 Sports
+OL,9,     GExtra.
+OL,10,G0015FWomen's Big Bash League
+OL,11,     GLive ball-by-ball commentary from
+OL,12,     GABC in Australia of Brisbane Heat
+OL,13,     Gv Hobart Hurricanes in the
+OL,14,     GWomen's Big Bash League.
+OL,15,G0345FWomen's Big Bash League
 OL,16,     GLive ball-by-ball commentary from
-OL,17,     GABC in Australia of Brisbane Heat
-OL,18,     Gv Hobart Hurricanes in the
-OL,19,     GWomen's Big Bash League.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,210,200,150,300,000,100
-PN,20902
-SC,0002
-PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1730489559
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
-OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for FRI 1 NOV
-OL,4,G0345FWomen's Big Bash League
-OL,5,     GLive ball-by-ball commentary from
-OL,6,     GABC in Australia of Melbourne
-OL,7,     GRenegades v Perth Scorchers in
-OL,8,     Gthe Women's Big Bash League.
+OL,17,     GABC in Australia of Melbourne
+OL,18,     GRenegades v Perth Scorchers in
+OL,19,     Gthe Women's Big Bash League.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
