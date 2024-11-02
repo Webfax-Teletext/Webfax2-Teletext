@@ -1,15 +1,56 @@
-PN,20900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1730522019
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,20901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1730529229
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for FRI 1 NOV
+OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G0345FWomen's Big Bash League
 OL,5,     GLive ball-by-ball commentary from
 OL,6,     GABC in Australia of Melbourne
 OL,7,     GRenegades v Perth Scorchers in
 OL,8,     Gthe Women's Big Bash League.
+OL,9,G0730FComing Up On 5 Sports Extra
+OL,10,     GLive sport coming up on 5 Sports
+OL,11,     GExtra.
+OL,12,G1145FRugby League
+OL,13,     GLive rugby league commentary of
+OL,14,     GEngland Women v Wales Women at
+OL,15,     GHeadingley.
+OL,16,G1355FFormula 1
+OL,17,     GLive F1 commentary of Sprint in
+OL,18,     GSao Paulo, Brazil.
+OL,19,G1505FRugby Union
+OL,20,     GLive rugby union commentary of
+OL,21,     GEngland v New Zealand in the
+OL,22,     GAutumn Internationals.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,210,200,150,300,000,100
+PN,20902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1730529229
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for SAT 2 NOV
+OL,4,G1715FRugby Union
+OL,5,     GLive rugby union commentary from
+OL,6,     GBBC Radio Scotland of Scotland v
+OL,7,     GFiji in the Autumn Internationals.
+OL,8,G2000FComing Up On 5 Sports Extra
+OL,9,     GLive sport coming up on 5 Sports
+OL,10,     GExtra.
+OL,11,G2300FWomen's Big Bash League
+OL,12,     GLive ball-by-ball commentary from
+OL,13,     GABC in Australia of Melbourne
+OL,14,     GStars v Hobart Hurricanes in the
+OL,15,     GWomen's Big Bash League.
+OL,16,G0230FWomen's Big Bash League
+OL,17,     GLive ball-by-ball commentary from
+OL,18,     GABC in Australia of Melbourne
+OL,19,     GRenegades v Adelaide Strikers in
+OL,20,     Gthe Women's Big Bash League.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
