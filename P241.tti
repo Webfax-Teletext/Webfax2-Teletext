@@ -1,8 +1,8 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G0600FBBC News
@@ -27,8 +27,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G0900FBBC News
@@ -51,8 +51,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G0950FOver to You
@@ -76,8 +76,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G1100FBBC News
@@ -101,8 +101,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G1206FWorld Book Club
@@ -128,8 +128,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G1806FThe Newsroom
@@ -155,8 +155,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G1906FThe Inquiry
@@ -170,43 +170,46 @@ OL,11,G1930FBBC News Summary
 OL,12,     GThe latest two minute news
 OL,13,     Gsummary from BBC World Service.
 OL,14,G1932FHappy News
-OL,15,     GPositive news stories.
-OL,16,G2000FBBC News
-OL,17,     GThe latest five minute news
-OL,18,     Gbulletin from BBC World Service.
-OL,19,G2006FThe Arts Hour
-OL,20,     GNikki is joined by critic Rhianna
-OL,21,     GDhillon and Phil Grabsky from
-OL,22,     GExhibition on Screen.
+OL,15,     GCharlotte met Dave at a train
+OL,16,     Gstation when she was at her
+OL,17,     Glowest ebb, but went on to marry
+OL,18,     Ghim years later.
+OL,19,G2000FBBC News
+OL,20,     GThe latest five minute news
+OL,21,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
-OL,4,G2100FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G2106FNewshour
-OL,8,     GInterviews, news and analysis of
-OL,9,     Gthe day's global events.
-OL,10,G2200FBBC News
-OL,11,     GThe latest five minute news
-OL,12,     Gbulletin from BBC World Service.
-OL,13,G2206FThe Newsroom
-OL,14,     GThe world's Newsroom brings you
-OL,15,     Gglobal events as they happen.
-OL,16,G2230FBBC News Summary
-OL,17,     GThe latest two minute news
-OL,18,     Gsummary from BBC World Service.
+OL,4,G2006FThe Arts Hour
+OL,5,     GNikki is joined by critic Rhianna
+OL,6,     GDhillon and Phil Grabsky from
+OL,7,     GExhibition on Screen.
+OL,8,G2100FBBC News
+OL,9,     GThe latest five minute news
+OL,10,     Gbulletin from BBC World Service.
+OL,11,G2106FNewshour
+OL,12,     GInterviews, news and analysis of
+OL,13,     Gthe day's global events.
+OL,14,G2200FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G2206FThe Newsroom
+OL,18,     GThe world's Newsroom brings you
+OL,19,     Gglobal events as they happen.
+OL,20,G2230FBBC News Summary
+OL,21,     GThe latest two minute news
+OL,22,     Gsummary from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G2232FThis Is Africa
@@ -230,8 +233,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G2332FAssignment
@@ -257,8 +260,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24111
 SC,0011
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G0050FSporting Witness
@@ -282,8 +285,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24112
 SC,0012
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G0130FBBC News Summary
@@ -307,8 +310,8 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24113
 SC,0013
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
 OL,4,G0232FHealth Check
@@ -326,54 +329,65 @@ OL,15,     Gtheir best-known novel.
 OL,16,G0400FBBC News
 OL,17,     GThe latest five minute news
 OL,18,     Gbulletin from BBC World Service.
-OL,19,G0406FFrom Our Own Correspondent
-OL,20,     GInsight, wit and analysis from
-OL,21,     GBBC correspondents, journalists
-OL,22,     Gand writers from around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24114
 SC,0014
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
-OL,4,G0430FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G0432FTrending
-OL,8,     GSomali influencers are taking
-OL,9,     Gpart in clan-based games on
-OL,10,     GTikTok - watched by thousands and
-OL,11,     Ggenerating real cash, but the
-OL,12,     Gpower of the influencers seems to
-OL,13,     Gbe getting out of hand.
-OL,14,G0450FSporting Witness
-OL,15,     GIn 2008, Union Berlin had
-OL,16,     Gfinancial problems. The football
-OL,17,     Gteam was at risk of having to
-OL,18,     Gmove, until fans volunteered to
-OL,19,     Gtake on the stadium renovation
-OL,20,     Gwork themselves.
+OL,4,G0406FFrom Our Own Correspondent
+OL,5,     GAlong the US-Mexico border,
+OL,6,     Gmigrants and landowners chafe at
+OL,7,     Gdelays in the US immigration
+OL,8,     Gsystem. Plus: Ukraine's troops in
+OL,9,     GRussia, getting out of Gaza and
+OL,10,     GBenin's voodoo tourism.
+OL,11,G0430FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G0432FTrending
+OL,15,     GSomali influencers are taking
+OL,16,     Gpart in clan-based games on
+OL,17,     GTikTok - watched by thousands and
+OL,18,     Ggenerating real cash, but the
+OL,19,     Gpower of the influencers seems to
+OL,20,     Gbe getting out of hand.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24115
 SC,0015
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1730442661
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/15
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 2 NOV
-OL,4,G0500FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G0506FThe Newsroom
-OL,8,     GThe world's Newsroom brings you
-OL,9,     Gglobal events as they happen.
-OL,10,G0530FBBC News Summary
-OL,11,     GThe latest two minute news
-OL,12,     Gsummary from BBC World Service.
-OL,13,G0532FThe Documentary
-OL,14,     GThe dangerous and secretive work
-OL,15,     Gof the Iraqi women helping
-OL,16,     Gvictims of domestic violence.
+OL,4,G0450FSporting Witness
+OL,5,     GIn 2008, Union Berlin had
+OL,6,     Gfinancial problems. The football
+OL,7,     Gteam was at risk of having to
+OL,8,     Gmove, until fans volunteered to
+OL,9,     Gtake on the stadium renovation
+OL,10,     Gwork themselves.
+OL,11,G0500FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G0506FThe Newsroom
+OL,15,     GThe world's Newsroom brings you
+OL,16,     Gglobal events as they happen.
+OL,17,G0530FBBC News Summary
+OL,18,     GThe latest two minute news
+OL,19,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24116
+SC,0016
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1730525624
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G16/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SAT 2 NOV
+OL,4,G0532FThe Documentary
+OL,5,     GThe dangerous and secretive work
+OL,6,     Gof the Iraqi women helping
+OL,7,     Gvictims of domestic violence.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
