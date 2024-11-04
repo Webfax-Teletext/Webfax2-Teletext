@@ -1,23 +1,18 @@
 PN,20900
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1730669253
+OL,0,        ECIMSBWebfax 2   F209A1730683681
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SUN 3 NOV
-OL,4,G2100FNFL
-OL,5,     GDarren Fletcher and Greg Brady
-OL,6,     Gpresent live play-by-play
-OL,7,     Gcommentary of Detroit Lions at
-OL,8,     GGreen Bay Packers in the NFL.
-OL,9,G0100FComing Up On 5 Sports Extra
-OL,10,     GLive sport coming up on 5 Sports
-OL,11,     GExtra.
-OL,12,G0300FInternational Cricket
-OL,13,     GLive ball-by-ball commentary from
-OL,14,     GABC Grandstand of Australia v
-OL,15,     GPakistan in their 1st ODI at
-OL,16,     GMelbourne Cricket Ground.
+OL,4,G0100FComing Up On 5 Sports Extra
+OL,5,     GLive sport coming up on 5 Sports
+OL,6,     GExtra.
+OL,7,G0300FInternational Cricket
+OL,8,     GLive ball-by-ball commentary from
+OL,9,     GABC Grandstand of Australia v
+OL,10,     GPakistan in their 1st ODI at
+OL,11,     GMelbourne Cricket Ground.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
