@@ -1,23 +1,20 @@
 PN,20900
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1730826420
+OL,0,        ECIMSBWebfax 2   F209A1730833639
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for TUE 5 NOV
-OL,4,G1300FComing Up On 5 Sports Extra
-OL,5,     GLive sport coming up on 5 Sports
-OL,6,     GExtra.
-OL,7,G1905FFootball
-OL,8,     GLive football commentary from BBC
-OL,9,     GRadio Scotland of Celtic v RB
-OL,10,     GLeipzig in the Champions League.
-OL,11,G2230FComing Up On 5 Sports Extra
+OL,4,G1905FFootball
+OL,5,     GLive football commentary from BBC
+OL,6,     GRadio Scotland of Celtic v RB
+OL,7,     GLeipzig in the Champions League.
+OL,8,G2230FComing Up On 5 Sports Extra
+OL,9,     GLive sport coming up on 5 Sports
+OL,10,     GExtra.
+OL,11,G0000FComing Up On 5 Sports Extra
 OL,12,     GLive sport coming up on 5 Sports
 OL,13,     GExtra.
-OL,14,G0000FComing Up On 5 Sports Extra
-OL,15,     GLive sport coming up on 5 Sports
-OL,16,     GExtra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
