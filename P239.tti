@@ -1,8 +1,8 @@
-PN,23900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F239A1730701719
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,23901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1730781073
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for TUE 5 NOV
 OL,4,G0600FComing Up On 5 Sports Extra
@@ -16,12 +16,26 @@ OL,11,     GWomen's Big Bash League.
 OL,12,G1300FComing Up On 5 Sports Extra
 OL,13,     GLive sport coming up on 5 Sports
 OL,14,     GExtra.
-OL,15,G1800FComing Up On 5 Sports Extra
-OL,16,     GLive sport coming up on 5 Sports
-OL,17,     GExtra.
-OL,18,G0000FComing Up On 5 Sports Extra
-OL,19,     GLive sport coming up on 5 Sports
-OL,20,     GExtra.
+OL,15,G1905FFootball
+OL,16,     GLive football commentary from BBC
+OL,17,     GRadio Scotland of Celtic v RB
+OL,18,     GLeipzig in the Champions League.
+OL,19,G2230FComing Up On 5 Sports Extra
+OL,20,     GLive sport coming up on 5 Sports
+OL,21,     GExtra.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
+PN,23902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1730781073
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for TUE 5 NOV
+OL,4,G0000FComing Up On 5 Sports Extra
+OL,5,     GLive sport coming up on 5 Sports
+OL,6,     GExtra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,240,200,150,300,000,100
