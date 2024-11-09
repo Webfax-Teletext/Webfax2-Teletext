@@ -1,40 +1,24 @@
-PN,21101
-SC,0001
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1731124872
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/2
+PN,21100
+SC,0000
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1731128477
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 8 NOV
-OL,4,G0400FBBC News
+OL,4,G0500FBBC News
 OL,5,     GThe latest five minute news
 OL,6,     Gbulletin from BBC World Service.
-OL,7,G0406FUnexpected Elements
-OL,8,     GAs Russia fines Google more money
-OL,9,     Gthan there is in the entire
-OL,10,     Gworld, we take a look at
-OL,11,     Gextremely large numbers.
-OL,12,G0500FBBC News
-OL,13,     GThe latest five minute news
-OL,14,     Gbulletin from BBC World Service.
-OL,15,G0506FThe Newsroom
-OL,16,     GThe world's Newsroom brings you
-OL,17,     Gglobal events as they happen.
-OL,18,G0530FBBC News Summary
-OL,19,     GThe latest two minute news
-OL,20,     Gsummary from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,21102
-SC,0002
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1731124872
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/2
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 8 NOV
-OL,4,G0532FWorld Football
-OL,5,     GMarta is a Brazilian phenomenon
-OL,6,     Gwho has transformed women's
-OL,7,     Gfootball on and off the pitch.
-OL,8,G0550FMore or Less
-OL,9,     GWe delve into the stats on the
-OL,10,     Gscale of the fashion industry.
+OL,7,G0506FThe Newsroom
+OL,8,     GThe world's Newsroom brings you
+OL,9,     Gglobal events as they happen.
+OL,10,G0530FBBC News Summary
+OL,11,     GThe latest two minute news
+OL,12,     Gsummary from BBC World Service.
+OL,13,G0532FWorld Football
+OL,14,     GMarta is a Brazilian phenomenon
+OL,15,     Gwho has transformed women's
+OL,16,     Gfootball on and off the pitch.
+OL,17,G0550FMore or Less
+OL,18,     GWe delve into the stats on the
+OL,19,     Gscale of the fashion industry.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
