@@ -1,18 +1,18 @@
-PN,23900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F239A1731305208
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,23901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1731391752
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for TUE 12 NOV
+OL,3,CProgramme listings for WED 13 NOV
 OL,4,G0000FComing Up On 5 Sports Extra
 OL,5,     GLive sport coming up on 5 Sports
 OL,6,     GExtra.
 OL,7,G0700FWomen's Big Bash League
 OL,8,     GLive ball-by-ball commentary from
-OL,9,     GABC in Australia of Sydney
-OL,10,     GThunder v Perth Scorchers in the
-OL,11,     GWomen's Big Bash League.
+OL,9,     GABC in Australia of Hobart
+OL,10,     GHurricanes v Adelaide Strikers in
+OL,11,     Gthe Women's Big Bash League.
 OL,12,G1100FComing Up On 5 Sports Extra
 OL,13,     GLive sport coming up on 5 Sports
 OL,14,     GExtra.
@@ -22,6 +22,21 @@ OL,17,     GExtra.
 OL,18,G0000FComing Up On 5 Sports Extra
 OL,19,     GLive sport coming up on 5 Sports
 OL,20,     GExtra.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
+PN,23902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1731391752
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for WED 13 NOV
+OL,4,G0415FWomen's Big Bash League
+OL,5,     GLive ball-by-ball commentary from
+OL,6,     GABC in Australia of Sydney Sixers
+OL,7,     Gv Brisbane Heat in the Women's
+OL,8,     GBig Bash League.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,240,200,150,300,000,100
