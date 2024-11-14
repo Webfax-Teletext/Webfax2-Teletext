@@ -1,7 +1,7 @@
 PN,1fc00
 SC,0000
 PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1731557655
+OL,0,        ECIMSBWebfax 2   F1fcA1731561262
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -11,8 +11,8 @@ OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
 OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G Cims-zln   \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
-OL,10,GService: Webfax 2 - 780 1d812e9
-OL,11,FLast Update: 14/11/2024 04:14:15
+OL,10,GService: Webfax 2 - 781 3f1e322
+OL,11,FLast Update: 14/11/2024 05:14:22
 OL,12,CbbcSport/Horse%20Racing
 OL,13,Abbc_news_papers
 OL,14,Cgeneric/weather_warnings
@@ -25,6 +25,6 @@ OL,20,CitvSport/central
 OL,21,CitvSport/channel
 OL,22,Ctvroom/cleanfeed
 OL,23,CitvSport/london
-OL,24,CitvSport/meridian
-OL,25,CitvSport/tyne-tees
-OL,26,CitvSport/westcountry
+OL,24,Ctvroom/onthisday
+OL,25,CitvSport/meridian
+OL,26,CitvSport/tyne-tees
