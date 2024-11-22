@@ -1,25 +1,25 @@
 PN,20901
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1732258556
+OL,0,        ECIMSBWebfax 2   F209A1732259272
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for FRI 22 NOV
-OL,4,G0555FFormula 1
-OL,5,     GLive F1 commentary of Practice 2
-OL,6,     Gin Las Vegas.
-OL,7,G0705FInternational Cricket
-OL,8,     GLive ball-by-ball commentary from
-OL,9,     GABC Grandstand of Australia v
-OL,10,     GIndia on the 1st day of their 1st
-OL,11,     Gtest in Perth.
-OL,12,G1020FComing Up On 5 Sports Extra
+OL,4,G0705FInternational Cricket
+OL,5,     GLive ball-by-ball commentary from
+OL,6,     GABC Grandstand of Australia v
+OL,7,     GIndia on the 1st day of their 1st
+OL,8,     Gtest in Perth.
+OL,9,G1020FComing Up On 5 Sports Extra
+OL,10,     GLive sport coming up on 5 Sports
+OL,11,     GExtra.
+OL,12,G1200FComing Up On 5 Sports Extra
 OL,13,     GLive sport coming up on 5 Sports
 OL,14,     GExtra.
-OL,15,G1200FComing Up On 5 Sports Extra
+OL,15,G1800FComing Up On 5 Sports Extra
 OL,16,     GLive sport coming up on 5 Sports
 OL,17,     GExtra.
-OL,18,G1800FComing Up On 5 Sports Extra
+OL,18,G0000FComing Up On 5 Sports Extra
 OL,19,     GLive sport coming up on 5 Sports
 OL,20,     GExtra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
@@ -28,29 +28,26 @@ FL,210,200,150,300,000,100
 PN,20902
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1732258556
+OL,0,        ECIMSBWebfax 2   F209A1732259272
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for FRI 22 NOV
-OL,4,G0000FComing Up On 5 Sports Extra
-OL,5,     GLive sport coming up on 5 Sports
-OL,6,     GExtra.
-OL,7,G0200FInternational Cricket
-OL,8,     GLive ball-by-ball commentary from
-OL,9,     GABC Grandstand of Australia v
-OL,10,     GIndia on the 2nd day of their 1st
-OL,11,     Gtest in Perth.
-OL,12,G0225FFormula 1
-OL,13,     GLive F1 commentary of Practice 3
-OL,14,     Gin Las Vegas.
-OL,15,G0335FInternational Cricket
-OL,16,     GLive ball-by-ball commentary from
-OL,17,     GABC Grandstand of Australia v
-OL,18,     GIndia on the 2nd day of their 1st
-OL,19,     Gtest in Perth.
-OL,20,G0555FFormula 1
-OL,21,     GLive F1 commentary of Qualifying
-OL,22,     Gin Las Vegas.
+OL,4,G0200FInternational Cricket
+OL,5,     GLive ball-by-ball commentary from
+OL,6,     GABC Grandstand of Australia v
+OL,7,     GIndia on the 2nd day of their 1st
+OL,8,     Gtest in Perth.
+OL,9,G0225FFormula 1
+OL,10,     GLive F1 commentary of Practice 3
+OL,11,     Gin Las Vegas.
+OL,12,G0335FInternational Cricket
+OL,13,     GLive ball-by-ball commentary from
+OL,14,     GABC Grandstand of Australia v
+OL,15,     GIndia on the 2nd day of their 1st
+OL,16,     Gtest in Perth.
+OL,17,G0555FFormula 1
+OL,18,     GLive F1 commentary of Qualifying
+OL,19,     Gin Las Vegas.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
