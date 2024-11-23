@@ -1,18 +1,53 @@
-PN,20900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1732335016
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,20901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1732342231
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for FRI 22 NOV
-OL,4,G0335FInternational Cricket
-OL,5,     GLive ball-by-ball commentary from
-OL,6,     GABC Grandstand of Australia v
-OL,7,     GIndia on the 2nd day of their 1st
-OL,8,     Gtest in Perth.
-OL,9,G0555FFormula 1
-OL,10,     GLive F1 commentary of Qualifying
-OL,11,     Gin Las Vegas.
+OL,3,CProgramme listings for SAT 23 NOV
+OL,4,G0555FFormula 1
+OL,5,     GLive F1 commentary of Qualifying
+OL,6,     Gin Las Vegas.
+OL,7,G0705FInternational Cricket
+OL,8,     GLive ball-by-ball commentary from
+OL,9,     GABC Grandstand of Australia v
+OL,10,     GIndia on the 2nd day of their 1st
+OL,11,     Gtest in Perth.
+OL,12,G1020FComing Up On 5 Sports Extra
+OL,13,     GLive sport coming up on 5 Sports
+OL,14,     GExtra.
+OL,15,G1200FComing Up On 5 Sports Extra
+OL,16,     GLive sport coming up on 5 Sports
+OL,17,     GExtra.
+OL,18,G1500FRugby Union
+OL,19,     GLive rugby union commentary of
+OL,20,     GIreland v Fiji in the Autumn
+OL,21,     GInternationals.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,210,200,150,300,000,100
+PN,20902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1732342231
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for SAT 23 NOV
+OL,4,G1715FRugby Union
+OL,5,     GLive rugby union commentary of
+OL,6,     GWales v South Africa in the
+OL,7,     GAutumn Internationals.
+OL,8,G1940FComing Up On 5 Sports Extra
+OL,9,     GLive sport coming up on 5 Sports
+OL,10,     GExtra.
+OL,11,G0000FComing Up On 5 Sports Extra
+OL,12,     GLive sport coming up on 5 Sports
+OL,13,     GExtra.
+OL,14,G0200FInternational Cricket
+OL,15,     GLive ball-by-ball commentary from
+OL,16,     GABC Grandstand of Australia v
+OL,17,     GIndia on the 3rd day of their 1st
+OL,18,     Gtest in Perth.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
