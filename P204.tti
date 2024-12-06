@@ -1,77 +1,57 @@
 PN,20401
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1733523442
-OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/3
+OL,0,        ECIMSBWebfax 2   F204A1733527051
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 6 DEC
-OL,4,G2200FThe World Tonight
-OL,5,     GIn depth reporting, intelligent
-OL,6,     Ganalysis and breaking news from a
-OL,7,     Gglobal perspective.
-OL,8,G2245FOur Evenings by Alan Hollinghurst
-OL,9,     GUnrequited love at Oxford floors
-OL,10,     GDave, but leads to a long-awaited
-OL,11,     Gmoment of honesty with Mum and
-OL,12,     GEsme, in the next episode of Alan
-OL,13,     GHollinghurst's new novel.
-OL,14,G2300FAmericast
-OL,15,     GJoin the Americast team for
-OL,16,     Ginsights from across the US.
-OL,17,G2330FToday in Parliament
-OL,18,     GNews, views and features on
-OL,19,     Gtoday's stories in Parliament.
-OL,20,G0000FMidnight News
-OL,21,     GNational and international news
-OL,22,     Gfrom BBC Radio 4.
+OL,4,G2300FAmericast
+OL,5,     GJoin the Americast team for
+OL,6,     Ginsights from across the US.
+OL,7,G2330FToday in Parliament
+OL,8,     GNews, views and features on
+OL,9,     Gtoday's stories in Parliament.
+OL,10,G0000FMidnight News
+OL,11,     GNational and international news
+OL,12,     Gfrom BBC Radio 4.
+OL,13,G0030FThe Bookshop, The Draper, The
+OL,14,     FCandlestick Maker
+OL,15,     GA History of the High Street by
+OL,16,     GAnnie Gray. A journey down the
+OL,17,     Ghigh street across time with
+OL,18,     Ghistorian Annie Gray. Read by
+OL,19,     GHugh Dennis.
+OL,20,G0048FShipping Forecast
+OL,21,     GThe latest weather reports and
+OL,22,     Gforecasts for UK shipping.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
 PN,20402
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1733523442
-OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/3
+OL,0,        ECIMSBWebfax 2   F204A1733527051
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 6 DEC
-OL,4,G0030FThe Bookshop, The Draper, The
-OL,5,     FCandlestick Maker
-OL,6,     GA History of the High Street by
-OL,7,     GAnnie Gray. A journey down the
-OL,8,     Ghigh street across time with
-OL,9,     Ghistorian Annie Gray. Read by
-OL,10,     GHugh Dennis.
-OL,11,G0048FShipping Forecast
-OL,12,     GThe latest weather reports and
-OL,13,     Gforecasts for UK shipping.
-OL,14,G0100FWorld Service
-OL,15,     GBBC Radio 4 joins the BBC World
-OL,16,     GService.
-OL,17,G0520FShipping Forecast
-OL,18,     GThe latest weather reports and
-OL,19,     Gforecasts for UK shipping.
-OL,20,G0530FNews Briefing
-OL,21,     GThe latest news from BBC Radio 4.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,205,200,150,300,000,100
-PN,20403
-SC,0003
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1733523442
-OL,1,W{${$~+$ {$~{4k4h7} *u|       G3/3
-OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
-OL,3,CProgramme listings for FRI 6 DEC
-OL,4,G0543FPrayer for the Day
-OL,5,     GA spiritual comment and prayer to
-OL,6,     Gstart the day with the Revd Dr
-OL,7,     GStephen Wigley.
-OL,8,G0545FSomething to Declare
-OL,9,     GJack Boswell explores Ubuntu -
-OL,10,     Gthe South African philosophy of
-OL,11,     Gshared humanity, with insights on
-OL,12,     Gnurturing connection, compassion,
-OL,13,     Gand community in a divided world.
+OL,4,G0100FWorld Service
+OL,5,     GBBC Radio 4 joins the BBC World
+OL,6,     GService.
+OL,7,G0520FShipping Forecast
+OL,8,     GThe latest weather reports and
+OL,9,     Gforecasts for UK shipping.
+OL,10,G0530FNews Briefing
+OL,11,     GThe latest news from BBC Radio 4.
+OL,12,G0543FPrayer for the Day
+OL,13,     GA spiritual comment and prayer to
+OL,14,     Gstart the day with the Revd Dr
+OL,15,     GStephen Wigley.
+OL,16,G0545FSomething to Declare
+OL,17,     GJack Boswell explores Ubuntu -
+OL,18,     Gthe South African philosophy of
+OL,19,     Gshared humanity, with insights on
+OL,20,     Gnurturing connection, compassion,
+OL,21,     Gand community in a divided world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
