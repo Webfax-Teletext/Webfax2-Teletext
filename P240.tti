@@ -1,8 +1,8 @@
 PN,24001
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1733985176
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G1/5
+OL,0,        ECIMSBWebfax 2   F240A1734068145
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G1/6
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for FRI 13 DEC
 OL,4,G0600FAsian Network Fresh
@@ -30,8 +30,8 @@ FL,241,200,150,300,000,100
 PN,24002
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1733985176
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G2/5
+OL,0,        ECIMSBWebfax 2   F240A1734068145
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G2/6
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for FRI 13 DEC
 OL,4,G1300FAsian Network Bollywood with
@@ -57,8 +57,8 @@ FL,241,200,150,300,000,100
 PN,24003
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1733985176
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G3/5
+OL,0,        ECIMSBWebfax 2   F240A1734068145
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G3/6
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for FRI 13 DEC
 OL,4,G1700FAsian Network Certified with
@@ -83,8 +83,8 @@ FL,241,200,150,300,000,100
 PN,24004
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1733985176
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G4/5
+OL,0,        ECIMSBWebfax 2   F240A1734068145
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G4/6
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for FRI 13 DEC
 OL,4,G2100FMR.O
@@ -110,8 +110,8 @@ FL,241,200,150,300,000,100
 PN,24005
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1733985176
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G5/5
+OL,0,        ECIMSBWebfax 2   F240A1734068145
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G5/6
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for FRI 13 DEC
 OL,4,G0100FPure Spice with DJ Manara
@@ -127,10 +127,23 @@ OL,13,     Ggarage paradise. It's time to get
 OL,14,     G2-stepping and down with some
 OL,15,     Giconic garage flavours. Contains
 OL,16,     Gstrong language.
-OL,17,G0500FAnkur Desai - 60 Minutes
-OL,18,     GKeeping you up to date with the
-OL,19,     Gbiggest tracks, top stories,
-OL,20,     Gsport and entertainment news.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,241,200,150,300,000,100
+PN,24006
+SC,0006
+PS,c008
+OL,0,        ECIMSBWebfax 2   F240A1734068145
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G6/6
+OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
+OL,3,CProgramme listings for FRI 13 DEC
+OL,4,G0500FAnkur Desai - 60 Minutes
+OL,5,     GAmber has highlights from our
+OL,6,     Grecent news shows, including the
+OL,7,     Gdad and step mum found guilty of
+OL,8,     Gthe murder of ten-year-old Sara
+OL,9,     GSharif and Saudi Arabia to host
+OL,10,     G2034 World Cup.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,241,200,150,300,000,100
