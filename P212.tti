@@ -1,13 +1,47 @@
-PN,21200
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F212A1735013738
-OL,1,W jw=h7-
+PN,21201
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1735020954
+OL,1,W jw=h7-                          G1/2
 OL,2,W+,*-'"-'V(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-OL,3,CProgramme listings for MON 23 DEC
+OL,3,CProgramme listings for TUE 24 DEC
 OL,4,G0400FIan Payne
 OL,5,     GIan Payne is Leading Britain's
 OL,6,     GConversation.
+OL,7,G0700FMatthew Wright
+OL,8,     GMatthew Wright is Leading
+OL,9,     GBritain's Conversation.
+OL,10,G1000FIain Dale
+OL,11,     GIain Dale is Leading Britain's
+OL,12,     GConversation.
+OL,13,G1300FShelagh Fogarty
+OL,14,     GShelagh Fogarty is Leading
+OL,15,     GBritain's Conversation.
+OL,16,G1600FSimon Marks
+OL,17,     GSimon Marks is Leading Britain's
+OL,18,     GConversation.
+OL,19,G1900FHenry Riley
+OL,20,     GHenry Riley is Leading Britain's
+OL,21,     GConversation
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,213,200,150,300,000,100
+PN,21202
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1735020954
+OL,1,W jw=h7-                          G2/2
+OL,2,W+,*-'"-'V(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,3,CProgramme listings for TUE 24 DEC
+OL,4,G2200FNick Abbot
+OL,5,     GNick Abbot is Leading Britain's
+OL,6,     GConversation
+OL,7,G0100FClive Bull
+OL,8,     GClive Bull is Leading Britain's
+OL,9,     GConversation.
+OL,10,G0400FIan Payne
+OL,11,     GIan Payne is Leading Britain's
+OL,12,     GConversation.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,213,200,150,300,000,100
