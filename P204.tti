@@ -1,21 +1,308 @@
-PN,20400
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1735710049
-OL,1,W{${$~+$ {$~{4k4h7} *u|
+PN,20401
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/12
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
-OL,3,CProgramme listings for TUE 31 DEC
-OL,4,G0530FNews Briefing
-OL,5,     GThe latest news from BBC Radio 4.
-OL,6,G0543FPrayer for the Day
-OL,7,     GA spiritual comment and prayer to
-OL,8,     Gstart the day with Krish Kandiah.
-OL,9,G0545FFarming Today
-OL,10,     GNancy Nicolson meets the crofters
-OL,11,     Gwho live and work in the ancient
-OL,12,     GNeolithic landscape of the
-OL,13,     GCalanais Standing Stones on the
-OL,14,     GIsle of Lewis.
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G0600FAir Ambulance
+OL,5,     GEvery second counts as the Air
+OL,6,     GAmbulance crew try to save a life.
+OL,7,G0645FRaising Hare by Chloe Dalton
+OL,8,     GChloe Dalton's memoir of learning
+OL,9,     Gto care for an abandoned leveret
+OL,10,     G- and how the bond that grows
+OL,11,     Gbetween them changes her
+OL,12,     Gperspective on life. Read by Lisa
+OL,13,     GFaulkner.
+OL,14,G0700FToday
+OL,15,     GNews and current affairs,
+OL,16,     Gincluding Sports Desk, Weather
+OL,17,     Gand Thought for the Day.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20402
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G0900FThe Shipping Forecast: A
+OL,5,     FBeginner's Guide
+OL,6,     GAs Radio 4 marks one hundred
+OL,7,     Gyears of the Shipping Forecast on
+OL,8,     Gthe BBC, Paddy O'Connell guides
+OL,9,     Gus through the history and
+OL,10,     Gmeaning of 'The Ships'.
+OL,11,G0930FThe Shipping Forecast: Soul Music
+OL,12,     GPersonal stories about Sailing By
+OL,13,     Gby Ronald Binge, which was chosen
+OL,14,     Gby the BBC as the musical
+OL,15,     Ginterlude to be played every
+OL,16,     Gnight before the Shipping
+OL,17,     GForecast.
+OL,18,G1000FWoman's Hour
+OL,19,     GNuala McGovern dons her walking
+OL,20,     Gboots and steps out for her first
+OL,21,     Gwalk of 2025.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20403
+SC,0003
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G3/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G1100FThe Shipping Postcards
+OL,5,     GMembers of the Radio 4 Continuity
+OL,6,     Gteam, the voices of the Shipping
+OL,7,     GForecast, travel to some of the
+OL,8,     Gareas described in the forecast:
+OL,9,     GLundy, Dogger, Forth, Irish Sea,
+OL,10,     GWight.
+OL,11,G1200FNews Summary
+OL,12,     GThe latest national and
+OL,13,     Ginternational news from BBC Radio
+OL,14,     G4.
+OL,15,G1203FShipping Forecast
+OL,16,     GThe latest weather reports and
+OL,17,     Gforecasts for UK shipping.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20404
+SC,0004
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G4/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G1212FThe Shipping Postcards
+OL,5,     GMembers of the Radio 4 Continuity
+OL,6,     Gteam, the voices of the Shipping
+OL,7,     GForecast, travel to some of the
+OL,8,     Gareas described in the forecast:
+OL,9,     GLundy, Dogger, Forth, Irish Sea,
+OL,10,     GWight.
+OL,11,G1257FWeather Forecast
+OL,12,     GThe latest weather forecast.
+OL,13,G1300FWorld at One
+OL,14,     GForty-five minutes of news,
+OL,15,     Ganalysis and comment.
+OL,16,G1345FMy Poetry and Other Animals
+OL,17,     GThe Poet Laureate Simon Armitage
+OL,18,     Glooks for trout with Feargal
+OL,19,     GSharkey.
+OL,20,G1400FThe Archers
+OL,21,     GRex looks to the future, and it's
+OL,22,     Gan unexpected evening for Hannah.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20405
+SC,0005
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G5/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G1415FSolomon Browne
+OL,5,     GForty years after the Penlee
+OL,6,     Glifeboat disaster, a poetic,
+OL,7,     Gdrama-documentary, weaving
+OL,8,     Gtogether monologue, recorded
+OL,9,     Gtestimonies and the genuine radio
+OL,10,     Gcommunications from the disaster.
+OL,11,G1500FThe Shipping Forecast: A Haven
+OL,12,     GIt's the most intimate moment of
+OL,13,     Gthe Radio 4 schedule: The late-
+OL,14,     Gnight Shipping Forecast, read
+OL,15,     Gevery night at 00:48. But who is
+OL,16,     Greally listening along, and why?
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20406
+SC,0006
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G6/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G1530FThe Shipping Forecast: Poetry
+OL,5,     FPlease
+OL,6,     GIn celebration of 100 years of
+OL,7,     Gthe Shipping Forecast on our
+OL,8,     Gairwaves, Roger McGough is joined
+OL,9,     Gby Paul Farley to share the poems
+OL,10,     Git has inspired.
+OL,11,G1600FThe Media Show
+OL,12,     GWhen it Hits the Fan's David
+OL,13,     GYelland and Simon Lewis on the
+OL,14,     Gchanging face of PR.
+OL,15,G1700FPM
+OL,16,     GAfternoon news and current
+OL,17,     Gaffairs programme, reporting on
+OL,18,     Gbreaking stories and summing up
+OL,19,     Gthe day's headlines.
+OL,20,G1800FSix O'Clock News
+OL,21,     GNational and international news
+OL,22,     Gfrom BBC Radio 4.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20407
+SC,0007
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G7/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G1815FMy Shipping Forecast
+OL,5,     GLeading fans of radio explain
+OL,6,     Gwhat the Shipping Forecast means
+OL,7,     Gto them - and take the chance to
+OL,8,     Gfinally read it on air.
+OL,9,G1830FReincarNathan
+OL,10,     GNathan Blakely was a popstar, but
+OL,11,     Ghe died and was reincarnated - as
+OL,12,     Ga wolf. Starring Daniel Rigby,
+OL,13,     GAshley McGuire, guest-starring
+OL,14,     GFreya Parker, Hammed Animashaun
+OL,15,     Gand Mike Wozniak.
+OL,16,G1900FThe Archers
+OL,17,     GKirsty makes a controversial
+OL,18,     Gmove, and Neil opens up about his
+OL,19,     Gpast.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20408
+SC,0008
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G8/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G1915FFront Row
+OL,5,     GSamira Ahmed presents a special
+OL,6,     Gedition of the arts programme,
+OL,7,     Gwith an audience, at the Cutty
+OL,8,     GSark, exploring how the Shipping
+OL,9,     GForecast inspires musicians,
+OL,10,     Gwriters and artists.
+OL,11,G2000FThe Shipping Forecast: Shipshaped
+OL,12,     GHistorian Jerry Brotton explores
+OL,13,     Ghow Britain's maritime heritage
+OL,14,     Ghas shaped us, even now the
+OL,15,     Gsailing ships have gone.
+OL,16,G2100FThe Life Scientific
+OL,17,     GProfessor Jim Al-Khalili talks to
+OL,18,     GTim Peake about his route to
+OL,19,     Gbecoming the first British ESA
+OL,20,     Gastronaut and why conducting
+OL,21,     Gscientific experiments in space
+OL,22,     Gis so important.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20409
+SC,0009
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G9/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G2130FAll in the Mind
+OL,5,     GClaudia Hammond and an expert
+OL,6,     Gpanel of psychologists look to
+OL,7,     Gthe future and discuss how mental
+OL,8,     Gtime travel helps and hinders.
+OL,9,G2200FThe World Tonight
+OL,10,     GIn depth reporting, intelligent
+OL,11,     Ganalysis and breaking news from a
+OL,12,     Gglobal perspective.
+OL,13,G2245FSeaborne by Nuala O'Connor
+OL,14,     GAnne must decide whether her fate
+OL,15,     Gis to be the wife of a plantation
+OL,16,     Gowner or if she will take her
+OL,17,     Gchances with a self-styled pirate.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20410
+SC,0010
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|      G10/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G2300FThe Shipping Forecast: Sea Like a
+OL,5,     FMirror
+OL,6,     GAn atmospheric gathering storm of
+OL,7,     Ga documentary exploring the
+OL,8,     Gextraordinary history of the
+OL,9,     GBeaufort Scale - a system
+OL,10,     Gdesigned to help find language
+OL,11,     Gfor the wind.
+OL,12,G2330FThe Shipping Forecast: Soul Music
+OL,13,     GPersonal stories about Sailing By
+OL,14,     Gby Ronald Binge, which was chosen
+OL,15,     Gby the BBC as the musical
+OL,16,     Ginterlude to be played every
+OL,17,     Gnight before the Shipping
+OL,18,     GForecast.
+OL,19,G0000FMidnight News
+OL,20,     GNational and international news
+OL,21,     Gfrom BBC Radio 4.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20411
+SC,0011
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|      G11/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G0015FThe Shipping Forecast: A Haven
+OL,5,     GIt's the most intimate moment of
+OL,6,     Gthe Radio 4 schedule: The late-
+OL,7,     Gnight Shipping Forecast, read
+OL,8,     Gevery night at 00:48. But who is
+OL,9,     Greally listening along, and why?
+OL,10,G0048FShipping Forecast
+OL,11,     GThe latest weather reports and
+OL,12,     Gforecasts for UK shipping.
+OL,13,G0100FWorld Service
+OL,14,     GBBC Radio 4 joins the BBC World
+OL,15,     GService.
+OL,16,G0520FShipping Forecast
+OL,17,     GThe latest weather reports and
+OL,18,     Gforecasts for UK shipping.
+OL,19,G0530FNews Briefing
+OL,20,     GThe latest news from BBC Radio 4.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20412
+SC,0012
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1735713655
+OL,1,W{${$~+$ {$~{4k4h7} *u|      G12/12
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 1 JAN
+OL,4,G0543FPrayer for the Day
+OL,5,     GA spiritual comment and prayer to
+OL,6,     Gstart the day with Krish Kandiah.
+OL,7,G0545FFarming Today
+OL,8,     GDoing away with chemical cleaners
+OL,9,     Gin dairies and using electricity
+OL,10,     Gand oxygen instead.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
