@@ -1,7 +1,7 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -27,7 +27,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -50,7 +50,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -65,9 +65,9 @@ OL,11,G1000FBBC News
 OL,12,     GThe latest five minute news
 OL,13,     Gbulletin from BBC World Service.
 OL,14,G1006FSportshour
-OL,15,     GLive Saturday morning global
-OL,16,     Gsports show with reports, debate
-OL,17,     Gand humour.
+OL,15,     GFind out why the NBA star was
+OL,16,     Gplaying chess with fans in a New
+OL,17,     GYork park.
 OL,18,G1100FBBC News
 OL,19,     GThe latest five minute news
 OL,20,     Gbulletin from BBC World Service.
@@ -75,7 +75,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -93,65 +93,68 @@ OL,14,G1200FBBC News
 OL,15,     GThe latest five minute news
 OL,16,     Gbulletin from BBC World Service.
 OL,17,G1206FWorld Book Club
-OL,18,     GThe world's great authors discuss
-OL,19,     Gtheir best-known novel.
-OL,20,G1300FBBC News
-OL,21,     GThe latest five minute news
-OL,22,     Gbulletin from BBC World Service.
+OL,18,     GHarriett Gilbert is joined by one
+OL,19,     Gof Scandinavia's most successful
+OL,20,     Gcrime writers, Anne Holt, for a
+OL,21,     Gspecial programme from
+OL,22,     GLitteraturhuset in Oslo.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
-OL,4,G1306FNewshour
-OL,5,     GInterviews, news and analysis of
-OL,6,     Gthe day's global events.
-OL,7,G1400FBBC News
-OL,8,     GThe latest five minute news
-OL,9,     Gbulletin from BBC World Service.
-OL,10,G1406FSportsworld
-OL,11,     GLive sport from around the world
-OL,12,     Gwith news, interviews and
-OL,13,     Ganalysis.
-OL,14,G1800FBBC News
-OL,15,     GThe latest five minute news
-OL,16,     Gbulletin from BBC World Service.
-OL,17,G1806FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G1830FBBC News Summary
-OL,21,     GThe latest two minute news
-OL,22,     Gsummary from BBC World Service.
+OL,4,G1300FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G1306FNewshour
+OL,8,     GInterviews, news and analysis of
+OL,9,     Gthe day's global events.
+OL,10,G1400FBBC News
+OL,11,     GThe latest five minute news
+OL,12,     Gbulletin from BBC World Service.
+OL,13,G1406FSportsworld
+OL,14,     GLive sport from around the world
+OL,15,     Gwith news, interviews and
+OL,16,     Ganalysis.
+OL,17,G1800FBBC News
+OL,18,     GThe latest five minute news
+OL,19,     Gbulletin from BBC World Service.
+OL,20,G1806FThe Newsroom
+OL,21,     GThe world's Newsroom brings you
+OL,22,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
-OL,4,G1832FAmazing Sport Stories
-OL,5,     GA young woman finds herself at
-OL,6,     Gthe heart of one of English
-OL,7,     Gfootball's most infamous teams.
-OL,8,G1850FSporting Witness
-OL,9,     GIn 1987, Libyan dictator Colonel
-OL,10,     GGaddafi paid the struggling
-OL,11,     GGerman ice hockey team ECD
-OL,12,     GIserlohn a million dollars to
-OL,13,     Gwear an image of his infamous
-OL,14,     GGreen Book on their kits.
-OL,15,G1900FBBC News
-OL,16,     GThe latest five minute news
-OL,17,     Gbulletin from BBC World Service.
+OL,4,G1830FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G1832FAmazing Sport Stories
+OL,8,     GA young woman finds herself at
+OL,9,     Gthe heart of one of English
+OL,10,     Gfootball's most infamous teams.
+OL,11,G1850FSporting Witness
+OL,12,     GIn 1987, Libyan dictator Colonel
+OL,13,     GGaddafi paid the struggling
+OL,14,     GGerman ice hockey team ECD
+OL,15,     GIserlohn a million dollars to
+OL,16,     Gwear an image of his infamous
+OL,17,     GGreen Book on their kits.
+OL,18,G1900FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -174,7 +177,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -201,7 +204,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -226,7 +229,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -250,7 +253,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24111
 SC,0011
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -272,7 +275,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24112
 SC,0012
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -297,7 +300,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24113
 SC,0013
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
@@ -315,71 +318,78 @@ OL,14,G0300FBBC News
 OL,15,     GThe latest five minute news
 OL,16,     Gbulletin from BBC World Service.
 OL,17,G0306FWorld Book Club
-OL,18,     GThe world's great authors discuss
-OL,19,     Gtheir best-known novel.
-OL,20,G0400FBBC News
-OL,21,     GThe latest five minute news
-OL,22,     Gbulletin from BBC World Service.
+OL,18,     GHarriett Gilbert is joined by one
+OL,19,     Gof Scandinavia's most successful
+OL,20,     Gcrime writers, Anne Holt, for a
+OL,21,     Gspecial programme from
+OL,22,     GLitteraturhuset in Oslo.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24114
 SC,0014
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
-OL,4,G0406FFrom Our Own Correspondent
-OL,5,     GInsight, wit and analysis from
-OL,6,     GBBC correspondents, journalists
-OL,7,     Gand writers from around the world.
-OL,8,G0430FBBC News Summary
-OL,9,     GThe latest two minute news
-OL,10,     Gsummary from BBC World Service.
-OL,11,G0432FTrending
-OL,12,     GBBC Trending investigates
-OL,13,     Gconspiracy theories around
-OL,14,     GValencia's floods. Why are people
-OL,15,     Gblaming a scientific programme
-OL,16,     Gcalled HAARP for natural
-OL,17,     Gdisasters fuelled by climate
-OL,18,     Gchange?
+OL,4,G0400FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G0406FFrom Our Own Correspondent
+OL,8,     GTrade wars, drug wars,
+OL,9,     Gdeporation, tariffs: Claudia
+OL,10,     GSheinbaum has much to deal with.
+OL,11,     GPlus: fifty years of war in
+OL,12,     GLebanon - and a personal
+OL,13,     Grevelation on the slopes of
+OL,14,     GKilimanjaro.
+OL,15,G0430FBBC News Summary
+OL,16,     GThe latest two minute news
+OL,17,     Gsummary from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24115
 SC,0015
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
-OL,4,G0450FSporting Witness
-OL,5,     GIn 1987, Libyan dictator Colonel
-OL,6,     GGaddafi paid the struggling
-OL,7,     GGerman ice hockey team ECD
-OL,8,     GIserlohn a million dollars to
-OL,9,     Gwear an image of his infamous
-OL,10,     GGreen Book on their kits.
-OL,11,G0500FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G0506FThe Newsroom
-OL,15,     GThe world's Newsroom brings you
-OL,16,     Gglobal events as they happen.
-OL,17,G0530FBBC News Summary
-OL,18,     GThe latest two minute news
-OL,19,     Gsummary from BBC World Service.
+OL,4,G0432FTrending
+OL,5,     GBBC Trending investigates
+OL,6,     Gconspiracy theories around
+OL,7,     GValencia's floods. Why are people
+OL,8,     Gblaming a scientific programme
+OL,9,     Gcalled HAARP for natural
+OL,10,     Gdisasters fuelled by climate
+OL,11,     Gchange?
+OL,12,G0450FSporting Witness
+OL,13,     GIn 1987, Libyan dictator Colonel
+OL,14,     GGaddafi paid the struggling
+OL,15,     GGerman ice hockey team ECD
+OL,16,     GIserlohn a million dollars to
+OL,17,     Gwear an image of his infamous
+OL,18,     GGreen Book on their kits.
+OL,19,G0500FBBC News
+OL,20,     GThe latest five minute news
+OL,21,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24116
 SC,0016
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1735886733
+OL,0,        ECIMSBWebfax 2   F241A1735966070
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G16/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 4 JAN
-OL,4,G0532FThe Documentary
-OL,5,     GThe cani di quartiere, or dogs of
-OL,6,     Gthe neighbourhood, roam freely on
-OL,7,     Gthe streets of Palermo, as a much-
-OL,8,     Gloved part of the city's everyday
-OL,9,     Glife. But their numbers are
-OL,10,     Gdwindling.
+OL,4,G0506FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G0530FBBC News Summary
+OL,8,     GThe latest two minute news
+OL,9,     Gsummary from BBC World Service.
+OL,10,G0532FThe Documentary
+OL,11,     GThe cani di quartiere, or dogs of
+OL,12,     Gthe neighbourhood, roam freely on
+OL,13,     Gthe streets of Palermo, as a much-
+OL,14,     Gloved part of the city's everyday
+OL,15,     Glife. But their numbers are
+OL,16,     Gdwindling.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
