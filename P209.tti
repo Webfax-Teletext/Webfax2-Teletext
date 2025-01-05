@@ -1,23 +1,20 @@
 PN,20900
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1736099536
+OL,0,        ECIMSBWebfax 2   F209A1736113966
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SUN 5 JAN
-OL,4,G1700FComing Up On 5 Sports Extra
-OL,5,     GLive sport coming up on 5 Sports
-OL,6,     GExtra.
-OL,7,G2100FNFL
-OL,8,     GSteffan Powell and Greg Brady
-OL,9,     Gpresent live play-by-play
-OL,10,     Gcommentary of Miami Dolphins at
-OL,11,     GNew York Jets in the NFL.
-OL,12,G0100FInternational Cricket
-OL,13,     GLive ball-by-ball commentary from
-OL,14,     GABC in Australia of Australia v
-OL,15,     GIndia on the 4th day of the 5th
-OL,16,     Gtest in Sydney.
+OL,4,G2100FNFL
+OL,5,     GSteffan Powell and Greg Brady
+OL,6,     Gpresent live play-by-play
+OL,7,     Gcommentary of Miami Dolphins at
+OL,8,     GNew York Jets in the NFL.
+OL,9,G0100FInternational Cricket
+OL,10,     GLive ball-by-ball commentary from
+OL,11,     GABC in Australia of Australia v
+OL,12,     GIndia on the 4th day of the 5th
+OL,13,     Gtest in Sydney.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
