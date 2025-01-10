@@ -1,26 +1,26 @@
 PN,20901
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1736489126
+OL,0,        ECIMSBWebfax 2   F209A1736496343
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for FRI 10 JAN
-OL,4,G0600FComing Up On 5 Sports Extra
-OL,5,     GLive sport coming up on 5 Sports
-OL,6,     GExtra.
-OL,7,G0800FBig Bash League
-OL,8,     GLive ball-by-ball commentary from
-OL,9,     GABC in Australia of Hobart
-OL,10,     GHurricanes v Sydney Thunder in
-OL,11,     Gthe Big Bash League.
-OL,12,G1200FComing Up On 5 Sports Extra
-OL,13,     GLive sport coming up on 5 Sports
-OL,14,     GExtra.
-OL,15,G1930FFootball
-OL,16,     GLive football commentary of
-OL,17,     GWycombe Wanderers v Portsmouth in
-OL,18,     Gthe FA Cup 3rd round.
-OL,19,G2230FComing Up On 5 Sports Extra
+OL,4,G0800FBig Bash League
+OL,5,     GLive ball-by-ball commentary from
+OL,6,     GABC in Australia of Hobart
+OL,7,     GHurricanes v Sydney Thunder in
+OL,8,     Gthe Big Bash League.
+OL,9,G1200FComing Up On 5 Sports Extra
+OL,10,     GLive sport coming up on 5 Sports
+OL,11,     GExtra.
+OL,12,G1930FFootball
+OL,13,     GLive football commentary of
+OL,14,     GWycombe Wanderers v Portsmouth in
+OL,15,     Gthe FA Cup 3rd round.
+OL,16,G2230FComing Up On 5 Sports Extra
+OL,17,     GLive sport coming up on 5 Sports
+OL,18,     GExtra.
+OL,19,G0000FComing Up On 5 Sports Extra
 OL,20,     GLive sport coming up on 5 Sports
 OL,21,     GExtra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
@@ -29,18 +29,15 @@ FL,210,200,150,300,000,100
 PN,20902
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1736489126
+OL,0,        ECIMSBWebfax 2   F209A1736496343
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for FRI 10 JAN
-OL,4,G0000FComing Up On 5 Sports Extra
-OL,5,     GLive sport coming up on 5 Sports
-OL,6,     GExtra.
-OL,7,G0530FBig Bash League
-OL,8,     GLive ball-by-ball commentary from
-OL,9,     GABC in Australia of Sydney Sixers
-OL,10,     Gv Perth Scorchers in the Big Bash
-OL,11,     GLeague.
+OL,4,G0530FBig Bash League
+OL,5,     GLive ball-by-ball commentary from
+OL,6,     GABC in Australia of Sydney Sixers
+OL,7,     Gv Perth Scorchers in the Big Bash
+OL,8,     GLeague.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
