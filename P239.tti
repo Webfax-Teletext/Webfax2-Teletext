@@ -1,10 +1,10 @@
-PN,23900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F239A1736864723
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,23901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1736922461
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for WED 15 JAN
+OL,3,CProgramme listings for THU 16 JAN
 OL,4,G0600FComing Up On 5 Sports Extra
 OL,5,     GLive sport coming up on 5 Sports
 OL,6,     GExtra.
@@ -16,14 +16,26 @@ OL,11,     GLive sport coming up on 5 Sports
 OL,12,     GExtra.
 OL,13,G1925FFootball
 OL,14,     GLive football commentary of
-OL,15,     GEverton v Aston Villa in the
+OL,15,     GIpswich Town v Brighton in the
 OL,16,     GPremier League.
 OL,17,G2130FComing Up On 5 Sports Extra
 OL,18,     GLive sport coming up on 5 Sports
 OL,19,     GExtra.
-OL,20,G0000FComing Up On 5 Sports Extra
-OL,21,     GLive sport coming up on 5 Sports
-OL,22,     GExtra.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
+PN,23902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1736922461
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for THU 16 JAN
+OL,4,G2245FCricket
+OL,5,     GLive ball-by-ball commentary of
+OL,6,     GAustralia v England in the 3rd
+OL,7,     GODI of the Women's Ashes in
+OL,8,     GHobart.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,240,200,150,300,000,100
