@@ -1,132 +1,116 @@
 PN,21101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737066787
+OL,0,        ECIMSBWebfax 2   F211A1737070394
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 16 JAN
-OL,4,G2232FWorld Business Report
-OL,5,     GThe latest business and finance
-OL,6,     Gnews from around the world, on
-OL,7,     Gthe BBC.
-OL,8,G2300FBBC News
-OL,9,     GThe latest five minute news
-OL,10,     Gbulletin from BBC World Service.
-OL,11,G2306FThe Inquiry
-OL,12,     GDrinks with toxic ingredients
-OL,13,     Ghave been linked to deaths and
-OL,14,     Gpoisonings around the world. How
-OL,15,     Gharmful is illicit alcohol for
-OL,16,     Gconsumers?
-OL,17,G2330FBBC News Summary
-OL,18,     GThe latest two minute news
-OL,19,     Gsummary from BBC World Service.
-OL,20,G2332FThe Food Chain
-OL,21,     GThis staple grain is impacted by
-OL,22,     Gand contributes to climate change.
+OL,4,G2332FThe Food Chain
+OL,5,     GThis staple grain is impacted by
+OL,6,     Gand contributes to climate change.
+OL,7,G0000FBBC News
+OL,8,     GThe latest five minute news
+OL,9,     Gbulletin from BBC World Service.
+OL,10,G0006FThe Explanation
+OL,11,     GJournalists discuss the perils of
+OL,12,     Gcovering the LA wildfires. And
+OL,13,     Ghow AI has recreated Sir Michael
+OL,14,     GParkinson for a new interview
+OL,15,     Gpodcast.
+OL,16,G0030FBBC News Summary
+OL,17,     GThe latest two minute news
+OL,18,     Gsummary from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737066787
+OL,0,        ECIMSBWebfax 2   F211A1737070394
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 16 JAN
-OL,4,G0000FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G0006FThe Explanation
-OL,8,     GJournalists discuss the perils of
-OL,9,     Gcovering the LA wildfires. And
-OL,10,     Ghow AI has recreated Sir Michael
-OL,11,     GParkinson for a new interview
-OL,12,     Gpodcast.
-OL,13,G0030FBBC News Summary
-OL,14,     GThe latest two minute news
-OL,15,     Gsummary from BBC World Service.
-OL,16,G0032FHappy News
-OL,17,     GWe meet a Texas woman whose
-OL,18,     Gdonated breastmilk helped 350,000
-OL,19,     Gbabies. Also, surviving 13 days
-OL,20,     Galone in Australia's mountains;
-OL,21,     Gand asking for friends to end
-OL,22,     Gloneliness.
+OL,4,G0032FHappy News
+OL,5,     GWe meet a Texas woman whose
+OL,6,     Gdonated breastmilk helped 350,000
+OL,7,     Gbabies. Also, surviving 13 days
+OL,8,     Galone in Australia's mountains;
+OL,9,     Gand asking for friends to end
+OL,10,     Gloneliness.
+OL,11,G0100FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G0106FBusiness Matters
+OL,15,     GGlobal business news, with live
+OL,16,     Gguests and contributions from
+OL,17,     GAsia and the USA.
+OL,18,G0200FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737066787
+OL,0,        ECIMSBWebfax 2   F211A1737070394
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 16 JAN
-OL,4,G0100FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G0106FBusiness Matters
-OL,8,     GGlobal business news, with live
-OL,9,     Gguests and contributions from
-OL,10,     GAsia and the USA.
-OL,11,G0200FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G0206FThe Newsroom
-OL,15,     GThe world's Newsroom brings you
-OL,16,     Gglobal events as they happen.
-OL,17,G0230FBBC News Summary
-OL,18,     GThe latest two minute news
-OL,19,     Gsummary from BBC World Service.
+OL,4,G0206FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G0230FBBC News Summary
+OL,8,     GThe latest two minute news
+OL,9,     Gsummary from BBC World Service.
+OL,10,G0232FTech Life
+OL,11,     GIn this edition we discuss ways
+OL,12,     Gof checking facts on social
+OL,13,     Gmedia. This is after Meta boss
+OL,14,     GMark Zuckerberg announced
+OL,15,     GFacebook and Instagram will
+OL,16,     Gchange the way facts are checked.
+OL,17,G0300FBBC News
+OL,18,     GThe latest five minute news
+OL,19,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737066787
+OL,0,        ECIMSBWebfax 2   F211A1737070394
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 16 JAN
-OL,4,G0232FTech Life
-OL,5,     GIn this edition we discuss ways
-OL,6,     Gof checking facts on social
-OL,7,     Gmedia. This is after Meta boss
-OL,8,     GMark Zuckerberg announced
-OL,9,     GFacebook and Instagram will
-OL,10,     Gchange the way facts are checked.
-OL,11,G0300FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G0306FOutlook
-OL,15,     GTrue stories of ordinary people
-OL,16,     Gand the extraordinary events that
-OL,17,     Ghave shaped their lives.
-OL,18,G0350FWitness History
-OL,19,     GIn 1980, Australian author Thomas
-OL,20,     GKeneally stumbled across the
-OL,21,     Gstory of Oskar Schindler while
-OL,22,     Gbuying a briefcase in the USA.
+OL,4,G0306FOutlook
+OL,5,     GTrue stories of ordinary people
+OL,6,     Gand the extraordinary events that
+OL,7,     Ghave shaped their lives.
+OL,8,G0350FWitness History
+OL,9,     GIn 1980, Australian author Thomas
+OL,10,     GKeneally stumbled across the
+OL,11,     Gstory of Oskar Schindler while
+OL,12,     Gbuying a briefcase in the USA.
+OL,13,G0400FBBC News
+OL,14,     GThe latest five minute news
+OL,15,     Gbulletin from BBC World Service.
+OL,16,G0406FThe Newsroom
+OL,17,     GThe world's Newsroom brings you
+OL,18,     Gglobal events as they happen.
+OL,19,G0430FBBC News Summary
+OL,20,     GThe latest two minute news
+OL,21,     Gsummary from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737066787
+OL,0,        ECIMSBWebfax 2   F211A1737070394
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 16 JAN
-OL,4,G0400FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G0406FThe Newsroom
-OL,8,     GThe world's Newsroom brings you
-OL,9,     Gglobal events as they happen.
-OL,10,G0430FBBC News Summary
-OL,11,     GThe latest two minute news
-OL,12,     Gsummary from BBC World Service.
-OL,13,G0432FHeart and Soul
-OL,14,     GMichael Goldfarb explores
-OL,15,     GKaddish, the Jewish prayer for
-OL,16,     Gmourning the dead.
-OL,17,G0500FBBC News
-OL,18,     GThe latest five minute news
-OL,19,     Gbulletin from BBC World Service.
-OL,20,G0506FNewsday
-OL,21,     GLive news, business and sport
-OL,22,     Gfrom around the world.
+OL,4,G0432FHeart and Soul
+OL,5,     GMichael Goldfarb explores
+OL,6,     GKaddish, the Jewish prayer for
+OL,7,     Gmourning the dead.
+OL,8,G0500FBBC News
+OL,9,     GThe latest five minute news
+OL,10,     Gbulletin from BBC World Service.
+OL,11,G0506FNewsday
+OL,12,     GLive news, business and sport
+OL,13,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
