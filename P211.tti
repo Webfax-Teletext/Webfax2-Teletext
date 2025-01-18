@@ -1,90 +1,76 @@
 PN,21101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737160595
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/4
+OL,0,        ECIMSBWebfax 2   F211A1737164202
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/3
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 17 JAN
-OL,4,G0006FUnexpected Elements
-OL,5,     GThe news you know, the science
-OL,6,     Gyou don't.
-OL,7,G0100FBBC News
-OL,8,     GThe latest five minute news
-OL,9,     Gbulletin from BBC World Service.
-OL,10,G0106FBusiness Matters
-OL,11,     GGlobal business news, with live
-OL,12,     Gguests and contributions from
-OL,13,     GAsia and the USA.
-OL,14,G0200FBBC News
-OL,15,     GThe latest five minute news
-OL,16,     Gbulletin from BBC World Service.
-OL,17,G0206FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G0230FBBC News Summary
-OL,21,     GThe latest two minute news
-OL,22,     Gsummary from BBC World Service.
+OL,4,G0106FBusiness Matters
+OL,5,     GGlobal business news, with live
+OL,6,     Gguests and contributions from
+OL,7,     GAsia and the USA.
+OL,8,G0200FBBC News
+OL,9,     GThe latest five minute news
+OL,10,     Gbulletin from BBC World Service.
+OL,11,G0206FThe Newsroom
+OL,12,     GThe world's Newsroom brings you
+OL,13,     Gglobal events as they happen.
+OL,14,G0230FBBC News Summary
+OL,15,     GThe latest two minute news
+OL,16,     Gsummary from BBC World Service.
+OL,17,G0232FStumped
+OL,18,     GThe Stumped team discuss whether
+OL,19,     Gboycotts work.
+OL,20,G0300FBBC News
+OL,21,     GThe latest five minute news
+OL,22,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737160595
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/4
+OL,0,        ECIMSBWebfax 2   F211A1737164202
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/3
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 17 JAN
-OL,4,G0232FStumped
-OL,5,     GThe Stumped team discuss whether
-OL,6,     Gboycotts work.
-OL,7,G0300FBBC News
-OL,8,     GThe latest five minute news
-OL,9,     Gbulletin from BBC World Service.
-OL,10,G0306FOutlook
-OL,11,     GTrue stories of ordinary people
-OL,12,     Gand the extraordinary events that
-OL,13,     Ghave shaped their lives.
-OL,14,G0350FWitness History
-OL,15,     GIn 1951, the first edition of
-OL,16,     GDrum was published in South
-OL,17,     GAfrica. It was considered to be
-OL,18,     Gthe first African lifestyle
-OL,19,     Gmagazine with a readership of
-OL,20,     G40,000 in its heyday.
+OL,4,G0306FOutlook
+OL,5,     GTrue stories of ordinary people
+OL,6,     Gand the extraordinary events that
+OL,7,     Ghave shaped their lives.
+OL,8,G0350FWitness History
+OL,9,     GIn 1951, the first edition of
+OL,10,     GDrum was published in South
+OL,11,     GAfrica. It was considered to be
+OL,12,     Gthe first African lifestyle
+OL,13,     Gmagazine with a readership of
+OL,14,     G40,000 in its heyday.
+OL,15,G0400FBBC News
+OL,16,     GThe latest five minute news
+OL,17,     Gbulletin from BBC World Service.
+OL,18,G0406FUnexpected Elements
+OL,19,     GThe news you know, the science
+OL,20,     Gyou don't.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737160595
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/4
+OL,0,        ECIMSBWebfax 2   F211A1737164202
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/3
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 17 JAN
-OL,4,G0400FBBC News
+OL,4,G0500FBBC News
 OL,5,     GThe latest five minute news
 OL,6,     Gbulletin from BBC World Service.
-OL,7,G0406FUnexpected Elements
-OL,8,     GThe news you know, the science
-OL,9,     Gyou don't.
-OL,10,G0500FBBC News
-OL,11,     GThe latest five minute news
-OL,12,     Gbulletin from BBC World Service.
-OL,13,G0506FThe Newsroom
-OL,14,     GThe world's Newsroom brings you
-OL,15,     Gglobal events as they happen.
-OL,16,G0530FBBC News Summary
-OL,17,     GThe latest two minute news
-OL,18,     Gsummary from BBC World Service.
-OL,19,G0532FAmazing Sport Stories
-OL,20,     GBobbi Gibb's battle to give women
-OL,21,     Gthe right to run marathons.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,21104
-SC,0004
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1737160595
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/4
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 17 JAN
-OL,4,G0550FMore or Less
-OL,5,     GTim Harford explains the numbers
-OL,6,     Gand statistics in the news and in
-OL,7,     Glife.
+OL,7,G0506FThe Newsroom
+OL,8,     GThe world's Newsroom brings you
+OL,9,     Gglobal events as they happen.
+OL,10,G0530FBBC News Summary
+OL,11,     GThe latest two minute news
+OL,12,     Gsummary from BBC World Service.
+OL,13,G0532FAmazing Sport Stories
+OL,14,     GBobbi Gibb's battle to give women
+OL,15,     Gthe right to run marathons.
+OL,16,G0550FMore or Less
+OL,17,     GTim Harford explains the numbers
+OL,18,     Gand statistics in the news and in
+OL,19,     Glife.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
