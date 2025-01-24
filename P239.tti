@@ -1,29 +1,51 @@
-PN,23900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F239A1737697033
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,23901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1737700638
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for FRI 24 JAN
-OL,4,G0600FComing Up On 5 Sports Extra
+OL,3,CProgramme listings for SAT 25 JAN
+OL,4,G0000FComing Up On 5 Sports Extra
 OL,5,     GLive sport coming up on 5 Sports
 OL,6,     GExtra.
-OL,7,G0800FTennis Breakfast
-OL,8,     GLive tennis coverage of the
-OL,9,     GAustralian Open in Melbourne.
-OL,10,G1300FComing Up On 5 Sports Extra
-OL,11,     GLive sport coming up on 5 Sports
-OL,12,     GExtra.
-OL,13,G1940FRugby Union
-OL,14,     GLive rugby union commentary of
-OL,15,     GHarlequins v Northampton Saints
-OL,16,     Gin the English Premiership.
-OL,17,G2200FComing Up On 5 Sports Extra
+OL,7,G0800FCricket
+OL,8,     GLive ball-by-ball commentary of
+OL,9,     GAustralia v England in the 3rd
+OL,10,     GT20 of the Women's Ashes in
+OL,11,     GAdelaide.
+OL,12,G1155FWomen's Football
+OL,13,     GLive football commentary of Aston
+OL,14,     GVilla v Manchester City in the
+OL,15,     GWomen's Super League.
+OL,16,G1400FComing Up On 5 Sports Extra
+OL,17,     GLive sport coming up on 5 Sports
+OL,18,     GExtra.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
+PN,23902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1737700638
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for SAT 25 JAN
+OL,4,G1500FRugby Union
+OL,5,     GLive rugby union commentary from
+OL,6,     GBBC Radio Gloucester of
+OL,7,     GGloucester v Leicester Tigers in
+OL,8,     Gthe English Premiership.
+OL,9,G1720FRugby Union
+OL,10,     GLive rugby union commentary from
+OL,11,     GBBC Radio Devon of Exeter Chiefs
+OL,12,     Gv Saracens in the English
+OL,13,     GPremiership.
+OL,14,G1930FComing Up On 5 Sports Extra
+OL,15,     GLive sport coming up on 5 Sports
+OL,16,     GExtra.
+OL,17,G0000FComing Up On 5 Sports Extra
 OL,18,     GLive sport coming up on 5 Sports
 OL,19,     GExtra.
-OL,20,G0000FComing Up On 5 Sports Extra
-OL,21,     GLive sport coming up on 5 Sports
-OL,22,     GExtra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,240,200,150,300,000,100
