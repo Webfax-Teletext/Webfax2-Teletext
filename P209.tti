@@ -1,27 +1,24 @@
 PN,20900
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1737909833
+OL,0,        ECIMSBWebfax 2   F209A1737924257
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SUN 26 JAN
-OL,4,G1600FComing Up On 5 Sports Extra
-OL,5,     GLive sport coming up on 5 Sports
-OL,6,     GExtra.
-OL,7,G2000FNFL
-OL,8,     GLive play-by-play commentary of
-OL,9,     GWashington Commanders at
-OL,10,     GPhiladelphia Eagles in the NFC
-OL,11,     GConference Championship of the
-OL,12,     GNFL.
-OL,13,G2330FNFL
-OL,14,     GLive play-by-play commentary of
-OL,15,     GBuffalo Bills at Kansas City
-OL,16,     GChiefs in the AFC Conference
-OL,17,     GChampionship of the NFL.
-OL,18,G0330FComing Up On 5 Sports Extra
-OL,19,     GLive sport coming up on 5 Sports
-OL,20,     GExtra.
+OL,4,G2000FNFL
+OL,5,     GLive play-by-play commentary of
+OL,6,     GWashington Commanders at
+OL,7,     GPhiladelphia Eagles in the NFC
+OL,8,     GConference Championship of the
+OL,9,     GNFL.
+OL,10,G2330FNFL
+OL,11,     GLive play-by-play commentary of
+OL,12,     GBuffalo Bills at Kansas City
+OL,13,     GChiefs in the AFC Conference
+OL,14,     GChampionship of the NFL.
+OL,15,G0330FComing Up On 5 Sports Extra
+OL,16,     GLive sport coming up on 5 Sports
+OL,17,     GExtra.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
