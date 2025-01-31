@@ -1,29 +1,54 @@
-PN,23900
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F239A1738303081
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,23901
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1738306686
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for FRI 31 JAN
+OL,3,CProgramme listings for SAT 1 FEB
 OL,4,G0315FTest Match Special
 OL,5,     GLive ball-by-ball commentary of
-OL,6,     GAustralia v England on the 2nd
+OL,6,     GAustralia v England on the 3rd
 OL,7,     Gday of the Women's Ashes Test in
 OL,8,     GMelbourne.
 OL,9,G1100FComing Up On 5 Sports Extra
 OL,10,     GLive sport coming up on 5 Sports
 OL,11,     GExtra.
-OL,12,G1800FComing Up On 5 Sports Extra
-OL,13,     GLive sport coming up on 5 Sports
-OL,14,     GExtra.
-OL,15,G0000FComing Up On 5 Sports Extra
-OL,16,     GLive sport coming up on 5 Sports
-OL,17,     GExtra.
-OL,18,G0315FTest Match Special
-OL,19,     GLive ball-by-ball commentary of
-OL,20,     GAustralia v England on the 3rd
-OL,21,     Gday of the Women's Ashes Test in
-OL,22,     GMelbourne.
+OL,12,G1400FRugby Union
+OL,13,     GLive rugby union commentary of
+OL,14,     GScotland v Italy in the Six
+OL,15,     GNations.
+OL,16,G1615FRugby Union
+OL,17,     GLive rugby union commentary from
+OL,18,     Gthe opening stages of Ireland v
+OL,19,     GEngland in the Six Nations at the
+OL,20,     GAviva Stadium in Dublin.
+OL,21,     GCommentary continues on 5 Live
+OL,22,     Gfrom 5:25pm.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
+PN,23902
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1738306686
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for SAT 1 FEB
+OL,4,G1725FFootball
+OL,5,     GLive football commentary of
+OL,6,     GWolverhampton Wanderers v Aston
+OL,7,     GVilla in the Premier League.
+OL,8,G1930FComing Up On 5 Sports Extra
+OL,9,     GLive sport coming up on 5 Sports
+OL,10,     GExtra.
+OL,11,G0000FComing Up On 5 Sports Extra
+OL,12,     GLive sport coming up on 5 Sports
+OL,13,     GExtra.
+OL,14,G0315FTest Match Special
+OL,15,     GLive ball-by-ball commentary of
+OL,16,     GAustralia v England on the 4th
+OL,17,     Gday of the Women's Ashes Test in
+OL,18,     GMelbourne.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,240,200,150,300,000,100
