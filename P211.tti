@@ -1,21 +1,403 @@
-PN,21100
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F211A1738472666
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5
+PN,21101
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/16
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for SAT 1 FEB
-OL,4,G0500FBBC News
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G0600FBBC News
 OL,5,     GThe latest five minute news
 OL,6,     Gbulletin from BBC World Service.
-OL,7,G0506FThe Newsroom
-OL,8,     GThe world's Newsroom brings you
-OL,9,     Gglobal events as they happen.
-OL,10,G0530FBBC News Summary
-OL,11,     GThe latest two minute news
-OL,12,     Gsummary from BBC World Service.
-OL,13,G0532FThe Documentary
-OL,14,     GHannah Ajala uncovers the stories
-OL,15,     Gbehind the unique traditions of
-OL,16,     GGhanaian funerals.
+OL,7,G0606FWeekend
+OL,8,     GA review of the week with the
+OL,9,     Glatest news.
+OL,10,G0700FBBC News
+OL,11,     GThe latest five minute news
+OL,12,     Gbulletin from BBC World Service.
+OL,13,G0706FWeekend
+OL,14,     GA review of the week with the
+OL,15,     Glatest news.
+OL,16,G0800FBBC News
+OL,17,     GThe latest five minute news
+OL,18,     Gbulletin from BBC World Service.
+OL,19,G0806FWeekend
+OL,20,     GA review of the week with the
+OL,21,     Glatest news.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21102
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G0900FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G0906FFrom Our Own Correspondent
+OL,8,     GMexico prepares to embrace
+OL,9,     Gdeportees from the US; Trump's
+OL,10,     Gblistering pace of change; why
+OL,11,     Gdiarrhea can still kill in
+OL,12,     GBangladesh; life's not so sweet
+OL,13,     Gfor Ivory Coast's cocoa growers.
+OL,14,G0930FBBC News Summary
+OL,15,     GThe latest two minute news
+OL,16,     Gsummary from BBC World Service.
+OL,17,G0932FThe Food Chain
+OL,18,     GWhy we like crunchy foods, and
+OL,19,     Gwhat benefits they might have.
+OL,20,G1000FBBC News
+OL,21,     GThe latest five minute news
+OL,22,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21103
+SC,0003
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G1006FPeople Fixing The World
+OL,5,     GHow two communities in Bolivia
+OL,6,     Glearned to work together to
+OL,7,     Gprotect their water.
+OL,8,G1030FBBC News Summary
+OL,9,     GThe latest two minute news
+OL,10,     Gsummary from BBC World Service.
+OL,11,G1032FThe Fifth Floor
+OL,12,     GHow women survive inside one of
+OL,13,     GIran's most notorious prisons.
+OL,14,G1100FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G1106FThe Newsroom
+OL,18,     GThe world's Newsroom brings you
+OL,19,     Gglobal events as they happen.
+OL,20,G1130FBBC News Summary
+OL,21,     GThe latest two minute news
+OL,22,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21104
+SC,0004
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G1132FTrending
+OL,5,     GBBC Trending investigates how
+OL,6,     Gfake streams are stealing
+OL,7,     Gmillions from the music industry.
+OL,8,G1150FMore or Less
+OL,9,     GWe investigate what a big claim
+OL,10,     Gabout the speed of a quantum chip
+OL,11,     Greally means.
+OL,12,G1200FBBC News
+OL,13,     GThe latest five minute news
+OL,14,     Gbulletin from BBC World Service.
+OL,15,G1206FBBC OS Conversations
+OL,16,     GViews from supporters of border
+OL,17,     Gcrackdowns and those with
+OL,18,     Gundocumented family members.
+OL,19,G1230FBBC News Summary
+OL,20,     GThe latest two minute news
+OL,21,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21105
+SC,0005
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G1232FAssignment
+OL,5,     GSaudi Arabia is becoming a major
+OL,6,     Gplayer in the film industry, but
+OL,7,     Gtesting boundaries and breaking
+OL,8,     Gtaboos on screen can lead to
+OL,9,     Gsevere consequences for some.
+OL,10,G1300FBBC News
+OL,11,     GThe latest five minute news
+OL,12,     Gbulletin from BBC World Service.
+OL,13,G1306FNewshour
+OL,14,     GInterviews, news and analysis of
+OL,15,     Gthe day's global events.
+OL,16,G1400FBBC News
+OL,17,     GThe latest five minute news
+OL,18,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21106
+SC,0006
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G1406FThe Climate Question
+OL,5,     GThe Musya family from rural Kenya
+OL,6,     Gare the stars of two
+OL,7,     Ginternational documentaries. We
+OL,8,     Ghear how their efforts to fight
+OL,9,     Gclimate change have inspired
+OL,10,     Gaudiences around the world.
+OL,11,G1430FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G1432FHappy News
+OL,15,     GArmia Khalil's chance encounter
+OL,16,     Gwith a visitor led to his dream
+OL,17,     Gof exhibiting at the museum he
+OL,18,     Gfist visited in 2006. Also: new
+OL,19,     Ghope for Parkinson's; and beer
+OL,20,     Gthat's good for you.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21107
+SC,0007
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G1500FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G1506FSportsworld
+OL,8,     GLive sport from around the world
+OL,9,     Gwith news, interviews and
+OL,10,     Ganalysis.
+OL,11,G1900FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G1906FThe Newsroom
+OL,15,     GThe world's Newsroom brings you
+OL,16,     Gglobal events as they happen.
+OL,17,G1930FBBC News Summary
+OL,18,     GThe latest two minute news
+OL,19,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21108
+SC,0008
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G1932FThe Documentary
+OL,5,     GHow psychiatric hospitals are
+OL,6,     Gbeing used to silence political
+OL,7,     Gcritics in China.
+OL,8,G2000FBBC News
+OL,9,     GThe latest five minute news
+OL,10,     Gbulletin from BBC World Service.
+OL,11,G2006FUnexpected Elements
+OL,12,     GIt's Lunar New Year, and this
+OL,13,     Gyear is the Year of the Snake.
+OL,14,     GThis inspired the Unexpected
+OL,15,     GElements team to slither into
+OL,16,     Gcountlesssssssss snake-related
+OL,17,     Gfacts.
+OL,18,G2100FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21109
+SC,0009
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G2106FNewshour
+OL,5,     GInterviews, news and analysis of
+OL,6,     Gthe day's global events.
+OL,7,G2200FBBC News
+OL,8,     GThe latest five minute news
+OL,9,     Gbulletin from BBC World Service.
+OL,10,G2206FThe Newsroom
+OL,11,     GThe world's Newsroom brings you
+OL,12,     Gglobal events as they happen.
+OL,13,G2230FBBC News Summary
+OL,14,     GThe latest two minute news
+OL,15,     Gsummary from BBC World Service.
+OL,16,G2232FThe Fifth Floor
+OL,17,     GHow women survive inside one of
+OL,18,     GIran's most notorious prisons.
+OL,19,G2300FBBC News
+OL,20,     GThe latest five minute news
+OL,21,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21110
+SC,0010
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G2306FThe Climate Question
+OL,5,     GThe Musya family from rural Kenya
+OL,6,     Gare the stars of two
+OL,7,     Ginternational documentaries. We
+OL,8,     Ghear how their efforts to fight
+OL,9,     Gclimate change have inspired
+OL,10,     Gaudiences around the world.
+OL,11,G2330FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G2332FPick of the World
+OL,15,     GFrom child star to music icon,
+OL,16,     Gnow Ariana Grande is an Oscar
+OL,17,     Gnominee for her role in Wicked.
+OL,18,     GPlus, the unboring story of
+OL,19,     Gvanilla - and a new podcast, The
+OL,20,     GCon: Kaitlyn's Baby.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21111
+SC,0011
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G2350FOver to You
+OL,5,     GDonald Trump's inauguration as
+OL,6,     Gthe 47th US president was covered
+OL,7,     Gby all World Service news shows.
+OL,8,     GBut what challenges face
+OL,9,     Gjournalists, including the BBC's
+OL,10,     Gnews teams?
+OL,11,G0000FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G0006FFrom Our Own Correspondent
+OL,15,     GMexico prepares to embrace
+OL,16,     Gdeportees from the US; Trump's
+OL,17,     Gblistering pace of change; why
+OL,18,     Gdiarrhea can still kill in
+OL,19,     GBangladesh; life's not so sweet
+OL,20,     Gfor Ivory Coast's cocoa growers.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21112
+SC,0012
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G0030FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0032FTrending
+OL,8,     GBBC Trending investigates how
+OL,9,     Gfake streams are stealing
+OL,10,     Gmillions from the music industry.
+OL,11,G0050FMore or Less
+OL,12,     GWe investigate what a big claim
+OL,13,     Gabout the speed of a quantum chip
+OL,14,     Greally means.
+OL,15,G0100FBBC News
+OL,16,     GThe latest five minute news
+OL,17,     Gbulletin from BBC World Service.
+OL,18,G0106FThe Newsroom
+OL,19,     GThe world's Newsroom brings you
+OL,20,     Gglobal events as they happen.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21113
+SC,0013
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G0130FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0132FDiscovery
+OL,8,     GHannah Fry explores two tales of
+OL,9,     Gdata and discovery.
+OL,10,G0200FBBC News
+OL,11,     GThe latest five minute news
+OL,12,     Gbulletin from BBC World Service.
+OL,13,G0206FThe Newsroom
+OL,14,     GThe world's Newsroom brings you
+OL,15,     Gglobal events as they happen.
+OL,16,G0230FBBC News Summary
+OL,17,     GThe latest two minute news
+OL,18,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21114
+SC,0014
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G0232FCrowdScience
+OL,5,     GSmartwatches monitor all sorts of
+OL,6,     Gdetails about fitness and health,
+OL,7,     Gbut how reliable is that
+OL,8,     Ginformation? And can they help us
+OL,9,     Glead healthier lives?
+OL,10,G0300FBBC News
+OL,11,     GThe latest five minute news
+OL,12,     Gbulletin from BBC World Service.
+OL,13,G0306FPeople Fixing The World
+OL,14,     GHow two communities in Bolivia
+OL,15,     Glearned to work together to
+OL,16,     Gprotect their water.
+OL,17,G0330FBBC News Summary
+OL,18,     GThe latest two minute news
+OL,19,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21115
+SC,0015
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G0332FPick of the World
+OL,5,     GFrom child star to music icon,
+OL,6,     Gnow Ariana Grande is an Oscar
+OL,7,     Gnominee for her role in Wicked.
+OL,8,     GPlus, the unboring story of
+OL,9,     Gvanilla - and a new podcast, The
+OL,10,     GCon: Kaitlyn's Baby.
+OL,11,G0350FOver to You
+OL,12,     GDonald Trump's inauguration as
+OL,13,     Gthe 47th US president was covered
+OL,14,     Gby all World Service news shows.
+OL,15,     GBut what challenges face
+OL,16,     Gjournalists, including the BBC's
+OL,17,     Gnews teams?
+OL,18,G0400FBBC News
+OL,19,     GThe latest five minute news
+OL,20,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,21116
+SC,0016
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1738476275
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G16/16
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SUN 2 FEB
+OL,4,G0406FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G0430FBBC News Summary
+OL,8,     GThe latest two minute news
+OL,9,     Gsummary from BBC World Service.
+OL,10,G0432FThe Conversation
+OL,11,     GDatshiane Navanayagam speaks with
+OL,12,     Gtwo philosophers from Italy and
+OL,13,     GGermany who challenge the
+OL,14,     Gdiscipline's male-dominated
+OL,15,     Ghistory and explore philosophy's
+OL,16,     Genduring relevance.
+OL,17,G0500FBBC News
+OL,18,     GThe latest five minute news
+OL,19,     Gbulletin from BBC World Service.
+OL,20,G0506FNewsday
+OL,21,     GLive news, business and sport
+OL,22,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
