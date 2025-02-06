@@ -1,7 +1,7 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
@@ -28,7 +28,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
@@ -53,7 +53,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
@@ -78,7 +78,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
@@ -103,7 +103,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
@@ -114,19 +114,21 @@ OL,7,G1130FBBC News Summary
 OL,8,     GThe latest two minute news
 OL,9,     Gsummary from BBC World Service.
 OL,10,G1132FThe Global Story
-OL,11,     G.
-OL,12,G1200FBBC News
-OL,13,     GThe latest five minute news
-OL,14,     Gbulletin from BBC World Service.
-OL,15,G1206FOutlook
-OL,16,     GTrue stories of ordinary people
-OL,17,     Gand the extraordinary events that
-OL,18,     Ghave shaped their lives.
+OL,11,     GThe US proposal to take over Gaza
+OL,12,     Gcould drastically change the
+OL,13,     Gfuture of the Middle East.
+OL,14,G1200FBBC News
+OL,15,     GThe latest five minute news
+OL,16,     Gbulletin from BBC World Service.
+OL,17,G1206FOutlook
+OL,18,     GTrue stories of ordinary people
+OL,19,     Gand the extraordinary events that
+OL,20,     Ghave shaped their lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
@@ -150,272 +152,276 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
 OL,4,G1332FThe Food Chain
-OL,5,     GThe Food Chain examines the
-OL,6,     Gbusiness, science and cultural
-OL,7,     Gsignificance of food, and what it
-OL,8,     Gtakes to put food on your plate.
-OL,9,G1400FBBC News
-OL,10,     GThe latest five minute news
-OL,11,     Gbulletin from BBC World Service.
-OL,12,G1406FNewshour
-OL,13,     GInterviews, news and analysis of
-OL,14,     Gthe day's global events.
-OL,15,G1500FBBC News
-OL,16,     GThe latest five minute news
-OL,17,     Gbulletin from BBC World Service.
-OL,18,G1506FThe Inquiry
-OL,19,     GPrices have continued to rise
-OL,20,     Gsince COVID and the war in
-OL,21,     GUkraine.
+OL,5,     GThe world's oldest restaurant has
+OL,6,     Gbeen serving up meals for 300
+OL,7,     Gyears. When so many others close
+OL,8,     Gin the first 12 months of
+OL,9,     Gopening, what's the secret to
+OL,10,     Gcenturies-old success?
+OL,11,G1400FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G1406FNewshour
+OL,15,     GInterviews, news and analysis of
+OL,16,     Gthe day's global events.
+OL,17,G1500FBBC News
+OL,18,     GThe latest five minute news
+OL,19,     Gbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
-OL,4,G1530FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G1532FWorld Business Report
-OL,8,     GThe latest business and finance
-OL,9,     Gnews from around the world, on
-OL,10,     Gthe BBC.
-OL,11,G1600FBBC News
-OL,12,     GThe latest five minute news
-OL,13,     Gbulletin from BBC World Service.
-OL,14,G1606FBBC OS
-OL,15,     GBBC OS gives a vibrant account of
-OL,16,     Gthe day's events with explanation
-OL,17,     Gand reaction from those involved.
-OL,18,G1700FBBC News
-OL,19,     GThe latest five minute news
-OL,20,     Gbulletin from BBC World Service.
+OL,4,G1506FThe Inquiry
+OL,5,     GPrices have continued to rise
+OL,6,     Gsince COVID and the war in
+OL,7,     GUkraine.
+OL,8,G1530FBBC News Summary
+OL,9,     GThe latest two minute news
+OL,10,     Gsummary from BBC World Service.
+OL,11,G1532FWorld Business Report
+OL,12,     GThe latest business and finance
+OL,13,     Gnews from around the world, on
+OL,14,     Gthe BBC.
+OL,15,G1600FBBC News
+OL,16,     GThe latest five minute news
+OL,17,     Gbulletin from BBC World Service.
+OL,18,G1606FBBC OS
+OL,19,     GBBC OS gives a vibrant account of
+OL,20,     Gthe day's events with explanation
+OL,21,     Gand reaction from those involved.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
-OL,4,G1706FBBC OS
-OL,5,     GBBC OS gives a vibrant account of
-OL,6,     Gthe day's events with explanation
-OL,7,     Gand reaction from those involved.
-OL,8,G1800FBBC News
-OL,9,     GThe latest five minute news
-OL,10,     Gbulletin from BBC World Service.
-OL,11,G1806FOutlook
-OL,12,     GTrue stories of ordinary people
-OL,13,     Gand the extraordinary events that
-OL,14,     Ghave shaped their lives.
-OL,15,G1850FWitness History
-OL,16,     GIn 1998 a strange phenomenon
-OL,17,     Gturned many of the world's most
-OL,18,     Gcolourful coral reefs deathly
-OL,19,     Gwhite. Scientists later blamed it
-OL,20,     Gon rising ocean temperatures
-OL,21,     Gcaused by climate change.
+OL,4,G1700FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G1706FBBC OS
+OL,8,     GBBC OS gives a vibrant account of
+OL,9,     Gthe day's events with explanation
+OL,10,     Gand reaction from those involved.
+OL,11,G1800FBBC News
+OL,12,     GThe latest five minute news
+OL,13,     Gbulletin from BBC World Service.
+OL,14,G1806FOutlook
+OL,15,     GTrue stories of ordinary people
+OL,16,     Gand the extraordinary events that
+OL,17,     Ghave shaped their lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
-OL,4,G1900FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G1906FThe Newsroom
-OL,8,     GThe world's Newsroom brings you
-OL,9,     Gglobal events as they happen.
-OL,10,G1930FBBC News Summary
-OL,11,     GThe latest two minute news
-OL,12,     Gsummary from BBC World Service.
-OL,13,G1932FSport Today
-OL,14,     GBBC sports correspondents tell
-OL,15,     Gthe story behind today's top
-OL,16,     Gsporting news, with interviews
-OL,17,     Gand reports from across the world.
-OL,18,G2000FBBC News
-OL,19,     GThe latest five minute news
-OL,20,     Gbulletin from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24111
-SC,0011
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/17
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for THU 6 FEB
-OL,4,G2006FThe Documentary
-OL,5,     GIn the run up to Germany's snap
-OL,6,     Ggeneral elections Jeremy Cliffe
-OL,7,     Ggoes to Ludwigshafen, a symbol of
-OL,8,     GGermany's economic woes.
-OL,9,G2030FBBC News Summary
-OL,10,     GThe latest two minute news
-OL,11,     Gsummary from BBC World Service.
-OL,12,G2032FScience In Action
-OL,13,     GThe BBC brings you all the week's
-OL,14,     Gscience news.
-OL,15,G2100FBBC News
-OL,16,     GThe latest five minute news
-OL,17,     Gbulletin from BBC World Service.
-OL,18,G2106FNewshour
-OL,19,     GInterviews, news and analysis of
-OL,20,     Gthe day's global events.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24112
-SC,0012
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/17
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for THU 6 FEB
-OL,4,G2200FBBC News
-OL,5,     GThe latest five minute news
-OL,6,     Gbulletin from BBC World Service.
-OL,7,G2206FThe Newsroom
-OL,8,     GThe world's Newsroom brings you
-OL,9,     Gglobal events as they happen.
-OL,10,G2230FBBC News Summary
-OL,11,     GThe latest two minute news
-OL,12,     Gsummary from BBC World Service.
-OL,13,G2232FWorld Business Report
-OL,14,     GThe latest business and finance
-OL,15,     Gnews from around the world, on
-OL,16,     Gthe BBC.
-OL,17,G2300FBBC News
-OL,18,     GThe latest five minute news
-OL,19,     Gbulletin from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24113
-SC,0013
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/17
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for THU 6 FEB
-OL,4,G2306FThe Inquiry
-OL,5,     GPrices have continued to rise
-OL,6,     Gsince COVID and the war in
-OL,7,     GUkraine.
-OL,8,G2330FBBC News Summary
-OL,9,     GThe latest two minute news
-OL,10,     Gsummary from BBC World Service.
-OL,11,G2332FThe Food Chain
-OL,12,     GThe Food Chain examines the
-OL,13,     Gbusiness, science and cultural
-OL,14,     Gsignificance of food, and what it
-OL,15,     Gtakes to put food on your plate.
-OL,16,G0000FBBC News
-OL,17,     GThe latest five minute news
-OL,18,     Gbulletin from BBC World Service.
-OL,19,G0006FThe Explanation
-OL,20,     GWhere the world is explained.
-OL,21,     GMaking sense of the big stories -
-OL,22,     Glooking behind the spin.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24114
-SC,0014
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/17
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for THU 6 FEB
-OL,4,G0030FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G0032FUnspun World with John Simpson
-OL,8,     G.
-OL,9,G0100FBBC News
-OL,10,     GThe latest five minute news
-OL,11,     Gbulletin from BBC World Service.
-OL,12,G0106FBusiness Matters
-OL,13,     GGlobal business news, with live
-OL,14,     Gguests and contributions from
-OL,15,     GAsia and the USA.
-OL,16,G0200FBBC News
-OL,17,     GThe latest five minute news
-OL,18,     Gbulletin from BBC World Service.
-OL,19,G0206FThe Newsroom
-OL,20,     GThe world's Newsroom brings you
-OL,21,     Gglobal events as they happen.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24115
-SC,0015
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/17
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for THU 6 FEB
-OL,4,G0230FBBC News Summary
-OL,5,     GThe latest two minute news
-OL,6,     Gsummary from BBC World Service.
-OL,7,G0232FTech Life
-OL,8,     GAs DeepSeek shocked the world, we
-OL,9,     Gspeak to an AI expert who worked
-OL,10,     Gat a Chinese AI firm. And we hear
-OL,11,     Gabout a new battery exchange
-OL,12,     Gsystem for EVs in Addis Ababa.
-OL,13,G0300FBBC News
-OL,14,     GThe latest five minute news
-OL,15,     Gbulletin from BBC World Service.
-OL,16,G0306FOutlook
-OL,17,     GTrue stories of ordinary people
-OL,18,     Gand the extraordinary events that
-OL,19,     Ghave shaped their lives.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-PN,24116
-SC,0016
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G16/17
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for THU 6 FEB
-OL,4,G0350FWitness History
+OL,4,G1850FWitness History
 OL,5,     GIn 1998 a strange phenomenon
 OL,6,     Gturned many of the world's most
 OL,7,     Gcolourful coral reefs deathly
 OL,8,     Gwhite. Scientists later blamed it
 OL,9,     Gon rising ocean temperatures
 OL,10,     Gcaused by climate change.
-OL,11,G0400FBBC News
+OL,11,G1900FBBC News
 OL,12,     GThe latest five minute news
 OL,13,     Gbulletin from BBC World Service.
-OL,14,G0406FThe Newsroom
+OL,14,G1906FThe Newsroom
 OL,15,     GThe world's Newsroom brings you
 OL,16,     Gglobal events as they happen.
-OL,17,G0430FBBC News Summary
+OL,17,G1930FBBC News Summary
 OL,18,     GThe latest two minute news
 OL,19,     Gsummary from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24111
+SC,0011
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1738815364
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for THU 6 FEB
+OL,4,G1932FSport Today
+OL,5,     GBBC sports correspondents tell
+OL,6,     Gthe story behind today's top
+OL,7,     Gsporting news, with interviews
+OL,8,     Gand reports from across the world.
+OL,9,G2000FBBC News
+OL,10,     GThe latest five minute news
+OL,11,     Gbulletin from BBC World Service.
+OL,12,G2006FThe Documentary
+OL,13,     GIn the run up to Germany's snap
+OL,14,     Ggeneral elections Jeremy Cliffe
+OL,15,     Ggoes to Ludwigshafen, a symbol of
+OL,16,     GGermany's economic woes.
+OL,17,G2030FBBC News Summary
+OL,18,     GThe latest two minute news
+OL,19,     Gsummary from BBC World Service.
+OL,20,G2032FScience In Action
+OL,21,     GThe BBC brings you all the week's
+OL,22,     Gscience news.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24112
+SC,0012
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1738815364
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for THU 6 FEB
+OL,4,G2100FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G2106FNewshour
+OL,8,     GInterviews, news and analysis of
+OL,9,     Gthe day's global events.
+OL,10,G2200FBBC News
+OL,11,     GThe latest five minute news
+OL,12,     Gbulletin from BBC World Service.
+OL,13,G2206FThe Newsroom
+OL,14,     GThe world's Newsroom brings you
+OL,15,     Gglobal events as they happen.
+OL,16,G2230FBBC News Summary
+OL,17,     GThe latest two minute news
+OL,18,     Gsummary from BBC World Service.
+OL,19,G2232FWorld Business Report
+OL,20,     GThe latest business and finance
+OL,21,     Gnews from around the world, on
+OL,22,     Gthe BBC.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24113
+SC,0013
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1738815364
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for THU 6 FEB
+OL,4,G2300FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G2306FThe Inquiry
+OL,8,     GPrices have continued to rise
+OL,9,     Gsince COVID and the war in
+OL,10,     GUkraine.
+OL,11,G2330FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G2332FThe Food Chain
+OL,15,     GThe world's oldest restaurant has
+OL,16,     Gbeen serving up meals for 300
+OL,17,     Gyears. When so many others close
+OL,18,     Gin the first 12 months of
+OL,19,     Gopening, what's the secret to
+OL,20,     Gcenturies-old success?
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24114
+SC,0014
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1738815364
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for THU 6 FEB
+OL,4,G0000FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G0006FThe Explanation
+OL,8,     GWhere the world is explained.
+OL,9,     GMaking sense of the big stories -
+OL,10,     Glooking behind the spin.
+OL,11,G0030FBBC News Summary
+OL,12,     GThe latest two minute news
+OL,13,     Gsummary from BBC World Service.
+OL,14,G0032FUnspun World with John Simpson
+OL,15,     G.
+OL,16,G0100FBBC News
+OL,17,     GThe latest five minute news
+OL,18,     Gbulletin from BBC World Service.
+OL,19,G0106FBusiness Matters
+OL,20,     GGlobal business news, with live
+OL,21,     Gguests and contributions from
+OL,22,     GAsia and the USA.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24115
+SC,0015
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1738815364
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G15/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for THU 6 FEB
+OL,4,G0200FBBC News
+OL,5,     GThe latest five minute news
+OL,6,     Gbulletin from BBC World Service.
+OL,7,G0206FThe Newsroom
+OL,8,     GThe world's Newsroom brings you
+OL,9,     Gglobal events as they happen.
+OL,10,G0230FBBC News Summary
+OL,11,     GThe latest two minute news
+OL,12,     Gsummary from BBC World Service.
+OL,13,G0232FTech Life
+OL,14,     GAs DeepSeek shocked the world, we
+OL,15,     Gspeak to an AI expert who worked
+OL,16,     Gat a Chinese AI firm. And we hear
+OL,17,     Gabout a new battery exchange
+OL,18,     Gsystem for EVs in Addis Ababa.
+OL,19,G0300FBBC News
+OL,20,     GThe latest five minute news
+OL,21,     Gbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24116
+SC,0016
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1738815364
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G16/17
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for THU 6 FEB
+OL,4,G0306FOutlook
+OL,5,     GTrue stories of ordinary people
+OL,6,     Gand the extraordinary events that
+OL,7,     Ghave shaped their lives.
+OL,8,G0350FWitness History
+OL,9,     GIn 1998 a strange phenomenon
+OL,10,     Gturned many of the world's most
+OL,11,     Gcolourful coral reefs deathly
+OL,12,     Gwhite. Scientists later blamed it
+OL,13,     Gon rising ocean temperatures
+OL,14,     Gcaused by climate change.
+OL,15,G0400FBBC News
+OL,16,     GThe latest five minute news
+OL,17,     Gbulletin from BBC World Service.
+OL,18,G0406FThe Newsroom
+OL,19,     GThe world's Newsroom brings you
+OL,20,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24117
 SC,0017
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1738736018
+OL,0,        ECIMSBWebfax 2   F241A1738815364
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G17/17
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 6 FEB
-OL,4,G0432FHeart and Soul
-OL,5,     GThe co-founders of Turkey's first
-OL,6,     GMuslim feminist association on
-OL,7,     Gnavigating their faith and
-OL,8,     Gactivism in a polarised, often
-OL,9,     Gpatriarchal society.
-OL,10,G0500FBBC News
-OL,11,     GThe latest five minute news
-OL,12,     Gbulletin from BBC World Service.
-OL,13,G0506FNewsday
-OL,14,     GLive news, business and sport
-OL,15,     Gfrom around the world.
+OL,4,G0430FBBC News Summary
+OL,5,     GThe latest two minute news
+OL,6,     Gsummary from BBC World Service.
+OL,7,G0432FHeart and Soul
+OL,8,     GThe co-founders of Turkey's first
+OL,9,     GMuslim feminist association on
+OL,10,     Gnavigating their faith and
+OL,11,     Gactivism in a polarised, often
+OL,12,     Gpatriarchal society.
+OL,13,G0500FBBC News
+OL,14,     GThe latest five minute news
+OL,15,     Gbulletin from BBC World Service.
+OL,16,G0506FNewsday
+OL,17,     GLive news, business and sport
+OL,18,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
