@@ -1,41 +1,27 @@
-PN,21001
-SC,0001
-PS,c008
-OL,0,        ECIMSBWebfax 2   F210A1739237814
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G1/2
+PN,21000
+SC,0000
+PS,8008
+OL,0,        ECIMSBWebfax 2   F210A1739245024
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for MON 10 FEB
-OL,4,G0100FBobby Friction
-OL,5,     GIt's time for Zindabad with a mix
-OL,6,     Gof Bobby's weekly update of the
-OL,7,     Gbest music on the scene!
-OL,8,G0300FAsian Network Fresh
-OL,9,     GBrand new sounds on the Asian
-OL,10,     GNetwork from the likes of Thaman
-OL,11,     GS, Sukshinder Shinda and Asiya!
-OL,12,G0400FAsian Network Bollywood with
-OL,13,     FVallisa
-OL,14,     GListen to an hour of music,
-OL,15,     Ggossip and more from the world of
-OL,16,     GBollywood courtesy of Vallisa!
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,211,200,150,300,000,100
-PN,21002
-SC,0002
-PS,c008
-OL,0,        ECIMSBWebfax 2   F210A1739237814
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G2/2
-OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
-OL,3,CProgramme listings for MON 10 FEB
-OL,4,G0500FAsian Network's Global Beats with
-OL,5,     FVallisa
-OL,6,     GListen to an hour long playlist
-OL,7,     Gfull of senti tunes from across
-OL,8,     Gthe globe! You can hear the
-OL,9,     Gsounds of Hadiqa Kiani, The
-OL,10,     GPropheC and Kumar Sanu to name
-OL,11,     Gbut a few! With Vallisa.
+OL,4,G0300FAsian Network Fresh
+OL,5,     GBrand new sounds on the Asian
+OL,6,     GNetwork from the likes of Thaman
+OL,7,     GS, Sukshinder Shinda and Asiya!
+OL,8,G0400FAsian Network Bollywood with
+OL,9,     FVallisa
+OL,10,     GListen to an hour of music,
+OL,11,     Ggossip and more from the world of
+OL,12,     GBollywood courtesy of Vallisa!
+OL,13,G0500FAsian Network's Global Beats with
+OL,14,     FVallisa
+OL,15,     GListen to an hour long playlist
+OL,16,     Gfull of senti tunes from across
+OL,17,     Gthe globe! You can hear the
+OL,18,     Gsounds of Hadiqa Kiani, The
+OL,19,     GPropheC and Kumar Sanu to name
+OL,20,     Gbut a few! With Vallisa.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,211,200,150,300,000,100
