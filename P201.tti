@@ -1,42 +1,28 @@
-PN,20101
-SC,0001
-PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1740439092
-OL,1,W{${$~+$ {$~{4k4h7} (        G1/2
+PN,20100
+SC,0000
+PS,8008
+OL,0,        ECIMSBWebfax 2   F201A1740446303
+OL,1,W{${$~+$ {$~{4k4h7} (
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for MON 24 FEB
-OL,4,G2300FRadio 1's Rock Show with Daniel P
-OL,5,     FCarter
-OL,6,     GRock, metal, hardcore and
-OL,7,     Geverything in between.
-OL,8,G0100FBBC Introducing Rock on Radio 1
-OL,9,     Fwith Alyx Holcombe
-OL,10,     GAlyx has the best new rock from
-OL,11,     GBBC Introducing, including
-OL,12,     GUnpeople, Call Me Amour, Baby
-OL,13,     GSaid, Alt Blk Era and a heavy
-OL,14,     GTrack Of The Week from Harper.
-OL,15,G0200FRadio 1 Anthems
-OL,16,     GLauren brings you the big anthems
-OL,17,     Gand tunes you haven't heard in
-OL,18,     Gages.
-OL,19,G0400FRadio 1 Pop Anthems
-OL,20,     GSugababes, Destiny's Child, Jonas
-OL,21,     GBlue and more!
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,202,200,150,300,000,100
-PN,20102
-SC,0002
-PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1740439092
-OL,1,W{${$~+$ {$~{4k4h7} (        G2/2
-OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
-OL,3,CProgramme listings for MON 24 FEB
-OL,4,G0500FRadio 1 Early Breakfast with Dean
-OL,5,     FMcCullough
-OL,6,     GDean has Radio 1's Early
-OL,7,     GBreakfast.
+OL,4,G0100FBBC Introducing Rock on Radio 1
+OL,5,     Fwith Alyx Holcombe
+OL,6,     GAlyx has the best new rock from
+OL,7,     GBBC Introducing, including
+OL,8,     GUnpeople, Call Me Amour, Baby
+OL,9,     GSaid, Alt Blk Era and a heavy
+OL,10,     GTrack Of The Week from Harper.
+OL,11,G0200FRadio 1 Anthems
+OL,12,     GLauren brings you the big anthems
+OL,13,     Gand tunes you haven't heard in
+OL,14,     Gages.
+OL,15,G0400FRadio 1 Pop Anthems
+OL,16,     GSugababes, Destiny's Child, Jonas
+OL,17,     GBlue and more!
+OL,18,G0500FRadio 1 Early Breakfast with Dean
+OL,19,     FMcCullough
+OL,20,     GDean has Radio 1's Early
+OL,21,     GBreakfast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,202,200,150,300,000,100
