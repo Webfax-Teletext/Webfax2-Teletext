@@ -1,8 +1,8 @@
 PN,23201
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F232A1740705675
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G1/7
+OL,0,        ECIMSBWebfax 2   F232A1740720108
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G1/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 28 FEB
 OL,4,G0400FOwain Wyn Evans
@@ -11,10 +11,10 @@ OL,6,     GOwain Wyn Evans show, filled with
 OL,7,     GAirdrum Anthems and your daily
 OL,8,     Gmusings!
 OL,9,G0630FThe Scott Mills Breakfast Show
-OL,10,     GFor Big Guest Friday, Scott chats
-OL,11,     Gto Paloma Faith about her
-OL,12,     Gpodcast, and there's a Wonder
-OL,13,     GYears starting in 1997!
+OL,10,     GPaloma Faith and Tom Allen are in
+OL,11,     Gthe studio with Scott for Big
+OL,12,     GGuest Friday... and the Wonder
+OL,13,     GYears start in 1997!
 OL,14,G0930FVernon Kay
 OL,15,     GMaking your mid-mornings
 OL,16,     Gmemorable, Vernon's bringing big
@@ -28,8 +28,8 @@ FL,233,200,150,300,000,100
 PN,23202
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F232A1740705675
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G2/7
+OL,0,        ECIMSBWebfax 2   F232A1740720108
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G2/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 28 FEB
 OL,4,G1125FRadio 2 Piano Room
@@ -54,8 +54,8 @@ FL,233,200,150,300,000,100
 PN,23203
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F232A1740705675
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G3/7
+OL,0,        ECIMSBWebfax 2   F232A1740720108
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G3/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 28 FEB
 OL,4,G1600FSara Cox
@@ -81,8 +81,8 @@ FL,233,200,150,300,000,100
 PN,23204
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F232A1740705675
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G4/7
+OL,0,        ECIMSBWebfax 2   F232A1740720108
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G4/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 28 FEB
 OL,4,G2100FSophie Ellis-Bextor's Kitchen
@@ -98,9 +98,6 @@ OL,13,     GAstley, Bruno Mars, Stevie
 OL,14,     GWonder, Calvin Harris and Ellie
 OL,15,     GGoulding in her weekly party
 OL,16,     Gplaylist!
-OL,17,G2300FThe Rock Show with Shaun Keaveny
-OL,18,     GShaun curates an hour of the best
-OL,19,     Grock ever heard on Radio 2.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
@@ -108,72 +105,89 @@ OL,26,@qD@Lrr
 PN,23205
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F232A1740705675
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G5/7
+OL,0,        ECIMSBWebfax 2   F232A1740720108
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G5/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 28 FEB
-OL,4,G0000FRomesh Ranganathan: For the Love
-OL,5,     Fof Hip Hop
-OL,6,     GTastemaker, broadcaster and
-OL,7,     Gpresenter Jamz Supernova curates
-OL,8,     Ga 10 minute mixtape for Rom. Plus
-OL,9,     Gmusic from Nappy Roots, Noname
-OL,10,     Gand Little Simz.
-OL,11,G0100FLenny Henry's Philadelphia Soul
-OL,12,     FPlaylist
-OL,13,     GLenny Henry picks some of his
-OL,14,     Gfavourite Philly Soul tunes to
-OL,15,     Gget us in the mood for the
-OL,16,     Gspecial concert he is hosting for
-OL,17,     GRadio 2, at London's Royal Albert
-OL,18,     GHall.
+OL,4,G2300FThe Rock Show with Shaun Keaveny
+OL,5,     GJoin Shaun for more rock anthems
+OL,6,     Gand new releases, plus a special
+OL,7,     GLive & Dangerous from Jimmy Page
+OL,8,     Gand the Black Crowes to mark the
+OL,9,     G25th anniversary of 'Live At the
+OL,10,     GGreek'.
+OL,11,G0000FRomesh Ranganathan: For the Love
+OL,12,     Fof Hip Hop
+OL,13,     GAhead of a UK tour, Ice Cube
+OL,14,     Gjoins Rom to talk about his early
+OL,15,     Gdays in NWA, Hip Hop inspirations
+OL,16,     Gand a raft of tunes including It
+OL,17,     GWas A Good Day.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
 PN,23206
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F232A1740705675
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G6/7
+OL,0,        ECIMSBWebfax 2   F232A1740720108
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G6/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 28 FEB
-OL,4,G0200FEdith Bowman's Ultimate Disco...
-OL,5,     GMusic Moments from the Movies.
-OL,6,     GEdith Bowman presents her
-OL,7,     Gultimate guide to disco music
-OL,8,     Gfilms, through the songs that
-OL,9,     Gmade them iconic.
-OL,10,G0300FSophie Ellis-Bextor's Kitchen
-OL,11,     FDisco
-OL,12,     GSophie Ellis-Bextor has big party
-OL,13,     Gtunes to put some shimmy in your
-OL,14,     Gshoulders and some pep in your
-OL,15,     Gstep! With music from David
-OL,16,     GBowie, Scissor Sisters, Blondie,
-OL,17,     GKaty Perry and more.
+OL,4,G0100FLenny Henry's Philadelphia Soul
+OL,5,     FPlaylist
+OL,6,     GLenny Henry picks some of his
+OL,7,     Gfavourite Philly Soul tunes to
+OL,8,     Gget us in the mood for the
+OL,9,     Gspecial concert he is hosting for
+OL,10,     GRadio 2, at London's Royal Albert
+OL,11,     GHall.
+OL,12,G0200FEdith Bowman's Ultimate Disco...
+OL,13,     GMusic Moments from the Movies.
+OL,14,     GEdith Bowman presents her
+OL,15,     Gultimate guide to disco music
+OL,16,     Gfilms, through the songs that
+OL,17,     Gmade them iconic.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
 PN,23207
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F232A1740705675
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G7/7
+OL,0,        ECIMSBWebfax 2   F232A1740720108
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G7/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 28 FEB
-OL,4,G0400FRadio 2 Unwinds with Angela
-OL,5,     FGriffin
-OL,6,     GAngela looks to bust the grey
-OL,7,     Gskies and welcome sunshine and
-OL,8,     Gblue skies into our lives with a
-OL,9,     Gcloudbusting Unwinds Mix.
-OL,10,G0500FRadio 2 In Concert
-OL,11,     GA double bill recorded at the
-OL,12,     GBBC's Paris Theatre featuring an
-OL,13,     Gacoustic set from Labi Siffre and
-OL,14,     Gan early solo appearance by Peter
-OL,15,     GFrampton leading his band,
-OL,16,     GFrampton's Camel.
+OL,4,G0300FSophie Ellis-Bextor's Kitchen
+OL,5,     FDisco
+OL,6,     GSophie Ellis-Bextor has big party
+OL,7,     Gtunes to put some shimmy in your
+OL,8,     Gshoulders and some pep in your
+OL,9,     Gstep! With music from David
+OL,10,     GBowie, Scissor Sisters, Blondie,
+OL,11,     GKaty Perry and more.
+OL,12,G0400FRadio 2 Unwinds with Angela
+OL,13,     FGriffin
+OL,14,     GAngela looks to bust the grey
+OL,15,     Gskies and welcome sunshine and
+OL,16,     Gblue skies into our lives with a
+OL,17,     Gcloudbusting Unwinds Mix.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,233,200,150,300,000,100
+PN,23208
+SC,0008
+PS,c008
+OL,0,        ECIMSBWebfax 2   F232A1740720108
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G8/8
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
+OL,3,CProgramme listings for FRI 28 FEB
+OL,4,G0500FRadio 2 In Concert
+OL,5,     GA double bill recorded at the
+OL,6,     GBBC's Paris Theatre featuring an
+OL,7,     Gacoustic set from Labi Siffre and
+OL,8,     Gan early solo appearance by Peter
+OL,9,     GFrampton leading his band,
+OL,10,     GFrampton's Camel.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
