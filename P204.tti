@@ -1,19 +1,13 @@
 PN,20400
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1740698746
+OL,0,        ECIMSBWebfax 2   F204A1740702351
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 27 FEB
-OL,4,G2300FThe Today Podcast
-OL,5,     GAmol and Nick's take on the
-OL,6,     Gbiggest stories of the week.
-OL,7,G2330FToday in Parliament
-OL,8,     GNews, views and features on
-OL,9,     Gtoday's stories in Parliament.
-OL,10,G0000FMidnight News
-OL,11,     GNational and international news
-OL,12,     Gfrom BBC Radio 4.
+OL,4,G0000FMidnight News
+OL,5,     GNational and international news
+OL,6,     Gfrom BBC Radio 4.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
