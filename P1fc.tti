@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1741304693
+OL,0,        ECIMSBWebfax 2   F1fcA1741308300
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -12,15 +12,15 @@ OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
-OL,25,1741304693;
-OL,10,GService: Webfax 2 - 3406 15031e26
-OL,11,FLast Update: 06/03/2025 23:44:53  G1/7
-OL,13,BbbcNews/Business           G06/03-23:38
-OL,14,BbbcNews/East               G06/03-21:46
-OL,15,BbbcNews/East Midlands      G06/03-21:36
+OL,25,1741308300;
+OL,10,GService: Webfax 2 - 3407 4bcb5b7f
+OL,11,FLast Update: 07/03/2025 00:45:00  G1/7
+OL,13,BbbcNews/Business           G07/03-00:19
+OL,14,BbbcNews/East               G07/03-00:09
+OL,15,BbbcNews/East Midlands      G06/03-23:58
 OL,16,BbbcNews/Entertainment      G06/03-19:44
 OL,17,BbbcNews/North East         G06/03-21:36
-OL,18,BbbcNews/North West         G06/03-20:25
+OL,18,BbbcNews/North West         G07/03-00:09
 OL,19,BbbcNews/Northern Ireland   G06/03-21:06
 OL,20,BbbcNews/Politics           G06/03-22:06
 OL,21,BbbcNews/Scotland           G06/03-23:28
@@ -29,7 +29,7 @@ OL,23,BbbcNews/South East         G06/03-22:37
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1741304693
+OL,0,        ECIMSBWebfax 2   F1fcA1741308300
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -40,9 +40,9 @@ OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
-OL,25,1741304693;
-OL,10,GService: Webfax 2 - 3406 15031e26
-OL,11,FLast Update: 06/03/2025 23:44:53  G2/7
+OL,25,1741308300;
+OL,10,GService: Webfax 2 - 3407 4bcb5b7f
+OL,11,FLast Update: 07/03/2025 00:45:00  G2/7
 OL,13,BbbcNews/Technology         G06/03-18:03
 OL,14,BbbcNews/Wales              G06/03-23:38
 OL,15,BbbcNews/West & South West  G06/03-22:06
@@ -52,12 +52,12 @@ OL,18,AbbcNewsLive                G06/03-23:18
 OL,19,BbbcSport/Cricket           G06/03-17:32
 OL,20,BbbcSport/Football          G06/03-23:38
 OL,21,BbbcSport/Formula 1         G06/03-13:28
-OL,22,CbbcSport/Golf              G05/03-21:00
+OL,22,BbbcSport/Golf              G06/03-23:58
 OL,23,BbbcSport/Horse Racing      G06/03-15:30
 PN,1fc03
 SC,0003
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1741304693
+OL,0,        ECIMSBWebfax 2   F1fcA1741308300
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -68,24 +68,24 @@ OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
-OL,25,1741304693;
-OL,10,GService: Webfax 2 - 3406 15031e26
-OL,11,FLast Update: 06/03/2025 23:44:53  G3/7
+OL,25,1741308300;
+OL,10,GService: Webfax 2 - 3407 4bcb5b7f
+OL,11,FLast Update: 07/03/2025 00:45:00  G3/7
 OL,13,BbbcSport/Northern Ireland SG06/03-21:36
-OL,14,BbbcSport/Tennis            G06/03-22:47
-OL,15,BbbcSportFixtures/          G06/03-23:38
-OL,16,Bbbc_news_papers            G06/03-23:38
-OL,17,BceefaxNews                 G06/03-23:38
-OL,18,Bcharts/singles             G06/03-23:38
-OL,19,Bgeneric/championship       G06/03-23:38
-OL,20,Bgeneric/f1                 G06/03-23:38
-OL,21,Bgeneric/horse_racing       G06/03-23:38
-OL,22,Bgeneric/league-one         G06/03-23:38
-OL,23,Bgeneric/league-two         G06/03-23:38
+OL,14,BbbcSport/Tennis            G07/03-00:09
+OL,15,BbbcSportFixtures/          G07/03-00:39
+OL,16,Bbbc_news_papers            G07/03-00:39
+OL,17,BceefaxNews                 G07/03-00:19
+OL,18,Bcharts/singles             G07/03-00:39
+OL,19,Bgeneric/championship       G07/03-00:39
+OL,20,Bgeneric/f1                 G07/03-00:39
+OL,21,Bgeneric/horse_racing       G07/03-00:39
+OL,22,Bgeneric/league-one         G07/03-00:39
+OL,23,Bgeneric/league-two         G07/03-00:39
 PN,1fc04
 SC,0004
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1741304693
+OL,0,        ECIMSBWebfax 2   F1fcA1741308300
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -96,24 +96,24 @@ OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
-OL,25,1741304693;
-OL,10,GService: Webfax 2 - 3406 15031e26
-OL,11,FLast Update: 06/03/2025 23:44:53  G4/7
-OL,13,Bgeneric/national_weather   G06/03-23:38
-OL,14,Bgeneric/prem_league        G06/03-23:38
-OL,15,Bgeneric/tube_status        G06/03-23:38
-OL,16,Bgeneric/weather_warnings   G06/03-23:38
-OL,17,BitvNews/border             G06/03-20:47
+OL,25,1741308300;
+OL,10,GService: Webfax 2 - 3407 4bcb5b7f
+OL,11,FLast Update: 07/03/2025 00:45:00  G4/7
+OL,13,Bgeneric/national_weather   G07/03-00:39
+OL,14,Bgeneric/prem_league        G07/03-00:39
+OL,15,Bgeneric/tube_status        G07/03-00:39
+OL,16,Bgeneric/weather_warnings   G07/03-00:39
+OL,17,BitvNews/border             G06/03-23:47
 OL,18,BitvNews/calendar           G06/03-20:47
 OL,19,BitvNews/central            G06/03-22:47
 OL,20,BitvNews/channel            G06/03-20:47
-OL,21,BitvNews/granada            G06/03-22:47
+OL,21,BitvNews/granada            G06/03-23:47
 OL,22,BitvNews/london             G06/03-19:47
 OL,23,BitvNews/meridian           G06/03-20:47
 PN,1fc05
 SC,0005
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1741304693
+OL,0,        ECIMSBWebfax 2   F1fcA1741308300
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -124,12 +124,12 @@ OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
-OL,25,1741304693;
-OL,10,GService: Webfax 2 - 3406 15031e26
-OL,11,FLast Update: 06/03/2025 23:44:53  G5/7
-OL,13,BitvNews/national           G06/03-22:47
+OL,25,1741308300;
+OL,10,GService: Webfax 2 - 3407 4bcb5b7f
+OL,11,FLast Update: 07/03/2025 00:45:00  G5/7
+OL,13,BitvNews/national           G06/03-23:47
 OL,14,BitvNews/tyne-tees          G06/03-19:47
-OL,15,BitvNews/utv                G06/03-21:47
+OL,15,BitvNews/utv                G06/03-23:47
 OL,16,BitvNews/wales              G06/03-16:46
 OL,17,BitvNews/westcountry        G06/03-18:47
 OL,18,CitvSport/border            G03/03-13:33
@@ -141,7 +141,7 @@ OL,23,CitvSport/london            G03/03-13:33
 PN,1fc06
 SC,0006
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1741304693
+OL,0,        ECIMSBWebfax 2   F1fcA1741308300
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -152,24 +152,24 @@ OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
-OL,25,1741304693;
-OL,10,GService: Webfax 2 - 3406 15031e26
-OL,11,FLast Update: 06/03/2025 23:44:53  G6/7
+OL,25,1741308300;
+OL,10,GService: Webfax 2 - 3407 4bcb5b7f
+OL,11,FLast Update: 07/03/2025 00:45:00  G6/7
 OL,13,CitvSport/meridian          G03/03-13:33
 OL,14,BitvSport/national          G06/03-18:44
 OL,15,CitvSport/tyne-tees         G03/03-13:33
 OL,16,CitvSport/utv               G03/03-13:33
 OL,17,CitvSport/wales             G03/03-13:33
 OL,18,CitvSport/westcountry       G03/03-13:33
-OL,19,Btv_listings                G06/03-23:38
+OL,19,Btv_listings                G07/03-00:39
 OL,20,Ctvroom/cleanfeed           G03/03-13:33
 OL,21,Btvroom/onthisday           G06/03-07:45
-OL,22,BiNMS/comments.json         G06/03-23:38
-OL,23,BiNMS/onthisday/            G06/03-23:38
+OL,22,BiNMS/comments.json         G07/03-00:39
+OL,23,BiNMS/onthisday/            G07/03-00:39
 PN,1fc07
 SC,0007
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1741304693
+OL,0,        ECIMSBWebfax 2   F1fcA1741308300
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -180,7 +180,7 @@ OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
 OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
-OL,25,1741304693;
-OL,10,GService: Webfax 2 - 3406 15031e26
-OL,11,FLast Update: 06/03/2025 23:44:53  G7/7
+OL,25,1741308300;
+OL,10,GService: Webfax 2 - 3407 4bcb5b7f
+OL,11,FLast Update: 07/03/2025 00:45:00  G7/7
 OL,13,BZXIndustries/epg.json      G06/03-05:42
