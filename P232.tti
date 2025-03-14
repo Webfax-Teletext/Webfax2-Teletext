@@ -1,8 +1,8 @@
 PN,23201
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1741920968
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G1/7
+OL,0,        ECIMSBWebfax 2   F232A1741928181
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G1/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 14 MAR
 OL,4,G0400FJason Mohammad
@@ -24,8 +24,8 @@ FL,233,200,150,300,000,100
 PN,23202
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1741920968
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G2/7
+OL,0,        ECIMSBWebfax 2   F232A1741928181
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G2/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 14 MAR
 OL,4,G0930FVernon Kay
@@ -39,9 +39,9 @@ OL,11,G1200FJeremy Vine
 OL,12,     GJeremy is live in Glasgow as part
 OL,13,     Gof Country to Country 2025,
 OL,14,     GEurope's biggest country music
-OL,15,     Gfestival. He'll discuss what's
-OL,16,     Ghappening in C2C, and talk to
-OL,17,     GAlli Walker & Kezia Gill.
+OL,15,     Gfestival. He'll talk to Alli
+OL,16,     GWalker, Kezia Gill, Tyler Hubbard
+OL,17,     Gand Ricky Ross.
 OL,18,G1400FTrevor Nelson
 OL,19,     GTrevor is bringing you some of
 OL,20,     Gthe best music from across the
@@ -53,8 +53,8 @@ FL,233,200,150,300,000,100
 PN,23203
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1741920968
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G3/7
+OL,0,        ECIMSBWebfax 2   F232A1741928181
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G3/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 14 MAR
 OL,4,G1600FSara Cox
@@ -78,8 +78,8 @@ FL,233,200,150,300,000,100
 PN,23204
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1741920968
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G4/7
+OL,0,        ECIMSBWebfax 2   F232A1741928181
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G4/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 14 MAR
 OL,4,G2100FSophie Ellis-Bextor's Kitchen
@@ -87,7 +87,7 @@ OL,5,     FDisco
 OL,6,     GSophie Ellis-Bextor has an hour
 OL,7,     Gof upbeat Country Hits from
 OL,8,     GShania, Shaboozey & Taylor Swift!
-OL,9,     GAlso, Jeremy Vine, Bob Harris and
+OL,9,     GPlus Jeremy Vine, Bob Harris and
 OL,10,     GVernon Kay are on the Country
 OL,11,     GRequest line!
 OL,12,G2200FSophie Ellis-Bextor's Kitchen
@@ -96,46 +96,63 @@ OL,14,     GAllow Sophie to play you an hour
 OL,15,     Gof upbeat music from Queen,
 OL,16,     GJustin Timberlake, Kylie, Human
 OL,17,     GLeague, Katy Perry and loads more.
-OL,18,G2300FThe Rock Show with Shaun Keaveny
-OL,19,     GShaun curates an hour of the best
-OL,20,     Grock ever heard on Radio 2.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
 PN,23205
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1741920968
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G5/7
+OL,0,        ECIMSBWebfax 2   F232A1741928181
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G5/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 14 MAR
-OL,4,G0000FRomesh Ranganathan: For the Love
-OL,5,     Fof Hip Hop
-OL,6,     GRomesh brings his love, knowledge
-OL,7,     Gand passion of hip-hop to BBC
-OL,8,     GRadio 2.
-OL,9,G0100FC2C Greatest Hits with Darius
-OL,10,     FRucker
-OL,11,     GCountry superstar Darius Rucker
-OL,12,     Gtakes a look back at the best of
-OL,13,     Gthe C2C best from 2013 to 2024,
-OL,14,     Gwith music and chat from Lady A,
-OL,15,     GCarrie Underwood, Kane Brown, and
-OL,16,     Gmore!
-OL,17,G0200FEdith Bowman's Ultimate Country
-OL,18,     FMusic Films
-OL,19,     GEdith Bowman presents her
-OL,20,     Gultimate guide to country music
-OL,21,     Gfilms through the songs that
-OL,22,     Gbring them to life.
+OL,4,G2300FThe Rock Show with Shaun Keaveny
+OL,5,     GShaun rocks a country vibe to
+OL,6,     Gcelebrate this year's C2C
+OL,7,     Gcoverage on Radio 2 plus 'Live &
+OL,8,     GDangerous' marks three decades
+OL,9,     Gsince Radiohead released 'The
+OL,10,     GBends'...
+OL,11,G0000FRomesh Ranganathan: For the Love
+OL,12,     Fof Hip Hop
+OL,13,     GRomesh chats to rappers Big Zuu
+OL,14,     Gand Capo Lee about their
+OL,15,     Gcollaborative album Signed &
+OL,16,     GDelivered. Plus music from De La
+OL,17,     GSoul, Queen Pen, Deyah and Ice
+OL,18,     GCube.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
 PN,23206
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1741920968
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G6/7
+OL,0,        ECIMSBWebfax 2   F232A1741928181
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G6/8
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
+OL,3,CProgramme listings for FRI 14 MAR
+OL,4,G0100FC2C Greatest Hits with Darius
+OL,5,     FRucker
+OL,6,     GCountry superstar Darius Rucker
+OL,7,     Gtakes a look back at the best of
+OL,8,     Gthe C2C best from 2013 to 2024,
+OL,9,     Gwith music and chat from Lady A,
+OL,10,     GCarrie Underwood, Kane Brown, and
+OL,11,     Gmore!
+OL,12,G0200FEdith Bowman's Ultimate Country
+OL,13,     FMusic Films
+OL,14,     GEdith Bowman presents her
+OL,15,     Gultimate guide to country music
+OL,16,     Gfilms through the songs that
+OL,17,     Gbring them to life.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,233,200,150,300,000,100
+PN,23207
+SC,0007
+PS,c000
+OL,0,        ECIMSBWebfax 2   F232A1741928181
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G7/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 14 MAR
 OL,4,G0300FSophie Ellis-Bextor's Kitchen
@@ -155,11 +172,11 @@ OL,17,     GEva Cassidy.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
-PN,23207
-SC,0007
+PN,23208
+SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1741920968
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G7/7
+OL,0,        ECIMSBWebfax 2   F232A1741928181
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G8/8
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 14 MAR
 OL,4,G0500FRadio 2 In Concert
