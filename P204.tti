@@ -1,23 +1,26 @@
 PN,20400
 SC,0000
 PS,8000
-OL,0,        ECIMSBWebfax 2   F204A1743554881
+OL,0,        ECIMSBWebfax 2   F204A1743565704
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for TUE 1 APR
 OL,4,G0100FBBC R4 Joins BBC World Service
 OL,5,G0500FNews Summary
 OL,6,G0504FYesterday in Parliament
-OL,7,     GNews, views and features on
-OL,8,     Gtoday's stories in Parliament.
-OL,9,G0534FShipping Forecast
-OL,10,G0543FPrayer for the Day
-OL,11,     GSpiritual reflection to start the
-OL,12,     Gday with writer and broadcaster,
-OL,13,     GAnna Magnusson.
-OL,14,G0545FFarming Today
-OL,15,     GThe latest news about food,
-OL,16,     Gfarming and the countryside.
+OL,7,     GAlicia McCarthy reports on the
+OL,8,     Gjustice secretary's statement to
+OL,9,     GMPs about sentencing guidelines.
+OL,10,G0534FShipping Forecast
+OL,11,G0543FPrayer for the Day
+OL,12,     GSpiritual reflection to start the
+OL,13,     Gday with writer and broadcaster,
+OL,14,     GAnna Magnusson.
+OL,15,G0545FFarming Today
+OL,16,     GThe struggles of young people to
+OL,17,     Gfind a home on the Scottish
+OL,18,     Gislands, and one community which
+OL,19,     Gfound a solution.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100

@@ -1,7 +1,7 @@
 PN,24101
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
@@ -15,14 +15,18 @@ OL,10,     GLive news, business and sport
 OL,11,     Gfrom around the world.
 OL,12,G0800FBBC News
 OL,13,G0806FThe Interview
-OL,14,     GIn-depth, interviews with
-OL,15,     Gnewsworthy personalities.
-OL,16,G0830FBBC News Summary
+OL,14,     GIone Wells speaks to Daniel
+OL,15,     GNoboa, the President of Ecuador,
+OL,16,     Gahead of the country's elections.
+OL,17,     GIs his uncompromising stance on
+OL,18,     Gviolence bringing Ecuador closer
+OL,19,     Gto peace?
+OL,20,G0830FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24102
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
@@ -49,7 +53,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24103
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
@@ -74,7 +78,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24104
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
@@ -100,7 +104,7 @@ OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24105
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
@@ -109,182 +113,192 @@ OL,5,     GThe world's Newsroom brings you
 OL,6,     Gglobal events as they happen.
 OL,7,G1330FBBC News Summary
 OL,8,G1332FTech Life
-OL,9,     GHow tech is transforming the way
-OL,10,     Gthe world works, learns and plays.
-OL,11,G1400FBBC News
-OL,12,G1406FNewshour
-OL,13,     GInterviews, news and analysis of
-OL,14,     Gthe day's global events.
-OL,15,G1500FBBC News
-OL,16,G1506FThe Interview
-OL,17,     GIn-depth, interviews with
-OL,18,     Gnewsworthy personalities.
-OL,19,G1530FBBC News Summary
-OL,20,G1532FWorld Business Report
-OL,21,G1600FBBC News
+OL,9,     GTech Life looks at satellite
+OL,10,     Gnavigation and the increase in
+OL,11,     Gcases of signal interference. How
+OL,12,     Gcould this affect shipping and
+OL,13,     Gaviation safety, and what can be
+OL,14,     Gdone about it ?
+OL,15,G1400FBBC News
+OL,16,G1406FNewshour
+OL,17,     GInterviews, news and analysis of
+OL,18,     Gthe day's global events.
+OL,19,G1500FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24106
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
-OL,4,G1606FBBC OS
-OL,5,     GBBC OS gives a vibrant account of
-OL,6,     Gthe day's events with explanation
-OL,7,     Gand reaction from those involved.
-OL,8,G1700FBBC News
-OL,9,G1706FBBC OS
-OL,10,     GBBC OS gives a vibrant account of
-OL,11,     Gthe day's events with explanation
-OL,12,     Gand reaction from those involved.
-OL,13,G1800FBBC News
-OL,14,G1806FOutlook
-OL,15,     GTrue stories of ordinary people
-OL,16,     Gand the extraordinary events that
-OL,17,     Ghave shaped their lives.
+OL,4,G1506FThe Interview
+OL,5,     GIone Wells speaks to Daniel
+OL,6,     GNoboa, the President of Ecuador,
+OL,7,     Gahead of the country's elections.
+OL,8,     GIs his uncompromising stance on
+OL,9,     Gviolence bringing Ecuador closer
+OL,10,     Gto peace?
+OL,11,G1530FBBC News Summary
+OL,12,G1532FWorld Business Report
+OL,13,G1600FBBC News
+OL,14,G1606FBBC OS
+OL,15,     GBBC OS gives a vibrant account of
+OL,16,     Gthe day's events with explanation
+OL,17,     Gand reaction from those involved.
+OL,18,G1700FBBC News
+OL,19,G1706FBBC OS
+OL,20,     GBBC OS gives a vibrant account of
+OL,21,     Gthe day's events with explanation
+OL,22,     Gand reaction from those involved.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24107
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
-OL,4,G1850FWitness History
-OL,5,     GIn 1976, Jenette Kahn began one
-OL,6,     Gof the biggest roles in comic
-OL,7,     Gbooks - publisher of DC Comics,
-OL,8,     Ghome to Superman, Batman and
-OL,9,     GWonder Woman. She was only 28 and
-OL,10,     Gthe first female boss.
-OL,11,G1900FBBC News
-OL,12,G1906FThe Newsroom
-OL,13,     GThe world's Newsroom brings you
-OL,14,     Gglobal events as they happen.
-OL,15,G1930FBBC News Summary
-OL,16,G1932FSport Today
-OL,17,     GBBC sports correspondents tell
-OL,18,     Gthe story behind today's top
-OL,19,     Gsporting news, with interviews
-OL,20,     Gand reports from across the world.
-OL,21,G2000FBBC News
+OL,4,G1800FBBC News
+OL,5,G1806FOutlook
+OL,6,     GTrue stories of ordinary people
+OL,7,     Gand the extraordinary events that
+OL,8,     Ghave shaped their lives.
+OL,9,G1850FWitness History
+OL,10,     GIn 1976, Jenette Kahn began one
+OL,11,     Gof the biggest roles in comic
+OL,12,     Gbooks - publisher of DC Comics,
+OL,13,     Ghome to Superman, Batman and
+OL,14,     GWonder Woman. She was only 28 and
+OL,15,     Gthe first female boss.
+OL,16,G1900FBBC News
+OL,17,G1906FThe Newsroom
+OL,18,     GThe world's Newsroom brings you
+OL,19,     Gglobal events as they happen.
+OL,20,G1930FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24108
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
-OL,4,G2006FThe Climate Question
-OL,5,     GWhat's the best size for a wind
-OL,6,     Gturbine? Can we turn gas guzzlers
-OL,7,     Ginto electric vehicles? How much
-OL,8,     Gwill the green transition
-OL,9,     Gactually cost? Our panel answer
-OL,10,     Gyour head scratchers.
-OL,11,G2030FBBC News Summary
-OL,12,G2032FHealth Check
-OL,13,     GHealth issues and medical
-OL,14,     Gbreakthroughs from around the
-OL,15,     Gworld.
-OL,16,G2100FBBC News
-OL,17,G2106FNewshour
-OL,18,     GInterviews, news and analysis of
-OL,19,     Gthe day's global events.
-OL,20,G2200FBBC News
+OL,4,G1932FSport Today
+OL,5,     GBBC sports correspondents tell
+OL,6,     Gthe story behind today's top
+OL,7,     Gsporting news, with interviews
+OL,8,     Gand reports from across the world.
+OL,9,G2000FBBC News
+OL,10,G2006FThe Climate Question
+OL,11,     GWhat's the best size for a wind
+OL,12,     Gturbine? Can we turn gas guzzlers
+OL,13,     Ginto electric vehicles? How much
+OL,14,     Gwill the green transition
+OL,15,     Gactually cost? Our panel answer
+OL,16,     Gyour head scratchers.
+OL,17,G2030FBBC News Summary
+OL,18,G2032FHealth Check
+OL,19,     GHealth issues and medical
+OL,20,     Gbreakthroughs from around the
+OL,21,     Gworld.
+OL,22,G2100FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24109
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
-OL,4,G2206FThe Interview
-OL,5,     GIn-depth, interviews with
-OL,6,     Gnewsworthy personalities.
-OL,7,G2230FBBC News Summary
-OL,8,G2232FWorld Of Secrets
-OL,9,     GIt's gold fever. Investors hear
-OL,10,     Gof unimaginable riches deep in
-OL,11,     Gthe Indonesian jungle and a small
-OL,12,     GCanadian town is gripped.
-OL,13,G2300FBBC News
-OL,14,G2306FThe Newsroom
-OL,15,     GThe world's Newsroom brings you
-OL,16,     Gglobal events as they happen.
-OL,17,G2330FBBC News Summary
-OL,18,G2332FWorld Business Report
-OL,19,G0000FBBC News
+OL,4,G2106FNewshour
+OL,5,     GInterviews, news and analysis of
+OL,6,     Gthe day's global events.
+OL,7,G2200FBBC News
+OL,8,G2206FThe Interview
+OL,9,     GIone Wells speaks to Daniel
+OL,10,     GNoboa, the President of Ecuador,
+OL,11,     Gahead of the country's elections.
+OL,12,     GIs his uncompromising stance on
+OL,13,     Gviolence bringing Ecuador closer
+OL,14,     Gto peace?
+OL,15,G2230FBBC News Summary
+OL,16,G2232FWorld Of Secrets
+OL,17,     GIt's gold fever. Investors hear
+OL,18,     Gof unimaginable riches deep in
+OL,19,     Gthe Indonesian jungle and a small
+OL,20,     GCanadian town is gripped.
+OL,21,G2300FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24110
 SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
-OL,4,G0006FThe Documentary
-OL,5,     GFive years on from the global
-OL,6,     Glockdown we catch up with "the
-OL,7,     Gcovid generation".
-OL,8,G0100FBBC News
-OL,9,G0106FBusiness Matters
-OL,10,     GGlobal business news, with live
-OL,11,     Gguests and contributions from
-OL,12,     GAsia and the USA.
-OL,13,G0200FBBC News
-OL,14,G0206FThe Newsroom
-OL,15,     GThe world's Newsroom brings you
-OL,16,     Gglobal events as they happen.
-OL,17,G0230FBBC News Summary
-OL,18,G0232FThe Documentary
-OL,19,     GDouglas Fraser investigates the
-OL,20,     Gstruggle to defend critical
-OL,21,     Gsubsea infrastructure.
-OL,22,G0300FBBC News
+OL,4,G2306FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G2330FBBC News Summary
+OL,8,G2332FWorld Business Report
+OL,9,G0000FBBC News
+OL,10,G0006FThe Documentary
+OL,11,     GFive years on from the global
+OL,12,     Glockdown we catch up with "the
+OL,13,     Gcovid generation".
+OL,14,G0100FBBC News
+OL,15,G0106FBusiness Matters
+OL,16,     GGlobal business news, with live
+OL,17,     Gguests and contributions from
+OL,18,     GAsia and the USA.
+OL,19,G0200FBBC News
+OL,20,G0206FThe Newsroom
+OL,21,     GThe world's Newsroom brings you
+OL,22,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24111
 SC,0011
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
-OL,4,G0306FOutlook
-OL,5,     GTrue stories of ordinary people
-OL,6,     Gand the extraordinary events that
-OL,7,     Ghave shaped their lives.
-OL,8,G0350FWitness History
-OL,9,     GIn 1976, Jenette Kahn began one
-OL,10,     Gof the biggest roles in comic
-OL,11,     Gbooks - publisher of DC Comics,
-OL,12,     Ghome to Superman, Batman and
-OL,13,     GWonder Woman. She was only 28 and
-OL,14,     Gthe first female boss.
-OL,15,G0400FBBC News
-OL,16,G0406FThe Newsroom
-OL,17,     GThe world's Newsroom brings you
-OL,18,     Gglobal events as they happen.
-OL,19,G0430FBBC News Summary
+OL,4,G0230FBBC News Summary
+OL,5,G0232FThe Documentary
+OL,6,     GDouglas Fraser investigates the
+OL,7,     Gstruggle to defend critical
+OL,8,     Gsubsea infrastructure.
+OL,9,G0300FBBC News
+OL,10,G0306FOutlook
+OL,11,     GTrue stories of ordinary people
+OL,12,     Gand the extraordinary events that
+OL,13,     Ghave shaped their lives.
+OL,14,G0350FWitness History
+OL,15,     GIn 1976, Jenette Kahn began one
+OL,16,     Gof the biggest roles in comic
+OL,17,     Gbooks - publisher of DC Comics,
+OL,18,     Ghome to Superman, Batman and
+OL,19,     GWonder Woman. She was only 28 and
+OL,20,     Gthe first female boss.
+OL,21,G0400FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24112
 SC,0012
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1743486340
+OL,0,        ECIMSBWebfax 2   F241A1743565704
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for WED 2 APR
-OL,4,G0432FThe Food Chain
-OL,5,     GThe Food Chain examines the
-OL,6,     Gbusiness, science and cultural
-OL,7,     Gsignificance of food, and what it
-OL,8,     Gtakes to put food on your plate.
-OL,9,G0500FBBC News
-OL,10,G0506FNewsday
-OL,11,     GLive news, business and sport
-OL,12,     Gfrom around the world.
+OL,4,G0406FThe Newsroom
+OL,5,     GThe world's Newsroom brings you
+OL,6,     Gglobal events as they happen.
+OL,7,G0430FBBC News Summary
+OL,8,G0432FThe Food Chain
+OL,9,     GWhy convenience stores are having
+OL,10,     Gto change to stay in business.
+OL,11,G0500FBBC News
+OL,12,G0506FNewsday
+OL,13,     GLive news, business and sport
+OL,14,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
