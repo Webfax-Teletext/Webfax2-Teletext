@@ -1,13 +1,13 @@
 PN,23501
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F235A1743659474
+OL,0,        ECIMSBWebfax 2   F235A1743738796
 OL,1,W{${$~+$ {$~{4k4h7} *w3 j5 j5G1/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' "-$"' V,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for FRI 4 APR
 OL,4,G0600F5 Live Breakfast
-OL,5,     GRick Edwards and Laura McGhie
+OL,5,     GLaura McGhie and Gordon Smart
 OL,6,     Gpresent with unique stories from
 OL,7,     Gacross the UK, explaining details
 OL,8,     Gbehind the headlines, and the
@@ -29,7 +29,7 @@ FL,236,200,150,300,000,100
 PN,23502
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F235A1743659474
+OL,0,        ECIMSBWebfax 2   F235A1743738796
 OL,1,W{${$~+$ {$~{4k4h7} *w3 j5 j5G2/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' "-$"' V,,,,
 OL,3,CProgramme listings for
@@ -57,7 +57,7 @@ FL,236,200,150,300,000,100
 PN,23503
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F235A1743659474
+OL,0,        ECIMSBWebfax 2   F235A1743738796
 OL,1,W{${$~+$ {$~{4k4h7} *w3 j5 j5G3/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' "-$"' V,,,,
 OL,3,CProgramme listings for
@@ -85,7 +85,7 @@ FL,236,200,150,300,000,100
 PN,23504
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F235A1743659474
+OL,0,        ECIMSBWebfax 2   F235A1743738796
 OL,1,W{${$~+$ {$~{4k4h7} *w3 j5 j5G4/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' "-$"' V,,,,
 OL,3,CProgramme listings for
@@ -94,6 +94,10 @@ OL,4,G0500F5 Live Boxing
 OL,5,     GThe latest boxing news,
 OL,6,     Gdiscussion and interviews ahead
 OL,7,     Gof the big fight nights.
+OL,8,G0530F5 Live Sport
+OL,9,     GJohn Murray, Ian Dennis and Ali
+OL,10,     GBruce-Ball lift the lid on life
+OL,11,     Gas 5 Live commentators.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,236,200,150,300,000,100
