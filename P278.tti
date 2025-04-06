@@ -1,15 +1,48 @@
-PN,27800
-SC,0000
-PS,8000
-OL,0,        ECIMSBWebfax 2   F278A1743901066
-OL,1,W{${$~+$ w1u5w1w1w15w15 kk
+PN,27801
+SC,0001
+PS,c000
+OL,0,        ECIMSBWebfax 2   F278A1743919093
+OL,1,W{${$~+$ w1u5w1w1w15w15 kk       G1/2
 OL,2,W/.!/.!+.! ,%%%-$% % %-$-$..V(,,,,,,,,,,
-OL,3,CProgramme listings for SAT 5 APR
-OL,4,G0100FWeekend overnights with BBC Radio
-OL,5,     F5 Live
-OL,6,     GLocal BBC Radio joins BBC Radio 5
-OL,7,     GLive through the night on a
-OL,8,     Gweekend.
+OL,3,CProgramme listings for SUN 6 APR
+OL,4,G0600FKat Cowan on BBC Radio Sheffield
+OL,5,     GThe week's big topics, faith and
+OL,6,     Gethical discussion.
+OL,7,G0900FThe Grow Show
+OL,8,     GXanthe and Neil Grant answer all
+OL,9,     Gyour gardening questions.
+OL,10,G1000FBecky Measures on BBC Radio
+OL,11,     FSheffield
+OL,12,     GSunday conversation, lifestyle
+OL,13,     Gand listeners' stories, plus
+OL,14,     Gmusic.
+OL,15,G1400FSile Sibanda
+OL,16,     GDixie is here with Sunday
+OL,17,     Gafternoon music, conversation and
+OL,18,     Gupdates.
+OL,19,G1800FDotun Adebayo
+OL,20,     GDotun Adebayo brings you the best
+OL,21,     Gof community programming from
+OL,22,     Gacross England.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BReg RadioCWeather FReg Sport
+FL,300,250,120,301,000,100
+PN,27802
+SC,0002
+PS,c000
+OL,0,        ECIMSBWebfax 2   F278A1743919093
+OL,1,W{${$~+$ w1u5w1w1w15w15 kk       G2/2
+OL,2,W/.!/.!+.! ,%%%-$% % %-$-$..V(,,,,,,,,,,
+OL,3,CProgramme listings for SUN 6 APR
+OL,4,G2200FThe Late Show
+OL,5,     GAsma Younus with late-night
+OL,6,     Gconversation, stories and the
+OL,7,     Gsoundtrack to your night.
+OL,8,G0100FWeekday overnights with BBC Radio
+OL,9,     F5 Live
+OL,10,     GLocal BBC Radio joins BBC Radio 5
+OL,11,     GLive through the night on a
+OL,12,     Gweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg RadioCWeather FReg Sport
 FL,300,250,120,301,000,100
