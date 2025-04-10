@@ -1,23 +1,17 @@
 PN,20400
 SC,0000
 PS,8000
-OL,0,        ECIMSBWebfax 2   F204A1744246301
+OL,0,        ECIMSBWebfax 2   F204A1744260729
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 9 APR
-OL,4,G0100FBBC R4 Joins BBC World Service
-OL,5,G0500FNews Summary
-OL,6,G0504FMore or Less
-OL,7,     GAlso, counting bobbies, freezing
-OL,8,     Gtax and electrocuting redheads.
-OL,9,G0534FShipping Forecast
-OL,10,G0543FPrayer for the Day
-OL,11,     GSpiritual reflection to start the
-OL,12,     Gday with Rev Richard Frazer of
-OL,13,     Gthe Church of Scotland.
-OL,14,G0545FFarming Today
-OL,15,     GThe latest news about food,
-OL,16,     Gfarming and the countryside.
+OL,4,G0545FFarming Today
+OL,5,     GAs firefighters around the UK
+OL,6,     Gtackle wildfires, farmers in
+OL,7,     GNorthern Ireland call for more
+OL,8,     Ggrazing and controlled burning in
+OL,9,     Gsome protected areas to help
+OL,10,     Greduce the risks.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
