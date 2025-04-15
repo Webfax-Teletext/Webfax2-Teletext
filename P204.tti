@@ -1,8 +1,8 @@
-PN,20400
-SC,0000
-PS,8000
-OL,0,        ECIMSBWebfax 2   F204A1744678610
-OL,1,W{${$~+$ {$~{4k4h7} *u|
+PN,20401
+SC,0001
+PS,c000
+OL,0,        ECIMSBWebfax 2   F204A1744689434
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for MON 14 APR
 OL,4,G0100FBBC R4 Joins BBC World Service
@@ -18,9 +18,23 @@ OL,13,G0543FPrayer for the Day
 OL,14,     GA reflection and prayer to start
 OL,15,     Gthe day with Dr Geraldine Smyth
 OL,16,     GOP.
-OL,17,G0545FFarming Today
-OL,18,     GThe latest news about food,
-OL,19,     Gfarming and the countryside.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20402
+SC,0002
+PS,c000
+OL,0,        ECIMSBWebfax 2   F204A1744689434
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for MON 14 APR
+OL,4,G0545FFarming Today
+OL,5,     GTravellers have been banned from
+OL,6,     Gbringing meat and dairy from all
+OL,7,     GEU countries into the UK
+OL,8,     Gfollowing Foot and Mouth disease
+OL,9,     Gin Germany, Hungary and Slovakia.
+OL,10,     GWith Anna Hill.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
