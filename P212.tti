@@ -1,28 +1,25 @@
 PN,21200
 SC,0000
 PS,8000
-OL,0,        ECIMSBWebfax 2   F212A1745171190
+OL,0,        ECIMSBWebfax 2   F212A1745182017
 OL,1,W jw=h7-
 OL,2,W+,*-'"-'V(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 OL,3,CProgramme listings for SUN 20 APR
-OL,4,G1800FClare Foges
-OL,5,     GClare Foges is Leading Britain's
-OL,6,     GConversation
-OL,7,G2100FDean Dunham
-OL,8,     GDean Dunham is Leading Britain's
-OL,9,     GConversation.
-OL,10,G2200FNick Abbot
+OL,4,G2100FDean Dunham
+OL,5,     GDean Dunham is Leading Britain's
+OL,6,     GConversation.
+OL,7,G2200FNick Abbot
+OL,8,     GNick Abbot is Leading Britain's
+OL,9,     GConversation
+OL,10,G0000FNick Abbot
 OL,11,     GNick Abbot is Leading Britain's
 OL,12,     GConversation
-OL,13,G0000FNick Abbot
-OL,14,     GNick Abbot is Leading Britain's
-OL,15,     GConversation
-OL,16,G0100FRichard Spurr
-OL,17,     GRichard Spurr is Leading
-OL,18,     GBritain's Conversation.
-OL,19,G0400FIan Payne
-OL,20,     GIan Payne is Leading Britain's
-OL,21,     GConversation.
+OL,13,G0100FRichard Spurr
+OL,14,     GRichard Spurr is Leading
+OL,15,     GBritain's Conversation.
+OL,16,G0400FIan Payne
+OL,17,     GIan Payne is Leading Britain's
+OL,18,     GConversation.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,213,200,150,300,000,100
