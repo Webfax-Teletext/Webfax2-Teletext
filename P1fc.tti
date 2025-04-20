@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8010
-OL,0,        ECIMSBWebfax 2   F1fcA1745153160
+PN,1fc01
+SC,0001
+PS,c010
+OL,0,        ECIMSBWebfax 2   F1fcA1745156765
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,7 +13,38 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1745153159;
-OL,10,GService: Webfax 2 - 4478 f16d93d43
-OL,11,FLast Update: 20/04/2025 13:45:59      
-OL,13,Abbc_news_papers            G19/04-13:41
+OL,25,1745156765;
+OL,10,GService: Webfax 2 - 4479 4738d0293
+OL,11,FLast Update: 20/04/2025 14:46:05  G1/2
+OL,13,CbbcNews/Politics           G19/04-13:41
+OL,14,CbbcSport/Horse Racing      G19/04-13:41
+OL,15,Abbc_news_papers            G19/04-13:41
+OL,16,CitvNews/border             G19/04-13:42
+OL,17,CitvNews/london             G19/04-13:42
+OL,18,CitvSport/border            G19/04-13:42
+OL,19,CitvSport/calendar          G19/04-13:42
+OL,20,CitvSport/granada           G19/04-13:42
+OL,21,CitvSport/london            G19/04-13:42
+OL,22,CitvSport/tyne-tees         G19/04-13:42
+OL,23,CitvSport/utv               G19/04-13:42
+PN,1fc02
+SC,0002
+PS,c010
+OL,0,        ECIMSBWebfax 2   F1fcA1745156765
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1745156765;
+OL,10,GService: Webfax 2 - 4479 4738d0293
+OL,11,FLast Update: 20/04/2025 14:46:05  G2/2
+OL,13,CitvSport/wales             G19/04-13:42
+OL,14,CitvSport/westcountry       G19/04-13:42
+OL,15,Ctvroom/cleanfeed           G19/04-13:42
