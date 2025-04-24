@@ -1,102 +1,90 @@
 PN,21101
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F211A1745528434
+OL,0,        ECIMSBWebfax 2   F211A1745532041
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/4
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 APR
-OL,4,G2200FBBC News
-OL,5,G2206FThe Inquiry
-OL,6,     GWith the global economy
-OL,7,     Gcontinuing to react to tariffs
-OL,8,     Gimposed by Donald Trump, the US
-OL,9,     GPresident might have further
-OL,10,     Gplans not yet announced.
-OL,11,G2230FBBC News Summary
-OL,12,G2232FThe Food Chain
-OL,13,     GWe hear from the women making
-OL,14,     Gfood products at home as a source
-OL,15,     Gof income.
-OL,16,G2300FBBC News
-OL,17,G2306FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G2330FBBC News Summary
-OL,21,G2332FWorld Business Report
-OL,22,G0000FBBC News
+OL,4,G2300FBBC News
+OL,5,G2306FThe Newsroom
+OL,6,     GThe world's Newsroom brings you
+OL,7,     Gglobal events as they happen.
+OL,8,G2330FBBC News Summary
+OL,9,G2332FWorld Business Report
+OL,10,G0000FBBC News
+OL,11,G0006FThe Explanation
+OL,12,     GA global, topical weekly show
+OL,13,     Gthat lifts the hood on the
+OL,14,     Gentertainment and news business.
+OL,15,G0030FBBC News Summary
+OL,16,G0032FHappy News
+OL,17,     GPositive news stories.
+OL,18,G0100FBBC News
+OL,19,G0106FBusiness Matters
+OL,20,     GGlobal business news, with live
+OL,21,     Gguests and contributions from
+OL,22,     GAsia and the USA.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21102
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F211A1745528434
+OL,0,        ECIMSBWebfax 2   F211A1745532041
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/4
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 APR
-OL,4,G0006FThe Explanation
-OL,5,     GA global, topical weekly show
-OL,6,     Gthat lifts the hood on the
-OL,7,     Gentertainment and news business.
-OL,8,G0030FBBC News Summary
-OL,9,G0032FHappy News
-OL,10,     GPositive news stories.
-OL,11,G0100FBBC News
-OL,12,G0106FBusiness Matters
-OL,13,     GGlobal business news, with live
-OL,14,     Gguests and contributions from
-OL,15,     GAsia and the USA.
-OL,16,G0200FBBC News
-OL,17,G0206FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G0230FBBC News Summary
+OL,4,G0200FBBC News
+OL,5,G0206FThe Newsroom
+OL,6,     GThe world's Newsroom brings you
+OL,7,     Gglobal events as they happen.
+OL,8,G0230FBBC News Summary
+OL,9,G0232FTech Life
+OL,10,     GDo dolphins have their own
+OL,11,     Glanguage ? And could we 'speak'
+OL,12,     Gto them ? An AI large language
+OL,13,     Gmodel from Google, called
+OL,14,     GDolphinGemma, is helping experts
+OL,15,     Gstudy dolphin communication.
+OL,16,G0300FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21103
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F211A1745528434
+OL,0,        ECIMSBWebfax 2   F211A1745532041
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/4
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 APR
-OL,4,G0232FTech Life
-OL,5,     GDo dolphins have their own
-OL,6,     Glanguage ? And could we 'speak'
-OL,7,     Gto them ? An AI large language
-OL,8,     Gmodel from Google, called
-OL,9,     GDolphinGemma, is helping experts
-OL,10,     Gstudy dolphin communication.
-OL,11,G0300FBBC News
-OL,12,G0306FOutlook
-OL,13,     GGeorgiana Viou is a chef who
-OL,14,     Ginfuses Mediterranean cooking
-OL,15,     Gwith the flavours of her native
-OL,16,     GBenin. She has a Michelin star
-OL,17,     Gand is the final story in the
-OL,18,     GChain Reaction series.
+OL,4,G0306FOutlook
+OL,5,     GGeorgiana Viou is a chef who
+OL,6,     Ginfuses Mediterranean cooking
+OL,7,     Gwith the flavours of her native
+OL,8,     GBenin. She has a Michelin star
+OL,9,     Gand is the final story in the
+OL,10,     GChain Reaction series.
+OL,11,G0350FWitness History
+OL,12,     GIn September 1987, Shakespeare's
+OL,13,     GOthello was staged in
+OL,14,     GJohannesburg, South Africa. It
+OL,15,     Gstarred black actor, John Kani,
+OL,16,     Gwho kissed a white actress.
+OL,17,G0400FBBC News
+OL,18,G0406FThe Newsroom
+OL,19,     GThe world's Newsroom brings you
+OL,20,     Gglobal events as they happen.
+OL,21,G0430FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,21104
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F211A1745528434
+OL,0,        ECIMSBWebfax 2   F211A1745532041
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/4
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 24 APR
-OL,4,G0350FWitness History
-OL,5,     GIn September 1987, Shakespeare's
-OL,6,     GOthello was staged in
-OL,7,     GJohannesburg, South Africa. It
-OL,8,     Gstarred black actor, John Kani,
-OL,9,     Gwho kissed a white actress.
-OL,10,G0400FBBC News
-OL,11,G0406FThe Newsroom
-OL,12,     GThe world's Newsroom brings you
-OL,13,     Gglobal events as they happen.
-OL,14,G0430FBBC News Summary
-OL,15,G0432FHeart and Soul
-OL,16,     GTim Eriksen takes us into the
-OL,17,     Ghair-raising sound of shape note
-OL,18,     Gsinging.
-OL,19,G0500FBBC News
-OL,20,G0506FNewsday
-OL,21,     GLive news, business and sport
-OL,22,     Gfrom around the world.
+OL,4,G0432FHeart and Soul
+OL,5,     GTim Eriksen takes us into the
+OL,6,     Ghair-raising sound of shape note
+OL,7,     Gsinging.
+OL,8,G0500FBBC News
+OL,9,G0506FNewsday
+OL,10,     GLive news, business and sport
+OL,11,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
