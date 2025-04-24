@@ -1,7 +1,7 @@
 PN,23101
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1745387685
+OL,0,        ECIMSBWebfax 2   F231A1745470684
 OL,1,W{${$~+$ {$~{4k4h7} (        G1/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 APR
@@ -28,7 +28,7 @@ FL,232,200,150,300,000,100
 PN,23102
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1745387685
+OL,0,        ECIMSBWebfax 2   F231A1745470684
 OL,1,W{${$~+$ {$~{4k4h7} (        G2/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 APR
@@ -43,9 +43,9 @@ OL,11,     Gtunes for the way home.
 OL,12,G1745FNewsbeat @ 17:45
 OL,13,G1800FRadio 1's New Music Show with
 OL,14,     FJack Saunders
-OL,15,     GBBC Sound of 2022 winner
-OL,16,     Gpinkpantheress drops a new track
-OL,17,     G& Gigi Perez is on Most Played.
+OL,15,     GBBC Sound Of 2022 winner
+OL,16,     Gpinkpantheress drops a new track,
+OL,17,     Gand Gigi Perez is on Most Played.
 OL,18,G2000FRadio 1's Rave-Up with Charlie Tee
 OL,19,     GCharlie Tee raves up your
 OL,20,     GThursday night!
@@ -55,7 +55,7 @@ FL,232,200,150,300,000,100
 PN,23103
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1745387685
+OL,0,        ECIMSBWebfax 2   F231A1745470684
 OL,1,W{${$~+$ {$~{4k4h7} (        G3/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 APR
@@ -67,34 +67,36 @@ OL,8,     GIntroducing, with new music from
 OL,9,     GMandidextrous, Catching Cairo,
 OL,10,     GLili Chan and more!
 OL,11,G2300FRadio 1's Residency - Tita Lau
-OL,12,     GThe biggest names in dance music
-OL,13,     Gfrom the underground to the arena.
-OL,14,G0100FDanny Howard's Club Mix
-OL,15,     GDanny goes in with another Club
-OL,16,     GMix with tracks from Toddy Terry,
-OL,17,     GDJ Minx & Riva Starr and more.
-OL,18,G0200FRadio 1 Anthems
-OL,19,     GMatt brings you a selection of
-OL,20,     Gthe biggest anthems to soundtrack
-OL,21,     Gyour day.
+OL,12,     GTita Lau rounds off her Residency
+OL,13,     Gwith 2 hours of classic dance
+OL,14,     Ghits that inspired her to become
+OL,15,     Ga DJ!
+OL,16,G0100FDanny Howard's Club Mix
+OL,17,     GDanny goes in with another Club
+OL,18,     GMix with tracks from Toddy Terry,
+OL,19,     GDJ Minx & Riva Starr and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,232,200,150,300,000,100
 PN,23104
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1745387685
+OL,0,        ECIMSBWebfax 2   F231A1745470684
 OL,1,W{${$~+$ {$~{4k4h7} (        G4/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 APR
-OL,4,G0400FRadio 1's Workout Anthems
-OL,5,     GSwedish House Mafia, Fatboy Slim,
-OL,6,     GCamelphat and more of the best
-OL,7,     Gworkout anthems!
-OL,8,G0500FRadio 1 Early Breakfast with Cloe
-OL,9,     FLee
-OL,10,     GCloe Lee has Radio 1 Early
-OL,11,     GBreakfast.
+OL,4,G0200FRadio 1 Anthems
+OL,5,     GMatt brings you a selection of
+OL,6,     Gthe biggest anthems to soundtrack
+OL,7,     Gyour day.
+OL,8,G0400FRadio 1's Workout Anthems
+OL,9,     GSwedish House Mafia, Fatboy Slim,
+OL,10,     GCamelphat and more of the best
+OL,11,     Gworkout anthems!
+OL,12,G0500FRadio 1 Early Breakfast with Cloe
+OL,13,     FLee
+OL,14,     GCloe Lee has Radio 1 Early
+OL,15,     GBreakfast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,232,200,150,300,000,100
