@@ -1,7 +1,7 @@
 PN,23401
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
@@ -14,8 +14,8 @@ OL,9,     Gthe ancient Epping Forest was
 OL,10,     Gfought for, and saved by, the
 OL,11,     Gpeople of East London.
 OL,12,G0630FFarming Today This Week
-OL,13,     GThe latest news about food,
-OL,14,     Gfarming and the countryside.
+OL,13,     GThe latest on new restrictions on
+OL,14,     Gpersonal imports from the EU.
 OL,15,G0657FWeather Forecast
 OL,16,G0700FToday
 OL,17,G0900FSaturday Live
@@ -28,7 +28,7 @@ FL,235,200,150,300,000,100
 PN,23402
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
@@ -47,8 +47,10 @@ OL,15,     Gwould go on to become one of the
 OL,16,     Gmost recorded Spanish-language
 OL,17,     Gsongs of all time.
 OL,18,G1100FThe Week in Westminster
-OL,19,     GRadio 4's assessment of
-OL,20,     Gdevelopments at Westminster.
+OL,19,     GGeorge Parker, the Political
+OL,20,     GEditor of the Financial Times,
+OL,21,     Gassesses the latest developments
+OL,22,     Gat Westminster.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
@@ -56,54 +58,61 @@ OL,26,@uD@RrpvD@Vrr
 PN,23403
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G3/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
 OL,4,G1130FFrom Our Own Correspondent
-OL,5,     GInsight, and analysis from BBC
-OL,6,     Gcorrespondents around the world.
-OL,7,G1200FNews Summary
-OL,8,G1204FMoney Box
-OL,9,     GThe latest news from the world of
-OL,10,     Gpersonal finance.
-OL,11,G1230FThe News Quiz
-OL,12,     GTopical panel quiz show, taking
-OL,13,     Gits questions from the week's
-OL,14,     Gnews stories.
-OL,15,G1257FWeather Forecast
-OL,16,G1300FNews Bulletin
+OL,5,     GAs the first pope to come from
+OL,6,     GLatin America, Pope Francis stood
+OL,7,     Gin solidarity with the region's
+OL,8,     Gpriests, who walk a delicate line
+OL,9,     Gin communities under the control
+OL,10,     Gof drug cartels.
+OL,11,G1200FNews Summary
+OL,12,G1204FMoney Box
+OL,13,     GThere are calls for change in the
+OL,14,     Gway people are treated by
+OL,15,     Gfinancial firms when a loved one
+OL,16,     Gdies.
+OL,17,G1230FThe News Quiz
+OL,18,     GAndrew Maxwell, Zing Tsjeng,
+OL,19,     GJessica Fostekew and Pierre
+OL,20,     GNovellie join Andy Zaltzman for
+OL,21,     Gthis week's News Quiz.
+OL,22,G1257FWeather Forecast
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23404
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G4/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
-OL,4,G1310FAny Questions?
-OL,5,     GAlex Forsyth presents political
-OL,6,     Gdebate from the Strode Theatre in
-OL,7,     GStreet in Somerset with Jess
-OL,8,     GBrown-Fuller MP, John Glen MP,
-OL,9,     GBaroness Angela Smith and Gawain
-OL,10,     GTowler.
-OL,11,G1405FAny Answers?
-OL,12,     GTopical discussion posing
-OL,13,     Gquestions to a panel of political
-OL,14,     Gand media personalities.
-OL,15,G1445FThe Archers
-OL,16,     GLeonard is in the doghouse, and
-OL,17,     GRex comes to a conclusion.
+OL,4,G1300FNews Bulletin
+OL,5,G1310FAny Questions?
+OL,6,     GAlex Forsyth presents political
+OL,7,     Gdebate from the Strode Theatre in
+OL,8,     GStreet in Somerset with Jess
+OL,9,     GBrown-Fuller MP, John Glen MP,
+OL,10,     GBaroness Angela Smith and Gawain
+OL,11,     GTowler.
+OL,12,G1405FAny Answers?
+OL,13,     GTopical discussion posing
+OL,14,     Gquestions to a panel of political
+OL,15,     Gand media personalities.
+OL,16,G1445FThe Archers
+OL,17,     GLeonard is in the doghouse, and
+OL,18,     GRex comes to a conclusion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23405
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G5/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
@@ -131,7 +140,7 @@ FL,235,200,150,300,000,100
 PN,23406
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G6/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
@@ -141,9 +150,9 @@ OL,6,     Gand Rachel Joyce join Stuart
 OL,7,     GMaconie with music from Matilda
 OL,8,     GMann and Maya Delilah.
 OL,9,G1900FProfile
-OL,10,     GAn insight into the character of
-OL,11,     Gan influential person making the
-OL,12,     Gnews headlines.
+OL,10,     GThe former Governor of the Bank
+OL,11,     Gof England hoping to become
+OL,12,     GCanada's Prime Minister.
 OL,13,G1915FThis Cultural Life
 OL,14,     GChoreographer Sir Wayne McGregor
 OL,15,     Gtalks to John Wilson about his
@@ -154,7 +163,7 @@ FL,235,200,150,300,000,100
 PN,23407
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G7/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
@@ -178,7 +187,7 @@ FL,235,200,150,300,000,100
 PN,23408
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G8/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
@@ -192,19 +201,20 @@ OL,10,G2300FCall Jonathan Pie
 OL,11,     GThe whole team are shocked when
 OL,12,     GPie has to defend a past mistake
 OL,13,     Gthat comes back to haunt him.
-OL,14,G2330FNature Table
-OL,15,     GSue Perkins shows and tells
-OL,16,     Gnature with her guests Lucy
-OL,17,     GCooke, Dr. Erica McAlister and
-OL,18,     GKiri Pritchard-McLean. From 2020.
-OL,19,G0000FMidnight News
+OL,14,     GContains very strong language.
+OL,15,G2330FNature Table
+OL,16,     GSue Perkins shows and tells
+OL,17,     Gnature with her guests Lucy
+OL,18,     GCooke, Dr. Erica McAlister and
+OL,19,     GKiri Pritchard-McLean. From 2020.
+OL,20,G0000FMidnight News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23409
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G9/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
@@ -229,7 +239,7 @@ FL,235,200,150,300,000,100
 PN,23410
 SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1745557299
+OL,0,        ECIMSBWebfax 2   F234A1745636689
 OL,1,W{${$~+$ {$~{4k4h7} *u|      G10/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 26 APR
