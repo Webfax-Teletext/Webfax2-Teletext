@@ -1,40 +1,22 @@
-PN,20401
-SC,0001
-PS,c000
-OL,0,        ECIMSBWebfax 2   F204A1745622255
-OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/2
+PN,20400
+SC,0000
+PS,8000
+OL,0,        ECIMSBWebfax 2   F204A1745625863
+OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 25 APR
-OL,4,G0000FMidnight News
-OL,5,G0030FConflict and Co-operation: A
-OL,6,     FHistory of Trade
-OL,7,     GPaul Seabright explores our
-OL,8,     Gtrading past: guilds and trade in
-OL,9,     Gmedieval and early modern Europe.
-OL,10,     GFrom 2018.
-OL,11,G0048FShipping Forecast
-OL,12,G0100FBBC R4 Joins BBC World Service
-OL,13,G0530FNews Summary
-OL,14,G0534FShipping Forecast
-OL,15,G0543FPrayer for the Day
-OL,16,     GA spiritual comment and prayer to
-OL,17,     Gstart the day with Michael Kelly.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,205,200,150,300,000,100
-PN,20402
-SC,0002
-PS,c000
-OL,0,        ECIMSBWebfax 2   F204A1745622255
-OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/2
-OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
-OL,3,CProgramme listings for FRI 25 APR
-OL,4,G0545FChild
-OL,5,     GIndia explores the canonical
-OL,6,     Gimage of the mother-baby bond,
-OL,7,     Gand the speed at which babies
-OL,8,     Gmake social and emotional
-OL,9,     Gconnections.
+OL,4,G0100FBBC R4 Joins BBC World Service
+OL,5,G0530FNews Summary
+OL,6,G0534FShipping Forecast
+OL,7,G0543FPrayer for the Day
+OL,8,     GA spiritual comment and prayer to
+OL,9,     Gstart the day with Michael Kelly.
+OL,10,G0545FChild
+OL,11,     GIndia explores the canonical
+OL,12,     Gimage of the mother-baby bond,
+OL,13,     Gand the speed at which babies
+OL,14,     Gmake social and emotional
+OL,15,     Gconnections.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
