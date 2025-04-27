@@ -1,15 +1,53 @@
-PN,27800
-SC,0000
-PS,8000
-OL,0,        ECIMSBWebfax 2   F278A1745712451
-OL,1,W{${$~+$ w1u5w1w1w15w15 kk
+PN,27801
+SC,0001
+PS,c000
+OL,0,        ECIMSBWebfax 2   F278A1745730500
+OL,1,W{${$~+$ w1u5w1w1w15w15 kk       G1/2
 OL,2,W/.!/.!+.! ,%%%-$% % %-$-$..V(,,,,,,,,,,
-OL,3,CProgramme listings for SAT 26 APR
-OL,4,G0100FWeekend overnights with BBC Radio
-OL,5,     F5 Live
-OL,6,     GLocal BBC Radio joins BBC Radio 5
-OL,7,     GLive through the night on a
-OL,8,     Gweekend.
+OL,3,CProgramme listings for SUN 27 APR
+OL,4,G0600FKat Cowan
+OL,5,     GThe week's big topics, faith and
+OL,6,     Gethical discussion. Includes The
+OL,7,     GGrow Show at 9am.
+OL,8,G1000FBecky Measures
+OL,9,     GSunday conversation, lifestyle
+OL,10,     Gand listeners' stories, plus
+OL,11,     Gmusic.
+OL,12,G1330FFootball Heaven
+OL,13,     GAll the build-up and interviews
+OL,14,     Gahead of the matches featuring
+OL,15,     Gour local teams.
+OL,16,G1400FFootball Heaven Live
+OL,17,     GCoverage of Stevenage v Rotherham
+OL,18,     GUnited in League One. Kick-off at
+OL,19,     G2pm. NOT online.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BReg RadioCWeather FReg Sport
+FL,300,250,120,301,000,100
+PN,27802
+SC,0002
+PS,c000
+OL,0,        ECIMSBWebfax 2   F278A1745730500
+OL,1,W{${$~+$ w1u5w1w1w15w15 kk       G2/2
+OL,2,W/.!/.!+.! ,%%%-$% % %-$-$..V(,,,,,,,,,,
+OL,3,CProgramme listings for SUN 27 APR
+OL,4,G1600FSile Sibanda
+OL,5,     GSile is here with Sunday
+OL,6,     Gafternoon music, conversation and
+OL,7,     Gupdates.
+OL,8,G1800FDotun Adebayo
+OL,9,     GDotun Adebayo brings you the best
+OL,10,     Gof community programming from
+OL,11,     Gacross England.
+OL,12,G2200FThe Late Show
+OL,13,     GMichelle Dignan with late-night
+OL,14,     Gconversation, stories and the
+OL,15,     Gsoundtrack to your night.
+OL,16,G0100FWeekday overnights with BBC Radio
+OL,17,     F5 Live
+OL,18,     GLocal BBC Radio joins BBC Radio 5
+OL,19,     GLive through the night on a
+OL,20,     Gweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg RadioCWeather FReg Sport
 FL,300,250,120,301,000,100
