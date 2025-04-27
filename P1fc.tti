@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1745784629
+OL,0,        ECIMSBWebfax 2   F1fcA1745788237
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1745784628;
-OL,10,GService: Webfax 2 - 4653 5583a415f
-OL,11,FLast Update: 27/04/2025 21:10:28  G1/2
+OL,25,1745788237;
+OL,10,GService: Webfax 2 - 4654 319080b94
+OL,11,FLast Update: 27/04/2025 22:10:37  G1/2
 OL,13,CbbcNews/Technology         G26/04-10:09
 OL,14,CbbcSport/Formula 1         G24/04-22:25
 OL,15,Abbc_news_papers            G19/04-13:41
-OL,16,CitvNews/tyne-tees          G26/04-01:09
-OL,17,CitvSport/calendar          G19/04-13:42
-OL,18,CitvSport/central           G21/04-22:50
-OL,19,CitvSport/london            G19/04-13:42
-OL,20,CitvSport/meridian          G24/04-00:57
-OL,21,CitvSport/tyne-tees         G24/04-11:59
-OL,22,CitvSport/utv               G22/04-16:53
-OL,23,CitvSport/westcountry       G19/04-13:42
+OL,16,CitvNews/channel            G26/04-21:12
+OL,17,CitvNews/tyne-tees          G26/04-01:09
+OL,18,CitvSport/calendar          G19/04-13:42
+OL,19,CitvSport/central           G21/04-22:50
+OL,20,CitvSport/london            G19/04-13:42
+OL,21,CitvSport/meridian          G24/04-00:57
+OL,22,CitvSport/tyne-tees         G24/04-11:59
+OL,23,CitvSport/utv               G22/04-16:53
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1745784629
+OL,0,        ECIMSBWebfax 2   F1fcA1745788237
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,6 +42,7 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1745784628;
-OL,10,GService: Webfax 2 - 4653 5583a415f
-OL,11,FLast Update: 27/04/2025 21:10:28  G2/2
+OL,25,1745788237;
+OL,10,GService: Webfax 2 - 4654 319080b94
+OL,11,FLast Update: 27/04/2025 22:10:37  G2/2
+OL,13,CitvSport/westcountry       G19/04-13:42
