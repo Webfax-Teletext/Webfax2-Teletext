@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1746172202
+PN,1fc00
+SC,0000
+PS,8010
+OL,0,        ECIMSBWebfax 2   F1fcA1746183046
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,38 +13,7 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1746172202;
-OL,10,GService: Webfax 2 - 4761 4fe6f5498
-OL,11,FLast Update: 02/05/2025 08:50:02  G1/2
-OL,13,CbbcSport/Golf              G30/04-10:42
-OL,14,Abbc_news_papers            G27/04-23:33
-OL,15,CitvSport/border            G27/04-23:34
-OL,16,CitvSport/calendar          G29/04-17:40
-OL,17,CitvSport/central           G27/04-23:34
-OL,18,CitvSport/channel           G27/04-23:34
-OL,19,CitvSport/granada           G29/04-10:39
-OL,20,CitvSport/london            G29/04-11:40
-OL,21,CitvSport/meridian          G27/04-23:34
-OL,22,CitvSport/tyne-tees         G27/04-23:34
-OL,23,CitvSport/utv               G27/04-23:34
-PN,1fc02
-SC,0002
-PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1746172202
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1746172202;
-OL,10,GService: Webfax 2 - 4761 4fe6f5498
-OL,11,FLast Update: 02/05/2025 08:50:02  G2/2
-OL,13,CitvSport/wales             G29/04-15:40
-OL,14,CitvSport/westcountry       G27/04-23:34
-OL,15,Ctvroom/cleanfeed           G27/04-23:34
+OL,25,1746183044;
+OL,10,GService: Webfax 2 - 4762 4684f9dd8
+OL,11,FLast Update: 02/05/2025 11:50:44      
+OL,13,Abbc_news_papers            G02/05-11:49
