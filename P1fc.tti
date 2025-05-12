@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8010
-OL,0,        ECIMSBWebfax 2   F1fcA1747086779
+PN,1fc01
+SC,0001
+PS,c010
+OL,0,        ECIMSBWebfax 2   F1fcA1747090388
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,7 +13,38 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1747086779;
-OL,10,GService: Webfax 2 - 4976 c2fbbb02f
-OL,11,FLast Update: 12/05/2025 22:52:59      
+OL,25,1747090388;
+OL,10,GService: Webfax 2 - 4977 4dbc8edb8
+OL,11,FLast Update: 12/05/2025 23:53:08  G1/2
 OL,13,Abbc_news_papers            G11/05-23:33
+OL,14,CitvNews/border             G11/05-23:34
+OL,15,CitvNews/channel            G11/05-23:34
+OL,16,CitvSport/border            G11/05-23:34
+OL,17,CitvSport/calendar          G11/05-23:34
+OL,18,CitvSport/central           G11/05-23:34
+OL,19,CitvSport/channel           G11/05-23:34
+OL,20,CitvSport/london            G11/05-23:34
+OL,21,CitvSport/meridian          G11/05-23:34
+OL,22,CitvSport/tyne-tees         G11/05-23:34
+OL,23,CitvSport/utv               G11/05-23:34
+PN,1fc02
+SC,0002
+PS,c010
+OL,0,        ECIMSBWebfax 2   F1fcA1747090388
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1747090388;
+OL,10,GService: Webfax 2 - 4977 4dbc8edb8
+OL,11,FLast Update: 12/05/2025 23:53:08  G2/2
+OL,13,CitvSport/wales             G11/05-23:34
+OL,14,CitvSport/westcountry       G11/05-23:34
+OL,15,Ctvroom/cleanfeed           G11/05-23:34
