@@ -1,24 +1,43 @@
-PN,23900
-SC,0000
-PS,8000
-OL,0,        ECIMSBWebfax 2   F239A1747029069
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
+PN,23901
+SC,0001
+PS,c000
+OL,0,        ECIMSBWebfax 2   F239A1747112032
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for TUE 13 MAY
 OL,4,G0600FThis Is Sports Extra
-OL,5,     GLive sport coming up on BBC Radio
-OL,6,     G5 Sports Extra.
-OL,7,G1025FCricket
-OL,8,     GLive ball-by-ball cricket
-OL,9,     Gcommentary from BBC Radio Solent
-OL,10,     Gof Somerset v Hampshire in the
-OL,11,     GWomen's One Day Cup.
-OL,12,G1830FThis Is Sports Extra
-OL,13,     GLive sport coming up on BBC Radio
-OL,14,     G5 Sports Extra.
-OL,15,G0000FThis Is Sports Extra
-OL,16,     GLive sport coming up on BBC Radio
-OL,17,     G5 Sports Extra.
+OL,5,     GThis is BBC Radio 5 Sports Extra
+OL,6,     G- bringing you even more live
+OL,7,     Gcommentaries from the world's
+OL,8,     Ggreatest sporting events. Listen
+OL,9,     Gon BBC Sounds.
+OL,10,G1025FCricket
+OL,11,     GLive ball-by-ball cricket
+OL,12,     Gcommentary from BBC Radio Solent
+OL,13,     Gof Somerset v Hampshire in the
+OL,14,     GWomen's One Day Cup.
+OL,15,G1830FThis Is Sports Extra
+OL,16,     GThis is BBC Radio 5 Sports Extra
+OL,17,     G- bringing you even more live
+OL,18,     Gcommentaries from the world's
+OL,19,     Ggreatest sporting events. Listen
+OL,20,     Gon BBC Sounds.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
+PN,23902
+SC,0002
+PS,c000
+OL,0,        ECIMSBWebfax 2   F239A1747112032
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for TUE 13 MAY
+OL,4,G0000FThis Is Sports Extra
+OL,5,     GThis is BBC Radio 5 Sports Extra
+OL,6,     G- bringing you even more live
+OL,7,     Gcommentaries from the world's
+OL,8,     Ggreatest sporting events. Listen
+OL,9,     Gon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,240,200,150,300,000,100
