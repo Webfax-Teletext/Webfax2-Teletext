@@ -1,21 +1,20 @@
 PN,12000
 SC,0000
 PS,8000
-OL,0,        ECIMSBWebfax 2   F120A1747611883
+OL,0,        ECIMSBWebfax 2   F120A1747691017
 OL,1,Wj5hw1~{4k7juhw1{$      S    0("o
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,S"   S$#/
 OL,3,CNational/regional INDEX  W`ppp  S0!  !
 OL,4,W                       `pn}t   S"
 OL,5,CUK ForecastsW          }?   S!
-OL,6,G121FToday/TomorrowW    "#######
-OL,7, 122F3 - 5 Day       G123FLong Range
+OL,6,GXXXFToday/TomorrowW    "#######
+OL,7, XXXF3 - 5 Day       GXXXFLong Range
 OL,8,G
 OL,9,CEnglish Regions
 OL,10,G124FNE England     G 128FW Midlands
 OL,11, 125FNW England      G129FE England
 OL,12,G126FYorkshire/Humb  G130FLondon/SE Eng
 OL,13,G127FE Midlands      G131FSW England
-OL,14,AH Weather pages are not yet available
 OL,15,CNorthern Ireland/Wales
 OL,16,G132FN Ireland       G133FWales
 OL,18,CScottish Regions
@@ -24,5 +23,5 @@ OL,20,G135FHighlands       G138FStrathclyde
 OL,21,G136FCentral/Fife/   G139FBorders/G'way/
 OL,22,    FTayside             FDumfries/Loth
 OL,23,Qppppppppppppppppppppppppppppppppppppppp
-OL,24,ATravel BNat Sport CReg Sport FNat Radio
-FL,150,300,301,200,0,100
+OL,24,ANext PageBNat SportCReg SportFNat Radio
+FL,124,300,301,200,0,100
