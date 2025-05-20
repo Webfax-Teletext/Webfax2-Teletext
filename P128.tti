@@ -2,24 +2,23 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1747691018
+OL,0,        ECIMSBWebfax 2   F128A1747709054
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud
-OL,6,Fbreaking up this evening with just the
-OL,7,Fodd shower developing through the
-OL,8,Fearly hours. Elsewhere, plenty of
-OL,9,Fclear spells and turning chilly in
-OL,10,Frural spots. Minimum Temperature 4C.
+OL,5,CToday:FRather cloudy overall, though
+OL,6,Fsome bright spells emerging. Scattered
+OL,7,Fshowers developing, perhaps heavy and
+OL,8,Fthundery in places with gusty winds.
+OL,9,FFeeling less warm than the weekend.
+OL,10,FMaximum Temperature 19C.
 OL,11,
-OL,12,CTuesday:FA fine start with plenty of
-OL,13,Fsunshine. Cloud bubbling up into the
-OL,14,Fafternoon with the odd shower
-OL,15,Fpossible, but most places staying dry.
-OL,16,FFeeling warm with light winds. Maximum
-OL,17,FTemperature 22C.
+OL,12,CTonight:FShowers becoming more
+OL,13,Fisolated, though potentially lingering
+OL,14,Fin places until the end of the night.
+OL,15,FClear spells elsewhere. Locally chilly
+OL,16,Fin rural spots. Minimum Temperature 4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -27,18 +26,25 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1747691018
+OL,0,        ECIMSBWebfax 2   F128A1747709054
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FContinuing chance of showers on
-OL,7,FWednesday, potentially heavy and
-OL,8,Fthundery. Drier on Thursday and Friday
-OL,9,Fwith bright or sunny spells. Still
-OL,10,Flocally chilly overnight under clear
-OL,11,Fskies.
+OL,5,CTuesday:FA fine start with some bright
+OL,6,Fspells. Showers again bubbling up into
+OL,7,Fthe afternoon, possibly heavy and
+OL,8,Fthundery. Feeling pleasant in any
+OL,9,Fintermediary sunshine. Maximum
+OL,10,FTemperature 22C.
+OL,11,
+OL,12,COutlook for Wednesday to Friday:
+OL,13,FContinuing chance of showers on
+OL,14,FWednesday, again potentially heavy and
+OL,15,Fthundery. Drier on Thursday and Friday
+OL,16,Fwith bright or sunny spells. Still
+OL,17,Flocally chilly overnight under clear
+OL,18,Fskies.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
