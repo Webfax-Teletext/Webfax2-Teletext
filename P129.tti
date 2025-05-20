@@ -2,26 +2,27 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1747691017
+OL,0,        ECIMSBWebfax 2   F129A1747705449
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FA cloudy start to the day,
-OL,6,Fparticularly across eastern areas.
-OL,7,FGenerally fine and bright with
-OL,8,Fvariable cloud and sunny spells.
-OL,9,FChance of the odd light shower in the
-OL,10,Fafternoon. Cooler along the coast.
-OL,11,FMaximum Temperature 20C.
-OL,12,
-OL,13,CTonight:FAny showers soon fading to
-OL,14,Fleave a fine and dry evening with
-OL,15,Fclear skies. Cloud will return to
-OL,16,Feastern coasts by midnight, spreading
-OL,17,Finland overnight. Clear skies
-OL,18,Fpersisting further west. Minimum
-OL,19,FTemperature 6C.
+OL,5,CThis Evening and Tonight:FAny isolated
+OL,6,Fshowers soon fading to leave a fine
+OL,7,Fand dry evening with clear skies. Low
+OL,8,Fcloud and fog will return to eastern
+OL,9,Fcoasts by midnight, spreading inland
+OL,10,Fovernight, with some clear skies
+OL,11,Fperhaps persisting further west.
+OL,12,FMinimum Temperature 6C.
+OL,13,
+OL,14,CTuesday:FCloud burning back towards
+OL,15,Fthe coast to leave sunny spells.
+OL,16,FChance of a few afternoon showers.
+OL,17,FSlightly warmer than Monday, though
+OL,18,Fcooler towards coasts with an onshore
+OL,19,Fbreeze. Cloudy overnight. Maximum
+OL,20,FTemperature 22C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -29,26 +30,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1747691017
+OL,0,        ECIMSBWebfax 2   F129A1747705449
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CTuesday:FCloud burning back towards
-OL,6,Fthe coast to leave sunny spells.
-OL,7,FChance of a few afternoon showers.
-OL,8,FSlightly warmer than Monday, though
-OL,9,Fcooler towards coasts with an onshore
-OL,10,Fbreeze. Cloudy overnight. Maximum
-OL,11,FTemperature 22C.
-OL,12,
-OL,13,COutlook for Wednesday to Friday:
-OL,14,FCloudier Wednesday with a chance of
-OL,15,Fscattered heavy showers breaking out,
-OL,16,Fpotentially turning thundery. Dry
-OL,17,FThursday and Friday, with variable
-OL,18,Fcloud amounts. Feeling cooler and
-OL,19,Fbreezy at times.
+OL,5,COutlook for Wednesday to Friday:
+OL,6,FCloudier Wednesday with a chance of
+OL,7,Fscattered heavy showers breaking out,
+OL,8,Fpotentially turning thundery. Dry
+OL,9,FThursday and Friday, with variable
+OL,10,Fcloud amounts. Feeling cooler and
+OL,11,Fbreezy at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
