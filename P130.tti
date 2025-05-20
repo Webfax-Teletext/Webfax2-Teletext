@@ -2,25 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F130A1747691017
+OL,0,        ECIMSBWebfax 2   F130A1747737943
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FFine and dry
-OL,6,Fgoing into the evening with plenty of
-OL,7,Fclear skies and generally light winds,
-OL,8,Falthough breezier at times towards the
-OL,9,Fcoast. Isolated mist and fog patches
-OL,10,Fmay develop towards dawn. Minimum
-OL,11,FTemperature 8C.
+OL,5,CToday:FA fine, dry, and bright day
+OL,6,Facross the region with plenty of
+OL,7,Fsunshine. Warmer than Monday for most,
+OL,8,Fbut cooler near eastern coasts.
+OL,9,FSunshine turning more hazy during the
+OL,10,Fafternoon, as cloud starts to build
+OL,11,Ffrom the west. Maximum Temperature 24C.
 OL,12,
-OL,13,CTuesday:FA fine, dry, and bright day
-OL,14,Facross the region with plenty of
-OL,15,Fsunshine. Slightly warmer than Monday.
-OL,16,FCooler towards coasts with an onshore
-OL,17,Fbreeze. Cloud building from the west
-OL,18,Flater. Maximum Temperature 23C.
+OL,13,CTonight:FCloud thickening this
+OL,14,Fevening, with outbreaks of rain
+OL,15,Fdeveloping overnight, particularly in
+OL,16,Fthe west of the region. Mild for most,
+OL,17,Fperhaps chilly in the far east.
+OL,18,FMinimum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -28,18 +28,26 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F130A1747691017
+OL,0,        ECIMSBWebfax 2   F130A1747737943
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FCloudier Wednesday with a chance of
-OL,7,Fovernight rain then scattered heavy
-OL,8,Fshowers, these possibly turning
-OL,9,Fthundery. Dry Thursday and Friday,
-OL,10,Fwith variable cloud amounts. Feeling
-OL,11,Fcooler and breezy at times.
+OL,5,CWednesday:FCloudy at first, with
+OL,6,Foutbreaks of rain clearing south.
+OL,7,FHowever, as sunny spells start to
+OL,8,Fbreak through, scattered heavy and
+OL,9,Fperhaps thundery showers may develop.
+OL,10,FShowers dying out later. Maximum
+OL,11,FTemperature 20C.
+OL,12,
+OL,13,COutlook for Thursday to Saturday:
+OL,14,FTurning mostly cloudy Thursday,
+OL,15,Fperhaps briefly with showery rain. Dry
+OL,16,Fwith sunny spells on Friday. Turning
+OL,17,Fmore unsettled this weekend, becoming
+OL,18,Fbreezy with outbreaks of light rain on
+OL,19,FSaturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
