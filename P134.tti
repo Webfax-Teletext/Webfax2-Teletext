@@ -2,26 +2,26 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1747899507
+OL,0,        ECIMSBWebfax 2   F134A1747941401
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FPatchy cloud throughout the day
-OL,6,Finterspersed with sunny spells. A few
-OL,7,Fshowers possible but these mainly
-OL,8,Ffocused over Shetland with Orkney
-OL,9,Fseeing a mostly dry day. Fresh
-OL,10,Fnortherly winds which may be strong at
-OL,11,Ftimes over Shetland. Maximum
-OL,12,FTemperature 10C.
-OL,13,
-OL,14,CTonight:FOccasional cloud and late
-OL,15,Fsunny then clear spells throughout the
-OL,16,Fnight with the odd shower possible
-OL,17,Fover Shetland. Fresh northerly winds
-OL,18,Fbecoming lighter for Orkney later in
-OL,19,Fthe night. Minimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FOccasional
+OL,6,Fcloud and late sunny then clear spells
+OL,7,Fthroughout the night with the odd
+OL,8,Fshower possible over Shetland. Fresh
+OL,9,Fnortherly winds becoming lighter for
+OL,10,FOrkney later in the night. Minimum
+OL,11,FTemperature 4C.
+OL,12,
+OL,13,CFriday:FSunny spells in the morning
+OL,14,Fwith an isolated shower for Shetland.
+OL,15,FDry for all in the afternoon with long
+OL,16,Fsunny periods developing for Orkney.
+OL,17,FBreezy, northerly winds turning
+OL,18,Feasterly later. Maximum Temperature
+OL,19,F11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -29,25 +29,17 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1747899507
+OL,0,        ECIMSBWebfax 2   F134A1747941401
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CFriday:FSunny spells in the morning
-OL,6,Fwith an isolated shower for Shetland.
-OL,7,FDry for all in the afternoon with long
-OL,8,Fsunny periods developing for Orkney.
-OL,9,FBreezy northerly winds turning
-OL,10,Feasterly later. Maximum Temperature
-OL,11,F11C.
-OL,12,
-OL,13,COutlook for Saturday to Monday:FCloud
-OL,14,Fand rain for much of Saturday. Mostly
-OL,15,Fcloudy Sunday and Monday with showers
-OL,16,Fand perhaps longer spells of rain.
-OL,17,FSoutherly winds becoming strong on
-OL,18,FSunday with coastal gales Monday.
+OL,5,COutlook for Saturday to Monday:FCloud
+OL,6,Fand rain for much of Saturday. Mostly
+OL,7,Fcloudy Sunday and Monday with showers
+OL,8,Fand perhaps longer spells of rain.
+OL,9,FSoutherly winds becoming strong on
+OL,10,FSunday with coastal gales Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
