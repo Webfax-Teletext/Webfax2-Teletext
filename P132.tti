@@ -2,23 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1747970269
+OL,0,        ECIMSBWebfax 2   F132A1748024379
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FAll parts will be dry this
-OL,6,Fmorning with some early brightness.
-OL,7,FRain will reach the far west by mid-
-OL,8,Fafternoon, and then soon spread east
-OL,9,Fto remaining areas. Maximum
-OL,10,FTemperature 18C.
+OL,5,CThis Evening and Tonight:FCloudy this
+OL,6,Fevening with rain turning light and
+OL,7,Fpatchy. The rest of the night will be
+OL,8,Fcloudy with occasional light rain or
+OL,9,Fdrizzle. A warm night. Minimum
+OL,10,FTemperature 14C.
 OL,11,
-OL,12,CTonight:FCloudy this evening with rain
-OL,13,Fturning light and patchy. The rest of
-OL,14,Fthe night will be cloudy with
-OL,15,Foccasional light rain or drizzle. A
-OL,16,Fwarm night. Minimum Temperature 14C.
+OL,12,CSaturday:FPatchy rain at first
+OL,13,Fotherwise mainly dry, some brightness
+OL,14,Fdeveloping in the north and east.
+OL,15,FFurther rain spreading northeast later
+OL,16,Fin the afternoon. Rather warm and
+OL,17,Fhumid. Maximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,22 +27,15 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1747970269
+OL,0,        ECIMSBWebfax 2   F132A1748024379
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CSaturday:FPatchy rain at first
-OL,6,Fotherwise mainly dry, some brightness
-OL,7,Fdeveloping in the north and east.
-OL,8,FFurther rain spreading northeast later
-OL,9,Fin the afternoon. Rather warm and
-OL,10,Fhumid. Maximum Temperature 20C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FCloudy
-OL,13,Fat times with showers, or occasionally
-OL,14,Flonger spells of rain. Windy on
-OL,15,FSunday. Rather cool.
+OL,5,COutlook for Sunday to Tuesday:FCloudy
+OL,6,Fat times with showers, or occasionally
+OL,7,Flonger spells of rain. Windy on
+OL,8,FSunday. Rather cool.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
