@@ -2,22 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1747991904
+OL,0,        ECIMSBWebfax 2   F139A1748017161
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FAfter a cold start this morning
-OL,6,Fit will be dry with some sunshine.
-OL,7,FThis afternoon will remain dry but
-OL,8,Fhigh cloud spilling across from the
-OL,9,Fwest. Maximum Temperature 18C.
-OL,10,
-OL,11,CTonight:FCloud and rain will spread
-OL,12,Fnortheast this evening and overnight.
-OL,13,FRain turning patchy across the east by
-OL,14,Fthe end of the night. Misty along the
-OL,15,Fcoast. Minimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FCloud and
+OL,6,Frain will spread northeast this
+OL,7,Fevening and overnight. Rain turning
+OL,8,Fpatchy across the east by the end of
+OL,9,Fthe night. Misty along the coast.
+OL,10,FMinimum Temperature 10C.
+OL,11,
+OL,12,CSaturday:FCloudy in the morning with
+OL,13,Fpatchy rain. Drier in the afternoon
+OL,14,Fwith just the odd shower, some bright
+OL,15,Fspells in the east. Rather warm and
+OL,16,Fhumid. Further rain in evening.
+OL,17,FMaximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -25,22 +27,15 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1747991904
+OL,0,        ECIMSBWebfax 2   F139A1748017161
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CSaturday:FCloudy in the morning with
-OL,6,Fpatchy rain. Drier in the afternoon
-OL,7,Fwith just the odd shower, some bright
-OL,8,Fspells in the east. Rather warm and
-OL,9,Fhumid. Further rain in evening.
-OL,10,FMaximum Temperature 20C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FCloudy
-OL,13,Fat times with showers, or occasionally
-OL,14,Flonger spells of rain. Windy on
-OL,15,FSunday. Rather cool.
+OL,5,COutlook for Sunday to Tuesday:FCloudy
+OL,6,Fat times with showers, or occasionally
+OL,7,Flonger spells of rain. Windy on
+OL,8,FSunday. Rather cool.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100

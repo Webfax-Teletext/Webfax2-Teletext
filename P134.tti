@@ -2,23 +2,24 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1747991904
+OL,0,        ECIMSBWebfax 2   F134A1748017161
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FChance of a brief light shower
-OL,6,Facross Shetland at first. Otherwise it
-OL,7,Fwill be a dry day with variable
-OL,8,Famounts of cloud and sunny intervals.
-OL,9,FMaximum Temperature 11C.
-OL,10,
-OL,11,CTonight:FThis evening will be dry.
-OL,12,FShetland will remain dry overnight but
-OL,13,Frain will spread into parts of Orkney
-OL,14,Flater in the night. A chilly night
-OL,15,Facross Shetland. Minimum Temperature
-OL,16,F5C.
+OL,5,CThis Evening and Tonight:FThis evening
+OL,6,Fwill be dry. Shetland will remain dry
+OL,7,Fovernight but rain will spread into
+OL,8,Fparts of Orkney later in the night. A
+OL,9,Fchilly night across Shetland. Minimum
+OL,10,FTemperature 5C.
+OL,11,
+OL,12,CSaturday:FOrkney dull with occasional
+OL,13,Frain and misty low cloud. Shetland dry
+OL,14,Ffor most of the day before low cloud
+OL,15,Fand light rain spread northeast later
+OL,16,Fin in the afternoon. Maximum
+OL,17,FTemperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -26,23 +27,16 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1747991904
+OL,0,        ECIMSBWebfax 2   F134A1748017161
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CSaturday:FOrkney dull with occasional
-OL,6,Frain and misty low cloud. Shetland dry
-OL,7,Ffor most of the day before low cloud
-OL,8,Fand light rain spread northeast later
-OL,9,Fin in the afternoon. Maximum
-OL,10,FTemperature 11C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FCloudy
-OL,13,Fat times on Sunday and Monday with
-OL,14,Fshowers, or occasionally longer spells
-OL,15,Fof rain. Windy. Less windy on Tuesday
-OL,16,Fwith fewer showers.
+OL,5,COutlook for Sunday to Tuesday:FCloudy
+OL,6,Fat times on Sunday and Monday with
+OL,7,Fshowers, or occasionally longer spells
+OL,8,Fof rain. Windy. Less windy on Tuesday
+OL,9,Fwith fewer showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
