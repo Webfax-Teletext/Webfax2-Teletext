@@ -2,24 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1747941401
+OL,0,        ECIMSBWebfax 2   F138A1747991904
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will be a
-OL,6,Fdry evening with plenty of late
-OL,7,Fsunshine. Remaining dry overnight with
-OL,8,Flargely clear skies leading to a
-OL,9,Fchilly night. Light northerly winds.
-OL,10,FMinimum Temperature 1C.
+OL,5,CToday:FA cold start this morning, then
+OL,6,Fdry with some sunshine. This afternoon
+OL,7,Fwill be mainly dry but high cloud
+OL,8,Fspilling across from the west. Rain is
+OL,9,Flikely to reach west coast later.
+OL,10,FMaximum Temperature 18C.
 OL,11,
-OL,12,CFriday:FDry with sunshine for most of
-OL,13,Fthe morning before turning cloudier in
-OL,14,Fthe west. Cloud then spreading further
-OL,15,Feastwards through the afternoon with
-OL,16,Frain moving into the west later.
-OL,17,FMaximum Temperature 19C.
+OL,12,CTonight:FCloud and rain will spread
+OL,13,Fnortheast this evening and overnight.
+OL,14,FRain turning patchy across the east by
+OL,15,Fthe end of the night. Misty along the
+OL,16,Fwest coast. Minimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,17 +26,22 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1747941401
+OL,0,        ECIMSBWebfax 2   F138A1747991904
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Saturday to Monday:
-OL,6,FUnsettled and cloudy with showers or
-OL,7,Fat times longer spells of rain giving
-OL,8,Fsome heavy downpours at times. Winds
-OL,9,Fstrengthening with a risk of coastal
-OL,10,Fgales on Sunday and Monday.
+OL,5,CSaturday:FCloudy in the morning with
+OL,6,Fpatchy rain. Drier in the afternoon
+OL,7,Fwith just the odd shower, some bright
+OL,8,Fspells in the east. Rather warm and
+OL,9,Fhumid. Further rain in evening.
+OL,10,FMaximum Temperature 19C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FCloudy
+OL,13,Fat times with showers, or occasionally
+OL,14,Flonger spells of rain. Windy on
+OL,15,FSunday. Rather cool.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
