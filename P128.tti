@@ -2,26 +2,26 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1748020771
+OL,0,        ECIMSBWebfax 2   F128A1748056852
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud
-OL,6,Fcontinues to thicken from the west
-OL,7,Fthrough this evening with persistent
-OL,8,Frain arriving overnight. A few heavier
-OL,9,Fbursts at times, before turning
-OL,10,Fshowery by dawn. Increasingly breezy,
-OL,11,Fand mild compared with previous
-OL,12,Fnights. Minimum Temperature 10C.
+OL,5,CToday:FOvercast at first with rain
+OL,6,Fcontinuing to move eastwards through
+OL,7,Fthe morning. Some drier, brighter
+OL,8,Fperiods for a time, though showers
+OL,9,Freturning through the afternoon, these
+OL,10,Fperhaps heavy at times. Warm, humid,
+OL,11,Fand becoming rather breezy. Maximum
+OL,12,FTemperature 20C.
 OL,13,
-OL,14,CSaturday:FOvercast and showery, with a
-OL,15,Ffew heavier spells at times. Some
-OL,16,Fbrighter interludes developing into
-OL,17,Fthe afternoon, especially in the east.
-OL,18,FWarm, rather humid, and breezy.
-OL,19,FMaximum Temperature 20C.
+OL,14,CTonight:FA second band of persistent
+OL,15,Frain arrives from the west, with some
+OL,16,Fheavier outbreaks for a time, before
+OL,17,Fturning showery by dawn. Increasingly
+OL,18,Fwindy, but staying mild overnight.
+OL,19,FMinimum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -29,17 +29,27 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1748020771
+OL,0,        ECIMSBWebfax 2   F128A1748056852
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:
-OL,6,FRemaining unsettled with a mixture of
-OL,7,Fsunshine and showers, these heavy and
-OL,8,Fperhaps thundery at times. Breezy,
-OL,9,Fespecially in any showers, and feeling
-OL,10,Ffresher than recent days.
+OL,5,CSunday:FUnsettled, with occasional
+OL,6,Fbrighter breaks interspersed with a
+OL,7,Ffew, sometimes heavy, showers. Windier
+OL,8,Fthan Saturday, especially in the
+OL,9,Fshowers, and feeling cooler than
+OL,10,Frecent days, though still humid.
+OL,11,FMaximum Temperature 17C.
+OL,12,
+OL,13,COutlook for Monday to Wednesday:
+OL,14,FRemaining unsettled with a mixture of
+OL,15,Fsunshine and showers by day and
+OL,16,Fperiods of more prolonged rain
+OL,17,Fovernight. Remaining breezy,
+OL,18,Fespecially in the showers.
+OL,19,FTemperatures near or slightly below
+OL,20,Faverage.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
