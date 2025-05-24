@@ -2,24 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1748024379
+OL,0,        ECIMSBWebfax 2   F132A1748067677
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy this
-OL,6,Fevening with rain turning light and
-OL,7,Fpatchy. The rest of the night will be
-OL,8,Fcloudy with occasional light rain or
-OL,9,Fdrizzle. A warm night. Minimum
-OL,10,FTemperature 14C.
-OL,11,
-OL,12,CSaturday:FPatchy rain at first
-OL,13,Fotherwise mainly dry, some brightness
-OL,14,Fdeveloping in the north and east.
-OL,15,FFurther rain spreading northeast later
-OL,16,Fin the afternoon. Rather warm and
-OL,17,Fhumid. Maximum Temperature 20C.
+OL,5,CToday:FThis morning will be cloudy
+OL,6,Fwith a few showers. Some brightness
+OL,7,Fpossible for a time this afternoon
+OL,8,Fotherwise cloudy with showery rain,
+OL,9,Fthis turning heavy and persistent
+OL,10,Flater. Rather warm and humid. Maximum
+OL,11,FTemperature 20C.
+OL,12,
+OL,13,CTonight:FWidespread heavy rain at
+OL,14,Ffirst this evening soon clearing away.
+OL,15,FThen the rest of the night will see a
+OL,16,Ffew showers. Brisk west to
+OL,17,Fnorthwesterly winds developing
+OL,18,Fovernight. Minimum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,15 +28,22 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1748024379
+OL,0,        ECIMSBWebfax 2   F132A1748067677
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FCloudy
-OL,6,Fat times with showers, or occasionally
-OL,7,Flonger spells of rain. Windy on
-OL,8,FSunday. Rather cool.
+OL,5,CSunday:FA cooler and fresher day with
+OL,6,Fsunny intervals and scattered showers,
+OL,7,Fsome heavy. Brisk westerly winds.
+OL,8,FMaximum Temperature 15C.
+OL,9,
+OL,10,COutlook for Monday to Wednesday:FSunny
+OL,11,Fintervals and showers on Monday, some
+OL,12,Flonger spells of rain possible in the
+OL,13,Fevening. Further rain spreading
+OL,14,Fnortheast on Tuesday followed by a few
+OL,15,Fshowers on Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
