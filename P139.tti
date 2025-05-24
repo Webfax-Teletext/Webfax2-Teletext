@@ -2,24 +2,23 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1748071286
+OL,0,        ECIMSBWebfax 2   F139A1748114587
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FThis morning will be cloudy
-OL,6,Fwith a few showers. Remaining mostly
-OL,7,Fcloudy this afternoon with a few
-OL,8,Fshowers, perhaps some brightness along
-OL,9,Fthe east coast. Rather warm and humid.
-OL,10,FMaximum Temperature 19C.
-OL,11,
-OL,12,CTonight:FA band of heavy rain will
-OL,13,Fspread northeast for a time this
-OL,14,Fevening. The rest of the night will
-OL,15,Fsee showers or perhaps some longer
-OL,16,Fspells of rain. Becoming breezy.
-OL,17,FMinimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FA band of
+OL,6,Fheavy rain will spread northeast for a
+OL,7,Ftime this evening. The rest of the
+OL,8,Fnight will see showers or perhaps some
+OL,9,Flonger spells of rain in the west.
+OL,10,FBecoming breezy. Minimum Temperature
+OL,11,F10C.
+OL,12,
+OL,13,CSunday:FA cooler and fresher day with
+OL,14,Fsunny intervals and scattered showers,
+OL,15,Fsome heavy. Brisk westerly winds.
+OL,16,FMaximum Temperature 15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -27,22 +26,17 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1748071286
+OL,0,        ECIMSBWebfax 2   F139A1748114587
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CSunday:FA cooler and fresher day with
-OL,6,Fsunny intervals and scattered showers,
-OL,7,Fsome heavy. Brisk westerly winds.
-OL,8,FMaximum Temperature 15C.
-OL,9,
-OL,10,COutlook for Monday to Wednesday:FSunny
-OL,11,Fintervals and showers on Monday, some
-OL,12,Flonger spells of rain possible in the
-OL,13,Fevening. Further rain spreading
-OL,14,Fnortheast later on Tuesday followed by
-OL,15,Fa few showers on Wednesday.
+OL,5,COutlook for Monday to Wednesday:FA
+OL,6,Fchangeable few days with a mixture of
+OL,7,Fclear or sunny intervals and
+OL,8,Foccasional showers, perhaps some
+OL,9,Flonger spells of rain at times.
+OL,10,FRemaining cooler than of late.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100

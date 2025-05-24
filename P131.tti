@@ -2,27 +2,25 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1748064070
+OL,0,        ECIMSBWebfax 2   F131A1748114587
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FOvercast at first with rain
-OL,6,Fcontinuing to move eastwards through
-OL,7,Fthe morning. Some drier, brighter
-OL,8,Fperiods for a time, though showers
-OL,9,Fsoon returning by the afternoon, these
-OL,10,Fheavy at times. Warm, humid, and
-OL,11,Fbecoming rather breezy, especially
-OL,12,Falong the coast. Maximum Temperature
-OL,13,F18C.
-OL,14,
-OL,15,CTonight:FWidespread and persistent
-OL,16,Frain arrives from the west, with heavy
-OL,17,Foutbreaks at times overnight.
-OL,18,FIncreasingly windy, with rain turning
-OL,19,Fshowery by dawn, but remaining mild
-OL,20,Fand overcast. Minimum Temperature 13C.
+OL,5,CThis Evening and Tonight:FA band of
+OL,6,Fpersistent rain arrives from the west,
+OL,7,Fwith heavy outbreaks at times. It will
+OL,8,Fbe increasingly windy, with the rain
+OL,9,Fturning showery with some clear spells
+OL,10,Fby dawn, but remaining rather mild
+OL,11,Fovernight. Minimum Temperature 13C.
+OL,12,
+OL,13,CSunday:FRather cloudy at first but
+OL,14,Fturning brighter into the afternoon
+OL,15,Fwith a few scattered showers, these
+OL,16,Fperhaps heavy. Windier and slightly
+OL,17,Fcooler than Saturday, especially along
+OL,18,Fthe coasts. Maximum Temperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -30,25 +28,18 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1748064070
+OL,0,        ECIMSBWebfax 2   F131A1748114587
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CSunday:FCloudy at first but turning
-OL,6,Fbrighter into the afternoon with a few
-OL,7,Fscattered showers, these perhaps
-OL,8,Fheavy. Windier and slightly cooler
-OL,9,Fthan Saturday, especially along the
-OL,10,Fcoasts. Maximum Temperature 18C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:
-OL,13,FRemaining unsettled with a mixture of
-OL,14,Fsunshine and showers by day and
-OL,15,Fperiods of more prolonged rain
-OL,16,Fovernight. Remaining breezy,
-OL,17,Fespecially in the showers.
-OL,18,FTemperatures near average.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FRemaining unsettled with a mixture of
+OL,7,Fsunshine and showers by day and
+OL,8,Fperiods of more prolonged rain
+OL,9,Fovernight. Remaining breezy,
+OL,10,Fespecially in the showers.
+OL,11,FTemperatures near average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
