@@ -2,26 +2,26 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1748027988
+OL,0,        ECIMSBWebfax 2   F126A1748060460
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FFine and dry
-OL,6,Fat first but the cloud will soon
-OL,7,Fthicken from the west to bring
-OL,8,Foutbreaks of rain, heavy at times.
-OL,9,FSome hill fog. Precipitation becoming
-OL,10,Fmore drizzly at the end of the night.
-OL,11,FMuch milder than Thursday night.
-OL,12,FMinimum Temperature 6C.
+OL,5,CToday:FEarly rain quickly clears. Then
+OL,6,Fcloudy with patchy light rain or
+OL,7,Fdrizzle and hill fog in the west, and
+OL,8,Fdrier and brighter elsewhere with
+OL,9,Fperhaps sunny spells developing.
+OL,10,FFeeling warm with any sunshine.
+OL,11,FGenerally breezy, windy over high
+OL,12,Fground. Maximum Temperature 21C.
 OL,13,
-OL,14,CSaturday:FCloudy and breezy with
-OL,15,Fdrizzle in the west; drier and
-OL,16,Fbrighter elsewhere. Some sunny spells
-OL,17,Fdeveloping in the east, mostly in the
-OL,18,Fafternoon. Feeling warm under any
-OL,19,Fsunshine. Maximum Temperature 21C.
+OL,14,CTonight:FOutbreaks of rain, often
+OL,15,Fheavy, quickly spread east this
+OL,16,Fevening with clear spells and
+OL,17,Fscattered showers following overnight.
+OL,18,FBecoming windy, especially over high
+OL,19,Fground. Mild. Minimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -29,17 +29,23 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1748027988
+OL,0,        ECIMSBWebfax 2   F126A1748060460
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FSunny
-OL,6,Fspells and blustery showers Sunday,
-OL,7,Fheaviest over hills. Fewer showers on
-OL,8,FMonday but some rain late. Windy with
-OL,9,Ffurther rain and showers on Tuesday.
-OL,10,FTemperatures near normal.
+OL,5,CSunday:FSunny spells and blustery
+OL,6,Fshowers, these heavy at times with a
+OL,7,Fchance of hail and thunder. Windy and
+OL,8,Ffeeling noticeably cooler. Highest
+OL,9,Ftemperatures in the east. Maximum
+OL,10,FTemperature 18C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:
+OL,13,FStaying unsettled with rain, or
+OL,14,Fshowers or both each day. Temperatures
+OL,15,Fwill be close to average, but it will
+OL,16,Foften be windy and so feeling cool.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
