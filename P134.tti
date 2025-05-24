@@ -2,25 +2,27 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748067677
+OL,0,        ECIMSBWebfax 2   F134A1748103761
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FA dry start across Shetland
-OL,6,Fotherwise cloudy this morning with
-OL,7,Fsome rain or drizzle. This afternoon
-OL,8,Fwill be dull with misty low cloud and
-OL,9,Fsome rain or drizzle across Shetland,
-OL,10,Fbut drier spells developing across
-OL,11,FOrkney. Maximum Temperature 11C.
-OL,12,
-OL,13,CTonight:FMainly dry and cloudy
-OL,14,Fovernight with just the odd shower.
-OL,15,FOutbreaks of rain, occasionally heavy,
-OL,16,Fwill spread to Orkney later in the
-OL,17,Fnight. Misty low cloud. Minimum
-OL,18,FTemperature 9C.
+OL,5,CThis Evening and Tonight:FIt will be
+OL,6,Fcloudy with some patchy rain and
+OL,7,Fdrizzle along with some mist and fog
+OL,8,Fpatches. Some heavier rain will spread
+OL,9,Fto Orkney overnight reaching Shetland
+OL,10,Fby morning with the odd rumble of
+OL,11,Fthunder possible. Minimum Temperature
+OL,12,F9C.
+OL,13,
+OL,14,CSunday:FA cloudy morning with rain,
+OL,15,Foccasionally heavy and perhaps
+OL,16,Fthundery at first, patchy fog.
+OL,17,FBecoming drier and somewhat brighter
+OL,18,Facross Orkney later though with
+OL,19,Ffurther showers. Strengthening
+OL,20,Fwesterly winds. Maximum Temperature 1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -28,23 +30,16 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748067677
+OL,0,        ECIMSBWebfax 2   F134A1748103761
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CSunday:FA cloudy morning with rain,
-OL,6,Foccasionally heavy at first. Becoming
-OL,7,Fdrier and somewhat brighter across
-OL,8,FOrkney in the afternoon, but outbreaks
-OL,9,Fof rain lingering across Shetland.
-OL,10,FMaximum Temperature 1C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FQuite
-OL,13,Fwindy on Monday with rain across
-OL,14,FShetland, drier for Orkney. Mainly dry
-OL,15,Fand less windy with the odd shower on
-OL,16,FTuesday and Wednesday.
+OL,5,COutlook for Monday to Wednesday:FQuite
+OL,6,Fwindy on Monday with rain across
+OL,7,FShetland, drier for Orkney. Mainly dry
+OL,8,Fand less windy with the odd shower on
+OL,9,FTuesday and Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
