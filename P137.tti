@@ -2,24 +2,24 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1748020771
+OL,0,        ECIMSBWebfax 2   F137A1748085720
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry and cloudy. Thickening
-OL,7,Fcloud will bring a little rain from
-OL,8,Fthe west in the early hours, turning
-OL,9,Fdrier in the west later. Minimum
-OL,10,FTemperature 7C.
+OL,5,CToday:FMostly cloudy this morning with
+OL,6,Fthe odd shower. Bright spells
+OL,7,Fdeveloping this afternoon along with
+OL,8,Fone or two heavy showers, these mainly
+OL,9,Fin the east. Rather warm and humid.
+OL,10,FMaximum Temperature 20C.
 OL,11,
-OL,12,CSaturday:FA cloudy morning with rain
-OL,13,Fdying out. Brighter and mostly dry
-OL,14,Fwith just the odd shower in the
-OL,15,Fafternoon. Rather warm and humid.
-OL,16,FFurther rain later in the evening.
-OL,17,FMaximum Temperature 20C.
+OL,12,CTonight:FMainly dry this evening, a
+OL,13,Ffew showers at first. Rain,
+OL,14,Foccasionally heavy, will spread
+OL,15,Fnortheast across all parts overnight.
+OL,16,FTurning drier in the early hours with
+OL,17,Fa few showers. Minimum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -27,16 +27,22 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1748020771
+OL,0,        ECIMSBWebfax 2   F137A1748085720
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FBreezy
-OL,6,Fon Sunday and Monday with scattered
-OL,7,Fshowers, these heaviest and most
-OL,8,Ffrequent across the west. Mainly dry
-OL,9,Fon Tuesday. Cooler.
+OL,5,CSunday:FA cooler and fresher day with
+OL,6,Fsunny intervals just a few showers,
+OL,7,Fthese mainly across the west. Brisk
+OL,8,Fwesterly winds. Maximum Temperature
+OL,9,F15C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:FSunny
+OL,12,Fintervals and a few showers on Monday,
+OL,13,Fthese mainly in the west. Mainly dry
+OL,14,Fon Tuesday, rain by evening. Showers
+OL,15,Fon Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
