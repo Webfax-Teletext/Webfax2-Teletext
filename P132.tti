@@ -2,23 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1748154291
+OL,0,        ECIMSBWebfax 2   F132A1748190379
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FThe day will be mostly cloudy
-OL,6,Fwith the occasional sunny spell these
-OL,7,Fwill be interspersed with frequent
-OL,8,Fblustery and at times heavy, thundery
-OL,9,Fshowers. Windy. Maximum Temperature
-OL,10,F14C.
-OL,11,
-OL,12,CTonight:FThe night will continue
-OL,13,Fcloudy with the odd clear spell and
-OL,14,Ffrequent blustery showers, heavy at
-OL,15,Ftimes, becoming drier in the east
-OL,16,Flater. Windy. Minimum Temperature 7C.
+OL,5,CThis Evening and Tonight:FSunshine and
+OL,6,Fscattered showers this evening.
+OL,7,FOvernight there will be clear spells
+OL,8,Fand still a few showers though these
+OL,9,Fshowers becoming more confined to
+OL,10,Fwestern counties. Minimum Temperature
+OL,11,F7C.
+OL,12,
+OL,13,CMonday:FSome bright or sunny intervals
+OL,14,Fat first otherwise cloudy with some
+OL,15,Fshowers, in the afternoon some longer
+OL,16,Fspells of rain will develop. Cool,
+OL,17,Fbreezy. Maximum Temperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,24 +27,16 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1748154291
+OL,0,        ECIMSBWebfax 2   F132A1748190379
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CMonday:FBreezy, dry east at first,
-OL,6,Fotherwise frequent showers, some
-OL,7,Fheavy. Rain, some heavy, spreads east
-OL,8,Ffrom the afternoon. Maximum
-OL,9,FTemperature 13C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:FSunny
-OL,12,Fspells, dry early Tuesday morning.
-OL,13,FCloudy, widespread, heavy rain late
-OL,14,FTuesday morning turning to scattered
-OL,15,Fshowers Wednesday. Dry at first
-OL,16,FThursday, rain spreading northeast
-OL,17,Ffrom midday.
+OL,5,COutlook for Tuesday to Thursday:FCloudy
+OL,6,Fwith more rain on Tuesday but brighter
+OL,7,Flater. Sunshine, scattered showers on
+OL,8,FWednesday. More rain for a time on
+OL,9,FThursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
