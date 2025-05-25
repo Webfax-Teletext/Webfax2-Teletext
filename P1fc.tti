@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1748172335
+OL,0,        ECIMSBWebfax 2   F1fcA1748175943
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1748172335;
-OL,10,GService: Webfax 2 - 5279 ed694ffe7
-OL,11,FLast Update: 25/05/2025 12:25:35  G1/2
+OL,25,1748175943;
+OL,10,GService: Webfax 2 - 5280 c97878145
+OL,11,FLast Update: 25/05/2025 13:25:43  G1/2
 OL,13,CbbcNews/Technology         G24/05-00:20
 OL,14,AbbcNewsLive                G25/05-11:46
-OL,15,Abbc_news_papers            G22/05-20:15
-OL,16,CitvNews/westcountry        G24/05-11:23
-OL,17,CitvSport/border            G22/05-20:16
-OL,18,CitvSport/central           G22/05-20:16
-OL,19,CitvSport/london            G22/05-20:16
-OL,20,CitvSport/meridian          G22/05-20:16
-OL,21,CitvSport/utv               G22/05-20:16
-OL,22,CitvSport/wales             G22/05-20:16
-OL,23,CitvSport/westcountry       G22/05-20:16
+OL,15,CbbcSport/Golf              G24/05-12:45
+OL,16,Abbc_news_papers            G22/05-20:15
+OL,17,CitvNews/westcountry        G24/05-11:23
+OL,18,CitvSport/border            G22/05-20:16
+OL,19,CitvSport/central           G22/05-20:16
+OL,20,CitvSport/london            G22/05-20:16
+OL,21,CitvSport/meridian          G22/05-20:16
+OL,22,CitvSport/utv               G22/05-20:16
+OL,23,CitvSport/wales             G22/05-20:16
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1748172335
+OL,0,        ECIMSBWebfax 2   F1fcA1748175943
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,7 +42,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1748172335;
-OL,10,GService: Webfax 2 - 5279 ed694ffe7
-OL,11,FLast Update: 25/05/2025 12:25:35  G2/2
-OL,13,Ctvroom/cleanfeed           G22/05-20:16
+OL,25,1748175943;
+OL,10,GService: Webfax 2 - 5280 c97878145
+OL,11,FLast Update: 25/05/2025 13:25:43  G2/2
+OL,13,CitvSport/westcountry       G22/05-20:16
+OL,14,Ctvroom/cleanfeed           G22/05-20:16
