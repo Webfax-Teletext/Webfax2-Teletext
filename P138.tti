@@ -2,24 +2,26 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1748240929
+OL,0,        ECIMSBWebfax 2   F138A1748291465
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FFrequent showers, some heavy
-OL,6,Fand thundery, will ease for a time
-OL,7,Fduring the morning before increasing
-OL,8,Fand merging into longer periods of
-OL,9,Frain during the afternoon. Breezy.
-OL,10,FMaximum Temperature 13C.
-OL,11,
-OL,12,CTonight:FThe night will continue
-OL,13,Fbreezy. Frequent showers or longer
-OL,14,Fperiods of rain, some heavy, will
-OL,15,Fclear southeast from late evening to
-OL,16,Fleave clear spells and the odd shower
-OL,17,Fovernight. Minimum Temperature 7C.
+OL,5,CThis Evening and Tonight:FThe night
+OL,6,Fwill continue breezy. Frequent showers
+OL,7,For longer periods of rain, some heavy,
+OL,8,Fwill clear southeast from late evening
+OL,9,Fto leave clear spells and the odd
+OL,10,Fshower overnight. Minimum Temperature
+OL,11,F7C.
+OL,12,
+OL,13,CTuesday:FA mix of cloud and bright or
+OL,14,Fsunny spells throughout. Scattered
+OL,15,Fshowers at first but showers becoming
+OL,16,Fmore isolated through the afternoon.
+OL,17,FBreezy with the wind easing down
+OL,18,Ftowards evening. Maximum Temperature
+OL,19,F15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,24 +29,18 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1748240929
+OL,0,        ECIMSBWebfax 2   F138A1748291465
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CTuesday:FCloudy with scattered showers
-OL,6,Fat first becoming brighter and mainly
-OL,7,Fdry from the afternoon. Breezy with
-OL,8,Fthe wind easing down towards evening.
-OL,9,FMaximum Temperature 15C.
-OL,10,
-OL,11,COutlook for Wednesday to Friday:FDry,
-OL,12,Fsunny spells and the occasional shower
-OL,13,FWednesday. Band of rain will pass
-OL,14,Fnorth-eastwards overnight into
-OL,15,FThursday with Friday staying cloudy
-OL,16,Fwith a few showers west and rain south
-OL,17,Flater.
+OL,5,COutlook for Wednesday to Friday:FDry,
+OL,6,Fsunny spells and the occasional shower
+OL,7,FWednesday. Band of rain will pass
+OL,8,Fnorth-eastwards overnight into
+OL,9,FThursday with Friday staying cloudy
+OL,10,Fwith a few showers west and rain south
+OL,11,Flater.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
