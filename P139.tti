@@ -2,23 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1748327571
+OL,0,        ECIMSBWebfax 2   F139A1748381696
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FA mix of cloud and sunny spells
-OL,6,Fin the morning with the odd shower.
-OL,7,FThe east staying bright in the
-OL,8,Fafternoon but Dumfries and Galloway
-OL,9,Fturning cloudier with showers
-OL,10,Fcontinuing, Maximum Temperature 16C.
-OL,11,
-OL,12,CTonight:FA few showers this evening
-OL,13,Fthese dying out tonight. Dry and clear
-OL,14,Fconditions dominating in the east but
-OL,15,Fmore cloud in southwest. Minimum
-OL,16,FTemperature 5C.
+OL,5,CThis Evening and Tonight:FA few
+OL,6,Fshowers this evening with late sunny
+OL,7,Fspells. Showers dying out to leave a
+OL,8,Fdry night with mostly clear skies in
+OL,9,Fthe east but cloudier with clear
+OL,10,Fintervals in the west. Minimum
+OL,11,FTemperature 5C.
+OL,12,
+OL,13,CWednesday:FA bright day with sunny
+OL,14,Fspells. Dry at first then a few
+OL,15,Fshowers breaking out, but dying out
+OL,16,Flater to leave a sunny evening.
+OL,17,FMaximum Temperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -26,23 +27,17 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1748327571
+OL,0,        ECIMSBWebfax 2   F139A1748381696
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CWednesday:FA bright day with sunny
-OL,6,Fspells. Dry at first then a few
-OL,7,Fshowers breaking out, but dynig out
-OL,8,Flater to leave a sunny evening.
-OL,9,FMaximum Temperature 16C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:FA
-OL,12,Fwet start on Thursday then brighter
-OL,13,Fwith scattered showers Friday sunny
-OL,14,Fspells and isolated showers, then some
-OL,15,Frain in evening. Some rain on
-OL,16,FSaturday, showery later.
+OL,5,COutlook for Thursday to Saturday:FA
+OL,6,Fwet start on Thursday then brighter
+OL,7,Fwith scattered showers Friday sunny
+OL,8,Fspells and isolated showers, then some
+OL,9,Frain in evening. Some rain on
+OL,10,FSaturday, showery later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
