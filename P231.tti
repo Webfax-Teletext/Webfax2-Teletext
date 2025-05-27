@@ -1,10 +1,10 @@
 PN,23101
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1748237321
-OL,1,W{${$~+$ {$~{4k4h7} (        G1/5
+OL,0,        ECIMSBWebfax 2   F231A1748323962
+OL,1,W{${$~+$ {$~{4k4h7} (        G1/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
-OL,3,CProgramme listings for TUE 27 MAY
+OL,3,CProgramme listings for WED 28 MAY
 OL,4,G0500FRadio 1 Early Breakfast with Dean
 OL,5,     FMcCullough
 OL,6,     GDean has Radio 1's Early
@@ -15,13 +15,13 @@ OL,10,     GMorning nonsense, star listeners
 OL,11,     Gand All the Latest Things...
 OL,12,G1030FRadio 1 News
 OL,13,G1033FRickie, Melvin and Charlie
-OL,14,     GRickie and Charlie try and
-OL,15,     Gconfuse Melvin with their strange
-OL,16,     Gfacts from around the world.
-OL,17,G1245FNewsbeat @ 12:45
-OL,18,G1300FMatt and Mollie
-OL,19,     GThings are about to get heated in
-OL,20,     Ganother round of Matt v Mollie!
+OL,14,     GThe gang help another listener
+OL,15,     Gwith their dilemma.
+OL,16,G1245FNewsbeat @ 12:45
+OL,17,G1300FMatt and Mollie
+OL,18,     GMollie is back with another game,
+OL,19,     Gbut can you answer quick enough
+OL,20,     Gfor a podium finish?
 OL,21,G1530FRadio 1 News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
@@ -29,10 +29,10 @@ FL,232,200,150,300,000,100
 PN,23102
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1748237321
-OL,1,W{${$~+$ {$~{4k4h7} (        G2/5
+OL,0,        ECIMSBWebfax 2   F231A1748323962
+OL,1,W{${$~+$ {$~{4k4h7} (        G2/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
-OL,3,CProgramme listings for TUE 27 MAY
+OL,3,CProgramme listings for WED 28 MAY
 OL,4,G1533FGoing Home with Sam and Danni
 OL,5,     GSam and Danni with the soundtrack
 OL,6,     Gfor going home.
@@ -42,84 +42,56 @@ OL,9,     FJack Saunders
 OL,10,     GThe biggest and best new music in
 OL,11,     Gthe world, including Radio 1's
 OL,12,     GHottest Record.
-OL,13,G1930FRadio 1's Big Weekend - Live
-OL,14,     FSets, Liverpool 2025
-OL,15,     GHaim. The Haim sisters hit the
-OL,16,     GMain Stage at Radio 1's Big
-OL,17,     GWeekend.
-OL,18,G2000FRadio 1's Future Artists with
-OL,19,     FSian Eleri
-OL,20,     GThe new artists we're most
-OL,21,     Gexcited about!
+OL,13,G2000FRadio 1's Future Pop with Maia
+OL,14,     FBeth
+OL,15,     GFuture pop classics, right now
+OL,16,     Gwith Maia Beth.
+OL,17,G2130FRadio 1's Big Weekend - Live
+OL,18,     FSets, Liverpool 2025
+OL,19,     GTate McRae. Tate McRae brings her
+OL,20,     Gmagic to Radio 1's Big Weekend in
+OL,21,     GLiverpool.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,232,200,150,300,000,100
 PN,23103
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1748237321
-OL,1,W{${$~+$ {$~{4k4h7} (        G3/5
+OL,0,        ECIMSBWebfax 2   F231A1748323962
+OL,1,W{${$~+$ {$~{4k4h7} (        G3/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
-OL,3,CProgramme listings for TUE 27 MAY
+OL,3,CProgramme listings for WED 28 MAY
 OL,4,G2200FRadio 1's Power Down Playlist
 OL,5,     Fwith Sian Eleri
-OL,6,     GSongs for when you need to switch
-OL,7,     Goff the world, from Kehlani, Bon
-OL,8,     GIver and more.
-OL,9,G2300FMartha
-OL,10,     GMartha takes you on a journey
-OL,11,     Gthrough the latest innovations in
-OL,12,     Gelectronic music.
-OL,13,G0000FRadio 1 Dance @ Radio 1's Big
-OL,14,     FWeekend
-OL,15,     GMartha. Martha is live on the
-OL,16,     GRadio 1 Dance Stage at Radio 1's
-OL,17,     GBig Weekend in Liverpool.
-OL,18,     GExperience it via bbc.co.uk/
-OL,19,     Gportal.
+OL,6,     GLaid back positivity for a calmer
+OL,7,     Gstate of mind, with music from
+OL,8,     GHaim, Jungle and more.
+OL,9,G2300FBenji B
+OL,10,     GBenji explores future beats from
+OL,11,     Garound the world. Contains strong
+OL,12,     Glanguage.
+OL,13,G0100FRadio 1's Big Weekend: Saturday
+OL,14,     FHighlights
+OL,15,     GRewind with some of the best bits
+OL,16,     Gfrom Saturday at Radio 1's Big
+OL,17,     GWeekend.
+OL,18,G0200FRadio 1 Anthems
+OL,19,     G'Ready or Not', we bring the
+OL,20,     Gvibes with some forgotten bangers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,232,200,150,300,000,100
 PN,23104
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1748237321
-OL,1,W{${$~+$ {$~{4k4h7} (        G4/5
+OL,0,        ECIMSBWebfax 2   F231A1748323962
+OL,1,W{${$~+$ {$~{4k4h7} (        G4/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
-OL,3,CProgramme listings for TUE 27 MAY
-OL,4,G0100FRadio 1 Dance @ Radio 1's Big
-OL,5,     FWeekend
-OL,6,     GPhoebe I-H. Phoebe I-H is live on
-OL,7,     Gthe Radio 1 Dance Stage at Radio
-OL,8,     G1's Big Weekend in Liverpool.
-OL,9,     GExperience it via bbc.co.uk/
-OL,10,     Gportal.
-OL,11,G0200FRadio 1 Dance @ Radio 1's Big
-OL,12,     FWeekend
-OL,13,     GConnor Coates. Connor Coates is
-OL,14,     Glive on the Radio 1 Dance Stage
-OL,15,     Gat Radio 1's Big Weekend in
-OL,16,     GLiverpool. Experience it via
-OL,17,     Gbbc.co.uk/portal.
-OL,18,G0300FRadio 1's Big Weekend: Friday
-OL,19,     FHighlights
-OL,20,     GRewind with some of the best bits
-OL,21,     Gfrom Friday at Radio 1's Big
-OL,22,     GWeekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,232,200,150,300,000,100
-PN,23105
-SC,0005
-PS,c000
-OL,0,        ECIMSBWebfax 2   F231A1748237321
-OL,1,W{${$~+$ {$~{4k4h7} (        G5/5
-OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
-OL,3,CProgramme listings for TUE 27 MAY
+OL,3,CProgramme listings for WED 28 MAY
 OL,4,G0400FRadio 1 Pop Anthems
-OL,5,     GPanic! at the Disco, Ellie
-OL,6,     GGoulding, The Chainsmokers and
-OL,7,     Gmore of the best pop anthems!
+OL,5,     GNiall Horan, Meghan Trainor, The
+OL,6,     GWanted and more of the best pop
+OL,7,     Ganthems!
 OL,8,G0500FRadio 1 Early Breakfast with Dean
 OL,9,     FMcCullough
 OL,10,     GDean has Radio 1's Early
