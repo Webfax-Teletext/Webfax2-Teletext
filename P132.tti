@@ -2,23 +2,22 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1748349217
+OL,0,        ECIMSBWebfax 2   F132A1748363652
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FCloudy but dry at first. Cloud
-OL,6,Fand rain will spread north to all
-OL,7,Fparts by midday before mostly clearing
-OL,8,Feast by late afternoon. Cloudy evening
-OL,9,Fwith light patchy rain. Maximum
-OL,10,FTemperature 15C.
-OL,11,
-OL,12,CTonight:FA cloudy start to the night
-OL,13,Fwith some patchy rain, then turning
-OL,14,Fclearer and mainly dry overnight.
-OL,15,FLight winds and turning chilly.
-OL,16,FMinimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FIt will be a
+OL,6,Fcloudy start to the night with some
+OL,7,Fpatchy rain, then turning clearer and
+OL,8,Fmainly dry overnight. Light winds and
+OL,9,Fturning chilly. Minimum Temperature 5C.
+OL,10,
+OL,11,CWednesday:FA bright day with sunny
+OL,12,Fspells. Dry at first then a few heavy
+OL,13,Fshowers breaking out, but easing later
+OL,14,Fto leave a sunny evening. Maximum
+OL,15,FTemperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,23 +25,17 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1748349218
+OL,0,        ECIMSBWebfax 2   F132A1748363652
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CWednesday:FA bright day with sunny
-OL,6,Fspells. Dry at first then a few heavy
-OL,7,Fshowers breaking out, but dynig out
-OL,8,Flater to leave a sunny evening.
-OL,9,FMaximum Temperature 16C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:FA
-OL,12,Fwet start on Thursday then brighter
-OL,13,Fwith scattered showers Friday sunny
-OL,14,Fspells and isolated showers, then some
-OL,15,Frain later. Some rain on Saturday,
-OL,16,Fshowery later.
+OL,5,COutlook for Thursday to Saturday:FA
+OL,6,Fwet start on Thursday then brighter
+OL,7,Fwith scattered showers Friday sunny
+OL,8,Fspells and isolated showers, then some
+OL,9,Frain later. Some rain on Saturday,
+OL,10,Fshowery later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
