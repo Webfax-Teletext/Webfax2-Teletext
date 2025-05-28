@@ -2,24 +2,25 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748433498
+OL,0,        ECIMSBWebfax 2   F134A1748471783
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FA bright day with some sunny
-OL,6,Fspells along with a few showers,
-OL,7,Fperhaps heavy at times, before these
-OL,8,Fshowers become increasingly isolated
-OL,9,Flater. Fresh westerly breeze easing
-OL,10,Fdown further. Maximum Temperature 12C.
-OL,11,
-OL,12,CTonight:FMostly dry with evening
-OL,13,Fsunshine as any odd remaining showers
-OL,14,Fdie out and winds ease down. Staying
-OL,15,Fdry overnight and winds become light,
-OL,16,Fthough cloud speeding north towards
-OL,17,Fmorning. Minimum Temperature 7C.
+OL,5,CThis Evening and Tonight:FMostly dry
+OL,6,Fwith evening sunshine as any odd
+OL,7,Fremaining showers die out and winds
+OL,8,Fease down. Staying dry overnight and
+OL,9,Fwinds become light, though cloud
+OL,10,Fspeeding north towards morning.
+OL,11,FMinimum Temperature 7C.
+OL,12,
+OL,13,CThursday:FDry first thing but rain
+OL,14,Fsoon spreading north through the
+OL,15,Fmorning. Drier and brighter spells
+OL,16,Fdeveloping through the afternoon and
+OL,17,Fevening though some showers remain.
+OL,18,FMaximum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -27,24 +28,17 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748433498
+OL,0,        ECIMSBWebfax 2   F134A1748471783
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThursday:FDry first thing but rain
-OL,6,Fsoon spreading north through the
-OL,7,Fmorning. Drier and brighter spells
-OL,8,Fdeveloping through the afternoon and
-OL,9,Fevening though some showers remain.
-OL,10,FMaximum Temperature 12C.
-OL,11,
-OL,12,COutlook for Friday to Sunday:FCloud
-OL,13,Fand rain Friday morning becoming drier
-OL,14,Fwith sunny spells and showers later.
-OL,15,FDry start Saturday then some rain
-OL,16,Flater, becoming showery with some
-OL,17,Fbrighter spells possible on Sunday.
+OL,5,COutlook for Friday to Sunday:FCloud
+OL,6,Fand rain Friday morning becoming drier
+OL,7,Fwith sunny spells and showers later.
+OL,8,FDry start Saturday then some rain
+OL,9,Flater, becoming showery with some
+OL,10,Fbrighter spells possible on Sunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
