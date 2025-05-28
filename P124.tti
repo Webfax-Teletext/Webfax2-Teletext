@@ -2,24 +2,26 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1748417792
+OL,0,        ECIMSBWebfax 2   F124A1748425014
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FInitially
-OL,6,Fcloudy with outbreaks of rain
-OL,7,Fparticularly in the south. Cloud and
-OL,8,Frain will gradually clear during the
-OL,9,Fevening, leaving a cool and dry night
-OL,10,Fwith patchy cloud and light winds.
-OL,11,FMinimum Temperature 6C.
+OL,5,CToday:FCloudy with scattered showers
+OL,6,Farriving from the west through the
+OL,7,Fmorning, showers may turn heavy with a
+OL,8,Frisk of thunder in the afternoon,
+OL,9,Fthough feeling pleasant in any sunny
+OL,10,Fintervals between showers. Winds
+OL,11,Fmainly light. Maximum Temperature 18C.
 OL,12,
-OL,13,CWednesday:FBright spells with
-OL,14,Fscattered showers developing into the
-OL,15,Fafternoon. Winds mainly light. Turning
-OL,16,Fdry and fine through the evening.
-OL,17,FMaximum Temperature 18C.
+OL,13,CTonight:FShowers soon clearing this
+OL,14,Fevening, turning dry and fine. Cloud
+OL,15,Fthickening toward midnight, with
+OL,16,Foutbreaks of rain arriving during the
+OL,17,Fearly hours. Winds light to start, but
+OL,18,Fstrengthening toward dawn. Minimum
+OL,19,FTemperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -27,17 +29,24 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1748417792
+OL,0,        ECIMSBWebfax 2   F124A1748425014
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FBreezy with spells of rain Thursday.
-OL,7,FDrier through Friday and into the
-OL,8,Fweekend but occasional showers remain
-OL,9,Fpossible, with temperatures near
-OL,10,Faverage.
+OL,5,CThursday:FA cloudy day with outbreaks
+OL,6,Fof persistent and sometimes heavy
+OL,7,Frain. Some brighter and drier spells
+OL,8,Fdeveloping to the east later. Rather
+OL,9,Fwarm and humid. Strong winds or gales.
+OL,10,FMaximum Temperature 20C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FPartly
+OL,13,Fcloudy Friday, a chance of light rain
+OL,14,For showers. A dry start Saturday, a
+OL,15,Fband of heavy showers later. Becoming
+OL,16,Fwindy Sunday with further heavy
+OL,17,Fshowers. Warm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
