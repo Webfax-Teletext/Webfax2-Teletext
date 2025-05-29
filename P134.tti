@@ -2,26 +2,24 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748501075
+OL,0,        ECIMSBWebfax 2   F134A1748537163
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FA cloudy day with rain and
-OL,6,Fdrizzle, which may be heavy at times,
-OL,7,Fspreading northeastwards through the
-OL,8,Fmorning. Rain clearing Orkney early
-OL,9,Fafternoon with some bright spells.
-OL,10,FOutbreaks of rain continuing over
-OL,11,FShetland. Breezy southeasterly winds
-OL,12,Fturning westerly. Maximum Temperature
-OL,13,F11C.
-OL,14,
-OL,15,CTonight:FRain clearing northeastwards
-OL,16,Faway from Shetland. This leaves a
-OL,17,Fmostly dry and cloudy night for all
-OL,18,Fwith the odd shower possible. Breezy
-OL,19,Fwesterly winds. Minimum Temperature 7C.
+OL,5,CThis Evening and Tonight:FRain
+OL,6,Fclearing northeastwards away from
+OL,7,FShetland this evening. Then a mostly
+OL,8,Fdry and cloudy night with the odd
+OL,9,Fpassing shower possible. Breezy
+OL,10,Fwesterly or northwesterly winds.
+OL,11,FMinimum Temperature 7C.
+OL,12,
+OL,13,CFriday:FSunny spells with the odd
+OL,14,Fshower possible throughout the day.
+OL,15,FCloudier across Shetland with longer
+OL,16,Fsunny spells developing for Orkney.
+OL,17,FMaximum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -29,24 +27,16 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748501075
+OL,0,        ECIMSBWebfax 2   F134A1748537163
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CFriday:FSunny spells with the odd
-OL,6,Fshower possible throughout the day.
-OL,7,FCloudier across Shetland with longer
-OL,8,Fsunny spells developing for Orkney
-OL,9,Flater in the day. Breezy northwesterly
-OL,10,Fwinds. Maximum Temperature 12C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:
-OL,13,FRemaining unsettled with sunny spells
-OL,14,Fat times but showers also which may be
-OL,15,Fheavy and merge to longer spells of
-OL,16,Frain at times. Strong winds Saturday
-OL,17,Fand Sunday, easing Monday.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FRemaining unsettled with sunny spells
+OL,7,Fat times but showers also which may be
+OL,8,Fheavy and merge to longer spells of
+OL,9,Frain at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
