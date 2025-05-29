@@ -2,26 +2,27 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1748472181
+OL,0,        ECIMSBWebfax 2   F124A1748504684
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FResidual
-OL,6,Fshowers soon clearing this evening,
-OL,7,Fturning dry and fine. Cloud thickening
-OL,8,Ftoward midnight, with outbreaks of
-OL,9,Frain arriving during the early hours.
-OL,10,FWinds light to start, but
-OL,11,Fstrengthening toward dawn. Minimum
-OL,12,FTemperature 8C.
-OL,13,
-OL,14,CThursday:FA cloudy day with outbreaks
-OL,15,Fof persistent and sometimes heavy
-OL,16,Frain. Some brighter and drier spells
-OL,17,Fdeveloping to the east later. Feeling
-OL,18,Frather warm and humid. Strong, gusty
-OL,19,Fwinds. Maximum Temperature 20C.
+OL,5,CToday:FEarly rain clearing eastern
+OL,6,Fparts through the morning, with some
+OL,7,Fbrighter intervals possible. However,
+OL,8,Frain and drizzle continuing across
+OL,9,Fmany western parts, most persistent
+OL,10,Facross the Pennines, although
+OL,11,Fgradually easing to be mainly light.
+OL,12,FWindy, especially across the hills.
+OL,13,FMaximum Temperature 20C.
+OL,14,
+OL,15,CTonight:FRain and drizzle continuing
+OL,16,Facross western hills, but staying
+OL,17,Fmainly light. Mostly dry but rather
+OL,18,Fcloudy elsewhere, but with a chance of
+OL,19,Fsome rain or drizzle by the morning.
+OL,20,FBreezy. Minimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,17 +30,25 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1748472181
+OL,0,        ECIMSBWebfax 2   F124A1748504684
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Friday to Sunday:FProbably
-OL,6,Fdamp start Friday, then brighter and
-OL,7,Fmostly dry. A dry start Saturday, but
-OL,8,Fa band of heavier showers likely
-OL,9,Flater. Becoming windy Sunday with
-OL,10,Ffurther heavy showers. Rather warm.
+OL,5,CFriday:FEarly rain or drizzle clearing
+OL,6,Fthrough the morning to brighter or
+OL,7,Fsunny intervals, but otherwise rather
+OL,8,Fcloudy. However, the odd shower also
+OL,9,Fpossible, mainly in the west. Maximum
+OL,10,FTemperature 20C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:
+OL,13,FVariable cloud and sunny spells
+OL,14,Fthrough the weekend and into the
+OL,15,Fcoming week, but also some showers,
+OL,16,Foccasionally heavy. Perhaps drier
+OL,17,FMonday. Breezy at times with
+OL,18,Ftemperatures near normal.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
