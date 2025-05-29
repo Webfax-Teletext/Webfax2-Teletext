@@ -2,21 +2,26 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1748472181
+OL,0,        ECIMSBWebfax 2   F125A1748519116
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FAny daytime
-OL,6,Fshowers fading to leave an initially
-OL,7,Fdry evening. Turning increasingly
-OL,8,Fcloudy, with spells of rain sweeping
-OL,9,Fnortheastwards overnight, heavy and
-OL,10,Fpersistent over the hills with
-OL,11,Fwidespread hill fog. Becoming breezy
-OL,12,Fovernight too, especially over the
-OL,13,Fhills. Feeling humid. Minimum
-OL,14,FTemperature 10C.
+OL,5,CToday:FA murky start to the day with
+OL,6,Fwidespread low cloud, outbreaks of
+OL,7,Frain and hill fog. Turning drier by
+OL,8,Fthe afternoon with rain becoming
+OL,9,Fpatchy and drizzle confined to higher
+OL,10,Fground, and even some brightness in
+OL,11,Fthe east. Windy. Maximum Temperature
+OL,12,F18C.
+OL,13,
+OL,14,CTonight:FRemaining cloudy with rain
+OL,15,Fand drizzle becoming more persistent
+OL,16,Fovernight, a few heavy spells at times
+OL,17,Ftoo. Remaining mild and feeling
+OL,18,Fbreezy, especially along the coast.
+OL,19,FMinimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -24,25 +29,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1748472181
+OL,0,        ECIMSBWebfax 2   F125A1748519116
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThursday:FDamp and murky with further
-OL,6,Foutbreaks of rain through the morning.
-OL,7,FRain becoming patchy, with drizzle
-OL,8,Fconfined to the hills by the
-OL,9,Fafternoon. Brighter spells developing
-OL,10,Fin the east. Windy. Maximum
-OL,11,FTemperature 19C.
-OL,12,
-OL,13,COutlook for Friday to Sunday:FLargely
-OL,14,Fdry for most with bright or sunny
-OL,15,Fspells, but a few showers still
-OL,16,Fpossible at times. Feeling warmer,
-OL,17,Fespecially Friday and Saturday in the
-OL,18,Fsouth, and staying rather breezy.
+OL,5,CFriday:FMainly cloudy, though rain
+OL,6,Fclearing eastwards to give a mixture
+OL,7,Fof brighter spells and scattered
+OL,8,Fshowers through the day. Breezy at
+OL,9,Ftimes, especially in the showers.
+OL,10,FMaximum Temperature 18C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:FPatchy
+OL,13,Frain or showers through the period,
+OL,14,Fbut plenty of dry periods too with
+OL,15,Fbright or sunny spells. Feeling warm,
+OL,16,Fespecially on Saturday, cooler from
+OL,17,FSunday, and often breezy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
