@@ -2,24 +2,24 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748634757
+OL,0,        ECIMSBWebfax 2   F134A1748641974
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FSunny spells with the odd
-OL,6,Fshower possible throughout the day.
-OL,7,FCloudier across Orkney to start but
-OL,8,Fmostly dry, perhaps the south seeing a
-OL,9,Flittle rain early in the day, light
-OL,10,Fwinds. Maximum Temperature 12C.
-OL,11,
-OL,12,CTonight:FCloud mostly clearing to
-OL,13,Fleave a fine and dry evening with
-OL,14,Flight winds. Cloud developing for
-OL,15,FOrkney later in the night and
-OL,16,Fstrengthening winds here too just
-OL,17,Fafter dawn. Minimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FCloud mostly
+OL,6,Fclearing to leave a fine and dry
+OL,7,Fevening with light winds. Cloud
+OL,8,Fdeveloping for Orkney later in the
+OL,9,Fnight and strengthening winds here too
+OL,10,Fjust after dawn. Minimum Temperature
+OL,11,F5C.
+OL,12,
+OL,13,CSaturday:FA dry start for Shetland,
+OL,14,Fbut blustery showers affecting Orkney
+OL,15,Fwill spread north during the afternoon
+OL,16,Fwith a wet evening in store. Maximum
+OL,17,FTemperature 15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -27,22 +27,16 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748634757
+OL,0,        ECIMSBWebfax 2   F134A1748641974
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CSaturday:FA dry start for Shetland,
-OL,6,Fbut blustery showers affecting Orkney
-OL,7,Fwill spread north during the afternoon
-OL,8,Fwith a wet evening in store. Maximum
-OL,9,FTemperature 15C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:
-OL,12,FRemaining unsettled with sunny spells
-OL,13,Fand showers Sunday, a fine day on
-OL,14,FMonday, stronger winds and some late
-OL,15,Frain on Tuesday.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FRemaining unsettled with sunny spells
+OL,7,Fand showers Sunday, a fine day on
+OL,8,FMonday, stronger winds and some late
+OL,9,Frain on Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
