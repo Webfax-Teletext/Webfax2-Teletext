@@ -2,23 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F130A1748605860
+OL,0,        ECIMSBWebfax 2   F130A1748620317
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FLow cloud, mist or coastal fog
-OL,6,Fclearing away through the morning to
-OL,7,Fleave a generally fine and dry day
-OL,8,Fwith lengthy spells of sunshine. Warm,
-OL,9,Fespecially inland with a moderate
-OL,10,Fcoastal breeze easing later. Maximum
-OL,11,FTemperature 24C.
+OL,5,CThis Evening and Tonight:FGenerally
+OL,6,Fdry, with good spells of evening
+OL,7,Fsunshine and variable cloud. Mild,
+OL,8,Fwith patches of low cloud developing
+OL,9,Fovernight, giving a risk of mist and
+OL,10,Ffog in some areas. Minimum Temperature
+OL,11,F12C.
 OL,12,
-OL,13,CTonight:FDry overnight with lengthy
-OL,14,Fclear spells and light winds, allowing
-OL,15,Fsome patchy mist or low cloud to form
-OL,16,Fin places. Minimum Temperature 12C.
+OL,13,CSaturday:FAny low cloud, mist and fog
+OL,14,Fsoon clearing to leave a fine and dry
+OL,15,Fday with light winds. Winds
+OL,16,Fstrengthening through the day with
+OL,17,Fsome gusts likely along the coast.
+OL,18,FMaximum Temperature 25C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -26,24 +28,16 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F130A1748605860
+OL,0,        ECIMSBWebfax 2   F130A1748620317
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CSaturday:FLargely dry with lengthy
-OL,6,Fsunny spells, just the small chance of
-OL,7,Fa late afternoon shower. Warm or very
-OL,8,Fwarm, with just a gentle breeze.
-OL,9,FMaximum Temperature 25C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FSunday,
-OL,12,Flargely dry with sunny spells, perhaps
-OL,13,Fisolated showers. Breezy, somewhat
-OL,14,Ffresher. Largely dry Monday, with
-OL,15,Fsunny spells and lighter winds.
-OL,16,FTuesday, turning unsettled and
-OL,17,Fwindier, with rain or showers.
+OL,5,COutlook for Sunday to Tuesday:FDry but
+OL,6,Funsettled on Sunday and Monday with a
+OL,7,Frisk of showers. A band of rain and
+OL,8,Fstrong winds moving in on Tuesday
+OL,9,Fmorning.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
