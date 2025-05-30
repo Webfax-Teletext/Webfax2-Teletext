@@ -2,24 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1748537163
+OL,0,        ECIMSBWebfax 2   F132A1748587688
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Fmostly cloudy overnight with a few
-OL,7,Fclear intervals in the evening. Dry
-OL,8,Ffor many but outbreaks of light rain
-OL,9,Fpossible at times, especially north
-OL,10,Fand west. Minimum Temperature 9C.
-OL,11,
-OL,12,CFriday:FMainly dry in the morning..
-OL,13,FSunny spells breaking through in the
-OL,14,Fafternoon with the odd shower
-OL,15,Fpossible. Feeling warm in any
-OL,16,Fafternoon sunshine. Maximum
-OL,17,FTemperature 20C.
+OL,5,CToday:FMainly dry with some sunshine,
+OL,6,Fsome cloud around the north coast to
+OL,7,Fstart the day. Sunny spells breaking
+OL,8,Fthrough in the afternoon with the odd
+OL,9,Fshower possible. Feeling warm in any
+OL,10,Fafternoon sunshine. Maximum
+OL,11,FTemperature 20C.
+OL,12,
+OL,13,CTonight:FAny showers dying out and a
+OL,14,Fmostly clear evening with late
+OL,15,Fsunshine, more cloud in the north.
+OL,16,FCloud increasing later in the night
+OL,17,Fand winds freshening. Minimum
+OL,18,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,16 +28,21 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1748537163
+OL,0,        ECIMSBWebfax 2   F132A1748587688
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Saturday to Monday:
-OL,6,FRemaining unsettled with sunny spells
-OL,7,Fat times but showers also which may be
-OL,8,Fheavy and merge to longer spells of
-OL,9,Frain at times. Breezy at times.
+OL,5,CSaturday:FCloudy with blustery
+OL,6,Fshowers, a few heavier showers
+OL,7,Fdeveloping. Drier by evening with some
+OL,8,Flate sunshine. Maximum Temperature 19C.
+OL,9,
+OL,10,COutlook for Sunday to Tuesday:
+OL,11,FRemaining unsettled with sunny spells,
+OL,12,Fshowers and fresh winds on Sunday and
+OL,13,FTuesday, more settled on Monday with
+OL,14,Flighter winds and sunny spells.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
