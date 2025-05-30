@@ -2,24 +2,25 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1748537163
+OL,0,        ECIMSBWebfax 2   F128A1748580470
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud
-OL,6,Freturns from the west overnight with a
-OL,7,Ffew outbreaks of light rain or drizzle
-OL,8,Fon western facing hills, but dry for
-OL,9,Fmost. Remaining breezy and staying
-OL,10,Fmild. Minimum Temperature 13C.
-OL,11,
-OL,12,CFriday:FMainly cloudy with a few
-OL,13,Foutbreaks of rain and drizzle in the
-OL,14,Fnorth, interspersed with some brighter
-OL,15,Fbreaks too. Feeling warm in any sunny
-OL,16,Fspells with lighter winds than
-OL,17,FThursday. Maximum Temperature 22C.
+OL,5,CToday:FMainly cloudy with a few
+OL,6,Foutbreaks of rain and drizzle in the
+OL,7,Fnorth through the morning. Sunnier
+OL,8,Fspells in the south with a few showers
+OL,9,Fdeveloping by the afternoon. Feeling
+OL,10,Fwarm in any sunny spells with lighter
+OL,11,Fwinds. Maximum Temperature 22C.
+OL,12,
+OL,13,CTonight:FAny showers fading this
+OL,14,Fevening to leave some late sunny
+OL,15,Fspells. Dry overnight with variable
+OL,16,Fcloud and clear spells. Not as mild as
+OL,17,Fprevious nights, with light winds.
+OL,18,FMinimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -27,17 +28,24 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1748537163
+OL,0,        ECIMSBWebfax 2   F128A1748580470
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:FPatchy
-OL,6,Frain or showers through the period,
-OL,7,Fbut plenty of dry periods too with
-OL,8,Fbright or sunny spells. Feeling warm,
-OL,9,Fespecially on Saturday, cooler from
-OL,10,FSunday, and often breezy.
+OL,5,CSaturday:FDry start initially with
+OL,6,Fsunny spells, but turning cloudier at
+OL,7,Ftimes with some rain or showers, but
+OL,8,Fmost places staying dry. Feeling very
+OL,9,Fwarm but breezy. Maximum Temperature
+OL,10,F24C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FCooler
+OL,13,Fon Sunday with some sunny spells and
+OL,14,Fshowers, but breezy. Largely dry on
+OL,15,FMonday with lighter winds but turning
+OL,16,Fmore unsettled on Tuesday with heavy
+OL,17,Fspells of rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
