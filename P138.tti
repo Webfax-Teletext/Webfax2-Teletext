@@ -2,25 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1748609480
+OL,0,        ECIMSBWebfax 2   F138A1748623930
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FCloudy in the morning with
-OL,6,Foutbreaks of rain and drizzle. Cloud
-OL,7,Fbreaking up in the afternoon to give
-OL,8,Fsunny spells but also scattered
-OL,9,Fshowers, but Argyll staying mostly dry
-OL,10,Fwith light winds. Maximum Temperature
-OL,11,F17C.
+OL,5,CThis Evening and Tonight:FDry and
+OL,6,Fsunny during the evening for most
+OL,7,Fareas, some cloud creeping into the
+OL,8,Fwest later in the night, with some
+OL,9,Fshowers developing. Winds freshening
+OL,10,Flater in the night too. Minimum
+OL,11,FTemperature 13C.
 OL,12,
-OL,13,CTonight:FDry and sunny during the
-OL,14,Fevening for most areas, some cloud
-OL,15,Fcreeping into the west later in the
-OL,16,Fnight, with some showers developing.
-OL,17,FWinds freshening later in the night
-OL,18,Ftoo. Minimum Temperature 13C.
+OL,13,CSaturday:FCloudy with blustery
+OL,14,Fshowers, a few heavier showers with
+OL,15,Fthunder possible. Drier by evening
+OL,16,Fwith some late sunshine. Maximum
+OL,17,FTemperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -28,22 +27,16 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1748609480
+OL,0,        ECIMSBWebfax 2   F138A1748623930
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CSaturday:FCloudy with blustery
-OL,6,Fshowers, a few heavier showers with
-OL,7,Fthunder possible. Drier by evening
-OL,8,Fwith some late sunshine. Maximum
-OL,9,FTemperature 20C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:
-OL,12,FRemaining unsettled with sunny spells,
-OL,13,Fshowers and fresh winds on Sunday and
-OL,14,FTuesday, more settled on Monday with
-OL,15,Flighter winds and sunny spells.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FRemaining unsettled with sunny spells,
+OL,7,Fshowers and fresh winds on Sunday and
+OL,8,FTuesday, more settled on Monday with
+OL,9,Flighter winds and sunny spells.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
