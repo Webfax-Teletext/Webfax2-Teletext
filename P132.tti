@@ -1,29 +1,48 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F132A1748620317
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F132A1748663624
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FAny showers
-OL,6,Fdying out and a mostly clear evening
-OL,7,Fwith late sunshine, more cloud in the
-OL,8,Fnorth. Cloud increasing later in the
-OL,9,Fnight and winds freshening. Minimum
-OL,10,FTemperature 13C.
+OL,5,CToday:FAfter a dry start showery rain,
+OL,6,Foccasionally heavy, will move east
+OL,7,Fthis morning. This afternoon will see
+OL,8,Fsunny spells and showers, some heavy.
+OL,9,FFeeling warm in any afternoon
+OL,10,Fsunshine. Maximum Temperature 19C.
 OL,11,
-OL,12,CSaturday:FCloudy with blustery
-OL,13,Fshowers, a few heavier showers
-OL,14,Fdeveloping. Drier by evening with some
-OL,15,Flate sunshine. Maximum Temperature 19C.
-OL,16,
-OL,17,COutlook for Sunday to Tuesday:
-OL,18,FRemaining unsettled with sunny spells,
-OL,19,Fshowers and fresh winds on Sunday and
-OL,20,FTuesday, more settled on Monday with
-OL,21,Flighter winds and sunny spells.
+OL,12,CTonight:FThis evening will be mainly
+OL,13,Fdry. Thickening cloud will bring
+OL,14,Foutbreaks of rain, occasionally heavy,
+OL,15,Facross all parts in the early hours.
+OL,16,FTurning drier and clearer later.
+OL,17,FMinimum Temperature 10C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F132A1748663624
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,CSunday:FMainly dry and bright in the
+OL,6,Fmorning. Cloudier for a time in the
+OL,7,Fafternoon with a chance of showers.
+OL,8,FMaximum Temperature 18C.
+OL,9,
+OL,10,COutlook for Monday to Wednesday:FDry
+OL,11,Ffor most of Monday but rain spreading
+OL,12,Feast later. Cool, blustery and
+OL,13,Funsettled on Tuesday and Wednesday
+OL,14,Fwith showers or occasionally longer
+OL,15,Fspells of rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
