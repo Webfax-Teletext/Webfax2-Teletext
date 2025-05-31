@@ -2,25 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1748699712
+OL,0,        ECIMSBWebfax 2   F129A1748706930
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FMost places will remain dry
-OL,6,Fwith bright or sunny spells and light
-OL,7,Fwinds, although coastal areas will
-OL,8,Fbecome breezy and there is a small
-OL,9,Fchance of an afternoon shower
-OL,10,Farriving. Becoming warm or very warm
-OL,11,Finland. Maximum Temperature 26C.
+OL,5,CThis Evening and Tonight:FDry with
+OL,6,Fpatchy cloud but also evening sunny
+OL,7,Fspells and overnight clear spells.
+OL,8,FFeeling fresher as temperatures fall
+OL,9,Fslightly lower than preceding nights.
+OL,10,FWinds mostly light. Minimum
+OL,11,FTemperature 10C.
 OL,12,
-OL,13,CTonight:FDry with patchy cloud but
-OL,14,Falso evening sunny spells and
-OL,15,Fovernight clear spells. Feeling
-OL,16,Ffresher as temperatures fall slightly
-OL,17,Flower than preceding nights. Minimum
-OL,18,FTemperature 10C.
+OL,13,CSunday:FLight winds to start, often
+OL,14,Fcloudy, although some bright or sunny
+OL,15,Fspells will occur. Isolated afternoon
+OL,16,Fshowers possible. Becoming breezy
+OL,17,Finland, windy along the east coast.
+OL,18,FWarm. Maximum Temperature 21C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,24 +28,17 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1748699712
+OL,0,        ECIMSBWebfax 2   F129A1748706930
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CSunday:FBreezy and mainly dry but
-OL,6,Foften cloudy, although some bright or
-OL,7,Fsunny spells will occur. An isolated
-OL,8,Fafternoon shower may arrive. Becoming
-OL,9,Fbreezy inland, windy along the east
-OL,10,Fcoast. Maximum Temperature 21C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FMonday
-OL,13,Fdry, warm with sunny spells. Tuesday
-OL,14,Fdry start then a band of heavy rain
-OL,15,Fmoves east, becoming windy, average
-OL,16,Ftemperatures. Wednesday feeling cool
-OL,17,Fwith a chance of isolated showers.
+OL,5,COutlook for Monday to Wednesday:FMonday
+OL,6,Fdry, warm with sunny spells. Tuesday
+OL,7,Fdry start then a band of heavy rain
+OL,8,Fmoves east, becoming windy, average
+OL,9,Ftemperatures. Wednesday feeling cool
+OL,10,Fwith a chance of isolated showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
