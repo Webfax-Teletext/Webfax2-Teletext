@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1748674451
+OL,0,        ECIMSBWebfax 2   F1fcA1748678059
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1748674451;
-OL,10,GService: Webfax 2 - 5420 4f1e34326
-OL,11,FLast Update: 31/05/2025 07:54:11  G1/2
+OL,25,1748678059;
+OL,10,GService: Webfax 2 - 5421 c875b8ea5
+OL,11,FLast Update: 31/05/2025 08:54:19  G1/2
 OL,13,AbbcNewsLive                G30/05-21:47
 OL,14,CbbcSport/Horse Racing      G29/05-22:47
 OL,15,Abbc_news_papers            G28/05-23:42
@@ -23,14 +23,14 @@ OL,16,CitvSport/border            G28/05-23:42
 OL,17,CitvSport/calendar          G28/05-23:42
 OL,18,CitvSport/channel           G29/05-06:44
 OL,19,CitvSport/london            G29/05-10:45
-OL,20,CitvSport/meridian          G28/05-23:42
-OL,21,CitvSport/tyne-tees         G28/05-23:42
-OL,22,CitvSport/utv               G28/05-23:42
-OL,23,CitvSport/wales             G28/05-23:42
+OL,20,CitvSport/tyne-tees         G28/05-23:42
+OL,21,CitvSport/utv               G28/05-23:42
+OL,22,CitvSport/wales             G28/05-23:42
+OL,23,CitvSport/westcountry       G28/05-23:42
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1748674451
+OL,0,        ECIMSBWebfax 2   F1fcA1748678059
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,8 +42,7 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1748674451;
-OL,10,GService: Webfax 2 - 5420 4f1e34326
-OL,11,FLast Update: 31/05/2025 07:54:11  G2/2
-OL,13,CitvSport/westcountry       G28/05-23:42
-OL,14,Ctvroom/cleanfeed           G28/05-23:42
+OL,25,1748678059;
+OL,10,GService: Webfax 2 - 5421 c875b8ea5
+OL,11,FLast Update: 31/05/2025 08:54:19  G2/2
+OL,13,Ctvroom/cleanfeed           G28/05-23:42
