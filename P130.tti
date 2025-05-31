@@ -2,25 +2,24 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F130A1748620317
+OL,0,        ECIMSBWebfax 2   F130A1748660017
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FGenerally
-OL,6,Fdry, with good spells of evening
-OL,7,Fsunshine and variable cloud. Mild,
-OL,8,Fwith patches of low cloud developing
-OL,9,Fovernight, giving a risk of mist and
-OL,10,Ffog in some areas. Minimum Temperature
-OL,11,F12C.
-OL,12,
-OL,13,CSaturday:FAny low cloud, mist and fog
-OL,14,Fsoon clearing to leave a fine and dry
-OL,15,Fday with light winds. Winds
-OL,16,Fstrengthening through the day with
-OL,17,Fsome gusts likely along the coast.
-OL,18,FMaximum Temperature 25C.
+OL,5,CToday:FAny low cloud, mist and fog
+OL,6,Fsoon clearing to leave a fine and dry
+OL,7,Fday with light winds inland, while the
+OL,8,Fsouth coast becomes breezy. Highest
+OL,9,Ftemperatures across eastern areas.
+OL,10,FMaximum Temperature 27C.
+OL,11,
+OL,12,CTonight:FDry with patchy cloud but
+OL,13,Falso evening sunny spells and
+OL,14,Fovernight clear spells. Feeling
+OL,15,Ffresher as temperatures fall slightly
+OL,16,Flower than preceding nights. Minimum
+OL,17,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -28,16 +27,24 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F130A1748620317
+OL,0,        ECIMSBWebfax 2   F130A1748660017
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FDry but
-OL,6,Funsettled on Sunday and Monday with a
-OL,7,Frisk of showers. A band of rain and
-OL,8,Fstrong winds moving in on Tuesday
-OL,9,Fmorning.
+OL,5,CSunday:FBreezy and mainly dry but
+OL,6,Foften cloudy, although some bright or
+OL,7,Fsunny spells will occur. An isolated
+OL,8,Fafternoon shower may arrive. Becoming
+OL,9,Fbreezy inland, windy along the south
+OL,10,Fcoast. Maximum Temperature 23C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:FMonday
+OL,13,Fdry, warm with sunny spells. Tuesday
+OL,14,Fdry start then a band of heavy rain
+OL,15,Fmoves east, becoming windy, average
+OL,16,Ftemperatures. Wednesday feeling cool
+OL,17,Fwith a chance of isolated showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
