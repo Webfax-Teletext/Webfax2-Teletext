@@ -2,24 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1748804365
+OL,0,        ECIMSBWebfax 2   F138A1748815191
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FRain spreading east for a time
-OL,6,Fthis morning, then drier and brighter
-OL,7,Ffor a time. Clouding over at times
-OL,8,Fthis afternoon with a few showers, but
-OL,9,Fsome drier weather too. Maximum
-OL,10,FTemperature 16C.
-OL,11,
-OL,12,CTonight:FShowers mostly dying out this
-OL,13,Fevening although a few continuing
-OL,14,Facross the west overnight. Otherwise a
-OL,15,Fdry night with clear periods. Brisk
-OL,16,Fnorthwesterly winds this evening.
-OL,17,FMinimum Temperature 7C.
+OL,5,CThis Evening and Tonight:FShowers
+OL,6,Fmostly dying out this evening although
+OL,7,Fa few continuing across the west
+OL,8,Fovernight. Otherwise a dry night with
+OL,9,Fclear periods. Brisk northwesterly
+OL,10,Fwinds this evening. Minimum
+OL,11,FTemperature 7C.
+OL,12,
+OL,13,CMonday:FMost of the day will be dry,
+OL,14,Fwith the best of the sunshine in the
+OL,15,Fmorning. Strengthening southerly winds
+OL,16,Fwill bring rain later in the evening.
+OL,17,FMaximum Temperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,22 +27,17 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1748804365
+OL,0,        ECIMSBWebfax 2   F138A1748815191
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CMonday:FMost of the day will be dry,
-OL,6,Fbest of the sunshine in the morning.
-OL,7,FStrengthening southerly winds will
-OL,8,Fbring rain later in the evening.
-OL,9,FMaximum Temperature 16C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:FA
-OL,12,Frather cool and unsettled few days
-OL,13,Fwith scattered showers, but some drier
-OL,14,Fspells too. Strong westerly winds at
-OL,15,Ftimes, easing by Thursday.
+OL,5,COutlook for Tuesday to Thursday:FA
+OL,6,Frather cool and unsettled few days
+OL,7,Fwith scattered showers, frequent at
+OL,8,Ftimes, but some drier spells too.
+OL,9,FStrong westerly winds at times, easing
+OL,10,Fby Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
