@@ -2,26 +2,23 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1748735798
+OL,0,        ECIMSBWebfax 2   F126A1748750233
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly dry
-OL,6,Fthis evening with sunny spells.
-OL,7,FOvernight a band of cloud, with
-OL,8,Fshowers or longer spells of rain, will
-OL,9,Fmove east to leave clear periods.
-OL,10,FFresher than recent nights. Minimum
-OL,11,FTemperature 10C.
-OL,12,
-OL,13,CSunday:FDry start with sunny spells
-OL,14,Fbefore showers or longer spells of
-OL,15,Frain soon arrive, these sometimes
-OL,16,Fheavy and perhaps thundery. Gradually
-OL,17,Fbecoming drier with sunny spells
-OL,18,Fthrough the afternoon. Windy. Maximum
-OL,19,FTemperature 21C.
+OL,5,CToday:FDry at first with good spells
+OL,6,Fof sunshine. Through the morning
+OL,7,Fstrong blustery winds and some showers
+OL,8,Fwill develop, these may be heavy at
+OL,9,Ftimes with a risk of thunder. Maximum
+OL,10,FTemperature 20C.
+OL,11,
+OL,12,CTonight:FAny showers dying away
+OL,13,Fthrough the evening to leave a dry
+OL,14,Fnight with clear spells. Strong, gusty
+OL,15,Fwinds easing overnight. Minimum
+OL,16,FTemperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -29,18 +26,25 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1748735798
+OL,0,        ECIMSBWebfax 2   F126A1748750233
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FMonday
-OL,6,Fmainly dry with sunny spells,
-OL,7,Ftemperatures near average. Tuesday
-OL,8,Fwindy with heavy rain soon clearing
-OL,9,Feast and sunny spells and scattered
-OL,10,Fshowers following. Wednesday feeling
-OL,11,Fcool with scattered showers.
+OL,5,CMonday:FSome isolated showers may
+OL,6,Fdevelop in the early hours,
+OL,7,Fparticularly along the Humber. Largely
+OL,8,Ffine and dry by the afternoon with a
+OL,9,Fgood deal of sunshine. Maximum
+OL,10,FTemperature 20C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:FStrong
+OL,13,Fwinds and rain at first on Tuesday,
+OL,14,Ffollowed by scattered showers and
+OL,15,Fwinds easing overnight. Remaining
+OL,16,Funsettled Wednesday and Thursday with
+OL,17,Fsunny spells, showers and blustery
+OL,18,Fwinds expected.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
