@@ -2,24 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1748750233
+OL,0,        ECIMSBWebfax 2   F139A1748768277
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FThis morning will be cloudy
-OL,6,Fwith rain for a time. This afternoon
-OL,7,Fwill see some bright or sunny spells
-OL,8,Falong with a few showers. Freshening
-OL,9,Fnorthwesterly winds across Galloway
-OL,10,Flater. Maximum Temperature 17C.
-OL,11,
-OL,12,CTonight:FAny showers mostly dying out
-OL,13,Fthis evening although the odd one
-OL,14,Fcontinuing across Galloway overnight.
-OL,15,FOtherwise a dry night with clear
-OL,16,Fperiods. Brisk northwesterly winds
-OL,17,Fthis evening. Minimum Temperature 7C.
+OL,5,CThis Evening and Tonight:FDry with
+OL,6,Fsome evening sunshine. Then mostly dry
+OL,7,Fwith clear spells through the night
+OL,8,Fbut cloud thickening in the west later
+OL,9,Fwith some drizzle here and winds
+OL,10,Fstrengthening after dawn. Minimum
+OL,11,FTemperature 11C.
+OL,12,
+OL,13,CSaturday:FCloudy with blustery
+OL,14,Fshowers, a few heavier showers with
+OL,15,Fthunder possible. Drier by evening
+OL,16,Fwith some late sunshine. Maximum
+OL,17,FTemperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -27,22 +27,16 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1748750233
+OL,0,        ECIMSBWebfax 2   F139A1748768277
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CMonday:FMost of the day will be dry,
-OL,6,Fbest of the sunshine in the morning.
-OL,7,FStrengthening southerly winds will
-OL,8,Fbring rain to the southwest later in
-OL,9,Fthe evening. Maximum Temperature 16C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:FA
-OL,12,Frather cool and unsettled few days
-OL,13,Fwith scattered showers, but some drier
-OL,14,Fspells too. Strong westerly winds at
-OL,15,Ftimes, easing by Thursday.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FRemaining unsettled with sunny spells,
+OL,7,Fshowers and fresh winds on Sunday and
+OL,8,FTuesday, more settled on Monday with
+OL,9,Flighter winds and sunny spells.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
