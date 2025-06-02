@@ -2,24 +2,24 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748818911
+OL,0,        ECIMSBWebfax 2   F134A1748844223
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FSome bright or sunny spells
-OL,6,Fwith a few showers. Clouding over from
-OL,7,Fthe west later in the afternoon with
-OL,8,Fsome longer spells of rain. Fresh to
-OL,9,Fstrong west or southwesterly winds.
-OL,10,FMaximum Temperature 14C.
+OL,5,CToday:FA few showers in the morning
+OL,6,Fbecome frequent across Shetland for a
+OL,7,Ftime before clearing by midday to
+OL,8,Fleave the afternoon dry with sunny
+OL,9,Fspells. Breezy. Maximum Temperature
+OL,10,F13C.
 OL,11,
-OL,12,CTonight:FCloudy this evening with rain
-OL,13,Ffor a time, most persistent across
-OL,14,FShetland. Drier and clearer weather
-OL,15,Fwill spread from the west in the early
-OL,16,Fhours. Strong northwesterly winds this
-OL,17,Fevening. Minimum Temperature 7C.
+OL,12,CTonight:FCloud will thicken as the
+OL,13,Fwind strengthens from the evening.
+OL,14,FAfter a dry start rain will spread
+OL,15,Feast from midnight, clearing Orkney
+OL,16,Fagain towards morning. Minimum
+OL,17,FTemperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -27,21 +27,23 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1748818911
+OL,0,        ECIMSBWebfax 2   F134A1748844223
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CMonday:FMainly dry with some bright
-OL,6,Fspells. Strong south to southeasterly
-OL,7,Fwinds developing in the evening.
-OL,8,FMaximum Temperature 13C.
-OL,9,
-OL,10,COutlook for Tuesday to Thursday:
-OL,11,FUnsettled and windy with showers or
-OL,12,Flonger spells of rain on Tuesday and
-OL,13,FWednesday. Lighter winds with fewer
-OL,14,Fshowers on Thursday. Cool.
+OL,5,CTuesday:FA windy day, rain will clear
+OL,6,FShetland as showers move over Orkney
+OL,7,Fin the morning. Showers spread to
+OL,8,FShetland in the afternoon. Maximum
+OL,9,FTemperature 13C.
+OL,10,
+OL,11,COutlook for Wednesday to Friday:FWindy
+OL,12,Fconditions Wednesday ease through
+OL,13,FThursday and Friday. It will be cool
+OL,14,Fwith scattered showers Wednesday and
+OL,15,FThursday beginning to clear from
+OL,16,FFriday afternoon.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
