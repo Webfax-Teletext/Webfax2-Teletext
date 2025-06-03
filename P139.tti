@@ -2,23 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1748926998
+OL,0,        ECIMSBWebfax 2   F139A1748966688
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FAfter a dry start, showers will
-OL,6,Fspread east during the morning, some
-OL,7,Fheavy. Spells of sunshine between the
-OL,8,Fshowers. It will be a cool and windy
-OL,9,Fday. Maximum Temperature 15C.
-OL,10,
-OL,11,CTonight:FIt will remain cool and windy
-OL,12,Fthrough the evening and overnight with
-OL,13,Ffurther showers feeding in from the
-OL,14,Fwest, but some longer clear spells
-OL,15,Fpossible towards Eastern Borders
-OL,16,FMinimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FIt will
+OL,6,Fremain cool and windy through the
+OL,7,Fevening and overnight with further
+OL,8,Fshowers feeding in from the west, but
+OL,9,Fsome longer clear spells possible
+OL,10,Ftowards Eastern Borders Minimum
+OL,11,FTemperature 4C.
+OL,12,
+OL,13,CWednesday:FIt will be another cool and
+OL,14,Fbreezy day with bright or sunny spells
+OL,15,Fand some showers, these could be heavy
+OL,16,Fand quite frequent at times. Maximum
+OL,17,FTemperature 15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -26,23 +27,17 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1748926998
+OL,0,        ECIMSBWebfax 2   F139A1748966688
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CWednesday:FIt will be another cool and
-OL,6,Fbreezy day with sunny spells and some
-OL,7,Fshowers, these could be heavy and
-OL,8,Fquite frequent at times. Maximum
-OL,9,FTemperature 15C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:
-OL,12,FSunshine and occasional showers
-OL,13,Fcontinue Thursday to Saturday, heavy
-OL,14,Fand perhaps forming longer spells of
-OL,15,Frain at times. Feeling cool for June.
-OL,16,FWinds easing through Thursday.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FSunshine and occasional showers
+OL,7,Fcontinue Thursday to Saturday, heavy
+OL,8,Fand perhaps forming longer spells of
+OL,9,Frain at times. Feeling cool for June.
+OL,10,FWinds easing through Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
