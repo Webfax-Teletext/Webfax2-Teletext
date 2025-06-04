@@ -2,24 +2,27 @@ PN,13301
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F133A1749009985
+OL,0,        ECIMSBWebfax 2   F133A1749053283
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CToday:FA changeable day of sunny
-OL,6,Fspells, cloudier periods and the
-OL,7,Fchance of occasional showers. These
-OL,8,Fcould be heavy in places. Breezy at
-OL,9,Ftimes and feeling rather cool in the
-OL,10,Fwind. Maximum Temperature 17C.
-OL,11,
-OL,12,CTonight:FShowers easing for a time
-OL,13,Fthis evening before being replaced
-OL,14,Fwith more general rain overnight.
-OL,15,FWinds freshening during the second
-OL,16,Fhalf of the night. Minimum Temperature
-OL,17,F9C.
+OL,5,CThis Evening and Tonight:FSunny spells
+OL,6,Fand showers at first this evening,
+OL,7,Falthough many places remaining dry.
+OL,8,FFurther periods of rain or showers
+OL,9,Flater this evening and overnight and
+OL,10,Fturning particularly wet by the
+OL,11,Fmorning with heavy and persistent rain
+OL,12,Farriving. Mild and breezy. Minimum
+OL,13,FTemperature 9C.
+OL,14,
+OL,15,CThursday:FA rather wet start to the
+OL,16,Fday, then somewhat drier for many.
+OL,17,FScattered heavy showers through the
+OL,18,Fafternoon, though many places staying
+OL,19,Fdry and bright. Warm in any sunshine.
+OL,20,FBreezy. Maximum Temperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
@@ -27,25 +30,17 @@ PN,13302
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F133A1749009985
+OL,0,        ECIMSBWebfax 2   F133A1749053283
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CThursday:FAfter a rather wet morning,
-OL,6,Fthe rain turning more showery by the
-OL,7,Fafternoon, but still the chance of
-OL,8,Fheavy downpours in places. Feeling
-OL,9,Fwarm in any afternoon brightness.
-OL,10,FBreezy. Maximum Temperature 17C.
-OL,11,
-OL,12,COutlook for Friday to Sunday:FStaying
-OL,13,Fchangeable with sunny spells and
-OL,14,Fshowers on Friday. Heavier and more
-OL,15,Ffrequent showers on Saturday, with
-OL,16,Fhail and thunder possible. Drier on
-OL,17,FSunday. Often breezy and feeling
-OL,18,Frather cool.
+OL,5,COutlook for Friday to Sunday:FShowers
+OL,6,Fclearing to warm sunny spells on
+OL,7,FFriday. Heavier and more frequent
+OL,8,Fshowers on Saturday, with thunder and
+OL,9,Flightning possible. Drier on Sunday.
+OL,10,FOften breezy and feeling rather cool.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
