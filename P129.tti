@@ -2,25 +2,24 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1749125474
+OL,0,        ECIMSBWebfax 2   F129A1749132691
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FGenerally
-OL,6,Fdry with good spells of sunshine
-OL,7,Fthrough the evening. Some outbreaks of
-OL,8,Fpatchy rain likely to develop
-OL,9,Fovernight. Some blustery winds along
-OL,10,Fthe coast at first, easing overnight.
-OL,11,FMinimum Temperature 12C.
-OL,12,
-OL,13,CThursday:FOutbreaks of rain, heavy at
-OL,14,Ftimes, clearing through in the early
-OL,15,Fafternoon. This will be followed by
-OL,16,Fsome isolated heavy showers for the
-OL,17,Flate afternoon, mostly clearing by the
-OL,18,Fevening. Maximum Temperature 19C.
+OL,5,CToday:FOutbreaks of rain, heavy at
+OL,6,Ftimes, clearing through in the early
+OL,7,Fafternoon. This will be followed by
+OL,8,Fsome isolated heavy showers, mostly
+OL,9,Fclearing by the evening. Maximum
+OL,10,FTemperature 19C.
+OL,11,
+OL,12,CTonight:FMostly dry with the chance of
+OL,13,Fsome evening sunshine. Overnight,
+OL,14,Fbecoming cloudy with outbreaks of
+OL,15,Fheavy rain around dawn, progressing
+OL,16,Fquickly towards the east. Minimum
+OL,17,FTemperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,17 +27,25 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1749125474
+OL,0,        ECIMSBWebfax 2   F129A1749132691
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Friday to Sunday:FSunshine
-OL,6,Fand showers for Friday. Widespread
-OL,7,Frain and showers on Saturday, turning
-OL,8,Fheavy and potentially thundery. Sunny
-OL,9,Fspells and some heavy showers Sunday,
-OL,10,Fwith strong winds on the coast.
+OL,5,CFriday:FRain soon clearing east to
+OL,6,Fleave a mixture of sunshine and
+OL,7,Fscattered showers which may be heavy
+OL,8,Fat times. In the afternoon, showers
+OL,9,Fbecoming lighter and more isolated.
+OL,10,FMaximum Temperature 19C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:
+OL,13,FWidespread rain and showers on
+OL,14,FSaturday, turning heavy and
+OL,15,Fpotentially thundery. Mostly fine and
+OL,16,Fdry Sunday, with isolated showers and
+OL,17,Fstrong winds on the coast. Monday, dry
+OL,18,Fbut clouding over.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
