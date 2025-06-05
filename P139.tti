@@ -1,47 +1,28 @@
-PN,13901
-SC,0001
+PN,13900
+SC,0000
 CT,20,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1749017201
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8000
+OL,0,        ECIMSBWebfax 2   F139A1749147125
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FIt will be another cool and
-OL,6,Fbreezy day with bright or sunny spells
-OL,7,Fand some showers, these could be heavy
-OL,8,Fand quite frequent at times. Maximum
-OL,9,FTemperature 15C.
-OL,10,
-OL,11,CTonight:FThe odd shower may remain,
-OL,12,Fbut an otherwise dry evening and
-OL,13,Fovernight period with some late
-OL,14,Fsunshine and then clear spells.
-OL,15,FMinimum Temperature 5C.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page BWeatherCReg Sport FNat Radio
-FL,150,120,301,200,000,100
-PN,13902
-SC,0002
-CT,20,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1749017201
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GDumfries
-OL,4,
-OL,5,CThursday:FA mostly dry and bright
-OL,6,Fstart before turning cloudier through
-OL,7,Fthe morning with rain spreading east,
-OL,8,Fwith some heavier bursts at times.
-OL,9,FBecoming mostly dry again in the
-OL,10,Fevening. Maximum Temperature 15C.
+OL,5,CThis Evening and Tonight:FSome late
+OL,6,Fbrightness this evening and the odd
+OL,7,Fshower. The rest of the night will see
+OL,8,Fclear periods and a few showers.
+OL,9,FChilly where skies become clear.
+OL,10,FMinimum Temperature 6C.
 OL,11,
-OL,12,COutlook for Friday to Sunday:FSunshine
-OL,13,Fand occasional showers continue Friday
-OL,14,Fto Sunday, heavy and perhaps forming
-OL,15,Flonger spells of rain at times.
-OL,16,FFeeling cool for June.
+OL,12,CFriday:FVariable amounts of cloud with
+OL,13,Fsome bright or sunny intervals and
+OL,14,Fjust a few showers. Light winds.
+OL,15,FMaximum Temperature 16C.
+OL,16,
+OL,17,COutlook for Saturday to Monday:FRather
+OL,18,Fcloudy on Saturday with showery rain.
+OL,19,FBrighter on Sunday with fewer showers.
+OL,20,FRemaining unsettled into Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
