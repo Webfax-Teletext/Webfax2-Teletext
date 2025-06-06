@@ -1,8 +1,8 @@
 PN,24101
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
 OL,4,G0600FBBC News
@@ -20,21 +20,22 @@ OL,15,     Ganalysis on what's happening
 OL,16,     Ginside Trump's White House.
 OL,17,G0830FBBC News Summary
 OL,18,G0832FBusiness Daily
-OL,19,     GWe speak to the CEO of Kenya
-OL,20,     GAirways - one of Africa?s largest
-OL,21,     Gairlines.
+OL,19,     GWe are in Saudi Arabia where
+OL,20,     Gmillions of Muslims are
+OL,21,     Gperforming Hajj - the largest
+OL,22,     GIslamic pilgrimage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24102
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
 OL,4,G0850FWitness History
 OL,5,     GIn 1948, the foundation was laid
-OL,6,     Gfor a ?utopian? town designed by
-OL,7,     GAmerica?s greatest architect.
+OL,6,     Gfor a\utopian town designed by
+OL,7,     GAmerica's greatest architect.
 OL,8,     GFrank Lloyd Wright's mission was
 OL,9,     Gto create a social collective of
 OL,10,     Gaffordable homes.
@@ -44,15 +45,18 @@ OL,13,     GThe world's Newsroom brings you
 OL,14,     Gglobal events as they happen.
 OL,15,G0930FBBC News Summary
 OL,16,G0932FScience In Action
-OL,17,     GThe BBC brings you all the week's
-OL,18,     Gscience news.
-OL,19,G1000FBBC News
+OL,17,     GWhat is Fusarium graminearum and
+OL,18,     Gwhy were scientists allegedly
+OL,19,     Gsmuggling it into the US? Also,
+OL,20,     GAlpine Glacier collapse and an
+OL,21,     GHIV capitulation.
+OL,22,G1000FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24103
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
 OL,4,G1006FUnexpected Elements
@@ -70,213 +74,241 @@ OL,15,     GEmily Wither meets Syrian
 OL,16,     GAlawites that have fled to
 OL,17,     GLebanon.
 OL,18,G1200FBBC News
-OL,19,G1206FOutlook
-OL,20,     GTrue stories of ordinary people
-OL,21,     Gand the extraordinary events that
-OL,22,     Ghave shaped their lives.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24104
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G1250FWitness History
-OL,5,     GIn 1948, the foundation was laid
-OL,6,     Gfor a ?utopian? town designed by
-OL,7,     GAmerica?s greatest architect.
-OL,8,     GFrank Lloyd Wright's mission was
-OL,9,     Gto create a social collective of
-OL,10,     Gaffordable homes.
-OL,11,G1300FBBC News
-OL,12,G1306FThe Newsroom
-OL,13,     GThe world's Newsroom brings you
-OL,14,     Gglobal events as they happen.
-OL,15,G1330FBBC News Summary
-OL,16,G1332FScience In Action
-OL,17,     GThe BBC brings you all the week's
-OL,18,     Gscience news.
-OL,19,G1400FBBC News
-OL,20,G1406FNewshour
-OL,21,     GInterviews, news and analysis of
-OL,22,     Gthe day?s global events.
+OL,4,G1206FOutlook
+OL,5,     GAn ode to unexpected action
+OL,6,     Gheroes: the Indian labourer who
+OL,7,     Gbecame Superman, the armour that
+OL,8,     Gcreated an Afghan Iron Woman, and
+OL,9,     Gthe invincible artist Marina
+OL,10,     GAbramovic.
+OL,11,G1250FWitness History
+OL,12,     GIn 1948, the foundation was laid
+OL,13,     Gfor a\utopian town designed by
+OL,14,     GAmerica's greatest architect.
+OL,15,     GFrank Lloyd Wright's mission was
+OL,16,     Gto create a social collective of
+OL,17,     Gaffordable homes.
+OL,18,G1300FBBC News
+OL,19,G1306FThe Newsroom
+OL,20,     GThe world's Newsroom brings you
+OL,21,     Gglobal events as they happen.
+OL,22,G1330FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24105
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G1500FBBC News
-OL,5,G1506FAmericast
-OL,6,     GJoin Americast for insights and
-OL,7,     Ganalysis on what's happening
-OL,8,     Ginside Trump's White House.
-OL,9,G1530FBBC News Summary
-OL,10,G1532FWorld Business Report
-OL,11,G1600FBBC News
-OL,12,G1606FBBC OS
-OL,13,     GBBC OS gives a vibrant account of
-OL,14,     Gthe day?s events with explanation
-OL,15,     Gand reaction from those involved.
-OL,16,G1700FBBC News
-OL,17,G1706FBBC OS
-OL,18,     GBBC OS gives a vibrant account of
-OL,19,     Gthe day?s events with explanation
-OL,20,     Gand reaction from those involved.
-OL,21,G1800FBBC News
+OL,4,G1332FScience In Action
+OL,5,     GWhat is Fusarium graminearum and
+OL,6,     Gwhy were scientists allegedly
+OL,7,     Gsmuggling it into the US? Also,
+OL,8,     GAlpine Glacier collapse and an
+OL,9,     GHIV capitulation.
+OL,10,G1400FBBC News
+OL,11,G1406FNewshour
+OL,12,     GInterviews, news and analysis of
+OL,13,     Gthe day's global events.
+OL,14,G1500FBBC News
+OL,15,G1506FAmericast
+OL,16,     GJoin Americast for insights and
+OL,17,     Ganalysis on what's happening
+OL,18,     Ginside Trump's White House.
+OL,19,G1530FBBC News Summary
+OL,20,G1532FWorld Business Report
+OL,21,G1600FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24106
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G1806FOutlook
-OL,5,     GTrue stories of ordinary people
-OL,6,     Gand the extraordinary events that
-OL,7,     Ghave shaped their lives.
-OL,8,G1850FWitness History
-OL,9,     GIn 1948, the foundation was laid
-OL,10,     Gfor a ?utopian? town designed by
-OL,11,     GAmerica?s greatest architect.
-OL,12,     GFrank Lloyd Wright's mission was
-OL,13,     Gto create a social collective of
-OL,14,     Gaffordable homes.
-OL,15,G1900FBBC News
-OL,16,G1906FThe Newsroom
-OL,17,     GThe world's Newsroom brings you
-OL,18,     Gglobal events as they happen.
-OL,19,G1930FBBC News Summary
+OL,4,G1606FBBC OS
+OL,5,     GBBC OS gives a vibrant account of
+OL,6,     Gthe day's events with explanation
+OL,7,     Gand reaction from those involved.
+OL,8,G1700FBBC News
+OL,9,G1706FBBC OS
+OL,10,     GBBC OS gives a vibrant account of
+OL,11,     Gthe day's events with explanation
+OL,12,     Gand reaction from those involved.
+OL,13,G1800FBBC News
+OL,14,G1806FOutlook
+OL,15,     GAn ode to unexpected action
+OL,16,     Gheroes: the Indian labourer who
+OL,17,     Gbecame Superman, the armour that
+OL,18,     Gcreated an Afghan Iron Woman, and
+OL,19,     Gthe invincible artist Marina
+OL,20,     GAbramovic.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24107
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G1932FSport Today
-OL,5,     GBBC sports correspondents tell
-OL,6,     Gthe story behind today's top
-OL,7,     Gsporting news, with interviews
-OL,8,     Gand reports from across the world.
-OL,9,G2000FBBC News
-OL,10,G2006FBBC OS Conversations
-OL,11,     GHow major news stories are
-OL,12,     Gaffecting the lives of people
-OL,13,     Garound the world.
-OL,14,G2030FBBC News Summary
-OL,15,G2032FCrowdScience
-OL,16,     GWe explore the science behind
-OL,17,     G?The Hum? ? a global phenomenon
-OL,18,     Gof persistent, low noise.
-OL,19,G2100FBBC News
-OL,20,G2106FNewshour
-OL,21,     GInterviews, news and analysis of
-OL,22,     Gthe day?s global events.
+OL,4,G1850FWitness History
+OL,5,     GIn 1948, the foundation was laid
+OL,6,     Gfor a\utopian town designed by
+OL,7,     GAmerica's greatest architect.
+OL,8,     GFrank Lloyd Wright's mission was
+OL,9,     Gto create a social collective of
+OL,10,     Gaffordable homes.
+OL,11,G1900FBBC News
+OL,12,G1906FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G1930FBBC News Summary
+OL,16,G1932FSport Today
+OL,17,     GBBC sports correspondents tell
+OL,18,     Gthe story behind today's top
+OL,19,     Gsporting news, with interviews
+OL,20,     Gand reports from across the world.
+OL,21,G2000FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24108
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G2200FBBC News
-OL,5,G2206FAmericast
-OL,6,     GJoin Americast for insights and
-OL,7,     Ganalysis on what's happening
-OL,8,     Ginside Trump's White House.
-OL,9,G2230FBBC News Summary
-OL,10,G2232FHeart and Soul
-OL,11,     GEmily Wither meets Syrian
-OL,12,     GAlawites that have fled to
-OL,13,     GLebanon.
-OL,14,G2300FBBC News
-OL,15,G2306FThe Newsroom
-OL,16,     GThe world's Newsroom brings you
-OL,17,     Gglobal events as they happen.
-OL,18,G2330FBBC News Summary
-OL,19,G2332FWorld Business Report
-OL,20,G0000FBBC News
+OL,4,G2006FBBC OS Conversations
+OL,5,     GHow major news stories are
+OL,6,     Gaffecting the lives of people
+OL,7,     Garound the world.
+OL,8,G2030FBBC News Summary
+OL,9,G2032FCrowdScience
+OL,10,     GWe explore the science behind
+OL,11,     G'The Hum' - a global phenomenon
+OL,12,     Gof persistent, low noise.
+OL,13,G2100FBBC News
+OL,14,G2106FNewshour
+OL,15,     GInterviews, news and analysis of
+OL,16,     Gthe day's global events.
+OL,17,G2200FBBC News
+OL,18,G2206FAmericast
+OL,19,     GJoin Americast for insights and
+OL,20,     Ganalysis on what's happening
+OL,21,     Ginside Trump's White House.
+OL,22,G2230FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24109
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G0006FUnexpected Elements
-OL,5,     GThe release of the Nintendo
-OL,6,     GSwitch 2 has got us loading up
-OL,7,     Gall our favourite gaming-related
-OL,8,     Gstories.
-OL,9,G0100FBBC News
-OL,10,G0106FBusiness Matters
-OL,11,     GGlobal business news, with live
-OL,12,     Gguests and contributions from
-OL,13,     GAsia and the USA.
-OL,14,G0200FBBC News
-OL,15,G0206FThe Newsroom
-OL,16,     GThe world's Newsroom brings you
-OL,17,     Gglobal events as they happen.
-OL,18,G0230FBBC News Summary
-OL,19,G0232FStumped
-OL,20,     GThe weekly cricket show from BBC
-OL,21,     GSport in association with ABC and
-OL,22,     GAkashvani.
+OL,4,G2232FHeart and Soul
+OL,5,     GEmily Wither meets Syrian
+OL,6,     GAlawites that have fled to
+OL,7,     GLebanon.
+OL,8,G2300FBBC News
+OL,9,G2306FThe Newsroom
+OL,10,     GThe world's Newsroom brings you
+OL,11,     Gglobal events as they happen.
+OL,12,G2330FBBC News Summary
+OL,13,G2332FWorld Business Report
+OL,14,G0000FBBC News
+OL,15,G0006FUnexpected Elements
+OL,16,     GThe release of the Nintendo
+OL,17,     GSwitch 2 has got us loading up
+OL,18,     Gall our favourite gaming-related
+OL,19,     Gstories.
+OL,20,G0100FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24110
 SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G0300FBBC News
-OL,5,G0306FOutlook
-OL,6,     GTrue stories of ordinary people
-OL,7,     Gand the extraordinary events that
-OL,8,     Ghave shaped their lives.
-OL,9,G0350FWitness History
-OL,10,     GIn 1948, the foundation was laid
-OL,11,     Gfor a ?utopian? town designed by
-OL,12,     GAmerica?s greatest architect.
-OL,13,     GFrank Lloyd Wright's mission was
-OL,14,     Gto create a social collective of
-OL,15,     Gaffordable homes.
-OL,16,G0400FBBC News
-OL,17,G0406FUnexpected Elements
-OL,18,     GThe release of the Nintendo
-OL,19,     GSwitch 2 has got us loading up
-OL,20,     Gall our favourite gaming-related
-OL,21,     Gstories.
-OL,22,G0500FBBC News
+OL,4,G0106FBusiness Matters
+OL,5,     GGlobal business news, with live
+OL,6,     Gguests and contributions from
+OL,7,     GAsia and the USA.
+OL,8,G0200FBBC News
+OL,9,G0206FThe Newsroom
+OL,10,     GThe world's Newsroom brings you
+OL,11,     Gglobal events as they happen.
+OL,12,G0230FBBC News Summary
+OL,13,G0232FStumped
+OL,14,     GVirat Kohli & Royal Challengers
+OL,15,     GBengaluru win their maiden IPL
+OL,16,     Gtitle.
+OL,17,G0300FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 PN,24111
 SC,0011
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1749100204
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/11
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/13
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 6 JUN
-OL,4,G0506FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G0530FBBC News Summary
-OL,8,G0532FTrending
-OL,9,     GInformers are playing a key role
-OL,10,     Gin helping the Russian government
-OL,11,     Gsilence dissent, now one victim
-OL,12,     Ghas turned detective to uncover
-OL,13,     Gtheir persecutor?s true identity.
-OL,14,G0550FMore or Less
-OL,15,     GTim Harford explains the numbers
-OL,16,     Gand statistics in the news and in
-OL,17,     Glife.
+OL,4,G0306FOutlook
+OL,5,     GAn ode to unexpected action
+OL,6,     Gheroes: the Indian labourer who
+OL,7,     Gbecame Superman, the armour that
+OL,8,     Gcreated an Afghan Iron Woman, and
+OL,9,     Gthe invincible artist Marina
+OL,10,     GAbramovic.
+OL,11,G0350FWitness History
+OL,12,     GIn 1948, the foundation was laid
+OL,13,     Gfor a\utopian town designed by
+OL,14,     GAmerica's greatest architect.
+OL,15,     GFrank Lloyd Wright's mission was
+OL,16,     Gto create a social collective of
+OL,17,     Gaffordable homes.
+OL,18,G0400FBBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24112
+SC,0012
+PS,c000
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/13
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 6 JUN
+OL,4,G0406FUnexpected Elements
+OL,5,     GThe release of the Nintendo
+OL,6,     GSwitch 2 has got us loading up
+OL,7,     Gall our favourite gaming-related
+OL,8,     Gstories.
+OL,9,G0500FBBC News
+OL,10,G0506FThe Newsroom
+OL,11,     GThe world's Newsroom brings you
+OL,12,     Gglobal events as they happen.
+OL,13,G0530FBBC News Summary
+OL,14,G0532FTrending
+OL,15,     GInformers are playing a key role
+OL,16,     Gin helping the Russian government
+OL,17,     Gsilence dissent, now one victim
+OL,18,     Ghas turned detective to uncover
+OL,19,     Gtheir persecutor's true identity.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+PN,24113
+SC,0013
+PS,c000
+OL,0,        ECIMSBWebfax 2   F241A1749179599
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/13
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for FRI 6 JUN
+OL,4,G0550FMore or Less
+OL,5,     GTim Harford explains the numbers
+OL,6,     Gand statistics in the news and in
+OL,7,     Glife.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
