@@ -2,28 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1749197643
+OL,0,        ECIMSBWebfax 2   F138A1749204859
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FA mainly dry start with some
-OL,6,Fbrightness across the east. Otherwise
-OL,7,Foften cloudy with scattered showers,
-OL,8,Fthese heaviest and most frequent
-OL,9,Facross Argyll. Lighter winds than of
-OL,10,Flate. Maximum Temperature 14C.
-OL,11,
-OL,12,CTonight:FSome late brightness this
-OL,13,Fevening and the odd shower. The rest
-OL,14,Fof the night will see clear periods
-OL,15,Fand the odd shower. Chilly where skies
-OL,16,Fbecome clear. Minimum Temperature 4C.
-OL,17,
-OL,18,CFriday:FVariable amounts of cloud with
-OL,19,Fsome bright or sunny and intervals and
-OL,20,Fjust a few showers. Light winds.
-OL,21,FMaximum Temperature 16C.
+OL,5,CToday:FVariable amounts of cloud with
+OL,6,Fsome bright and sunny spells. A few
+OL,7,Fshowers possible throughout the day
+OL,8,Fbut still plenty of dry spells. Breezy
+OL,9,Fat times. Maximum Temperature 16C.
+OL,10,
+OL,11,CTonight:FA mostly cloudy and dry
+OL,12,Fevening with the odd shower possible
+OL,13,Fbut these mainly near the coast.
+OL,14,FRemaining cloudy overnight with
+OL,15,Fshowers spreading in from the west.
+OL,16,FMinimum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -31,15 +26,23 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1749197643
+OL,0,        ECIMSBWebfax 2   F138A1749204859
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Saturday to Monday:FRather
-OL,6,Fcloudy on Saturday with showery rain.
-OL,7,FBrighter on Sunday with fewer showers.
-OL,8,FRemaining unsettled into Monday.
+OL,5,CSaturday:FA cloudy day with showers,
+OL,6,Fwhich will be heavy at times and may
+OL,7,Fmerge into longer spells of rain.
+OL,8,FShowers clearing eastwards later in
+OL,9,Fthe day. Maximum Temperature 14C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:FSunny
+OL,12,Fspells and showers on Sunday. Cloudy
+OL,13,Fon Monday with a few showers before a
+OL,14,Fband of rain spreads eastwards. Cloudy
+OL,15,Fwith rain to start Tuesday, drier
+OL,16,Flater.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
