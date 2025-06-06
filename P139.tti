@@ -1,28 +1,48 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F139A1749230117
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F139A1749244549
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FSome late
-OL,6,Fbrightness this evening and the odd
-OL,7,Fshower. The rest of the night will see
-OL,8,Fclear periods and a few showers.
-OL,9,FChilly where skies become clear.
-OL,10,FMinimum Temperature 6C.
-OL,11,
-OL,12,CFriday:FVariable amounts of cloud with
-OL,13,Fsome bright or sunny intervals and
-OL,14,Fjust a few showers. Light winds.
-OL,15,FMaximum Temperature 16C.
-OL,16,
-OL,17,COutlook for Saturday to Monday:FRather
-OL,18,Fcloudy on Saturday with showery rain.
-OL,19,FBrighter on Sunday with fewer showers.
-OL,20,FRemaining unsettled into Monday.
+OL,5,CToday:FVariable amounts of cloud with
+OL,6,Fsome bright and sunny spells. A few
+OL,7,Fshowers possible throughout the day
+OL,8,Fbut still plenty of dry spells. Breezy
+OL,9,Fat times. Maximum Temperature 17C.
+OL,10,
+OL,11,CTonight:FA mostly cloudy and dry
+OL,12,Fevening with the odd shower possible
+OL,13,Fand clear spells mainly in the east.
+OL,14,FCloudier overnight with showers
+OL,15,Fspreading in from the west to all
+OL,16,Fparts. Minimum Temperature 6C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F139A1749244549
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,CSaturday:FA cloudy day with showers,
+OL,6,Fwhich will be heavy at times and may
+OL,7,Fmerge into longer spells of rain.
+OL,8,FShowers clearing eastwards through the
+OL,9,Fevening. Maximum Temperature 15C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:FSunny
+OL,12,Fspells and showers on Sunday. Cloudy
+OL,13,Fon Monday with a few showers before a
+OL,14,Fband of rain spreads eastwards. Cloudy
+OL,15,Fwith rain to start Tuesday, drier
+OL,16,Flater.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
