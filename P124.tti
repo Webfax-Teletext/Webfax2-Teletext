@@ -2,23 +2,27 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1749287843
+OL,0,        ECIMSBWebfax 2   F124A1749320303
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FSome outbreaks of rain for the
-OL,6,Fearly morning, changing to a mix of
-OL,7,Fsunshine and showers, potentially
-OL,8,Fheavy at times with a risk of thunder.
-OL,9,FMaximum Temperature 15C.
-OL,10,
-OL,11,CTonight:FIsolated showers, mostly
-OL,12,Fdying away by midnight. Then generally
-OL,13,Fdry conditions overnight with clear
-OL,14,Fspells, though the odd shower may
-OL,15,Fcontinue along the coast. Minimum
-OL,16,FTemperature 6C.
+OL,5,CThis Evening and Tonight:FShowers will
+OL,6,Fslowly fade away towards midnight, but
+OL,7,Fcould linger in the east into the
+OL,8,Fearly hours. Drier conditions further
+OL,9,Fwest with some clear spells, and these
+OL,10,Fconditions will gradually extend east
+OL,11,Fto reach most parts by daybreak.
+OL,12,FMinimum Temperature 6C.
+OL,13,
+OL,14,CSunday:FMostly dry start with sunny
+OL,15,Fspells, but cloud bubbling up through
+OL,16,Fthe morning with heavy showers
+OL,17,Fdeveloping for the afternoon, perhaps
+OL,18,Fthundery. Showers then gradually
+OL,19,Ffading through the evening. Maximum
+OL,20,FTemperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -26,24 +30,18 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1749287843
+OL,0,        ECIMSBWebfax 2   F124A1749320303
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CSunday:FMostly dry to start, though
-OL,6,Fsome isolated, heavy showers may
-OL,7,Fdevelop through the morning,
-OL,8,Fcontinuing until the evening. Quite
-OL,9,Fbreezy, especially along the coast.
-OL,10,FMaximum Temperature 16C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:
-OL,13,FSunshine and showers on Monday,
-OL,14,Flocally heavy at times. Cloudy with
-OL,15,Foutbreaks of rain for Tuesday. Mostly
-OL,16,Fdry on Wednesday with variable cloud
-OL,17,Fand sunny spells.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FSunshine and showers on Monday.
+OL,7,FTuesday, cloudier with outbreaks of
+OL,8,Frain or showers. Wednesday, much
+OL,9,Fwarmer and mostly dry with bright or
+OL,10,Fsunny spells. Perhaps turning thundery
+OL,11,Fovernight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
