@@ -1,41 +1,27 @@
-PN,20901
-SC,0001
-PS,c000
-OL,0,        ECIMSBWebfax 2   F209A1749305882
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
+PN,20900
+SC,0000
+PS,8000
+OL,0,        ECIMSBWebfax 2   F209A1749316698
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SAT 7 JUN
-OL,4,G1515FRugby Union
-OL,5,     GLive rugby union commentary of
-OL,6,     GLeicester Tigers v Sale in the
-OL,7,     GEnglish Premiership semi-final.
-OL,8,G1730FThis Is Sports Extra
-OL,9,     GThis is BBC Radio 5 Sports Extra
-OL,10,     G- bringing you even more live
-OL,11,     Gcommentaries from the world's
-OL,12,     Ggreatest sporting events. Listen
-OL,13,     Gon BBC Sounds.
-OL,14,G2100FBoxing
-OL,15,     GLive boxing commentary from BBC
-OL,16,     GRadio Sheffield of Callum Simpson
-OL,17,     Gv Ivan Zucco at Oakwell Stadium,
-OL,18,     GBarnsley.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,210,200,150,300,000,100
-PN,20902
-SC,0002
-PS,c000
-OL,0,        ECIMSBWebfax 2   F209A1749305882
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
-OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for SAT 7 JUN
-OL,4,G0000FThis Is Sports Extra
+OL,4,G1730FThis Is Sports Extra
 OL,5,     GThis is BBC Radio 5 Sports Extra
 OL,6,     G- bringing you even more live
 OL,7,     Gcommentaries from the world's
 OL,8,     Ggreatest sporting events. Listen
 OL,9,     Gon BBC Sounds.
+OL,10,G2100FBoxing
+OL,11,     GLive boxing commentary from BBC
+OL,12,     GRadio Sheffield of Callum Simpson
+OL,13,     Gv Ivan Zucco at Oakwell Stadium,
+OL,14,     GBarnsley.
+OL,15,G0000FThis Is Sports Extra
+OL,16,     GThis is BBC Radio 5 Sports Extra
+OL,17,     G- bringing you even more live
+OL,18,     Gcommentaries from the world's
+OL,19,     Ggreatest sporting events. Listen
+OL,20,     Gon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
