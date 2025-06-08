@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1749345558
+OL,0,        ECIMSBWebfax 2   F1fcA1749349163
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1749345558;
-OL,10,GService: Webfax 2 - 5606 c748aeacf
-OL,11,FLast Update: 08/06/2025 02:19:18  G1/3
+OL,25,1749349163;
+OL,10,GService: Webfax 2 - 5607 577ad5f38
+OL,11,FLast Update: 08/06/2025 03:19:23  G1/2
 OL,13,CbbcNews/Technology         G06/06-17:55
 OL,14,AbbcNewsLive                G07/06-16:01
-OL,15,CbbcSport/Formula 1         G03/06-21:46
-OL,16,Abbc_news_papers            G02/06-13:59
-OL,17,AitvNews/calendar           G07/06-20:22
-OL,18,AitvNews/central            G07/06-20:22
-OL,19,CitvNews/channel            G06/06-20:18
-OL,20,AitvNews/granada            G05/06-17:14
-OL,21,AitvNews/meridian           G06/06-18:18
-OL,22,AitvNews/national           G04/06-00:06
-OL,23,AitvNews/utv                G06/06-08:16
+OL,15,Abbc_news_papers            G02/06-13:59
+OL,16,AitvNews/calendar           G07/06-20:22
+OL,17,AitvNews/central            G07/06-20:22
+OL,18,CitvNews/channel            G06/06-20:18
+OL,19,AitvNews/granada            G05/06-17:14
+OL,20,AitvNews/meridian           G06/06-18:18
+OL,21,AitvNews/national           G04/06-00:06
+OL,22,AitvNews/utv                G06/06-08:16
+OL,23,CitvNews/wales              G06/06-20:18
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1749345558
+OL,0,        ECIMSBWebfax 2   F1fcA1749349163
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,35 +42,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1749345558;
-OL,10,GService: Webfax 2 - 5606 c748aeacf
-OL,11,FLast Update: 08/06/2025 02:19:18  G2/3
-OL,13,CitvNews/wales              G06/06-20:18
-OL,14,CitvSport/border            G02/06-14:00
-OL,15,CitvSport/calendar          G02/06-14:00
-OL,16,CitvSport/central           G03/06-10:03
-OL,17,CitvSport/channel           G05/06-15:11
-OL,18,CitvSport/london            G04/06-12:07
-OL,19,CitvSport/meridian          G02/06-14:00
-OL,20,CitvSport/utv               G04/06-19:08
-OL,21,CitvSport/wales             G02/06-14:00
-OL,22,CitvSport/westcountry       G03/06-19:05
-OL,23,Ctvroom/cleanfeed           G06/06-05:16
-PN,1fc03
-SC,0003
-PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1749345558
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1749345558;
-OL,10,GService: Webfax 2 - 5606 c748aeacf
-OL,11,FLast Update: 08/06/2025 02:19:18  G3/3
+OL,25,1749349163;
+OL,10,GService: Webfax 2 - 5607 577ad5f38
+OL,11,FLast Update: 08/06/2025 03:19:23  G2/2
+OL,13,CitvSport/border            G02/06-14:00
+OL,14,CitvSport/calendar          G02/06-14:00
+OL,15,CitvSport/central           G03/06-10:03
+OL,16,CitvSport/channel           G05/06-15:11
+OL,17,CitvSport/london            G04/06-12:07
+OL,18,CitvSport/meridian          G02/06-14:00
+OL,19,CitvSport/utv               G04/06-19:08
+OL,20,CitvSport/wales             G02/06-14:00
+OL,21,CitvSport/westcountry       G03/06-19:05
+OL,22,Ctvroom/cleanfeed           G06/06-05:16
