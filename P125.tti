@@ -2,25 +2,27 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1749406893
+OL,0,        ECIMSBWebfax 2   F125A1749414106
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FA drier day than on Saturday
-OL,6,Fwith all areas seeing some sunshine at
-OL,7,Ftimes. Scattered, perhaps heavy,
-OL,8,Fshowers are likely, with the
-OL,9,Foccasional rumble of thunder, but some
-OL,10,Fplaces will remain dry. Breezy but
-OL,11,Ffeeling a little warmer. Maximum
-OL,12,FTemperature 16C.
-OL,13,
-OL,14,CTonight:FShowers mostly fading during
-OL,15,Fthe evening, some may linger into the
-OL,16,Fearly hours. Clear spells developing
-OL,17,Fovernight with winds easing and
-OL,18,Fbecoming light. Minimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FShowers
+OL,6,Fmostly fading during the evening, some
+OL,7,Fmay linger into the early hours. Clear
+OL,8,Fspells developing overnight with winds
+OL,9,Feasing and becoming light. Slightly
+OL,10,Fwarmer than last night with
+OL,11,Ftemperatures staying largely in double
+OL,12,Fdigits in major towns and cities.
+OL,13,FMinimum Temperature 4C.
+OL,14,
+OL,15,CMonday:FA dry and bright start on
+OL,16,FMonday but skies will cloud over from
+OL,17,Fthe west by late morning, with
+OL,18,Foutbreaks of rain arriving from mid
+OL,19,Fafternoon. Strengthening southwesterly
+OL,20,Fwinds. Maximum Temperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,24 +30,17 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1749406893
+OL,0,        ECIMSBWebfax 2   F125A1749414106
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CMonday:FA dry and bright start on
-OL,6,FMonday but skies will cloud over from
-OL,7,Fthe west by late morning, with
-OL,8,Foutbreaks of rain arriving from mid
-OL,9,Fafternoon. Strengthening southwesterly
-OL,10,Fwinds. Maximum Temperature 17C.
-OL,11,
-OL,12,COutlook for Tuesday to Thursday:FOften
-OL,13,Fcloudy on Tuesday with further
-OL,14,Foutbreaks of light rain. Turning
-OL,15,Fwarmer from mid week with sunny spells
-OL,16,Fand an increasing risk of thundery
-OL,17,Fshowers, especially on Thursday.
+OL,5,COutlook for Tuesday to Thursday:FOften
+OL,6,Fcloudy on Tuesday with further
+OL,7,Foutbreaks of light rain. Turning
+OL,8,Fwarmer from mid week with sunny spells
+OL,9,Fand an increasing risk of thundery
+OL,10,Fshowers, especially on Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
