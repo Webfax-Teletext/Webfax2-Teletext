@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1749475424
+OL,0,        ECIMSBWebfax 2   F1fcA1749479031
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1749475424;
-OL,10,GService: Webfax 2 - 5642 7fceb4769
-OL,11,FLast Update: 09/06/2025 14:23:44  G1/2
+OL,25,1749479031;
+OL,10,GService: Webfax 2 - 5643 05979e504
+OL,11,FLast Update: 09/06/2025 15:23:51  G1/3
 OL,13,Abbc_news_papers            G02/06-13:59
-OL,14,AitvNews/calendar           G07/06-20:22
-OL,15,AitvNews/central            G07/06-20:22
-OL,16,AitvNews/granada            G05/06-17:14
-OL,17,AitvNews/meridian           G06/06-18:18
-OL,18,AitvNews/national           G04/06-00:06
-OL,19,AitvNews/utv                G06/06-08:16
-OL,20,CitvNews/wales              G08/06-12:24
-OL,21,CitvSport/border            G02/06-14:00
-OL,22,CitvSport/calendar          G02/06-14:00
-OL,23,CitvSport/central           G03/06-10:03
+OL,14,CitvNews/border             G08/06-14:24
+OL,15,AitvNews/calendar           G07/06-20:22
+OL,16,AitvNews/central            G07/06-20:22
+OL,17,AitvNews/granada            G05/06-17:14
+OL,18,AitvNews/london             G09/06-14:28
+OL,19,AitvNews/meridian           G06/06-18:18
+OL,20,AitvNews/national           G04/06-00:06
+OL,21,CitvNews/tyne-tees          G08/06-14:24
+OL,22,AitvNews/utv                G06/06-08:16
+OL,23,CitvNews/westcountry        G08/06-14:24
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1749475424
+OL,0,        ECIMSBWebfax 2   F1fcA1749479031
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,15 +42,35 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1749475424;
-OL,10,GService: Webfax 2 - 5642 7fceb4769
-OL,11,FLast Update: 09/06/2025 14:23:44  G2/2
-OL,13,CitvSport/channel           G05/06-15:11
-OL,14,CitvSport/granada           G07/06-15:18
-OL,15,CitvSport/london            G04/06-12:07
-OL,16,CitvSport/meridian          G02/06-14:00
-OL,17,CitvSport/tyne-tees         G07/06-15:18
-OL,18,CitvSport/utv               G04/06-19:08
-OL,19,CitvSport/wales             G02/06-14:00
-OL,20,CitvSport/westcountry       G03/06-19:05
-OL,21,Ctvroom/cleanfeed           G06/06-05:16
+OL,25,1749479031;
+OL,10,GService: Webfax 2 - 5643 05979e504
+OL,11,FLast Update: 09/06/2025 15:23:51  G2/3
+OL,13,CitvSport/border            G02/06-14:00
+OL,14,CitvSport/calendar          G02/06-14:00
+OL,15,CitvSport/central           G03/06-10:03
+OL,16,CitvSport/channel           G05/06-15:11
+OL,17,CitvSport/granada           G07/06-15:18
+OL,18,CitvSport/meridian          G02/06-14:00
+OL,19,CitvSport/tyne-tees         G07/06-15:18
+OL,20,CitvSport/utv               G04/06-19:08
+OL,21,CitvSport/wales             G02/06-14:00
+OL,22,CitvSport/westcountry       G03/06-19:05
+OL,23,Ctvroom/cleanfeed           G06/06-05:16
+PN,1fc03
+SC,0003
+PS,c010
+OL,0,        ECIMSBWebfax 2   F1fcA1749479031
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1749479031;
+OL,10,GService: Webfax 2 - 5643 05979e504
+OL,11,FLast Update: 09/06/2025 15:23:51  G3/3
