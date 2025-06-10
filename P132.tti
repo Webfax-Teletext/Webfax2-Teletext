@@ -2,23 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1749493458
+OL,0,        ECIMSBWebfax 2   F132A1749543976
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThe evening
-OL,6,Fwill be cloudy with persistent and
-OL,7,Fheavy showery rain. The rain will
-OL,8,Fclear from the west from late evening
-OL,9,Fand the whole area from shortly after
-OL,10,Fmidnight. Minimum Temperature 6C.
-OL,11,
-OL,12,CTuesday:FCloudy with the chance of a
-OL,13,Fshower in the morning. Any showers
-OL,14,Fwill soon clear leaving increasing
-OL,15,Fsunny spells through the afternoon.
-OL,16,FMaximum Temperature 19C.
+OL,5,CToday:FA dry day, Broken cloud and
+OL,6,Fsunny intervals at first, then
+OL,7,Fbecoming increasingly sunny as the day
+OL,8,Fgoes on, with clouds dispersing. A
+OL,9,Fwarmer day than of late with winds
+OL,10,Fbecoming light. Maximum Temperature
+OL,11,F19C.
+OL,12,
+OL,13,CTonight:FA dry evening with some
+OL,14,Fsunshine. Staying dry overnight but
+OL,15,Fclouding over from the southwest.
+OL,16,Fthough high cloud thickening from the
+OL,17,Fwest. Minimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,17 +27,22 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1749493458
+OL,0,        ECIMSBWebfax 2   F132A1749543976
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FConditions become gradually warmer.
-OL,7,FWednesday will be dry but cloudy and
-OL,8,FThursday and Friday continue cloudy
-OL,9,Fwith bands of heavy and thundery
-OL,10,Fshowers possible at times.
+OL,5,CWednesday:FA dry day. Rather cloudy in
+OL,6,Fthe west but brightening up across
+OL,7,Fcentral and eastern areas with sunny
+OL,8,Fspells. Perhaps some thundery showers
+OL,9,Ftowards midnight, Maximum Temperature
+OL,10,F20C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:FAn
+OL,13,Funsettled spell with some very warm,
+OL,14,Fhumid conditions and a chance of
+OL,15,Fthundery downpours on each day
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
