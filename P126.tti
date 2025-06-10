@@ -2,25 +2,25 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1749507889
+OL,0,        ECIMSBWebfax 2   F126A1749522328
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FRain, heavy
-OL,6,Fat times, will continue to spread
-OL,7,Feastwards this evening and overnight,
-OL,8,Fgradually clearing by dawn. Some clear
-OL,9,Fspells developing in the far north. A
-OL,10,Fmild night. Breezy. Minimum
-OL,11,FTemperature 10C.
+OL,5,CToday:FTuesday will be largely dry
+OL,6,Fwith bright or sunny spells after a
+OL,7,Fcloudier start, perhaps with the odd
+OL,8,Flight shower during the morning.
+OL,9,FFeeling warm in the sunshine and
+OL,10,Falthough initially breezy, winds
+OL,11,Feasing later. Maximum Temperature 22C.
 OL,12,
-OL,13,CTuesday:FTuesday will be largely dry
-OL,14,Fwith bright or sunny spells. Perhaps
-OL,15,Fthe odd light shower during the
-OL,16,Fmorning. Feeling rather warm in the
-OL,17,Fsunshine, although still breezy.
-OL,18,FMaximum Temperature 22C.
+OL,13,CTonight:FIt will remain dry overnight
+OL,14,Fwith light winds overnight and long
+OL,15,Fclear spells. This will allow
+OL,16,Ftemperatures to fall, becoming chilly
+OL,17,Fin some rural spots. Minimum
+OL,18,FTemperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -28,18 +28,25 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1749507889
+OL,0,        ECIMSBWebfax 2   F126A1749522328
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FDry
-OL,6,Fwith sunny spells Wednesday. Dry at
-OL,7,Ffirst Thursday, before heavy rain or
-OL,8,Fshowers arrive from the south late
-OL,9,Fmorning. Thundery downpours possible
-OL,10,Flate Friday. Increasingly very warm
-OL,11,Fand humid.
+OL,5,CWednesday:FDry with long sunny spells,
+OL,6,Fthe sunshine perhaps turning more hazy
+OL,7,Fthrough the evening. Light winds at
+OL,8,Ffirst but an increasing breeze will
+OL,9,Fdevelop. However, feeling very warm.
+OL,10,FMaximum Temperature 25C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:FDry
+OL,13,Fstart Thursday before heavy rain or
+OL,14,Fshowers arrive from south. Friday,
+OL,15,Fprobably mostly fine but thundery
+OL,16,Fdownpours possible later. Increasingly
+OL,17,Fwarm and humid. Saturday, unsettled
+OL,18,Fbut eventually turning fresher.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
