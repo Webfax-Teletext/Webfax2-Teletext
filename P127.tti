@@ -2,25 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1749486242
+OL,0,        ECIMSBWebfax 2   F127A1749515113
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FRather
-OL,6,Fcloudy with outbreaks of rain, locally
-OL,7,Fheavy, spreading eastwards across all
-OL,8,Fparts overnight. However, there will
-OL,9,Fbe some drier interludes. A mild and
-OL,10,Fbreezy night. Minimum Temperature 12C.
+OL,5,CToday:FA cloudy start to the day, with
+OL,6,Fsome outbreaks of patchy light rain,
+OL,7,Fgradually clearing south. Largely dry
+OL,8,Fthereafter with sunny spells
+OL,9,Fdeveloping in the afternoon. Feeling
+OL,10,Frather warm. Maximum Temperature 22C.
 OL,11,
-OL,12,CTuesday:FA cloudy start to the day,
-OL,13,Fwith some outbreaks of patchy light
-OL,14,Frain, gradually clearing south.
-OL,15,FLargely dry thereafter with sunny
-OL,16,Fspells developing in the afternoon.
-OL,17,FFeeling rather warm. Maximum
-OL,18,FTemperature 22C.
+OL,12,CTonight:FIt will remain dry overnight
+OL,13,Fwith light winds overnight and long
+OL,14,Fclear spells. This will allow
+OL,15,Ftemperatures to fall, becoming chilly
+OL,16,Fin some rural spots. Minimum
+OL,17,FTemperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -28,18 +27,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1749486242
+OL,0,        ECIMSBWebfax 2   F127A1749515113
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FDry
-OL,6,Fwith sunny spells Wednesday. Band of
-OL,7,Fheavy showers moves northward on
-OL,8,FThursday, sunny spells later. Thundery
-OL,9,Fdownpours are possible late Friday.
-OL,10,FIncreasingly very warm or hot and
-OL,11,Fhumid.
+OL,5,CWednesday:FDry with long sunny spells,
+OL,6,Fthe sunshine perhaps turning more hazy
+OL,7,Fthrough the evening. Light winds at
+OL,8,Ffirst but an increasing breeze will
+OL,9,Fdevelop. However, feeling very warm.
+OL,10,FMaximum Temperature 25C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FThursday, band of heavy showers moves
+OL,14,Fnorthward, sunny spells later. Friday,
+OL,15,Fprobably mostly fine but thundery
+OL,16,Fdownpours possible later. Increasingly
+OL,17,Fvery warm and humid. Saturday,
+OL,18,Funsettled start then turning fresher.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
