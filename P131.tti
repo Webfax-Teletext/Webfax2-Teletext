@@ -2,26 +2,25 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1749576438
+OL,0,        ECIMSBWebfax 2   F131A1749626969
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FA calm night
-OL,6,Fwith winds falling light to leave
-OL,7,Fclear spells mixed with low cloud,
-OL,8,Fmist and fog patches. Turning a little
-OL,9,Fchilly in the countryside, but
-OL,10,Ftemperatures quickly picking up after
-OL,11,Fsunrise. Minimum Temperature 8C.
+OL,5,CToday:FAny early mist, fog and low
+OL,6,Fcloud soon lifting and breaking, to
+OL,7,Fleave a dry day with plenty of warm
+OL,8,Fspells of strong sunshine. Cloud
+OL,9,Fgradually building from the southwest
+OL,10,Flater into the evening. Maximum
+OL,11,FTemperature 24C.
 OL,12,
-OL,13,CWednesday:FDry for much of Wednesday
-OL,14,Fand feeling warm with spells of strong
-OL,15,Fsunshine by day. Heavy showers
-OL,16,Farriving later in the evening,
-OL,17,Fpossibly thundery, with a
-OL,18,Fstrengthening wind. Maximum
-OL,19,FTemperature 24C.
+OL,13,CTonight:FA largely dry start to the
+OL,14,Fevening but heavy showers soon
+OL,15,Farriving. These merging into longer
+OL,16,Fspells of heavy and thundery rain with
+OL,17,Fa strengthening breeze. Warm and humid
+OL,18,Fnight. Minimum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -29,18 +28,24 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1749576438
+OL,0,        ECIMSBWebfax 2   F131A1749626969
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FChangeable for the rest of the week
-OL,7,Fwith further heavy showers and
-OL,8,Fthunderstorms possible, though some
-OL,9,Fbrighter interludes in between. Warm
-OL,10,Fand humid on Thursday and Friday,
-OL,11,Ffresher on Saturday.
+OL,5,CThursday:FHeavy rain clearing
+OL,6,Fnorthwards through the morning
+OL,7,Ffollowed my occasional sunny spells
+OL,8,Fand the odd heavy, thundery downpour.
+OL,9,FStaying warm and humid. Breezy.
+OL,10,FMaximum Temperature 22C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FFurther
+OL,13,Fheavy showers and thunderstorms on
+OL,14,FFriday, accompanied by hail and gusty
+OL,15,Fwinds. Warm and humid on Friday, but
+OL,16,Ffresher into the weekend with drier
+OL,17,Fand brighter interludes.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
