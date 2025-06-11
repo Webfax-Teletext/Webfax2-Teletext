@@ -2,24 +2,24 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1749630577
+OL,0,        ECIMSBWebfax 2   F128A1749645009
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FA calm night
-OL,6,Fwith an increasing number of clear
-OL,7,Fspells and winds falling light.
-OL,8,FTurning chilly in the countryside, but
-OL,9,Ftemperatures quickly picking up after
-OL,10,Fsunrise. Minimum Temperature 4C.
-OL,11,
-OL,12,CWednesday:FSettled throughout
-OL,13,FWednesday with prolonged amounts of
-OL,14,Fstrong sunshine, turning hazier later.
-OL,15,FFeeling very warm and increasingly
-OL,16,Fhumid as a southerly breeze picks up.
-OL,17,FMaximum Temperature 25C.
+OL,5,CToday:FSettled throughout Wednesday
+OL,6,Fwith prolonged amounts of strong
+OL,7,Fsunshine, although turning hazier
+OL,8,Flater. Feeling very warm and
+OL,9,Fincreasingly humid as a southerly
+OL,10,Fbreeze picks up. Maximum Temperature
+OL,11,F26C.
+OL,12,
+OL,13,CTonight:FRemaining dry overnight with
+OL,14,Fvariable amounts of cloud. A chance of
+OL,15,Fheavier rain arriving in the west by
+OL,16,Fdawn with a stronger breeze. Warm and
+OL,17,Fhumid. Minimum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -27,18 +27,24 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1749630577
+OL,0,        ECIMSBWebfax 2   F128A1749645009
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FChangeable for the rest of the week
-OL,7,Fwith heavy showers and thunderstorms
-OL,8,Fpossible, though some brighter
-OL,9,Finterludes in between. Warm and humid
-OL,10,Fon Thursday and Friday, fresher on
-OL,11,FSaturday.
+OL,5,CThursday:FShowery outbreaks of heavy,
+OL,6,Fpossibly thundery rain clearing
+OL,7,Fnortheastwards through the morning
+OL,8,Ffollowed by sunshine and some heavy
+OL,9,Fthundery showers. Feeling warm and
+OL,10,Fhumid. Maximum Temperature 25C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FFurther
+OL,13,Fheavy showers and thunderstorms later
+OL,14,Fon Friday, accompanied by hail and
+OL,15,Fgusty winds. Very warm and humid on
+OL,16,FFriday, but fresher into the weekend
+OL,17,Fwith drier and brighter interludes.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
