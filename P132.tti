@@ -2,24 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1749695514
+OL,0,        ECIMSBWebfax 2   F132A1749702727
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will be a
-OL,6,Fdry evening with some sunshine.
-OL,7,FStaying dry overnight but clouding
-OL,8,Fover from the southwest, though high
-OL,9,Fcloud thickening from the west.
-OL,10,FMinimum Temperature 8C.
+OL,5,CToday:FA cloudy day with scattered
+OL,6,Fmorning showers that turn heavy and
+OL,7,Ffrequent for the afternoon, bringing
+OL,8,Fthe risk of thunderstorms. Southeast
+OL,9,Fwinds. Seasonally warm afternoon
+OL,10,Fhighs. Maximum Temperature 22C.
 OL,11,
-OL,12,CWednesday:FA dry day. Rather cloudy in
-OL,13,Fthe west but brightening up across
-OL,14,Fcentral and eastern areas with sunny
-OL,15,Fspells. Perhaps some thundery showers
-OL,16,Ftowards midnight. Maximum Temperature
-OL,17,F20C.
+OL,12,CTonight:FShowers or longer periods of
+OL,13,Frain at first, heavy early evening
+OL,14,Fwith a diminishing risk of
+OL,15,Fthunderstorms. Gradually turning drier
+OL,16,Flate evening and through the night,
+OL,17,Fbut remaining cloudy. Minimum
+OL,18,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,15 +28,23 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1749695514
+OL,0,        ECIMSBWebfax 2   F132A1749702727
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Thursday to Saturday:FAn
-OL,6,Funsettled spell with some very warm,
-OL,7,Fhumid conditions and a chance of
-OL,8,Fthundery downpours on each day.
+OL,5,CFriday:FCloudy start with some early
+OL,6,Fpatchy rain, otherwise sunshine and a
+OL,7,Ffew well scattered showers, these
+OL,8,Fchiefly appearing during the afternoon
+OL,9,Fand turning heavier later. Maximum
+OL,10,FTemperature 23C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:
+OL,13,FSunshine and afternoon showers for
+OL,14,FSaturday. Rather cloudy for Sunday and
+OL,15,FMonday with some patchy rain, this
+OL,16,Ffocused in the north and west.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
