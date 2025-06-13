@@ -2,25 +2,24 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1749742406
+OL,0,        ECIMSBWebfax 2   F125A1749807362
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FStaying
-OL,6,Funsettled this evening with heavy rain
-OL,7,Fpushing northwards across the region.
-OL,8,FTurning drier overnight with
-OL,9,Foccasional clear spells developing but
-OL,10,Fremaining warm and muggy. Minimum
-OL,11,FTemperature 12C.
-OL,12,
-OL,13,CFriday:FA mixture of sunny spells but
-OL,14,Falso a scattering of showers. These
-OL,15,Fgenerally less intense than recent
-OL,16,Fdays and easing into the afternoon.
-OL,17,FBreezy to start and warm. Maximum
-OL,18,FTemperature 24C.
+OL,5,CToday:FA mixture of sunny spells but
+OL,6,Falso a scattering of showers. These
+OL,7,Fgenerally less intense than recent
+OL,8,Fdays and easing through the afternoon.
+OL,9,FBreezy to start and warm. Maximum
+OL,10,FTemperature 24C.
+OL,11,
+OL,12,CTonight:FSome late evening sunshine,
+OL,13,Fbut turning cloudier from the south
+OL,14,Fwith outbreaks of heavy, possibly
+OL,15,Fthundery rain pushing northwards
+OL,16,Fovernight. Staying muggy. Minimum
+OL,17,FTemperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,17 +27,23 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1749742406
+OL,0,        ECIMSBWebfax 2   F125A1749807362
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Saturday to Monday:FFurther
-OL,6,Fheavy, thundery downpours on Saturday
-OL,7,Fwith hail and gusty winds, with patchy
-OL,8,Frain possible on Sunday. Generally
-OL,9,Fdrier on Monday with some sunny
-OL,10,Fintervals. Feeling less humid.
+OL,5,CSaturday:FAn unsettled start to the
+OL,6,Fweekend with heavy outbreaks of rain
+OL,7,Fthroughout the day, carrying the odd
+OL,8,Frumble of thunder, hail and gusty
+OL,9,Fwinds. Maximum Temperature 22C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:
+OL,12,FGenerally drier through the period
+OL,13,Fwith sunny spells and a few showers or
+OL,14,Fpatchy light rain over the hills.
+OL,15,FFeeling less humid with temperatures
+OL,16,Freturning closer to the average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
