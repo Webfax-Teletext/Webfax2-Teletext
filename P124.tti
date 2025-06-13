@@ -2,24 +2,23 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1749789317
+OL,0,        ECIMSBWebfax 2   F124A1749839841
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FDry with some bright or sunny
-OL,6,Fspells. Perhaps cloudier in the
-OL,7,Fmorning. Rather breezy and feeling
-OL,8,Fvery warm by the afternoon. High cloud
-OL,9,Fincreasing from the south during the
-OL,10,Fevening. Maximum Temperature 25C.
+OL,5,CThis Evening and Tonight:FA fine and
+OL,6,Fdry evening with plenty of sunshine.
+OL,7,FThrough the evening cloud will thicken
+OL,8,Fand increase, with some patchy rain
+OL,9,Freaching eastern parts by midnight.
+OL,10,FLight winds. Minimum Temperature 12C.
 OL,11,
-OL,12,CTonight:FAreas of thundery rain and
-OL,13,Fshowers will cross most parts from the
-OL,14,Fsouth overnight, with risk of
-OL,15,Ftorrential downpours and hail. Perhaps
-OL,16,Fturning drier again later in the
-OL,17,Fnight. Minimum Temperature 13C.
+OL,12,CSaturday:FA brief dry period around
+OL,13,Fdawn before further showers move in
+OL,14,Fduring the morning, heavy and thundery
+OL,15,Fwith a risk of hail and strong winds.
+OL,16,FMaximum Temperature 21C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -27,24 +26,16 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1749789317
+OL,0,        ECIMSBWebfax 2   F124A1749839841
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CSaturday:FA generally cloudier day is
-OL,6,Fdue for Saturday with the best of any
-OL,7,Fbrightness across eastern parts.
-OL,8,FIncreasing risk through the day of
-OL,9,Fthundery showers breaking out. Feeling
-OL,10,Fmuggy. Maximum Temperature 24C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FTurning
-OL,13,Ffresher for Sunday and Monday with
-OL,14,Fwesterly winds and mostly dry weather
-OL,15,Fwith some bright or sunny spells.
-OL,16,FChance of cloud and some light rain
-OL,17,Flater on Tuesday.
+OL,5,COutlook for Sunday to Tuesday:FVariable
+OL,6,Fcloud and scattered showers on Sunday.
+OL,7,FGenerally dry on Monday with sunny
+OL,8,Fspells and brisk winds. Patchy rain
+OL,9,Fpossible for a time on Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
