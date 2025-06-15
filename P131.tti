@@ -2,27 +2,27 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1749940867
+OL,0,        ECIMSBWebfax 2   F131A1749958906
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FAny
-OL,6,Flingering evening showers fade away to
-OL,7,Fleave a settled night. Plenty of clear
-OL,8,Fspells at first, though turning
-OL,9,Fcloudier from the southwest by dawn.
-OL,10,FFeeling fresher than recent nights in
-OL,11,Fa light westerly breeze. Minimum
-OL,12,FTemperature 13C.
+OL,5,CToday:FEarly mist soon lifting and
+OL,6,Fclearing to leave a bright morning.
+OL,7,FCloud bubbling up through the day,
+OL,8,Fwith a few light showers possible, but
+OL,9,Fremaining dry for most. Feeling
+OL,10,Ffresher than recent days with light
+OL,11,Fwinds and temperatures near average.
+OL,12,FMaximum Temperature 22C.
 OL,13,
-OL,14,CSunday:FMainly bright and sunny,
-OL,15,Fthough some cloud bubbling up during
-OL,16,Fthe afternoon with a few scattered
-OL,17,Fshowers in places. Plenty of warm
-OL,18,Fsunshine too, but becoming breezy
-OL,19,Faround the coasts. Maximum Temperature
-OL,20,F21C.
+OL,14,CTonight:FCloud spills into the
+OL,15,Fsouthwest through this evening,
+OL,16,Fstretching into western parts
+OL,17,Fovernight. Remaining dry and settled
+OL,18,Fhowever with a few clear spells in
+OL,19,Fplaces and light winds. Minimum
+OL,20,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -30,17 +30,25 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1749940867
+OL,0,        ECIMSBWebfax 2   F131A1749958906
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Monday to Wednesday:
-OL,6,FBecoming widely dry and more settled
-OL,7,Fas high pressure builds from the
-OL,8,Fsouthwest. Generally light winds, and
-OL,9,Ffeeling warm in the sunshine with
-OL,10,Ftemperatures on the rise.
+OL,5,CMonday:FBright and sunny to start,
+OL,6,Fwith cloud bubbling up through the
+OL,7,Fmorning. A few showers are possible
+OL,8,Fduring the afternoon, mainly in the
+OL,9,Fsouthwest. Feeling warm in the
+OL,10,Fsunshine. Maximum Temperature 23C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:
+OL,13,FBecoming widely dry and settled as
+OL,14,Fhigh pressure builds from the
+OL,15,Fsouthwest. Generally light winds and
+OL,16,Fplenty of warm sunshine with
+OL,17,Ftemperatures rising above average by
+OL,18,FWednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
