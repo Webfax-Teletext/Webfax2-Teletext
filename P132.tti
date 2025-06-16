@@ -2,23 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1750038318
+OL,0,        ECIMSBWebfax 2   F132A1750045534
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA sunny
-OL,6,Fevening then some clear periods
-OL,7,Ftonight. Cloud then spreading from the
-OL,8,Fwest in the early hours, with a little
-OL,9,Fdrizzle possible in the west. Minimum
-OL,10,FTemperature 11C.
+OL,5,CToday:FA cloudy start with,a little
+OL,6,Flight rain in northwest. Otherwise a
+OL,7,Fdry day and brightening up with sunny
+OL,8,Fspells. Cloud thickening again towards
+OL,9,Fevening. Warmer. Maximum Temperature
+OL,10,F22C.
 OL,11,
-OL,12,CMonday:FA cloudy start with,a little
-OL,13,Flight rain in northwest. Otherwise a
-OL,14,Fdry day and brightening up with sunny
-OL,15,Fspells. Warmer. Maximum Temperature
-OL,16,F21C.
+OL,12,CTonight:FA dry evening with cloud
+OL,13,Fbreaking up again for a time tonight.
+OL,14,FThen cloudier with some light rain
+OL,15,Fspreading east in the early hours.
+OL,16,FBecoming breezy, mild. Minimum
+OL,17,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,16 +27,24 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1750038318
+OL,0,        ECIMSBWebfax 2   F132A1750045534
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FMainly
-OL,6,Fdry with sunny spells on Tuesday after
-OL,7,Fa cloudy start in south, windy at
-OL,8,Ffirst. Dry and sunny on Wednesday and
-OL,9,FThursday, warmer with lighter winds.
+OL,5,CTuesday:FCloud soon breaking up to
+OL,6,Fbring a bright day with some sunny
+OL,7,Finterludes. One or two light showers
+OL,8,Fare possible. Moderate southwesterly
+OL,9,Fwinds at first easing. Maximum
+OL,10,FTemperature 20C.
+OL,11,
+OL,12,COutlook for Wednesday to Friday:FThere
+OL,13,Fwill be a good deal of dry weather
+OL,14,Fwith some sunny spells on each day.
+OL,15,FWInds turning light and becoming
+OL,16,Fwarmer. Perhaps the odd shower on
+OL,17,FFriday
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
