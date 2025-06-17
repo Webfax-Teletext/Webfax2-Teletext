@@ -2,26 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1750128562
+OL,0,        ECIMSBWebfax 2   F125A1750179087
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FA dry start for most with some
-OL,6,Fmorning sunshine in the south.
-OL,7,FCloudier in Cumbria with occasional
-OL,8,Frain and drizzle, this edging
-OL,9,Fsouthwards across the region though
-OL,10,Fgradually petering out during the
-OL,11,Fafternoon. Feeling cooler. A little
-OL,12,Fbreezy. Maximum Temperature 21C.
-OL,13,
-OL,14,CTonight:FA cloudy evening for many
-OL,15,Fwith some drizzle over higher ground.
-OL,16,FBecoming generally dry overnight with
-OL,17,Fpatchy fog forming as skies turn
-OL,18,Fclearer. A cooler night, especially in
-OL,19,Fthe north. Minimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FA cloudy
+OL,6,Fevening for many with some drizzle
+OL,7,Fover higher ground. Becoming generally
+OL,8,Fdry overnight with patchy fog forming.
+OL,9,FA cooler night in the north where
+OL,10,Fskies turn clearer; staying milder in
+OL,11,Fthe south. Minimum Temperature 9C.
+OL,12,
+OL,13,CWednesday:FA fine and dry day for most
+OL,14,Fwith some lengthy periods of warm
+OL,15,Fsunshine. Cloud drifting more so
+OL,16,Facross Cumbria, turning the sunshine
+OL,17,Fhazy at times. Light westerly breeze.
+OL,18,FMaximum Temperature 22C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -29,25 +28,18 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1750128562
+OL,0,        ECIMSBWebfax 2   F125A1750179087
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CWednesday:FAny cloud first thing
-OL,6,Ftending to clear through the morning
-OL,7,Fto leave a fine day. Plenty of strong
-OL,8,Fsunshine developing and feeling warm
-OL,9,Fwith a light westerly breeze. Maximum
-OL,10,FTemperature 22C.
-OL,11,
-OL,12,COutlook for Thursday to Saturday:FHigh
-OL,13,Fpressure will dominate bringing a
-OL,14,Fmixture of sunshine and cloudier
-OL,15,Fperiods. Increasingly very warm and
-OL,16,Ffeeling hot at times in the strong
-OL,17,Fsunshine with pollen levels becoming
-OL,18,Fvery high.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FLargely settled with spells of strong
+OL,7,Fsunshine, hazy at times. Chance of an
+OL,8,Fisolated shower towards the weekend.
+OL,9,FFeeling increasingly hot with a
+OL,10,Fsoutherly breeze and very high pollen
+OL,11,Flevels.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
