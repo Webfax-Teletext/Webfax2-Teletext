@@ -2,24 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1750206081
+OL,0,        ECIMSBWebfax 2   F127A1750231371
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FAny rain and
-OL,6,Fcloud over the Peak District clearing
-OL,7,Fto leave a dry night with light winds
-OL,8,Fand clear spells. Perhaps some mist
-OL,9,Fpatches or low cloud developing in
-OL,10,Fsome western areas. Mild. Minimum
-OL,11,FTemperature 12C.
-OL,12,
-OL,13,CWednesday:FAny early mist or low cloud
-OL,14,Fsoon lifting to leave another dry,
-OL,15,Fincreasingly sunny and very warm day.
-OL,16,FA little cooler near coasts. Maximum
-OL,17,FTemperature 26C.
+OL,5,CToday:FDry and largely bright or sunny
+OL,6,Fwith mainly light winds. Becoming
+OL,7,Fwidely very warm again, but remaining
+OL,8,Fsomewhat cooler near the coast where
+OL,9,Fsea breezes develop. Maximum
+OL,10,FTemperature 26C.
+OL,11,
+OL,12,CTonight:FA fine, sunny evening, then
+OL,13,Fmostly clear overnight with winds
+OL,14,Ffalling light. Perhaps some isolated
+OL,15,Flow cloud, mist or fog patches forming
+OL,16,Fby dawn, though localised if they do
+OL,17,Foccur. Minimum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -27,16 +27,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1750206081
+OL,0,        ECIMSBWebfax 2   F127A1750231371
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:FFine
-OL,6,Fand mostly dry through this period,
-OL,7,Fwith temperatures very warm or perhaps
-OL,8,Fhot by the weekend. Perhaps isolated
-OL,9,Fshowers on Saturday.
+OL,5,CThursday:FAny mist, fog or low cloud
+OL,6,Fclearing to leave another dry, sunny
+OL,7,Fand generally very warm day. Breeziest
+OL,8,Fat the coast and temperatures lower
+OL,9,Fthan inland, but still warm here.
+OL,10,FMaximum Temperature 28C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FMainly
+OL,13,Fdry and sunny, although a chance of
+OL,14,Fshowers on Saturday and Sunday.
+OL,15,FOverall very warm or hot with
+OL,16,Ftemperatures likely peaking on
+OL,17,FSaturday. Occasionally breezy this
+OL,18,Fweekend.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
