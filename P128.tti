@@ -2,24 +2,23 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1750209693
+OL,0,        ECIMSBWebfax 2   F128A1750256653
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FDrizzle in
-OL,6,Fthe north dying away to leave a dry
-OL,7,Fand mild night. Areas of cloud mixed
-OL,8,Fwith clear periods, and perhaps a few
-OL,9,Fpatches of mist developing. Minimum
-OL,10,FTemperature 12C.
+OL,5,CToday:FAny early cloud or mist
+OL,6,Fclearing relatively quickly, leaving a
+OL,7,Ffine day with plenty of strong
+OL,8,Fsunshine and high UV levels. Feeling
+OL,9,Fvery warm with a light breeze. Maximum
+OL,10,FTemperature 27C.
 OL,11,
-OL,12,CWednesday:FAny cloud or mist clearing
-OL,13,Frelatively quickly, leaving a fine day
-OL,14,Fwith plenty of strong sunshine.
-OL,15,FFeeling very warm with light and
-OL,16,Fvariable winds. Maximum Temperature
-OL,17,F26C.
+OL,12,CTonight:FA fine end to Wednesday with
+OL,13,Flate evening sunshine. Then a dry
+OL,14,Fnight with largely clear skies and
+OL,15,Flight winds. A mild night for most.
+OL,16,FMinimum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -27,18 +26,24 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1750209693
+OL,0,        ECIMSBWebfax 2   F128A1750256653
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FLargely settled with spells of strong
-OL,7,Fsunshine, hazy at times. Chance of an
-OL,8,Fisolated shower towards the weekend.
-OL,9,FFeeling increasingly hot with a
-OL,10,Fsoutherly breeze and very high pollen
-OL,11,Flevels.
+OL,5,CThursday:FAnother dry day with
+OL,6,Fprolonged amounts of sunshine, making
+OL,7,Fit feel hot. Some wispy cloud drifting
+OL,8,Fthrough at times. Southeasterly breeze
+OL,9,Fpicking up later in the day. Maximum
+OL,10,FTemperature 30C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FLargely
+OL,13,Fsettled with spells of strong
+OL,14,Fsunshine, hazy at times. Chance of an
+OL,15,Fisolated shower. Feeling increasingly
+OL,16,Fhot and humid despite a southerly
+OL,17,Fbreeze. Very high pollen levels.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
