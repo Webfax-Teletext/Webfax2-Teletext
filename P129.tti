@@ -1,29 +1,51 @@
-PN,12900
-SC,0000
+PN,12901
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F129A1750206079
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F129A1750224150
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FDry with
-OL,6,Flight winds and clear spells
-OL,7,Fovernight. Perhaps some mist and fog
-OL,8,Fpatches developing in prone rural
-OL,9,Fspots. A very mild night for many.
-OL,10,FMinimum Temperature 13C.
+OL,5,CToday:FDry and largely bright or sunny
+OL,6,Fwith mainly light winds. Becoming
+OL,7,Fwidely warm or very warm again, but
+OL,8,Fremaining somewhat cooler near the
+OL,9,Fcoast where sea breezes develop.
+OL,10,FMaximum Temperature 27C.
 OL,11,
-OL,12,CWednesday:FAny early mist soon lifting
-OL,13,Fto leave another dry, increasingly
-OL,14,Fsunny and very warm day. A little
-OL,15,Fcooler near coasts. Maximum
-OL,16,FTemperature 27C.
-OL,17,
-OL,18,COutlook for Thursday to Saturday:FFine
-OL,19,Fand dry through this period, with
-OL,20,Ftemperatures very warm or perhaps hot
-OL,21,Fby the weekend.
+OL,12,CTonight:FA fine, sunny evening, then
+OL,13,Fmostly clear overnight with winds
+OL,14,Ffalling light. Chance of occasional
+OL,15,Fpatches of mist, fog and low cloud
+OL,16,Fforming by dawn, mainly across East
+OL,17,FAnglia. Minimum Temperature 12C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,130,120,301,200,000,100
+PN,12902
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F129A1750224150
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GEast
+OL,4,
+OL,5,CThursday:FAny mist, fog or low cloud
+OL,6,Fclearing to leave another dry, sunny
+OL,7,Fand generally very warm day. Breeziest
+OL,8,Fat the coast and temperatures lower
+OL,9,Fthan inland, but still warm here.
+OL,10,FMaximum Temperature 28C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FMainly
+OL,13,Fdry and sunny, although perhaps a few
+OL,14,Fisolated showers on Saturday and
+OL,15,FSunday. Overall very warm or hot with
+OL,16,Ftemperatures likely peaking on
+OL,17,FSaturday. Occasionally breezy this
+OL,18,Fweekend.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
