@@ -2,24 +2,23 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1750238608
+OL,0,        ECIMSBWebfax 2   F125A1750260261
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FA fine and dry day for most
-OL,6,Fwith some lengthy periods of warm
-OL,7,Fsunshine and high UV levels. Cloud
-OL,8,Fdrifting more so across Cumbria,
-OL,9,Fturning the sunshine hazy at times.
-OL,10,FLight westerly breeze. Maximum
-OL,11,FTemperature 22C.
-OL,12,
-OL,13,CTonight:FSome late evening sunshine,
-OL,14,Fmost prolonged in the south. Then a
-OL,15,Fdry night with largely clear skies and
-OL,16,Flight winds. A mild night for most.
-OL,17,FMinimum Temperature 11C.
+OL,5,CThis Evening and Tonight:FSome late
+OL,6,Fevening sunshine, most prolonged in
+OL,7,Fthe south. Then a dry night with
+OL,8,Flargely clear skies and light winds. A
+OL,9,Fmild night for most. Minimum
+OL,10,FTemperature 11C.
+OL,11,
+OL,12,CThursday:FAnother dry day with
+OL,13,Fprolonged amounts of sunshine, making
+OL,14,Fit feel very warm. Some wispy cloud
+OL,15,Fdrifting through at times. Winds
+OL,16,Fstaying light. Maximum Temperature 28C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -27,23 +26,17 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1750238608
+OL,0,        ECIMSBWebfax 2   F125A1750260261
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThursday:FAnother dry day with
-OL,6,Fprolonged amounts of sunshine, making
-OL,7,Fit feel very warm. Some wispy cloud
-OL,8,Fdrifting through at times. Winds
-OL,9,Fstaying light. Maximum Temperature 28C.
-OL,10,
-OL,11,COutlook for Friday to Sunday:FLargely
-OL,12,Fsettled with spells of strong
-OL,13,Fsunshine, hazy at times. Chance of an
-OL,14,Fisolated shower. Feeling increasingly
-OL,15,Fhot and humid despite a southerly
-OL,16,Fbreeze. Very high pollen levels.
+OL,5,COutlook for Friday to Sunday:FLargely
+OL,6,Fsettled with spells of strong
+OL,7,Fsunshine, hazy at times. Chance of an
+OL,8,Fisolated shower. Feeling hot and
+OL,9,Fhumid, but turning less hot through
+OL,10,FSunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
