@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1750346874
+PN,1fc00
+SC,0000
+PS,8010
+OL,0,        ECIMSBWebfax 2   F1fcA1750349613
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,37 +13,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1750346874;
-OL,10,GService: Webfax 2 - 5884 b2cd3e6a0
-OL,11,FLast Update: 19/06/2025 16:27:54  G1/2
-OL,13,Abbc_news_papers            G18/06-01:20
-OL,14,CitvNews/tyne-tees          G18/06-10:23
-OL,15,CitvSport/border            G18/06-13:23
-OL,16,CitvSport/calendar          G18/06-01:21
-OL,17,CitvSport/central           G18/06-01:21
-OL,18,CitvSport/channel           G18/06-01:21
-OL,19,CitvSport/granada           G18/06-13:23
-OL,20,CitvSport/london            G18/06-01:21
-OL,21,CitvSport/meridian          G18/06-01:21
-OL,22,CitvSport/tyne-tees         G18/06-01:21
-OL,23,CitvSport/utv               G18/06-01:21
-PN,1fc02
-SC,0002
-PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1750346874
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1750346874;
-OL,10,GService: Webfax 2 - 5884 b2cd3e6a0
-OL,11,FLast Update: 19/06/2025 16:27:54  G2/2
-OL,13,CitvSport/westcountry       G18/06-01:21
-OL,14,Ctvroom/cleanfeed           G18/06-01:21
+OL,25,1750349610;
+OL,10,GService: Webfax 2 - 5885 23b294261
+OL,11,FLast Update: 19/06/2025 17:13:30      
+OL,13,Abbc_news_papers            G19/06-17:10
+OL,14,AZXIndustries/epg.json      G19/06-17:13
