@@ -2,23 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1750371302
+OL,0,        ECIMSBWebfax 2   F138A1750396561
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FA mostly
-OL,6,Fsunny evening then dry with clear
-OL,7,Fspells overnight. A very mild night,
-OL,8,Fexceptionally so near the west coast
-OL,9,Fand feeling quite muggy here with
-OL,10,Flight winds.. Minimum Temperature 15C.
-OL,11,
-OL,12,CFriday:FLargely dry with long bright
-OL,13,For sunny spells and becoming very warm
-OL,14,For hot. One or two isolated showers
-OL,15,Fare possible over Argyll in the
-OL,16,Fafternoon. Maximum Temperature 27C.
+OL,5,CToday:FLargely dry with long bright or
+OL,6,Fsunny spells and becoming very warm or
+OL,7,Fhot. One or two isolated showers are
+OL,8,Fpossible over Argyll in the afternoon.
+OL,9,FMaximum Temperature 27C.
+OL,10,
+OL,11,CTonight:FA very mild, uncomfortable
+OL,12,Fnight for sleeping. Some evening
+OL,13,Fsunshine then clear periods, and while
+OL,14,Fthe odd shower can't be ruled out,
+OL,15,Fmost places will remain dry. Minimum
+OL,16,FTemperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -26,17 +26,23 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1750371302
+OL,0,        ECIMSBWebfax 2   F138A1750396561
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Saturday to Monday:FLargely
-OL,6,Fdry and bright with the odd thundery
-OL,7,Fshower on Saturday and remaining very
-OL,8,Fwarm or hot. Turning cooler during
-OL,9,FSunday and Monday with sunshine and
-OL,10,Fshowers, heavy on Sunday.
+OL,5,CSaturday:FBecoming very warm or hot
+OL,6,Fagain with some sunny spells. A few
+OL,7,Fsharp showers showers may develop
+OL,8,Fthrough the day, these possibly heavy
+OL,9,Fand thundery. Maximum Temperature 27C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:FRather
+OL,12,Fcloudy with outbreaks of rain on
+OL,13,FSunday but turning drier later on.
+OL,14,FFresher on Monday with scattered
+OL,15,Fshowers. Cloudy on Tuesday with spells
+OL,16,Fof rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
