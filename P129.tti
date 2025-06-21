@@ -2,24 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1750472736
+OL,0,        ECIMSBWebfax 2   F129A1750505235
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FDry, sunny and very warm or hot
-OL,6,Ffor most. However, some higher cloud
-OL,7,Fmay lead to sunshine turning hazy at
-OL,8,Ftimes. Feeling cooler for many eastern
-OL,9,Fcoastal parts, with an onshore breeze.
-OL,10,FMaximum Temperature 30C.
-OL,11,
-OL,12,CTonight:FA fine evening with very warm
-OL,13,Fsunny spells. Then dry overnight with
-OL,14,Fwinds easing a little, variable cloud
-OL,15,Fand clear spells. Staying warm and
-OL,16,Frather humid for many. Minimum
-OL,17,FTemperature 13C.
+OL,5,CThis Evening and Tonight:FDry and warm
+OL,6,Fthrough the region, with plenty of
+OL,7,Fevening sunshine followed by some
+OL,8,Flargely clear skies. Winds gradually
+OL,9,Feasing along coastal areas to become
+OL,10,Flight and variable. Minimum
+OL,11,FTemperature 14C.
+OL,12,
+OL,13,CFriday:FDry and very warm or hot,
+OL,14,Fthough cooler along coasts. Some sunny
+OL,15,Fspells but generally cloudier than the
+OL,16,Fprevious day, with widespread high-
+OL,17,Flevel cloud reducing sunshine at
+OL,18,Ftimes. Maximum Temperature 32C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -27,26 +28,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1750472736
+OL,0,        ECIMSBWebfax 2   F129A1750505235
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CSaturday:FCloud building from the
-OL,6,Fwest, with a few isolated showers
-OL,7,Fpossible later, but most parts staying
-OL,8,Fdry. Hot again, especially in any
-OL,9,Fsunny spells. Perhaps the odd
-OL,10,Fthunderstorm overnight. Maximum
-OL,11,FTemperature 32C.
-OL,12,
-OL,13,COutlook for Sunday to Tuesday:FAny
-OL,14,Fshowers clearing to sunny spells
-OL,15,FSunday. Feeling fresher, but still
-OL,16,Frather warm. Changeable Monday and
-OL,17,FTuesday, with sunny spells, but also
-OL,18,Foccasional showers or rain, and
-OL,19,Ftemperatures nearer normal.
+OL,5,COutlook for Saturday to Monday:FMainly
+OL,6,Fdry and sunny, with a chance of an
+OL,7,Fisolated shower Saturday. Very warm or
+OL,8,Flocally hot, peaking Saturday.
+OL,9,FRemaining very warm Sunday, then
+OL,10,Fbreezier and fresher with isolated
+OL,11,Fshowers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
