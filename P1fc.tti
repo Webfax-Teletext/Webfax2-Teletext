@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1750599038
+OL,0,        ECIMSBWebfax 2   F1fcA1750602644
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1750599038;
-OL,10,GService: Webfax 2 - 5955 fdc532bd7
-OL,11,FLast Update: 22/06/2025 14:30:38  G1/2
+OL,25,1750602644;
+OL,10,GService: Webfax 2 - 5956 5d2f63e65
+OL,11,FLast Update: 22/06/2025 15:30:44  G1/2
 OL,13,Abbc_news_papers            G21/06-03:24
 OL,14,CitvNews/border             G21/06-03:25
 OL,15,CitvNews/channel            G21/06-03:25
@@ -30,7 +30,7 @@ OL,23,CitvSport/london            G21/06-03:25
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1750599038
+OL,0,        ECIMSBWebfax 2   F1fcA1750602644
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,12 +42,13 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1750599038;
-OL,10,GService: Webfax 2 - 5955 fdc532bd7
-OL,11,FLast Update: 22/06/2025 14:30:38  G2/2
+OL,25,1750602644;
+OL,10,GService: Webfax 2 - 5956 5d2f63e65
+OL,11,FLast Update: 22/06/2025 15:30:44  G2/2
 OL,13,CitvSport/meridian          G21/06-03:25
 OL,14,CitvSport/national          G21/06-13:27
 OL,15,CitvSport/tyne-tees         G21/06-03:25
 OL,16,CitvSport/utv               G21/06-03:25
-OL,17,CitvSport/westcountry       G21/06-03:25
-OL,18,Ctvroom/cleanfeed           G21/06-03:25
+OL,17,CitvSport/wales             G21/06-14:27
+OL,18,CitvSport/westcountry       G21/06-03:25
+OL,19,Ctvroom/cleanfeed           G21/06-03:25
