@@ -2,24 +2,22 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1750778977
+OL,0,        ECIMSBWebfax 2   F135A1750782592
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FThis morning will be cloudy
-OL,6,Fwith outbreaks of rain. Remaining
-OL,7,Fcloudy this afternoon with some
-OL,8,Fshowery rain across the west, becoming
-OL,9,Fmainly dry across the east. Maximum
-OL,10,FTemperature 16C.
+OL,5,CThis Evening and Tonight:FCloudy
+OL,6,Facross the west with occasional rain.
+OL,7,FThe east will be dry with cloud
+OL,8,Fbreaking to allow a few clear periods.
+OL,9,FLight west or southwesterly winds.
+OL,10,FMinimum Temperature 10C.
 OL,11,
-OL,12,CTonight:FCloudy across the west with
-OL,13,Foccasional rain. The east will be dry
-OL,14,Fwith cloud breaking to allow a few
-OL,15,Fclear periods. Light west or
-OL,16,Fsouthwesterly winds. Minimum
-OL,17,FTemperature 10C.
+OL,12,CWednesday:FMostly cloudy with a few
+OL,13,Fshowers across the west. Dry elsewhere
+OL,14,Fwith the odd brighter spell. Maximum
+OL,15,FTemperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -27,22 +25,17 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1750778977
+OL,0,        ECIMSBWebfax 2   F135A1750782592
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CWednesday:FMostly cloudy with a few
-OL,6,Fshowers across the west. Dry elsewhere
-OL,7,Fwith the odd brighter spell. Maximum
-OL,8,FTemperature 18C.
-OL,9,
-OL,10,COutlook for Thursday to Saturday:
-OL,11,FOvernight rain soon clearing on
-OL,12,FThursday followed by a few afternoon
-OL,13,Fshowers. Outbreaks of rain moving
-OL,14,Fnortheast on Friday. A few showers in
-OL,15,Fwest on Saturday, dry elsewhere.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FOvernight rain soon clearing on
+OL,7,FThursday followed by a few afternoon
+OL,8,Fshowers. Outbreaks of rain moving
+OL,9,Fnortheast on Friday. A few showers in
+OL,10,Fwest on Saturday, dry elsewhere.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
