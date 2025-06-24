@@ -2,27 +2,26 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1750707290
+OL,0,        ECIMSBWebfax 2   F125A1750757808
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud
-OL,6,Famounts increasing as we move through
-OL,7,Fthe evening, with outbreaks of rain
-OL,8,Fspreading eastwards overnight. The
-OL,9,Frain will be heavy at times over the
-OL,10,Fhigh ground, with some hill fog
-OL,11,Fpossible too. Remaining breezy.
-OL,12,FMinimum Temperature 13C.
+OL,5,CToday:FA cloudy and wet morning, with
+OL,6,Fheavy rain over the hills. Tending to
+OL,7,Fbecome drier and brighter as the
+OL,8,Fmorning progresses, with some sunny
+OL,9,Fspells possible by the afternoon. A
+OL,10,Ffew heavier showers developing later.
+OL,11,FBlustery winds throughout the day.
+OL,12,FMaximum Temperature 22C.
 OL,13,
-OL,14,CTuesday:FA cloudy start on Tuesday
-OL,15,Fwith patchy outbreaks of rain and
-OL,16,Fdrizzle, persistent over the higher
-OL,17,Fground. Some brighter spells
-OL,18,Fdeveloping by the afternoon, and winds
-OL,19,Fgradually easing. Maximum Temperature
-OL,20,F20C.
+OL,14,CTonight:FScattered showers continuing
+OL,15,Fthrough the evening and early part of
+OL,16,Fthe night, some on the heavy side.
+OL,17,FStaying mostly cloudy through the rest
+OL,18,Fof the night, with winds easing.
+OL,19,FMinimum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -30,18 +29,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1750707290
+OL,0,        ECIMSBWebfax 2   F125A1750757808
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FSunny
-OL,6,Fspells and scattered showers on
-OL,7,FWednesday, before rain spreads
-OL,8,Feastwards later Thursday and through
-OL,9,FFriday. Increasingly windy by Friday,
-OL,10,Fand temperatures around or a little
-OL,11,Fabove average.
+OL,5,CWednesday:FA mostly dry day is
+OL,6,Fexpected, with some bright or sunny
+OL,7,Fspells developing at times. A few
+OL,8,Flight showers are possible, though
+OL,9,Fmost will avoid these. Feeling warmer.
+OL,10,FMaximum Temperature 24C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:FA
+OL,13,Fmixed day on Thursday, with sunny
+OL,14,Fspells and scattered showers. It is
+OL,15,Flikely to be wetter and winder on
+OL,16,FFriday, with the return of sunshine
+OL,17,Fand showers on Saturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
