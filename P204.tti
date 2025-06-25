@@ -1,25 +1,41 @@
-PN,20400
-SC,0000
-PS,8000
-OL,0,        ECIMSBWebfax 2   F204A1750811475
-OL,1,W{${$~+$ {$~{4k4h7} *u|
+PN,20401
+SC,0001
+PS,c000
+OL,0,        ECIMSBWebfax 2   F204A1750822301
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for TUE 24 JUN
 OL,4,G0100FBBC R4 Joins BBC World Service
 OL,5,G0500FNews Summary
 OL,6,G0504FYesterday in Parliament
-OL,7,     GNews, views and features on
-OL,8,     Gyesterday's stories in Parliament.
-OL,9,G0534FShipping Forecast
-OL,10,G0543FPrayer for the Day
-OL,11,     GThe sound of silence brings
-OL,12,     Ginspiration to Fr Philip
-OL,13,     GBlackledge of Holy Trinity
-OL,14,     GScottish Episcopal Church,
-OL,15,     GMelrose.
-OL,16,G0545FFarming Today
-OL,17,     GThe latest news about food,
-OL,18,     Gfarming and the countryside.
+OL,7,     GSean Curran reports from
+OL,8,     GWestminster as David Lammy faced
+OL,9,     Gquestions about the UK's reaction
+OL,10,     Gto the American strikes on Iran
+OL,11,     Gover the weekend.
+OL,12,G0534FShipping Forecast
+OL,13,G0543FPrayer for the Day
+OL,14,     GThe sound of silence brings
+OL,15,     Ginspiration to Fr Philip
+OL,16,     GBlackledge of Holy Trinity
+OL,17,     GScottish Episcopal Church,
+OL,18,     GMelrose.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20402
+SC,0002
+PS,c000
+OL,0,        ECIMSBWebfax 2   F204A1750822301
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for TUE 24 JUN
+OL,4,G0545FFarming Today
+OL,5,     GThe Climate Change Committee
+OL,6,     Greport shows little progress on
+OL,7,     Gthe reduction of emissions from
+OL,8,     Gagriculture and substantial
+OL,9,     Gaction still needed.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
