@@ -1,7 +1,7 @@
 PN,23601
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F236A1750829518
+OL,0,        ECIMSBWebfax 2   F236A1750908948
 OL,1,W{${$~+$ {$~{4k4h7} hw3 h7k4 G1/7
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' "-' *%/*%V,,,,,
 OL,3,CProgramme listings for
@@ -29,7 +29,7 @@ FL,237,200,150,300,000,100
 PN,23602
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F236A1750829518
+OL,0,        ECIMSBWebfax 2   F236A1750908948
 OL,1,W{${$~+$ {$~{4k4h7} hw3 h7k4 G2/7
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' "-' *%/*%V,,,,,
 OL,3,CProgramme listings for
@@ -53,7 +53,7 @@ FL,237,200,150,300,000,100
 PN,23603
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F236A1750829518
+OL,0,        ECIMSBWebfax 2   F236A1750908948
 OL,1,W{${$~+$ {$~{4k4h7} hw3 h7k4 G3/7
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' "-' *%/*%V,,,,,
 OL,3,CProgramme listings for
@@ -78,7 +78,7 @@ FL,237,200,150,300,000,100
 PN,23604
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F236A1750829518
+OL,0,        ECIMSBWebfax 2   F236A1750908948
 OL,1,W{${$~+$ {$~{4k4h7} hw3 h7k4 G4/7
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' "-' *%/*%V,,,,,
 OL,3,CProgramme listings for
@@ -107,7 +107,7 @@ OL,26,@|D@_rr|D@err
 PN,23605
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax 2   F236A1750829518
+OL,0,        ECIMSBWebfax 2   F236A1750908948
 OL,1,W{${$~+$ {$~{4k4h7} hw3 h7k4 G5/7
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' "-' *%/*%V,,,,,
 OL,3,CProgramme listings for
@@ -132,7 +132,7 @@ FL,237,200,150,300,000,100
 PN,23606
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax 2   F236A1750829518
+OL,0,        ECIMSBWebfax 2   F236A1750908948
 OL,1,W{${$~+$ {$~{4k4h7} hw3 h7k4 G6/7
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' "-' *%/*%V,,,,,
 OL,3,CProgramme listings for
@@ -147,35 +147,39 @@ OL,10,G0000FNew Music Fix Playlist
 OL,11,     GGet your fix of all the best new
 OL,12,     Greleases in one handy playlist.
 OL,13,G0100FNew Album Fix
-OL,14,     GNew Album Fix on 6 Music with
-OL,15,     GMatt Everitt.
-OL,16,G0200F6 Music Jukebox
-OL,17,     G6 Music takes you through the
-OL,18,     Gearly hours playing back to back
-OL,19,     Gmusic.
-OL,20,G0300F6 Music's 90s Forever
-OL,21,     G6 Music goes back to the 90s!
+OL,14,     GLorde chats to Grimmy about her
+OL,15,     Galbum Virgin, BC Camplight & Nick
+OL,16,     GLeon share the stories behind
+OL,17,     Gtheir records, plus Matt Everitt
+OL,18,     Gintroduces tracks from Frankie
+OL,19,     GCosmos & Yaya Bey.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,237,200,150,300,000,100
 PN,23607
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax 2   F236A1750829518
+OL,0,        ECIMSBWebfax 2   F236A1750908948
 OL,1,W{${$~+$ {$~{4k4h7} hw3 h7k4 G7/7
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' "-' *%/*%V,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for THU 26 JUN
-OL,4,G0400F6 Music's 00s Forever
-OL,5,     G6 Music goes back to the 00s!
-OL,6,G0500FThe Remix with Chris Hawkins
-OL,7,     GChris Hawkins has 30 minutes of
-OL,8,     Gremixed tracks all from past
-OL,9,     GGlastonbury performers.
-OL,10,G0530FChris Hawkins
-OL,11,     GChris Hawkins kicks off another
-OL,12,     Gday of Glastonbury celebrations
-OL,13,     Gon 6 Music.
+OL,4,G0200F6 Music Jukebox
+OL,5,     G6 Music takes you through the
+OL,6,     Gearly hours playing back to back
+OL,7,     Gmusic.
+OL,8,G0300F6 Music's 90s Forever
+OL,9,     G6 Music goes back to the 90s!
+OL,10,G0400F6 Music's 00s Forever
+OL,11,     G6 Music goes back to the 00s!
+OL,12,G0500FThe Remix with Chris Hawkins
+OL,13,     GChris Hawkins has 30 minutes of
+OL,14,     Gremixed tracks all from past
+OL,15,     GGlastonbury performers.
+OL,16,G0530FChris Hawkins
+OL,17,     GChris Hawkins kicks off another
+OL,18,     Gday of Glastonbury celebrations
+OL,19,     Gon 6 Music.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,237,200,150,300,000,100
