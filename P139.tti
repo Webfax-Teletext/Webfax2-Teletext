@@ -1,29 +1,42 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F139A1751043257
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F139A1751068537
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry, some late brightness in
-OL,7,Fthe east. Then the rest of the night
-OL,8,Fwill be dry and rather cloudy, some
-OL,9,Fclear periods in the east. Minimum
-OL,10,FTemperature 12C.
+OL,5,CThis Evening and Tonight:FRemaining
+OL,6,Fovercast and breezy with outbreaks
+OL,7,Frain continuing. The rain will be most
+OL,8,Fpersistent over hills in the southwest
+OL,9,Fwith drier weather along the east
+OL,10,Fcoast. Minimum Temperature 13C.
 OL,11,
-OL,12,CWednesday:FThe odd light shower in the
-OL,13,Fmorning across the west, otherwise a
-OL,14,Fdry day with some bright spells. Quite
-OL,15,Fwarm. Maximum Temperature 20C.
-OL,16,
-OL,17,COutlook for Thursday to Saturday:
-OL,18,FCloudy with showers on Thursday, drier
-OL,19,Fand brighter later. Cloudy with
-OL,20,Foccasional rain on Friday, drier in
-OL,21,Fthe east. Dry and bright on Saturday.
+OL,12,CSaturday:FCloud and rain will
+OL,13,Fgradually clear southeast during the
+OL,14,Fmorning with drier, sunnier conditions
+OL,15,Ffollowing from the northwest. A breezy
+OL,16,Fbut warm day. Maximum Temperature 21C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F139A1751068537
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,COutlook for Sunday to Tuesday:FMostly
+OL,6,Fdry and bright on Sunday but cloudier
+OL,7,Fconditions spreading north later.
+OL,8,FMonday and Tuesday will be changeable
+OL,9,Fwith a risk of showers or rain at
+OL,10,Ftimes.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
