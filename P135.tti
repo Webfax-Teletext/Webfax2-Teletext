@@ -2,22 +2,24 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1751043257
+OL,0,        ECIMSBWebfax 2   F135A1751046887
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Facross the west with occasional rain.
-OL,7,FThe east will be dry with cloud
-OL,8,Fbreaking to allow a few clear periods.
-OL,9,FLight west or southwesterly winds.
-OL,10,FMinimum Temperature 10C.
-OL,11,
-OL,12,CWednesday:FMostly cloudy with a few
-OL,13,Fshowers across the west. Dry elsewhere
-OL,14,Fwith the odd brighter spell. Maximum
-OL,15,FTemperature 18C.
+OL,5,CThis Evening and Tonight:FRather
+OL,6,Fcloudy with rain, this occasionally
+OL,7,Fheavy in the west but drier with some
+OL,8,Fclearer spells around the Moray Firth.
+OL,9,FBecoming drier and clearer across all
+OL,10,Fparts towards the end of the night.
+OL,11,FMinimum Temperature 12C.
+OL,12,
+OL,13,CSaturday:FA windy day with sunny
+OL,14,Fspells and the odd brief shower,
+OL,15,Fmainly in the west. Southwesterly
+OL,16,Fwinds close to gale force on western
+OL,17,Fcoasts. Maximum Temperature 19C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -25,17 +27,17 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1751043257
+OL,0,        ECIMSBWebfax 2   F135A1751046887
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FOvernight rain soon clearing on
-OL,7,FThursday followed by a few afternoon
-OL,8,Fshowers. Outbreaks of rain moving
-OL,9,Fnortheast on Friday. A few showers in
-OL,10,Fwest on Saturday, dry elsewhere.
+OL,5,COutlook for Sunday to Tuesday:FMainly
+OL,6,Fdry start to Sunday but turning
+OL,7,Fincreasingly unsettled later Sunday
+OL,8,Fand into Monday with some rain at
+OL,9,Ftimes. Turning generally drier on
+OL,10,FTuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
