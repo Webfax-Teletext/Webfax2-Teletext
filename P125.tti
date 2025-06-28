@@ -2,24 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1751075758
+OL,0,        ECIMSBWebfax 2   F125A1751082978
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly
-OL,6,Fcloudy, with rain lingering across
-OL,7,Fnorthern parts, some heavier spells
-OL,8,Fover the higher ground. Drier further
-OL,9,Fsouth, but feeling warm and muggy for
-OL,10,Fall. Minimum Temperature 18C.
-OL,11,
-OL,12,CSaturday:FAnother cloudy start to the
-OL,13,Fday with further outbreaks of rain and
-OL,14,Fdrizzle throughout the day. Drier in
-OL,15,Fthe south by the afternoon, with some
-OL,16,Flate sunshine possible. Maximum
-OL,17,FTemperature 23C.
+OL,5,CToday:FA dull day with cloud and
+OL,6,Foutbreaks of rain and drizzle on and
+OL,7,Foff throughout much of the day. Some
+OL,8,Fbrighter breaks may develop towards
+OL,9,Fthe far north and south of the region.
+OL,10,FWarm and muggy. Breezy. Maximum
+OL,11,FTemperature 23C.
+OL,12,
+OL,13,CTonight:FRemaining rather cloudy
+OL,14,Fovernight, and murky over the hills
+OL,15,Fwith further spells of rain and
+OL,16,Fdrizzle. Winds easing but staying
+OL,17,Fhumid overnight. Minimum Temperature
+OL,18,F14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -27,17 +28,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1751075758
+OL,0,        ECIMSBWebfax 2   F125A1751082978
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FPatchy
-OL,6,Frain on Sunday with sunny spells
-OL,7,Fdeveloping Monday. Feeling warm,
-OL,8,Fespecially in the sunshine, with light
-OL,9,Fwinds. Fresher from Tuesday, with
-OL,10,Fcloudier skies and a few spots of rain.
+OL,5,CSunday:FAnother grey start with patchy
+OL,6,Fdrizzle, mainly over the hills. Some
+OL,7,Fbrighter breaks may develop into the
+OL,8,Fafternoon. Lighter winds and feeling
+OL,9,Fwarm in any sunshine. Maximum
+OL,10,FTemperature 26C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:FWarm
+OL,13,Fand humid again on Monday with bright
+OL,14,Fspells and the odd shower. Cloudier
+OL,15,Ffrom Tuesday with some patchy rain,
+OL,16,Fperhaps heavy at times, but also
+OL,17,Fturning fresher.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
