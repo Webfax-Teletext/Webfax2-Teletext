@@ -2,25 +2,25 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1751079367
+OL,0,        ECIMSBWebfax 2   F131A1751086590
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FPlenty of
-OL,6,Flate evening sunshine in the east, but
-OL,7,Fbecoming increasingly cloudy from the
-OL,8,Fwest, with a few spots of rain and
-OL,9,Fdrizzle across the Moors overnight.
-OL,10,FWarm and muggy. Minimum Temperature
-OL,11,F17C.
+OL,5,CToday:FCloudy in the southwest with a
+OL,6,Fspots of rain and drizzle, mainly over
+OL,7,Fthe Moors. Drier and brighter further
+OL,8,Feast with sunny spells breaking
+OL,9,Fthrough later in the afternoon. Warm
+OL,10,Fand muggy with a breeze. Maximum
+OL,11,FTemperature 26C.
 OL,12,
-OL,13,CSaturday:FCloudy in the southwest with
-OL,14,Fa few light showers in places. Drier
-OL,15,Fand brighter further east with sunny
-OL,16,Fspells breaking through later in the
-OL,17,Fafternoon. Warm and muggy, light
-OL,18,Fwinds. Maximum Temperature 26C.
+OL,13,CTonight:FMurky around western coasts
+OL,14,Fovernight with low cloud and some
+OL,15,Fdrizzle in places. Clearer spells
+OL,16,Ffurther east. Winds falling light and
+OL,17,Ffeeling humid again. Minimum
+OL,18,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -28,17 +28,23 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1751079367
+OL,0,        ECIMSBWebfax 2   F131A1751086590
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FLargely
-OL,6,Fdry but increasingly warm and humid on
-OL,7,FSunday and Monday, with plenty of
-OL,8,Fsunny spells. Cooler from Tuesday with
-OL,9,Fcloudier skies bringing the risk of a
-OL,10,Fshower. Light winds.
+OL,5,CSunday:FA dull start but some brighter
+OL,6,For sunnier breaks developing in the
+OL,7,Fafternoon. Feeling very warm and
+OL,8,Fhumid, especially in the sunshine.
+OL,9,FMaximum Temperature 27C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:FHot
+OL,12,Fand humid again on Monday with lengthy
+OL,13,Fspells of sunshine. Cloud building
+OL,14,Ffrom Tuesday with periods of rain into
+OL,15,FWednesday, perhaps heavy at times, but
+OL,16,Fturning fresher.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100

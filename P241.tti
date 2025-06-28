@@ -1,8 +1,8 @@
 PN,24101
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
 OL,4,G0600FBBC News
@@ -19,9 +19,9 @@ OL,14,     GA review of the week with the
 OL,15,     Glatest news.
 OL,16,G0900FBBC News
 OL,17,G0906FBBC OS Conversations
-OL,18,     GHow major news stories are
-OL,19,     Gaffecting the lives of people
-OL,20,     Garound the world.
+OL,18,     GWhat's it like as an Iranian
+OL,19,     GAmerican watching events in the
+OL,20,     GMiddle East from afar?
 OL,21,G0930FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
@@ -29,8 +29,8 @@ FL,242,200,150,300,000,100
 PN,24102
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
 OL,4,G0932FPick of the World
@@ -41,146 +41,166 @@ OL,8,     GIndian superstar singer and
 OL,9,     Grapper Sidhu Moose Wala. Why was
 OL,10,     Ghe killed?
 OL,11,G0950FOver to You
-OL,12,     GTalk back to the BBC and
-OL,13,     Gchallenge the programme makers.
-OL,14,G1000FBBC News
-OL,15,G1006FNot by the Playbook
-OL,16,     GGold the ultimate. Silver a
-OL,17,     Gbittersweet success. Bronze the
-OL,18,     Gcopper coloured confirmation of
-OL,19,     Ggreat effort. Finally nothing.
-OL,20,     GNada. Nowhere. This weeks guests
-OL,21,     Ghave dealt with it all.
-OL,22,G1100FBBC News
+OL,12,     GWe hear from the head of BBC News
+OL,13,     GPersian about the pressures of
+OL,14,     Greporting on Iran. Plus how The
+OL,15,     GKilling Call tells of the murder
+OL,16,     Gof Indian music star Sidhu Moose
+OL,17,     GWala.
+OL,18,G1000FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24103
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1106FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G1130FBBC News Summary
-OL,8,G1132FUnspun World with John Simpson
-OL,9,     GJohn Simpson analyses where Iran
-OL,10,     Gstands now a ceasefire seems to
-OL,11,     Gbe in place.
-OL,12,G1200FBBC News
-OL,13,G1206FThe Forum
-OL,14,     GThe evolution of customer service
-OL,15,     Gfrom call centres to chatbots.
-OL,16,G1300FBBC News
-OL,17,G1306FNewshour
-OL,18,     GInterviews, news and analysis of
-OL,19,     Gthe day's global events.
-OL,20,G1400FBBC News
+OL,4,G1006FNot by the Playbook
+OL,5,     GGold the ultimate. Silver a
+OL,6,     Gbittersweet success. Bronze the
+OL,7,     Gcopper coloured confirmation of
+OL,8,     Ggreat effort. Finally nothing.
+OL,9,     GNada. Nowhere. This weeks guests
+OL,10,     Ghave dealt with it all.
+OL,11,G1100FBBC News
+OL,12,G1106FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G1130FBBC News Summary
+OL,16,G1132FUnspun World with John Simpson
+OL,17,     GJohn Simpson analyses where Iran
+OL,18,     Gstands now a ceasefire seems to
+OL,19,     Gbe in place.
+OL,20,G1200FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24104
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1406FSportsworld
-OL,5,     GLive sport from around the world
-OL,6,     Gwith news, interviews and
-OL,7,     Ganalysis.
-OL,8,G1800FBBC News
-OL,9,G1806FThe Newsroom
-OL,10,     GThe world's Newsroom brings you
-OL,11,     Gglobal events as they happen.
-OL,12,G1830FBBC News Summary
-OL,13,G1832FAmazing Sport Stories
-OL,14,     GBill Walton tells the story of
-OL,15,     GSarunas Marciulionis' journey
-OL,16,     Gfrom the USSR to the NBA. Along
-OL,17,     Gthe way, there's also a Grateful
-OL,18,     GDead concert...
-OL,19,G1850FMore or Less
-OL,20,     GTim Harford explains the numbers
-OL,21,     Gand statistics in the news and in
-OL,22,     Glife.
+OL,4,G1206FThe Forum
+OL,5,     GThe evolution of customer service
+OL,6,     Gfrom call centres to chatbots.
+OL,7,G1300FBBC News
+OL,8,G1306FNewshour
+OL,9,     GInterviews, news and analysis of
+OL,10,     Gthe day's global events.
+OL,11,G1400FBBC News
+OL,12,G1406FSportsworld
+OL,13,     GLive sport from around the world
+OL,14,     Gwith news, interviews and
+OL,15,     Ganalysis.
+OL,16,G1800FBBC News
+OL,17,G1806FThe Newsroom
+OL,18,     GThe world's Newsroom brings you
+OL,19,     Gglobal events as they happen.
+OL,20,G1830FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24105
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G1900FBBC News
-OL,5,G1906FThe Inquiry
-OL,6,     GTensions in the Gulf have again
-OL,7,     Graised questions about the Strait
-OL,8,     Gof Hormuz. What impact would
-OL,9,     Gdisruption have? And can oil
-OL,10,     Gsafely be exported from the
-OL,11,     Gregion?
-OL,12,G1930FBBC News Summary
-OL,13,G1932FHappy News
-OL,14,     GPositive news stories.
-OL,15,G2000FBBC News
-OL,16,G2006FThe Arts Hour
-OL,17,     GNikki Bedi talks to sitarist
-OL,18,     GAnoushka Shankar about her latest
-OL,19,     Galbum, Chapter III: We Return to
-OL,20,     GLight and is joined by cultural
-OL,21,     Gcritic, Karen Krizanovich.
-OL,22,G2100FBBC News
+OL,4,G1832FAmazing Sport Stories
+OL,5,     GBill Walton tells the story of
+OL,6,     GSarunas Marciulionis' journey
+OL,7,     Gfrom the USSR to the NBA. Along
+OL,8,     Gthe way, there's also a Grateful
+OL,9,     GDead concert...
+OL,10,G1850FMore or Less
+OL,11,     GMaking sense of the numbers
+OL,12,     Garound the Russian dead and
+OL,13,     Gwounded.
+OL,14,G1900FBBC News
+OL,15,G1906FThe Inquiry
+OL,16,     GTensions in the Gulf have again
+OL,17,     Graised questions about the Strait
+OL,18,     Gof Hormuz. What impact would
+OL,19,     Gdisruption have? And can oil
+OL,20,     Gsafely be exported from the
+OL,21,     Gregion?
+OL,22,G1930FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24106
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G2106FNewshour
-OL,5,     GInterviews, news and analysis of
-OL,6,     Gthe day's global events.
-OL,7,G2200FBBC News
-OL,8,G2206FNot by the Playbook
-OL,9,     GGold the ultimate. Silver a
-OL,10,     Gbittersweet success. Bronze the
-OL,11,     Gcopper coloured confirmation of
-OL,12,     Ggreat effort. Finally nothing.
-OL,13,     GNada. Nowhere. This weeks guests
-OL,14,     Ghave dealt with it all.
-OL,15,G2300FBBC News
-OL,16,G2306FThe Newsroom
-OL,17,     GThe world's Newsroom brings you
-OL,18,     Gglobal events as they happen.
-OL,19,G2330FBBC News Summary
-OL,20,G2332FThis Is Africa
-OL,21,     GDJ Edu's pan-African music show
-OL,22,     Gfor the BBC World Service.
+OL,4,G1932FThe Documentary
+OL,5,     GWhat's next for Iran's nuclear
+OL,6,     Gambitions? We put your questions
+OL,7,     Gto BBC experts.
+OL,8,G2000FBBC News
+OL,9,G2006FThe Arts Hour
+OL,10,     GNikki Bedi talks to sitarist
+OL,11,     GAnoushka Shankar about her latest
+OL,12,     Galbum, Chapter III: We Return to
+OL,13,     GLight and is joined by cultural
+OL,14,     Gcritic, Karen Krizanovich.
+OL,15,G2100FBBC News
+OL,16,G2106FNewshour
+OL,17,     GInterviews, news and analysis of
+OL,18,     Gthe day's global events.
+OL,19,G2200FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24107
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SAT 28 JUN
+OL,4,G2206FNot by the Playbook
+OL,5,     GGold the ultimate. Silver a
+OL,6,     Gbittersweet success. Bronze the
+OL,7,     Gcopper coloured confirmation of
+OL,8,     Ggreat effort. Finally nothing.
+OL,9,     GNada. Nowhere. This weeks guests
+OL,10,     Ghave dealt with it all.
+OL,11,G2300FBBC News
+OL,12,G2306FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G2330FBBC News Summary
+OL,16,G2332FThis Is Africa
+OL,17,     GWendy Shay is one of Ghana's most
+OL,18,     Gstreamed artists, despite being
+OL,19,     Gsubjected to lots of abuse at the
+OL,20,     Gbeginning of her career. She
+OL,21,     Gtalks to DJ Edu about winning
+OL,22,     Gover her haters.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,242,200,150,300,000,100
+PN,24108
+SC,0008
+PS,c000
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
 OL,4,G0000FBBC News
 OL,5,G0006FBBC OS Conversations
-OL,6,     GHow major news stories are
-OL,7,     Gaffecting the lives of people
-OL,8,     Garound the world.
+OL,6,     GWhat's it like as an Iranian
+OL,7,     GAmerican watching events in the
+OL,8,     GMiddle East from afar?
 OL,9,G0030FBBC News Summary
 OL,10,G0032FThe Documentary
 OL,11,     GAs the US Defense Department
@@ -193,11 +213,11 @@ OL,17,G0100FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
-PN,24108
-SC,0008
+PN,24109
+SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
 OL,4,G0106FThe Inquiry
@@ -222,11 +242,11 @@ OL,22,G0200FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
-PN,24109
-SC,0009
+PN,24110
+SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
 OL,4,G0206FThe Newsroom
@@ -248,35 +268,38 @@ OL,19,G0400FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
-PN,24110
-SC,0010
-PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/11
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for SAT 28 JUN
-OL,4,G0406FFrom Our Own Correspondent
-OL,5,     GInsight, wit and analysis from
-OL,6,     GBBC correspondents, journalists
-OL,7,     Gand writers from around the world.
-OL,8,G0430FBBC News Summary
-OL,9,G0432FUnspun World with John Simpson
-OL,10,     GJohn Simpson analyses where Iran
-OL,11,     Gstands now a ceasefire seems to
-OL,12,     Gbe in place.
-OL,13,G0500FBBC News
-OL,14,G0506FThe Newsroom
-OL,15,     GThe world's Newsroom brings you
-OL,16,     Gglobal events as they happen.
-OL,17,G0530FBBC News Summary
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,242,200,150,300,000,100
 PN,24111
 SC,0011
 PS,c000
-OL,0,        ECIMSBWebfax 2   F241A1751043257
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/11
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SAT 28 JUN
+OL,4,G0406FFrom Our Own Correspondent
+OL,5,     GThousands of Iranians fled across
+OL,6,     Gthe border to Turkey following
+OL,7,     GIsrael's attacks but are unsure
+OL,8,     Gabout returning home, fearing
+OL,9,     Gfurther strikes and a regime
+OL,10,     Gstill in power.
+OL,11,G0430FBBC News Summary
+OL,12,G0432FUnspun World with John Simpson
+OL,13,     GJohn Simpson analyses where Iran
+OL,14,     Gstands now a ceasefire seems to
+OL,15,     Gbe in place.
+OL,16,G0500FBBC News
+OL,17,G0506FThe Newsroom
+OL,18,     GThe world's Newsroom brings you
+OL,19,     Gglobal events as they happen.
+OL,20,G0530FBBC News Summary
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,242,200,150,300,000,100
+PN,24112
+SC,0012
+PS,c000
+OL,0,        ECIMSBWebfax 2   F241A1751086590
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 28 JUN
 OL,4,G0532FThe Documentary
