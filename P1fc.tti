@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8010
-OL,0,        ECIMSBWebfax 2   F1fcA1751306794
+PN,1fc01
+SC,0001
+PS,c010
+OL,0,        ECIMSBWebfax 2   F1fcA1751310402
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,16 +13,35 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1751306793;
-OL,10,GService: Webfax 2 - 6152 3d67988ca
-OL,11,FLast Update: 30/06/2025 19:06:33      
-OL,13,CitvSport/border            G27/06-17:54
-OL,14,CitvSport/calendar          G27/06-17:54
-OL,15,CitvSport/central           G27/06-17:54
-OL,16,CitvSport/channel           G29/06-16:02
-OL,17,CitvSport/meridian          G27/06-17:54
-OL,18,CitvSport/tyne-tees         G27/06-17:54
-OL,19,CitvSport/utv               G27/06-17:54
-OL,20,CitvSport/wales             G27/06-17:54
-OL,21,CitvSport/westcountry       G27/06-17:54
-OL,22,Ctvroom/cleanfeed           G28/06-01:55
+OL,25,1751310402;
+OL,10,GService: Webfax 2 - 6153 f8ccef9bc
+OL,11,FLast Update: 30/06/2025 20:06:42  G1/2
+OL,13,CbbcSport/Horse Racing      G29/06-19:46
+OL,14,CitvSport/border            G27/06-17:54
+OL,15,CitvSport/calendar          G27/06-17:54
+OL,16,CitvSport/central           G27/06-17:54
+OL,17,CitvSport/channel           G29/06-16:02
+OL,18,CitvSport/meridian          G27/06-17:54
+OL,19,CitvSport/tyne-tees         G27/06-17:54
+OL,20,CitvSport/utv               G27/06-17:54
+OL,21,CitvSport/wales             G27/06-17:54
+OL,22,CitvSport/westcountry       G27/06-17:54
+OL,23,Ctvroom/cleanfeed           G28/06-01:55
+PN,1fc02
+SC,0002
+PS,c010
+OL,0,        ECIMSBWebfax 2   F1fcA1751310402
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1751310402;
+OL,10,GService: Webfax 2 - 6153 f8ccef9bc
+OL,11,FLast Update: 30/06/2025 20:06:42  G2/2
