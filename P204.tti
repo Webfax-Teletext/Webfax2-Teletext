@@ -1,26 +1,28 @@
 PN,20400
 SC,0000
 PS,8000
-OL,0,        ECIMSBWebfax 2   F204A1751328450
+OL,0,        ECIMSBWebfax 2   F204A1751339275
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for MON 30 JUN
 OL,4,G0100FBBC R4 Joins BBC World Service
 OL,5,G0500FNews Summary
 OL,6,G0504FYesterday in Parliament
-OL,7,     GNews, views and features on
-OL,8,     Gyesterday's stories in Parliament.
-OL,9,G0534FShipping Forecast
-OL,10,G0543FPrayer for the Day
-OL,11,     GA spiritual comment and prayer to
-OL,12,     Gstart the day with the Reverend
-OL,13,     GMariama Ifode-Blease, associate
-OL,14,     Gpriest at St James's Piccadilly
-OL,15,     Gand chaplain to the First Aid
-OL,16,     GNursing Yeomanry.
-OL,17,G0545FFarming Today
-OL,18,     GThe latest news about food,
-OL,19,     Gfarming and the countryside.
+OL,7,     GAlison McCarthy reports as MPs
+OL,8,     Gquestion the government about
+OL,9,     Gchanges to its welfare policy.
+OL,10,G0534FShipping Forecast
+OL,11,G0543FPrayer for the Day
+OL,12,     GA spiritual comment and prayer to
+OL,13,     Gstart the day with the Reverend
+OL,14,     GMariama Ifode-Blease, associate
+OL,15,     Gpriest at St James's Piccadilly
+OL,16,     Gand chaplain to the First Aid
+OL,17,     GNursing Yeomanry.
+OL,18,G0545FFarming Today
+OL,19,     GSome farmers have started
+OL,20,     Gharvesting their arable crops,
+OL,21,     Gearlier than ever.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
