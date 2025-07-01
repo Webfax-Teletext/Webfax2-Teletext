@@ -2,23 +2,25 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1751342883
+OL,0,        ECIMSBWebfax 2   F138A1751350101
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FA dry start with sunny spells
-OL,6,Fand remaining so across western Argyll
-OL,7,Fand Arran. Becoming cloudy elsewhere
-OL,8,Fwith some showers developing, perhaps
-OL,9,Fheavy in the afternoon. Maximum
-OL,10,FTemperature 19C.
-OL,11,
-OL,12,CTonight:FA sunny evening towards the
-OL,13,Fwest coast but cloudier with showers
-OL,14,Felsewhere. The showers will die out
-OL,15,Fovernight with skies clearing. Minimum
-OL,16,FTemperature 7C.
+OL,5,CThis Evening and Tonight:FOutbreaks of
+OL,6,Frain during this evening, heavy at
+OL,7,Ftimes. Becoming mainly dry with
+OL,8,Fclearing skies overnight. Isolated
+OL,9,Flight showers around the west coast
+OL,10,Fand winds falling light. Minimum
+OL,11,FTemperature 8C.
+OL,12,
+OL,13,CTuesday:FWest coast will be dry and
+OL,14,Fbright, some long sunny spells across
+OL,15,Fnorthwestern Argyll. Elsewhere mostly
+OL,16,Fcloudy with the chance of a few
+OL,17,Fshowers in the afternoon, mainly east.
+OL,18,FMaximum Temperature 19C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -26,23 +28,15 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1751342883
+OL,0,        ECIMSBWebfax 2   F138A1751350101
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CWednesday:FA bright day with sunny
-OL,6,Fspells and a few showers developing,
-OL,7,Fsome of these heavy in the afternoon.
-OL,8,FFeeling rather warm. Maximum
-OL,9,FTemperature 19C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:
-OL,12,FBright spells and a few showers on
-OL,13,FThursday. Cloudy and windy on Friday
-OL,14,Fwith outbreaks of rain, heaviest over
-OL,15,FArgyll. Warm and humid on Saturday
-OL,16,Fwith further showers.
+OL,5,COutlook for Wednesday to Friday:FBright
+OL,6,For sunny spells with occasional
+OL,7,Fshowers on Wednesday and Thursday.
+OL,8,FWindy with outbreaks of rain on Friday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
