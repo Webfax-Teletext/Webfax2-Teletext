@@ -1,29 +1,49 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F132A1751328450
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F132A1751364537
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be cloudy with rain, occasionally
-OL,7,Fheavy. Then turning dry and eventually
-OL,8,Fclearer from the west in the early
-OL,9,Fhours. A cooler and fresher night.
-OL,10,FMinimum Temperature 8C.
+OL,5,CToday:FIt will be mainly dry and
+OL,6,Fbright with sunny spells and feeling
+OL,7,Fquite warm. The cloud increasing at
+OL,8,Ftimes to bring a few isolated light
+OL,9,Fshowers, but these dying out later.
+OL,10,FLight winds. Maximum Temperature 19C.
 OL,11,
-OL,12,CTuesday:FIt will be mainly dry and
-OL,13,Fbright with sunny spells and feeling
-OL,14,Fquite warm. The cloud increasing at
-OL,15,Ftimes with isolated showers. Light
-OL,16,Fwinds. Maximum Temperature 19C.
-OL,17,
-OL,18,COutlook for Wednesday to Friday:FBright
-OL,19,For sunny spells with scattered showers
-OL,20,Fon Wednesday and Thursday. Windy with
-OL,21,Foutbreaks of rain on Friday.
+OL,12,CTonight:FA dry evening with plenty of
+OL,13,Flate sunshine. Staying dry with mainly
+OL,14,Fclear skies overnight and becoming
+OL,15,Fquite chilly in some rural spots.
+OL,16,FMinimum Temperature 6C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F132A1751364537
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,CWednesday:FA sunny start then cloud
+OL,6,Fbubbling up through the morning with
+OL,7,Fscattered showers developing. One or
+OL,8,Ftwo could be heavy in the afternoon.
+OL,9,FFeeling quite warm. Maximum
+OL,10,FTemperature 19C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FBright spells and a few showers on
+OL,14,FThursday. Dry on Friday morning then
+OL,15,Fwindy with outbreaks of rain arriving.
+OL,16,FWarm and humid on Saturday with
+OL,17,Ffurther showery rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
