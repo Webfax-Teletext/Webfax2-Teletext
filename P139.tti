@@ -1,46 +1,28 @@
-PN,13901
-SC,0001
+PN,13900
+SC,0000
 CT,20,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1751436714
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8000
+OL,0,        ECIMSBWebfax 2   F139A1751476437
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FEdinburgh, Lothians and Borders
-OL,6,Fwill see showers or longer spells of
-OL,7,Frain, occasionally heavy. Becoming
-OL,8,Fdrier and brighter in the afternoon.
-OL,9,FDumfries and Galloway seeing the odd
-OL,10,Fshower and few bright spells, .
-OL,11,FMaximum Temperature 18C.
-OL,12,
-OL,13,CTonight:FAny showers dying out this
-OL,14,Fevening otherwise dry. The rest of the
-OL,15,Fnight will be dry with variable
-OL,16,Famounts of cloud and some clear
-OL,17,Fperiods. Cool. Minimum Temperature 7C.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page BWeatherCReg Sport FNat Radio
-FL,150,120,301,200,000,100
-PN,13902
-SC,0002
-CT,20,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1751436714
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GDumfries
-OL,4,
-OL,5,CThursday:FA few bright or sunny spells
-OL,6,Fotherwise a rather cloudy day with
-OL,7,Fshowery rain spreading from the west.
-OL,8,FMaximum Temperature 18C.
-OL,9,
-OL,10,COutlook for Friday to Sunday:FCloudy
-OL,11,Fon Friday and Saturday with occasional
-OL,12,Frain but some drier spells of weather
-OL,13,Ftoo. Little change on Sunday.
+OL,5,CThis Evening and Tonight:FAny showers
+OL,6,Fdying out this evening otherwise dry.
+OL,7,FThe rest of the night will be dry with
+OL,8,Fvariable amounts of cloud and some
+OL,9,Fclear periods. Cool. Minimum
+OL,10,FTemperature 7C.
+OL,11,
+OL,12,CThursday:FA few bright or sunny spells
+OL,13,Fotherwise a rather cloudy day with
+OL,14,Fshowery rain spreading from the west.
+OL,15,FMaximum Temperature 18C.
+OL,16,
+OL,17,COutlook for Friday to Sunday:FCloudy
+OL,18,Fon Friday and Saturday with occasional
+OL,19,Frain but some drier spells of weather
+OL,20,Ftoo. Little change on Sunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
