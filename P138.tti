@@ -2,23 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1751458367
+OL,0,        ECIMSBWebfax 2   F138A1751472827
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FThis morning will be mainly dry
-OL,6,Falthough a few showers possible at
-OL,7,Ffirst. This afternoon will see some
-OL,8,Fbright or sunny spells and a few
-OL,9,Fshowers Maximum Temperature 19C.
-OL,10,
-OL,11,CTonight:FAny showers dying out this
-OL,12,Fevening, otherwise dry with some late
-OL,13,Fsunshine. Clouding over from the west
-OL,14,Fin the early hours with some showery
-OL,15,Frain reaching the west later. Minimum
-OL,16,FTemperature 7C.
+OL,5,CThis Evening and Tonight:FAny showers
+OL,6,Fdying out this evening, otherwise dry
+OL,7,Fwith some late sunshine. Clouding over
+OL,8,Ffrom the west in the early hours with
+OL,9,Fsome showery rain reaching the west
+OL,10,Flater. Minimum Temperature 7C.
+OL,11,
+OL,12,CThursday:FA few bright or sunny spells
+OL,13,Fin the east and south otherwise a
+OL,14,Frather cloudy day with showery rain
+OL,15,Fspreading from the west. Maximum
+OL,16,FTemperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -26,23 +26,17 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1751458367
+OL,0,        ECIMSBWebfax 2   F138A1751472827
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThursday:FA few bright or sunny spells
-OL,6,Fin the east and south otherwise a
-OL,7,Frather cloudy day with showery rain
-OL,8,Fspreading from the west. Maximum
-OL,9,FTemperature 18C.
-OL,10,
-OL,11,COutlook for Friday to Sunday:FCloud on
-OL,12,FFriday with rain, heavy at times
-OL,13,Facross Argyll. Further rain at times
-OL,14,Fon Saturday, this mostly across
-OL,15,FArgyll. Remaining unsettled on Sunday
-OL,16,Fwith scattered showers.
+OL,5,COutlook for Friday to Sunday:FCloudy
+OL,6,Fon Friday with rain, heavy at times
+OL,7,Facross Argyll. Further rain at times
+OL,8,Fon Saturday, this mostly across
+OL,9,FArgyll. Remaining unsettled on Sunday
+OL,10,Fwith scattered showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
