@@ -1,47 +1,29 @@
-PN,13201
-SC,0001
+PN,13200
+SC,0000
 CT,20,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1751429496
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8000
+OL,0,        ECIMSBWebfax 2   F132A1751483655
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FMainly dry and bright start
-OL,6,Fthis morning. Otherwise variable
-OL,7,Famounts of cloud with some sunny
-OL,8,Fspells and scattered showers. Becoming
-OL,9,Fdrier later in the afternoon. Maximum
-OL,10,FTemperature 19C.
-OL,11,
-OL,12,CTonight:FThis evening will be dry with
-OL,13,Fsome late sunshine. Clouding over from
-OL,14,Fthe west in the early hours with the
-OL,15,Fodd shower in the west and north.
-OL,16,FMinimum Temperature 8C.
-OL,17,
-OL,18,CThursday:FSome brightness across the
-OL,19,Feast otherwise a rather cloudy day
-OL,20,Fwith showery rain spreading from the
-OL,21,Fwest. Maximum Temperature 20C.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page BWeatherCReg Sport FNat Radio
-FL,133,120,301,200,000,100
-PN,13202
-SC,0002
-CT,20,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1751429496
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GNorthern Ireland
-OL,4,
-OL,5,COutlook for Friday to Sunday:FCloudy
-OL,6,Fon Friday with occasional rain, this
-OL,7,Fmainly across the west. Mainly dry on
-OL,8,FSaturday with some brightness in the
-OL,9,Fsoutheast. Cloudy and breezy on Sunday
-OL,10,Fwith showery rain.
+OL,5,CThis Evening and Tonight:FThis evening
+OL,6,Fwill be dry with some late sunshine.
+OL,7,FClouding over from the west in the
+OL,8,Fearly hours with the odd shower in the
+OL,9,Fwest and north. Minimum Temperature 8C.
+OL,10,
+OL,11,CThursday:FSome brightness across the
+OL,12,Feast otherwise a rather cloudy day
+OL,13,Fwith showery rain spreading from the
+OL,14,Fwest. Maximum Temperature 20C.
+OL,15,
+OL,16,COutlook for Friday to Sunday:FCloudy
+OL,17,Fon Friday with occasional rain, this
+OL,18,Fmainly across the west. Mainly dry on
+OL,19,FSaturday with some brightness in the
+OL,20,Fsoutheast. Cloudy and breezy on Sunday
+OL,21,Fwith showery rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
