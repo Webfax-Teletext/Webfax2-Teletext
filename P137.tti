@@ -1,29 +1,46 @@
-PN,13700
-SC,0000
+PN,13701
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F137A1751480045
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F137A1751505310
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CThis Evening and Tonight:FAny showers
-OL,6,Fdying out this evening. Then the rest
-OL,7,Fof the night will be dry with some
-OL,8,Flengthy clear periods. A cool night,
-OL,9,Fespecially across Deeside. Minimum
-OL,10,FTemperature 6C.
+OL,5,CToday:FSome brightness possible along
+OL,6,Fthe east coast at first this morning.
+OL,7,FOtherwise a mostly cloudy with showers
+OL,8,For some longer spells of rain,
+OL,9,Foccasionally heavy, Maximum
+OL,10,FTemperature 17C.
 OL,11,
-OL,12,CThursday:FA few bright or sunny spells
-OL,13,Fotherwise a rather cloudy day with
-OL,14,Fshowery rain spreading from the west.
-OL,15,FMaximum Temperature 18C.
-OL,16,
-OL,17,COutlook for Friday to Sunday:FCloudy
-OL,18,Fon Friday with rain at times. Mostly
-OL,19,Fdry on Saturday with some brighter
-OL,20,Fspells across the east. Scattered
-OL,21,Fshowers on Sunday.
+OL,12,CTonight:FAny showers dying out this
+OL,13,Fevening. Then the rest of the night
+OL,14,Fwill be dry with some lengthy clear
+OL,15,Fperiods. A cool night, especially
+OL,16,Facross Deeside. Minimum Temperature 6C.
+OL,17,
+OL,18,CThursday:FA few bright or sunny spells
+OL,19,Fotherwise a rather cloudy day with
+OL,20,Fshowery rain spreading from the west.
+OL,21,FMaximum Temperature 18C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,138,120,301,200,000,100
+PN,13702
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F137A1751505310
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GGrampian
+OL,4,
+OL,5,COutlook for Friday to Sunday:FCloudy
+OL,6,Fon Friday with rain at times. Mostly
+OL,7,Fdry on Saturday with some brighter
+OL,8,Fspells across the east. Scattered
+OL,9,Fshowers on Sunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
