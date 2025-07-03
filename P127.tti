@@ -2,24 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1751498093
+OL,0,        ECIMSBWebfax 2   F127A1751552228
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FLate evening
-OL,6,Fsunshine will give way to a dry and
-OL,7,Fmostly clear night, with winds
-OL,8,Fgradually easing. It will feel
-OL,9,Fnoticeably fresher than recent nights,
-OL,10,Fas temperatures dip into the low
-OL,11,Fteens. Minimum Temperature 10C.
+OL,5,CToday:FA sunny start to the day with
+OL,6,Fscattered fair weather cloud
+OL,7,Fdeveloping through the day. The odd
+OL,8,Fisolated shower is possible over the
+OL,9,FPeak District, otherwise elsewhere
+OL,10,Fstaying dry. A gentle breeze. Maximum
+OL,11,FTemperature 23C.
 OL,12,
-OL,13,CThursday:FDry and fine with sunny
-OL,14,Fspells, just a little fair weather
-OL,15,Fcloud building into the afternoon. A
-OL,16,Flittle breeze developing, yet still
-OL,17,Ffeeling warm. Maximum Temperature 23C.
+OL,13,CTonight:FA dry and largely clear night
+OL,14,Fwith variable high cloud moving in
+OL,15,Ffrom the west after midnight.
+OL,16,FTemperatures near average. Minimum
+OL,17,FTemperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -27,18 +27,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1751498093
+OL,0,        ECIMSBWebfax 2   F127A1751552228
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Friday to Sunday:FFriday
-OL,6,Fgenerally dry, fine and warm. Breezier
-OL,7,Flater. Saturday, brisk winds with
-OL,8,Foccasional showers and sunny
-OL,9,Fintervals. Sunday, occasional showers
-OL,10,Fand sunny intervals. Breezy. Feeling
-OL,11,Ffresher.
+OL,5,CFriday:FHazy sunshine across the
+OL,6,Fregion, staying largely dry and often
+OL,7,Fwarm. Winds increase into the
+OL,8,Fafternoon, with rain expected into the
+OL,9,Fevening and overnight. Maximum
+OL,10,FTemperature 26C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:FMostly
+OL,13,Fdry with sunny spells on Saturday,
+OL,14,Ffeeling warm in sunshine and rather
+OL,15,Fhumid. Sunny spells and scattered
+OL,16,Fshowers on Sunday and Monday, although
+OL,17,Ffeeling fresher. Often breezy
+OL,18,Fthroughout.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
