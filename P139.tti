@@ -1,28 +1,47 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F139A1751476437
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F139A1751526964
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FAny showers
-OL,6,Fdying out this evening otherwise dry.
-OL,7,FThe rest of the night will be dry with
-OL,8,Fvariable amounts of cloud and some
-OL,9,Fclear periods. Cool. Minimum
-OL,10,FTemperature 7C.
+OL,5,CToday:FMostly dry this morning with
+OL,6,Fsome early brightness. This afternoon
+OL,7,Fwill be mainly cloudy with scattered
+OL,8,Fshowers, these briefly heavy. Some
+OL,9,Fbrightness still possible along the
+OL,10,Feast coast. Maximum Temperature 17C.
 OL,11,
-OL,12,CThursday:FA few bright or sunny spells
-OL,13,Fotherwise a rather cloudy day with
-OL,14,Fshowery rain spreading from the west.
-OL,15,FMaximum Temperature 18C.
-OL,16,
-OL,17,COutlook for Friday to Sunday:FCloudy
-OL,18,Fon Friday and Saturday with occasional
-OL,19,Frain but some drier spells of weather
-OL,20,Ftoo. Little change on Sunday.
+OL,12,CTonight:FShowers slowly dying out this
+OL,13,Fevening. Rain will reach the southwest
+OL,14,Ftowards midnight. Then cloudy
+OL,15,Fovernight with rain spreading east for
+OL,16,Ftime, becoming dry by the end of the
+OL,17,Fnight. Minimum Temperature 12C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F139A1751526964
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,CFriday:FA cloudy with outbreaks of
+OL,6,Frain spreading east, although the east
+OL,7,Fcoast seeing more in the way of drier
+OL,8,Fweather. Maximum Temperature 17C.
+OL,9,
+OL,10,COutlook for Saturday to Monday:FCloudy
+OL,11,Fon Saturday with some patchy light
+OL,12,Frain, but dry across the east.
+OL,13,FBecoming somewhat brighter on Sunday
+OL,14,Fand Monday with just a few showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
