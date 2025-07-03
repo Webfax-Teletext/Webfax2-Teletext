@@ -1,29 +1,47 @@
-PN,13600
-SC,0000
+PN,13601
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F136A1751523355
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F136A1751530573
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CThis Evening and Tonight:FAny showers
-OL,6,Fwill die out this evening. Then the
-OL,7,Frest of the night will be dry with
-OL,8,Fsome lengthy clear periods. It will be
-OL,9,Fa cool night. Minimum Temperature 6C.
+OL,5,CToday:FDry start across the east with
+OL,6,Fsome brightness. Otherwise a cloudy
+OL,7,Fday with scattered showers spreading
+OL,8,Ffrom the west, these turning heavy at
+OL,9,Ftimes this afternoon. Maximum
+OL,10,FTemperature 17C.
+OL,11,
+OL,12,CTonight:FShowers will slowly die out
+OL,13,Fthis evening, then dry for a time.
+OL,14,FThickening cloud will bring some rain
+OL,15,Ffrom the west during the early hours.
+OL,16,FMinimum Temperature 11C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,137,120,301,200,000,100
+PN,13602
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F136A1751530573
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GTayside
+OL,4,
+OL,5,CFriday:FCloudy with rain at times, but
+OL,6,Fmore in the way of drier weather
+OL,7,Facross the east. Rain will be most be
+OL,8,Fpersistent across western Tayside.
+OL,9,FMaximum Temperature 17C.
 OL,10,
-OL,11,CThursday:FA few bright or sunny spells
-OL,12,Fin the east otherwise a rather cloudy
-OL,13,Fday with showery rain spreading from
-OL,14,Fthe west. Maximum Temperature 17C.
-OL,15,
-OL,16,COutlook for Friday to Sunday:FCloudy
-OL,17,Fon Friday with rain at times, most
-OL,18,Fpersistent across western Tayside.
-OL,19,FCloud on Saturday with occasional
-OL,20,Frain, mainly in the west. Scattered
-OL,21,Fshowers on Sunday.
+OL,11,COutlook for Saturday to Monday:FCloudy
+OL,12,Fon Saturday with rain at times across
+OL,13,Fthe west, drier elsewhere. Becoming
+OL,14,Fsomewhat brighter on Sunday and Monday
+OL,15,Fwith a few showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
