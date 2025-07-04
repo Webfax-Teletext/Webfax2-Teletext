@@ -2,23 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1751624430
+OL,0,        ECIMSBWebfax 2   F138A1751638865
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FShowers
-OL,6,Fmostly dying out this evening before
-OL,7,Frain spreads across the west towards
-OL,8,Fmidnight. Then cloudy overnight with
-OL,9,Frain spreading east across most areas
-OL,10,Ffor a time. Minimum Temperature 12C.
+OL,5,CToday:FCloudy but dry at first for
+OL,6,Fmany. Rain in the northwest will then
+OL,7,Fspread rapidly southeast becoming
+OL,8,Fpersistent and heavy from the morning.
+OL,9,FSoon becoming windy. Maximum
+OL,10,FTemperature 16C.
 OL,11,
-OL,12,CFriday:FDry start in the south and
-OL,13,Feast. Otherwise a cloudy day with
-OL,14,Frain, this heavy and persistent across
-OL,15,FArgyll. Brisk southwesterly winds.
-OL,16,FMaximum Temperature 16C.
+OL,12,CTonight:FThe night will stay cloudy
+OL,13,Fwith persistent and heavy rain
+OL,14,Fcontinuing, particularly over Argyll
+OL,15,Fand Lochaber. The wind will gradually
+OL,16,Fease down overnight. Minimum
+OL,17,FTemperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -26,16 +27,21 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1751624430
+OL,0,        ECIMSBWebfax 2   F138A1751638865
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Saturday to Monday:FCloudy
-OL,6,Fon Saturday with occasional rain, but
-OL,7,Fpersistent across Argyll at first.
-OL,8,FBecoming somewhat brighter on Sunday
-OL,9,Fand Monday with just a few showers.
+OL,5,CSaturday:FLittle change as rain
+OL,6,Fcontinues Saturday heavy at times in
+OL,7,Fthe north as southern parts become
+OL,8,Fdrier. Maximum Temperature 17C.
+OL,9,
+OL,10,COutlook for Sunday to Tuesday:FRain
+OL,11,Fwill turn showery Sunday morning with
+OL,12,Fthe afternoon becoming drier and
+OL,13,Fbrighter. Monday and Tuesday continue
+OL,14,Fmostly dry and bright.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
