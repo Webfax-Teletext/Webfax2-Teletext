@@ -2,25 +2,25 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1751682189
+OL,0,        ECIMSBWebfax 2   F131A1751689406
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud
-OL,6,Fbuilding through the evening, lowering
-OL,7,Fto produce fog over the Moors by dawn
-OL,8,Fon Saturday. Showers and longer spells
-OL,9,Fof rain arriving in the north during
-OL,10,Fthe early hours. Breezy and mild.
-OL,11,FMinimum Temperature 14C.
+OL,5,CToday:FDamp and grey for much of
+OL,6,FSaturday with outbreaks of rain and
+OL,7,Fperhaps some heavier showers, these
+OL,8,Fmost frequent over higher ground.
+OL,9,FMisty and murky over the Moors and
+OL,10,Falong western coasts. Breezy but
+OL,11,Ffeeling humid. Maximum Temperature 20C.
 OL,12,
-OL,13,CSaturday:FDamp and grey for much of
-OL,14,FSaturday with outbreaks of rain and
-OL,15,Fperhaps some heavier showers. Misty
-OL,16,Fand murky over the Moors and along
-OL,17,Fwestern coasts. Breezy but feeling
-OL,18,Fhumid. Maximum Temperature 20C.
+OL,13,CTonight:FHeavy rain reducing but with
+OL,14,Flighter outbreaks continuing
+OL,15,Fovernight. Winds easing slightly,
+OL,16,Fresulting in more extensive hill and
+OL,17,Fcoastal fog. Mild and feeling muggy.
+OL,18,FMinimum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -28,17 +28,25 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1751682189
+OL,0,        ECIMSBWebfax 2   F131A1751689406
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FTurning
-OL,6,Ffresher from Sunday. Bright and breezy
-OL,7,Fto end the weekend with scattered
-OL,8,Fshowers, these becoming less frequent
-OL,9,Finto next week with more sunny spells
-OL,10,Femerging. Winds easing by Tuesday.
+OL,5,CSunday:FReasonably cloudy overall but
+OL,6,Fsome brighter breaks in between a
+OL,7,Fscattering of showers, occasionally on
+OL,8,Fthe sharp side. Feeling fresher than
+OL,9,FSaturday with a brisk breeze picking
+OL,10,Fup again. Maximum Temperature 20C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:
+OL,13,FShowers becoming less frequent into
+OL,14,Fnext week with more sunny spells
+OL,15,Femerging. Winds falling lighter from
+OL,16,FTuesday. Locally chilly nights
+OL,17,Finitially but daytime and overnight
+OL,18,Ftemperatures climbing from midweek.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
