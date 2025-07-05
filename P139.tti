@@ -2,23 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1751642475
+OL,0,        ECIMSBWebfax 2   F139A1751714673
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy with
-OL,6,Foutbreaks of rain, staying mostly dry
-OL,7,Fover East Lothian and Berwick.
-OL,8,FDumfries and Galloway become drier as
-OL,9,Fthe wind gradually eases down
-OL,10,Fovernight. Minimum Temperature 13C.
+OL,5,CToday:FCloudy but dry with sunny
+OL,6,Fspells across Lothian and the Borders
+OL,7,Fbut cloudy with outbreaks of rain in
+OL,8,Fthe west. Cloud and rain spread to
+OL,9,Feastern parts in the afternoon.
+OL,10,FMaximum Temperature 19C.
 OL,11,
-OL,12,CSaturday:FMostly cloudy with still
-OL,13,Fsome patchy light rain, mainly ver
-OL,14,FDumfries and Galloway. Drier, brighter
-OL,15,Finterludes developing over Lothians
-OL,16,Fand Borders. Maximum Temperature 19C.
+OL,12,CTonight:FRain clears all but far
+OL,13,Fwestern parts during the evening,
+OL,14,Fleaving the east dry with clear
+OL,15,Fspells. Rain will spread to all but
+OL,16,Ffar eastern parts from midnight.
+OL,17,FMinimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -26,16 +27,22 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1751642475
+OL,0,        ECIMSBWebfax 2   F139A1751714673
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FCloudy
-OL,6,Fwith scattered showers Sunday. The
-OL,7,Fshowers clear overnight into Monday
-OL,8,Fleaving dry conditions with sunny
-OL,9,Fspells increasing into Tuesday.
+OL,5,CSunday:FDry with bright spells in the
+OL,6,Feast at first in the morning otherwise
+OL,7,Fcloudy with rain at times. Maximum
+OL,8,FTemperature 19C.
+OL,9,
+OL,10,COutlook for Monday to Wednesday:FCloudy
+OL,11,Fbut dry with sunny spells Monday and
+OL,12,Fmost of Tuesday. Cloud and rain spread
+OL,13,Fto western parts from Tuesday evening,
+OL,14,Fbecoming light and patchy from
+OL,15,FWednesday morning.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
