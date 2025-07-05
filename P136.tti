@@ -2,23 +2,25 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F136A1751721892
+OL,0,        ECIMSBWebfax 2   F136A1751729108
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CToday:FMuch of Saturday will stay
-OL,6,Fcloudy but dry with the best of any
-OL,7,Fbright spells in the east. The cloud
-OL,8,Fwill thicken during the afternoon when
-OL,9,Fsome patchy light rain is possible.
-OL,10,FMaximum Temperature 19C.
-OL,11,
-OL,12,CTonight:FA dry evening with clear
-OL,13,Fspells in the east. Cloud will thicken
-OL,14,Fas light rain spreads to northern
-OL,15,Fparts of Angus towards the morning.
-OL,16,FMinimum Temperature 12C.
+OL,5,CThis Evening and Tonight:FA dry but
+OL,6,Fquite cloudy evening with the odd
+OL,7,Fclear spell in the east. Cloudy with
+OL,8,Fpatchy light rain in the west. Cloud
+OL,9,Fwill thicken as light rain spreads to
+OL,10,Fnorthern parts of Angus towards the
+OL,11,Fmorning. Minimum Temperature 12C.
+OL,12,
+OL,13,CSunday:FDry in the south at first
+OL,14,Fotherwise cloudy with light rain or
+OL,15,Fdrizzle becoming drier and brighter
+OL,16,Fthrough the afternoon. Chance of the
+OL,17,Fodd shower in the evening, Maximum
+OL,18,FTemperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -26,22 +28,17 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F136A1751721892
+OL,0,        ECIMSBWebfax 2   F136A1751729108
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CSunday:FDry in the south at first
-OL,6,Fotherwise cloudy with light rain or
-OL,7,Fdrizzle becoming drier and brighter
-OL,8,Fthrough the afternoon. Maximum
-OL,9,FTemperature 18C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:FCloudy
-OL,12,Fwith light rain in the north early
-OL,13,FMonday otherwise dry and bright
-OL,14,Fconditions through the rest of Monday
-OL,15,Fcontinue into Wednesday.
+OL,5,COutlook for Monday to Wednesday:FDry,
+OL,6,Fbright start Monday before a few
+OL,7,Fshowers through the afternoon. Then
+OL,8,Fdry and sunny Tuesday morning, chance
+OL,9,Fof some rain later. Mostly dry and
+OL,10,Fwarmer on Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
