@@ -2,26 +2,24 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1751814095
+OL,0,        ECIMSBWebfax 2   F129A1751821325
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FA mostly dry and bright start
-OL,6,Faway from southern coasts, where early
-OL,7,Fcloud and rain should clear. Becoming
-OL,8,Frather cloudy with heavy thundery
-OL,9,Fshowers developing later in the
-OL,10,Fmorning, these merging into longer
-OL,11,Fspells of rain at times. Breezy.
-OL,12,FMaximum Temperature 26C.
-OL,13,
-OL,14,CTonight:FCloudy with further outbreaks
-OL,15,Fof rain or showers this evening, some
-OL,16,Fof which may remain heavy and
-OL,17,Fthundery. Drier from the north by
-OL,18,Fdawn. Remaining breezy. Minimum
-OL,19,FTemperature 11C.
+OL,5,CThis Evening and Tonight:FCloudy with
+OL,6,Ffurther outbreaks of rain or showers
+OL,7,Fthis evening, some of which may remain
+OL,8,Fheavy and thundery. Drier from the
+OL,9,Fnorth by dawn. Remaining breezy.
+OL,10,FMinimum Temperature 11C.
+OL,11,
+OL,12,CMonday:FEarly cloud and rain clearing
+OL,13,Fsouthward, then partly cloudy with
+OL,14,Fsunny intervals and isolated light
+OL,15,Fshowers. A band of heavy showers may
+OL,16,Freach Norfolk late in the evening.
+OL,17,FBreezy. Maximum Temperature 22C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -29,25 +27,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1751814095
+OL,0,        ECIMSBWebfax 2   F129A1751821325
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CMonday:FEarly cloud and rain clearing
-OL,6,Fsouthward, then partly cloudy with
-OL,7,Fsunny intervals and isolated light
-OL,8,Fshowers. A band of heavy showers may
-OL,9,Faffect eastern parts later in the day.
-OL,10,FBreezy. Maximum Temperature 22C.
-OL,11,
-OL,12,COutlook for Tuesday to Thursday:FMainly
-OL,13,Fdry with sunny spells on Tuesday.
-OL,14,FBright to start, then partly cloudy
-OL,15,Fwith isolated showers Wednesday. Sunny
-OL,16,Fand settled Thursday. Winds gradually
-OL,17,Ffalling light. Becoming very warm or
-OL,18,Fhot.
+OL,5,COutlook for Tuesday to Thursday:FMainly
+OL,6,Fdry with sunny spells on Tuesday.
+OL,7,FBright to start, then partly cloudy
+OL,8,Fwith isolated showers Wednesday. Sunny
+OL,9,Fand settled Thursday. Winds gradually
+OL,10,Ffalling light. Becoming very warm or
+OL,11,Fhot.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
