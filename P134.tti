@@ -2,23 +2,26 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1751900707
+OL,0,        ECIMSBWebfax 2   F134A1751915130
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FIt will be a mainly dry day
-OL,6,Fwith clouds breaking at times to give
-OL,7,Fsome sunshine, though chance of the
-OL,8,Fodd shower in the morning. A light
-OL,9,Fnorthwesterly breeze. Maximum
-OL,10,FTemperature 14C.
-OL,11,
-OL,12,CTonight:FIt will stay dry through the
-OL,13,Fevening and overnight. It will be
-OL,14,Frather cloudy for Orkney with variable
-OL,15,Famounts of cloud and clear breaks for
-OL,16,FShetland. Minimum Temperature 8C.
+OL,5,CThis Evening and Tonight:FA dry
+OL,6,Fevening, mainly sunny for Shetland,
+OL,7,Fand rather cloudy with a few sunny
+OL,8,Fintervals for Orkney. Overnight it
+OL,9,Fwill be rather cloudy for Orkney with
+OL,10,Fvariable amounts of cloud and clear
+OL,11,Fbreaks for Shetland. Minimum
+OL,12,FTemperature 8C.
+OL,13,
+OL,14,CTuesday:FA mainly dry day. Shetland
+OL,15,Fstartung sunny then cloud increasing
+OL,16,Ffrom west. Orkney cloudy at first then
+OL,17,Fbrightening. Low cloud and light rain
+OL,18,Farrive in the evening. Maximum
+OL,19,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -26,25 +29,18 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1751900707
+OL,0,        ECIMSBWebfax 2   F134A1751915130
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CTuesday:FDry with variable amounts of
-OL,6,Fcloud and a few clearer spells in the
-OL,7,Fmorning, becoming brighter in the
-OL,8,Fafternoon, before low cloud and light
-OL,9,Frain arrive in the evening. Maximum
-OL,10,FTemperature 14C.
-OL,11,
-OL,12,COutlook for Wednesday to Friday:
-OL,13,FStaying cloudy with mist or drizzle
-OL,14,Fand occasional haar on Wednesday and
-OL,15,FThursday with occasionally fresh
-OL,16,Fsouthwest winds. Becoming brighter
-OL,17,Fthrough Friday as winds back more
-OL,18,Fsoutherly.
+OL,5,COutlook for Wednesday to Friday:
+OL,6,FStaying cloudy with mist or drizzle
+OL,7,Fand occasional haar on Wednesday and
+OL,8,FThursday with occasionally fresh
+OL,9,Fsouthwest winds. Becoming brighter and
+OL,10,Fwarmer through Friday as winds back
+OL,11,Fmore southerly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100

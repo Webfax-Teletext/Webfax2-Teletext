@@ -2,24 +2,24 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F136A1751907918
+OL,0,        ECIMSBWebfax 2   F136A1751915130
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CThis Evening and Tonight:FAny isolated
-OL,6,Fshowers, mainly over Fife and Falkirk
-OL,7,Fquickly dying out with some evening
-OL,8,Fsunshine. Then staying dry overnight
-OL,9,Fwith often clear spells allowing a
-OL,10,Frelatively chilly night in sheltered
-OL,11,Fglens. Minimum Temperature 8C.
+OL,5,CToday:FAfter a dry and bright start,
+OL,6,Fclouds build from the west for a time
+OL,7,Fthrough the middle of the day with the
+OL,8,Fodd shower possible early afternoon.
+OL,9,FThen becoming dry and bright again
+OL,10,Fthrough the late afternoon with some
+OL,11,Fsunshine. Maximum Temperature 20C.
 OL,12,
-OL,13,CTuesday:FIt will be a dry and bright
-OL,14,Fday with good spells of sunshine.
-OL,15,FSunshine turning hazier in the
-OL,16,Fafternoon. Feeling a touch warmer.
-OL,17,FMaximum Temperature 22C.
+OL,13,CTonight:FIt will stay dry through the
+OL,14,Fevening and overnight with often clear
+OL,15,Fspells allowing a relatively chilly
+OL,16,Fnight in sheltered glens. Minimum
+OL,17,FTemperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -27,16 +27,22 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F136A1751907918
+OL,0,        ECIMSBWebfax 2   F136A1751915130
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FCloudy
-OL,6,Fin west on Wednesday. Otherwise dry
-OL,7,Fand settled weather with sunny spells.
-OL,8,FBecoming very warm, even hot later in
-OL,9,Fthe week, with mostly light winds.
+OL,5,CTuesday:FIt will be a dry and bright
+OL,6,Fday with good spells of sunshine.
+OL,7,FSunshine turning hazier in the
+OL,8,Fafternoon. Feeling a touch warmer.
+OL,9,FMaximum Temperature 22C.
+OL,10,
+OL,11,COutlook for Wednesday to Friday:FRidge
+OL,12,Fof high pressure will bring mostly dry
+OL,13,Fand settled weather with sunny spells.
+OL,14,FBecoming quite warm with mostly light
+OL,15,Fwinds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
