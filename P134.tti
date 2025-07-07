@@ -2,28 +2,23 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1751770776
+OL,0,        ECIMSBWebfax 2   F134A1751900707
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FCloudy start over Orkney then a
-OL,6,Fbright day over the Northern Isles
-OL,7,Fwith sunny spells developing. Staying
-OL,8,Fmostly dry, just a chance of a few
-OL,9,Fevening showers for Orkney. Maximum
+OL,5,CToday:FIt will be a mainly dry day
+OL,6,Fwith clouds breaking at times to give
+OL,7,Fsome sunshine, though chance of the
+OL,8,Fodd shower in the morning. A light
+OL,9,Fnorthwesterly breeze. Maximum
 OL,10,FTemperature 14C.
 OL,11,
-OL,12,CTonight:FIt will be a rather cloudy
-OL,13,Fnight and mainly dry with just a few
-OL,14,Flight showers, mainly over Orkney.
-OL,15,FLight northwest winds. Minimum
-OL,16,FTemperature 9C.
-OL,17,
-OL,18,CMonday:FA mainly dry day with clouds
-OL,19,Fbreaking at times to give some
-OL,20,Fsunshine. Light northwesterly breeze.
-OL,21,FMaximum Temperature 14C.
+OL,12,CTonight:FIt will stay dry through the
+OL,13,Fevening and overnight. It will be
+OL,14,Frather cloudy for Orkney with variable
+OL,15,Famounts of cloud and clear breaks for
+OL,16,FShetland. Minimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -31,16 +26,25 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1751770776
+OL,0,        ECIMSBWebfax 2   F134A1751900707
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FRidge
-OL,6,Fof high pressure will bring mostly
-OL,7,Fdry, settled weather with some
-OL,8,Fsunshine. Thicker cloud with the odd
-OL,9,Fpatch of drizzle on Wednesday.
+OL,5,CTuesday:FDry with variable amounts of
+OL,6,Fcloud and a few clearer spells in the
+OL,7,Fmorning, becoming brighter in the
+OL,8,Fafternoon, before low cloud and light
+OL,9,Frain arrive in the evening. Maximum
+OL,10,FTemperature 14C.
+OL,11,
+OL,12,COutlook for Wednesday to Friday:
+OL,13,FStaying cloudy with mist or drizzle
+OL,14,Fand occasional haar on Wednesday and
+OL,15,FThursday with occasionally fresh
+OL,16,Fsouthwest winds. Becoming brighter
+OL,17,Fthrough Friday as winds back more
+OL,18,Fsoutherly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
