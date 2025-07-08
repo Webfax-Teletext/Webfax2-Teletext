@@ -2,23 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1751951228
+OL,0,        ECIMSBWebfax 2   F125A1752008976
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FAfter a chilly start, a fine
-OL,6,Fday to come with lots of sunshine,
-OL,7,Fthough this may turn a little hazy
-OL,8,Flater as some high cloud arrives from
-OL,9,Fthe west. Feeling pleasantly warm.
-OL,10,FMaximum Temperature 21C.
-OL,11,
-OL,12,CTonight:FTurning cloudier later in the
-OL,13,Fevening with a few spots of drizzle
-OL,14,Fover the hills, though most places
-OL,15,Fstaying dry overnight. Minimum
-OL,16,FTemperature 12C.
+OL,5,CThis Evening and Tonight:FTurning
+OL,6,Fcloudier from the northwest later this
+OL,7,Fevening with a few spots of drizzle
+OL,8,Fover the hills overnight, though most
+OL,9,Fplaces staying dry, especially in the
+OL,10,Fsoutheast of the region. Light winds,
+OL,11,Fand a little milder than last night.
+OL,12,FMinimum Temperature 12C.
+OL,13,
+OL,14,CWednesday:FEarly cloud gradually
+OL,15,Fbreaking to leave plenty of sunny
+OL,16,Fintervals into the afternoon. Feeling
+OL,17,Fpleasantly warm in the sunshine with
+OL,18,Flight winds. Maximum Temperature 23C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -26,23 +28,17 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1751951228
+OL,0,        ECIMSBWebfax 2   F125A1752008976
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CWednesday:FEarly cloud gradually
-OL,6,Fbreaking to leave sunnier spells into
-OL,7,Fthe afternoon. Feeling warm in the
-OL,8,Fsunshine with light winds. Maximum
-OL,9,FTemperature 23C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:FHigh
-OL,12,Fpressure dominating with plenty of
-OL,13,Fstrong sunshine by day and clear skies
-OL,14,Fovernight. Becoming very warm through
-OL,15,Fthe period with some uncomfortable
-OL,16,Fnights for sleeping.
+OL,5,COutlook for Thursday to Saturday:FHigh
+OL,6,Fpressure dominating with plenty of
+OL,7,Fstrong sunshine by day and clear skies
+OL,8,Fovernight. Becoming very warm through
+OL,9,Fthe period with some uncomfortable
+OL,10,Fnights for sleeping by the weekend.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
