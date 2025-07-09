@@ -1,44 +1,25 @@
-PN,20401
-SC,0001
-PS,c000
-OL,0,        ECIMSBWebfax 2   F204A1752016189
-OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/2
+PN,20400
+SC,0000
+PS,8000
+OL,0,        ECIMSBWebfax 2   F204A1752019797
+OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for TUE 8 JUL
-OL,4,G0000FMidnight News
-OL,5,G0030FThe Secret Painter by Joe Tucker
-OL,6,     GJoe Tucker's story of his uncle,
-OL,7,     Gthe self-taught Warrington artist
-OL,8,     GEric Tucker, who was discovered
-OL,9,     Gafter his death to have produced
-OL,10,     Gover 500 paintings. Read by Paul
-OL,11,     GReady.
-OL,12,G0048FShipping Forecast
-OL,13,G0100FBBC R4 Joins BBC World Service
-OL,14,G0500FNews Summary
-OL,15,G0504FYesterday in Parliament
-OL,16,     GNews, views and features on
-OL,17,     Gyesterday's stories in Parliament.
-OL,18,G0534FShipping Forecast
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,205,200,150,300,000,100
-PN,20402
-SC,0002
-PS,c000
-OL,0,        ECIMSBWebfax 2   F204A1752016189
-OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/2
-OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
-OL,3,CProgramme listings for TUE 8 JUL
-OL,4,G0543FPrayer for the Day
-OL,5,     GFuraha Mussanzi, singer and
-OL,6,     Gsongwriter, reflects on walking
-OL,7,     Gin prayer, to celebrate 55 years
-OL,8,     Gof Prayer for the Day from
-OL,9,     GBradford, the City of Culture.
-OL,10,G0545FFarming Today
-OL,11,     GThe latest news about food,
-OL,12,     Gfarming and the countryside.
+OL,4,G0100FBBC R4 Joins BBC World Service
+OL,5,G0500FNews Summary
+OL,6,G0504FYesterday in Parliament
+OL,7,     GNews, views and features on
+OL,8,     Gyesterday's stories in Parliament.
+OL,9,G0534FShipping Forecast
+OL,10,G0543FPrayer for the Day
+OL,11,     GFuraha Mussanzi, singer and
+OL,12,     Gsongwriter, reflects on walking
+OL,13,     Gin prayer, to celebrate 55 years
+OL,14,     Gof Prayer for the Day from
+OL,15,     GBradford, the City of Culture.
+OL,16,G0545FFarming Today
+OL,17,     GThe latest news about food,
+OL,18,     Gfarming and the countryside.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
