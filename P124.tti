@@ -2,25 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1752048664
+OL,0,        ECIMSBWebfax 2   F124A1752081144
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FRather cloudy to start,
-OL,6,Fespecially over western hills. Cloud
-OL,7,Fgradually breaking through the
-OL,8,Fmorning, with warm sunny spells
-OL,9,Fdeveloping through the afternoon,
-OL,10,Fmainly in the east at first with cloud
-OL,11,Fslower to clear over the Pennines.
-OL,12,FLight winds. Maximum Temperature 24C.
-OL,13,
-OL,14,CTonight:FA fine evening for most in
-OL,15,Fthe late sunshine. Cloud building over
-OL,16,Fthe Pennines, perhaps spilling east in
-OL,17,Fplaces, otherwise a clear night. Light
-OL,18,Fwinds. Minimum Temperature 11C.
+OL,5,CThis Evening and Tonight:FA fine
+OL,6,Fevening for most in the late sunshine.
+OL,7,FSome patchy cloud for the western
+OL,8,FPennines, perhaps spilling east in
+OL,9,Fplaces, otherwise a clear night for
+OL,10,Fmost with light winds. Minimum
+OL,11,FTemperature 11C.
+OL,12,
+OL,13,CThursday:FAny early cloud in the west
+OL,14,Fquickly clearing to leave a very warm
+OL,15,Fand sunny day. Sun perhaps turning
+OL,16,Fhazier through the afternoon as high
+OL,17,Fcloud drifts in. Humid overnight.
+OL,18,FMaximum Temperature 26C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -28,23 +28,16 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1752048664
+OL,0,        ECIMSBWebfax 2   F124A1752081144
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThursday:FAny early cloud in the west
-OL,6,Fquickly clearing to leave a very warm
-OL,7,Fand sunny day. Sun perhaps turning
-OL,8,Fhazier through the afternoon as high
-OL,9,Fcloud drifts in. Humid overnight.
-OL,10,FMaximum Temperature 26C.
-OL,11,
-OL,12,COutlook for Friday to Sunday:FFine and
-OL,13,Fsunny through the period, warm or very
-OL,14,Fwarm by day and humid at night,
-OL,15,Falthough feeling slightly cooler along
-OL,16,Fthe coast. Light winds.
+OL,5,COutlook for Friday to Sunday:FFine and
+OL,6,Fsunny through the period, becoming hot
+OL,7,Finland by day and humid at night,
+OL,8,Falthough feeling slightly cooler along
+OL,9,Fthe coast. Light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
