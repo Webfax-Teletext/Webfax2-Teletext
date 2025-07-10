@@ -2,25 +2,24 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1752131665
+OL,0,        ECIMSBWebfax 2   F129A1752164143
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FA sunny start across the
-OL,6,Fregion. Some high cloud may drift in
-OL,7,Fat times, but for many it will be a
-OL,8,Fday of prolonged sunshine. Feeling
-OL,9,Fvery warm or hot in light winds,
-OL,10,Fslightly cooler along the coast.
-OL,11,FMaximum Temperature 29C.
-OL,12,
-OL,13,CTonight:FA fine evening for many in
-OL,14,Fthe late sunshine. Any lingering high
-OL,15,Fcloud gradually clearing overnight,
-OL,16,Fwith widespread clear skies
-OL,17,Fdeveloping. Light winds continue,
-OL,18,Ffeeling humid. Minimum Temperature 13C.
+OL,5,CThis Evening and Tonight:FA fine
+OL,6,Fevening for many in the late sunshine.
+OL,7,FWidespread clear skies across the
+OL,8,Fregion. Coastal mist possible for a
+OL,9,Ftime. Light winds continuing and
+OL,10,Ffeeling humid. Minimum Temperature 13C.
+OL,11,
+OL,12,CFriday:FClear skies and prolonged
+OL,13,Fsunshine throughout Friday. Feeling
+OL,14,Fhot as light winds continue, although
+OL,15,Ffeeling cooler along the coast where
+OL,16,Fit might be misty at first during the
+OL,17,Fmorning. Maximum Temperature 31C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,25 +27,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1752131665
+OL,0,        ECIMSBWebfax 2   F129A1752164143
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CFriday:FClear skies and prolonged
-OL,6,Fsunshine throughout Friday. Feeling
-OL,7,Fhot as light winds continue, although
-OL,8,Ffeeling cooler along the coast where
-OL,9,Fit may be cloudy at times during the
-OL,10,Fmorning. Maximum Temperature 31C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FVery
-OL,13,Fwarm or hot through the weekend, with
-OL,14,Fprolonged sunshine continuing. Coastal
-OL,15,Fregions staying a touch cooler,
-OL,16,Fperhaps cloudy too at times. Slightly
-OL,17,Flower temperatures Monday, with rain
-OL,18,Farriving late.
+OL,5,COutlook for Saturday to Monday:FVery
+OL,6,Fwarm or hot through the weekend, with
+OL,7,Fprolonged sunshine continuing. Coastal
+OL,8,Fregions staying a touch cooler,
+OL,9,Fperhaps cloudier too at times.
+OL,10,FSlightly lower temperatures Monday.
+OL,11,FPossible late afternoon thunderstorm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100

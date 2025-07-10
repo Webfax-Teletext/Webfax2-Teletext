@@ -2,24 +2,25 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1752117229
+OL,0,        ECIMSBWebfax 2   F128A1752164143
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CToday:FEarly mist and patchy fog in
-OL,6,Fthe north will soon burn away through
-OL,7,Fthe morning. Thereafter, widely sunny
-OL,8,Fskies with plenty of strong sunshine
-OL,9,Ffor all. Light winds and warmer than
-OL,10,FWednesday. Maximum Temperature 29C.
-OL,11,
-OL,12,CTonight:FDry and fine with lengthy
-OL,13,Fspells of sunshine this evening and
-OL,14,Fclear skies overnight. Areas of mist
-OL,15,Fdeveloping in rural spots by dawn.
-OL,16,FWarm and muggy for all. Minimum
-OL,17,FTemperature 15C.
+OL,5,CThis Evening and Tonight:FDry and fine
+OL,6,Fwith lengthy spells of sunshine this
+OL,7,Fevening. Clear skies for many
+OL,8,Fovernight, although some areas of mist
+OL,9,Fand fog may develop in rural spots by
+OL,10,Fdawn. Warm and muggy for all, rather
+OL,11,Funcomfortable for sleeping. Minimum
+OL,12,FTemperature 15C.
+OL,13,
+OL,14,CFriday:FAnother dry and sunny day with
+OL,15,Fany early mist soon burning away to
+OL,16,Fleave widely clear skies. Light winds
+OL,17,Fand feeling very warm or hot in the
+OL,18,Fsunshine. Maximum Temperature 32C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -27,23 +28,17 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F128A1752117229
+OL,0,        ECIMSBWebfax 2   F128A1752164143
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CFriday:FAnother dry and sunny day with
-OL,6,Fany early mist soon burning away to
-OL,7,Fleave widely clear skies. Light winds
-OL,8,Fand feeling very warm or hot in the
-OL,9,Fsunshine. Maximum Temperature 32C.
-OL,10,
-OL,11,COutlook for Saturday to Monday:FHigh
-OL,12,Fpressure continues to dominate this
-OL,13,Fweekend bringing plenty of strong
-OL,14,Fsunshine. Very warm or hot by day,
-OL,15,Fhumid and rather muggy by night.
-OL,16,FCooler and cloudier from Monday.
+OL,5,COutlook for Saturday to Monday:FHigh
+OL,6,Fpressure continues to bring plenty of
+OL,7,Fstrong sunshine this weekend. Hot by
+OL,8,Fday, humid and rather muggy by night.
+OL,9,FCooler and cloudier on Monday with
+OL,10,Fheavy showers at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
