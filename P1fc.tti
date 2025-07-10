@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1752174978
+PN,1fc00
+SC,0000
+PS,8010
+OL,0,        ECIMSBWebfax 2   F1fcA1752178585
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,35 +13,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1752174977;
-OL,10,GService: Webfax 2 - 6393 7ff5dea17
-OL,11,FLast Update: 10/07/2025 20:16:17  G1/2
+OL,25,1752178585;
+OL,10,GService: Webfax 2 - 6394 d75bec047
+OL,11,FLast Update: 10/07/2025 21:16:25      
 OL,13,CitvSport/border            G05/07-21:58
 OL,14,CitvSport/calendar          G06/07-15:01
 OL,15,CitvSport/central           G05/07-21:58
-OL,16,CitvSport/channel           G07/07-12:04
-OL,17,CitvSport/granada           G09/07-18:12
-OL,18,CitvSport/london            G05/07-21:58
-OL,19,CitvSport/meridian          G05/07-21:58
-OL,20,CitvSport/tyne-tees         G05/07-21:58
-OL,21,CitvSport/utv               G05/07-21:58
-OL,22,CitvSport/westcountry       G05/07-21:58
-OL,23,Ctvroom/cleanfeed           G05/07-21:58
-PN,1fc02
-SC,0002
-PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1752174978
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1752174977;
-OL,10,GService: Webfax 2 - 6393 7ff5dea17
-OL,11,FLast Update: 10/07/2025 20:16:17  G2/2
+OL,16,CitvSport/granada           G09/07-18:12
+OL,17,CitvSport/london            G05/07-21:58
+OL,18,CitvSport/meridian          G05/07-21:58
+OL,19,CitvSport/tyne-tees         G05/07-21:58
+OL,20,CitvSport/utv               G05/07-21:58
+OL,21,CitvSport/westcountry       G05/07-21:58
+OL,22,Ctvroom/cleanfeed           G05/07-21:58
