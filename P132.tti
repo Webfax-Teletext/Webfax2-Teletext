@@ -2,24 +2,22 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1752182194
+OL,0,        ECIMSBWebfax 2   F132A1752232728
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA fine sunny
-OL,6,Fevening then dry tonight with long
-OL,7,Fclear spells. The odd fog patch
-OL,8,Fforming in the early hours and perhaps
-OL,9,Fsome coastal; fog or low cloud in
-OL,10,FDown. Minimum Temperature 12C.
+OL,5,CToday:FA dry day and becoming very
+OL,6,Fwarm or hot with plenty of sunshine.
+OL,7,FSome light sea breezes keeping it a
+OL,8,Flittle cooler around the coasts, and
+OL,9,Fthe chance of coastal fog patches in
+OL,10,FDown. Maximum Temperature 27C.
 OL,11,
-OL,12,CFriday:FMainly dry and becoming very
-OL,13,Fwarm or hot with plenty of sunshine.
-OL,14,FSome light sea breezes keeping it a
-OL,15,Flittle cooler and the chance of
-OL,16,Fcoastal fog patches in Down. Maximum
-OL,17,FTemperature 27C.
+OL,12,CTonight:FA fine warm sunny evening and
+OL,13,Fthen a dry night with clear skies. A
+OL,14,Fvery mild or warm night. WInds will be
+OL,15,Flight. Minimum Temperature 15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,15 +25,23 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1752182194
+OL,0,        ECIMSBWebfax 2   F132A1752232728
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Saturday to Monday:FThe
-OL,6,Fweekend will be dry with long sunny
-OL,7,Fperiods, and it will be hot. Chance of
-OL,8,Fthundery rain on Monday.
+OL,5,CSaturday:FAnother dry day with little
+OL,6,For no cloud and unbroken sunshine.
+OL,7,FTemperatures rising quickly in the
+OL,8,Fmorning becoming hot or very hot in
+OL,9,Fthe afternoon, some refreshing sea
+OL,10,Fbreezes. Maximum Temperature 30C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FAnother
+OL,13,Fhot and sunny day on Sunday, Then a
+OL,14,Fband of thundery rain crossing
+OL,15,Fnortheast on Monday, cooler. Bright
+OL,16,Fwith the odd shower Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
