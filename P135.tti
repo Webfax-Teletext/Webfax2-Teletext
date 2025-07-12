@@ -2,23 +2,24 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1752250777
+OL,0,        ECIMSBWebfax 2   F135A1752301304
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CThis Evening and Tonight:FA fine, warm
-OL,6,Fand sunny evening for most but some
-OL,7,Fpatchy low cloud over the Hebrides.
-OL,8,FThen a dry night with long clear
-OL,9,Fperiods. A very mild night, even warm
-OL,10,Fin the west. Minimum Temperature 15C.
+OL,5,CToday:FAll parts will have a dry day
+OL,6,Fwith plenty of sunshine, although some
+OL,7,Fhaar may affect eastern Caithness at
+OL,8,Ftimes. A hot day, but cooling
+OL,9,Fsoutheasterly breezes around exposed
+OL,10,Fcoasts. Maximum Temperature 30C.
 OL,11,
-OL,12,CSaturday:FDry with long sunny spells
-OL,13,Fand hot or very hot for most. Cooler
-OL,14,Faround some northeastern coasts with
-OL,15,Fperhaps some patchy haar. Maximum
-OL,16,FTemperature 30C.
+OL,12,CTonight:FDry, sunny and very warm this
+OL,13,Fevening. Then dry, mostly clear
+OL,14,Fovernight, but haar may affect some
+OL,15,FNorth Sea coasts. Warm, locally very
+OL,16,Fwarm across the west. Minimum
+OL,17,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -26,17 +27,22 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1752250777
+OL,0,        ECIMSBWebfax 2   F135A1752301304
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FSunday
-OL,6,Fdry with long sunny spells and hot,
-OL,7,Fthough some coastal haar possible in
-OL,8,Fnortheast on Sunday, Chance of some
-OL,9,Fthundery rain moving northeast later
-OL,10,FMonday and early Tuesday.
+OL,5,CSunday:FAnother dry, hot and sunny
+OL,6,Fday. Cooler along North Sea coasts
+OL,7,Fwhere haar may linger into the
+OL,8,Fafternoon. Maximum Temperature 29C.
+OL,9,
+OL,10,COutlook for Monday to Wednesday:FDry,
+OL,11,Fvery warm for most of Monday before
+OL,12,Frain, occasionally heavy, spreads
+OL,13,Fnortheast later. Chance of a few
+OL,14,Fshowers on Tuesday and Wednesday.
+OL,15,FRemaining quite warm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
