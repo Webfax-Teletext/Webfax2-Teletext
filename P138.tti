@@ -2,24 +2,28 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1752322950
+OL,0,        ECIMSBWebfax 2   F138A1752330184
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FA very warm
-OL,6,Fsunny evening then staying dry with
-OL,7,Fclear skies overnight. It will be a
-OL,8,Fvery mild to warm night, especially
-OL,9,Falong the west coast. Minimum
-OL,10,FTemperature 15C.
+OL,5,CToday:FDry and sunny this morning. All
+OL,6,Fparts will be dry this afternoon with
+OL,7,Funbroken sunshine. A hot day
+OL,8,Feverywhere, locally very hot. Cooling
+OL,9,Fbreezes along the coast. Maximum
+OL,10,FTemperature 30C.
 OL,11,
-OL,12,CSaturday:FAnother dry day with little
-OL,13,For no cloud and unbroken sunshine.
-OL,14,FTemperatures rising quickly in the
-OL,15,Fmorning becoming hot or very hot in
-OL,16,Fthe afternoon, some refreshing sea
-OL,17,Fbreezes. Maximum Temperature 30C.
+OL,12,CTonight:FDry, sunny and very warm this
+OL,13,Fevening. Then dry and clear for many
+OL,14,Fareas, but misty low cloud may develop
+OL,15,Facross the Central Belt overnight. A
+OL,16,Fwarm night. Minimum Temperature 16C.
+OL,17,
+OL,18,CSunday:FAny mist and low cloud in
+OL,19,Fcentral areas soon burning off.
+OL,20,FOtherwise another dry, hot and sunny
+OL,21,Fday. Maximum Temperature 28C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,16 +31,17 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1752322950
+OL,0,        ECIMSBWebfax 2   F138A1752330184
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FAnother
-OL,6,Fhot and sunny day on Sunday, Then a
-OL,7,Fband of thundery rain crossing
-OL,8,Fnortheast on Monday, cooler. Bright
-OL,9,Fwith the odd shower Tuesday.
+OL,5,COutlook for Monday to Wednesday:FRain,
+OL,6,Foccasionally heavy will spread
+OL,7,Fnortheast for a time on Monday
+OL,8,Ffollowed by drier weather. Chance of
+OL,9,Fshowers on Tuesday followed by a
+OL,10,Fmainly dry day on Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
