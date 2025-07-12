@@ -2,25 +2,24 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1752203859
+OL,0,        ECIMSBWebfax 2   F131A1752283264
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FEarly mist and fog soon burning
-OL,6,Fback to the coasts, with widely clear
-OL,7,Fskies to follow. Plenty of warm or hot
-OL,8,Fsunshine with light winds, though some
-OL,9,Fcloud bubbling up across southern
-OL,10,Fparts in the afternoon. Maximum
-OL,11,FTemperature 30C.
-OL,12,
-OL,13,CTonight:FWarm and muggy with late
-OL,14,Fevening sunshine and clear skies to
-OL,15,Ffollow. Light winds allow some mist
-OL,16,Fand patchy fog to return to rural
-OL,17,Fspots and along the coasts. Minimum
-OL,18,FTemperature 15C.
+OL,5,CThis Evening and Tonight:FWarm and
+OL,6,Fmuggy with late evening sunshine and
+OL,7,Fclear skies to follow. Light winds
+OL,8,Fallow some mist and patchy fog to
+OL,9,Freturn to rural spots and along the
+OL,10,Fcoasts. Minimum Temperature 15C.
+OL,11,
+OL,12,CSaturday:FAnother dry, fine day with
+OL,13,Fwidely clear skies and plenty of
+OL,14,Fstrong sunshine, this turning hazy
+OL,15,Finto the afternoon. Generally light
+OL,16,Fwinds, though a touch breezier along
+OL,17,Fthe coasts. Maximum Temperature 29C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -28,24 +27,17 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1752203859
+OL,0,        ECIMSBWebfax 2   F131A1752283264
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CSaturday:FAnother dry, fine day with
-OL,6,Fwidely clear skies and plenty of
-OL,7,Fstrong sunshine, this turning hazy
-OL,8,Finto the afternoon. Generally light
-OL,9,Fwinds, though a touch breezier along
-OL,10,Fthe coasts. Maximum Temperature 28C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FSlightly
-OL,13,Fcooler on Sunday, though still widely
-OL,14,Fwarm and dry with sunny spells.
-OL,15,FFresher from Monday with cloudier
-OL,16,Fskies bringing scattered showers from
-OL,17,Fthe southwest.
+OL,5,COutlook for Sunday to Tuesday:FSlightly
+OL,6,Fcooler on Sunday, though still widely
+OL,7,Fwarm and dry with sunny spells.
+OL,8,FCloudier and fresher on Monday and
+OL,9,FTuesday with showers and perhaps
+OL,10,Fthunderstorms arriving from the south.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
