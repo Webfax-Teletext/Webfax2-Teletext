@@ -2,25 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1752211076
+OL,0,        ECIMSBWebfax 2   F138A1752286871
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FA dry day with long spells of
-OL,6,Funbroken sunshine, Just a few
-OL,7,Ffairweather clouds bubbling up here
-OL,8,Fand there. Becoming very warm or hot
-OL,9,Ffor most with some refreshing sea
-OL,10,Fbreezes around the coasts. Breezy
-OL,11,Flater over Islay. Maximum Temperature
-OL,12,F27C.
-OL,13,
-OL,14,CTonight:FA very warm sunny evening.
-OL,15,FThen staying dry with clear skies
-OL,16,Fovernight. A very mild to warm night
-OL,17,Fespecially where the breeze holds up
-OL,18,FMinimum Temperature 15C.
+OL,5,CThis Evening and Tonight:FA very warm
+OL,6,Fsunny evening then staying dry with
+OL,7,Fclear skies overnight. It will be a
+OL,8,Fvery mild to warm night, especially
+OL,9,Falong the west coast. Minimum
+OL,10,FTemperature 15C.
+OL,11,
+OL,12,CSaturday:FAnother dry day with little
+OL,13,For no cloud and unbroken sunshine.
+OL,14,FTemperatures rising quickly in the
+OL,15,Fmorning becoming hot or very hot in
+OL,16,Fthe afternoon, some refreshing sea
+OL,17,Fbreezes. Maximum Temperature 30C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -28,23 +27,16 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1752211076
+OL,0,        ECIMSBWebfax 2   F138A1752286871
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CSaturday:FAnother dry day with little
-OL,6,For no cloud and unbroken sunshine.
-OL,7,FTemperatures rising quickly in the
-OL,8,Fmorning becoming hot or very hot in
-OL,9,Fthe afternoon, some refreshing sea
-OL,10,Fbreezes. Maximum Temperature 30C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FANother
-OL,13,Fhot and sunny day on Sunday, Then a
-OL,14,Fband of thundery rain crossing
-OL,15,Fnortheast on Monday, cooler. Bright
-OL,16,Fwith the odd shower Tuesday.
+OL,5,COutlook for Sunday to Tuesday:FAnother
+OL,6,Fhot and sunny day on Sunday, Then a
+OL,7,Fband of thundery rain crossing
+OL,8,Fnortheast on Monday, cooler. Bright
+OL,9,Fwith the odd shower Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
