@@ -2,22 +2,25 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1752405997
+OL,0,        ECIMSBWebfax 2   F135A1752424037
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FAnother dry and hot day with
-OL,6,Fsunny spells although some high cloud
-OL,7,Faround at times. Chance that some haar
-OL,8,Fmay linger along North Sea coasts.
-OL,9,FMaximum Temperature 29C.
-OL,10,
-OL,11,CTonight:FDry with some warm sunshine
-OL,12,Fthis evening. Staying dry for the rest
-OL,13,Fof the night but haar may affect North
-OL,14,FSea coasts. A warm night across the
-OL,15,Fwest. Minimum Temperature 13C.
+OL,5,CThis Evening and Tonight:FDry with
+OL,6,Fsome warm sunshine this evening.
+OL,7,FStaying dry for the rest of the night
+OL,8,Fbut haar may affect North Sea coasts.
+OL,9,FA warm night across the west. Minimum
+OL,10,FTemperature 13C.
+OL,11,
+OL,12,CMonday:FA dry start with some early
+OL,13,Fbrightness. Outbreaks of rain,
+OL,14,Foccasionally heavy will gradually
+OL,15,Fspread north through the afternoon and
+OL,16,Fevening, drier weather following on
+OL,17,Fbehind. Still very warm. Maximum
+OL,18,FTemperature 23C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -25,24 +28,16 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1752405997
+OL,0,        ECIMSBWebfax 2   F135A1752424037
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CMonday:FA dry start with some early
-OL,6,Fbrightness. Outbreaks of rain,
-OL,7,Foccasionally heavy will gradually
-OL,8,Fspread north through the afternoon and
-OL,9,Fevening, drier weather following on
-OL,10,Fbehind. Still very warm. Maximum
-OL,11,FTemperature 23C.
-OL,12,
-OL,13,COutlook for Tuesday to Thursday:FBright
-OL,14,Fspells and scattered showers although
-OL,15,Fthe far north will be mainly dry on
-OL,16,FTuesday. Still quite warm in any
-OL,17,Fsunshine.
+OL,5,COutlook for Tuesday to Thursday:FBright
+OL,6,Fspells and scattered showers although
+OL,7,Fthe far north will be mainly dry on
+OL,8,FTuesday. Still quite warm in any
+OL,9,Fsunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
