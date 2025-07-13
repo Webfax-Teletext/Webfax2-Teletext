@@ -2,23 +2,23 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1752312126
+OL,0,        ECIMSBWebfax 2   F125A1752366304
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FA hot day with early mist and
-OL,6,Ffog quickly burning away, leaving
-OL,7,Fclear skies and lengthy spells of
-OL,8,Fstrong sunshine through the afternoon.
-OL,9,FLight winds. Maximum Temperature 31C.
-OL,10,
-OL,11,CTonight:FStaying dry this evening with
-OL,12,Fplenty of late sunshine. Clear skies
-OL,13,Fand light winds overnight may allow
-OL,14,Fsome patchy mist and fog to form by
-OL,15,Fdawn. Feeling warm and muggy. Minimum
-OL,16,FTemperature 15C.
+OL,5,CThis Evening and Tonight:FStaying dry
+OL,6,Fthis evening with plenty of late
+OL,7,Fsunshine. Clear skies and light winds
+OL,8,Fovernight may allow some patchy mist
+OL,9,Fand fog to form by dawn. Feeling warm
+OL,10,Fand muggy. Minimum Temperature 15C.
+OL,11,
+OL,12,CSunday:FTemperatures a degree or two
+OL,13,Flower on Sunday, though still widely
+OL,14,Fvery warm and dry with sunny spells
+OL,15,Fand light winds. Perhaps more cloud in
+OL,16,Fthe afternoon. Maximum Temperature 29C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -26,23 +26,18 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1752312126
+OL,0,        ECIMSBWebfax 2   F125A1752366304
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CSunday:FTemperatures a degree or two
-OL,6,Flower on Sunday, though still widely
-OL,7,Fvery warm and dry with sunny spells
-OL,8,Fand light winds. Perhaps more cloud in
-OL,9,Fthe afternoon. Maximum Temperature 29C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:
-OL,12,FTurning more changeable next week with
-OL,13,Fshowers at times, these sometimes
-OL,14,Fheavy and thundery. Temperatures
-OL,15,Fbriefly dropping back closer to the
-OL,16,Fseasonal average.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FTurning more changeable with spells of
+OL,7,Frain or showers, these sometimes
+OL,8,Fturning heavy and thundery.
+OL,9,FTemperatures briefly dropping back
+OL,10,Fcloser to the seasonal average by mid-
+OL,11,Fweek.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
