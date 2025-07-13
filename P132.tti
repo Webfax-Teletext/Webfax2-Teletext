@@ -2,22 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1752341021
+OL,0,        ECIMSBWebfax 2   F132A1752405996
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FDry, very
-OL,6,Fwarm and sunny this evening. Then the
-OL,7,Frest of the night will remain dry with
-OL,8,Flengthy clear periods. A warm night in
-OL,9,Fmany places. Minimum Temperature 15C.
-OL,10,
-OL,11,CSunday:FDry, hot and sunny again for
-OL,12,Fmost of the day. Cloudier by evening
-OL,13,Fwith the chance of a few showers.
-OL,14,FCooler along the east coast. Maximum
-OL,15,FTemperature 28C.
+OL,5,CToday:FThis morning will be dry and
+OL,6,Fsunny. This afternoon will be dry with
+OL,7,Fplenty of sunshine, but clouds
+OL,8,Fincreasing later on. Small chance of
+OL,9,Fan afternoon shower across the far
+OL,10,Fwest. Another very warm or hot day.
+OL,11,FMaximum Temperature 28C.
+OL,12,
+OL,13,CTonight:FThis evening will be dry.
+OL,14,FThen the rest of the night will be
+OL,15,Fcloudy with some rain extending
+OL,16,Fnortheast for a time, mainly across
+OL,17,Fthe west. Minimum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -25,17 +27,22 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1752341021
+OL,0,        ECIMSBWebfax 2   F132A1752405996
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FRain,
-OL,6,Foccasionally heavy, moving northeast
-OL,7,Fearly on Monday morning followed by
-OL,8,Fscattered showers. Still a few showers
-OL,9,Fon Tuesday before it becomes drier on
-OL,10,FWednesday. Still quite warm.
+OL,5,CMonday:FA few bright or sunny
+OL,6,Fintervals and scattered showers, these
+OL,7,Fmainly across the west. Not as hot as
+OL,8,Frecently but still warm. Maximum
+OL,9,FTemperature 21C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FRather
+OL,12,Fcloudy with showers or some longer
+OL,13,Fspells of rain on Tuesday. Drier on
+OL,14,FWednesday before further rain or
+OL,15,Fshowers develop on Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
