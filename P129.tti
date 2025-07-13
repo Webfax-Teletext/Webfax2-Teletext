@@ -2,23 +2,26 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1752355454
+OL,0,        ECIMSBWebfax 2   F129A1752369911
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FAnother hot and sunny day for
-OL,6,Fmost after any early low cloud or fog
-OL,7,Fpatches clear. Likely feeling cooler
-OL,8,Ftowards the coast with a fresh onshore
-OL,9,Fbreeze. Maximum Temperature 30C.
-OL,10,
-OL,11,CTonight:FA fine and mild evening with
-OL,12,Fskies staying largely clear. Overnight
-OL,13,Fhowever, low cloud, mist and fog may
-OL,14,Fgradually spread inland across the
-OL,15,Fregion. Gentle easterly breeze.
-OL,16,FMinimum Temperature 16C.
+OL,5,CThis Evening and Tonight:FStaying dry
+OL,6,Fwith some very warm sunshine this
+OL,7,Fevening, especially inland. Low cloud
+OL,8,Fand patchy fog will spread inland
+OL,9,Fovernight, which is likely to affect
+OL,10,Fmuch of the region by dawn. A warm
+OL,11,Fnight, with a light easterly breeze.
+OL,12,FMinimum Temperature 16C.
+OL,13,
+OL,14,CSunday:FEarly low cloud soon
+OL,15,Fretreating back to the coast, where it
+OL,16,Fmay linger all day. Otherwise, dry,
+OL,17,Fsunny and very warm or hot inland.
+OL,18,FCooler along coasts, with onshore
+OL,19,Fbreeze. Maximum Temperature 29C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -26,25 +29,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1752355454
+OL,0,        ECIMSBWebfax 2   F129A1752369911
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CSunday:FOvernight mist and low cloud
-OL,6,Fsoon burning back towards the coasts
-OL,7,Fwhere it will remain notably cooler.
-OL,8,FOtherwise, another very warm or hot
-OL,9,Fday, but cloudier than of late.
-OL,10,FMaximum Temperature 28C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:
-OL,13,FGenerally trending cooler, breezier,
-OL,14,Fand more unsettled. Bands of showery
-OL,15,Frain moving northeast Monday, perhaps
-OL,16,Fheavy at times. Variable cloud Tuesday
-OL,17,Fand Wednesday with showers or longer
-OL,18,Fspells of rain.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FGenerally trending cooler, breezier,
+OL,7,Fand more unsettled. Bands of showery
+OL,8,Frain moving northeast Monday, perhaps
+OL,9,Fheavy at times. Variable cloud Tuesday
+OL,10,Fand Wednesday with showers or longer
+OL,11,Fspells of rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
