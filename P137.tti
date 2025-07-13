@@ -2,23 +2,24 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1752359086
+OL,0,        ECIMSBWebfax 2   F137A1752384345
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CThis Evening and Tonight:FDry, sunny
-OL,6,Fand very warm this evening for most
-OL,7,Fareas. Haar will develop along eastern
-OL,8,Fcoastal areas, but dry and clear
-OL,9,Felsewhere. Warm across parts of the
-OL,10,Fwest. Minimum Temperature 13C.
-OL,11,
-OL,12,CSunday:FAnother dry and sunny day,
-OL,13,Fbecoming hot again inland. Overnight
-OL,14,Fhaar may linger along some coastal
-OL,15,Fdistricts where it will be be cooler.
-OL,16,FMaximum Temperature 27C.
+OL,5,CToday:FOvernight mist burning off this
+OL,6,Fmorning. Otherwise another very warm
+OL,7,For hot day with sunny spells. Chance
+OL,8,Fof an afternoon shower across the
+OL,9,FCairngorms. Haar may linger along the
+OL,10,Feast coast again making it feel rather
+OL,11,Fcool. Maximum Temperature 27C.
+OL,12,
+OL,13,CTonight:FA sunny start this evening
+OL,14,Fbefore low cloud spreads inland. The
+OL,15,Frest of the night will be cloudy with
+OL,16,Fa little drizzle here and there.
+OL,17,FMinimum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -26,17 +27,22 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1752359086
+OL,0,        ECIMSBWebfax 2   F137A1752384345
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FRain,
-OL,6,Foccasionally heavy will spread
-OL,7,Fnortheast for a time later on Monday.
-OL,8,FChance of showers on Tuesday followed
-OL,9,Fby a mainly dry day on Wednesday.
-OL,10,FStill quite warm.
+OL,5,CMonday:FMostly cloudy in the morning,
+OL,6,Fsome brightness in the west. Rain,
+OL,7,Foccasionally heavy, will spread
+OL,8,Fnortheast later in the afternoon and
+OL,9,Fevening. Maximum Temperature 20C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FSunny
+OL,12,Fspells and chance of a few showers on
+OL,13,FTuesday. Scattered showers on
+OL,14,FWednesday and Thursday. Warm in any
+OL,15,Fsunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
