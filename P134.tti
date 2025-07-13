@@ -1,29 +1,45 @@
-PN,13400
-SC,0000
+PN,13401
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F134A1752427647
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F134A1752442086
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThis Evening and Tonight:FA mainly dry
-OL,6,Fevening and night with clear periods.
-OL,7,FHaar and a little drizzle will drift
-OL,8,Fin from the east at times. Light and
-OL,9,Fvariable winds. Minimum Temperature
-OL,10,F13C.
+OL,5,CToday:FA dry day with sunny spells but
+OL,6,Fhaar may come and go through the day,
+OL,7,Fmore especially across eastern areas.
+OL,8,FVery warm in any sunshine across
+OL,9,Fsheltered western areas. Maximum
+OL,10,FTemperature 23C.
 OL,11,
-OL,12,CMonday:FDry with variable amounts of
-OL,13,Fcloud and sunny spells, perhaps some
-OL,14,Fhaar at first and again later on.
-OL,15,FMaximum Temperature 20C.
-OL,16,
-OL,17,COutlook for Tuesday to Thursday:FChance
-OL,18,Fof a few showers on Tuesday then
-OL,19,Fmainly dry on Wednesday and Thursday.
-OL,20,FShetland cloudy Wednesday and Thursday
-OL,21,Fwith haar at times Wednesday.
+OL,12,CTonight:FA mainly dry evening and
+OL,13,Fnight with clear periods. Haar and a
+OL,14,Flittle drizzle will drift in from the
+OL,15,Feast at times. Light and variable
+OL,16,Fwinds. Minimum Temperature 13C.
+OL,17,
+OL,18,CMonday:FDry with variable amounts of
+OL,19,Fcloud and sunny spells, perhaps some
+OL,20,Fhaar at first and again later on.
+OL,21,FMaximum Temperature 20C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,135,120,301,200,000,100
+PN,13402
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F134A1752442086
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GOrkney
+OL,4,
+OL,5,COutlook for Tuesday to Thursday:FDry
+OL,6,Fon Monday with bright spells. Chance
+OL,7,Fof a few showers on Tuesday then
+OL,8,Fmainly dry on Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
