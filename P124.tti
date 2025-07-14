@@ -2,26 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1752452910
+OL,0,        ECIMSBWebfax 2   F124A1752467339
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FTurning
-OL,6,Fincreasingly cloudy and muggy across
-OL,7,Fthe region, with a chance of some
-OL,8,Fshowery outbreaks of rain by the end
-OL,9,Fof the night, most likely over the
-OL,10,FPennines. Light easterly winds.
-OL,11,FMinimum Temperature 15C.
+OL,5,CToday:FEarly low cloud soon retreating
+OL,6,Fback to the coast, where it might
+OL,7,Flinger all day. Otherwise, mostly dry
+OL,8,Fwith warm sunny spells. Chance of an
+OL,9,Fisolated shower later. Fresher along
+OL,10,Fcoasts. Light northeast winds. Maximum
+OL,11,FTemperature 25C.
 OL,12,
-OL,13,CMonday:FA cloudy start with outbreaks
-OL,14,Fof showery rain, these perhaps turning
-OL,15,Fheavy and thundery into the afternoon.
-OL,16,FSome brightness developing however
-OL,17,Fbetween showers in the afternoon.
-OL,18,FFresher conditions arriving overnight.
-OL,19,FMaximum Temperature 21C.
+OL,13,CTonight:FTurning increasingly cloudy
+OL,14,Facross the region, with chance of
+OL,15,Fshowers by the end of the night,
+OL,16,Fmainly over the Pennines. A muggy
+OL,17,Fnight. Light east winds. Minimum
+OL,18,FTemperature 15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,18 +28,25 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1752452910
+OL,0,        ECIMSBWebfax 2   F124A1752467339
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:
-OL,6,FOccasionally unsettled and breezy
-OL,7,Fweather with some rain or showers,
-OL,8,Fwhich could be heavy and thundery.
-OL,9,FSome drier, brighter weather also
-OL,10,Flikely and temperatures near or
-OL,11,Fslightly below normal.
+OL,5,CMonday:FRather cloudy for most with
+OL,6,Fthundery showers likely for the
+OL,7,Fafternoon. Some brightness and feeling
+OL,8,Fwarm by afternoon. Cooler, fresher
+OL,9,Fconditions arriving in evening.
+OL,10,FMaximum Temperature 21C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:
+OL,13,FOccasionally unsettled and breezy
+OL,14,Fweather with some rain or showers,
+OL,15,Fwhich could be heavy and thundery.
+OL,16,FSome drier, brighter weather also
+OL,17,Flikely and temperatures near or
+OL,18,Fslightly below normal.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
