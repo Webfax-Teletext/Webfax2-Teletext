@@ -2,22 +2,24 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F136A1752474555
+OL,0,        ECIMSBWebfax 2   F136A1752499817
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CToday:FAny haar burning back to the
-OL,6,Feast coast this morning. Otherwise a
-OL,7,Fdry, hot and sunny day but some mist
-OL,8,Fmay linger along the coast this
-OL,9,Fafternoon. Maximum Temperature 30C.
-OL,10,
-OL,11,CTonight:FDry, sunny and very warm in
-OL,12,Fmost places this evening. Then dry and
-OL,13,Fclear for many areas, but misty low
-OL,14,Fcloud developing across eastern
-OL,15,Fcoastal areas. Minimum Temperature 13C.
+OL,5,CThis Evening and Tonight:FA sunny
+OL,6,Fstart this evening before low cloud
+OL,7,Fspreads inland. The rest of the night
+OL,8,Fwill be cloudy with a little drizzle
+OL,9,Fhere and there. Minimum Temperature
+OL,10,F14C.
+OL,11,
+OL,12,CMonday:FRain spreading to the south by
+OL,13,Fthe end of the morning. Then a cloudy
+OL,14,Fafternoon with rain, occasionally
+OL,15,Fheavy, spreading northeast across all
+OL,16,Fparts. Drier weather following on.
+OL,17,FMaximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -25,24 +27,16 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F136A1752474555
+OL,0,        ECIMSBWebfax 2   F136A1752499817
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CSunday:FMist and low cloud mostly
-OL,6,Fburning off in the morning, but haar
-OL,7,Fmay linger along some coasts.
-OL,8,FOtherwise dry, sunny and hot again but
-OL,9,Fsomewhat cooler across the east.
-OL,10,FMaximum Temperature 27C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FRain,
-OL,13,Foccasionally heavy will spread
-OL,14,Fnortheast for a time on Monday
-OL,15,Ffollowed by drier weather. Chance of
-OL,16,Fshowers on Tuesday followed by a
-OL,17,Fmainly dry day on Wednesday.
+OL,5,COutlook for Tuesday to Thursday:FSunny
+OL,6,Fspells and chance of a few showers on
+OL,7,FTuesday. Scattered showers on
+OL,8,FWednesday and Thursday. Warm in any
+OL,9,Fsunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
