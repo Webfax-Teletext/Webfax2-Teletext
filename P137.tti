@@ -2,24 +2,23 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1752463735
+OL,0,        ECIMSBWebfax 2   F137A1752478164
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FA mainly cool and cloudy day
-OL,6,Fbut warmer with sunny spells across
-OL,7,FMoray. Outbreaks of rain, heavy in
-OL,8,Fplaces, will move slowly north during
-OL,9,Fthe afternoon but the Moray Coast
-OL,10,Fshould stay dry until evening. Maximum
-OL,11,FTemperature 21C.
-OL,12,
-OL,13,CTonight:FA cloudy evening with
-OL,14,Foutbreaks of rain, heavy and perhaps
-OL,15,Fthundery at times. The rain will clear
-OL,16,Fnorthwards later in the night to leave
-OL,17,Fclear spells. Minimum Temperature 9C.
+OL,5,CThis Evening and Tonight:FA sunny
+OL,6,Fstart this evening before low cloud
+OL,7,Fspreads inland. The rest of the night
+OL,8,Fwill be cloudy with a little drizzle
+OL,9,Fhere and there. Minimum Temperature
+OL,10,F14C.
+OL,11,
+OL,12,CMonday:FMostly cloudy in the morning,
+OL,13,Fsome brightness in the west. Rain,
+OL,14,Foccasionally heavy, will spread
+OL,15,Fnortheast later in the afternoon and
+OL,16,Fevening. Maximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -27,23 +26,16 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1752463735
+OL,0,        ECIMSBWebfax 2   F137A1752478164
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CTuesday:FA mainly dry day with long
-OL,6,Fbright or sunny spells. A chance of a
-OL,7,Ffew showers developing along Deeside.
-OL,8,FFeeling quite warm away from the east
-OL,9,Fcoast. Maximum Temperature 22C.
-OL,10,
-OL,11,COutlook for Wednesday to Friday:FMainly
-OL,12,Fdry with sunny spells on Wednesday and
-OL,13,FThursday but a chance of some haar
-OL,14,Falong the coasts. Sunshine and
-OL,15,Fscattered showers on Friday. Feeling
-OL,16,Fwarm.
+OL,5,COutlook for Tuesday to Thursday:FSunny
+OL,6,Fspells and chance of a few showers on
+OL,7,FTuesday. Scattered showers on
+OL,8,FWednesday and Thursday. Warm in any
+OL,9,Fsunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
