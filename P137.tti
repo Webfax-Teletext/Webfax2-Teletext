@@ -2,25 +2,23 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1752550369
+OL,0,        ECIMSBWebfax 2   F137A1752593677
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FEarly rain in the north quickly
-OL,6,Fclearing, otherwise dry with sunny
-OL,7,Fspells during the morning. Becoming
-OL,8,Fcloudier with scattered showers in the
-OL,9,Fafternoon, mainly in the south.
-OL,10,FFeeling warm inland but cooler near
-OL,11,Feast coast. Maximum Temperature 20C.
-OL,12,
-OL,13,CTonight:FSome evening sunshine over
-OL,14,FMoray, otherwise cloudy with a few
-OL,15,Fshowers. Becoming dry with lengthening
-OL,16,Fclear spells overnight but some patchy
-OL,17,Fmist and fog developing. Minimum
-OL,18,FTemperature 10C.
+OL,5,CThis Evening and Tonight:FSome evening
+OL,6,Fsunshine over North Coast, otherwise
+OL,7,Fcloudy with a few showers. Becoming
+OL,8,Fdry with lengthening clear spells
+OL,9,Fovernight but some patchy mist and fog
+OL,10,Fdeveloping. Minimum Temperature 10C.
+OL,11,
+OL,12,CWednesday:FEarly mist and fog patches
+OL,13,Fsoon clearing then a warm and dry day
+OL,14,Fwith long sunny spells. Some afternoon
+OL,15,Fcloud bubbling up along Deeside.
+OL,16,FMaximum Temperature 23C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -28,22 +26,17 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1752550369
+OL,0,        ECIMSBWebfax 2   F137A1752593677
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CWednesday:FEarly mist and fog patches
-OL,6,Fsoon clearing then a warm and dry day
-OL,7,Fwith long sunny spells. Some afternoon
-OL,8,Fcloud bubbling up along Deeside.
-OL,9,FMaximum Temperature 23C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:
-OL,12,FMainly dry and bright on Thursday but
-OL,13,Fsome rain in the west later. Sunshine
-OL,14,Fand scattered showers on Friday and
-OL,15,FSaturday. Feeling warm.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FMainly dry and bright on Thursday but
+OL,7,Fa few showers later. Sunshine and
+OL,8,Fscattered showers on Friday and
+OL,9,FSaturday, perhaps coastal haar later.
+OL,10,FFeeling warm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
