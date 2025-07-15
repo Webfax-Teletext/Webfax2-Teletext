@@ -2,25 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1752424037
+OL,0,        ECIMSBWebfax 2   F139A1752568412
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FClouding
-OL,6,Fover across Edinburgh, Lothian and
-OL,7,FBorders this evening, remaining cloudy
-OL,8,Fovernight. Clear across the southwest
-OL,9,Fwith evening sunshine but clouding
-OL,10,Fover here later in the night. Minimum
-OL,11,FTemperature 14C.
+OL,5,CToday:FA dry and bright start along
+OL,6,Fthe east coast. Otherwise a rather
+OL,7,Fcloudy day with showers developing,
+OL,8,Fsome of these heavy and merging to
+OL,9,Flonger spells of rain, especially over
+OL,10,FDumfries and Galloway. Maximum
+OL,11,FTemperature 19C.
 OL,12,
-OL,13,CMonday:FOutbreaks of rain,
-OL,14,Foccasionally heavy, will spread
-OL,15,Fnortheast for a time in the morning
-OL,16,Fand early afternoon. Then becoming dry
-OL,17,Fand eventually brighter. Warm. Maximum
-OL,18,FTemperature 20C.
+OL,13,CTonight:FMostly cloudy with a few
+OL,14,Fheavy showers in the evening, but
+OL,15,Fthese slowly dying out. Clear spells
+OL,16,Fovernight but some patchy mist and fog
+OL,17,Fdeveloping. Minimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -28,15 +27,22 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1752424037
+OL,0,        ECIMSBWebfax 2   F139A1752568412
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FSunny
-OL,6,Fspells and showers on Tuesday. Drier
-OL,7,Fon Wednesday then further showers on
-OL,8,FThursday. Warm in any sunshine.
+OL,5,CWednesday:FEarly mist and fog patches
+OL,6,Fsoon clearing then a warm and dry day
+OL,7,Fwith long sunny spells. Cloud bubbling
+OL,8,Fup to give the odd shower in the
+OL,9,Fafternoon. Maximum Temperature 23C.
+OL,10,
+OL,11,COutlook for Thursday to Saturday:
+OL,12,FMainly dry and bright on Thursday but
+OL,13,Fsome rain in the west later. Sunshine
+OL,14,Fand scattered heavy showers on Friday
+OL,15,Fand Saturday. Feeling warm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
