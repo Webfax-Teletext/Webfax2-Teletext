@@ -1,15 +1,15 @@
 PN,23201
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1752470947
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G1/4
+OL,0,        ECIMSBWebfax 2   F232A1752550369
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G1/5
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for TUE 15 JUL
 OL,4,G0400FOwain Wyn Evans
-OL,5,     GWelcome 'Bore Dahlings' to the
-OL,6,     GOwain Wyn Evans show, filled with
-OL,7,     GAirdrum Anthems and your daily
-OL,8,     Gmusings!
+OL,5,     GOwain wants to know what's in
+OL,6,     Gyour house that's survived every
+OL,7,     Gclear-out, even though it's never
+OL,8,     Gbeen used?
 OL,9,G0630FThe Scott Mills Breakfast Show
 OL,10,     GSinger-songwriter Anne-Marie is
 OL,11,     Gin the studio with Scott, to
@@ -29,8 +29,8 @@ FL,233,200,150,300,000,100
 PN,23202
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1752470947
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G2/4
+OL,0,        ECIMSBWebfax 2   F232A1752550369
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G2/5
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for TUE 15 JUL
 OL,4,G1200FJeremy Vine
@@ -56,8 +56,8 @@ FL,233,200,150,300,000,100
 PN,23203
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1752470947
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G3/4
+OL,0,        ECIMSBWebfax 2   F232A1752550369
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G3/5
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for TUE 15 JUL
 OL,4,G1900FJo Whiley's Shiny Happy Playlist
@@ -66,46 +66,61 @@ OL,6,     GPlaylist, 30 minutes of feel-good
 OL,7,     Gmusic from 7-7.30pm to soundtrack
 OL,8,     Glisteners' weekday evening.
 OL,9,G1930FJo Whiley
-OL,10,     GJo handpicks her favourite new
-OL,11,     Gmusic from all genres of the
-OL,12,     Gmusical spectrum and quality
-OL,13,     Gvintage songs too.
-OL,14,G2100FThe Jazz Show with Jamie Cullum
-OL,15,     GUK jazz group Kokoroko play music
-OL,16,     Gfrom new album Tuff Times Never
-OL,17,     GLast live in session at the BBC's
-OL,18,     GMaida Vale studios. Plus, there's
-OL,19,     Gmusic from Ray Charles and
-OL,20,     GShirley Scott.
+OL,10,     GFor the Radio 2 Culture Club, Jo
+OL,11,     Gchats to movie critic James King
+OL,12,     Gabout the films you won't want to
+OL,13,     Gmiss. This week it's all about
+OL,14,     GSuperman, Friendship and Four
+OL,15,     GLetters of Love.
+OL,16,G2100FThe Jazz Show with Jamie Cullum
+OL,17,     GUK jazz group Kokoroko play music
+OL,18,     Gfrom new album Tuff Times Never
+OL,19,     GLast live in session at the BBC's
+OL,20,     GMaida Vale studios. Plus, there's
+OL,21,     Gmusic from Ray Charles and
+OL,22,     GShirley Scott.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
 PN,23204
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F232A1752470947
-OL,1,W{${$~+$ {$~{4k4h7} "s=       G4/4
+OL,0,        ECIMSBWebfax 2   F232A1752550369
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G4/5
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for TUE 15 JUL
 OL,4,G2200FThe Good Groove with DJ Spoony
-OL,5,     GFeel-good dancefloor favourites
-OL,6,     Gto make you groove, and DJ Spoony
-OL,7,     Ghits the decks for a live mix!
-OL,8,G0000FPhil Williams
-OL,9,     GPhil Williams sits in, live
-OL,10,     Gthrough the night live from the
-OL,11,     GSalford Riviera, with a
-OL,12,     GPunderland XI, Midnight
-OL,13,     GMastermind, Wish You Were There
-OL,14,     Gand Shiftfaced.
-OL,15,G0300FPick of the Pops
-OL,16,     GMark Goodier counts down the
-OL,17,     Gchart from this day in 1992.
-OL,18,G0400FOwain Wyn Evans
-OL,19,     GWelcome 'Bore Dahlings' to the
-OL,20,     GOwain Wyn Evans show, filled with
-OL,21,     GAirdrum Anthems and your daily
-OL,22,     Gmusings!
+OL,5,     GFeel-good tunes to make you
+OL,6,     Ggroove! Also, a musician,
+OL,7,     Gcelebrity or listener chooses the
+OL,8,     Gtracks that take them back to the
+OL,9,     Gdancefloors of their youth in
+OL,10,     GRewind Selector.
+OL,11,G0000FPhil Williams
+OL,12,     GPhil Williams sits in, live
+OL,13,     Gthrough the night live from the
+OL,14,     GSalford Riviera, with a
+OL,15,     GPunderland XI, Midnight
+OL,16,     GMastermind, Wish You Were There
+OL,17,     Gand Shiftfaced.
+OL,18,G0300FPick of the Pops
+OL,19,     GMark Goodier counts down the
+OL,20,     Gchart from this day in 1992.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,233,200,150,300,000,100
+PN,23205
+SC,0005
+PS,c000
+OL,0,        ECIMSBWebfax 2   F232A1752550369
+OL,1,W{${$~+$ {$~{4k4h7} "s=       G5/5
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
+OL,3,CProgramme listings for TUE 15 JUL
+OL,4,G0400FOwain Wyn Evans
+OL,5,     GWelcome 'Bore Dahlings' to the
+OL,6,     GOwain Wyn Evans show, filled with
+OL,7,     GAirdrum Anthems and your daily
+OL,8,     Gmusings!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,233,200,150,300,000,100
