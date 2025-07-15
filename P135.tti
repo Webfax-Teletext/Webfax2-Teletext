@@ -2,24 +2,24 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1752564804
+OL,0,        ECIMSBWebfax 2   F135A1752615330
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FA cloudy start with some
-OL,6,Foutbreaks of rain then becoming dry
-OL,7,Fwith sunny spells developing during
-OL,8,Fthe morning. A largely dry and bright
-OL,9,Fafternoon but the odd shower
-OL,10,Fdeveloping in the south. Feeling warm.
-OL,11,FMaximum Temperature 22C.
-OL,12,
-OL,13,CTonight:FSome evening sunshine with
-OL,14,Fany showers in the south dying out.
-OL,15,FLargely dry with clear spells
-OL,16,Fovernight but some patchy mist and fog
-OL,17,Fdeveloping. Minimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FSome evening
+OL,6,Fsunshine for most but cloudier over
+OL,7,FLochaber and Badenoch with the odd
+OL,8,Fshower. Largely dry with clear spells
+OL,9,Fovernight but some patchy mist and fog
+OL,10,Fdeveloping. Minimum Temperature 10C.
+OL,11,
+OL,12,CWednesday:FEarly mist and fog patches
+OL,13,Fsoon clearing then a mostly dry day
+OL,14,Fwith sunny spells. CLoud building in
+OL,15,FLochaber perhaps bringing the odd
+OL,16,Flight shower in the afternoon. Warm.
+OL,17,FMaximum Temperature 23C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -27,23 +27,16 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1752564804
+OL,0,        ECIMSBWebfax 2   F135A1752615330
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CWednesday:FEarly mist and fog patches
-OL,6,Fsoon clearing then a mostly dry day
-OL,7,Fwith warm sunny spells. A chance of
-OL,8,Fthe odd light shower in the afternoon.
-OL,9,FMaximum Temperature 23C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:
-OL,12,FShowers or longer spells of rain
-OL,13,Farriving from the west during Thursday
-OL,14,Fand Friday with best of the sunshine
-OL,15,Fin the east. Sunshine and scattered
-OL,16,Fshowers on Saturday. Feeling warm.
+OL,5,COutlook for Thursday to Saturday:FSunny
+OL,6,Fspells on Thursday then some showers
+OL,7,Ffor a time. Sunshine and isolated
+OL,8,Fshowers on Friday and Saturday.
+OL,9,FStaying warm,
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
