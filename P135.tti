@@ -2,24 +2,24 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1752615330
+OL,0,        ECIMSBWebfax 2   F135A1752636981
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CThis Evening and Tonight:FSome evening
-OL,6,Fsunshine for most but cloudier over
-OL,7,FLochaber and Badenoch with the odd
-OL,8,Fshower. Largely dry with clear spells
-OL,9,Fovernight but some patchy mist and fog
-OL,10,Fdeveloping. Minimum Temperature 10C.
+OL,5,CToday:FEarly mist and fog will soon
+OL,6,Fclear to leave a mostly dry day with
+OL,7,Fwarm sunshine. Cloud will build from
+OL,8,Fthe south from late morning bringing
+OL,9,Fthe chance of an odd shower. Maximum
+OL,10,FTemperature 23C.
 OL,11,
-OL,12,CWednesday:FEarly mist and fog patches
-OL,13,Fsoon clearing then a mostly dry day
-OL,14,Fwith sunny spells. CLoud building in
-OL,15,FLochaber perhaps bringing the odd
-OL,16,Flight shower in the afternoon. Warm.
-OL,17,FMaximum Temperature 23C.
+OL,12,CTonight:FThe evening will be mainly
+OL,13,Fdry, cloudy with the chance of an odd
+OL,14,Fshower south of Sutherland otherwise
+OL,15,Fclear. The cloud will clear from late
+OL,16,Fevening, leaving the night dry.
+OL,17,FMinimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -27,16 +27,21 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1752615330
+OL,0,        ECIMSBWebfax 2   F135A1752636981
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:FSunny
-OL,6,Fspells on Thursday then some showers
-OL,7,Ffor a time. Sunshine and isolated
-OL,8,Fshowers on Friday and Saturday.
-OL,9,FStaying warm,
+OL,5,CThursday:FThe morning will begin sunny
+OL,6,Fand dry. Cloud will soon spread north
+OL,7,Fwith scattered showers following to
+OL,8,FSkye and Lochaber. Maximum Temperature
+OL,9,F24C.
+OL,10,
+OL,11,COutlook for Friday to Sunday:FCloudy
+OL,12,Fand warm with scattered showers, some
+OL,13,Fheavy in the south. Drier and brighter
+OL,14,Fin the north.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
