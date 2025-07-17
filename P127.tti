@@ -2,26 +2,26 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1752735444
+OL,0,        ECIMSBWebfax 2   F127A1752750013
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FDaytime
-OL,6,Fshowers lingering this evening, some
-OL,7,Fwill be heavy and thundery. Becoming
-OL,8,Flargely dry overnight, with isolated
-OL,9,Flight showers. Some low cloud and fog
-OL,10,Fpatches developing by dawn. Winds
-OL,11,Feasing. Feeling fresher. Minimum
-OL,12,FTemperature 13C.
+OL,5,CToday:FDry and largely bright to
+OL,6,Fstart, but cloud cover will soon
+OL,7,Fincrease from the west, bringing
+OL,8,Fdrizzle over The Peak District and a
+OL,9,Ffew isolated showers elsewhere during
+OL,10,Fthe afternoon. Feeling very warm and
+OL,11,Fhumid, with light winds throughout.
+OL,12,FMaximum Temperature 25C.
 OL,13,
-OL,14,CWednesday:FEarly cloud and showers
-OL,15,Fsoon clearing to leave a largely fine
-OL,16,Fand dry day, with sunny spells.
-OL,17,FPerhaps some isolated showers over
-OL,18,Fwestern hills. Warmer and feeling more
-OL,19,Fhumid. Maximum Temperature 25C.
+OL,14,CTonight:FA warm and muggy night is
+OL,15,Fexpected, with light winds, variable
+OL,16,Fcloud cover, and occasional clear
+OL,17,Fspells. There's also a chance of a few
+OL,18,Fshowers at times. Minimum Temperature
+OL,19,F18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -29,18 +29,24 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1752735444
+OL,0,        ECIMSBWebfax 2   F127A1752750013
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FLargely dry with variable cloud, light
-OL,7,Fwinds and sunny spells Thursday.
-OL,8,FUnsettled with showers or
-OL,9,Fthunderstorms Friday and Saturday.
-OL,10,FWarm and humid at first, turning
-OL,11,Fcooler by Saturday.
+OL,5,CFriday:FA warm and humid day with
+OL,6,Fplenty of sunny spells and a risk of
+OL,7,Fshowers developing, some of these
+OL,8,Fheavy and thundery and may continue
+OL,9,Fovernight. Winds generally light.
+OL,10,FMaximum Temperature 29C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:FTurning
+OL,13,Fcooler and more unsettled through this
+OL,14,Fperiod with rain or showers moving
+OL,15,Facross the region which may turn heavy
+OL,16,Fand thundery at times. Winds generally
+OL,17,Flight away from showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
