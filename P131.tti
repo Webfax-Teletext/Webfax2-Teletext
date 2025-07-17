@@ -2,25 +2,26 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1752786098
+OL,0,        ECIMSBWebfax 2   F131A1752793374
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FCloudy start with patchy rain
-OL,6,Fand drizzle across the hills. Brighter
-OL,7,Fspells breaking through during the
-OL,8,Fafternoon as coastal and hill fog
-OL,9,Flifts, though ongoing chance of a
-OL,10,Fshower. Feeling humid. Maximum
-OL,11,FTemperature 26C.
-OL,12,
-OL,13,CTonight:FLargely dry in the east with
-OL,14,Fevening sunshine and clear spells
-OL,15,Fovernight. Cloud returning to the
-OL,16,Fwest, low enough for hill fog, with
-OL,17,Fpatchy light rain. Rather warm and
-OL,18,Fmuggy. Minimum Temperature 16C.
+OL,5,CThis Evening and Tonight:FMainly dry
+OL,6,Fin the east with plenty of evening
+OL,7,Fsunshine and clear spells overnight.
+OL,8,FIncreasingly cloudy in the west, with
+OL,9,Ffog spreading readily across the
+OL,10,FMoors, and patchy light rain arriving
+OL,11,Fby dawn. Feeling warm and muggy.
+OL,12,FMinimum Temperature 16C.
+OL,13,
+OL,14,CFriday:FEarly cloud breaking and
+OL,15,Flifting with sunny spells to follow.
+OL,16,FMostly dry although occasional showers
+OL,17,Fmay pop up through the afternoon.
+OL,18,FBreezy along the coast but warm in the
+OL,19,Fsunshine. Maximum Temperature 26C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -28,24 +29,17 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1752786098
+OL,0,        ECIMSBWebfax 2   F131A1752793374
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CFriday:FEarly cloud breaking and
-OL,6,Flifting with sunny spells developing.
-OL,7,FLargely dry but chance of an isolated
-OL,8,Fshower. Slight breeze along the coast
-OL,9,Fbut feeling warm in the sunshine.
-OL,10,FMaximum Temperature 26C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:
-OL,13,FUnsettled. Showers may be heavy and
-OL,14,Fblustery at times, carrying the risk
-OL,15,Fof thunder and hail. Warm and humid in
-OL,16,Fbrighter periods, but temperatures
-OL,17,Fsuppressed under any persistent rain.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FUnsettled. Showers may be heavy and
+OL,7,Fblustery at times with the risk of
+OL,8,Fthunder, especially on Sunday and
+OL,9,FMonday, though some brighter breaks
+OL,10,Fare possible too. Humid and muggy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
