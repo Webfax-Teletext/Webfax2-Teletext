@@ -2,23 +2,27 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1752833951
+OL,0,        ECIMSBWebfax 2   F126A1752841169
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FA humid
-OL,6,Fnight, with variable cloud amounts and
-OL,7,Fthe possibility of a few showers at
-OL,8,Ftimes. These showers could be heavy
-OL,9,Fand perhaps occasionally thundery.
-OL,10,FMinimum Temperature 14C.
-OL,11,
-OL,12,CFriday:FA warm and humid day with
-OL,13,Fsunny spells and showers, some of
-OL,14,Fthese heavy and thundery especially
-OL,15,Fduring the afternoon. Winds generally
-OL,16,Flight. Maximum Temperature 27C.
+OL,5,CToday:FA warm and humid day with sunny
+OL,6,Fspells and showers, some of these
+OL,7,Fheavy and thundery, particularly
+OL,8,Fduring the afternoon. Cloudier
+OL,9,Fconditions and outbreaks of drizzle
+OL,10,Flikely towards the Pennines during the
+OL,11,Fmorning. Winds generally light away
+OL,12,Ffrom showers. Maximum Temperature 27C.
+OL,13,
+OL,14,CTonight:FA muggy night with showers
+OL,15,Fsoon clearing. Cloud building through
+OL,16,Fthe night with a risk of heavy,
+OL,17,Fthundery showers early Saturday
+OL,18,Fmorning. Low cloud and fog developing
+OL,19,Fnear the coast. Minimum Temperature
+OL,20,F17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -26,17 +30,24 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1752833951
+OL,0,        ECIMSBWebfax 2   F126A1752841169
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Saturday to Monday:FTurning
-OL,6,Fcooler and more unsettled. A prolonged
-OL,7,Fspell of thundery rain is likely on
-OL,8,FSaturday. Then a mixture of sunny
-OL,9,Fspells and rain or thundery showers
-OL,10,FSunday and Monday.
+OL,5,CSaturday:FTurning cooler and more
+OL,6,Funsettled with widespread, often
+OL,7,Fheavy, thundery rain lasting much of
+OL,8,Fthe day. Rain clearing overnight, but
+OL,9,Fturning murky as low cloud and fog
+OL,10,Fdevelop. Maximum Temperature 21C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:
+OL,13,FRemaining unsettled, with a mixture of
+OL,14,Fsunny spells and rain or thundery
+OL,15,Fshowers throughout the period. Feeling
+OL,16,Fwarm at times in any sunny spells,
+OL,17,Fwith light winds away from showers
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
