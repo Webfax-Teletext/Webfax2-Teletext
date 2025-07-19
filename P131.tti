@@ -2,24 +2,24 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1752891706
+OL,0,        ECIMSBWebfax 2   F131A1752898923
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FSome late
-OL,6,Fsunshine for many before skies turn
-OL,7,Fcloudier through the night with sea
-OL,8,Ffog developing along the south coast.
-OL,9,FMainly dry but feeling warm and muggy
-OL,10,Ffor all. Minimum Temperature 13C.
+OL,5,CToday:FA mixture of sunshine and
+OL,6,Fshowers, these heaviest and carrying
+OL,7,Fthe risk of thunderstorms and hail in
+OL,8,Fthe east. Sunny spells further west,
+OL,9,Fbefore rain arrives in the southwest
+OL,10,Flater. Maximum Temperature 23C.
 OL,11,
-OL,12,CSaturday:FA mixture of sunshine and
-OL,13,Fshowers, these heaviest and carrying
-OL,14,Fthe risk of thunderstorms and hail in
-OL,15,Fthe east. Sunny spells further west,
-OL,16,Fbefore rain arrives in the southwest
-OL,17,Flater. Maximum Temperature 23C.
+OL,12,CTonight:FTurning cloudier this evening
+OL,13,Ffrom the west with heavy outbreaks of
+OL,14,Frain pushing northeastwards overnight.
+OL,15,FWinds strengthening, especially around
+OL,16,Fthe coasts and feeling humid. Minimum
+OL,17,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -27,17 +27,23 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1752891706
+OL,0,        ECIMSBWebfax 2   F131A1752898923
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FFurther
-OL,6,Fshowers are expected on Sunday with
-OL,7,Fheavy, thundery downpours. Drier and
-OL,8,Fbrighter from Monday although a few
-OL,9,Fheavy showers are still possible.
-OL,10,FFeeling warm in sunny spells.
+OL,5,CSunday:FUnsettled with further spells
+OL,6,Fof heavy rain and thundery downpours.
+OL,7,FSome brighter and drier interludes
+OL,8,Fpossible and remaining breezy. Maximum
+OL,9,FTemperature 21C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:
+OL,12,FSomewhat drier through the period with
+OL,13,Foccasional bright spells but always
+OL,14,Fthe risk of the odd heavy and longer
+OL,15,Fspells of rain. Feeling warm in the
+OL,16,Fsunshine but often breezy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
