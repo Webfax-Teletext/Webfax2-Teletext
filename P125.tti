@@ -2,25 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1752906141
+OL,0,        ECIMSBWebfax 2   F125A1752963883
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FWidely cloudy with rain
-OL,6,Fcontinuing to spread northwards.
-OL,7,FFrequent torrential downpours and more
-OL,8,Fprolonged periods of rain bring the
-OL,9,Frisk of thunderstorms and hail.
-OL,10,FTemperatures suppressed beneath the
-OL,11,Fcloud. Maximum Temperature 23C.
+OL,5,CThis Evening and Tonight:FHeavy rain
+OL,6,Fand isolated thunderstorms clearing
+OL,7,Fduring Saturday evening to leave some
+OL,8,Fclear spells for a time. Cloud
+OL,9,Fbuilding again overnight but remaining
+OL,10,Fmostly dry. Rather warm and muggy.
+OL,11,FMinimum Temperature 15C.
 OL,12,
-OL,13,CTonight:FHeavy showers and
-OL,14,Fthunderstorms continuing to spread
-OL,15,Fnorthwards, easing into the night to
-OL,16,Fleave largely cloudy skies by dawn.
-OL,17,FStill feeling humid overnight. Minimum
-OL,18,FTemperature 14C.
+OL,13,CSunday:FA cloudy but dry start with
+OL,14,Fheavy, thundery showers developing
+OL,15,Fduring the day, merging to give longer
+OL,16,Fspells of rain at times. Some brighter
+OL,17,Finterludes possible and turning
+OL,18,Fbreezier. Maximum Temperature 23C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,25 +28,18 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1752906141
+OL,0,        ECIMSBWebfax 2   F125A1752963883
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CSunday:FA cloudy but dry start with
-OL,6,Fheavy, thundery showers developing
-OL,7,Finto the afternoon, merging to give
-OL,8,Flonger spells of rain at times. Some
-OL,9,Fbrighter interludes possible and
-OL,10,Fturning breezy. Maximum Temperature
-OL,11,F23C.
-OL,12,
-OL,13,COutlook for Monday to Wednesday:
-OL,14,FRemaining largely unsettled with
-OL,15,Foutbreaks of rain, or heavy, thundery
-OL,16,Fdownpours through the week. Warm in
-OL,17,Fany sunny spells that do develop and
-OL,18,Foften breezy.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FFurther thundery showers possible on
+OL,7,FMonday. Staying changeable into the
+OL,8,Fweek with drier and brighter periods
+OL,9,Finterspersed by showers. Warm in any
+OL,10,Fsunny spells that do develop and often
+OL,11,Fbreezy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
