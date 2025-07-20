@@ -2,26 +2,25 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1753021624
+OL,0,        ECIMSBWebfax 2   F137A1753028842
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FOutbreaks of occasionally heavy
-OL,6,Frain in the morning. Rain breaks up to
-OL,7,Foccasionally heavy showers early
-OL,8,Fafternoon. Showers move east later in
-OL,9,Fthe afternoon with eastern parts
-OL,10,Fbecoming dry. Low cloud, mist and haar
-OL,11,Falong the coast. Maximum Temperature
-OL,12,F21C.
-OL,13,
-OL,14,CTonight:FShowers in the west clear to
-OL,15,Fleave a mostly dry evening and start
-OL,16,Fto the night, but haar affecting
-OL,17,Feastern Aberdeenshire. Outbreaks of
-OL,18,Frain across Aberdeenshire later in the
-OL,19,Fnight. Minimum Temperature 14C.
+OL,5,CThis Evening and Tonight:FShowers in
+OL,6,Fthe west clear to leave a mostly dry
+OL,7,Fevening and start to the night, but
+OL,8,Fhaar affecting eastern Aberdeenshire.
+OL,9,FOutbreaks of rain spreading north
+OL,10,Flater in the night. Minimum
+OL,11,FTemperature 14C.
+OL,12,
+OL,13,CMonday:FCloudy in the morning with
+OL,14,Fsome rain, occasionally heavy. Staying
+OL,15,Fmostly cloudy in the afternoon with a
+OL,16,Fchance of heavy showers, mainly in the
+OL,17,Fwest. Warm in any brightness. Maximum
+OL,18,FTemperature 21C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -29,24 +28,18 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F137A1753021624
+OL,0,        ECIMSBWebfax 2   F137A1753028842
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CMonday:FOutbreaks of rain with some
-OL,6,Fheavy bursts and low cloud and haar
-OL,7,Falong the east coast. Rain turning
-OL,8,Fmore showery in the afternoon. Maximum
-OL,9,FTemperature 21C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:
-OL,12,FRemaining unsettled on Tuesday and
-OL,13,FWednesday with further showers,
-OL,14,Falthough likely to be less heavy than
-OL,15,Fprevious days. Some drier more settled
-OL,16,Fweather on Thursday and feeling less
-OL,17,Fhumid.
+OL,5,COutlook for Tuesday to Thursday:
+OL,6,FRemaining unsettled on Tuesday and
+OL,7,FWednesday with further showers,
+OL,8,Falthough likely to be less heavy than
+OL,9,Fprevious days. Some drier more settled
+OL,10,Fweather on Thursday and feeling less
+OL,11,Fhumid.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
