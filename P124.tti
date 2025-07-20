@@ -2,28 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1752971101
+OL,0,        ECIMSBWebfax 2   F124A1752989143
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Fevening with showers, perhaps heavy
-OL,7,Fand thundery, and merging to give more
-OL,8,Fpersistent rain in places. Rain
-OL,9,Fgradually easing from the south
-OL,10,Fovernight, with most parts dry by
-OL,11,Fdawn. Staying cloudy with some coastal
-OL,12,Fmist and hill fog developing. Minimum
-OL,13,FTemperature 15C.
-OL,14,
-OL,15,CSunday:FLargely dry start with some
-OL,16,Fbrighter periods, perhaps the odd
-OL,17,Fglimpse of sunshine. Scattered showers
-OL,18,Fthen developing, heavy and thundery at
-OL,19,Ftimes, and spreading northwest. Some
-OL,20,Fparts staying dry throughout. Maximum
-OL,21,FTemperature 24C.
+OL,5,CToday:FLargely dry start away from the
+OL,6,Ffar northeast, where it will soon
+OL,7,Fbecome dry, with some brighter
+OL,8,Fperiods. Scattered showers then
+OL,9,Fdeveloping, heavy and thundery at
+OL,10,Ftimes. Some parts may stay dry
+OL,11,Fthroughout. Maximum Temperature 23C.
+OL,12,
+OL,13,CTonight:FShowers will ease this
+OL,14,Fevening but will be followed by a band
+OL,15,Fof rain moving northwest. This clears
+OL,16,Fafter midnight, leaving plenty of low
+OL,17,Fcloud with isolated showers. Minimum
+OL,18,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -31,17 +28,23 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1752971101
+OL,0,        ECIMSBWebfax 2   F124A1752989143
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FA
-OL,6,Fmixture of drier periods with sunny
-OL,7,Fspells but also scattered showers or
-OL,8,Fspells of lighter rain. Showers will
-OL,9,Fbe heavy, thundery and slow-moving at
-OL,10,Ftimes, mainly Monday and Wednesday.
+OL,5,CMonday:FA day of sunny spells mixed
+OL,6,Fwith scattered showers, these heavy
+OL,7,Fand thundery at times. Further rain
+OL,8,Flikely overnight. Maximum Temperature
+OL,9,F22C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FA
+OL,12,Fmixture of drier periods with sunny
+OL,13,Fspells but also scattered showers or
+OL,14,Fspells of rain. There is a risk
+OL,15,Fshowers could be heavy, thundery and
+OL,16,Fslow-moving at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
