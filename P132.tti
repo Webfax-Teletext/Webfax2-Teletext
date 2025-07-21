@@ -2,24 +2,23 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1753093798
+OL,0,        ECIMSBWebfax 2   F132A1753111866
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FHeavy rain in the east will
-OL,6,Fease through the morning and spread
-OL,7,Fwest to give a generally dull damp day
-OL,8,Fwith patchy rain. Some heavier
-OL,9,Foutbreaks are likely across the north
-OL,10,Ftowards the end of the day. Maximum
-OL,11,FTemperature 19C.
-OL,12,
-OL,13,CTonight:FA generally cloudy evening
-OL,14,Fand night with patchy light rain, but
-OL,15,Fturning drier towards the end of the
-OL,16,Fnight with perhaps the odd clear spell
-OL,17,Fin the west. Minimum Temperature 11C.
+OL,5,CThis Evening and Tonight:FA generally
+OL,6,Fcloudy evening and night with patchy
+OL,7,Flight rain, but turning drier towards
+OL,8,Fthe end of the night with perhaps the
+OL,9,Fodd clear spell in the west. Minimum
+OL,10,FTemperature 11C.
+OL,11,
+OL,12,CTuesday:FA mostly dry morning and
+OL,13,Frather cloudy but some bright or sunny
+OL,14,Fspells developing. Scattered mainly
+OL,15,Flight showers in the afternoon.
+OL,16,FMaximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,22 +26,16 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1753093798
+OL,0,        ECIMSBWebfax 2   F132A1753111866
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CTuesday:FA mostly dry morning, rather
-OL,6,Fcloudy but some bright or sunny
-OL,7,Fspells. Scattered mainly light showers
-OL,8,Fin the afternoon. Maximum Temperature
-OL,9,F20C.
-OL,10,
-OL,11,COutlook for Wednesday to Friday:FA few
-OL,12,Flight showers or patchy spells of
-OL,13,Frain, mainly on Wednesday and Friday,
-OL,14,Fbut generally a lot drier and less
-OL,15,Fmuggy than recent days.
+OL,5,COutlook for Wednesday to Friday:FA few
+OL,6,Flight showers or patchy spells of
+OL,7,Frain, mainly on Wednesday and Friday,
+OL,8,Fbut generally a lot drier and less
+OL,9,Fmuggy than recent days.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
