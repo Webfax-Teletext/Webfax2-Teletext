@@ -2,26 +2,27 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1753036060
+OL,0,        ECIMSBWebfax 2   F129A1753079364
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FAny
-OL,6,Flingering daytime showers gradually
-OL,7,Fdying out to leave evening sunny
-OL,8,Fspells. Further heavy, perhaps
-OL,9,Fthundery showers then arrive from the
-OL,10,Fsouth during the early hours of Monday
-OL,11,Fmorning. Winds generally light away
-OL,12,Ffrom showers. Minimum Temperature 12C.
-OL,13,
-OL,14,CMonday:FA mostly cloudy day with
-OL,15,Fscattered showers developing across
-OL,16,Fthe region, some of which may be heavy
-OL,17,Fwith a risk of thunder. Showers will
-OL,18,Fgradually fade into the evening.
-OL,19,FMaximum Temperature 23C.
+OL,5,CToday:FA rather cloudy start,
+OL,6,Fparticularly in eastern areas, with
+OL,7,Fcloud gradually breaking to allow
+OL,8,Fsunny spells and scattered showers.
+OL,9,FSome of the showers will become heavy,
+OL,10,Fslow-moving and locally thundery,
+OL,11,Fespecially during the afternoon. Light
+OL,12,Fwinds throughout. Maximum Temperature
+OL,13,F24C.
+OL,14,
+OL,15,CTonight:FShowers will gradually ease
+OL,16,Fthrough the evening, leading to a dry
+OL,17,Fand mostly clear night. Some cloud may
+OL,18,Fbuild in the west around dawn, but it
+OL,19,Fshould remain dry. Minimum Temperature
+OL,20,F14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -29,17 +30,25 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F129A1753036060
+OL,0,        ECIMSBWebfax 2   F129A1753079364
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FA
-OL,6,Fmixture of drier periods with sunny
-OL,7,Fspells but also scattered showers or
-OL,8,Fspells of rain. There is a risk
-OL,9,Fshowers could be heavy, thundery and
-OL,10,Fslow-moving at times.
+OL,5,CTuesday:FLargely sunny initially but
+OL,6,Fcloud will quickly spread eastwards,
+OL,7,Fbreaking into bright intervals and
+OL,8,Fscattered showers. Some of these
+OL,9,Fshowers may turn heavy and locally
+OL,10,Fthundery. Warm in East Anglia. Maximum
+OL,11,FTemperature 25C.
+OL,12,
+OL,13,COutlook for Wednesday to Friday:FSunny
+OL,14,Fspells and scattered showers on
+OL,15,FWednesday and Thursday, locally heavy
+OL,16,Fand thundery. Feeling pleasantly warm
+OL,17,Fin the sunshine. Dry, largely sunny
+OL,18,Fand potentially very warm on Friday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
