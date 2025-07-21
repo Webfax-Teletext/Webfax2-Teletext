@@ -2,25 +2,28 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1753079364
+OL,0,        ECIMSBWebfax 2   F126A1753129955
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CToday:FA bright or sunny start, with
-OL,6,Fcloud building into sunny intervals
-OL,7,Fand scattered showers. Some of the
-OL,8,Fshowers will become heavy, slow-moving
-OL,9,Fand locally thundery, especially
-OL,10,Fduring the afternoon. Light winds
-OL,11,Fthroughout. Maximum Temperature 24C.
-OL,12,
-OL,13,CTonight:FShowers will gradually fade
-OL,14,Fduring the evening, leaving a dry and
-OL,15,Fmostly clear night. Cloud will however
-OL,16,Fincrease in the west around dawn,
-OL,17,Fbringing occasional patchy light rain
-OL,18,Fover hills. Minimum Temperature 13C.
+OL,5,CThis Evening and Tonight:FHeavy and
+OL,6,Flocally thundery showers should
+OL,7,Fgradually ease, leaving a drier second
+OL,8,Fhalf of the night with clear periods
+OL,9,Fand isolated fog patches. Becoming
+OL,10,Fcloudier from the west around dawn,
+OL,11,Fwith the odd spot of rain possible
+OL,12,Fhere. Light winds. Minimum Temperature
+OL,13,F10C.
+OL,14,
+OL,15,CTuesday:FOn the cloudy side overall.
+OL,16,FBrightest in the east initially, with
+OL,17,Fwestern parts cloudier with patchy
+OL,18,Frain. Showery conditions then
+OL,19,Fspreading westwards later, perhaps
+OL,20,Fbecoming prolonged and thundery in
+OL,21,Fplaces. Maximum Temperature 23C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -28,26 +31,18 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1753079364
+OL,0,        ECIMSBWebfax 2   F126A1753129955
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CTuesday:FLargely sunny initially but
-OL,6,Fcloud will quickly spread eastwards,
-OL,7,Fbreaking into bright intervals and
-OL,8,Fscattered showers. Some of these
-OL,9,Fshowers may turn heavy and locally
-OL,10,Fthundery. Cooler for most. Maximum
-OL,11,FTemperature 22C.
-OL,12,
-OL,13,COutlook for Wednesday to Friday:FFewer
-OL,14,Fshowers on Wednesday and Thursday,
-OL,15,Fthough some may still be heavy.
-OL,16,FFeeling pleasantly warm in the
-OL,17,Fsunshine. Cloudier on Friday, with a
-OL,18,Fchance of light rain over western
-OL,19,Fhills.
+OL,5,COutlook for Wednesday to Friday:FCloudy
+OL,6,Fwith some rain or showers midweek,
+OL,7,Fperhaps locally heavy. Thursday
+OL,8,Fbecoming drier, gradually brightening
+OL,9,Fup from the west. Cloudier Friday,
+OL,10,Fperhaps with a little rain later.
+OL,11,FTemperatures rising slightly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
