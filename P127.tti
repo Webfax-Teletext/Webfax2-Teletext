@@ -2,28 +2,25 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1753111866
+OL,0,        ECIMSBWebfax 2   F127A1753162458
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FHeavy,
-OL,6,Flocally thundery showers in the east
-OL,7,Fshould gradually ease. Becoming
-OL,8,Fcloudier from the west meanwhile, with
-OL,9,Fa little rain possible here. Turning
-OL,10,Fdrier for many later, with isolated
-OL,11,Ffog patches, although occasional rain
-OL,12,Fremains possible in the far west.
-OL,13,FMinimum Temperature 11C.
-OL,14,
-OL,15,CTuesday:FOn the cloudy side. Brightest
-OL,16,Fin the east initially, with western
-OL,17,Fparts cloudier with patchy rain.
-OL,18,FShowery conditions developing more
-OL,19,Fwidely later, with some sunny
-OL,20,Fintervals but also sharp showers.
-OL,21,FMaximum Temperature 23C.
+OL,5,CToday:FBright and dry at first but
+OL,6,Fincreasingly cloudy with sporadic rain
+OL,7,Fin the west. The rain will gradually
+OL,8,Fedge east during the day, turning into
+OL,9,Flight showers although some may turn
+OL,10,Fheavy and perhaps thundery later in
+OL,11,Fthe afternoon. Maximum Temperature 22C.
+OL,12,
+OL,13,CTonight:FAny remaining showers will
+OL,14,Fsoon taper off, leaving mostly cloudy
+OL,15,Fskies with occasional breaks. A dry
+OL,16,Fnight overall although the odd light
+OL,17,Fshower cannot be completely ruled out.
+OL,18,FMinimum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -31,19 +28,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1753111866
+OL,0,        ECIMSBWebfax 2   F127A1753162458
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FCloudy
-OL,6,Fwith some rain or showers midweek,
-OL,7,Fperhaps locally heavy. Thursday
-OL,8,Fstarting similar, but perhaps
-OL,9,Fimproving later from the northwest.
-OL,10,FMainly fine on Friday, with
-OL,11,Ftemperatures rising. Mainly light
-OL,12,Fwinds.
+OL,5,CWednesday:FDry and bright, perhaps
+OL,6,Flocally sunny initially. The cloud
+OL,7,Fwill however build, bringing an
+OL,8,Fincreasing chance of showers in the
+OL,9,Fafternoon. Some of these may turn
+OL,10,Fheavy later. Maximum Temperature 23C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FCloudy with rain or showers on
+OL,14,FThursday, gradually brightening up
+OL,15,Ffrom the north. Fine and dry Friday
+OL,16,Fand Saturday, with fair weather cloud
+OL,17,Fand sunny spells. Temperatures
+OL,18,Fslightly rising.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
