@@ -2,28 +2,25 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1753223808
+OL,0,        ECIMSBWebfax 2   F131A1753259894
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly
-OL,6,Fcloudy this evening with the chance of
-OL,7,Fa shower in places. Heavier and more
-OL,8,Ffrequent showers arriving in Cornwall
-OL,9,Fand these edging east overnight,
-OL,10,Fcarrying the risk of thunder. Some
-OL,11,Fplaces, especially in eastern
-OL,12,Fcounties, staying dry. Remaining mild.
-OL,13,FMinimum Temperature 14C.
-OL,14,
-OL,15,CWednesday:FHeavy showers for some,
-OL,16,Fespecially in the south, with
-OL,17,Fthunderstorms possible. Showers
-OL,18,Fprobably easing later in the afternoon
-OL,19,Fwith plenty of evening sunshine in
-OL,20,Fmost places. Feeling a bit warmer.
-OL,21,FMaximum Temperature 23C.
+OL,5,CToday:FHeavy showers for some,
+OL,6,Fespecially in the south, with
+OL,7,Fthunderstorms possible. Showers
+OL,8,Fprobably easing later in the afternoon
+OL,9,Fwith plenty of evening sunshine in
+OL,10,Fmost places. Feeling a bit warmer.
+OL,11,FMaximum Temperature 23C.
+OL,12,
+OL,13,CTonight:FIsolated showers may continue
+OL,14,Fthis evening and overnight but most
+OL,15,Fplaces becoming dry with clear
+OL,16,Fperiods. A cooler night than of late
+OL,17,Fwith a few fog patches in the
+OL,18,Fcountryside. Minimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -31,17 +28,24 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1753223808
+OL,0,        ECIMSBWebfax 2   F131A1753259894
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FLargely fine through this period with
-OL,7,Fa mixture of cloud and warm sunshine.
-OL,8,FProbably turning damp and murky in
-OL,9,FCornwall and west Devon on Friday with
-OL,10,Foccasional drizzle.
+OL,5,CThursday:FA generally dry day and
+OL,6,Fwhilst the odd light shower is
+OL,7,Fpossible, the vast majority will stay
+OL,8,Fdry with a mixture of cloud and
+OL,9,Fperiods of sunshine. Feeling warm.
+OL,10,FMaximum Temperature 25C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FProbably
+OL,13,Fturning damp and murky in Cornwall and
+OL,14,Fwest Devon on Friday with occasional
+OL,15,Fdrizzle. Otherwise fine on Friday and
+OL,16,FSaturday with some warm sunshine. Rain
+OL,17,For showers on Sunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
