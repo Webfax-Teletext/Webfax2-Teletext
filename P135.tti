@@ -1,29 +1,46 @@
-PN,13500
-SC,0000
+PN,13501
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F135A1753311371
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F135A1753325809
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly dry
-OL,6,Fthis evening. The rest of the night
-OL,7,Fwill be mostly cloudy with a lot of
-OL,8,Fdry weather, the odd patch of light
-OL,9,Frain in the north. Minimum Temperature
-OL,10,F14C.
+OL,5,CToday:FA mainly dry day although with
+OL,6,Fa good deal of cloud. Some bright or
+OL,7,Fsunny intervals breaking through at
+OL,8,Ftimes. A little light rain or drizzle
+OL,9,Falong the west coast. Warm in any
+OL,10,Fsunshine. Maximum Temperature 19C.
 OL,11,
-OL,12,CThursday:FA mostly dry and cloudy day
-OL,13,Fbut some bright or sunny spells
-OL,14,Fbreaking through by the afternoon.
-OL,15,FMaximum Temperature 21C.
-OL,16,
-OL,17,COutlook for Friday to Sunday:FA little
-OL,18,Fearly rain across the west on Friday
-OL,19,Fotherwise dry. A few showers over the
-OL,20,Fweekend, these mainly across the north
-OL,21,Fand west, otherwise dry.
+OL,12,CTonight:FMainly dry this evening. The
+OL,13,Frest of the night will be mostly
+OL,14,Fcloudy with a lot of dry weather, the
+OL,15,Fodd patch of light rain in the north.
+OL,16,FMinimum Temperature 14C.
+OL,17,
+OL,18,CThursday:FA mostly dry and cloudy day
+OL,19,Fbut some bright or sunny spells
+OL,20,Fbreaking through by the afternoon.
+OL,21,FMaximum Temperature 21C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,136,120,301,200,000,100
+PN,13502
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F135A1753325809
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GHighlands
+OL,4,
+OL,5,COutlook for Friday to Sunday:FA little
+OL,6,Fearly rain across the west on Friday
+OL,7,Fotherwise dry. A few showers over the
+OL,8,Fweekend, these mainly across the north
+OL,9,Fand west, otherwise dry.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
