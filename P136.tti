@@ -1,28 +1,45 @@
-PN,13600
-SC,0000
+PN,13601
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F136A1753307759
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F136A1753358284
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry. Then the rest of the
-OL,7,Fnight will be dry with variable
-OL,8,Famounts of cloud and some clear
-OL,9,Fperiods. Light winds. Minimum
-OL,10,FTemperature 13C.
+OL,5,CToday:FChance of a light shower across
+OL,6,Fthe east at first this morning.
+OL,7,FOtherwise it will be a dry and rather
+OL,8,Fcloudy day with a few bright or sunny
+OL,9,Fintervals. Warm in any sunshine.
+OL,10,FMaximum Temperature 20C.
 OL,11,
-OL,12,CThursday:FDry and often cloudy, some
-OL,13,Fbright or sunny spells breaking
-OL,14,Fthrough in the afternoon. Warm in any
-OL,15,Fsunshine. Maximum Temperature 21C.
-OL,16,
-OL,17,COutlook for Friday to Sunday:FDry on
-OL,18,FFriday with some bright spells.
-OL,19,FStaying dry over the weekend with some
-OL,20,Fsunny periods.
+OL,12,CTonight:FThis evening will be dry.
+OL,13,FThen the rest of the night will be dry
+OL,14,Fwith variable amounts of cloud and
+OL,15,Fsome clear periods. Light winds.
+OL,16,FMinimum Temperature 13C.
+OL,17,
+OL,18,CThursday:FDry and often cloudy, some
+OL,19,Fbright or sunny spells breaking
+OL,20,Fthrough in the afternoon. Warm in any
+OL,21,Fsunshine. Maximum Temperature 21C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,137,120,301,200,000,100
+PN,13602
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F136A1753358284
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GTayside
+OL,4,
+OL,5,COutlook for Friday to Sunday:FDry on
+OL,6,FFriday with some bright spells.
+OL,7,FStaying dry over the weekend with some
+OL,8,Fsunny periods.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
