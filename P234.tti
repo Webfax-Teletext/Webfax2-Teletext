@@ -1,7 +1,7 @@
 PN,23401
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -30,7 +30,7 @@ FL,235,200,150,300,000,100
 PN,23402
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -41,24 +41,25 @@ OL,7,     Gthe power of night-time
 OL,8,     Gstorytelling.
 OL,9,G1200FNews Summary
 OL,10,G1204FThe Bottom Line
-OL,11,     GEvan Davis hosts the business
-OL,12,     Gconversation show with people at
-OL,13,     Gthe top giving insight into what
-OL,14,     Gmatters.
-OL,15,G1232FSliced Bread
-OL,16,     GGreg Foot investigates the so-
-OL,17,     Gcalled wonder products making
-OL,18,     Gbold claims. Are they the best
-OL,19,     Gthing since sliced bread or
-OL,20,     Gmarketing BS?
-OL,21,G1257FWeather Forecast
+OL,11,     GWhat were the standout successes
+OL,12,     Gand costliest catastrophes of the
+OL,13,     Glast 12 months? Evan Davis and
+OL,14,     Gsome expert judges hand out our
+OL,15,     Gannual awards.
+OL,16,G1232FSliced Bread
+OL,17,     GGreg Foot investigates the so-
+OL,18,     Gcalled wonder products making
+OL,19,     Gbold claims. Are they the best
+OL,20,     Gthing since sliced bread or
+OL,21,     Gmarketing BS?
+OL,22,G1257FWeather Forecast
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23403
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G3/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -82,7 +83,7 @@ FL,235,200,150,300,000,100
 PN,23404
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G4/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -110,7 +111,7 @@ FL,235,200,150,300,000,100
 PN,23405
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G5/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -139,7 +140,7 @@ FL,235,200,150,300,000,100
 PN,23406
 SC,0006
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G6/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -164,7 +165,7 @@ FL,235,200,150,300,000,100
 PN,23407
 SC,0007
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G7/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -176,22 +177,24 @@ OL,8,     Gphilosophy as we know it - who
 OL,9,     Gasks us to consider what's really
 OL,10,     Gimportant in life.
 OL,11,G2015FThe Media Show
-OL,12,     GSocial media, anti-social media,
-OL,13,     Gbreaking news, faking news: this
-OL,14,     Gis the programme about a
-OL,15,     Grevolution in media.
-OL,16,G2100FLoose Ends
-OL,17,     GSimon Armitage, Ria Lina and
-OL,18,     GPaula Hawkins join Stuart Maconie
-OL,19,     Gat the Durham Brass Festival,
-OL,20,     Gwith music by Bill Ryder Jones.
+OL,12,     GHow are the protests outside a
+OL,13,     Gmigrant hotel in Epping being
+OL,14,     Greported, Vatican influencer
+OL,15,     Gconference, Ofcom report says the
+OL,16,     GBBC and similar media could
+OL,17,     Gbecome "endangered species".
+OL,18,G2100FLoose Ends
+OL,19,     GSimon Armitage, Ria Lina and
+OL,20,     GPaula Hawkins join Stuart Maconie
+OL,21,     Gat the Durham Brass Festival,
+OL,22,     Gwith music by Bill Ryder Jones.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23408
 SC,0008
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G8/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -210,15 +213,17 @@ OL,15,     Ghappening between the master
 OL,16,     Gbuilder, Roger Mason, and Goody
 OL,17,     GPangall.
 OL,18,G2300FRadical with Amol Rajan
-OL,19,     GConversations about tomorrow,
-OL,20,     Gfrom Today.
+OL,19,     GSerious pollution incidents by
+OL,20,     Gwater companies rose last year
+OL,21,     Gbut the best-selling author says
+OL,22,     Gthere is a way to save our rivers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23409
 SC,0009
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G9/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
@@ -241,7 +246,7 @@ FL,235,200,150,300,000,100
 PN,23410
 SC,0010
 PS,c000
-OL,0,        ECIMSBWebfax 2   F234A1753304120
+OL,0,        ECIMSBWebfax 2   F234A1753333027
 OL,1,W{${$~+$ {$~{4k4h7} *u|      G10/10
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for THU 24 JUL
