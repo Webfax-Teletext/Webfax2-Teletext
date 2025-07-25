@@ -2,24 +2,24 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1753394359
+OL,0,        ECIMSBWebfax 2   F124A1753448476
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FAny showers
-OL,6,Ffading this evening to leave a largely
-OL,7,Fdry night, with variable amounts of
-OL,8,Fcloud and occasional clear spells.
-OL,9,FGenerally a mild night, with light
-OL,10,Fwinds. Minimum Temperature 10C.
-OL,11,
-OL,12,CThursday:FA largely dry day with
-OL,13,Fvariable amounts of cloud and warm
-OL,14,Fsunny spells. However, a few isolated
-OL,15,Fshowers may develop, especially across
-OL,16,Fthe Pennines during the afternoon.
-OL,17,FLight winds. Maximum Temperature 22C.
+OL,5,CToday:FLargely dry with bright or
+OL,6,Fsunny spells. However, a band of cloud
+OL,7,Fwith some outbreaks of light rain and
+OL,8,Fdrizzle will slowly edge
+OL,9,Fsoutheastwards, mainly affecting the
+OL,10,FPennines. Feeling warm. Maximum
+OL,11,FTemperature 22C.
+OL,12,
+OL,13,CTonight:FAny rain and drizzle soon
+OL,14,Feasing and cloud breaking allowing
+OL,15,Flengthy clear spells to develop. Light
+OL,16,Fwinds, feeling cool overnight. Minimum
+OL,17,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -27,17 +27,24 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F124A1753394359
+OL,0,        ECIMSBWebfax 2   F124A1753448476
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Friday to Sunday:FFriday
-OL,6,Fand Saturday dry and fine with sunny
-OL,7,Fspells. Sunday most likely bright or
-OL,8,Fsunny spells and a chance of showers,
-OL,9,Falthough confidence is low. Generally
-OL,10,Fwarm or rather warm.
+OL,5,CSaturday:FSaturday, mostly dry with
+OL,6,Fsunny spells and isolated afternoon
+OL,7,Fshowers, perhaps heavy at times.
+OL,8,FShowers easing during the evening but
+OL,9,Freturning overnight. Maximum
+OL,10,FTemperature 19C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FSunday,
+OL,13,Fperhaps more in the way of showers.
+OL,14,FMonday, mostly cloudy, afternoon
+OL,15,Fshowers and rain and drizzle later.
+OL,16,FTuesday, breezy with further rain.
+OL,17,FGenerally warm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
