@@ -1,15 +1,49 @@
-PN,27800
-SC,0000
-PS,8000
-OL,0,        ECIMSBWebfax 2   F278A1753405182
-OL,1,W{${$~+$ w1u5w1w1w15w15 kk
+PN,27801
+SC,0001
+PS,c000
+OL,0,        ECIMSBWebfax 2   F278A1753419611
+OL,1,W{${$~+$ w1u5w1w1w15w15 kk       G1/2
 OL,2,W/.!/.!+.! ,%%%-$% % %-$-$..V(,,,,,,,,,,
-OL,3,CProgramme listings for THU 24 JUL
-OL,4,G0100FWeekday overnights with BBC Radio
-OL,5,     F5 Live
-OL,6,     GLocal BBC Radio joins BBC Radio 5
-OL,7,     GLive through the night on a
-OL,8,     Gweekday.
+OL,3,CProgramme listings for FRI 25 JUL
+OL,4,G0600FEllie Colton at Breakfast
+OL,5,     GWake up with a smile with Ellie
+OL,6,     Gand everything you need to know
+OL,7,     Gin South Yorkshire.
+OL,8,G1000FPaulette Edwards
+OL,9,     GPaulette is live from
+OL,10,     GHillsborough Park for Tramlines
+OL,11,     GFestival 2025.
+OL,12,G1400FToby Foster
+OL,13,     GToby has more from day one of
+OL,14,     GTramlines Festival at
+OL,15,     GHillsborough Park.
+OL,16,G1800FSport Heaven
+OL,17,     GThe latest news, stories and
+OL,18,     Gconversation from the world of
+OL,19,     Gsport in our region.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BReg RadioCWeather FReg Sport
+FL,300,250,120,301,000,100
+PN,27802
+SC,0002
+PS,c000
+OL,0,        ECIMSBWebfax 2   F278A1753419611
+OL,1,W{${$~+$ w1u5w1w1w15w15 kk       G2/2
+OL,2,W/.!/.!+.! ,%%%-$% % %-$-$..V(,,,,,,,,,,
+OL,3,CProgramme listings for FRI 25 JUL
+OL,4,G1900FSile Sibanda
+OL,5,     GConversation and music for our
+OL,6,     GAfrican and Caribbean communities
+OL,7,     Gwith Sile Sibanda.
+OL,8,G2200FLate Night Jo
+OL,9,     GJo Good with late-night
+OL,10,     Gconversation, amazing stories and
+OL,11,     Gthe soundtrack to your night.
+OL,12,G0100FWeekend overnights with BBC Radio
+OL,13,     F5 Live
+OL,14,     GLocal BBC Radio joins BBC Radio 5
+OL,15,     GLive through the night on a
+OL,16,     Gweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg RadioCWeather FReg Sport
 FL,300,250,120,301,000,100
