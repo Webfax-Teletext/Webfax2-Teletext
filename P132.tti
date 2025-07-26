@@ -2,23 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1753538814
+OL,0,        ECIMSBWebfax 2   F132A1753546030
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FSunshine and showers for most
-OL,6,Fof the day, southeastern areas most
-OL,7,Flikely to stay dry, clouding over in
-OL,8,Fthe north and west later this
-OL,9,Fafternoon. Maximum Temperature 21C.
-OL,10,
-OL,11,CTonight:FRather cloudy this evening
-OL,12,Fwith scattered showers tending to die
-OL,13,Fout. Outbreaks of rain will then
-OL,14,Fspread eastwards through the early
-OL,15,Fhours, however southern areas may
-OL,16,Fremain dry. Minimum Temperature 12C.
+OL,5,CThis Evening and Tonight:FRather
+OL,6,Fcloudy this evening with scattered
+OL,7,Fshowers tending to die out. Outbreaks
+OL,8,Fof rain will then spread eastwards
+OL,9,Fthrough the early hours, however
+OL,10,Fsouthern areas may remain dry. Minimum
+OL,11,FTemperature 12C.
+OL,12,
+OL,13,CSunday:FA rather cloudy day with
+OL,14,Foccasional showers, these turning
+OL,15,Fheavier for the afternoon,
+OL,16,Fparticularly east of Lough Neagh.
+OL,17,FMaximum Temperature 21C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,23 +27,17 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1753538814
+OL,0,        ECIMSBWebfax 2   F132A1753546030
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CSunday:FCloudy with outbreaks of rain
-OL,6,Fin the morning. Turning brighter in
-OL,7,Fthe afternoon but with scattered
-OL,8,Fshowers, some of these on the heavy
-OL,9,Fside. Maximum Temperature 21C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:FMainly
-OL,12,Fdry Monday daytime with some bright or
-OL,13,Fsunny spells. Rain spreads east
-OL,14,Fovernight into Tuesday, clearing to
-OL,15,Fleave some sunny spells in the
-OL,16,Fafternoon. Turning cloudy on Wednesday.
+OL,5,COutlook for Monday to Wednesday:FMainly
+OL,6,Fdry Monday daytime with some bright or
+OL,7,Fsunny spells. Rain spreads east
+OL,8,Fovernight into Tuesday, clearing to
+OL,9,Fleave some sunny spells in the
+OL,10,Fafternoon. Turning cloudy on Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100

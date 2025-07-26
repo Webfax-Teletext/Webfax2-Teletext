@@ -2,25 +2,28 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1753520771
+OL,0,        ECIMSBWebfax 2   F125A1753546030
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FFairly cloudy through the
-OL,6,Fmorning for many with scattered
-OL,7,Fshowers. Turning brighter by the
-OL,8,Fafternoon with warm sunny spells and
-OL,9,Fany showers becoming very isolated.
-OL,10,FFeeling warm in the sunshine. Maximum
-OL,11,FTemperature 22C.
-OL,12,
-OL,13,CTonight:FLargely dry this evening and
-OL,14,Fovernight with late sunny spells
-OL,15,Fgiving way to clear periods. A few
-OL,16,Fshowers are possible through the early
-OL,17,Fhours. Feeling slightly cooler than
-OL,18,Flast night. Minimum Temperature 11C.
+OL,5,CThis Evening and Tonight:FMainly fine
+OL,6,Fthis evening with some late sunny
+OL,7,Fspells, these giving way to clear
+OL,8,Fperiods. A few showers are possible
+OL,9,Fthrough the early hours with more
+OL,10,Fgeneral showery rain arriving soon
+OL,11,Fafter dawn. Feeling slightly cooler
+OL,12,Fthan last night. Minimum Temperature
+OL,13,F10C.
+OL,14,
+OL,15,CSunday:FShowery rain during the
+OL,16,Fmorning with a few heavier bursts
+OL,17,Fpossible. Fewer showers by the
+OL,18,Fafternoon and many places becoming
+OL,19,Fdrier with bright or sunny intervals
+OL,20,Fdeveloping. Cooler than recently.
+OL,21,FMaximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,24 +31,17 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F125A1753520771
+OL,0,        ECIMSBWebfax 2   F125A1753546030
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CSunday:FA good deal of cloud overall
-OL,6,Fbut occasional bright or sunny spells
-OL,7,Fare likely. Showers are possible with
-OL,8,Fa low chance of a heavy one, though
-OL,9,Fmost places remaining dry. Maximum
-OL,10,FTemperature 22C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FMainly
-OL,13,Ffine on Monday with a mixture of cloud
-OL,14,Fand sunny spells. Probably more
-OL,15,Fchangeable on Tuesday with rain or
-OL,16,Fshowers likely, perhaps heavy. Sunny
-OL,17,Fspells and showers on Wednesday.
+OL,5,COutlook for Monday to Wednesday:FMainly
+OL,6,Ffine on Monday with warm sunny spells.
+OL,7,FMore changeable on Tuesday with rain
+OL,8,For showers likely, perhaps heavy. A
+OL,9,Ffew showers are possible on Wednesday.
+OL,10,FFeeling humid at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100

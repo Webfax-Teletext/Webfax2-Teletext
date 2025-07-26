@@ -2,24 +2,26 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1753538814
+OL,0,        ECIMSBWebfax 2   F127A1753546030
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FA cloudy start with patchy
-OL,6,Fshowery outbreaks of rain and drizzle
-OL,7,Fdeveloping during the morning. Showers
-OL,8,Fdeveloping, these becoming locally
-OL,9,Fheavy in the east during the
-OL,10,Fafternoon, perhaps with the odd rumble
-OL,11,Fof thunder. Maximum Temperature 22C.
+OL,5,CThis Evening and Tonight:FSunny spells
+OL,6,Fand showers through the evening, with
+OL,7,Fany showers soon fading away and
+OL,8,Fclearing to the east. Most places then
+OL,9,Fdry with clear spells overnight. Skies
+OL,10,Fclouding over again towards dawn.
+OL,11,FMinimum Temperature 15C.
 OL,12,
-OL,13,CTonight:FAny afternoon showers soon
-OL,14,Fclearing to the east leaving most
-OL,15,Fplaces dry with clear or sunny spells.
-OL,16,FSkies clouding over again towards
-OL,17,Fdawn. Minimum Temperature 15C.
+OL,13,CSunday:FCloudy with some brighter or
+OL,14,Fsunny intervals developing. Most parts
+OL,15,Fstaying dry, however the odd shower or
+OL,16,Ftwo is possible throughout.
+OL,17,FTemperatures around, or just below
+OL,18,Faverage for late July. Maximum
+OL,19,FTemperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -27,23 +29,17 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F127A1753538814
+OL,0,        ECIMSBWebfax 2   F127A1753546030
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CSunday:FA cloudy but bright start
-OL,6,FSunday morning with scattered showers
-OL,7,Fdeveloping. Light winds and feeling
-OL,8,Ffresher than recent days. Maximum
-OL,9,FTemperature 20C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:FCloudy
-OL,12,Fon Monday, perhaps with the odd
-OL,13,Fshower. More changeable from Tuesday
-OL,14,Fwith thicker cloud perhaps with some
-OL,15,Fshowers or longer spells of rain.
-OL,16,FRather warm in the sunshine.
+OL,5,COutlook for Monday to Wednesday:FCloudy
+OL,6,Fon Monday, perhaps with the odd
+OL,7,Fshower. More changeable from Tuesday
+OL,8,Fwith thicker cloud perhaps with some
+OL,9,Fshowers or longer spells of rain.
+OL,10,FRather warm in the sunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
