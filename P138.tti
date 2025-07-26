@@ -2,24 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1753531597
+OL,0,        ECIMSBWebfax 2   F138A1753556855
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FIsolated showers and brighter
-OL,6,Fspells this morning. Turning cloudier
-OL,7,Ffrom the west during the afternoon
-OL,8,Fwith building showers and rain across
-OL,9,FArgyll by late afternoon. Maximum
-OL,10,FTemperature 21C.
-OL,11,
-OL,12,CTonight:FPatchy rain spreads in from
-OL,13,Fthe west during the evening and
-OL,14,Fbecomes increasingly widespread during
-OL,15,Fthe early hours. Rain will be
-OL,16,Foccasionally heavy, especially for
-OL,17,FArgyll. Minimum Temperature 13C.
+OL,5,CThis Evening and Tonight:FPatchy rain
+OL,6,Fspreads in from the west during the
+OL,7,Fevening and becomes increasingly
+OL,8,Fwidespread during the early hours.
+OL,9,FRain will be occasionally heavy,
+OL,10,Fespecially for Argyll. Minimum
+OL,11,FTemperature 13C.
+OL,12,
+OL,13,CSunday:FOutbreaks of occasionally
+OL,14,Fheavy rain in the morning. Turning
+OL,15,Fshowery during the afternoon with some
+OL,16,Fsunny spells developing at times.
+OL,17,FMaximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,24 +27,17 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1753531597
+OL,0,        ECIMSBWebfax 2   F138A1753556855
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CSunday:FOutbreaks of occasionally
-OL,6,Fheavy rain in the morning. Turning
-OL,7,Fincreasingly showery during the
-OL,8,Fafternoon with some sunny spells
-OL,9,Fdeveloping at times. Maximum
-OL,10,FTemperature 20C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FMainly
-OL,13,Fdry on Monday with some bright or
-OL,14,Fsunny spells. Rather cloudy on Tuesday
-OL,15,Fwith rain or drizzle, mainly in the
-OL,16,Fwest. Bright on Wednesday, some
-OL,17,Fsunshine for a time.
+OL,5,COutlook for Monday to Wednesday:FMainly
+OL,6,Fdry on Monday with some bright or
+OL,7,Fsunny spells. Rather cloudy on Tuesday
+OL,8,Fwith rain or drizzle, mainly in the
+OL,9,Fwest. Bright on Wednesday, some
+OL,10,Fsunshine for a time.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
