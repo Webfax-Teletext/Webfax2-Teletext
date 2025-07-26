@@ -2,25 +2,23 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1753448476
+OL,0,        ECIMSBWebfax 2   F134A1753488275
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FA cloudy start with patchy
-OL,6,Flight rain and drizzle, but becoming
-OL,7,Fbrighter by midday. Then a bright
-OL,8,Fafternoon with sunny spells and a few
-OL,9,Fshowers. Occasionally fresh winds
-OL,10,Fturning southwesterly. Maximum
-OL,11,FTemperature 17C.
-OL,12,
-OL,13,CTonight:FCloudy at first during the
-OL,14,Fevening but sunny spells developing,
-OL,15,Fthe odd shower may pass through. Clear
-OL,16,Fspells overnight with a fresh
-OL,17,Fsouthwesterly breeze. Minimum
-OL,18,FTemperature 10C.
+OL,5,CThis Evening and Tonight:FCloudy at
+OL,6,Ffirst during the evening but sunny
+OL,7,Fspells developing, the odd shower may
+OL,8,Fpass through. Clear spells overnight
+OL,9,Fwith a fresh west to southwest breeze.
+OL,10,FMinimum Temperature 10C.
+OL,11,
+OL,12,CSaturday:FCloudy at times with the odd
+OL,13,Fshower but some decent sunny spells
+OL,14,Ftoo, a few heavier showers may affect
+OL,15,FOrkney towards the evening. Maximum
+OL,16,FTemperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -28,23 +26,17 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F134A1753448476
+OL,0,        ECIMSBWebfax 2   F134A1753488275
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CSaturday:FCloudy at times with the odd
-OL,6,Fshower but some decent sunny spells
-OL,7,Ftoo, a few heavier showers may affect
-OL,8,FOrkney towards the evening. Maximum
-OL,9,FTemperature 17C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FEarly
-OL,12,Frain turning showery on Sunday
-OL,13,Fmorning, then mostly light winds sunny
-OL,14,Fspells and the odd shower. More
-OL,15,Fpersistent rain likely on Tuesday
-OL,16,Fmorning with freshening winds.
+OL,5,COutlook for Sunday to Tuesday:FEarly
+OL,6,Frain turning showery on Sunday
+OL,7,Fmorning, then mostly light winds sunny
+OL,8,Fspells and the odd shower. More
+OL,9,Fpersistent rain likely on Tuesday
+OL,10,Fmorning with freshening winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
