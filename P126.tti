@@ -2,26 +2,24 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1753538814
+OL,0,        ECIMSBWebfax 2   F126A1753564072
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CToday:FCloudy with showery outbreaks
-OL,6,Fof light rain and drizzle during the
-OL,7,Fmorning, turning brighter from the
-OL,8,Fnorth with sunny spells developing
-OL,9,Finto the afternoon. Perhaps a few
-OL,10,Fsharp showers developing across south
-OL,11,FYorkshire later. Maximum Temperature
-OL,12,F23C.
-OL,13,
-OL,14,CTonight:FAny daytime showers clearing
-OL,15,Fto the east during the evening,
-OL,16,Fotherwise mostly dry with clear spells
-OL,17,Fovernight. Feeling slightly fresher
-OL,18,Fthan recent nights. Minimum
-OL,19,FTemperature 12C.
+OL,5,CThis Evening and Tonight:FAny daytime
+OL,6,Fshowers soon fading, leaving a fine
+OL,7,Fevening for most. Clear spells then
+OL,8,Ffollow overnight before cloud builds
+OL,9,Ffrom the west during the early hours
+OL,10,Fof Sunday. Minimum Temperature 12C.
+OL,11,
+OL,12,CSunday:FCloudy with some brighter or
+OL,13,Fsunny intervals developing. Most parts
+OL,14,Fstaying dry, however the odd shower or
+OL,15,Ftwo is possible throughout.
+OL,16,FTemperatures around average for late
+OL,17,FJuly. Maximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -29,24 +27,17 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F126A1753538814
+OL,0,        ECIMSBWebfax 2   F126A1753564072
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CSunday:FMostly dry with variable
-OL,6,Famounts of cloud with some bright or
-OL,7,Fsunny spells at times. Light
-OL,8,Fnorthwesterly winds. Feeling pleasant
-OL,9,Fin the sunshine. Maximum Temperature
-OL,10,F22C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FCloudy
-OL,13,Fon Monday, perhaps with the odd
-OL,14,Fshower. More changeable from Tuesday
-OL,15,Fwith thicker cloud and showers or
-OL,16,Flonger spells of rain in the mix.
-OL,17,FFeeling warm in the sunshine.
+OL,5,COutlook for Monday to Wednesday:FCloudy
+OL,6,Fon Monday, perhaps with the odd
+OL,7,Fshower. More changeable from Tuesday
+OL,8,Fwith thicker cloud and showers or
+OL,9,Flonger spells of rain in the mix.
+OL,10,FFeeling warm in the sunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
