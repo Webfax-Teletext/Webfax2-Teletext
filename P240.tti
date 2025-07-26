@@ -1,8 +1,8 @@
 PN,24001
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F240A1753419611
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G1/6
+OL,0,        ECIMSBWebfax 2   F240A1753499122
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G1/5
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for SAT 26 JUL
 OL,4,G0600FThe Everyday Hustle with Jaz Singh
@@ -24,8 +24,8 @@ FL,241,200,150,300,000,100
 PN,24002
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F240A1753419611
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G2/6
+OL,0,        ECIMSBWebfax 2   F240A1753499122
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G2/5
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for SAT 26 JUL
 OL,4,G0700FAsian Network Motivation with
@@ -51,8 +51,8 @@ OL,26,@mD@GrznD@Grz
 PN,24003
 SC,0003
 PS,c000
-OL,0,        ECIMSBWebfax 2   F240A1753419611
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G3/6
+OL,0,        ECIMSBWebfax 2   F240A1753499122
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G3/5
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for SAT 26 JUL
 OL,4,G1000FAsian Network Certified with
@@ -77,8 +77,8 @@ FL,241,200,150,300,000,100
 PN,24004
 SC,0004
 PS,c000
-OL,0,        ECIMSBWebfax 2   F240A1753419611
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G4/6
+OL,0,        ECIMSBWebfax 2   F240A1753499122
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G4/5
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for SAT 26 JUL
 OL,4,G1500FGura
@@ -98,47 +98,35 @@ OL,17,     GNetwork.
 OL,18,G2100FPure Spice with DJ Manara
 OL,19,     GManara brings you high-energy
 OL,20,     Gmixes of South Asian dance music
-OL,21,     Gwith exclusive edits.
+OL,21,     Gwith exclusive edits. Contains
+OL,22,     Gstrong language.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,241,200,150,300,000,100
 PN,24005
 SC,0005
 PS,c000
-OL,0,        ECIMSBWebfax 2   F240A1753419611
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G5/6
+OL,0,        ECIMSBWebfax 2   F240A1753499122
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G5/5
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for SAT 26 JUL
 OL,4,G0000FPure Spice - Takeover
 OL,5,     GFrom London streets to Punjabi
 OL,6,     Gbeats, it's getting spicy after
-OL,7,     Gdark. Dav Juss is bringing a
-OL,8,     Gblazing session packed with fiery
-OL,9,     Gtracks, spicy blends, and the
-OL,10,     Ghottest global vibes.
-OL,11,G0100FDJ Kizzi
-OL,12,     GKizzi's got the party locked with
-OL,13,     Gthe Mendhi House Party Mix!
-OL,14,     GGetting you in the mood for this
-OL,15,     Gwedding season. Contains very
-OL,16,     Gstrong language and graphic
-OL,17,     Gviolent scenes.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,241,200,150,300,000,100
-PN,24006
-SC,0006
-PS,c000
-OL,0,        ECIMSBWebfax 2   F240A1753419611
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G6/6
-OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
-OL,3,CProgramme listings for SAT 26 JUL
-OL,4,G0400FBBC Introducing on Asian Network
-OL,5,     Fwith Jasmine Takhar
-OL,6,     GJasmine hears from the BBC
-OL,7,     GIntroducing Artist of the Week,
-OL,8,     GAMVN from South East London and
-OL,9,     Ghis track Sohniye Over There.
+OL,7,     Gdark. Contains strong language.
+OL,8,G0100FDJ Kizzi
+OL,9,     GKizzi's got the party locked with
+OL,10,     Gthe wedding reception House Party
+OL,11,     GMix! Getting you in the mood for
+OL,12,     Gthis wedding season. Contains
+OL,13,     Gvery strong language and graphic
+OL,14,     Gviolent scenes.
+OL,15,G0400FBBC Introducing on Asian Network
+OL,16,     Fwith Jasmine Takhar
+OL,17,     GJasmine hears from the BBC
+OL,18,     GIntroducing Artist of the Week,
+OL,19,     GAMVN from South East London and
+OL,20,     Ghis track Sohniye Over There.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,241,200,150,300,000,100
