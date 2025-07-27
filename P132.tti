@@ -2,24 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1753546030
+OL,0,        ECIMSBWebfax 2   F132A1753596542
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FRather
-OL,6,Fcloudy this evening with scattered
-OL,7,Fshowers tending to die out. Outbreaks
-OL,8,Fof rain will then spread eastwards
-OL,9,Fthrough the early hours, however
-OL,10,Fsouthern areas may remain dry. Minimum
-OL,11,FTemperature 12C.
+OL,5,CToday:FA cloudy day with patchy rain
+OL,6,For showers at times. These most
+OL,7,Ffrequent around midday and early
+OL,8,Fafternoon. The best chance of any
+OL,9,Flimited brighter spells in the
+OL,10,Fsouthwest late afternoon. Maximum
+OL,11,FTemperature 19C.
 OL,12,
-OL,13,CSunday:FA rather cloudy day with
-OL,14,Foccasional showers, these turning
-OL,15,Fheavier for the afternoon,
-OL,16,Fparticularly east of Lough Neagh.
-OL,17,FMaximum Temperature 21C.
+OL,13,CTonight:FA mostly dry evening and
+OL,14,Fnight although a few isolated showers
+OL,15,Fare possible. It will remain rather
+OL,16,Fcloudy, but a few clear spells are
+OL,17,Flikely too. Minimum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,17 +27,22 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1753546030
+OL,0,        ECIMSBWebfax 2   F132A1753596542
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FMainly
-OL,6,Fdry Monday daytime with some bright or
-OL,7,Fsunny spells. Rain spreads east
-OL,8,Fovernight into Tuesday, clearing to
-OL,9,Fleave some sunny spells in the
-OL,10,Fafternoon. Turning cloudy on Wednesday.
+OL,5,CMonday:FA largely dry day, although
+OL,6,Frather cloudy with the best chance of
+OL,7,Fany bright or sunny spells across the
+OL,8,Fnorth or northeast early afternoon.
+OL,9,FMaximum Temperature 20C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:
+OL,12,FOvernight rain clearing to scattered
+OL,13,Fshowers on Tuesday. Rather cloudy with
+OL,14,Ffurther, mainly light, showers on
+OL,15,FWednesday and Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100

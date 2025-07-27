@@ -2,23 +2,25 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F136A1753582110
+OL,0,        ECIMSBWebfax 2   F136A1753596542
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CThis Evening and Tonight:FHeavy
-OL,6,Fshowers will tend to clear away during
-OL,7,Fthis evening. The rest of the night
-OL,8,Fwill be dry for most, however western
-OL,9,FTayside will see rain at times.
-OL,10,FMinimum Temperature 13C.
-OL,11,
-OL,12,CSunday:FA bright but rather cloudy day
-OL,13,Fwith showers. These showers will be
-OL,14,Foccasionally heavy during the
-OL,15,Fafternoon with the odd rumble of
-OL,16,Fthunder. Maximum Temperature 22C.
+OL,5,CToday:FA rather cloudy day, but some
+OL,6,Fbright spells. Dry to start. A few
+OL,7,Fshowers break out by mid-morning,
+OL,8,Fmainly in the west. Widespread showers
+OL,9,Ffrom midday, heavy across Angus with a
+OL,10,Fchance of thunder. Maximum Temperature
+OL,11,F20C.
+OL,12,
+OL,13,CTonight:FScattered heavy showers
+OL,14,Fgradually die out through the evening
+OL,15,Fwith some good spells of late
+OL,16,Fsunshine. Dry with lengthy clear
+OL,17,Fspells overnight. Minimum Temperature
+OL,18,F10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -26,16 +28,23 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F136A1753582110
+OL,0,        ECIMSBWebfax 2   F136A1753596542
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FDry
-OL,6,Fand bright for most on Monday with a
-OL,7,Ffew sunny spells. Rather cloudy on
-OL,8,FTuesday with the odd spot of rain. Dry
-OL,9,Fon Wednesday, some sunshine.
+OL,5,CMonday:FA largely dry day with sunny
+OL,6,Fspells, although a few isolated
+OL,7,Fshowers are possible. Light, mainly
+OL,8,Fwesterly winds. Maximum Temperature
+OL,9,F21C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FA
+OL,12,Fchance of rain in the west clearing to
+OL,13,Fa few scattered showers on Tuesday.
+OL,14,FMostly dry with sunny spells on
+OL,15,FWednesday. Scattered, possibly heavy
+OL,16,Fshowers on Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
