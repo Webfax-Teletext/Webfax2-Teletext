@@ -1,28 +1,49 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F139A1753304120
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F139A1753600152
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry. Then the rest of the
-OL,7,Fnight will be dry with variable
-OL,8,Famounts of cloud and some clear
-OL,9,Fperiods. Light winds. Minimum
-OL,10,FTemperature 14C.
-OL,11,
-OL,12,CThursday:FDry and often cloudy, but
-OL,13,Fsome bright or sunny spells breaking
-OL,14,Fthrough at times. Warm in any
-OL,15,Fsunshine. Maximum Temperature 21C.
-OL,16,
-OL,17,COutlook for Friday to Sunday:FDry and
-OL,18,Frather cloudy on Friday. Mainly dry
-OL,19,Fover the weekend with some bright
-OL,20,Fspells.
+OL,5,CToday:FA cloudy day. Some persistent
+OL,6,Frain early morning across Galloway and
+OL,7,Fperhaps west Lothian, but this soon
+OL,8,Fbreaking up to more widespread
+OL,9,Fscattered showers from mid-morning and
+OL,10,Fthrough the afternoon. Maximum
+OL,11,FTemperature 20C.
+OL,12,
+OL,13,CTonight:FA few scattered showers in
+OL,14,Fthe evening. These mostly die out
+OL,15,Fovernight, although the odd isolated
+OL,16,Fshower remains possible Cloudy for
+OL,17,Fmost, but some cloud breaks across the
+OL,18,Feast. Minimum Temperature 13C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F139A1753600152
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,CMonday:FA largely dry day with sunny
+OL,6,Fspells, although a few isolated
+OL,7,Fshowers are possible during the
+OL,8,Fmorning. Light, mainly westerly winds.
+OL,9,FMaximum Temperature 21C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FRain
+OL,12,Fclearing to scattered showers on
+OL,13,FTuesday. Turning drier and brighter on
+OL,14,FWednesday. Scattered, possibly heavy
+OL,15,Fshowers on Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
