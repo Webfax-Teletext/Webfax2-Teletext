@@ -2,26 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1753592933
+OL,0,        ECIMSBWebfax 2   F138A1753650670
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FPersistent, occasionally heavy
-OL,6,Frain to start the day. Outbreaks of
-OL,7,Frain continue through the morning, but
-OL,8,Fturning patchier south of Argyll. Rain
-OL,9,Fbreaks down into scattered showers in
-OL,10,Fthe afternoon although remaining
-OL,11,Flargely cloudy. Maximum Temperature
-OL,12,F16C.
-OL,13,
-OL,14,CTonight:FA cloudy evening with some
-OL,15,Fpatchy rain or showers. Turning drier
-OL,16,Fafter dark with some clear spells
-OL,17,Fdeveloping through the night, but a
-OL,18,Ffew showers persisting too. Minimum
-OL,19,FTemperature 12C.
+OL,5,CThis Evening and Tonight:FA cloudy
+OL,6,Fevening with some patchy rain or
+OL,7,Fshowers. Turning drier after dark with
+OL,8,Fsome clear spells developing through
+OL,9,Fthe night, but a few showers
+OL,10,Fpersisting too. Minimum Temperature
+OL,11,F12C.
+OL,12,
+OL,13,CMonday:FA largely dry day with sunny
+OL,14,Fspells, although a few isolated
+OL,15,Fshowers are possible. Light, mainly
+OL,16,Fwesterly winds. Maximum Temperature
+OL,17,F17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -29,23 +27,16 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1753592933
+OL,0,        ECIMSBWebfax 2   F138A1753650670
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CMonday:FLow cloud in the morning with
-OL,6,Fa few light showers. Dry in the
-OL,7,Fafternoon with some brighter spells
-OL,8,Fdeveloping, mainly in the south with
-OL,9,Fcloudier conditions persisting across
-OL,10,FArgyll. Maximum Temperature 17C.
-OL,11,
-OL,12,COutlook for Tuesday to Thursday:FRain
-OL,13,Fclearing to scattered showers on
-OL,14,FTuesday. Mostly dry with sunny spells
-OL,15,Fdeveloping on Wednesday. Scattered,
-OL,16,Fpossibly heavy showers on Thursday.
+OL,5,COutlook for Tuesday to Thursday:FRain
+OL,6,Fclearing to scattered showers on
+OL,7,FTuesday. Mostly dry with sunny spells
+OL,8,Fdeveloping on Wednesday. Scattered,
+OL,9,Fpossibly heavy showers on Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
