@@ -2,24 +2,27 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1753679549
+OL,0,        ECIMSBWebfax 2   F131A1753693985
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FOverall, a bright and fine day
-OL,6,Fwith sunny spells breaking through the
-OL,7,Fcloud. A few showers are possible,
-OL,8,Fthese mostly light. Feeling warm in
-OL,9,Fthe sunshine with a gentle breeze.
-OL,10,FMaximum Temperature 23C.
-OL,11,
-OL,12,CTonight:FA dry evening with some late
-OL,13,Fsunshine to enjoy. Cloud then building
-OL,14,Fwith rain arriving to end the night.
-OL,15,FFresh initially but turning milder
-OL,16,Fovernight as the cloud moves in.
-OL,17,FMinimum Temperature 12C.
+OL,5,CThis Evening and Tonight:FShowers
+OL,6,Feasing during Sunday evening,
+OL,7,Fproviding most places with a dry end
+OL,8,Fto the day with some late sunshine
+OL,9,Fpossibly emerging. Mainly dry
+OL,10,Fovernight with clear spells and light
+OL,11,Fnorthwesterly winds, but an odd shower
+OL,12,Fis possible along western coasts.
+OL,13,FMinimum Temperature 11C.
+OL,14,
+OL,15,CMonday:FOverall, a bright and fine day
+OL,16,Fwith sunny spells breaking through the
+OL,17,Fcloud. A few showers are possible,
+OL,18,Fthese mostly light. Feeling warm in
+OL,19,Fthe sunshine with a gentle breeze.
+OL,20,FMaximum Temperature 23C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -27,25 +30,17 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F131A1753679549
+OL,0,        ECIMSBWebfax 2   F131A1753693985
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CTuesday:FGrey and damp as rain pushes
-OL,6,Feastwards during the day. Cloud low
-OL,7,Fenough to result in hill fog but
-OL,8,Fbrighter spells emerging as it clears.
-OL,9,FSlightly breezy but feeling humid.
-OL,10,FMaximum Temperature 23C.
-OL,11,
-OL,12,COutlook for Wednesday to Friday:FOften
-OL,13,Fcloudy but with occasional brighter
-OL,14,Fperiods. Somewhat drier on Wednesday
-OL,15,Fthough some showers possible. Humid
-OL,16,Fagain on Thursday as rain pushes
-OL,17,Feastwards, then heavy showers on
-OL,18,FFriday.
+OL,5,COutlook for Tuesday to Thursday:FCloudy
+OL,6,Fand humid on Tuesday with some rain or
+OL,7,Fshowers arriving. Somewhat brighter on
+OL,8,FWednesday but showers still possible.
+OL,9,FPerhaps sunnier on Thursday with
+OL,10,Fscattered heavy showers. Often warm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
