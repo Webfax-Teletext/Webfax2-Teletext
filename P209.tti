@@ -1,21 +1,21 @@
 PN,20901
 SC,0001
 PS,c000
-OL,0,        ECIMSBWebfax 2   F209A1753679549
+OL,0,        ECIMSBWebfax 2   F209A1753701201
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for MON 28 JUL
-OL,4,G0600FThis Is Sports Extra
-OL,5,     GThis is BBC Radio 5 Sports Extra
-OL,6,     G- bringing you even more live
-OL,7,     Gcommentaries from the world's
-OL,8,     Ggreatest sporting events. Listen
-OL,9,     Gon BBC Sounds.
-OL,10,G1155FSwimming
-OL,11,     GLive swimming commentary from the
-OL,12,     GWorld Aquatics Championships in
-OL,13,     GSingapore.
-OL,14,G1335FThis Is Sports Extra
+OL,4,G1155FSwimming
+OL,5,     GLive swimming commentary from the
+OL,6,     GWorld Aquatics Championships in
+OL,7,     GSingapore.
+OL,8,G1335FThis Is Sports Extra
+OL,9,     GThis is BBC Radio 5 Sports Extra
+OL,10,     G- bringing you even more live
+OL,11,     Gcommentaries from the world's
+OL,12,     Ggreatest sporting events. Listen
+OL,13,     Gon BBC Sounds.
+OL,14,G1800FThis Is Sports Extra
 OL,15,     GThis is BBC Radio 5 Sports Extra
 OL,16,     G- bringing you even more live
 OL,17,     Gcommentaries from the world's
@@ -27,22 +27,16 @@ FL,210,200,150,300,000,100
 PN,20902
 SC,0002
 PS,c000
-OL,0,        ECIMSBWebfax 2   F209A1753679549
+OL,0,        ECIMSBWebfax 2   F209A1753701201
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for MON 28 JUL
-OL,4,G1800FThis Is Sports Extra
+OL,4,G0000FThis Is Sports Extra
 OL,5,     GThis is BBC Radio 5 Sports Extra
 OL,6,     G- bringing you even more live
 OL,7,     Gcommentaries from the world's
 OL,8,     Ggreatest sporting events. Listen
 OL,9,     Gon BBC Sounds.
-OL,10,G0000FThis Is Sports Extra
-OL,11,     GThis is BBC Radio 5 Sports Extra
-OL,12,     G- bringing you even more live
-OL,13,     Gcommentaries from the world's
-OL,14,     Ggreatest sporting events. Listen
-OL,15,     Gon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
