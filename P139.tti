@@ -2,24 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1753665104
+OL,0,        ECIMSBWebfax 2   F139A1753683158
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FA few
-OL,6,Fscattered showers in the evening.
-OL,7,FThese mostly die out overnight,
-OL,8,Falthough the odd isolated shower
-OL,9,Fremains possible Cloudy for most, but
-OL,10,Fsome cloud breaks across the east.
-OL,11,FMinimum Temperature 13C.
-OL,12,
-OL,13,CMonday:FA largely dry day with sunny
-OL,14,Fspells, although a few isolated
-OL,15,Fshowers are possible during the
-OL,16,Fmorning. Light, mainly westerly winds.
-OL,17,FMaximum Temperature 21C.
+OL,5,CToday:FA largely dry day with some
+OL,6,Fbright or sunny spells. A few isolated
+OL,7,Flight showers are possible, these
+OL,8,Fmainly in the morning. Light to
+OL,9,Fmoderate west or northwest winds.
+OL,10,FMaximum Temperature 21C.
+OL,11,
+OL,12,CTonight:FA dry evening and night for
+OL,13,Fmost. Some sunny then clear spells to
+OL,14,Fstart the night. Cloud spreads east
+OL,15,Fovernight with patchy rain in the west
+OL,16,Flater in the night. Minimum
+OL,17,FTemperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -27,16 +27,22 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F139A1753665104
+OL,0,        ECIMSBWebfax 2   F139A1753683158
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FRain
-OL,6,Fclearing to scattered showers on
-OL,7,FTuesday. Turning drier and brighter on
-OL,8,FWednesday. Scattered, possibly heavy
-OL,9,Fshowers on Thursday.
+OL,5,CTuesday:FA mostly cloudy morning, but
+OL,6,Fsunny spells developing from the north
+OL,7,Flater in the afternoon. Some patchy
+OL,8,Frain in the west, but dry elsewhere.
+OL,9,FMaximum Temperature 18C.
+OL,10,
+OL,11,COutlook for Wednesday to Friday:FA few
+OL,12,Fmainly light scattered showers
+OL,13,FWednesday and Thursday. A chance of
+OL,14,Fheavier showers on Friday, most likely
+OL,15,Fin the east.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
