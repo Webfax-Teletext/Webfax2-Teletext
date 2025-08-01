@@ -2,26 +2,26 @@ PN,13301
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F133A1753986297
+OL,0,        ECIMSBWebfax 2   F133A1754022406
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly dry
-OL,6,Fthis evening with sunny spells and
-OL,7,Fwhilst dry for many overnight with
-OL,8,Fclear periods, a few showers are
-OL,9,Fpossible, these most likely in more
-OL,10,Fcoastal areas in the north and west. A
-OL,11,Fmuch cooler night than of late.
-OL,12,FMinimum Temperature 8C.
+OL,5,CToday:FA mixture of sunny intervals
+OL,6,Fand cloudier periods today. A few
+OL,7,Fscattered showers are possible, these
+OL,8,Fmainly light, but most places
+OL,9,Fremaining dry. Sunniest in coastal
+OL,10,Fareas this afternoon. Fresher than of
+OL,11,Flate but warm in the sunshine. Maximum
+OL,12,FTemperature 22C.
 OL,13,
-OL,14,CFriday:FA mixture of sunny intervals
-OL,15,Fand cloudier periods. Light showers
-OL,16,Fare possible but most places remaining
-OL,17,Fdry. Sunniest in coastal areas.
-OL,18,FFresher than of late but warm in the
-OL,19,Fsunshine. Maximum Temperature 22C.
+OL,14,CTonight:FAny afternoon showers fading
+OL,15,Faway leaving a dry evening for most
+OL,16,Fwith some late sunshine. Dry overnight
+OL,17,Fwith clear periods and turning cool in
+OL,18,Fthe countryside with patchy fog
+OL,19,Fpossible. Minimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
@@ -29,18 +29,24 @@ PN,13302
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F133A1753986297
+OL,0,        ECIMSBWebfax 2   F133A1754022406
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,COutlook for Saturday to Monday:FDry
-OL,6,Fwith sunny periods on Saturday.
-OL,7,FBreezier on Sunday with rain clearing
-OL,8,Fto sunnier skies later. Turning
-OL,9,Funsettled and unseasonably windy on
-OL,10,FMonday with disruption possible.
-OL,11,FFeeling warm at times.
+OL,5,CSaturday:FA dry day with plenty of
+OL,6,Fsunshine and generally small amounts
+OL,7,Fof cloud. Feeling warm in the sunshine
+OL,8,Fwith light winds, though a little
+OL,9,Fbreezy in some coastal areas. Maximum
+OL,10,FTemperature 23C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FBreezier
+OL,13,Fon Sunday with rain clearing to
+OL,14,Fsunnier skies later. Turning unsettled
+OL,15,Fand unseasonably windy on Monday with
+OL,16,Fsome disruption possible. Drier but
+OL,17,Fstill rather windy on Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
