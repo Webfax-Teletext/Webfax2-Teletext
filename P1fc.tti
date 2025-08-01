@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1754011579
+OL,0,        ECIMSBWebfax 2   F1fcA1754015187
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1754011578;
-OL,10,GService: Webfax 2 - 6902 f5bf24e1f
-OL,11,FLast Update: 01/08/2025 02:26:18  G1/2
+OL,25,1754015187;
+OL,10,GService: Webfax 2 - 6903 e47896019
+OL,11,FLast Update: 01/08/2025 03:26:27  G1/2
 OL,13,CitvSport/border            G28/07-18:14
 OL,14,CitvSport/calendar          G23/07-21:55
 OL,15,CitvSport/central           G23/07-21:55
@@ -30,7 +30,7 @@ OL,23,CitvSport/wales             G23/07-21:55
 PN,1fc02
 SC,0002
 PS,c010
-OL,0,        ECIMSBWebfax 2   F1fcA1754011579
+OL,0,        ECIMSBWebfax 2   F1fcA1754015187
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,11 +42,11 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1754011578;
-OL,10,GService: Webfax 2 - 6902 f5bf24e1f
-OL,11,FLast Update: 01/08/2025 02:26:18  G2/2
+OL,25,1754015187;
+OL,10,GService: Webfax 2 - 6903 e47896019
+OL,11,FLast Update: 01/08/2025 03:26:27  G2/2
 OL,13,CitvSport/westcountry       G23/07-21:55
-OL,14,Amet_weather/506            G01/08-02:10
-OL,15,Amet_weather/508            G01/08-00:25
-OL,16,Amet_weather/514            G31/07-22:43
-OL,17,Ctvroom/cleanfeed           G30/07-02:25
+OL,14,Amet_weather/504            G01/08-03:26
+OL,15,Amet_weather/506            G01/08-02:10
+OL,16,Amet_weather/508            G01/08-00:25
+OL,17,Amet_weather/514            G31/07-22:43
