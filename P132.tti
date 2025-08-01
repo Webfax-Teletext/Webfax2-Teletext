@@ -2,24 +2,28 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1753726462
+OL,0,        ECIMSBWebfax 2   F132A1754029649
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA dry start
-OL,6,Fthis evening before outbreaks of rain
-OL,7,Fspread from the west by midnight. Then
-OL,8,Fthe rest of the night will be cloudy
-OL,9,Fwith occasional rain. Minimum
-OL,10,FTemperature 13C.
+OL,5,CToday:FA mainly dry day with some
+OL,6,Fbright or sunny interludes, the best
+OL,7,Fof the sunshine along the north coast.
+OL,8,FThere will be a scattering of light
+OL,9,Fshowers, though most will stay dry
+OL,10,FMaximum Temperature 20C.
 OL,11,
-OL,12,CTuesday:FCloudy in the morning with a
-OL,13,Flittle light rain or drizzle.
-OL,14,FRemaining mostly cloudy in the
-OL,15,Fafternoon but becoming largely dry.
-OL,16,FChance of some brightness in the
-OL,17,Fsoutheast. Maximum Temperature 18C.
+OL,12,CTonight:FAny showers dying out this
+OL,13,Fevening with some late sunshine in all
+OL,14,Fareas. Then the night will be dry with
+OL,15,Fsome clear periods. Minimum
+OL,16,FTemperature 7C.
+OL,17,
+OL,18,CSaturday:FA dry morning with some
+OL,19,Fsunshine. Then clouding over in the
+OL,20,Fafternoon, perhaps a little light rain
+OL,21,Fin the west. Maximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,16 +31,16 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F132A1753726462
+OL,0,        ECIMSBWebfax 2   F132A1754029649
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FA dry
-OL,6,Fstart likely for Wednesday before some
-OL,7,Fpatchy rain spreads east later in the
-OL,8,Fday. Mainly dry with some sunny spells
-OL,9,Fon Thursday and Friday.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FOvernight rain then Sunday bright with
+OL,7,Fsome sunshine. Heavy rain and gales,
+OL,8,Fperhaps severe, on Monday. Then sunny
+OL,9,Fintervals and showers on Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
