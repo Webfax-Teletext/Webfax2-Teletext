@@ -1,22 +1,20 @@
 PN,20400
 SC,0000
 PS,8000
-OL,0,        ECIMSBWebfax 2   F204A1754094953
+OL,0,        ECIMSBWebfax 2   F204A1754109391
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 1 AUG
-OL,4,G0100FBBC R4 Joins BBC World Service
-OL,5,G0530FNews Summary
-OL,6,G0534FShipping Forecast
-OL,7,G0543FPrayer for the Day
-OL,8,     GA spiritual comment and prayer to
-OL,9,     Gstart the day with the Reverend
-OL,10,     GCanon Grace Thomas.
-OL,11,G0545FUncharted with Hannah Fry
-OL,12,     GIt takes a world war and one
-OL,13,     Gdogged doctor in the Netherlands
-OL,14,     Gto finally reveal the true cause
-OL,15,     Gof one common disease.
+OL,4,G0534FShipping Forecast
+OL,5,G0543FPrayer for the Day
+OL,6,     GA spiritual comment and prayer to
+OL,7,     Gstart the day with the Reverend
+OL,8,     GCanon Grace Thomas.
+OL,9,G0545FUncharted with Hannah Fry
+OL,10,     GIt takes a world war and one
+OL,11,     Gdogged doctor in the Netherlands
+OL,12,     Gto finally reveal the true cause
+OL,13,     Gof one common disease.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
