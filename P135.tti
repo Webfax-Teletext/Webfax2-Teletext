@@ -2,24 +2,25 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1754109391
+OL,0,        ECIMSBWebfax 2   F135A1754149097
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FA mostly dry day with sunny
-OL,6,Fspells and light winds. Cloud will
-OL,7,Fincrease across the west coast in the
-OL,8,Fafternoon, bringing some patchy rain
-OL,9,Fto the Hebrides from late afternoon.
-OL,10,FMaximum Temperature 20C.
-OL,11,
-OL,12,CTonight:FA dry evening with some late
-OL,13,Fsunshine then clear skies in the east,
-OL,14,Fbut cloudy in the west with rain
-OL,15,Fturning heavy. Rain soon spreads east
-OL,16,Fovernight, occasionally heavy. Minimum
-OL,17,FTemperature 12C.
+OL,5,CThis Evening and Tonight:FA dry
+OL,6,Fevening with some late sunshine then
+OL,7,Fclear skies in the east, but cloudy in
+OL,8,Fthe west with rain turning heavy. Rain
+OL,9,Fsoon spreads east overnight,
+OL,10,Foccasionally heavy. Minimum
+OL,11,FTemperature 12C.
+OL,12,
+OL,13,CSunday:FA rather cloudy start with
+OL,14,Fsome patchy rain. This soon breaking
+OL,15,Fdown to scattered showers with some
+OL,16,Fsunny spells developing. Turning
+OL,17,Flargely dry by the end of the day.
+OL,18,FMaximum Temperature 19C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -27,24 +28,17 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F135A1754109391
+OL,0,        ECIMSBWebfax 2   F135A1754149097
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CSunday:FA rather cloudy start with
-OL,6,Fsome patchy rain. This soon breaking
-OL,7,Fdown to scattered showers with some
-OL,8,Fsunny spells developing. Turning
-OL,9,Flargely dry by the end of the day.
-OL,10,FMaximum Temperature 19C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FVery
-OL,13,Fstrong winds and heavy rain from storm
-OL,14,FFloris on Monday. Rain clearing east
-OL,15,Fovernight. Winds slowly easing through
-OL,16,FTuesday with showers in the west. Dry
-OL,17,Fwith lighter winds Wednesday.
+OL,5,COutlook for Monday to Wednesday:FVery
+OL,6,Fstrong winds and heavy rain from storm
+OL,7,FFloris on Monday. Rain clearing east
+OL,8,Fovernight. Winds slowly easing through
+OL,9,FTuesday with showers in the west. Dry
+OL,10,Fwith lighter winds Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
