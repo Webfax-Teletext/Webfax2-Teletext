@@ -1,29 +1,48 @@
-PN,13400
-SC,0000
+PN,13401
+SC,0001
 CT,20,T
-PS,8000
-OL,0,        ECIMSBWebfax 2   F134A1754080515
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c000
+OL,0,        ECIMSBWebfax 2   F134A1754105779
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThis Evening and Tonight:FSome sunny
-OL,6,Fspells in the evening and then clear
-OL,7,Fperiods overnight, though an isolated
-OL,8,Fshower or two is still possible. North
-OL,9,Fto northwest winds easing. Minimum
-OL,10,FTemperature 10C.
-OL,11,
-OL,12,CSaturday:FIt will be a dry day with
-OL,13,Fsome long spells of sunshine. Winds
-OL,14,Fwill be light. Maximum Temperature 16C.
-OL,15,
-OL,16,COutlook for Sunday to Tuesday:FEarly
-OL,17,Frain soon clearing Sunday followed by
-OL,18,Fgood spells of sunshine. Storm Floris
-OL,19,Fbringing heavy rain, severe gales and
-OL,20,Fpossibly storm force winds Monday.
-OL,21,FSunny intervals and showers on Tuesday.
+OL,5,CToday:FA few isolated light showers
+OL,6,Fare possible first thing, but it will
+OL,7,Fmostly be a dry day with some good
+OL,8,Fsunny spells and light winds. Maximum
+OL,9,FTemperature 17C.
+OL,10,
+OL,11,CTonight:FA dry evening with some late
+OL,12,Fsunshine. Clouding over after dark
+OL,13,Fwith outbreaks of rain spreading east
+OL,14,Fovernight, these turning increasingly
+OL,15,Fheavy later in the night. Minimum
+OL,16,FTemperature 11C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,135,120,301,200,000,100
+PN,13402
+SC,0002
+CT,20,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F134A1754105779
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GOrkney
+OL,4,
+OL,5,CSunday:FOccasionally heavy rain
+OL,6,Fclearing Orkney soon after down, but
+OL,7,Fcontinues across Shetland until mid to
+OL,8,Flate morning. Dry and sunny in the
+OL,9,Fafternoon. Maximum Temperature 17C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:FVery
+OL,12,Fstrong winds and heavy rain from storm
+OL,13,FFloris on Monday. Rain clearing east
+OL,14,Fearly Tuesday with winds slowly easing
+OL,15,Fthrough the day. A few showers and
+OL,16,Flighter winds Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
