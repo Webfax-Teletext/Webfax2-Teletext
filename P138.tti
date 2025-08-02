@@ -1,42 +1,29 @@
-PN,13801
-SC,0001
+PN,13800
+SC,0000
 CT,20,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1754116609
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8000
+OL,0,        ECIMSBWebfax 2   F138A1754131039
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly dry
-OL,6,Fthis evening with some late brightness
-OL,7,Fin places. Then the rest of the night
-OL,8,Fwill be mainly dry although the odd
-OL,9,Fshower across the Isles. Minimum
-OL,10,FTemperature 10C.
-OL,11,
-OL,12,CFriday:FAll parts will have a dry day
-OL,13,Fwith some bright or sunny intervals.
-OL,14,FBecoming rather cloudy at times. Warm
-OL,15,Fin any sunshine. Maximum Temperature
-OL,16,F19C.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page BWeatherCReg Sport FNat Radio
-FL,139,120,301,200,000,100
-PN,13802
-SC,0002
-CT,20,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F138A1754116609
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GStrathclyde
-OL,4,
-OL,5,COutlook for Saturday to Monday:FDry
-OL,6,Fwith sunny spells on Saturday. Early
-OL,7,Frain soon clearing on Sunday followed
-OL,8,Fby sunshine, with showers across
-OL,9,FArgyll. Strong winds and heavy rain
-OL,10,Flikely on Monday.
+OL,5,CThis Evening and Tonight:FAny showers
+OL,6,Fdying out this evening with some late
+OL,7,Fsunshine in all areas. Then the night
+OL,8,Fwill be dry with some clear periods.
+OL,9,FLight winds. Minimum Temperature 8C.
+OL,10,
+OL,11,CSaturday:FA dry and bright day with
+OL,12,Fsome good spells of sunshine and just
+OL,13,Fsome patchy cloud. Light winds.
+OL,14,FMaximum Temperature 21C.
+OL,15,
+OL,16,COutlook for Sunday to Tuesday:FEarly
+OL,17,Frain soon clearing Sunday followed by
+OL,18,Fgood spells of sunshine. Storm Floris
+OL,19,Fbringing heavy rain, severe gales for
+OL,20,FMonday. Sunny intervals and showers on
+OL,21,FTuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
