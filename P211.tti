@@ -1,42 +1,20 @@
-PN,21101
-SC,0001
-PS,c000
-OL,0,        ECIMSBWebfax 2   F211A1754448726
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/2
+PN,21100
+SC,0000
+PS,8000
+OL,0,        ECIMSBWebfax 2   F211A1754452335
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for TUE 5 AUG
-OL,4,G0350FWitness History
-OL,5,     GIn 1936, Russian composer Dmitri
-OL,6,     GShostakovich was denounced by
-OL,7,     GSoviet leader Joseph Stalin. In
-OL,8,     Gresponse, he wrote one of the
-OL,9,     Gmost controversial symphonies in
-OL,10,     Ghistory.
-OL,11,G0400FBBC News
-OL,12,G0406FThe Newsroom
-OL,13,     GThe world's Newsroom brings you
-OL,14,     Gglobal events as they happen.
-OL,15,G0430FBBC News Summary
-OL,16,G0432F13 Minutes Presents: The Space
-OL,17,     FShuttle
-OL,18,     GColumbia reaches orbit but
-OL,19,     Gastronaut Bob Crippen discovers
-OL,20,     Gthat the shuttle has been damaged
-OL,21,     G- can they make it home safely?
-OL,22,G0500FBBC News
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,212,200,150,300,000,100
-PN,21102
-SC,0002
-PS,c000
-OL,0,        ECIMSBWebfax 2   F211A1754448726
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/2
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for TUE 5 AUG
-OL,4,G0506FNewsday
-OL,5,     GLive news, business and sport
-OL,6,     Gfrom around the world.
+OL,4,G0432F13 Minutes Presents: The Space
+OL,5,     FShuttle
+OL,6,     GColumbia reaches orbit but
+OL,7,     Gastronaut Bob Crippen discovers
+OL,8,     Gthat the shuttle has been damaged
+OL,9,     G- can they make it home safely?
+OL,10,G0500FBBC News
+OL,11,G0506FNewsday
+OL,12,     GLive news, business and sport
+OL,13,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,212,200,150,300,000,100
