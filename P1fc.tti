@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1754655294
+OL,0,        ECIMSBWebfax 2   F1fcA1754658903
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1754655294;
-OL,10,GService: Webfax 2 - 7081 0ef0b3d4f
-OL,11,FLast Update: 08/08/2025 13:14:54  G1/2
+OL,25,1754658902;
+OL,10,GService: Webfax 2 - 7082 6d98ece12
+OL,11,FLast Update: 08/08/2025 14:15:02  G1/2
 OL,13,CbbcSport/Horse Racing      G06/08-21:07
 OL,14,Ageneric/national_weather   G07/08-06:31
 OL,15,CitvSport/border            G06/08-21:08
@@ -26,11 +26,11 @@ OL,19,CitvSport/meridian          G06/08-21:08
 OL,20,CitvSport/tyne-tees         G06/08-21:08
 OL,21,CitvSport/utv               G06/08-21:08
 OL,22,CitvSport/westcountry       G06/08-21:08
-OL,23,Amet_weather/502            G07/08-05:09
+OL,23,Amet_weather/504            G08/08-06:13
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1754655294
+OL,0,        ECIMSBWebfax 2   F1fcA1754658903
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,14 +42,13 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1754655294;
-OL,10,GService: Webfax 2 - 7081 0ef0b3d4f
-OL,11,FLast Update: 08/08/2025 13:14:54  G2/2
-OL,13,Amet_weather/504            G08/08-06:13
-OL,14,Amet_weather/506            G07/08-04:08
-OL,15,Amet_weather/509            G06/08-21:07
-OL,16,Amet_weather/510            G06/08-21:07
-OL,17,Amet_weather/512            G06/08-21:07
-OL,18,Amet_weather/513            G06/08-21:07
-OL,19,Amet_weather/514            G07/08-02:05
-OL,20,Ctvroom/cleanfeed           G06/08-21:07
+OL,25,1754658902;
+OL,10,GService: Webfax 2 - 7082 6d98ece12
+OL,11,FLast Update: 08/08/2025 14:15:02  G2/2
+OL,13,Amet_weather/506            G07/08-04:08
+OL,14,Amet_weather/509            G06/08-21:07
+OL,15,Amet_weather/510            G06/08-21:07
+OL,16,Amet_weather/512            G06/08-21:07
+OL,17,Amet_weather/513            G06/08-21:07
+OL,18,Amet_weather/514            G07/08-02:05
+OL,19,Ctvroom/cleanfeed           G06/08-21:07
