@@ -2,23 +2,28 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1754655294
+OL,0,        ECIMSBWebfax 2   F127A1754709436
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FA fine day, with lengthy sunny
-OL,6,Fperiods and perhaps a little fair-
-OL,7,Fweather cloud, mainly during the
-OL,8,Fmorning. Feeling warm in the sunshine,
-OL,9,Fwith light winds expected throughout.
-OL,10,FMaximum Temperature 25C.
+OL,5,CToday:FFine during Saturday morning,
+OL,6,Fbut rather breezy and turning
+OL,7,Fcloudier, with chance of an afternoon
+OL,8,Fshower, mainly across Derbyshire. A
+OL,9,Ffine end to the day. Maximum
+OL,10,FTemperature 25C.
 OL,11,
-OL,12,CTonight:FFine during the evening, with
-OL,13,Flate sunny then clear periods. Cooler
-OL,14,Fthan previous night, with light winds
-OL,15,Fperhaps allowing the odd fog patch to
-OL,16,Fdevelop later. Minimum Temperature 10C.
+OL,12,CTonight:FSome long clear spells for
+OL,13,Fmost of the region, with a rather cool
+OL,14,Fnight likely. Some cloud further west
+OL,15,Ffor a time. Minimum Temperature 11C.
+OL,16,
+OL,17,CSunday:FA fine day with long spells of
+OL,18,Fincreasingly warm sunshine by the
+OL,19,Fafternoon. Some cloud might develop
+OL,20,Ffor a time, mainly in west. Light
+OL,21,Fwinds. Maximum Temperature 26C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -26,24 +31,18 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1754655294
+OL,0,        ECIMSBWebfax 2   F127A1754709436
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CSaturday:FMainly fine with some warm
-OL,6,Fsunshine. Eventually becoming cloudier
-OL,7,Ffrom the northwest later in the day,
-OL,8,Fwith one or two showers possible for a
-OL,9,Ftime. Maximum Temperature 25C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:
-OL,12,FTemperatures climbing during this
-OL,13,Fperiod, becoming hot into the new
-OL,14,Fworking week. Some sunshine expected,
-OL,15,Falthough on the cloudy side at times,
-OL,16,Fwith sporadic thundery showers
-OL,17,Fbecoming more likely.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FTemperatures climbing during this
+OL,7,Fperiod, becoming very warm into the
+OL,8,Fnew working week. Some sunshine
+OL,9,Fexpected, although on the cloudy side
+OL,10,Fat times, with sporadic thundery
+OL,11,Fshowers probable.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
