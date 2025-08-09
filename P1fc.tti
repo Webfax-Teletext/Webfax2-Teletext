@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1754694991
+OL,0,        ECIMSBWebfax 2   F1fcA1754698600
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1754694990;
-OL,10,GService: Webfax 2 - 7092 6e6728631
-OL,11,FLast Update: 09/08/2025 00:16:30  G1/2
+OL,25,1754698600;
+OL,10,GService: Webfax 2 - 7093 a8e7de4e3
+OL,11,FLast Update: 09/08/2025 01:16:40  G1/2
 OL,13,CbbcSport/Horse Racing      G06/08-21:07
 OL,14,Ageneric/national_weather   G07/08-06:31
 OL,15,CitvNews/london             G07/08-17:18
@@ -30,7 +30,7 @@ OL,23,CitvSport/utv               G06/08-21:08
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1754694991
+OL,0,        ECIMSBWebfax 2   F1fcA1754698600
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,15 +42,14 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1754694990;
-OL,10,GService: Webfax 2 - 7092 6e6728631
-OL,11,FLast Update: 09/08/2025 00:16:30  G2/2
+OL,25,1754698600;
+OL,10,GService: Webfax 2 - 7093 a8e7de4e3
+OL,11,FLast Update: 09/08/2025 01:16:40  G2/2
 OL,13,CitvSport/westcountry       G06/08-21:08
 OL,14,Amet_weather/504            G08/08-06:13
 OL,15,Amet_weather/506            G07/08-04:08
-OL,16,Amet_weather/509            G06/08-21:07
-OL,17,Amet_weather/510            G06/08-21:07
-OL,18,Amet_weather/512            G06/08-21:07
-OL,19,Amet_weather/513            G06/08-21:07
-OL,20,Amet_weather/514            G07/08-02:05
-OL,21,Ctvroom/cleanfeed           G06/08-21:07
+OL,16,Amet_weather/510            G06/08-21:07
+OL,17,Amet_weather/512            G06/08-21:07
+OL,18,Amet_weather/513            G06/08-21:07
+OL,19,Amet_weather/514            G07/08-02:05
+OL,20,Ctvroom/cleanfeed           G06/08-21:07
