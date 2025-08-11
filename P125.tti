@@ -2,24 +2,27 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1754887527
+OL,0,        ECIMSBWebfax 2   F125A1754894743
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FA bright end
-OL,6,Fto the afternoon with sunny spells
-OL,7,Fthis evening. Remaining dry overnight
-OL,8,Fwith clear skies. Turning fresh in
-OL,9,Fsome rural areas, perhaps with a few
-OL,10,Fmist and fog patches developing by
-OL,11,Fdawn. Minimum Temperature 8C.
-OL,12,
-OL,13,CSunday:FAny mist or fog quickly
-OL,14,Fclearing after dawn to leave a dry day
-OL,15,Fwith lengthy sunny periods. Feeling
-OL,16,Fwarmer than on Saturday with lighter
-OL,17,Fwinds. Maximum Temperature 23C.
+OL,5,CToday:FMainly dry today with plenty of
+OL,6,Fhazy sunshine, once early drizzle has
+OL,7,Fcleared Cumbria. Very isolated
+OL,8,Fafternoon heavy showers are possible
+OL,9,Fthis most likely in Pennine regions.
+OL,10,FHumid, especially in the north and
+OL,11,Ffeeling very warm in southern
+OL,12,Fcounties. Maximum Temperature 27C.
+OL,13,
+OL,14,CTonight:FMostly fine and warm this
+OL,15,Fevening but an isolated shower is
+OL,16,Fpossible. Mainly dry overnight but
+OL,17,Fthundery showers may develop later.
+OL,18,FStaying warm making for an
+OL,19,Funcomfortable night for sleeping.
+OL,20,FMinimum Temperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -27,17 +30,26 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1754887527
+OL,0,        ECIMSBWebfax 2   F125A1754894743
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Monday to Wednesday:
-OL,6,FLargely dry and very warm early next
-OL,7,Fweek with plenty of sunshine and
-OL,8,Ffeeling hot in places by Tuesday.
-OL,9,FIsolated thunderstorms later. Perhaps
-OL,10,Fturning somewhat fresher by Wednesday.
+OL,5,CTuesday:FSome cloud through the
+OL,6,Fmorning with perhaps the odd thundery
+OL,7,Fshower. Temperatures quickly rising
+OL,8,Fwith sunnier skies spreading north
+OL,9,Fthrough the afternoon. Humid for many,
+OL,10,Fespecially hot in the south. Maximum
+OL,11,FTemperature 31C.
+OL,12,
+OL,13,COutlook for Wednesday to Friday:
+OL,14,FProbably staying hot and mostly sunny
+OL,15,Fon Wednesday with isolated
+OL,16,Fthunderstorms later. Cloudier and
+OL,17,Fsomewhat fresher on Thursday with
+OL,18,Fheavy showers possible. Dry and warm
+OL,19,Fon Friday with sunny spells.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
