@@ -2,24 +2,25 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1754977146
+OL,0,        ECIMSBWebfax 2   F126A1755020480
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CToday:FHazy sunshine during the
-OL,6,Fmorning with a risk of isolated
-OL,7,Fthundery showers possible during the
-OL,8,Fafternoon. Feeling very warm and
-OL,9,Fhumid. Misty near the coast where low
-OL,10,Fcloud may persist in places into the
-OL,11,Fafternoon. Maximum Temperature 30C.
+OL,5,CThis Evening and Tonight:FPatchy
+OL,6,Fcloudy with a risk of further isolated
+OL,7,Fthundery showers in the evening. Skies
+OL,8,Fmay clear towards dawn allowing some
+OL,9,Fmist or fog patches to form,
+OL,10,Fparticularly along the Humber. Light
+OL,11,Fwinds. Minimum Temperature 14C.
 OL,12,
-OL,13,CTonight:FMostly cloudy with a risk of
-OL,14,Ffurther isolated thundery showers.
-OL,15,FSkies may clear towards dawn allowing
-OL,16,Fsome mist patches to form. Light
-OL,17,Fwinds. Minimum Temperature 14C.
+OL,13,CWednesday:FAny early mist and low
+OL,14,Fcloud will quickly clear, leaving a
+OL,15,Ffine dry day with long periods of
+OL,16,Fsunshine and light winds. Isolated
+OL,17,Fthundery showers are possible
+OL,18,Fovernight. Maximum Temperature 32C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -27,25 +28,18 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1754977146
+OL,0,        ECIMSBWebfax 2   F126A1755020480
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CWednesday:FAny early mist and low
-OL,6,Fcloud will quickly clear leaving a
-OL,7,Ffine dry day with long periods of
-OL,8,Fsunshine and light winds. Isolated
-OL,9,Fthundery showers are possible
-OL,10,Fovernight. Maximum Temperature 31C.
-OL,11,
-OL,12,COutlook for Thursday to Saturday:
-OL,13,FCloudy on Thursday with isolated
-OL,14,Fthundery showers possible. More
-OL,15,Fsunshine on Friday and Saturday,
-OL,16,Fthough low cloud and mist may affect
-OL,17,Fcoastal parts. Temperatures widely
-OL,18,Fabove average, feeling humid overnight.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FCloudy on Thursday with isolated
+OL,7,Fthundery showers possible. More
+OL,8,Fsunshine on Friday and Saturday,
+OL,9,Fthough low cloud and mist may affect
+OL,10,Fcoastal parts. Temperatures widely
+OL,11,Fabove average, feeling humid overnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
