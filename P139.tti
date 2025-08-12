@@ -2,26 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1754959066
+OL,0,        ECIMSBWebfax 2   F139A1754973527
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FA cloudy start to the day with
-OL,6,Fpatchy rain but drier and brighter
-OL,7,Fconditions in the east. Showers, some
-OL,8,Fheavy, spread north during the
-OL,9,Fafternoon. Maximum Temperature 23C.
-OL,10,
-OL,11,CTonight:FA few showers continue into
-OL,12,Fthe evening but these soon clear to
-OL,13,Fleave the night dry and mild with
-OL,14,Fclear periods. Minimum Temperature 14C.
-OL,15,
-OL,16,CTuesday:FThe day will stay mostly dry
-OL,17,Fwith only a chance of the odd shower,
-OL,18,Fbecoming warm in light winds and sunny
-OL,19,Fperiods. Maximum Temperature 25C.
+OL,5,CToday:FThe day will begin mild but
+OL,6,Fcloudy with the odd shower. Early
+OL,7,Fcloud and any showers will soon clear
+OL,8,Fto leave the day warm with sunny
+OL,9,Fperiods and the chance of an odd
+OL,10,Fshower at times. Maximum Temperature
+OL,11,F26C.
+OL,12,
+OL,13,CTonight:FThe evening will be mild and
+OL,14,Fdry with clear periods. Cloud will
+OL,15,Fsoon increase followed by a few
+OL,16,Fshowers passing north late evening.
+OL,17,FMinimum Temperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -29,16 +27,23 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1754959066
+OL,0,        ECIMSBWebfax 2   F139A1754973527
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FBright, warm and mainly dry with the
-OL,7,Foccasional shower, these becoming
-OL,8,Fscattered, heavy and possibly thundery
-OL,9,Ffor a time during Thursday.
+OL,5,CWednesday:FCloudy with any early
+OL,6,Fshowers soon clearing to leave a dry
+OL,7,Fand warm day with the chance of an odd
+OL,8,Fafternoon shower. Maximum Temperature
+OL,9,F26C.
+OL,10,
+OL,11,COutlook for Thursday to Saturday:FVery
+OL,12,Fwarm with early morning showers soon
+OL,13,Fclearing north. This will leave the
+OL,14,Frest of Thursday, Friday and Saturday
+OL,15,Fmainly dry with sunny spells and only
+OL,16,Fthe odd shower.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
