@@ -1,28 +1,18 @@
 PN,20400
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1755056582
+OL,0,        ECIMSBWebfax 2   F204A1755060190
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for TUE 12 AUG
-OL,4,G0100FBBC R4 Joins BBC World Service
-OL,5,G0500FNews Summary
-OL,6,G0504FBBC Inside Science
-OL,7,     GAs US Health Secretary Robert F
-OL,8,     GKennedy Jr announces plans to
-OL,9,     Gcancel $500 million dollars of
-OL,10,     Gfunding for mRNA vaccine
-OL,11,     Gdevelopment, we look at the
-OL,12,     Gevidence behind the vaccines.
-OL,13,G0534FShipping Forecast
-OL,14,G0543FPrayer for the Day
-OL,15,     GA spiritual comment and prayer to
-OL,16,     Gstart the day with Yousra Samir
-OL,17,     GImran.
-OL,18,G0545FFarming Today
-OL,19,     GFairness rules for pig trade,
-OL,20,     Gdrought effects on farm, using
-OL,21,     Gfallen livestock.
+OL,4,G0543FPrayer for the Day
+OL,5,     GA spiritual comment and prayer to
+OL,6,     Gstart the day with Yousra Samir
+OL,7,     GImran.
+OL,8,G0545FFarming Today
+OL,9,     GFairness rules for pig trade,
+OL,10,     Gdrought effects on farm, using
+OL,11,     Gfallen livestock.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
