@@ -1,8 +1,8 @@
-PN,20400
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1755132392
-OL,1,W{${$~+$ {$~{4k4h7} *u|
+PN,20401
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1755143218
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 13 AUG
 OL,4,G0100FBBC R4 Joins BBC World Service
@@ -19,9 +19,23 @@ OL,14,G0543FPrayer for the Day
 OL,15,     GA spiritual comment and prayer to
 OL,16,     Gstart the day with Yousra Samir
 OL,17,     GImran.
-OL,18,G0545FFarming Today
-OL,19,     GThe latest news about food,
-OL,20,     Gfarming and the countryside.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20402
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1755143218
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for WED 13 AUG
+OL,4,G0545FFarming Today
+OL,5,     GShooting club says being refused
+OL,6,     Ga licence to release game birds
+OL,7,     Gcould force it to close.
+OL,8,     GConservationists say the rules
+OL,9,     Gshould be tighter still because
+OL,10,     Gof the risk of bird flu.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
