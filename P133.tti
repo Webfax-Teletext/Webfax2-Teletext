@@ -2,27 +2,24 @@ PN,13301
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1755215390
+OL,0,        ECIMSBWebfax 2   F133A1755229827
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CThis Evening and Tonight:FScattered
-OL,6,Fshowers this evening, with an isolated
-OL,7,Fthunderstorm possible in the north.
-OL,8,FOtherwise, a sunny evening for many
-OL,9,Fand staying dry overnight. Misty in
-OL,10,Fsome coastal areas this evening with
-OL,11,Fpatchy low cloud and fog developing
-OL,12,Finland overnight. Mild. Minimum
-OL,13,FTemperature 13C.
-OL,14,
-OL,15,CFriday:FAny low cloud and patchy fog
-OL,16,Fsoon clearing, leaving a fine day with
-OL,17,Flengthy periods of strong sunshine.
-OL,18,FFeeling very warm with just a light
-OL,19,Fbreeze for most. Maximum Temperature
-OL,20,F28C.
+OL,5,CToday:FAny low cloud and patchy fog
+OL,6,Fsoon clearing, leaving a fine day with
+OL,7,Flengthy periods of strong sunshine.
+OL,8,FFeeling very warm with just a light
+OL,9,Fbreeze for most. Maximum Temperature
+OL,10,F28C.
+OL,11,
+OL,12,CTonight:FWarm and sunny this evening
+OL,13,Fand staying dry overnight. Low cloud
+OL,14,Fmay develop in places later in the
+OL,15,Fnight with the odd mist patch too.
+OL,16,FRemaining mild. Minimum Temperature
+OL,17,F13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
@@ -30,18 +27,23 @@ PN,13302
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1755215390
+OL,0,        ECIMSBWebfax 2   F133A1755229827
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,COutlook for Saturday to Monday:FA
-OL,6,Fgenerally dry and sunny period. Nights
-OL,7,Fand mornings may be cloudier in
-OL,8,Fplaces. Feeling very warm in the
-OL,9,Fsunshine. Possible showers or
-OL,10,Fthunderstorms on Monday. Breezy at
-OL,11,Ftimes.
+OL,5,CSaturday:FA cloudier start to the day
+OL,6,Fis possible for some, but sunny spells
+OL,7,Fsoon developing. Mainly sunny by the
+OL,8,Fafternoon and turning very warm. Light
+OL,9,Fwinds. Maximum Temperature 26C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:FFine on
+OL,12,FSunday with plenty of sunshine. Often
+OL,13,Fdry early next week too but showers or
+OL,14,Fthunderstorms are possible, mainly on
+OL,15,FMonday. Warm or very warm albeit
+OL,16,Fbreezy at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
