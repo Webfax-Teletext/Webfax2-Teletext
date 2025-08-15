@@ -2,24 +2,23 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1755211781
+OL,0,        ECIMSBWebfax 2   F131A1755262308
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FDry this
-OL,6,Fevening with some late sunshine.
-OL,7,FStaying dry overnight but patchy low
-OL,8,Fcloud and fog developing in places.
-OL,9,FStaying rather warm and humid for
-OL,10,Fmost, though slightly fresher than
-OL,11,Flast night. Minimum Temperature 14C.
-OL,12,
-OL,13,CFriday:FAny low cloud and patchy fog
-OL,14,Fsoon clearing, leaving a fine and dry
-OL,15,Fday with lengthy periods of strong
-OL,16,Fsunshine. Feeling hot with only a
-OL,17,Flight breeze. Maximum Temperature 29C.
+OL,5,CToday:FAny low cloud and patchy fog
+OL,6,Fsoon clearing, leaving a fine and dry
+OL,7,Fday with lengthy periods of strong
+OL,8,Fsunshine. Feeling hot with only a
+OL,9,Flight breeze. Maximum Temperature 30C.
+OL,10,
+OL,11,CTonight:FWarm and sunny this evening
+OL,12,Fand staying dry overnight. Low cloud
+OL,13,Fmay develop in places later in the
+OL,14,Fnight with the odd mist patch too.
+OL,15,FRemaining mild. Minimum Temperature
+OL,16,F16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -27,17 +26,25 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1755211781
+OL,0,        ECIMSBWebfax 2   F131A1755262308
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Saturday to Monday:FLots
-OL,6,Fof strong sunshine over the weekend,
-OL,7,Fbut early morning cloud in eastern
-OL,8,Fcounties. Very warm in the sunshine,
-OL,9,Fthough also windy at times. Showers or
-OL,10,Fthunderstorms possible on Monday.
+OL,5,CSaturday:FSome cloud in eastern
+OL,6,Fcounties at first, this generally
+OL,7,Fclearing, then plenty of strong
+OL,8,Fsunshine for most. Feeling very warm
+OL,9,Fbut gusty easterly winds in places,
+OL,10,Fespecially Devon and Cornwall. Maximum
+OL,11,FTemperature 27C.
+OL,12,
+OL,13,COutlook for Sunday to Tuesday:FFine on
+OL,14,FSunday with plenty of sunshine. Often
+OL,15,Fdry early next week too but showers or
+OL,16,Fthunderstorms are possible, mainly on
+OL,17,FMonday. Warm or very warm albeit
+OL,18,Fbreezy at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
