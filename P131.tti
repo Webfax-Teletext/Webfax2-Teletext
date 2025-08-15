@@ -2,23 +2,28 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1755262308
+OL,0,        ECIMSBWebfax 2   F131A1755276756
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FAny low cloud and patchy fog
-OL,6,Fsoon clearing, leaving a fine and dry
-OL,7,Fday with lengthy periods of strong
-OL,8,Fsunshine. Feeling hot with only a
-OL,9,Flight breeze. Maximum Temperature 30C.
-OL,10,
-OL,11,CTonight:FWarm and sunny this evening
-OL,12,Fand staying dry overnight. Low cloud
-OL,13,Fmay develop in places later in the
-OL,14,Fnight with the odd mist patch too.
-OL,15,FRemaining mild. Minimum Temperature
-OL,16,F16C.
+OL,5,CThis Evening and Tonight:FWarm and
+OL,6,Fmostly sunny this evening, albeit with
+OL,7,Frather hazy skies possible. Mostly
+OL,8,Fclear skies overnight but low cloud
+OL,9,Fmay develop in places later.
+OL,10,FFreshening easterly winds in some
+OL,11,Fcoastal areas later. Remaining mild
+OL,12,Fand rather warm in places. Minimum
+OL,13,FTemperature 16C.
+OL,14,
+OL,15,CSaturday:FAny early morning cloud
+OL,16,Fgradually clearing to leave a
+OL,17,Fgenerally sunny day. Easterly winds
+OL,18,Ffreshening with locally strong and
+OL,19,Fgusty winds in parts of Devon and
+OL,20,FCornwall. Feeling very warm. Maximum
+OL,21,FTemperature 29C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -26,25 +31,17 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1755262308
+OL,0,        ECIMSBWebfax 2   F131A1755276756
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CSaturday:FSome cloud in eastern
-OL,6,Fcounties at first, this generally
-OL,7,Fclearing, then plenty of strong
-OL,8,Fsunshine for most. Feeling very warm
-OL,9,Fbut gusty easterly winds in places,
-OL,10,Fespecially Devon and Cornwall. Maximum
-OL,11,FTemperature 27C.
-OL,12,
-OL,13,COutlook for Sunday to Tuesday:FFine on
-OL,14,FSunday with plenty of sunshine. Often
-OL,15,Fdry early next week too but showers or
-OL,16,Fthunderstorms are possible, mainly on
-OL,17,FMonday. Warm or very warm albeit
-OL,18,Fbreezy at times.
+OL,5,COutlook for Sunday to Tuesday:FBreezy
+OL,6,Fwith plenty of strong sunshine on
+OL,7,FSunday. Often dry early next week too
+OL,8,Fbut showers or thunderstorms are
+OL,9,Fpossible, mainly on Monday. Blustery
+OL,10,Fat times but often very warm.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
