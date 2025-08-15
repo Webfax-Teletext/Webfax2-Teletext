@@ -2,26 +2,23 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1755222605
+OL,0,        ECIMSBWebfax 2   F128A1755240652
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FA few
-OL,6,Fshowers are possible this evening,
-OL,7,Fperhaps locally heavy. Otherwise, a
-OL,8,Fsunny evening for many and staying dry
-OL,9,Fovernight. Patchy low cloud, mist and
-OL,10,Ffog developing in places overnight and
-OL,11,Fstaying rather warm. Minimum
-OL,12,FTemperature 15C.
-OL,13,
-OL,14,CFriday:FAny low cloud and patchy fog
-OL,15,Fsoon clearing, leaving a fine day with
-OL,16,Flengthy periods of strong sunshine.
-OL,17,FFeeling quite hot with just a light
-OL,18,Fbreeze for most. Maximum Temperature
-OL,19,F29C.
+OL,5,CToday:FAny low cloud and patchy fog
+OL,6,Fsoon clearing, leaving a fine day with
+OL,7,Flengthy periods of strong sunshine.
+OL,8,FFeeling quite hot with just a light
+OL,9,Fbreeze for most. Maximum Temperature
+OL,10,F29C.
+OL,11,
+OL,12,CTonight:FWarm and sunny this evening
+OL,13,Fand staying dry overnight. Low cloud
+OL,14,Fmay develop in places later in the
+OL,15,Fnight. Remaining mild. Minimum
+OL,16,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -29,16 +26,23 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1755222605
+OL,0,        ECIMSBWebfax 2   F128A1755240652
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:FA
-OL,6,Flargely settled and dry period with
-OL,7,Foften sunny skies. Nights and mornings
-OL,8,Fmay be cloudier at times. Feeling very
-OL,9,Fwarm in the sunshine with mild nights.
+OL,5,CSaturday:FA cloudier start to the day
+OL,6,Fis possible for some, but sunny spells
+OL,7,Fsoon developing. Mainly sunny by the
+OL,8,Fafternoon and turning very warm. Light
+OL,9,Fwinds. Maximum Temperature 27C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:FFine on
+OL,12,FSunday with plenty of sunshine
+OL,13,Fdeveloping. Often dry early next week,
+OL,14,Fbut showers or thunderstorms are
+OL,15,Fpossible, mainly on Monday. Staying
+OL,16,Fvery warm with generally light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
