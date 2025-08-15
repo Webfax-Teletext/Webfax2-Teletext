@@ -2,24 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1755283971
+OL,0,        ECIMSBWebfax 2   F132A1755298421
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FIt will be a rather cloudy
-OL,6,Fstart on Friday with cloud around the
-OL,7,Fnorth coast and patchy mist or fog in
-OL,8,Fplaces elsewhere, but sunny spells
-OL,9,Fdeveloping through the day. Warm in
-OL,10,Fany sunshine. Maximum Temperature 22C.
-OL,11,
-OL,12,CTonight:FDry with late sunny and then
-OL,13,Fclear spells through the evening,
-OL,14,Fallowing some patches of mist or fog
-OL,15,Fto develop. Clouding over around the
-OL,16,FDerry and Antrim coast at times.
-OL,17,FMinimum Temperature 12C.
+OL,5,CThis Evening and Tonight:FDry with
+OL,6,Flate sunny and then clear spells
+OL,7,Fthrough the evening, allowing some
+OL,8,Fpatches of mist or fog to develop.
+OL,9,FClouding over around the Derry and
+OL,10,FAntrim coast at times. Minimum
+OL,11,FTemperature 12C.
+OL,12,
+OL,13,CSaturday:FAreas of mist or fog in
+OL,14,Fplaces and some cloud around the north
+OL,15,Fcoast at first, but good sunny spells
+OL,16,Fsoon developing through the day. Warm
+OL,17,Fin any sunshine. Maximum Temperature
+OL,18,F23C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,23 +28,16 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1755283971
+OL,0,        ECIMSBWebfax 2   F132A1755298421
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CSaturday:FAreas of mist or fog in
-OL,6,Fplaces and some cloud around the north
-OL,7,Fcoast at first, but good sunny spells
-OL,8,Fsoon developing through the day. Warm
-OL,9,Fin any sunshine. Maximum Temperature
-OL,10,F23C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FMainly
-OL,13,Fdry and bright on Sunday. Warm or Very
-OL,14,Fwarm in any sunshine. Showers possible
-OL,15,Ffrom late Sunday and through Tuesday
-OL,16,Fbut plenty of sunny spells too.
+OL,5,COutlook for Sunday to Tuesday:FMainly
+OL,6,Fdry and bright on Sunday. Warm or Very
+OL,7,Fwarm in any sunshine. Showers possible
+OL,8,Ffrom late Sunday and through Tuesday
+OL,9,Fbut plenty of sunny spells too.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
