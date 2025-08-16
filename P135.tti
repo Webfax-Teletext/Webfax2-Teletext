@@ -1,28 +1,43 @@
-PN,13500
-SC,0000
+PN,13501
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F135A1755305640
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F135A1755320073
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CThis Evening and Tonight:FSunny spells
-OL,6,Ffor many at first but clouding over
-OL,7,Ffrom the north and west through the
-OL,8,Fevening and overnight. Any thundery
-OL,9,Fshowers will die away through the
-OL,10,Fevening. Minimum Temperature 12C.
-OL,11,
-OL,12,CFriday:FA cloudy start on Friday with
-OL,13,Fpatchy rain and drizzle before
-OL,14,Fbrighter spells develop later. Maximum
-OL,15,FTemperature 21C.
-OL,16,
-OL,17,COutlook for Saturday to Monday:FStaying
-OL,18,Fdry and bright over the weekend and
-OL,19,Fthrough Monday. Warm or very warm in
-OL,20,Fany sunshine.
+OL,5,CThis Evening and Tonight:FRather
+OL,6,Fcloudy at first but clearer spells in
+OL,7,Fthe north will spread south to many
+OL,8,Fareas through the evening and
+OL,9,Fovernight. Staying cloudy towards
+OL,10,FInverness and Nairn. Minimum
+OL,11,FTemperature 10C.
+OL,12,
+OL,13,CSaturday:FA cloudy start towards
+OL,14,FInverness and Nairn but this should
+OL,15,Fgradually lift and break through the
+OL,16,Fmorning. Otherwise dry and warm with
+OL,17,Fbright or sunny spells. Maximum
+OL,18,FTemperature 20C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,136,120,301,200,000,100
+PN,13502
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F135A1755320073
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GHighlands
+OL,4,
+OL,5,COutlook for Sunday to Tuesday:FStaying
+OL,6,Fdry and bright from Sunday to Tuesday
+OL,7,Fthough cloud feeding in from the Moray
+OL,8,FFirth at times. Warm or very warm in
+OL,9,Fany sunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100

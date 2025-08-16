@@ -1,29 +1,46 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F139A1755287577
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1755320073
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FSunny spells
-OL,6,Fand variable amounts of cloud to
-OL,7,Fstart, but clouding over from the east
-OL,8,Fthrough the evening and overnight.
-OL,9,FStaying clearer in the southwest.
-OL,10,FMinimum Temperature 13C.
-OL,11,
-OL,12,CSaturday:FA cloudy start in the east
-OL,13,Fbut this should gradually lift and
-OL,14,Fbreak through the morning. Otherwise
-OL,15,Fdry and warm with bright or sunny
-OL,16,Fspells. Maximum Temperature 23C.
-OL,17,
-OL,18,COutlook for Sunday to Tuesday:FStaying
-OL,19,Fdry and bright from Sunday to Tuesday
-OL,20,Fthough cloud feeding in from the coast
-OL,21,Fat times. Warm in any sunshine.
+OL,5,CToday:FA cloudy start in the east but
+OL,6,Fthis should gradually lift and break
+OL,7,Fthrough the morning. Otherwise dry and
+OL,8,Fwarm with bright or sunny spells.
+OL,9,FMaximum Temperature 23C.
+OL,10,
+OL,11,CTonight:FIt will be a dry night with
+OL,12,Fclear periods. A few mist patches
+OL,13,Fforming in rural parts by morning.
+OL,14,FLight winds. Minimum Temperature 9C.
+OL,15,
+OL,16,CSunday:FAny mist patches quickly
+OL,17,Fdispersing the leave a dry day with
+OL,18,Fplenty of sunshine. Warm inland but
+OL,19,Fonshore breezes keeping east coast
+OL,20,Fcooler. Maximum Temperature 24C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1755320073
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,COutlook for Monday to Wednesday:FHigh
+OL,6,Fpressure is expected to keep dry,
+OL,7,Fsettled weather for the first half of
+OL,8,Fnext week with some sunshine. However
+OL,9,Fit will be cooler, cloudier at times
+OL,10,Fin the east.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
