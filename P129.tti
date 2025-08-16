@@ -2,24 +2,23 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1755287577
+OL,0,        ECIMSBWebfax 2   F129A1755312856
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FLow cloud
-OL,6,Fextending inland through the evening,
-OL,7,Fwith a risk of some mist along the
-OL,8,Fcoast and perhaps a few hill fog
-OL,9,Fpatches. Staying dry with light winds
-OL,10,Fovernight. Minimum Temperature 16C.
+OL,5,CToday:FA cloudy start to the day,
+OL,6,Fgradually lifting to reveal some good
+OL,7,Fspells of sunshine by the afternoon.
+OL,8,FWinds will remain light, with
+OL,9,Ftemperatures staying close to the
+OL,10,Fseasonal norm Maximum Temperature 23C.
 OL,11,
-OL,12,CSaturday:FAny low cloud, mist or hill
-OL,13,Ffog clearing through the morning,
-OL,14,Fthough it may linger along the coast
-OL,15,Finto the afternoon. Generally fine and
-OL,16,Fdry with good spells of sunshine.
-OL,17,FMaximum Temperature 25C.
+OL,12,CTonight:FMist and fog patches
+OL,13,Fdeveloping in prone rural spots with
+OL,14,Fcloud making inroads from the coast
+OL,15,Fthrough the early hours. Minimum
+OL,16,FTemperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -27,18 +26,25 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1755287577
+OL,0,        ECIMSBWebfax 2   F129A1755312856
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:
-OL,6,FGenerally warm, settled and dry,
-OL,7,Fthough rather cloudy at times,
-OL,8,Fespecially along the coast. Low cloud
-OL,9,Fspreading inland overnight, but
-OL,10,Fdeveloping breaks by day. Best of the
-OL,11,Fsunshine likely inland.
+OL,5,CSunday:FAnother cloudy start,
+OL,6,Fespecially in coastal regions, likely
+OL,7,Fburning away quicker than Saturday to
+OL,8,Fsee plenty of sunshine. Temperatures
+OL,9,Fclose to average. Maximum Temperature
+OL,10,F25C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:
+OL,13,FSettled conditions expected through
+OL,14,Fthe period with cloudy mornings
+OL,15,Fgradually turning to sunny afternoons.
+OL,16,FCoastal areas may remain cloudy with
+OL,17,Fthe odd spot of drizzle possible.
+OL,18,FTemperatures close to average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
