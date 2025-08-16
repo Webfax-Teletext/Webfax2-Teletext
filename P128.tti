@@ -2,23 +2,27 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1755240652
+OL,0,        ECIMSBWebfax 2   F128A1755305640
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CToday:FAny low cloud and patchy fog
-OL,6,Fsoon clearing, leaving a fine day with
-OL,7,Flengthy periods of strong sunshine.
-OL,8,FFeeling quite hot with just a light
-OL,9,Fbreeze for most. Maximum Temperature
-OL,10,F29C.
-OL,11,
-OL,12,CTonight:FWarm and sunny this evening
-OL,13,Fand staying dry overnight. Low cloud
-OL,14,Fmay develop in places later in the
-OL,15,Fnight. Remaining mild. Minimum
-OL,16,FTemperature 13C.
+OL,5,CThis Evening and Tonight:FWarm with
+OL,6,Fplenty of sunshine this evening and
+OL,7,Fonly a little cloud in places. Staying
+OL,8,Fdry overnight with clear skies at
+OL,9,Ffirst. Probably turning cloudier in
+OL,10,Fmany areas during the early hours.
+OL,11,FRemaining mild with urban areas
+OL,12,Fstaying rather warm. Minimum
+OL,13,FTemperature 13C.
+OL,14,
+OL,15,CSaturday:FA cloudier start to the day
+OL,16,Fis possible for some, but sunny spells
+OL,17,Fsoon developing. Becoming mainly sunny
+OL,18,Fby the afternoon and turning very
+OL,19,Fwarm. A light easterly breeze. Maximum
+OL,20,FTemperature 27C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -26,23 +30,18 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1755240652
+OL,0,        ECIMSBWebfax 2   F128A1755305640
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CSaturday:FA cloudier start to the day
-OL,6,Fis possible for some, but sunny spells
-OL,7,Fsoon developing. Mainly sunny by the
-OL,8,Fafternoon and turning very warm. Light
-OL,9,Fwinds. Maximum Temperature 27C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FFine on
-OL,12,FSunday with plenty of sunshine
-OL,13,Fdeveloping. Often dry early next week,
-OL,14,Fbut showers or thunderstorms are
-OL,15,Fpossible, mainly on Monday. Staying
-OL,16,Fvery warm with generally light winds.
+OL,5,COutlook for Sunday to Tuesday:FSunny
+OL,6,Fand very warm on Sunday. Remaining
+OL,7,Fgenerally fine early next week but
+OL,8,Fcloudier at times with isolated
+OL,9,Fshowers possible. Temperatures
+OL,10,Fsomewhat lower but still very warm at
+OL,11,Ftimes.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
