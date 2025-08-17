@@ -2,27 +2,26 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1755395901
+OL,0,        ECIMSBWebfax 2   F126A1755410335
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Fdry tonight with mainly light winds.
-OL,7,FCloud tending to increase with time
-OL,8,Fbut will generally be less extensive
-OL,9,Fthan last night. A few isolated fog
-OL,10,Fpatches perhaps forming by morning
-OL,11,Fwhere skies stay clearer. Minimum
-OL,12,FTemperature 8C.
+OL,5,CToday:FAreas of cloud likely in the
+OL,6,Fmorning, then warm sunny spells
+OL,7,Fdeveloping inland during the
+OL,8,Fafternoon. Coastal areas however,
+OL,9,Fcould stay cloudier throughout. Dry
+OL,10,Fwith temperatures around average near
+OL,11,Fthe coast, warmer inland and generally
+OL,12,Flight winds. Maximum Temperature 24C.
 OL,13,
-OL,14,CSunday:FA largely cloudy morning, then
-OL,15,Fwarm sunny spells developing inland
-OL,16,Fduring the afternoon. Coastal areas
-OL,17,Fhowever, could stay cloudy throughout.
-OL,18,FDry with temperatures around average
-OL,19,Fand generally light winds. Maximum
-OL,20,FTemperature 24C.
+OL,14,CTonight:FAreas of cloud likely to
+OL,15,Fspread inland from the North Sea
+OL,16,Fovernight, perhaps thick enough in one
+OL,17,For two places for a spot of drizzle,
+OL,18,Fwith some hill fog patches. Minimum
+OL,19,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -30,18 +29,25 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1755395901
+OL,0,        ECIMSBWebfax 2   F126A1755410335
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FMainly
-OL,6,Fdry conditions expected with cloudy
-OL,7,Fmornings gradually giving way to
-OL,8,Fbrighter afternoons, particularly
-OL,9,Finland. Coastal areas however, could
-OL,10,Fstay largely cloudy. Temperatures
-OL,11,Fclose to average. Winds often light.
+OL,5,CMonday:FA generally rather cloudy
+OL,6,Fstart but gradually turning brighter
+OL,7,Finland, with the best of developing
+OL,8,Fsunny spells in the west. Coastal
+OL,9,Fareas could remain cloudy and cooler
+OL,10,Fthroughout. Maximum Temperature 23C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:FMainly
+OL,13,Fdry conditions expected with cloudy
+OL,14,Fmornings gradually giving way to
+OL,15,Fbrighter afternoons, particularly
+OL,16,Finland. Coastal areas however, could
+OL,17,Fstay largely cloudy and occasionally
+OL,18,Fbreezy. Temperatures close to average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
