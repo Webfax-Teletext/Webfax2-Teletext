@@ -1,29 +1,49 @@
-PN,13500
-SC,0000
+PN,13501
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F135A1755392292
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F135A1755417554
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CThis Evening and Tonight:FThe evening
-OL,6,Fand night will be dry with clear
-OL,7,Fperiods although rather cloudy across
-OL,8,Fparts of Caithness. A few mist patches
-OL,9,Fforming in the glens by morning.
-OL,10,FMinimum Temperature 9C.
+OL,5,CToday:FAny low cloud and mist in the
+OL,6,Feast likely to quickly disperse
+OL,7,Fleaving a dry day with plenty of warm
+OL,8,Fsunshine. Feeling very warm towards
+OL,9,FLochaber and the Great Glen. Light
+OL,10,Fwinds. Maximum Temperature 26C.
 OL,11,
-OL,12,CSunday:FAny mist patches quickly
-OL,13,Fdispersing to leave a dry day with
-OL,14,Fplenty of warm sunshine. Light winds.
-OL,15,FMaximum Temperature 24C.
-OL,16,
-OL,17,COutlook for Monday to Wednesday:FHigh
-OL,18,Fpressure is expected to keep dry,
-OL,19,Fsettled weather for the first half of
-OL,20,Fnext week with more warm sunshine and
-OL,21,Flight winds.
+OL,12,CTonight:FCloud returning around
+OL,13,Feastern coastal areas during the
+OL,14,Fevening, the west coast seeing a dry
+OL,15,Fclear night. Coastal cloud pushing
+OL,16,Ffurther west overnight with some
+OL,17,Fdrizzle. Minimum Temperature 13C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,136,120,301,200,000,100
+PN,13502
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F135A1755417554
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GHighlands
+OL,4,
+OL,5,CMonday:FA cloudy start in the east but
+OL,6,Fa bright and sunny start to the week
+OL,7,Ffor the west coast. Sunny conditions
+OL,8,Fall day in the west. Maximum
+OL,9,FTemperature 25C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FHigh
+OL,12,Fpressure is expected to remain over
+OL,13,Fthe area but low cloud will start to
+OL,14,Faffect the whole area with some
+OL,15,Fdrizzle at times. Best chance of
+OL,16,Fbrightness in west.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
