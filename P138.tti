@@ -1,29 +1,48 @@
-PN,13800
-SC,0000
+PN,13801
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F138A1755388684
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F138A1755435592
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FThe evening
-OL,6,Fwill continue dry with bright spells.
-OL,7,FIt will be a dry night with clear
-OL,8,Fperiods. A few mist patches forming in
-OL,9,Frural parts by morning. Light winds.
-OL,10,FMinimum Temperature 11C.
+OL,5,CToday:FAny mist patches quickly
+OL,6,Fdispersing to leave a dry day with
+OL,7,Fplenty of warm sunshine, perhaps some
+OL,8,Fcloud developing later in the day in
+OL,9,Fthe east. Very light winds. Maximum
+OL,10,FTemperature 26C.
 OL,11,
-OL,12,CSunday:FAny mist patches quickly
-OL,13,Fdispersing to leave a dry day with
-OL,14,Fplenty of warm sunshine. Light winds.
-OL,15,FMaximum Temperature 25C.
-OL,16,
-OL,17,COutlook for Monday to Wednesday:FHigh
-OL,18,Fpressure is expected to keep dry,
-OL,19,Fsettled weather for the first half of
-OL,20,Fnext week with more warm sunshine and
-OL,21,Flight winds.
+OL,12,CTonight:FA dry and sunny evening and
+OL,13,Fremaining clear for most areas but low
+OL,14,Fcloud may push across from the east
+OL,15,Flater in the night. Minimum
+OL,16,FTemperature 13C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,139,120,301,200,000,100
+PN,13802
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F138A1755435592
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GStrathclyde
+OL,4,
+OL,5,CMonday:FA cloudy start in the east but
+OL,6,Fa bright and sunny start to the week
+OL,7,Ffor the west coast. Sunny conditions
+OL,8,Fall day in the west. Maximum
+OL,9,FTemperature 25C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FHigh
+OL,12,Fpressure is expected to remain over
+OL,13,Fthe area but low cloud will start to
+OL,14,Faffect the whole area with some
+OL,15,Fdrizzle at times. Best chance of
+OL,16,Fbrightness in west.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
