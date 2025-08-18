@@ -2,23 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1755496949
+OL,0,        ECIMSBWebfax 2   F132A1755547463
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FCloudy at times on Monday but
-OL,6,Fbright or sunny spells developing
-OL,7,Fespecially around the north and east
-OL,8,Fcoasts. A cool easterly breeze
-OL,9,Fdeveloping near the coast. Maximum
-OL,10,FTemperature 22C.
-OL,11,
-OL,12,CTonight:FCloudy at first but clear
-OL,13,Fspells developing overnight. Perhaps
-OL,14,Fsome lower cloud around eastern coasts
-OL,15,Faround dawn, gentle easterly winds.
-OL,16,FMinimum Temperature 14C.
+OL,5,CThis Evening and Tonight:FDry and
+OL,6,Fcloudy at first but clear spells soon
+OL,7,Fdeveloping. Clear spells at times
+OL,8,Fovernight but lower cloud spreading
+OL,9,Fwestwards towards dawn, gentle
+OL,10,Feasterly winds. Minimum Temperature
+OL,11,F14C.
+OL,12,
+OL,13,CTuesday:FPatchy low cloud especially
+OL,14,Fin the east will be slow to clear,
+OL,15,Fbrighter around the north coasts. Dry
+OL,16,Fand bright in the west. Maximum
+OL,17,FTemperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,23 +27,17 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1755496949
+OL,0,        ECIMSBWebfax 2   F132A1755547463
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CTuesday:FPatchy low cloudy especially
-OL,6,Fin the east will be slow to clear,
-OL,7,Fbrighter around the north coasts. Dry
-OL,8,Fand bright in the west. Maximum
-OL,9,FTemperature 20C.
-OL,10,
-OL,11,COutlook for Wednesday to Friday:FA
-OL,12,Flittle fresher towards the end of the
-OL,13,Fweek with gentle northeasterly winds,
-OL,14,Fplenty of dry and bright weather,
-OL,15,Falthough the odd shower on the North
-OL,16,FCoast on Wednesday.
+OL,5,COutlook for Wednesday to Friday:FA
+OL,6,Flittle fresher towards the end of the
+OL,7,Fweek with gentle north-easterly winds,
+OL,8,Fplenty of dry and bright weather,
+OL,9,Falthough the odd shower on the North
+OL,10,FCoast on Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
