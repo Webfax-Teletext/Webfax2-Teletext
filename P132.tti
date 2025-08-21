@@ -1,29 +1,47 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1755717103
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1755756813
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy in
-OL,6,Fthe west with clear periods in the
-OL,7,Feast through the evening and into the
-OL,8,Fnight. Cloud will spread to eastern
-OL,9,Fparts later. Dry. Minimum Temperature
-OL,10,F9C.
+OL,5,CToday:FIt will be a dry day and mostly
+OL,6,Fcloudy with some sunny spells breaking
+OL,7,Fthrough at times. Light southwesterly
+OL,8,Fwinds. Any isolated mist and fog
+OL,9,Fpatches to start will be quick to
+OL,10,Fclear. Maximum Temperature 21C.
 OL,11,
-OL,12,CThursday:FIt will be a largely cloudy
-OL,13,Fand fairly chilly day. Chance of some
-OL,14,Fbrighter spells developing through the
-OL,15,Fafternoon and evening. Maximum
-OL,16,FTemperature 20C.
+OL,12,CTonight:FIt will be a dry evening with
+OL,13,Flate sunny then clear spells.
+OL,14,FRemaining dry overnight but turning
+OL,15,Fcloudier with limited clear spells.
+OL,16,FMinimum Temperature 10C.
 OL,17,
-OL,18,COutlook for Friday to Sunday:FDry but
-OL,19,Fquite cloudy Friday, perhaps brighter
-OL,20,Flater. Mainly cloudy Saturday and
-OL,21,FSunday with the odd light shower.
+OL,18,CFriday:FAnother dry day but staying
+OL,19,Frather cloudy with just the odd bright
+OL,20,For sunny spell. Light westerly winds.
+OL,21,FMaximum Temperature 20C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1755756813
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,COutlook for Saturday to Monday:
+OL,6,FRemaining largely dry and settled over
+OL,7,Fthe weekend to Monday. Staying rather
+OL,8,Fcloudy but with sunny spells breaking
+OL,9,Fthrough. The odd light shower possible
+OL,10,FSaturday and Sunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
