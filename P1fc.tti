@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1755897571
+OL,0,        ECIMSBWebfax 2   F1fcA1755901194
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,11 +13,11 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1755897571;
-OL,10,GService: Webfax 2 - 7426 392b47052
-OL,11,FLast Update: 22/08/2025 22:19:31  G1/2
+OL,25,1755901193;
+OL,10,GService: Webfax 2 - 7427 08d8a1e93
+OL,11,FLast Update: 22/08/2025 23:19:53  G1/3
 OL,13,CbbcSport/Formula 1         G19/08-09:23
-OL,14,AceefaxBusiness             G22/08-22:16
+OL,14,Ageneric/national_weather   G22/08-23:17
 OL,15,CitvNews/border             G21/08-19:29
 OL,16,CitvSport/border            G11/08-12:35
 OL,17,CitvSport/calendar          G11/08-12:35
@@ -30,7 +30,7 @@ OL,23,CitvSport/wales             G11/08-12:35
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1755897571
+OL,0,        ECIMSBWebfax 2   F1fcA1755901194
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,8 +42,35 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1755897571;
-OL,10,GService: Webfax 2 - 7426 392b47052
-OL,11,FLast Update: 22/08/2025 22:19:31  G2/2
+OL,25,1755901193;
+OL,10,GService: Webfax 2 - 7427 08d8a1e93
+OL,11,FLast Update: 22/08/2025 23:19:53  G2/3
 OL,13,CitvSport/westcountry       G11/08-12:35
-OL,14,Ctvroom/cleanfeed           G21/08-04:25
+OL,14,Amet_weather/501            G22/08-23:19
+OL,15,Amet_weather/502            G22/08-23:19
+OL,16,Amet_weather/503            G22/08-23:19
+OL,17,Amet_weather/504            G22/08-23:19
+OL,18,Amet_weather/505            G22/08-23:18
+OL,19,Amet_weather/506            G22/08-23:18
+OL,20,Amet_weather/511            G22/08-23:18
+OL,21,Amet_weather/512            G22/08-23:18
+OL,22,Amet_weather/516            G22/08-23:18
+OL,23,Ctvroom/cleanfeed           G21/08-04:25
+PN,1fc03
+SC,0003
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1755901194
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1755901193;
+OL,10,GService: Webfax 2 - 7427 08d8a1e93
+OL,11,FLast Update: 22/08/2025 23:19:53  G3/3
