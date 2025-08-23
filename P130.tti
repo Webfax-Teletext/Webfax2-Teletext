@@ -2,25 +2,27 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1755922873
+OL,0,        ECIMSBWebfax 2   F130A1755973384
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FDry throughout and cloudy this
-OL,6,Fmorning, with some bright or sunny
-OL,7,Fspells gradually breaking through this
-OL,8,Fafternoon. Becoming warm with any
-OL,9,Fsunny spells that develop, these most
-OL,10,Flikely across southern areas. Maximum
-OL,11,FTemperature 23C.
-OL,12,
-OL,13,CTonight:FDry and often cloudy,
-OL,14,Falthough occasional clear spells are
-OL,15,Flikely to occur. There is a chance of
-OL,16,Fpatchy mist or fog developing if any
-OL,17,Fclear spells become prolonged. Minimum
-OL,18,FTemperature 12C.
+OL,5,CThis Evening and Tonight:FDry and
+OL,6,Foften cloudy, although occasional
+OL,7,Fclear spells are likely to occur,
+OL,8,Fthese mainly across Kent and Sussex.
+OL,9,FThere is a chance of patchy mist or
+OL,10,Ffog developing if any clear spells
+OL,11,Fbecome prolonged. Minimum Temperature
+OL,12,F12C.
+OL,13,
+OL,14,CSunday:FDry with varying, often large
+OL,15,Famounts of cloud. Bright or sunny
+OL,16,Fspells will occur, helping
+OL,17,Ftemperatures to become locally warm
+OL,18,Faway from the cooler onshore breezes
+OL,19,Falong the south coast. Maximum
+OL,20,FTemperature 24C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -28,25 +30,18 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1755922873
+OL,0,        ECIMSBWebfax 2   F130A1755973384
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CSunday:FDry with varying, often large
-OL,6,Famounts of cloud but bright or sunny
-OL,7,Fspells will occur, helping
-OL,8,Ftemperatures to become locally warm
-OL,9,Faway from cooler onshore breezes along
-OL,10,Fthe south coast. Maximum Temperature
-OL,11,F27C.
-OL,12,
-OL,13,COutlook for Monday to Wednesday:FDry,
-OL,14,Flargely sunny and very warm Monday.
-OL,15,FTuesday fine start but then a band of
-OL,16,Frain moves east, isolated showers and
-OL,17,Fcooler conditions follow. Wednesday
-OL,18,Fshowers or rain probably arriving.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FLargely sunny, dry and very warm
+OL,7,FMonday. Tuesday fine start but then a
+OL,8,Fband of rain moves east, isolated
+OL,9,Fshowers and fresher conditions follow.
+OL,10,FWednesday showers or rain probably
+OL,11,Farriving.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
