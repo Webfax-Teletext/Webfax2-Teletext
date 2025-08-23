@@ -2,28 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1755756813
+OL,0,        ECIMSBWebfax 2   F132A1755930096
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FIt will be a dry day and mostly
-OL,6,Fcloudy with some sunny spells breaking
-OL,7,Fthrough at times. Light southwesterly
-OL,8,Fwinds. Any isolated mist and fog
-OL,9,Fpatches to start will be quick to
-OL,10,Fclear. Maximum Temperature 21C.
-OL,11,
-OL,12,CTonight:FIt will be a dry evening with
-OL,13,Flate sunny then clear spells.
-OL,14,FRemaining dry overnight but turning
-OL,15,Fcloudier with limited clear spells.
-OL,16,FMinimum Temperature 10C.
-OL,17,
-OL,18,CFriday:FAnother dry day but staying
-OL,19,Frather cloudy with just the odd bright
-OL,20,For sunny spell. Light westerly winds.
-OL,21,FMaximum Temperature 20C.
+OL,5,CToday:FMostly cloudy in the morning
+OL,6,Fbut chance of with a few bright
+OL,7,Fspells. Patchy rain in the west at
+OL,8,Ffirst, or perhaps some heavier
+OL,9,Fshowers, will spread to all parts
+OL,10,Fthrough the day. Light southerly
+OL,11,Fwinds. Maximum Temperature 21C.
+OL,12,
+OL,13,CTonight:FCloudy with outbreaks of rain
+OL,14,Fthrough the evening. Staying overcast
+OL,15,Fovernight, and becoming largely dry
+OL,16,Fbut still the odd spot of rain
+OL,17,Fpossible in the northeast. Minimum
+OL,18,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -31,17 +28,24 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1755756813
+OL,0,        ECIMSBWebfax 2   F132A1755930096
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Saturday to Monday:
-OL,6,FRemaining largely dry and settled over
-OL,7,Fthe weekend to Monday. Staying rather
-OL,8,Fcloudy but with sunny spells breaking
-OL,9,Fthrough. The odd light shower possible
-OL,10,FSaturday and Sunday.
+OL,5,CSunday:FLargely dry and settled
+OL,6,Fconditions for Sunday. After quite a
+OL,7,Fcloudy start some bright or sunny
+OL,8,Fspells are likely to break out.
+OL,9,FFeeling a bit warmer than Saturday.
+OL,10,FMaximum Temperature 22C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:FDry
+OL,13,Fand warm Monday morning with sunny
+OL,14,Fspells. Rain for a time in the
+OL,15,Fafternoon and evening. Sunny spells
+OL,16,Fand showers on Tuesday. Showers or
+OL,17,Flonger spells of rain Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
