@@ -2,24 +2,27 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1755901194
+OL,0,        ECIMSBWebfax 2   F134A1755926485
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will
-OL,6,Fremain largely dry through this
-OL,7,Fevening and overnight with some late
-OL,8,Fsunshine then clear spells. The odd
-OL,9,Flight shower possible for Shetland.
-OL,10,FLight northerly winds. Minimum
-OL,11,FTemperature 3C.
-OL,12,
-OL,13,CSaturday:FIt will be a dry day with
-OL,14,Fpatchy cloud and sunny spells in the
-OL,15,Fmorning. Cloud clearing through the
-OL,16,Fafternoon to give largely sunny skies.
-OL,17,FLight winds. Maximum Temperature 16C.
+OL,5,CToday:FIt will be a dry day with
+OL,6,Fpatchy cloud and sunny spells in the
+OL,7,Fmorning. Cloud clearing through the
+OL,8,Fafternoon to give largely sunny skies.
+OL,9,FLight winds. Maximum Temperature 16C.
+OL,10,
+OL,11,CTonight:FIt will stay dry through the
+OL,12,Fevening with late sunny and then clear
+OL,13,Fspells. Staying dry with clear spells
+OL,14,Fovernight. Minimum Temperature 8C.
+OL,15,
+OL,16,CSunday:FIt will be dry with sunny
+OL,17,Fspells though there is a chance of
+OL,18,Fsome low cloud at times. Feeling a
+OL,19,Flittle warmer than Saturday. Maximum
+OL,20,FTemperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -27,17 +30,19 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1755901194
+OL,0,        ECIMSBWebfax 2   F134A1755926485
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FMostly
-OL,6,Fdry with sunny spells Sunday but
-OL,7,Fturning cloudier into Monday with
-OL,8,Flight rain. Cloudy and largely dry
-OL,9,FTuesday. Winds becoming southerly and
-OL,10,Fstrengthening Monday and Tuesday.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FCloudier on Monday with some light
+OL,7,Frain. Rain spreads north Tuesday
+OL,8,Fmorning, perhaps becoming persistent
+OL,9,Fover Shetland. Occasionally fresh
+OL,10,Fsoutherlies Monday and Tuesday.
+OL,11,FShowers or longer spells of rain
+OL,12,FWednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
