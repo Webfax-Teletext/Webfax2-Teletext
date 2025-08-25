@@ -2,23 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1756110513
+OL,0,        ECIMSBWebfax 2   F129A1756135776
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FA dry and sunny Bank Holiday
-OL,6,FMonday is expected across the region,
-OL,7,Fwith very warm, locally hot conditions
-OL,8,Fand strong sunshine. Winds remaining
-OL,9,Fgentle throughout. Maximum Temperature
-OL,10,F27C.
-OL,11,
-OL,12,CTonight:FA fine evening although
-OL,13,Flikely feeling humid. Breezy for many,
-OL,14,Fespecially along the coast. Cloud
-OL,15,Fincreases from the west, although
-OL,16,Fstaying dry. Minimum Temperature 14C.
+OL,5,CThis Evening and Tonight:FFine, warm
+OL,6,Fand sunny this evening with winds
+OL,7,Feasing away from coastal fringes, then
+OL,8,Fdry and mostly clear overnight. Rather
+OL,9,Fwarm across much of the region
+OL,10,Ftonight, especially in urban areas.
+OL,11,FMinimum Temperature 14C.
+OL,12,
+OL,13,CTuesday:FCloud and patchy rain spreads
+OL,14,Feast during the morning and early
+OL,15,Fafternoon, clearing to good sunny
+OL,16,Fspells. Warm or very warm in sunshine
+OL,17,Fand mainly light winds. Maximum
+OL,18,FTemperature 26C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -26,25 +28,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1756110514
+OL,0,        ECIMSBWebfax 2   F129A1756135776
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CTuesday:FCloudy with outbreaks of
-OL,6,Frain, perhaps heavy with a low risk of
-OL,7,Fthunder arriving from the west during
-OL,8,Fthe morning. Clearing to sunny spells
-OL,9,Fand feeling very warm. Maximum
-OL,10,FTemperature 27C.
-OL,11,
-OL,12,COutlook for Wednesday to Friday:
-OL,13,FUnsettled conditions will prevail,
-OL,14,Fwith spells of wet and windy weather
-OL,15,Finterspersed by occasional brighter
-OL,16,Fintervals. Temperatures are expected
-OL,17,Fto remain close to the seasonal
-OL,18,Faverage.
+OL,5,COutlook for Wednesday to Friday:
+OL,6,FChangeable with outbreaks of rain or
+OL,7,Fshowers, perhaps heavy at times,
+OL,8,Finterspersed by drier, mostly fine
+OL,9,Finterludes. Rather breezy at times and
+OL,10,Ftemperatures closer to the seasonal
+OL,11,Faverage.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
