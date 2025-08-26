@@ -2,24 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1756164652
+OL,0,        ECIMSBWebfax 2   F130A1756179086
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FFine, warm
-OL,6,Fand sunny this evening with winds
-OL,7,Feasing, then dry and mostly clear
-OL,8,Fovernight. Rather warm across much of
-OL,9,Fthe region tonight, especially in
-OL,10,Furban areas. Minimum Temperature 13C.
-OL,11,
-OL,12,CTuesday:FA band of cloud and patchy
-OL,13,Frain spreads east during the morning
-OL,14,Fand early afternoon, clearing to good
-OL,15,Fsunny spells. Warm or very warm in
-OL,16,Fsunshine and mainly light winds.
-OL,17,FMaximum Temperature 27C.
+OL,5,CToday:FEarly sunny spells, before a
+OL,6,Fweakening band of rain moves east
+OL,7,Fthrough the morning. This likely
+OL,8,Fclearing Kent through the early
+OL,9,Fafternoon. Sunny spells follow,
+OL,10,Fperhaps the odd shower in the west.
+OL,11,FFeeling very warm, with light winds.
+OL,12,FMaximum Temperature 27C.
+OL,13,
+OL,14,CTonight:FClear spells with variable
+OL,15,Famounts of cloud overnight. Perhaps a
+OL,16,Ffurther shower or two, but most parts
+OL,17,Fstaying dry with light winds. Minimum
+OL,18,FTemperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -27,18 +28,27 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1756164652
+OL,0,        ECIMSBWebfax 2   F130A1756179086
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FChangeable with outbreaks of rain or
-OL,7,Fshowers, perhaps heavy at times,
-OL,8,Finterspersed by drier, mostly fine
-OL,9,Finterludes. Rather breezy at times and
-OL,10,Ftemperatures closer to the seasonal
-OL,11,Faverage.
+OL,5,CWednesday:FLargely dry and sunny
+OL,6,Fmorning. Cloud thickening into the
+OL,7,Fafternoon with showers moving east,
+OL,8,Fperhaps heavy and blustery, and with
+OL,9,Fthe odd rumble of thunder possible.
+OL,10,FFeeling a little fresher. Maximum
+OL,11,FTemperature 23C.
+OL,12,
+OL,13,COutlook for Thursday to Saturday:
+OL,14,FShowers Thursday and Friday,
+OL,15,Foccasionally heavy, with the odd
+OL,16,Frumble of thunder. Perhaps more
+OL,17,Fwidespread heavy rain spreading east
+OL,18,FFriday. Drier for some Saturday, with
+OL,19,Fisolated showers. Temperatures near
+OL,20,Fnormal.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
