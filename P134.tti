@@ -2,27 +2,24 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1756334272
+OL,0,        ECIMSBWebfax 2   F134A1756359531
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FDry with bright and sunny
-OL,6,Fspells, the best of these in Orkney
-OL,7,Fwith low cloud and haar possibly
-OL,8,Faffecting Shetland at times. Light
-OL,9,Fsoutheasterly winds. Maximum
-OL,10,FTemperature 19C.
-OL,11,
-OL,12,CTonight:FChance of an evening shower
-OL,13,Ffor Orkney, mostly dry for Shetland
-OL,14,Fbut quite cloudy, cloud clearing later
-OL,15,Fin the night. Minimum Temperature 14C.
-OL,16,
-OL,17,CThursday:FA lot of dry, bright weather
-OL,18,Fbut the odd shower skirting with the
-OL,19,Fislands, fresh southeasterly winds at
-OL,20,Ftimes. Maximum Temperature 18C.
+OL,5,CToday:FOrkney mainly dry with some
+OL,6,Fbrightness. Shetland and Fair Isle
+OL,7,Fcloudier with drizzle or showery rain,
+OL,8,Fsome fog patches at first for north
+OL,9,FShetland, chance of some brighter
+OL,10,Fconditions by late afternoon. Maximum
+OL,11,FTemperature 18C.
+OL,12,
+OL,13,CTonight:FMostly dry with some evening
+OL,14,Fsunshine, perhaps cloud lingering in
+OL,15,Fplaces. A few showers developing
+OL,16,Ftowards the end of the night. Minimum
+OL,17,FTemperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -30,15 +27,22 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1756334272
+OL,0,        ECIMSBWebfax 2   F134A1756359531
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,COutlook for Friday to Sunday:FDry and
-OL,6,Fbright with a few showers on Friday
-OL,7,Fand Saturday, chance of some stronger
-OL,8,Fwinds and persistent rain on Sunday.
+OL,5,CFriday:FA few scattered showers with
+OL,6,Fbrighter spells too for Shetland,
+OL,7,Fmostly dry and bright for Orkney.
+OL,8,FMaximum Temperature 18C.
+OL,9,
+OL,10,COutlook for Saturday to Monday:FApart
+OL,11,Ffrom a few showers a fair start to the
+OL,12,Fweekend but wind strengthening and
+OL,13,Frain likely on Sunday morning. Drier
+OL,14,Fagain later, with more fine weather on
+OL,15,FMonday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
