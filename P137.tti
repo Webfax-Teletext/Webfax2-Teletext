@@ -2,23 +2,26 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1756446148
+OL,0,        ECIMSBWebfax 2   F137A1756482262
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FVariable amounts of cloud and
-OL,6,Fsome bright or sunny spells. There
-OL,7,Fwill be a few showers, these mainly
-OL,8,Facross the west. Drier and brightest
-OL,9,Falong the east coast. Maximum
-OL,10,FTemperature 19C.
-OL,11,
-OL,12,CTonight:FShowers gradually dying out
-OL,13,Fthis evening, otherwise some late
-OL,14,Fbrightness to end the day. Then the
-OL,15,Frest of the night will be dry with
-OL,16,Fclear periods. Minimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FShowers
+OL,6,Fgradually dying out this evening,
+OL,7,Fotherwise some late brightness to end
+OL,8,Fthe day. Then the rest of the night
+OL,9,Fwill be dry with clear periods, though
+OL,10,Fsome mist or fog patches forming
+OL,11,Ftowards morning. Minimum Temperature
+OL,12,F9C.
+OL,13,
+OL,14,CSaturday:FDry with some brightness in
+OL,15,Fthe morning. Clouding over in the
+OL,16,Fafternoon but remaining mostly dry.
+OL,17,FRain and freshening southeasterly
+OL,18,Fwinds will spread northeast in the
+OL,19,Fevening. Maximum Temperature 20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -26,24 +29,17 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1756446148
+OL,0,        ECIMSBWebfax 2   F137A1756482262
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CSaturday:FDry with some brightness in
-OL,6,Fthe morning. Clouding over in the
-OL,7,Fafternoon but remaining mostly dry.
-OL,8,FRain and freshening southeasterly
-OL,9,Fwinds will spread northeast in the
-OL,10,Fevening. Maximum Temperature 20C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FMainly
-OL,13,Fdry and windy with sunny spells on
-OL,14,FSunday, occasional showers later.
-OL,15,FBreezy with sunny spells and a few
-OL,16,Fshowers on Monday. Bright with fewer
-OL,17,Fshowers on Tuesday.
+OL,5,COutlook for Sunday to Tuesday:FMainly
+OL,6,Fdry and windy with sunny spells on
+OL,7,FSunday, a few showers later. Breezy
+OL,8,Fwith sunny spells and a few showers on
+OL,9,FMonday. Bright with fewer showers on
+OL,10,FTuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
