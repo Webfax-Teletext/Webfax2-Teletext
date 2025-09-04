@@ -1,29 +1,46 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F139A1756937069
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1756973155
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud and
-OL,6,Frain at first in Lothian and Borders
-OL,7,Fclearing away eastwards during the
-OL,8,Fevening then the night will be mainly
-OL,9,Fdry with some clear spells. Minimum
-OL,10,FTemperature 8C.
+OL,5,CToday:FCloudy, with showers and even
+OL,6,Fsome longer spells of rain, turning
+OL,7,Fheavy at times.,Dumfries and Galloway
+OL,8,Fwill become drier later with some
+OL,9,Fsunny intervals. Maximum Temperature
+OL,10,F17C.
 OL,11,
-OL,12,CThursday:FA mainly dry bright morning
-OL,13,Fwith some sunshine. Then cloud
-OL,14,Fbuilding to bring a scattering of
-OL,15,Fshowers in the afternoon, briefly
-OL,16,Fheavy. Maximum Temperature 19C.
-OL,17,
-OL,18,COutlook for Friday to Sunday:FFriday
-OL,19,Fand Saturday will be mainly dry with
-OL,20,Fsome sunshine. Bright start Sunday
-OL,21,Fthen rain, some heavy, becoming windy/
+OL,12,CTonight:FCloud and rain at first in
+OL,13,FLothian and Borders clearing away
+OL,14,Feastwards during the evening then the
+OL,15,Fnight will be mainly dry with some
+OL,16,Fclear spells. Minimum Temperature 8C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1756973155
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,CThursday:FA mainly dry bright morning
+OL,6,Fwith some sunshine. Then cloud
+OL,7,Fbuilding to bring a scattering of
+OL,8,Fshowers in the afternoon, briefly
+OL,9,Fheavy. Maximum Temperature 19C.
+OL,10,
+OL,11,COutlook for Friday to Sunday:FFriday
+OL,12,Fand Saturday will be mainly dry with
+OL,13,Fsome sunshine. Bright start Sunday
+OL,14,Fthen rain, some heavy, becoming windy/
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
