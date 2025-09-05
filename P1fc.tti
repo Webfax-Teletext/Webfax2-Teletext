@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1757074212
+OL,0,        ECIMSBWebfax 2   F1fcA1757077821
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1757074212;
-OL,10,GService: Webfax 2 - 7752 208690840
-OL,11,FLast Update: 05/09/2025 13:10:12  G1/2
+OL,25,1757077821;
+OL,10,GService: Webfax 2 - 7753 1655f1fde
+OL,11,FLast Update: 05/09/2025 14:10:21  G1/2
 OL,13,CbbcSport/Horse Racing      G28/08-19:29
 OL,14,CitvSport/border            G11/08-12:35
 OL,15,CitvSport/calendar          G11/08-12:35
 OL,16,CitvSport/central           G02/09-13:58
 OL,17,CitvSport/channel           G01/09-15:55
-OL,18,CitvSport/london            G23/08-10:21
-OL,19,CitvSport/meridian          G18/08-18:03
-OL,20,CitvSport/tyne-tees         G30/08-12:47
-OL,21,CitvSport/utv               G11/08-12:35
-OL,22,CitvSport/wales             G30/08-15:47
-OL,23,CitvSport/westcountry       G02/09-17:59
+OL,18,CitvSport/granada           G04/09-13:06
+OL,19,CitvSport/london            G23/08-10:21
+OL,20,CitvSport/meridian          G18/08-18:03
+OL,21,CitvSport/tyne-tees         G30/08-12:47
+OL,22,CitvSport/utv               G11/08-12:35
+OL,23,CitvSport/wales             G30/08-15:47
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1757074212
+OL,0,        ECIMSBWebfax 2   F1fcA1757077821
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,10 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1757074212;
-OL,10,GService: Webfax 2 - 7752 208690840
-OL,11,FLast Update: 05/09/2025 13:10:12  G2/2
-OL,13,Amet_weather/504            G04/09-08:05
-OL,14,Amet_weather/513            G04/09-08:13
-OL,15,Ctvroom/cleanfeed           G25/08-06:46
+OL,25,1757077821;
+OL,10,GService: Webfax 2 - 7753 1655f1fde
+OL,11,FLast Update: 05/09/2025 14:10:21  G2/2
+OL,13,CitvSport/westcountry       G02/09-17:59
+OL,14,Amet_weather/504            G04/09-08:05
+OL,15,Amet_weather/513            G04/09-08:13
+OL,16,Ctvroom/cleanfeed           G25/08-06:46
