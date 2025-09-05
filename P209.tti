@@ -1,40 +1,27 @@
-PN,20901
-SC,0001
-PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1757085038
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
+PN,20900
+SC,0000
+PS,8008
+OL,0,        ECIMSBWebfax 2   F209A1757088654
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for FRI 5 SEP
-OL,4,G1555FFormula 1
-OL,5,     GLive F1 coverage of Practice 2 at
-OL,6,     Gthe Italian Grand Prix from Monza.
-OL,7,G1705FThis Is Sports Extra
-OL,8,     GThis is BBC Radio 5 Sports Extra
-OL,9,     G- bringing you even more live
-OL,10,     Gcommentaries from the world's
-OL,11,     Ggreatest sporting events. Listen
-OL,12,     Gon BBC Sounds.
-OL,13,G2000FTennis
-OL,14,     GLive tennis commentary of Novak
-OL,15,     GDjokovic againt Carlos Alcaraz in
-OL,16,     Gthe semi-finals of the US Open in
-OL,17,     GNew York.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,210,200,150,300,000,100
-PN,20902
-SC,0002
-PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1757085038
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
-OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for FRI 5 SEP
-OL,4,G0400FThis Is Sports Extra
+OL,4,G1705FThis Is Sports Extra
 OL,5,     GThis is BBC Radio 5 Sports Extra
 OL,6,     G- bringing you even more live
 OL,7,     Gcommentaries from the world's
 OL,8,     Ggreatest sporting events. Listen
 OL,9,     Gon BBC Sounds.
+OL,10,G2000FTennis
+OL,11,     GLive tennis commentary of Novak
+OL,12,     GDjokovic againt Carlos Alcaraz in
+OL,13,     Gthe semi-finals of the US Open in
+OL,14,     GNew York.
+OL,15,G0400FThis Is Sports Extra
+OL,16,     GThis is BBC Radio 5 Sports Extra
+OL,17,     G- bringing you even more live
+OL,18,     Gcommentaries from the world's
+OL,19,     Ggreatest sporting events. Listen
+OL,20,     Gon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
