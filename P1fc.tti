@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1757319570
+OL,0,        ECIMSBWebfax 2   F1fcA1757323179
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,12 +13,12 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1757319569;
-OL,10,GService: Webfax 2 - 7820 f4340ffe1
-OL,11,FLast Update: 08/09/2025 09:19:29  G1/2
+OL,25,1757323179;
+OL,10,GService: Webfax 2 - 7821 b5322f26b
+OL,11,FLast Update: 08/09/2025 10:19:39  G1/2
 OL,13,CitvNews/calendar           G06/09-18:46
 OL,14,CitvNews/channel            G06/09-14:45
-OL,15,CitvNews/westcountry        G06/09-20:46
+OL,15,CitvNews/london             G07/09-09:48
 OL,16,CitvSport/calendar          G11/08-12:35
 OL,17,CitvSport/central           G02/09-13:58
 OL,18,CitvSport/channel           G01/09-15:55
@@ -30,7 +30,7 @@ OL,23,CitvSport/utv               G11/08-12:35
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1757319570
+OL,0,        ECIMSBWebfax 2   F1fcA1757323179
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,10 +42,11 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1757319569;
-OL,10,GService: Webfax 2 - 7820 f4340ffe1
-OL,11,FLast Update: 08/09/2025 09:19:29  G2/2
+OL,25,1757323179;
+OL,10,GService: Webfax 2 - 7821 b5322f26b
+OL,11,FLast Update: 08/09/2025 10:19:39  G2/2
 OL,13,CitvSport/wales             G06/09-17:14
 OL,14,CitvSport/westcountry       G02/09-17:59
 OL,15,Amet_weather/504            G04/09-08:05
 OL,16,Amet_weather/513            G04/09-08:13
+OL,17,Ctvroom/onthisday           G07/09-09:48
