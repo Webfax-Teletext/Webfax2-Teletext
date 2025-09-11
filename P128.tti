@@ -2,26 +2,24 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1757554696
+OL,0,        ECIMSBWebfax 2   F128A1757561913
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FHeavy rain
-OL,6,Fclearing away early this evening,
-OL,7,Fleaving a mostly dry night with clear
-OL,8,Fperiods. The odd shower is possible
-OL,9,Fthrough the early hours. Winds
-OL,10,Fgradually easing but staying quite
-OL,11,Fbreezy in places. Slightly cooler than
-OL,12,Flast night. Minimum Temperature 9C.
-OL,13,
-OL,14,CThursday:FBright or sunny spells and
-OL,15,Ffrequent heavy showers on Thursday,
-OL,16,Fthese carrying a risk of hail and
-OL,17,Fthunder at times. Rather breezy,
-OL,18,Fparticularly over high ground, and a
-OL,19,Flittle cooler. Maximum Temperature 18C.
+OL,5,CToday:FSunny spells and showers, these
+OL,6,Fbecoming quite widespread and heavy,
+OL,7,Fwith a chance of hail and thunder in
+OL,8,Fplaces. Blustery winds at times,
+OL,9,Fespecially over the hills and feeling
+OL,10,Fcooler. Maximum Temperature 18C.
+OL,11,
+OL,12,CTonight:FA chance of heavy showers
+OL,13,Fthis evening and overnight but many
+OL,14,Fplaces turning drier with lengthy
+OL,15,Fclear periods. Winds easing but
+OL,16,Fstaying rather breezy in places.
+OL,17,FMinimum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -29,17 +27,25 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1757554696
+OL,0,        ECIMSBWebfax 2   F128A1757561913
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Friday to Sunday:FRemaining
-OL,6,Fchangeable with sunny spells and
-OL,7,Fblustery showers, these occasionally
-OL,8,Fheavy with a risk of hail and thunder.
-OL,9,FProbably turning wet and windy, at
-OL,10,Fleast for a time, on Sunday.
+OL,5,CFriday:FAnother changeable day with
+OL,6,Fsunny spells and cloudier periods.
+OL,7,FShowers developing, these heavy with
+OL,8,Fperhaps some thunder, but drier
+OL,9,Fperiods more prevalent than on
+OL,10,FThursday. Breezy at times. Maximum
+OL,11,FTemperature 18C.
+OL,12,
+OL,13,COutlook for Saturday to Monday:FSunny
+OL,14,Fspells and blustery showers on
+OL,15,FSaturday, these perhaps easing later.
+OL,16,FMuch windier on Sunday with heavy rain
+OL,17,Flikely for a time. Probably brighter
+OL,18,Fon Monday with showers. Feeling cooler.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
