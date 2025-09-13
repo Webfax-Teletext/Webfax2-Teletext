@@ -1,28 +1,47 @@
-PN,13400
-SC,0000
+PN,13401
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F134A1757717115
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F134A1757724332
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThis Evening and Tonight:FApart from
-OL,6,Fthe odd shower this evening will be
-OL,7,Fmainly dry. Then the rest of the night
-OL,8,Fwill be dry with clear periods. Light
-OL,9,Fwinds. Minimum Temperature 7C.
+OL,5,CToday:FThis morning will be rather
+OL,6,Fcloudy with showers or perhaps some
+OL,7,Flonger spells of rain. Becoming
+OL,8,Fsomewhat brighter this afternoon with
+OL,9,Ffewer showers. Fresh to strong south
+OL,10,For southwesterly winds. Maximum
+OL,11,FTemperature 15C.
+OL,12,
+OL,13,CTonight:FApart from the odd shower
+OL,14,Fthis evening will be mainly dry. Then
+OL,15,Fthe rest of the night will be dry with
+OL,16,Fclear periods. Light winds. Minimum
+OL,17,FTemperature 7C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,135,120,301,200,000,100
+PN,13402
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F134A1757724332
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GOrkney
+OL,4,
+OL,5,CSaturday:FSome early brightness across
+OL,6,FShetland. Otherwise it will be a
+OL,7,Frather cloudy day with the chance of
+OL,8,Fsome showery rain. Maximum Temperature
+OL,9,F15C.
 OL,10,
-OL,11,CSaturday:FSome early brightness across
-OL,12,FShetland. Otherwise it will be a
-OL,13,Frather cloudy day with the chance of
-OL,14,Fsome showery rain. Maximum Temperature
-OL,15,F15C.
-OL,16,
-OL,17,COutlook for Sunday to Tuesday:FDry and
-OL,18,Fbright on Sunday. Cloudy and windy
-OL,19,Fwith rain at times on Monday. Drier
-OL,20,Fwith just a few showers on Tuesday.
+OL,11,COutlook for Sunday to Tuesday:FDry and
+OL,12,Fbright on Sunday. Cloudy and windy
+OL,13,Fwith rain at times on Monday. Drier
+OL,14,Fwith just a few showers on Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
