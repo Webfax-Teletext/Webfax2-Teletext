@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1757821765
+OL,0,        ECIMSBWebfax 2   F1fcA1757825373
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1757821765;
-OL,10,GService: Webfax 2 - 7960 37fb9b48a
-OL,11,FLast Update: 14/09/2025 04:49:25  G1/2
+OL,25,1757825373;
+OL,10,GService: Webfax 2 - 7961 83b1b8e3d
+OL,11,FLast Update: 14/09/2025 05:49:33  G1/2
 OL,13,CbbcNews/Technology         G12/09-13:09
 OL,14,AbbcNewsLive                G13/09-23:17
 OL,15,CbbcSport/Formula 1         G12/09-11:05
@@ -30,7 +30,7 @@ OL,23,CitvSport/channel           G09/09-00:29
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1757821765
+OL,0,        ECIMSBWebfax 2   F1fcA1757825373
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1757821765;
-OL,10,GService: Webfax 2 - 7960 37fb9b48a
-OL,11,FLast Update: 14/09/2025 04:49:25  G2/2
+OL,25,1757825373;
+OL,10,GService: Webfax 2 - 7961 83b1b8e3d
+OL,11,FLast Update: 14/09/2025 05:49:33  G2/2
 OL,13,CitvSport/granada           G10/09-17:36
 OL,14,CitvSport/london            G09/09-00:29
 OL,15,CitvSport/meridian          G09/09-00:29
@@ -53,4 +53,5 @@ OL,17,CitvSport/tyne-tees         G09/09-00:29
 OL,18,CitvSport/utv               G11/09-20:40
 OL,19,CitvSport/wales             G09/09-00:29
 OL,20,CitvSport/westcountry       G09/09-00:29
-OL,21,Ctvroom/cleanfeed           G10/09-06:36
+OL,21,Ctv_listings?select=false   G13/09-04:51
+OL,22,Ctvroom/cleanfeed           G10/09-06:36
