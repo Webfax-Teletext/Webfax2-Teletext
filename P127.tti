@@ -2,26 +2,26 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1757839808
+OL,0,        ECIMSBWebfax 2   F127A1757865061
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FA mostly fine and sunny start,
-OL,6,Fany patches of mist or fog quickly
-OL,7,Flifting. Cloud cover gradually
-OL,8,Fincreases from the west and by the
-OL,9,Fafternoon, rain will spread in,
-OL,10,Fbecoming persistent and possibly heavy
-OL,11,Fat times, accompanied by strengthening
-OL,12,Fwinds. Maximum Temperature 17C.
-OL,13,
-OL,14,CTonight:FRain clears eastward into the
-OL,15,Fevening, giving way to clearer spells.
-OL,16,FLater in the night, scattered showers
-OL,17,Fmove in from the west, with strong,
-OL,18,Fgusty winds, especially over western
-OL,19,Fhills. Minimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FRain clears
+OL,6,Feastward into the evening, giving way
+OL,7,Fto clearer spells. Later in the night,
+OL,8,Fscattered showers move in from the
+OL,9,Fwest, with strong, gusty winds,
+OL,10,Fespecially over western hills. Minimum
+OL,11,FTemperature 10C.
+OL,12,
+OL,13,CMonday:FOften cloudy with occasional
+OL,14,Fbrighter intervals and scattered
+OL,15,Fshowers, which may be heavy and
+OL,16,Fthundery. Strong, blustery winds up to
+OL,17,Fgale force speeds likely, especially
+OL,18,Fover higher ground. Maximum
+OL,19,FTemperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -29,26 +29,18 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1757839808
+OL,0,        ECIMSBWebfax 2   F127A1757865061
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CMonday:FOften cloudy with occasional
-OL,6,Fbrighter intervals and scattered
-OL,7,Fshowers, which may be heavy and
-OL,8,Fthundery. Strong, blustery winds up to
-OL,9,Fgale force speeds likely, especially
-OL,10,Fover modest hills. Maximum Temperature
-OL,11,F16C.
-OL,12,
-OL,13,COutlook for Tuesday to Thursday:
-OL,14,FTuesday sees sunny spells and blustery
-OL,15,Fshowers. Heavy, persistent rain
-OL,16,Farrives early Wednesday, followed by
-OL,17,Fbrighter conditions with widespread
-OL,18,Fgale force winds. Thursday stays windy
-OL,19,Fwith occasional sunny intervals.
+OL,5,COutlook for Tuesday to Thursday:FSunny
+OL,6,Fspells and blustery showers on
+OL,7,FTuesday. Heavy, persistent rain
+OL,8,Farrives early Wednesday, followed by
+OL,9,Fbrighter conditions with gale force
+OL,10,Fwinds. Thursday stays unsettled and
+OL,11,Fwindy with occasional sunny intervals.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
