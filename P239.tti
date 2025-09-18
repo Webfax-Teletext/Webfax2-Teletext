@@ -1,21 +1,21 @@
 PN,23901
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1758088827
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
+OL,0,        ECIMSBWebfax 2   F239A1758171813
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/3
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for THU 18 SEP
+OL,3,CProgramme listings for FRI 19 SEP
 OL,4,G0600FThis Is Sports Extra
 OL,5,     GThis is BBC Radio 5 Sports Extra
 OL,6,     G- bringing you even more live
 OL,7,     Gcommentaries from the world's
 OL,8,     Ggreatest sporting events. Listen
 OL,9,     Gon BBC Sounds.
-OL,10,G1025FCricket
-OL,11,     GKevin Howells presents live ball-
-OL,12,     Gby-ball cricket commentary from
-OL,13,     Gthe County Championship.
-OL,14,G1830FThis Is Sports Extra
+OL,10,G0925FFormula 1
+OL,11,     GLive F1 coverage of Practice 1 at
+OL,12,     Gthe Azerbaijan Grand Prix from
+OL,13,     Gthe Baku City Circuit.
+OL,14,G1035FThis Is Sports Extra
 OL,15,     GThis is BBC Radio 5 Sports Extra
 OL,16,     G- bringing you even more live
 OL,17,     Gcommentaries from the world's
@@ -27,14 +27,40 @@ FL,240,200,150,300,000,100
 PN,23902
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1758088827
-OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
+OL,0,        ECIMSBWebfax 2   F239A1758171813
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/3
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
-OL,3,CProgramme listings for THU 18 SEP
-OL,4,G1945FChampions League
-OL,5,     GLive football commentary of
-OL,6,     GManchester City v Napoli in the
-OL,7,     GChampions League.
+OL,3,CProgramme listings for FRI 19 SEP
+OL,4,G1315FCricket
+OL,5,     GLive ball-by-ball cricket
+OL,6,     Gcommentary from BBC Radio Ulster
+OL,7,     Gof Ireland v England in the 2nd
+OL,8,     GT20 in Malahide, Dublin.
+OL,9,G1730FThis Is Sports Extra
+OL,10,     GThis is BBC Radio 5 Sports Extra
+OL,11,     G- bringing you even more live
+OL,12,     Gcommentaries from the world's
+OL,13,     Ggreatest sporting events. Listen
+OL,14,     Gon BBC Sounds.
+OL,15,G1845FRugby Union
+OL,16,     GLive rugby union commentary of
+OL,17,     GNew Zealand v Canada in the semi-
+OL,18,     Gfinals of the Women's Rugby World
+OL,19,     GCup.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,240,200,150,300,000,100
+PN,23903
+SC,0003
+PS,c008
+OL,0,        ECIMSBWebfax 2   F239A1758171813
+OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G3/3
+OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
+OL,3,CProgramme listings for FRI 19 SEP
+OL,4,G2100FRugby League
+OL,5,     GLive rugby league commentary of
+OL,6,     GLeigh Leopards v Huddersfield
+OL,7,     GGiants in the Super League.
 OL,8,G2200FThis Is Sports Extra
 OL,9,     GThis is BBC Radio 5 Sports Extra
 OL,10,     G- bringing you even more live
