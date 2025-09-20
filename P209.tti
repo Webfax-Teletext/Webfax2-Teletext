@@ -1,21 +1,21 @@
 PN,20901
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1758345045
+OL,0,        ECIMSBWebfax 2   F209A1758363088
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/3
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SAT 20 SEP
-OL,4,G0925FFormula 1
-OL,5,     GLive F1 coverage of Practice 3 at
-OL,6,     Gthe Azerbaijan Grand Prix from
-OL,7,     Gthe Baku City Circuit.
-OL,8,G1035FThis Is Sports Extra
-OL,9,     GThis is BBC Radio 5 Sports Extra
-OL,10,     G- bringing you even more live
-OL,11,     Gcommentaries from the world's
-OL,12,     Ggreatest sporting events. Listen
-OL,13,     Gon BBC Sounds.
-OL,14,G1055FCricket
+OL,4,G1055FCricket
+OL,5,     GLive ball-by-ball cricket
+OL,6,     Gcommentary of Hampshire v
+OL,7,     GWorcestershire Rapids in the
+OL,8,     Gmen's One Day Cup final at Trent
+OL,9,     GBridge.
+OL,10,G1255FFormula 1
+OL,11,     GLive F1 coverage of Qualifying at
+OL,12,     Gthe Azerbaijan Grand Prix from
+OL,13,     Gthe Baku City Circuit.
+OL,14,G1415FCricket
 OL,15,     GLive ball-by-ball cricket
 OL,16,     Gcommentary of Hampshire v
 OL,17,     GWorcestershire Rapids in the
@@ -27,53 +27,43 @@ FL,210,200,150,300,000,100
 PN,20902
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1758345045
+OL,0,        ECIMSBWebfax 2   F209A1758363088
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/3
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SAT 20 SEP
-OL,4,G1255FFormula 1
-OL,5,     GLive F1 coverage of Qualifying at
-OL,6,     Gthe Azerbaijan Grand Prix from
-OL,7,     Gthe Baku City Circuit.
-OL,8,G1415FCricket
-OL,9,     GLive ball-by-ball cricket
-OL,10,     Gcommentary of Hampshire v
-OL,11,     GWorcestershire Rapids in the
-OL,12,     Gmen's One Day Cup final at Trent
-OL,13,     GBridge.
-OL,14,G1515FRugby Union
-OL,15,     GLive rugby union commentary of
-OL,16,     GFrance v England in the semi-
-OL,17,     Gfinals of the Women's Rugby World
-OL,18,     GCup.
+OL,4,G1515FRugby Union
+OL,5,     GLive rugby union commentary of
+OL,6,     GFrance v England in the semi-
+OL,7,     Gfinals of the Women's Rugby World
+OL,8,     GCup.
+OL,9,G1730FCricket
+OL,10,     GLive ball-by-ball cricket
+OL,11,     Gcommentary of Hampshire v
+OL,12,     GWorcestershire Rapids in the
+OL,13,     Gmen's One Day Cup final at Trent
+OL,14,     GBridge.
+OL,15,G1900FThis Is Sports Extra
+OL,16,     GThis is BBC Radio 5 Sports Extra
+OL,17,     G- bringing you even more live
+OL,18,     Gcommentaries from the world's
+OL,19,     Ggreatest sporting events. Listen
+OL,20,     Gon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
 PN,20903
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1758345045
+OL,0,        ECIMSBWebfax 2   F209A1758363088
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G3/3
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for SAT 20 SEP
-OL,4,G1730FCricket
-OL,5,     GLive ball-by-ball cricket
-OL,6,     Gcommentary of Hampshire v
-OL,7,     GWorcestershire Rapids in the
-OL,8,     Gmen's One Day Cup final at Trent
-OL,9,     GBridge.
-OL,10,G1900FThis Is Sports Extra
-OL,11,     GThis is BBC Radio 5 Sports Extra
-OL,12,     G- bringing you even more live
-OL,13,     Gcommentaries from the world's
-OL,14,     Ggreatest sporting events. Listen
-OL,15,     Gon BBC Sounds.
-OL,16,G0000FThis Is Sports Extra
-OL,17,     GThis is BBC Radio 5 Sports Extra
-OL,18,     G- bringing you even more live
-OL,19,     Gcommentaries from the world's
-OL,20,     Ggreatest sporting events. Listen
-OL,21,     Gon BBC Sounds.
+OL,4,G0000FThis Is Sports Extra
+OL,5,     GThis is BBC Radio 5 Sports Extra
+OL,6,     G- bringing you even more live
+OL,7,     Gcommentaries from the world's
+OL,8,     Ggreatest sporting events. Listen
+OL,9,     Gon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
