@@ -1,7 +1,7 @@
 PN,23401
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
@@ -30,7 +30,7 @@ FL,235,200,150,300,000,100
 PN,23402
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
@@ -58,7 +58,7 @@ FL,235,200,150,300,000,100
 PN,23403
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G3/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
@@ -85,7 +85,7 @@ FL,235,200,150,300,000,100
 PN,23404
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G4/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
@@ -97,23 +97,24 @@ OL,8,     GGordon as he makes his rounds at
 OL,9,     Ga nursing home. Read by Seamus
 OL,10,     GO'Hara.
 OL,11,G1600FLast Word
-OL,12,     GMatthew Bannister tells the life
-OL,13,     Gstories of people who have
-OL,14,     Grecently died, from the rich and
-OL,15,     Gfamous to unsung but significant.
-OL,16,G1630FMore or Less
-OL,17,     GMigrant returns, ageing mistakes,
-OL,18,     Gbeef price rises and are MPs
-OL,19,     Gusing AI to write their speeches.
-OL,20,G1700FPM
-OL,21,G1800FSix O'Clock News
+OL,12,     GMatthew Bannister on architect
+OL,13,     GSir Nicholas Grimshaw, TV
+OL,14,     Gpresenter John Stapleton,
+OL,15,     Gphysiotherapist Mary Elizabeth
+OL,16,     GDodd and actor Claudia Cardinale.
+OL,17,G1630FMore or Less
+OL,18,     GMigrant returns, ageing mistakes,
+OL,19,     Gbeef price rises and are MPs
+OL,20,     Gusing AI to write their speeches.
+OL,21,G1700FPM
+OL,22,G1800FSix O'Clock News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23405
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G5/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
@@ -139,62 +140,64 @@ FL,235,200,150,300,000,100
 PN,23406
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G6/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
 OL,4,G2000FAny Questions?
-OL,5,     GTopical discussion posing
-OL,6,     Gquestions to a panel of political
-OL,7,     Gand media personalities.
-OL,8,G2055FThis Week in History
-OL,9,     GWith a medieval English battle, a
-OL,10,     Gfeat of 20th century engineering
-OL,11,     Gin Egypt and the Salem Witch
-OL,12,     Gtrials, Radio 4 discovers some
-OL,13,     Gfascinating, revealing stories
-OL,14,     Gfrom the past.
-OL,15,G2100FFree Thinking
-OL,16,     GAnne McElvoy and guests look at
-OL,17,     Gwhat bonds party members and what
-OL,18,     Git means to create a new network
-OL,19,     Gwith its own shared beliefs and
-OL,20,     Grituals.
-OL,21,G2200FThe World Tonight
+OL,5,     GAlex Forsyth presents political
+OL,6,     Gdebate from Gainsborough Old Hall
+OL,7,     Gin Lincolnshire with Dame Andrea
+OL,8,     GJenkyns, Paul Nowak, Anna Turley
+OL,9,     GMP and Sir Jeremy Wright MP.
+OL,10,G2055FThis Week in History
+OL,11,     GWith a medieval English battle, a
+OL,12,     Gfeat of 20th century engineering
+OL,13,     Gin Egypt and the Salem Witch
+OL,14,     Gtrials, Radio 4 discovers some
+OL,15,     Gfascinating, revealing stories
+OL,16,     Gfrom the past.
+OL,17,G2100FFree Thinking
+OL,18,     GAnne McElvoy and guests look at
+OL,19,     Gwhat bonds party members and what
+OL,20,     Git means to create a new network
+OL,21,     Gwith its own shared beliefs and
+OL,22,     Grituals.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23407
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G7/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
-OL,4,G2245FThe Plot Against America by
-OL,5,     FPhilip Roth
-OL,6,     GRichard Schiff reads Roth's
-OL,7,     Gchilling alternative history of a
-OL,8,     Gfar right-leaning 1940s USA.
-OL,9,G2300FAmericast
-OL,10,     GJoin Americast for insights and
-OL,11,     Ganalysis on what's happening
-OL,12,     Ginside Trump's White House.
-OL,13,G2330FGreat Lives
-OL,14,     GEmma of Normandy is the link
-OL,15,     Gbetween the Anglo-Saxons and the
-OL,16,     GNormans who conquered England in
-OL,17,     G1066. Alice Roberts is joined by
-OL,18,     GNina Ramirez to find out more
-OL,19,     Gabout her amazing life.
-OL,20,G0000FMidnight News
+OL,4,G2200FThe World Tonight
+OL,5,G2245FThe Plot Against America by
+OL,6,     FPhilip Roth
+OL,7,     GRichard Schiff reads Roth's
+OL,8,     Gchilling alternative history of a
+OL,9,     Gfar right-leaning 1940s USA.
+OL,10,G2300FAmericast
+OL,11,     GJoin Americast for insights and
+OL,12,     Ganalysis on what's happening
+OL,13,     Ginside Trump's White House.
+OL,14,G2330FGreat Lives
+OL,15,     GEmma of Normandy is the link
+OL,16,     Gbetween the Anglo-Saxons and the
+OL,17,     GNormans who conquered England in
+OL,18,     G1066. Alice Roberts is joined by
+OL,19,     GNina Ramirez to find out more
+OL,20,     Gabout her amazing life.
+OL,21,G0000FMidnight News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23408
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G8/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
@@ -218,7 +221,7 @@ FL,235,200,150,300,000,100
 PN,23409
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1758778091
+OL,0,        ECIMSBWebfax 2   F234A1758861131
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G9/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for FRI 26 SEP
