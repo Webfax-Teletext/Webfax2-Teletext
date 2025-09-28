@@ -2,24 +2,27 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1759034351
+OL,0,        ECIMSBWebfax 2   F131A1759088513
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FIt will be a rather chilly
-OL,6,Fstart to Sunday. There will be plenty
-OL,7,Fof bright or sunny spells through the
-OL,8,Fday with high pressure building back
-OL,9,Fin. Remaining dry with light winds and
-OL,10,Ftemperatures close to average. Maximum
-OL,11,FTemperature 18C.
-OL,12,
-OL,13,CTonight:FA mostly clear night to come
-OL,14,Fwith patchy cloud across Cornwall.
-OL,15,FTemperatures will fall away with the
-OL,16,Frisk of mist and fog in prone spots.
-OL,17,FMinimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FAny
+OL,6,Flingering cloud will melt away this
+OL,7,Fevening leaving a mostly clear night,
+OL,8,Falthough patchy cloud will linger
+OL,9,Facross Cornwall. Feeling chilly in
+OL,10,Frural spots with a grass frost
+OL,11,Fpossible and areas of mist and patchy
+OL,12,Ffog in the countryside. Minimum
+OL,13,FTemperature 4C.
+OL,14,
+OL,15,CMonday:FEarly morning fog will soon
+OL,16,Fclear to leave a bright and sunny day.
+OL,17,FSkies turn hazy later as high cloud
+OL,18,Fthickens from the west. Dry, feeling
+OL,19,Fwarm in the sunshine. Maximum
+OL,20,FTemperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -27,25 +30,18 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1759034351
+OL,0,        ECIMSBWebfax 2   F131A1759088513
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CMonday:FA bright start to Monday with
-OL,6,Fplenty of sunny spells. This sunshine
-OL,7,Fwill turn hazy through the morning
-OL,8,Fwith high cloud from the west, but
-OL,9,Fremaining dry. Temperatures around
-OL,10,Faverage. Maximum Temperature 18C.
-OL,11,
-OL,12,COutlook for Tuesday to Thursday:FHigh
-OL,13,Fpressure to the south keeping things
-OL,14,Fmostly settled to start with. Cloud
-OL,15,Fand rain will return from Wednesday
-OL,16,Fwith slightly stronger winds.
-OL,17,FTemperatures around or slightly above
-OL,18,Faverage.
+OL,5,COutlook for Tuesday to Thursday:FHigh
+OL,6,Fpressure to the south keeping things
+OL,7,Fmostly settled to start with. Cloud
+OL,8,Fand rain will return from Wednesday
+OL,9,Fwith slightly stronger winds.
+OL,10,FTemperatures around or slightly above
+OL,11,Faverage.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
