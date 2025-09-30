@@ -2,25 +2,27 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1759204042
+OL,0,        ECIMSBWebfax 2   F125A1759265393
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FIt will be a rather cloudy day
-OL,6,Facross Cumbria and near to Irish Sea
-OL,7,Fcoasts with some hill fog and patchy
-OL,8,Fdrizzle. Elsewhere, any early morning
-OL,9,Ffog patches will lift to leave a dry
-OL,10,Fday with some sunshine. Maximum
-OL,11,FTemperature 18C.
-OL,12,
-OL,13,CTonight:FIt will become mostly cloudy
-OL,14,Fovernight with some drizzle still
-OL,15,Faffecting the north and west. Southern
-OL,16,Fand eastern spots will see the best of
-OL,17,Fany clearer slots. Minimum Temperature
-OL,18,F10C.
+OL,5,CThis Evening and Tonight:FIt will
+OL,6,Fbecome mostly cloudy overnight with
+OL,7,Fsome drizzle still affecting the north
+OL,8,Fand west. Southern and eastern spots
+OL,9,Fwill see the best of any clear spells.
+OL,10,FChilly in some rural spots, but not
+OL,11,Fquite a cold are recent nights.
+OL,12,FMinimum Temperature 8C.
+OL,13,
+OL,14,CWednesday:FThe northwest to southeast
+OL,15,Fsplit will continue on Wednesday, with
+OL,16,Frather cloudy weather giving patchy
+OL,17,Fdrizzle in the north and west.
+OL,18,FBrighter though further south and
+OL,19,Feast. Generally becoming breezy.
+OL,20,FMaximum Temperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,26 +30,17 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1759204042
+OL,0,        ECIMSBWebfax 2   F125A1759265393
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CWednesday:FThe northwest to southeast
-OL,6,Fsplit will continue on Wednesday, with
-OL,7,Frather cloudy weather giving patchy
-OL,8,Fdrizzle in the north and west.
-OL,9,FBrighter though further south and
-OL,10,Feast. Generally becoming breezy.
-OL,11,FMaximum Temperature 18C.
-OL,12,
-OL,13,COutlook for Thursday to Saturday:
-OL,14,FThursday will be mostly dry, though
-OL,15,Frather cloudy and breezy. Wet and
-OL,16,Fwindy overnight, then unsettled on
-OL,17,FFriday and Saturday with rain at
-OL,18,Ftimes, and potentially some very
-OL,19,Fstrong winds.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FThursday will be mostly dry, though
+OL,7,Frather cloudy and breezy. Wet and
+OL,8,Fwindy overnight, then unsettled on
+OL,9,FFriday and Saturday with rain at
+OL,10,Ftimes, and some very strong winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
