@@ -1,14 +1,17 @@
 PN,20200
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F202A1759204042
+OL,0,        ECIMSBWebfax 2   F202A1759207651
 OL,1,W{${$~+$ {$~{4k4h7} "s=
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' *-,V(,,,,,,,,,,
 OL,3,CProgramme listings for MON 29 SEP
 OL,4,G0400FOwain Wyn Evans
-OL,5,     GWelcome! It's Early Breakfast
-OL,6,     Gwith Owain Wyn Evans, featuring
-OL,7,     GAirdrum Anthems.
+OL,5,     GIt's Early Breakfast with Owain
+OL,6,     GWyn Evans. Owain asks about your
+OL,7,     Gtech upgrades as we say bye to
+OL,8,     Gdial-up internet. Airdrum Anthems
+OL,9,     Gare back at 6.15am ready to get
+OL,10,     Gyou moving!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,203,200,150,300,000,100
