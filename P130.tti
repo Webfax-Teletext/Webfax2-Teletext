@@ -2,23 +2,24 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1759204042
+OL,0,        ECIMSBWebfax 2   F130A1759261784
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FAny early mist or fog patches
-OL,6,Fsoon clearing to give a dry, bright
-OL,7,Fand mild day with plenty of long sunny
-OL,8,Fspells. Light winds expected
-OL,9,Fthroughout. Maximum Temperature 20C.
-OL,10,
-OL,11,CTonight:FA dry night is expected, with
-OL,12,Fpatchy cloud and clear spells. Some
-OL,13,Fisolated mist and fog patches may
-OL,14,Fdevelop through early Wednesday
-OL,15,Fmorning. Winds remaining light.
-OL,16,FMinimum Temperature 7C.
+OL,5,CThis Evening and Tonight:FA dry night
+OL,6,Fis expected, with patchy cloud and
+OL,7,Fsome clear spells. A few isolated mist
+OL,8,Fand fog patches may develop through
+OL,9,Fthe early hours. Winds remaining
+OL,10,Flight. Turning chilly in some rural
+OL,11,Fspots. Minimum Temperature 6C.
+OL,12,
+OL,13,CWednesday:FAnother dry and mild day is
+OL,14,Fexpected with variable cloud but also
+OL,15,Fsome bright or sunny spells. Winds
+OL,16,Fremaining light. Maximum Temperature
+OL,17,F20C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -26,24 +27,16 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1759204042
+OL,0,        ECIMSBWebfax 2   F130A1759261784
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CWednesday:FAnother dry and mild day is
-OL,6,Fexpected with variable cloud and
-OL,7,Fplenty of good sunny spells, although
-OL,8,Fperhaps becoming cloudier during the
-OL,9,Fafternoon. Winds remaining light.
-OL,10,FMaximum Temperature 19C.
-OL,11,
-OL,12,COutlook for Thursday to Saturday:FSunny
-OL,13,Fspells expected Thursday before rain
-OL,14,Fand strong winds develop in the
-OL,15,Fevening. Friday starts dry and bright
-OL,16,Fbefore rain and winds return later.
-OL,17,FWindy with sunny spells Saturday.
+OL,5,COutlook for Thursday to Saturday:FAn
+OL,6,Funsettled period to end the week, with
+OL,7,Fheavy rain and strong winds at times.
+OL,8,FTurning drier on Saturday but
+OL,9,Fremaining windy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
