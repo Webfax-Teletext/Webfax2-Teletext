@@ -1,13 +1,329 @@
-PN,21100
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F211A1759294261
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5
+PN,21101
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for TUE 30 SEP
-OL,4,G0506FNewsday
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G0606FNewsday
 OL,5,     GLive news, business and sport
 OL,6,     Gfrom around the world.
+OL,7,G0700FBBC News
+OL,8,G0706FNewsday
+OL,9,     GLive news, business and sport
+OL,10,     Gfrom around the world.
+OL,11,G0800FBBC News
+OL,12,G0806FThe Interview
+OL,13,     GJustin Rowlatt speaks to US
+OL,14,     GEnergy Secretary Chris Wright
+OL,15,     Gabout the threat from climate
+OL,16,     Gchange - and his view that it is
+OL,17,     Gexaggerated.
+OL,18,G0830FBBC News Summary
+OL,19,G0832FBusiness Daily
+OL,20,     GWhat happens when a controlling
+OL,21,     Gpartner takes over your income
+OL,22,     Gand spending?
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21102
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G0850FWitness History
+OL,5,     GAn unprecedented strike by women
+OL,6,     Gplantation workers in southern
+OL,7,     GIndia in 2015 highlighted their
+OL,8,     Glow wages and poor conditions. It
+OL,9,     Gonly ended after the government
+OL,10,     Gintervened.
+OL,11,G0900FBBC News
+OL,12,G0906FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G0930FBBC News Summary
+OL,16,G0932FThe Climate Question
+OL,17,     GGeothermal energy is renewable,
+OL,18,     Greliable and powerful. So, why is
+OL,19,     Gmost of it untapped? We travel to
+OL,20,     GIceland, Indonesia and Germany
+OL,21,     Gfor answers.
+OL,22,G1000FBBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21103
+SC,0003
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G1006FThe Forum
+OL,5,     GIszi Lawrence is joined by a
+OL,6,     Gpanel of guests to uncover the
+OL,7,     Gbackground to some time-honoured
+OL,8,     Gwedding traditions, and shine a
+OL,9,     Glight on the business of weddings.
+OL,10,G1100FBBC News
+OL,11,G1106FThe Newsroom
+OL,12,     GThe world's Newsroom brings you
+OL,13,     Gglobal events as they happen.
+OL,14,G1130FBBC News Summary
+OL,15,G1132FThe Global Story
+OL,16,     G.
+OL,17,G1200FBBC News
+OL,18,G1206FOutlook
+OL,19,     GTrue stories of ordinary people
+OL,20,     Gand the extraordinary events that
+OL,21,     Ghave shaped their lives.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21104
+SC,0004
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G1250FWitness History
+OL,5,     GAn unprecedented strike by women
+OL,6,     Gplantation workers in southern
+OL,7,     GIndia in 2015 highlighted their
+OL,8,     Glow wages and poor conditions. It
+OL,9,     Gonly ended after the government
+OL,10,     Gintervened.
+OL,11,G1300FBBC News
+OL,12,G1306FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G1330FBBC News Summary
+OL,16,G1332FThe Lazarus Heist
+OL,17,     GThe biggest heist yet. $1.5
+OL,18,     Gbillion disappears in minutes.
+OL,19,G1400FBBC News
+OL,20,G1406FNewshour
+OL,21,     GInterviews, news and analysis of
+OL,22,     Gthe day's global events.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21105
+SC,0005
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G1500FBBC News
+OL,5,G1506FThe Interview
+OL,6,     GJustin Rowlatt speaks to US
+OL,7,     GEnergy Secretary Chris Wright
+OL,8,     Gabout the threat from climate
+OL,9,     Gchange - and his view that it is
+OL,10,     Gexaggerated.
+OL,11,G1530FBBC News Summary
+OL,12,G1532FBusiness Daily
+OL,13,     GWhat happens when a controlling
+OL,14,     Gpartner takes over your income
+OL,15,     Gand spending?
+OL,16,G1550FWorld Business Express
+OL,17,     GFinance, economy and business
+OL,18,     Gnews from BBC journalists around
+OL,19,     Gthe world.
+OL,20,G1600FBBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21106
+SC,0006
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G1606FBBC OS
+OL,5,     GBBC OS gives a vibrant account of
+OL,6,     Gthe day's events with explanation
+OL,7,     Gand reaction from those involved.
+OL,8,G1700FBBC News
+OL,9,G1706FBBC OS
+OL,10,     GBBC OS gives a vibrant account of
+OL,11,     Gthe day's events with explanation
+OL,12,     Gand reaction from those involved.
+OL,13,G1800FBBC News
+OL,14,G1806FOutlook
+OL,15,     GTrue stories of ordinary people
+OL,16,     Gand the extraordinary events that
+OL,17,     Ghave shaped their lives.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21107
+SC,0007
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G1850FWitness History
+OL,5,     GAn unprecedented strike by women
+OL,6,     Gplantation workers in southern
+OL,7,     GIndia in 2015 highlighted their
+OL,8,     Glow wages and poor conditions. It
+OL,9,     Gonly ended after the government
+OL,10,     Gintervened.
+OL,11,G1900FBBC News
+OL,12,G1906FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G1930FBBC News Summary
+OL,16,G1932FSport Today
+OL,17,     GBBC sports correspondents tell
+OL,18,     Gthe story behind today's top
+OL,19,     Gsporting news, with interviews
+OL,20,     Gand reports from across the world.
+OL,21,G2000FBBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21108
+SC,0008
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G2006FThe Climate Question
+OL,5,     GGeothermal energy is renewable,
+OL,6,     Greliable and powerful. So, why is
+OL,7,     Gmost of it untapped? We travel to
+OL,8,     GIceland, Indonesia and Germany
+OL,9,     Gfor answers.
+OL,10,G2030FBBC News Summary
+OL,11,G2032FHealth Check
+OL,12,     GHealth issues and medical
+OL,13,     Gbreakthroughs from around the
+OL,14,     Gworld.
+OL,15,G2100FBBC News
+OL,16,G2106FNewshour
+OL,17,     GInterviews, news and analysis of
+OL,18,     Gthe day's global events.
+OL,19,G2200FBBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21109
+SC,0009
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G2206FThe Interview
+OL,5,     GJustin Rowlatt speaks to US
+OL,6,     GEnergy Secretary Chris Wright
+OL,7,     Gabout the threat from climate
+OL,8,     Gchange - and his view that it is
+OL,9,     Gexaggerated.
+OL,10,G2230FBBC News Summary
+OL,11,G2232FThe Lazarus Heist
+OL,12,     GThe biggest heist yet. $1.5
+OL,13,     Gbillion disappears in minutes.
+OL,14,G2300FBBC News
+OL,15,G2306FThe Newsroom
+OL,16,     GThe world's Newsroom brings you
+OL,17,     Gglobal events as they happen.
+OL,18,G2330FBBC News Summary
+OL,19,G2332FWorld Business Report
+OL,20,G0000FBBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21110
+SC,0010
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G0006FThe Forum
+OL,5,     GIszi Lawrence is joined by a
+OL,6,     Gpanel of guests to uncover the
+OL,7,     Gbackground to some time-honoured
+OL,8,     Gwedding traditions, and shine a
+OL,9,     Glight on the business of weddings.
+OL,10,G0100FBBC News
+OL,11,G0106FThe Newsroom
+OL,12,     GThe world's Newsroom brings you
+OL,13,     Gglobal events as they happen.
+OL,14,G0130FBBC News Summary
+OL,15,G0132FThe Global Story
+OL,16,     G.
+OL,17,G0200FBBC News
+OL,18,G0206FThe Newsroom
+OL,19,     GThe world's Newsroom brings you
+OL,20,     Gglobal events as they happen.
+OL,21,G0230FBBC News Summary
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21111
+SC,0011
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G0232FThe Documentary
+OL,5,     GCan Nigeria solve its electricity
+OL,6,     Gcrisis and deliver reliable power
+OL,7,     Gto homes, hospitals, and
+OL,8,     Gbusinesses-or will poor
+OL,9,     Ginfrastructure continue to limit
+OL,10,     Gprogress across the country?
+OL,11,G0300FBBC News
+OL,12,G0306FOutlook
+OL,13,     GTrue stories of ordinary people
+OL,14,     Gand the extraordinary events that
+OL,15,     Ghave shaped their lives.
+OL,16,G0350FWitness History
+OL,17,     GAn unprecedented strike by women
+OL,18,     Gplantation workers in southern
+OL,19,     GIndia in 2015 highlighted their
+OL,20,     Glow wages and poor conditions. It
+OL,21,     Gonly ended after the government
+OL,22,     Gintervened.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,212,200,150,300,000,100
+PN,21112
+SC,0012
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1759297867
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for WED 1 OCT
+OL,4,G0400FBBC News
+OL,5,G0406FThe Newsroom
+OL,6,     GThe world's Newsroom brings you
+OL,7,     Gglobal events as they happen.
+OL,8,G0430FBBC News Summary
+OL,9,G0432FThe Food Chain
+OL,10,     GHow portion sizes have grown,
+OL,11,     Gshrunk, and shifted across
+OL,12,     Gcultures, and what that means for
+OL,13,     Gour health, our habits, and our
+OL,14,     Gplates.
+OL,15,G0500FBBC News
+OL,16,G0506FNewsday
+OL,17,     GLive news, business and sport
+OL,18,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,212,200,150,300,000,100
