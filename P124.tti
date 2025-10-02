@@ -2,24 +2,26 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1759391709
+OL,0,        ECIMSBWebfax 2   F124A1759416971
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FAny mist or fog slowly clearing
-OL,6,Fthrough the morning. Then cloudy but
-OL,7,Fmostly dry through the day, though
-OL,8,Fthere may be some outbreaks of rain or
-OL,9,Fdrizzle in the north. Winds
-OL,10,Fstrengthening in the afternoon.
-OL,11,FMaximum Temperature 18C.
-OL,12,
-OL,13,CTonight:FA band of rain spreading in
-OL,14,Fthrough the evening, heavy at times.
-OL,15,FThis will also bring strong winds,
-OL,16,Fwith gales possible along the coast.
-OL,17,FMinimum Temperature 9C.
+OL,5,CThis Evening and Tonight:FA band of
+OL,6,Frain, heavy at times, will spread
+OL,7,Feastwards this evening and overnight.
+OL,8,FThis will also bring strong winds,
+OL,9,Fwith gales possible along the coast.
+OL,10,FRain is expected to clear during the
+OL,11,Fearly hours, with a drier interlude
+OL,12,Ffollowing. Minimum Temperature 9C.
+OL,13,
+OL,14,CFriday:FAfter a brief drier interlude
+OL,15,Ffirst thing, cloud and outbreaks of
+OL,16,Frain, associated with Storm Amy, will
+OL,17,Fspread eastwards across all parts.
+OL,18,FVery strong winds or gales by the
+OL,19,Fevening. Maximum Temperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -27,24 +29,17 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1759391709
+OL,0,        ECIMSBWebfax 2   F124A1759416971
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CFriday:FThe rain clearing and winds
-OL,6,Feasing early on Friday. Drier but dull
-OL,7,Ffor the morning before further rain
-OL,8,Fand very strong winds or gales spread
-OL,9,Fin late in the afternoon. Maximum
-OL,10,FTemperature 18C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:
-OL,13,FGenerally unsettled with showers or
-OL,14,Flonger spells of rain. Very strong
-OL,15,Fwinds or gales on Saturday, easing for
-OL,16,Fa time on Sunday, increasing again
-OL,17,Fovernight into Monday.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FGenerally unsettled with showers or
+OL,7,Flonger spells of rain. Very strong
+OL,8,Fwinds or gales on Saturday, easing for
+OL,9,Fa time on Sunday, increasing again
+OL,10,Fovernight into Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
