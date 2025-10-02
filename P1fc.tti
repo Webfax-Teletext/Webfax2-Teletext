@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1759435012
+PN,1fc00
+SC,0000
+PS,8018
+OL,0,        ECIMSBWebfax 2   F1fcA1759445736
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,40 +13,13 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1759435012;
-OL,10,GService: Webfax 2 - 8407 31c5d7a2e
-OL,11,FLast Update: 02/10/2025 20:56:52  G1/2
-OL,13,CbbcSport/Horse Racing      G27/09-16:39
-OL,14,Ageneric/pollen_forecast    G02/10-20:56
-OL,15,CitvNews/london             G01/10-20:23
-OL,16,CitvSport/border            G28/09-13:40
-OL,17,CitvSport/calendar          G09/09-00:29
-OL,18,CitvSport/central           G30/09-18:49
-OL,19,CitvSport/channel           G30/09-14:48
-OL,20,CitvSport/granada           G01/10-16:52
-OL,21,CitvSport/london            G25/09-13:29
-OL,22,CitvSport/meridian          G09/09-00:29
-OL,23,CitvSport/national          G01/10-17:52
-PN,1fc02
-SC,0002
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1759435012
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1759435012;
-OL,10,GService: Webfax 2 - 8407 31c5d7a2e
-OL,11,FLast Update: 02/10/2025 20:56:52  G2/2
-OL,13,CitvSport/tyne-tees         G30/09-18:49
-OL,14,CitvSport/utv               G11/09-20:40
-OL,15,CitvSport/wales             G09/09-00:29
-OL,16,CitvSport/westcountry       G09/09-00:29
-OL,17,Ctvroom/cleanfeed           G30/09-06:15
+OL,25,1759445736;
+OL,10,GService: Webfax 2 - 8408 8f3f77166
+OL,11,FLast Update: 02/10/2025 23:55:36      
+OL,13,AbbcNews/Business           G02/10-23:55
+OL,14,AbbcNews/Politics           G02/10-23:55
+OL,15,AbbcNews/Technology         G02/10-23:55
+OL,16,AbbcSport/Cricket           G02/10-23:55
+OL,17,AbbcSport/Football          G02/10-23:55
+OL,18,AbbcSport/Football Gossip   G02/10-23:55
+OL,19,AceefaxNews                 G02/10-23:55

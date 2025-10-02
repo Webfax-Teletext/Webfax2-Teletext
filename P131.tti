@@ -2,25 +2,26 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1759384486
+OL,0,        ECIMSBWebfax 2   F131A1759445736
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FEarly fog clearing to leave
-OL,6,Fbright spells during the morning.
-OL,7,FCloud building during the afternoon
-OL,8,Fbut staying mostly dry for now. Warm
-OL,9,Ffor the time of year but with a
-OL,10,Ffreshening breeze. Maximum Temperature
-OL,11,F20C.
-OL,12,
-OL,13,CTonight:FTurning widely wet this
-OL,14,Fevening as rain sweeps across the
-OL,15,Fregion, heavy at times, accompanied by
-OL,16,Fgusty winds. Becoming drier overnight
-OL,17,Fas winds ease, with clear spells by
-OL,18,Fdawn. Mild. Minimum Temperature 11C.
+OL,5,CThis Evening and Tonight:FTurning
+OL,6,Fwidely wet this evening as rain sweeps
+OL,7,Facross the region, heavy at times,
+OL,8,Faccompanied by gusty winds. Becoming
+OL,9,Fdrier overnight as winds ease, but
+OL,10,Fwith low cloud lingering bringing
+OL,11,Fmurky conditions around coasts and
+OL,12,Fhills. Mild. Minimum Temperature 12C.
+OL,13,
+OL,14,CFriday:FA dull but largely dry start.
+OL,15,FOutbreaks of rain spreading eastwards
+OL,16,Fduring the day with increasingly
+OL,17,Fblustery winds. A rather warm and
+OL,18,Fhumid day despite the widespread
+OL,19,Fcloud. Maximum Temperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -28,25 +29,17 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1759384486
+OL,0,        ECIMSBWebfax 2   F131A1759445736
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CFriday:FA similar start to Thursday,
-OL,6,Fwith a bright morning giving way to
-OL,7,Fincreasingly grey skies before rain
-OL,8,Farrives later in the day.
-OL,9,FStrengthening winds especially in the
-OL,10,Fsouthwest. Feeling mild. Maximum
-OL,11,FTemperature 18C.
-OL,12,
-OL,13,COutlook for Saturday to Monday:FFeeling
-OL,14,Fcooler on Saturday with a brisk
-OL,15,Fnorthwesterly wind, localised gales
-OL,16,Fand showers. Largely dry on Sunday and
-OL,17,FMonday with sunny spells and winds
-OL,18,Feasing slightly.
+OL,5,COutlook for Saturday to Monday:FFeeling
+OL,6,Fcooler on Saturday with a brisk
+OL,7,Fnorthwesterly wind, localised gales
+OL,8,Fand showers. Largely dry on Sunday and
+OL,9,FMonday with sunny spells and winds
+OL,10,Feasing slightly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
