@@ -2,24 +2,27 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1759478246
+OL,0,        ECIMSBWebfax 2   F126A1759507134
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CToday:FMostly dry to start but cloud
-OL,6,Fsoon thickening, followed by a band of
-OL,7,Fheavy rain in the afternoon,
-OL,8,Fassociated with Storm Amy. Winds
-OL,9,Fstrengthening, becoming very strong
-OL,10,Fwith gales by late afternoon. Maximum
-OL,11,FTemperature 18C.
-OL,12,
-OL,13,CTonight:FRain lingering into the
-OL,14,Fevening, with some heavy bursts, but
-OL,15,Fclearing towards midnight. This leaves
-OL,16,Fa very windy night with clear spells
-OL,17,Fand showers. Minimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FRain
+OL,6,Flingering through the evening, with
+OL,7,Fsome heavy bursts, before clearing to
+OL,8,Fthe east by midnight. Some clear
+OL,9,Fspells follow, though with some heavy
+OL,10,Fblustery showers still possible.
+OL,11,FRemaining very windy overnight.
+OL,12,FMinimum Temperature 5C.
+OL,13,
+OL,14,CSaturday:FFurther rain arriving during
+OL,15,Fthe morning but clearing to a mixture
+OL,16,Fof sunny spells and heavy blustery
+OL,17,Fshowers by the afternoon. Remaining
+OL,18,Fwindy, although easing slightly
+OL,19,Fcompared to Friday night. Maximum
+OL,20,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -27,23 +30,16 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1759478246
+OL,0,        ECIMSBWebfax 2   F126A1759507134
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CSaturday:FEarly rain clearing to a
-OL,6,Fmixture of sunny spells and heavy
-OL,7,Fblustery showers, these mainly in the
-OL,8,Fwest of the region. Remaining windy,
-OL,9,Falthough easing slightly compared to
-OL,10,FFriday night. Maximum Temperature 14C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:
-OL,13,FGenerally unsettled with showers or
-OL,14,Flonger spells of rain, but also some
-OL,15,Fbrighter spells. Often windy, although
-OL,16,Fless so than Friday and Saturday. Mild.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FGenerally unsettled with showers or
+OL,7,Flonger spells of rain, but also some
+OL,8,Fbrighter spells. Often windy, although
+OL,9,Fless so than Friday and Saturday. Mild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
