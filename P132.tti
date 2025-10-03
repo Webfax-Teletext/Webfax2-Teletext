@@ -2,25 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1759467419
+OL,0,        ECIMSBWebfax 2   F132A1759517959
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FDry start. Rain, heavy at
-OL,6,Ftimes, will spread east later in the
-OL,7,Fmorning and continue through the
-OL,8,Fafternoon, clearing towards evening.
-OL,9,FGales developing, becoming severe
-OL,10,Flater, perhaps storm force in the
-OL,11,Fnorth and west. Maximum Temperature
-OL,12,F15C.
-OL,13,
-OL,14,CTonight:FGale to severe gale westerly
-OL,15,Fwinds, easing later in the night,
-OL,16,FClear intervals and blustery showers
-OL,17,Fbecoming more frequent for a time
-OL,18,Fovernight. Minimum Temperature 9C.
+OL,5,CThis Evening and Tonight:FVery windy
+OL,6,Fwith gale to severe gale westerly
+OL,7,Fwinds, easing later in the night,
+OL,8,FClear intervals and blustery showers
+OL,9,Fbecoming more frequent for a time
+OL,10,Fovernight. Minimum Temperature 9C.
+OL,11,
+OL,12,CSaturday:FVery windy on Saturday with
+OL,13,Fstrong to gale force winds bringing
+OL,14,Ffrequent blustery showers. Also
+OL,15,Ffeeling colder than of late. Winds
+OL,16,Feasing down through the afternoon.
+OL,17,FMaximum Temperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -28,21 +27,15 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1759467419
+OL,0,        ECIMSBWebfax 2   F132A1759517959
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CSaturday:FVery windy on Saturday with
-OL,6,Fstrong to gale force winds bringing
-OL,7,Ffrequent blustery showers. Also
-OL,8,Ffeeling colder than of late. Maximum
-OL,9,FTemperature 13C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FLess
-OL,12,Fwindy but rather changeable with some
-OL,13,Foutbreaks of rain at times, with some
-OL,14,Fbrighter warmer interludes in between.
+OL,5,COutlook for Sunday to Tuesday:FLess
+OL,6,Fwindy but rather changeable with some
+OL,7,Foutbreaks of rain at times, with some
+OL,8,Fbrighter warmer interludes in between.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
