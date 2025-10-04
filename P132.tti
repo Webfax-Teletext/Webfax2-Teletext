@@ -2,24 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1759525553
+OL,0,        ECIMSBWebfax 2   F132A1759550842
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FVery windy
-OL,6,Fwith gale to severe gale westerly
-OL,7,Fwinds, easing later in the night,
-OL,8,FClear intervals and blustery showers
-OL,9,Fbecoming more frequent for a time
-OL,10,Fovernight. Minimum Temperature 9C.
-OL,11,
-OL,12,CSaturday:FVery windy on Saturday with
-OL,13,Fstrong to gale force winds bringing
-OL,14,Ffrequent blustery showers. Also
-OL,15,Ffeeling colder than of late. Winds
-OL,16,Feasing down through the afternoon.
-OL,17,FMaximum Temperature 13C.
+OL,5,CToday:FCloudy start with frequent
+OL,6,Fblustery showers and gales or severe
+OL,7,Fgales. Turning brighter through the
+OL,8,Fmorning with sunny intervals and more
+OL,9,Foccasional showers, winds also easing
+OL,10,Ffor a time, though gales returning to
+OL,11,Fnorth coast in afternoon. Maximum
+OL,12,FTemperature 13C.
+OL,13,
+OL,14,CTonight:FThere will be a mixture of
+OL,15,Fclear intervals and a few showers. A
+OL,16,Fwindy evening but easing down during
+OL,17,Fthe night. Minimum Temperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,15 +27,22 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1759525553
+OL,0,        ECIMSBWebfax 2   F132A1759550842
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FLess
-OL,6,Fwindy but rather changeable with some
-OL,7,Foutbreaks of rain at times, with some
-OL,8,Fbrighter warmer interludes in between.
+OL,5,CSunday:FSome early sunshine then cloud
+OL,6,Fincreasing to bring some light and
+OL,7,Fpatchy rain. Windy at first. Maximum
+OL,8,FTemperature 15C.
+OL,9,
+OL,10,COutlook for Monday to Wednesday:FMonday
+OL,11,Fand Tuesday less windy but rather
+OL,12,Fchangeable with some outbreaks of rain
+OL,13,Fat times, with some brighter warmer
+OL,14,Finterludes in between. Settling down
+OL,15,Fon Wednesday with some sunshine.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
