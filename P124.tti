@@ -2,27 +2,28 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1759648272
+OL,0,        ECIMSBWebfax 2   F124A1759684356
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FMorning sunny spells give way
-OL,6,Fto cloudier conditions from the west,
-OL,7,Fwith some patchy light rain developing
-OL,8,Facross the western hills later.
-OL,9,FEastern areas staying largely dry.
-OL,10,FStrong and gusty winds easing somewhat
-OL,11,Flater, although remaining breezy.
-OL,12,FMaximum Temperature 14C.
-OL,13,
-OL,14,CTonight:FA band of mostly light rain
-OL,15,Fcrossing the region followed by
-OL,16,Foccasional clearer periods for eastern
-OL,17,Fareas. Western hills staying cloudy
-OL,18,Fwith patchy light rain or drizzle.
-OL,19,FStill rather breezy. Minimum
-OL,20,FTemperature 10C.
+OL,5,CThis Evening and Tonight:FA band of
+OL,6,Fmostly light rain will move east
+OL,7,Fthrough the first half of the night,
+OL,8,Falthough some eastern areas remaining
+OL,9,Fdry. Staying rather cloudy, especially
+OL,10,Facross western hills, with drizzle at
+OL,11,Ftimes, but clear spells developing
+OL,12,Ffurther east. Breezy. Minimum
+OL,13,FTemperature 10C.
+OL,14,
+OL,15,CMonday:FMainly dry with some warm
+OL,16,Fbright spells in eastern areas. Cloud
+OL,17,Fand any light rain or drizzle on
+OL,18,Fwestern hills gradually improving
+OL,19,Fthrough the afternoon. Winds continue
+OL,20,Fto slowly ease. Maximum Temperature
+OL,21,F18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -30,26 +31,18 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1759648272
+OL,0,        ECIMSBWebfax 2   F124A1759684356
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CMonday:FMainly dry with some warm
-OL,6,Fbright spells in eastern areas. Cloud
-OL,7,Fand patchy light rain or drizzle on
-OL,8,Fwestern hills gradually improving
-OL,9,Fthrough the afternoon. Winds continue
-OL,10,Fto slowly ease. Maximum Temperature
-OL,11,F18C.
-OL,12,
-OL,13,COutlook for Tuesday to Thursday:
-OL,14,FEastern areas often drier with the
-OL,15,Fbest of brighter spells. Western hills
-OL,16,Ffrequently cloudier with patchy light
-OL,17,Frain or drizzle. Lighter winds than
-OL,18,Frecent days, with daytime temperatures
-OL,19,Fnear average.
+OL,5,COutlook for Tuesday to Thursday:
+OL,6,FEastern areas often drier with the
+OL,7,Fbest of brighter spells. Western hills
+OL,8,Ffrequently cloudier with some light
+OL,9,Frain or drizzle. Lighter winds than
+OL,10,Frecent days, with daytime temperatures
+OL,11,Fnear average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
