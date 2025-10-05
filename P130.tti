@@ -2,25 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1759590533
+OL,0,        ECIMSBWebfax 2   F130A1759659097
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FAny
-OL,6,Flingering showers soon easing.
-OL,7,FOtherwise dry with some early evening
-OL,8,Fsunshine and then long clear periods.
-OL,9,FThe wind will gradually ease, although
-OL,10,Fit will remain breezy, especially on
-OL,11,Fcoasts. Minimum Temperature 7C.
+OL,5,CToday:FSunny start for many places,
+OL,6,Fthen cloud gradually increases from
+OL,7,Fthe northwest. A few showers are
+OL,8,Fpossible, but it will generally remain
+OL,9,Fdry and bright for most. Strong and
+OL,10,Fgusty winds slowly easing. Maximum
+OL,11,FTemperature 16C.
 OL,12,
-OL,13,CSunday:FSunny start for many places,
-OL,14,Fthen cloud gradually increases from
-OL,15,Fthe northwest. A few showers are
-OL,16,Fpossible, but it will generally remain
-OL,17,Fdry and bright for most. Breezy.
-OL,18,FMaximum Temperature 16C.
+OL,13,CTonight:FGenerally dry with variable
+OL,14,Fcloud and occasional clearer
+OL,15,Fperiods.Winds will ease further with
+OL,16,Fisolated mist or fog patches possible
+OL,17,Fin sheltered rural spots. Minimum
+OL,18,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -28,17 +28,24 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1759590533
+OL,0,        ECIMSBWebfax 2   F130A1759659097
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Monday to Wednesday:
-OL,6,FPredominantly dry through this period
-OL,7,Fwith variable cloud. Risk of overnight
-OL,8,Ffog patches lingering into the
-OL,9,Fmorning. Winds easing to become light.
-OL,10,FMild.
+OL,5,CMonday:FGenerally dry with warm bright
+OL,6,Fspells, perhaps the best of the bright
+OL,7,Fconditions towards Kent. A gentle
+OL,8,Fbreeze for most. Maximum Temperature
+OL,9,F20C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:
+OL,12,FVariable cloud, often dry with bright
+OL,13,Fspells. Cloudier Wednesday with patchy
+OL,14,Flight rain, clearing later. Isolated
+OL,15,Ffog patches Wednesday and Thursday
+OL,16,Fmornings. Winds generally light, with
+OL,17,Fdaytime temperatures near average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
