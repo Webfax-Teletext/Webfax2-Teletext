@@ -2,25 +2,26 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1759810929
+OL,0,        ECIMSBWebfax 2   F127A1759825369
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FMostly dry
-OL,6,Fwith variable, often large amounts of
-OL,7,Fcloud, but occasional clearer spells
-OL,8,Fmay allow the odd mist patch to form.
-OL,9,FA generally light breeze. Minimum
-OL,10,FTemperature 10C.
-OL,11,
-OL,12,CTuesday:FVariable, often large amounts
-OL,13,Fof cloud, but also occasional bright
-OL,14,Fspells. Cloud gradually thickening
-OL,15,Flater across the Derbyshire hills with
-OL,16,Flight rain or drizzle developing.
-OL,17,FWinds generally light. Maximum
-OL,18,FTemperature 17C.
+OL,5,CToday:FAny isolated early fog patches
+OL,6,Fwill gradually clear. Variable amounts
+OL,7,Fof cloud but also occasional bright or
+OL,8,Fsunny spells giving a warmer feel.
+OL,9,FCloud thickening in the north later in
+OL,10,Fthe day. Mostly dry. Breezy at first
+OL,11,Fbut easing. Maximum Temperature 18C.
+OL,12,
+OL,13,CTonight:FClear spells at first in the
+OL,14,Fsouth. However, cloud thickening for
+OL,15,Fall areas, with outbreaks of light
+OL,16,Frain overnight. Clear spells
+OL,17,Fdeveloping towards dawn in northern
+OL,18,Fareas. Light winds. Minimum
+OL,19,FTemperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -28,18 +29,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1759810929
+OL,0,        ECIMSBWebfax 2   F127A1759825369
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FVariable cloud but often dry with
-OL,7,Fbright spells. Occasionally cloudier
-OL,8,Fwith some light rain or drizzle,
-OL,9,Fmainly Wednesday morning. Much lighter
-OL,10,Fwinds than recent days, with daytime
-OL,11,Ftemperatures near average.
+OL,5,CWednesday:FA cloudy start away from
+OL,6,Fnorthern parts, with outbreaks of
+OL,7,Flight rain and drizzle clearing during
+OL,8,Fthe morning. Sunny spells developing
+OL,9,Ffor all areas. Risk of fog patches
+OL,10,Fovernight. Maximum Temperature 17C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FVariable cloud but often dry with
+OL,14,Fbright spells. Occasionally cloudier
+OL,15,Fwith some light rain or drizzle,
+OL,16,Fmainly over the Peak District. Winds
+OL,17,Ffalling light. Chilly nights and fog
+OL,18,Fpatches possible.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
