@@ -2,23 +2,23 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1759810928
+OL,0,        ECIMSBWebfax 2   F130A1759818151
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FMostly dry
-OL,6,Fwith variable, often large amounts of
-OL,7,Fcloud, but occasional clearer spells
-OL,8,Fmay allow the odd mist or fog patch to
-OL,9,Fform. Generally light winds. Minimum
-OL,10,FTemperature 11C.
+OL,5,CToday:FAny isolated early fog patches
+OL,6,Fwill gradually clear. Variable, often
+OL,7,Flarge, amounts of cloud but also
+OL,8,Foccasional bright spells giving a
+OL,9,Fwarmer feel. Dry with winds generally
+OL,10,Flight. Maximum Temperature 18C.
 OL,11,
-OL,12,CTuesday:FVariable, often large amounts
-OL,13,Fof cloud, but also occasional bright
-OL,14,Fspells giving a warm feel. Dry with
-OL,15,Fwinds generally light. Maximum
-OL,16,FTemperature 18C.
+OL,12,CTonight:FDry to start the night with
+OL,13,Fclear spells. Cloud thickening with
+OL,14,Foutbreaks of light rain in the north
+OL,15,Flater in the night. Light winds.
+OL,16,FMinimum Temperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -26,18 +26,24 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1759810928
+OL,0,        ECIMSBWebfax 2   F130A1759818151
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FCloudier Wednesday with some light
-OL,7,Frain clearing south. Otherwise, mostly
-OL,8,Fdry with variable cloud and brighter
-OL,9,Fspells. Perhaps the odd overnight mist
-OL,10,For fog patch, with winds generally
-OL,11,Flight.
+OL,5,CWednesday:FA cloudy start to
+OL,6,FWednesday, with outbreaks of light
+OL,7,Frain and drizzle during the morning.
+OL,8,FRain dying out in the afternoon with
+OL,9,Fsunny spells later. Risk of fog
+OL,10,Fdeveloping overnight. Maximum
+OL,11,FTemperature 18C.
+OL,12,
+OL,13,COutlook for Thursday to Saturday:
+OL,14,FMostly dry with variable cloud and
+OL,15,Fbright spells. Light winds. Daytime
+OL,16,Ftemperatures near average but chilly
+OL,17,Fnights and areas of fog are possible.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
