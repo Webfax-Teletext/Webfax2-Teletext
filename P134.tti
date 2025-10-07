@@ -1,29 +1,50 @@
-PN,13400
-SC,0000
+PN,13401
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F134A1759785444
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F134A1759807093
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThis Evening and Tonight:FMore in the
-OL,6,Fway of persistent rain will spread
-OL,7,Fnortheast for a time this evening.
-OL,8,FThen cloudy for the rest of the night
-OL,9,Fwith occasional little light rain.
-OL,10,FWindy. Minimum Temperature 12C.
+OL,5,CToday:FAny overnight cloud and rain
+OL,6,Fsoon clearing. Then it will be a
+OL,7,Fmainly dry with some bright or sunny
+OL,8,Fintervals and the odd shower. Moderate
+OL,9,Fwest or southwesterly winds,
+OL,10,Foccasionally fresh later. Maximum
+OL,11,FTemperature 14C.
+OL,12,
+OL,13,CTonight:FBecoming breezy this evening
+OL,14,Fwith a few brief showers. Then partly
+OL,15,Fcloudy overnight with passing showers.
+OL,16,FWindy with fresh to strong west or
+OL,17,Fsouthwesterly winds. Minimum
+OL,18,FTemperature 9C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,135,120,301,200,000,100
+PN,13402
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F134A1759807093
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GOrkney
+OL,4,
+OL,5,CWednesday:FMainly dry in the morning
+OL,6,Fwith the odd shower. Thickening cloud
+OL,7,Fwill bring some drizzly rain in the
+OL,8,Fafternoon, clearing in the evening.
+OL,9,FStrong west or southwesterly winds.
+OL,10,FMaximum Temperature 13C.
 OL,11,
-OL,12,CTuesday:FCloud and rain at first, this
-OL,13,Fsoon clearing away. Then mainly dry
-OL,14,Fwith some sunny intervals. Fresh
-OL,15,Fsouthwesterly winds soon easing down.
-OL,16,FMaximum Temperature 14C.
-OL,17,
-OL,18,COutlook for Wednesday to Friday:FCloudy
-OL,19,Fand windy on Wednesday and Friday with
-OL,20,Foccasional rain, but dry and somewhat
-OL,21,Fbrighter on Thursday.
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FMainly dry on Thursday. Cloudy on
+OL,14,FFriday and Saturday with a little rain
+OL,15,Fat times. Fresh to strong westerly
+OL,16,Fwinds at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
