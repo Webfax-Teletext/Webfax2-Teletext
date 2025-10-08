@@ -2,23 +2,23 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1759908413
+OL,0,        ECIMSBWebfax 2   F129A1759944498
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FA cloudy start, with outbreaks
-OL,6,Fof light rain and drizzle at first.
-OL,7,FRain clearing later in the morning
-OL,8,Fwith sunny spells for the afternoon
-OL,9,Fand light winds. Maximum Temperature
-OL,10,F18C.
+OL,5,CThis Evening and Tonight:FDry with
+OL,6,Fclear spells overnight, with the risk
+OL,7,Fof fog patches forming in places by
+OL,8,Fdawn. Light winds and feeling much
+OL,9,Fcooler than of late. Minimum
+OL,10,FTemperature 5C.
 OL,11,
-OL,12,CTonight:FDry with the risk of fog
-OL,13,Fpatches forming overnight under clear
-OL,14,Fskies and light winds. Feeling much
-OL,15,Fcooler than of late. Minimum
-OL,16,FTemperature 9C.
+OL,12,CThursday:FVariable cloud but dry with
+OL,13,Fbright or sunny spells at times. Winds
+OL,14,Fstaying light. A cloudier night with
+OL,15,Ffog patches possible if cloud breaks.
+OL,16,FMaximum Temperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -26,22 +26,16 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1759908413
+OL,0,        ECIMSBWebfax 2   F129A1759944498
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThursday:FVariable cloud but dry with
-OL,6,Fbright or sunny spells at times. Winds
-OL,7,Fstaying light. A cloudier night with
-OL,8,Ffog patches possible if cloud breaks.
-OL,9,FMaximum Temperature 17C.
-OL,10,
-OL,11,COutlook for Friday to Sunday:FMostly
-OL,12,Fdry with variable cloud and bright
-OL,13,Fspells. Light winds. Daytime
-OL,14,Ftemperatures near average but chilly
-OL,15,Fnights and fog patches are possible.
+OL,5,COutlook for Friday to Sunday:FMostly
+OL,6,Fdry with variable cloud and bright
+OL,7,Fspells. Light winds. Daytime
+OL,8,Ftemperatures near average but chilly
+OL,9,Fnights and fog patches are possible.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
