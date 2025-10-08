@@ -2,26 +2,25 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1759897584
+OL,0,        ECIMSBWebfax 2   F138A1759948106
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FRather cloudy with some rain,
-OL,6,Fthis persistent across Argyll, but
-OL,7,Fpatchy from the Central Belt
-OL,8,Fsouthwards where some limited morning
-OL,9,Fbrighter spells may develop. Winds
-OL,10,Fwest to southwest, occasionally
-OL,11,Ffreshening around the coasts. Maximum
-OL,12,FTemperature 14C.
-OL,13,
-OL,14,CTonight:FA dull overcast evening and
-OL,15,Fnight with occasional rain and
-OL,16,Fdrizzle. Mild. Light west to southwest
-OL,17,Fbreezes, occasionally fleshening
-OL,18,Faround the coasts and Isles. Minimum
-OL,19,FTemperature 11C.
+OL,5,CThis Evening and Tonight:FIt will be
+OL,6,Fan overcast evening and night with
+OL,7,Foccasional rain and drizzle. Mild.
+OL,8,FLight west to southwest breezes,
+OL,9,Foccasionally freshening around the
+OL,10,Fcoasts and Isles. Minimum Temperature
+OL,11,F11C.
+OL,12,
+OL,13,CThursday:FCentral Belt and north
+OL,14,FArgyll mainly dry for the morning with
+OL,15,Fsome limited brightness. Otherwise a
+OL,16,Fcloudy day with light rain and
+OL,17,Fdrizzle. Westerly breezes. Maximum
+OL,18,FTemperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -29,22 +28,15 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1759897584
+OL,0,        ECIMSBWebfax 2   F138A1759948106
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThursday:FCentral Belt and Argyll
-OL,6,Fmainly dry for the morning with some
-OL,7,Flimited brightness. Otherwise a cloudy
-OL,8,Fday with light rain and drizzle.
-OL,9,FWesterly breezes. Maximum Temperature
-OL,10,F16C.
-OL,11,
-OL,12,COutlook for Friday to Sunday:FHigh
-OL,13,Fpressure dominating the weather
-OL,14,Fkeeping the vast majority dry with
-OL,15,Fsunny spells and light winds.
+OL,5,COutlook for Friday to Sunday:FHigh
+OL,6,Fpressure dominating the weather
+OL,7,Fkeeping the vast majority dry with
+OL,8,Fsunny spells and light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
