@@ -2,25 +2,23 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1759854237
+OL,0,        ECIMSBWebfax 2   F127A1759904805
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FClear spells
-OL,6,Fat first in the south. However, cloud
-OL,7,Fthickening for all areas, with
-OL,8,Foutbreaks of light rain or drizzle
-OL,9,Fovernight. Clear spells developing
-OL,10,Ftowards dawn. Light winds. Minimum
-OL,11,FTemperature 6C.
-OL,12,
-OL,13,CWednesday:FA cloudy start away from
-OL,14,Fnorthern parts, with outbreaks of
-OL,15,Flight rain and drizzle clearing during
-OL,16,Fthe morning. Sunny spells developing
-OL,17,Ffor all areas. Risk of fog patches
-OL,18,Fovernight. Maximum Temperature 17C.
+OL,5,CToday:FA cloudy start away from
+OL,6,Fnorthern parts, with outbreaks of
+OL,7,Flight rain and drizzle clearing during
+OL,8,Fthe morning. Sunny spells developing
+OL,9,Ffor all areas with light winds.
+OL,10,FMaximum Temperature 17C.
+OL,11,
+OL,12,CTonight:FDry with the risk of fog
+OL,13,Fpatches forming overnight under clear
+OL,14,Fskies and light winds. Feeling much
+OL,15,Fcooler than of late. Minimum
+OL,16,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -28,18 +26,24 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1759854237
+OL,0,        ECIMSBWebfax 2   F127A1759904805
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FVariable cloud but often dry with
-OL,7,Fbright spells. Occasionally cloudier
-OL,8,Fwith some light rain or drizzle,
-OL,9,Fmainly over the Peak District. Winds
-OL,10,Ffalling light. Chilly nights and fog
-OL,11,Fpatches possible.
+OL,5,CThursday:FVariable cloud but dry with
+OL,6,Fbright or sunny spells at times. Winds
+OL,7,Fstaying light. A cloudier night with
+OL,8,Ffog patches possible if cloud breaks.
+OL,9,FMaximum Temperature 17C.
+OL,10,
+OL,11,COutlook for Friday to Sunday:FVariable
+OL,12,Fcloud but often dry with bright
+OL,13,Fspells. Occasionally cloudier with
+OL,14,Fsome light rain or drizzle, mainly
+OL,15,Fover the Peak District. Winds falling
+OL,16,Flight. Chilly nights and fog patches
+OL,17,Fpossible.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
