@@ -1,29 +1,46 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1759937280
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1759991402
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FClear spells
-OL,6,Fduring the evening for areas to the
-OL,7,Fsoutheast of Lough Neagh. Otherwise
-OL,8,Fcloudy with patchy light rain and
-OL,9,Fdrizzle gradually spreading from the
-OL,10,Fnorthwest overnight. Minimum
-OL,11,FTemperature 10C.
-OL,12,
-OL,13,CThursday:FA mostly cloudy day with
-OL,14,Fpatchy light rain and drizzle, dying
-OL,15,Fout in the afternoon. Westerly
-OL,16,Fbreezes. Maximum Temperature 15C.
-OL,17,
-OL,18,COutlook for Friday to Sunday:FHigh
-OL,19,Fpressure dominating the weather
-OL,20,Fkeeping the vast majority dry with
-OL,21,Fsunny spells and light winds.
+OL,5,CToday:FIt will be a cloudy and
+OL,6,Fovercast day with patchy rain and
+OL,7,Fdrizzle, mainly in the north and west
+OL,8,Fwith drier conditions in the
+OL,9,Fsoutheast. Light westerly winds.
+OL,10,FMaximum Temperature 15C.
+OL,11,
+OL,12,CTonight:FA mostly cloudy evening with
+OL,13,Fthe odd spot of light rain in the
+OL,14,Fwest. Dry overnight and staying
+OL,15,Flargely cloudy but with a few clearer
+OL,16,Fspells developing. Minimum Temperature
+OL,17,F5C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1759991402
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,CFriday:FIt will be a mostly dry and
+OL,6,Fcloudy day with a few bright or sunny
+OL,7,Fspells breaking through. Maximum
+OL,8,FTemperature 15C.
+OL,9,
+OL,10,COutlook for Saturday to Monday:FHigh
+OL,11,Fpressure in charge will bring dry and
+OL,12,Fsettled conditions with variable cloud
+OL,13,Fand sunny spells. Light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
