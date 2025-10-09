@@ -2,23 +2,23 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1759940888
+OL,0,        ECIMSBWebfax 2   F130A1759973362
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FDry with
-OL,6,Fclear spells overnight, with the risk
-OL,7,Fof fog patches forming in places by
-OL,8,Fdawn. Light winds and feeling much
-OL,9,Fcooler than of late. Minimum
-OL,10,FTemperature 8C.
+OL,5,CToday:FEarly cloud will slowly break
+OL,6,Fup as mist and fog patches disperse.
+OL,7,FBright or sunny spells developing
+OL,8,Fwidely and most parts will stay dry.
+OL,9,FWinds remaining light. Maximum
+OL,10,FTemperature 18C.
 OL,11,
-OL,12,CThursday:FVariable cloud but dry with
-OL,13,Fbright or sunny spells at times. Winds
-OL,14,Fstaying light. A cloudier night with
-OL,15,Ffog patches possible if cloud breaks.
-OL,16,FMaximum Temperature 17C.
+OL,12,CTonight:FClear spells at first but
+OL,13,Ftending to turn cloudier through the
+OL,14,Fnight. Mist patches are possible where
+OL,15,Fcloud breaks persist. Light winds and
+OL,16,Fmild. Minimum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -26,16 +26,23 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1759940888
+OL,0,        ECIMSBWebfax 2   F130A1759973362
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Friday to Sunday:FMostly
-OL,6,Fdry with variable cloud and bright
-OL,7,Fspells. Light winds. Daytime
-OL,8,Ftemperatures near average but chilly
-OL,9,Fnights and areas of fog are possible.
+OL,5,CFriday:FAfter a cloudy morning bright
+OL,6,For sunny spells developing more widely
+OL,7,Fduring the afternoon, though mostly
+OL,8,Fstaying dry with light winds. Maximum
+OL,9,FTemperature 18C.
+OL,10,
+OL,11,COutlook for Saturday to Monday:FMostly
+OL,12,Fdry with variable cloud and bright
+OL,13,Fspells. Light winds. Daytime
+OL,14,Ftemperatures rather warm in sunshine
+OL,15,Fbut chilly nights and fog patches are
+OL,16,Fpossible. Perhaps more cloud on Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
