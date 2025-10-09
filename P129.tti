@@ -2,23 +2,28 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1759944498
+OL,0,        ECIMSBWebfax 2   F129A1759995035
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FDry with
-OL,6,Fclear spells overnight, with the risk
-OL,7,Fof fog patches forming in places by
-OL,8,Fdawn. Light winds and feeling much
-OL,9,Fcooler than of late. Minimum
-OL,10,FTemperature 5C.
+OL,5,CToday:FEarly cloud will slowly break
+OL,6,Fup as mist and fog patches disperse.
+OL,7,FBright or sunny spells developing
+OL,8,Fwidely and most parts will stay dry.
+OL,9,FWinds remaining light. Maximum
+OL,10,FTemperature 17C.
 OL,11,
-OL,12,CThursday:FVariable cloud but dry with
-OL,13,Fbright or sunny spells at times. Winds
-OL,14,Fstaying light. A cloudier night with
-OL,15,Ffog patches possible if cloud breaks.
-OL,16,FMaximum Temperature 17C.
+OL,12,CTonight:FA cloudier night with perhaps
+OL,13,Fthe odd spot of light rain in the
+OL,14,Fwest, fog patches possible if cloud
+OL,15,Fbreaks. Light winds and staying mild.
+OL,16,FMinimum Temperature 9C.
+OL,17,
+OL,18,CFriday:FAfter a cloudy morning bright
+OL,19,For sunny spells developing more widely
+OL,20,Fduring the afternoon, though mostly
+OL,21,Fstaying dry. Maximum Temperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -26,16 +31,17 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1759944498
+OL,0,        ECIMSBWebfax 2   F129A1759995035
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Friday to Sunday:FMostly
+OL,5,COutlook for Saturday to Monday:FMostly
 OL,6,Fdry with variable cloud and bright
 OL,7,Fspells. Light winds. Daytime
-OL,8,Ftemperatures near average but chilly
-OL,9,Fnights and fog patches are possible.
+OL,8,Ftemperatures rather warm in sunshine
+OL,9,Fbut chilly nights and fog patches are
+OL,10,Fpossible. Perhaps more cloud on Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
