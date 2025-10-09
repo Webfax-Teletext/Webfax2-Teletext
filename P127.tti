@@ -2,23 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1759937280
+OL,0,        ECIMSBWebfax 2   F127A1759984185
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FDry with
-OL,6,Fvariable cloud amounts and clear
-OL,7,Fspells overnight, with the risk of fog
-OL,8,Fpatches forming in places by dawn.
-OL,9,FLight winds and feeling much cooler
-OL,10,Fthan of late. Minimum Temperature 8C.
-OL,11,
-OL,12,CThursday:FVariable cloud but dry with
-OL,13,Fbright or sunny spells at times. Winds
-OL,14,Fstaying light. A cloudier night with
-OL,15,Ffog patches possible if cloud breaks.
-OL,16,FMaximum Temperature 17C.
+OL,5,CToday:FVariable cloud but dry with
+OL,6,Fbright or sunny spells at times, the
+OL,7,Fbest of which will be further east.
+OL,8,FWinds staying light. Perhaps a little
+OL,9,Fmore cloud and the odd spot of light
+OL,10,Frain over the Derbyshire hills.
+OL,11,FMaximum Temperature 17C.
+OL,12,
+OL,13,CTonight:FA cloudier night generally
+OL,14,Fwith fog patches and patchy drizzle
+OL,15,Fover hills. Mist patches may form if
+OL,16,Fany clear spells develop in the east.
+OL,17,FMinimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -26,18 +27,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1759937280
+OL,0,        ECIMSBWebfax 2   F127A1759984185
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Friday to Sunday:FVariable
-OL,6,Fcloud but often dry with bright
-OL,7,Fspells. Occasionally cloudier with
-OL,8,Fsome light rain or drizzle, mainly
-OL,9,Fover the Peak District. Winds falling
-OL,10,Flight. Chilly nights and fog patches
-OL,11,Fpossible.
+OL,5,CFriday:FAfter a cloudy start bright or
+OL,6,Fsunny spells developing more widely on
+OL,7,FFriday and a little less breezy. Still
+OL,8,Fsome cloud over Derbyshire hills
+OL,9,Fthough mostly staying dry. Maximum
+OL,10,FTemperature 18C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:
+OL,13,FVariable cloud but often dry with
+OL,14,Fbright spells. Occasionally cloudier
+OL,15,Fwith some light rain or drizzle,
+OL,16,Fmainly over the Peak District. Winds
+OL,17,Ffalling light. Chilly nights and fog
+OL,18,Fpatches possible.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
