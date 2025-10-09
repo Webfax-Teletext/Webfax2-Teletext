@@ -2,24 +2,25 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1759984185
+OL,0,        ECIMSBWebfax 2   F137A1760038331
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FA dry day with cloud and bright
-OL,6,Fspells in the morning. Cloud breaking
-OL,7,Fup to give some sunny spells in the
-OL,8,Fafternoon. Cloudier in the west by
-OL,9,Flate afternoon. Breezy westerly winds.
-OL,10,FMaximum Temperature 17C.
-OL,11,
-OL,12,CTonight:FCloud spreading eastwards
-OL,13,Fthrough the evening with the odd spot
-OL,14,Fof rain in the west. Cloud slowly
-OL,15,Fbreaking up and clearing again
-OL,16,Fovernight to leave mostly clear skies
-OL,17,Fby dawn. Minimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FCloud
+OL,6,Fspreading eastwards through the
+OL,7,Fevening with the odd spot of rain in
+OL,8,Fthe west. Cloud slowly breaking up and
+OL,9,Fclearing again overnight to leave
+OL,10,Fmostly clear skies by dawn. Minimum
+OL,11,FTemperature 8C.
+OL,12,
+OL,13,CFriday:FIt will be a dry day with
+OL,14,Flargely clear skies giving plenty of
+OL,15,Fsunshine and feeling rather warm for
+OL,16,Fthe time of year. Perhaps cloudier at
+OL,17,Ftimes near Moray Coast. Maximum
+OL,18,FTemperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -27,24 +28,17 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1759984185
+OL,0,        ECIMSBWebfax 2   F137A1760038331
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CFriday:FIt will be a dry day with
-OL,6,Flargely clear skies giving plenty of
-OL,7,Fsunshine and feeling rather warm for
-OL,8,Fthe time of year. Cloudier at times
-OL,9,Fnear Moray Coast. Maximum Temperature
-OL,10,F18C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FHigh
-OL,13,Fpressure in charge will bring largely
-OL,14,Fsettled conditions with sunny spells.
-OL,15,FStaying predominately dry with a few
-OL,16,Fspots of light rain possible on Sunday
-OL,17,Fand Monday.
+OL,5,COutlook for Saturday to Monday:FHigh
+OL,6,Fpressure in charge will bring largely
+OL,7,Fsettled conditions with sunny spells,
+OL,8,Fhowever a cloudier spell later
+OL,9,FSaturday, and some North Sea coastal
+OL,10,Fareas possibly cloudier on Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
