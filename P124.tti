@@ -2,26 +2,24 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1760027505
+OL,0,        ECIMSBWebfax 2   F124A1760078022
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FStaying
-OL,6,Fcloudy with patchy light rain or
-OL,7,Fdrizzle over western hills. Drier
-OL,8,Ffurther east, especially to the lee of
-OL,9,Fthe hills, with some lengthy clear
-OL,10,Fspells developing. Breezy at times and
-OL,11,Fgenerally a mild night. Minimum
-OL,12,FTemperature 11C.
-OL,13,
-OL,14,CFriday:FBright or sunny spells
-OL,15,Fdeveloping more widely on Friday and a
-OL,16,Flittle less breezy. Still cloudier
-OL,17,Fover western hills, with perhaps the
-OL,18,Fodd spot of light rain or drizzle.
-OL,19,FMaximum Temperature 18C.
+OL,5,CToday:FCloudy through the morning,
+OL,6,Fespecially over western hills. Partly
+OL,7,Fcloudy toward the coast. Bright or
+OL,8,Fsunny spells will develop more widely
+OL,9,Fduring the afternoon. Staying dry
+OL,10,Fthroughout. Light winds. Maximum
+OL,11,FTemperature 17C.
+OL,12,
+OL,13,CTonight:FA sunny start to the evening
+OL,14,Fbefore dusk. Clear and cool overnight,
+OL,15,Fwith light winds, though a few mist
+OL,16,Fand fog patches may develop in the
+OL,17,Fearly hours. Minimum Temperature 4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,17 +27,24 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1760027505
+OL,0,        ECIMSBWebfax 2   F124A1760078022
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Saturday to Monday:FEastern
-OL,6,Fareas often drier with the best of
-OL,7,Fbrighter spells. Western hills
-OL,8,Ffrequently cloudier with some light
-OL,9,Fdrizzle. Warm by day but chilly nights
-OL,10,Fand fog patches possible.
+OL,5,CSaturday:FA bright and sunny day after
+OL,6,Fany early mist and fog patches clear.
+OL,7,FSunshine may be hazy in the morning,
+OL,8,Fthough long sunny spells likely in the
+OL,9,Fafternoon. Light winds. Maximum
+OL,10,FTemperature 16C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FEarly
+OL,13,Ffog slow to clear Sunday, then bright
+OL,14,Fand sunny. Cloudier Monday and Tuesday
+OL,15,Fwith some drizzle possible. Mild by
+OL,16,Fday and by night. Winds remaining
+OL,17,Flight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100

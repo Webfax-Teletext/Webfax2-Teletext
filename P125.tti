@@ -2,24 +2,24 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1760034722
+OL,0,        ECIMSBWebfax 2   F125A1760078022
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Fmurky and dull throughout much of
-OL,7,FThursday evening and overnight with
-OL,8,Flow cloud resulting in hill fog.
-OL,9,FRather damp with outbreaks of drizzle
-OL,10,Fbut staying mild under the cloud
-OL,11,Fcover. Minimum Temperature 10C.
-OL,12,
-OL,13,CFriday:FCloud and drizzle clearing
-OL,14,Fthrough the morning. Drier and
-OL,15,Fbrighter thereafter with sunny spells,
-OL,16,Fthough a little breezy at times.
-OL,17,FMaximum Temperature 15C.
+OL,5,CToday:FDull and murky to start but
+OL,6,Fcloud and drizzle clearing through the
+OL,7,Fmorning. Drier and brighter thereafter
+OL,8,Fwith sunny spells, though a little
+OL,9,Fbreezy at times. Maximum Temperature
+OL,10,F15C.
+OL,11,
+OL,12,CTonight:FA calm evening with clear
+OL,13,Fspells and variable cloud, then
+OL,14,Fremaining dry overnight as winds fall
+OL,15,Flight. Mist and fog patches possible.
+OL,16,FFeeling chillier than last night.
+OL,17,FMinimum Temperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -27,17 +27,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1760034722
+OL,0,        ECIMSBWebfax 2   F125A1760078022
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Saturday to Monday:FStaying
-OL,6,Flargely settled with light winds as
-OL,7,Fhigh pressure dominates. Sunny spells
-OL,8,Fthis weekend, perhaps more cloud into
-OL,9,Fnext week. Locally chilly overnight
-OL,10,Fwith fog patches.
+OL,5,CSaturday:FA fine start to the weekend
+OL,6,Fwith sunny spells, particularly in the
+OL,7,Fnorth whilst cloud may push into the
+OL,8,Fsouth at times. Pleasant in any
+OL,9,Fsunshine with temperatures near
+OL,10,Faverage. Maximum Temperature 15C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FStaying
+OL,13,Flargely settled with light winds as
+OL,14,Fhigh pressure dominates. Sunny spells
+OL,15,Fcontinuing on Sunday, perhaps more
+OL,16,Fcloud into next week. Locally chilly
+OL,17,Fovernight with fog patches.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
