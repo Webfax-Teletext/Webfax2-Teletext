@@ -2,24 +2,23 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760088843
+OL,0,        ECIMSBWebfax 2   F127A1760110478
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FCloudy through the morning over
-OL,6,Fwestern hills. Partly cloudy in the
-OL,7,Feast. Perhaps more widely cloudy
-OL,8,Fthrough the middle of the day before
-OL,9,Fbright or sunny spells developing
-OL,10,Flater. Staying dry throughout. Light
-OL,11,Fwinds. Maximum Temperature 17C.
-OL,12,
-OL,13,CTonight:FA bright start to the evening
-OL,14,Fbefore dusk. Clear and cool overnight,
-OL,15,Fwith light winds, though mist and fog
-OL,16,Fpatches may develop in the early
-OL,17,Fhours. Minimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FA bright
+OL,6,Fstart to the evening before dusk.
+OL,7,FClear and cool overnight, with light
+OL,8,Fwinds, though mist and fog patches may
+OL,9,Fdevelop in the early hours. Minimum
+OL,10,FTemperature 6C.
+OL,11,
+OL,12,CSaturday:FA bright day after any early
+OL,13,Fmist and fog patches clear. Sunshine
+OL,14,Fmay be hazy at times, though long
+OL,15,Fsunny spells likely for most. Light
+OL,16,Fwinds. Maximum Temperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -27,23 +26,17 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760088843
+OL,0,        ECIMSBWebfax 2   F127A1760110478
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CSaturday:FA bright day after any early
-OL,6,Fmist and fog patches clear. Sunshine
-OL,7,Fmay be hazy at times, though long
-OL,8,Fsunny spells likely for most. Light
-OL,9,Fwinds. Maximum Temperature 16C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FEarly
-OL,12,Fmist and fog patches clearing Sunday,
-OL,13,Fthen bright and sunny. Cloudier Monday
-OL,14,Fand Tuesday with some drizzle
-OL,15,Fpossible. Mild by day and by night.
-OL,16,FWinds remaining light.
+OL,5,COutlook for Sunday to Tuesday:FEarly
+OL,6,Fmist and fog patches clearing Sunday,
+OL,7,Fthen bright and sunny. Cloudier Monday
+OL,8,Fand Tuesday with some drizzle
+OL,9,Fpossible. Mild by day and by night.
+OL,10,FWinds remaining light.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100

@@ -2,28 +2,26 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1760070805
+OL,0,        ECIMSBWebfax 2   F139A1760110478
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FRather cloudy at first over
-OL,6,FDumfries and Galloway with some patchy
-OL,7,Fdrizzle, otherwise brightening up with
-OL,8,Fsome sunny intervals. Best of the sun
-OL,9,Fover Lothian and Borders. Maximum
-OL,10,FTemperature 16C.
-OL,11,
-OL,12,CTonight:FIt will be a dry night with
-OL,13,Fclear periods. Turning colder,
-OL,14,Fespecially in rural spots where skies
-OL,15,Fremain clear. Light westerly winds.
-OL,16,FMinimum Temperature 4C.
-OL,17,
-OL,18,CSaturday:FA dry day with bright or
-OL,19,Fsunny spells, best in the east. It may
-OL,20,Fbe cloudier at times over Galloway.
-OL,21,FMaximum Temperature 16C.
+OL,5,CThis Evening and Tonight:FIt will be a
+OL,6,Fdry evening and night with clear
+OL,7,Fperiods, though more cloud at times in
+OL,8,Fthe southwest. Turning colder,
+OL,9,Fespecially in rural spots in the
+OL,10,FBorders where skies remain clear.
+OL,11,FLight westerly winds. Minimum
+OL,12,FTemperature 4C.
+OL,13,
+OL,14,CSaturday:FA dry day. Sunny spells at
+OL,15,Ffirst, then cloud thickening up,
+OL,16,Fespecially in Dumfries and Galloway
+OL,17,Fand West Lothian. Still quite bright
+OL,18,Falong east coast. Maximum Temperature
+OL,19,F16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -31,7 +29,7 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1760070805
+OL,0,        ECIMSBWebfax 2   F139A1760110478
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
@@ -40,7 +38,8 @@ OL,5,COutlook for Sunday to Tuesday:FHigh
 OL,6,Fpressure will keep dry, settled
 OL,7,Fweather with light winds. There will
 OL,8,Fbe sunny spells by day with mist and
-OL,9,Ffog patches at nights.
+OL,9,Ffog patches at nights. Cloudier on
+OL,10,FTuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
