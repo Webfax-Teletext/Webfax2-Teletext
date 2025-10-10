@@ -2,23 +2,24 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1760074414
+OL,0,        ECIMSBWebfax 2   F130A1760128529
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FA rather cloudy day ahead for
-OL,6,Fmost parts. Cloud should begin to lift
-OL,7,Fin the afternoon, becoming brighter,
-OL,8,Fperhaps with the odd sunny interval,
-OL,9,Fbut remaining dry throughout. Light
-OL,10,Fwinds. Maximum Temperature 17C.
-OL,11,
-OL,12,CTonight:FCloudy but dry this evening.
-OL,13,FA mostly cloudy night ahead with
-OL,14,Flimited clear intervals in any brief
-OL,15,Fcloud breaks. Mild, with light winds.
-OL,16,FMinimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FCloudy but
+OL,6,Fdry this evening. A mostly cloudy
+OL,7,Fnight ahead with limited clear
+OL,8,Fintervals in any brief cloud breaks.
+OL,9,FTemperatures feeling mild, with light
+OL,10,Fwinds remaining. Minimum Temperature
+OL,11,F10C.
+OL,12,
+OL,13,CSaturday:FA cloudy start. Long sunny
+OL,14,Fspells developing from the north and
+OL,15,Feventually spreading to all parts as
+OL,16,Fcloud clears southward. Light winds.
+OL,17,FMaximum Temperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -26,23 +27,17 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1760074414
+OL,0,        ECIMSBWebfax 2   F130A1760128529
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CSaturday:FA cloudy start. Long sunny
-OL,6,Fspells developing from the north and
-OL,7,Feventually spreading to all parts as
-OL,8,Fcloud clears southward. Light winds.
-OL,9,FMaximum Temperature 18C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FEarly
-OL,12,Fmist and fog patches clearing Sunday,
-OL,13,Fthen bright and sunny. Cloudier Monday
-OL,14,Fand Tuesday with some drizzle
-OL,15,Fpossible. Mild by day and by night.
-OL,16,FWinds remaining light.
+OL,5,COutlook for Sunday to Tuesday:FEarly
+OL,6,Fmist and fog patches clearing Sunday,
+OL,7,Fthen bright and sunny. Cloudier Monday
+OL,8,Fand Tuesday with some drizzle
+OL,9,Fpossible. Mild by day and by night.
+OL,10,FWinds remaining light.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100

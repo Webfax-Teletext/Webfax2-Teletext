@@ -2,24 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1760074414
+OL,0,        ECIMSBWebfax 2   F132A1760128529
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FIt will be a dry day with
-OL,6,Fvariable, often large amounts of
-OL,7,Fcloud. brighter spells developing this
-OL,8,Fafternoon with sunny spells breaking
-OL,9,Fthrough. Light winds. Maximum
-OL,10,FTemperature 15C.
-OL,11,
-OL,12,CTonight:FStaying dry overnight with
-OL,13,Fclear periods. It will be a chilly
-OL,14,Fnight in rural spots and there will be
-OL,15,Fsome mist and fog patches later
-OL,16,Ftonight. Light winds. Minimum
-OL,17,FTemperature 4C.
+OL,5,CThis Evening and Tonight:FStaying dry
+OL,6,Fthis evening and overnight with some
+OL,7,Fclear periods. It will be a chilly
+OL,8,Fnight in rural spots and there will be
+OL,9,Fsome mist and fog patches later
+OL,10,Ftonight. Light winds. Minimum
+OL,11,FTemperature 4C.
+OL,12,
+OL,13,CSaturday:FAnother dry day with early
+OL,14,Fmist and fog patches, soon dispersing.
+OL,15,FOtherwise bright with sunny spells
+OL,16,Fthough northern counties may cloud
+OL,17,Fover later. Light winds. Maximum
+OL,18,FTemperature 15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,21 +28,17 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1760074414
+OL,0,        ECIMSBWebfax 2   F132A1760128529
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CSaturday:FAnother dry day with early
-OL,6,Fmist and fog patches, soon dispersing.
-OL,7,FOtherwise bright with sunny spells.
-OL,8,FLight winds. Maximum Temperature 15C.
-OL,9,
-OL,10,COutlook for Sunday to Tuesday:FHigh
-OL,11,Fpressure will keep dry, settled
-OL,12,Fweather with light winds. There will
-OL,13,Fbe sunny spells by day with mist and
-OL,14,Ffog patches at nights.
+OL,5,COutlook for Sunday to Tuesday:FHigh
+OL,6,Fpressure will keep dry, settled
+OL,7,Fweather with light winds. There will
+OL,8,Fbe sunny spells by day with mist and
+OL,9,Ffog patches at nights. Cloudier on
+OL,10,FTuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
