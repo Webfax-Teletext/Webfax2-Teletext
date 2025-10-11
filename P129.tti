@@ -2,23 +2,27 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1760168220
+OL,0,        ECIMSBWebfax 2   F129A1760200704
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FAny early mist and fog patches,
-OL,6,Fand any cloud near Norfolk coasts
-OL,7,Fshould soon clear. Becoming dry,
-OL,8,Fbright and sunny for all parts by late
-OL,9,Fmorning. Light winds. Maximum
-OL,10,FTemperature 17C.
-OL,11,
-OL,12,CTonight:FA bright and sunny start to
-OL,13,Fthe evening before dusk. Clear and
-OL,14,Fcool overnight, with areas of mist and
-OL,15,Ffog developing. Light winds. Minimum
-OL,16,FTemperature 3C.
+OL,5,CThis Evening and Tonight:FFine evening
+OL,6,Fwith cloud gradually dispersing across
+OL,7,Fnorthern areas, but perhaps lingering
+OL,8,Ffurther south. Where clear skies
+OL,9,Fdevelop, a touch of grass frost is
+OL,10,Fpossible, but also some mist or fog
+OL,11,Fpatches. Light winds. Minimum
+OL,12,FTemperature 3C.
+OL,13,
+OL,14,CSunday:FOvernight cloud and fog
+OL,15,Fpatches clearing to give some warm
+OL,16,Fsunshine, but likely staying cloudier
+OL,17,Facross north Norfolk. Coastal mist and
+OL,18,Flow cloud likely spreading inland
+OL,19,Flater. Light winds. Maximum
+OL,20,FTemperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -26,24 +30,17 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1760168220
+OL,0,        ECIMSBWebfax 2   F129A1760200704
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CSunday:FEarly fog could be slow to
-OL,6,Fclear, then becoming bright and sunny.
-OL,7,FTurning cloudy across Norfolk and
-OL,8,Fcoastal regions in the afternoon.
-OL,9,FWinds remaining light. Maximum
-OL,10,FTemperature 17C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FCloudy
-OL,13,FMonday with some drizzle possible. Dry
-OL,14,Fand partly cloudy, with sunny
-OL,15,Fintervals Tuesday and Wednesday. Mild
-OL,16,Fby day and by night. Winds remaining
-OL,17,Flight.
+OL,5,COutlook for Monday to Wednesday:FOften
+OL,6,Fcloudy, but some brighter or sunny
+OL,7,Fintervals, Low cloud and mist
+OL,8,Fspreading west at times, with drizzle
+OL,9,For light showers. Chance of overnight
+OL,10,Ffog patches. Mild with light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100

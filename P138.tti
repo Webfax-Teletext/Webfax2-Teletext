@@ -2,24 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760168220
+OL,0,        ECIMSBWebfax 2   F138A1760200704
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FLargely cloudy and misty across
-OL,6,FArgyll with outbreaks of rain or
-OL,7,Fdrizzle. Elsewhere, a dry day with
-OL,8,Fearly cloud clearing to leave bright
-OL,9,For sunny spells. Maximum Temperature
-OL,10,F16C.
+OL,5,CThis Evening and Tonight:FMostly
+OL,6,Fcloudy with the odd spot of rain
+OL,7,Facross Argyll. Elsewhere, a dry night
+OL,8,Fwith clear spells and light winds,
+OL,9,Fthis will allow some patchy fog to
+OL,10,Fdevelop. Minimum Temperature 6C.
 OL,11,
-OL,12,CTonight:FMostly cloudy with the odd
-OL,13,Fspot of rain across Argyll. Elsewhere,
-OL,14,Fa dry night with clear spells and
-OL,15,Flight winds, this will allow some
-OL,16,Fpatchy fog to develop. Minimum
-OL,17,FTemperature 6C.
+OL,12,CSunday:FAreas of low cloud and fog
+OL,13,Fslowly clearing, otherwise dry with
+OL,14,Fbright or sunny spells developing.
+OL,15,FSome low cloud developing again in the
+OL,16,Fevening. Maximum Temperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,23 +26,17 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760168220
+OL,0,        ECIMSBWebfax 2   F138A1760200704
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CSunday:FAreas of low cloud and fog
-OL,6,Fslowly clearing, otherwise dry with
-OL,7,Fbright or sunny spells developing.
-OL,8,FSome low cloud developing again in the
-OL,9,Fevening. Maximum Temperature 16C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:FHigh
-OL,12,Fpressure will keep dry, settled
-OL,13,Fweather with variable amounts of
-OL,14,Fcloud. A few bright or sunny intervals
-OL,15,Fby day and a chance of fog patches at
-OL,16,Fnight.
+OL,5,COutlook for Monday to Wednesday:FHigh
+OL,6,Fpressure will keep dry, settled
+OL,7,Fweather with variable amounts of
+OL,8,Fcloud. A few bright or sunny intervals
+OL,9,Fby day and a chance of fog patches at
+OL,10,Fnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
