@@ -2,25 +2,25 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1760168220
+OL,0,        ECIMSBWebfax 2   F131A1760197096
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FIt will be a rather cloudy
-OL,6,Fmorning with some early mist and fog,
-OL,7,Fbut skies will slowly brighten heading
-OL,8,Finto the afternoon. Feeling pleasant
-OL,9,Fwhere the sun appears, and with light
-OL,10,Fwinds, though a little breezier around
-OL,11,Fthe coast. Maximum Temperature 17C.
+OL,5,CThis Evening and Tonight:FStaying dry
+OL,6,Fovernight for all of us, with clear
+OL,7,Fspells developing at times. It will
+OL,8,Fturn chilly under the cloud breaks,
+OL,9,Fwith a risk of some dense fog patches
+OL,10,Fforming towards dawn, particularly in
+OL,11,Fthe east. Minimum Temperature 5C.
 OL,12,
-OL,13,CTonight:FStaying dry overnight, with
-OL,14,Fclear spells at times. Turning chilly
-OL,15,Funder the cloud breaks, with a risk of
-OL,16,Fdense fog patches forming,
-OL,17,Fparticularly in the east. Minimum
-OL,18,FTemperature 5C.
+OL,13,CSunday:FFog could be slow to clear in
+OL,14,Fplaces on Sunday morning, but
+OL,15,Fgradually sunnier skies will develop
+OL,16,Ffor most of us. Feeling warm in the
+OL,17,Flight winds and sunshine. Maximum
+OL,18,FTemperature 17C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -28,23 +28,18 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1760168220
+OL,0,        ECIMSBWebfax 2   F131A1760197096
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CSunday:FFog could be slow to clear in
-OL,6,Fplaces on Sunday morning, but
-OL,7,Fgradually sunnier skies will develop.
-OL,8,FFeeling warm in light winds. Maximum
-OL,9,FTemperature 17C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:
-OL,12,FTurning cloudier from Monday, but
-OL,13,Fstaying largely dry. A few outbreaks
-OL,14,Fof drizzle are possible at times, and
-OL,15,Fsome overnight fog patches too. Rather
-OL,16,Fmild for the time of year.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FTurning cloudier from Monday, but
+OL,7,Fstaying largely dry. A few outbreaks
+OL,8,Fof drizzle are possible at times, and
+OL,9,Fsome overnight fog patches too.
+OL,10,FAverage temperatures for the time of
+OL,11,Fyear.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100

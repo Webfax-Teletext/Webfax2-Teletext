@@ -2,24 +2,26 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1760168220
+OL,0,        ECIMSBWebfax 2   F130A1760197096
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FA cloudy start. Long sunny
-OL,6,Fspells developing from the north and
-OL,7,Feventually spreading to most parts as
-OL,8,Fcloud clears southward. Cloud
-OL,9,Flingering along the south coast Light
-OL,10,Fwinds. Maximum Temperature 17C.
-OL,11,
-OL,12,CTonight:FA bright and sunny start to
-OL,13,Fthe evening before dusk. Clear and
-OL,14,Fcool overnight, with areas of mist and
-OL,15,Ffog developing inland. Remaining
-OL,16,Fpartly cloudy near coasts. Light
-OL,17,Fwinds. Minimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FFine evening
+OL,6,Fwith cloud gradually dispersing across
+OL,7,Fnorthern areas, but likely lingering
+OL,8,Facross southern counties. Where clear
+OL,9,Fskies develop, some localised mist or
+OL,10,Ffog patches are possible by dawn.
+OL,11,FLight winds. Minimum Temperature 5C.
+OL,12,
+OL,13,CSunday:FOvernight cloud and fog
+OL,14,Fpatches clearing to give some warm
+OL,15,Fsunshine, but likely cloudier across
+OL,16,Fnorth and east Kent coasts. Mist and
+OL,17,Flow cloud likely spreading inland
+OL,18,Flater. Light winds. Maximum
+OL,19,FTemperature 18C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -27,24 +29,17 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1760168220
+OL,0,        ECIMSBWebfax 2   F130A1760197096
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CSunday:FEarly fog and south coast
-OL,6,Fcloud should gradually clear. Becoming
-OL,7,Fbright and sunny for most. Partly
-OL,8,Fcloudy across Kent coasts in the
-OL,9,Fafternoon. Winds remaining light.
-OL,10,FMaximum Temperature 18C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FCloudy
-OL,13,FMonday with some drizzle possible. Dry
-OL,14,Fand partly cloudy, with sunny
-OL,15,Fintervals Tuesday and Wednesday. Mild
-OL,16,Fby day and by night. Winds remaining
-OL,17,Flight.
+OL,5,COutlook for Monday to Wednesday:FOften
+OL,6,Fcloudy, but some brighter intervals,
+OL,7,FCoastal low cloud and mist spreading
+OL,8,Finland at times, with drizzle or light
+OL,9,Fshowers. Chance of overnight fog
+OL,10,Fpatches. Mild with light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
