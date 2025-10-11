@@ -1,8 +1,8 @@
 PN,23101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1760074414
-OL,1,W{${$~+$ {$~{4k4h7} (        G1/5
+OL,0,        ECIMSBWebfax 2   F231A1760153786
+OL,1,W{${$~+$ {$~{4k4h7} (        G1/6
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for SAT 11 OCT
 OL,4,G0600FRadio 1 Weekend Early Breakfast
@@ -27,15 +27,15 @@ OL,26,@mD@MrrnD@arr
 PN,23102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1760074414
-OL,1,W{${$~+$ {$~{4k4h7} (        G2/5
+OL,0,        ECIMSBWebfax 2   F231A1760153786
+OL,1,W{${$~+$ {$~{4k4h7} (        G2/6
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for SAT 11 OCT
 OL,4,G1100FRadio 1's Group Chat with Nat and
 OL,5,     FVicky
-OL,6,     GNat and Vicky get you ready for
-OL,7,     Gthe weekend with the best music,
-OL,8,     Ggossip and good vibes.
+OL,6,     GGot a Story About an Awkward
+OL,7,     GFirst Encounter? Nat and Vicky
+OL,8,     GWant to Hear All About It!
 OL,9,G1300FSam and Danni
 OL,10,     GSam and Danni soundtrack your
 OL,11,     Gafternoon on Radio 1.
@@ -55,8 +55,8 @@ FL,232,200,150,300,000,100
 PN,23103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1760074414
-OL,1,W{${$~+$ {$~{4k4h7} (        G3/5
+OL,0,        ECIMSBWebfax 2   F231A1760153786
+OL,1,W{${$~+$ {$~{4k4h7} (        G3/6
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for SAT 11 OCT
 OL,4,G1800FRadio 1's Dance Anthems with
@@ -66,70 +66,86 @@ OL,7,     Gnonstop hits from current dance
 OL,8,     Gheavyweights!
 OL,9,G1900FRadio 1's Soundsystem Party with
 OL,10,     FJeremiah Asiamah
-OL,11,     GJerry has the biggest party
-OL,12,     Gtracks for your Saturday night!
-OL,13,G2100FRadio 1's Rap Show with Kenny
-OL,14,     FAllstar
-OL,15,     GKenny Allstar has your essential
-OL,16,     Gguide to rap.
-OL,17,G2230FRadio 1's Rap Mixtape
-OL,18,     GKenny Allstar goes in the mix
-OL,19,     Gwith classics, hits and all your
-OL,20,     Grap favourites from Ghetts.
+OL,11,     GMK is on the show with a Party
+OL,12,     GStarter & Jerry has the biggest
+OL,13,     Gtracks for your Saturday!
+OL,14,G2100FRadio 1's Rap Show with Kenny
+OL,15,     FAllstar
+OL,16,     GKenny Allstar has your essential
+OL,17,     Gguide to rap. Contains language
+OL,18,     Gwhich some may find offensive.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,232,200,150,300,000,100
 PN,23104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1760074414
-OL,1,W{${$~+$ {$~{4k4h7} (        G4/5
+OL,0,        ECIMSBWebfax 2   F231A1760153786
+OL,1,W{${$~+$ {$~{4k4h7} (        G4/6
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for SAT 11 OCT
-OL,4,G2300FRadio 1's Drum & Bass Show with
-OL,5,     FCharlie Tee
-OL,6,     GCharlie Tee dishes up the hottest
-OL,7,     GD&B and reveals this week's Drop
-OL,8,     Gof the Week!
-OL,9,G0000FRadio 1 Dance Drum & Bass Mix
-OL,10,     GDiagnostix brings his big energy
-OL,11,     Gsound into this 30-minute drum
-OL,12,     Gand bass mix!
-OL,13,G0030FRadio 1 Dance Drum & Bass Mix:
-OL,14,     FChilled D&B
-OL,15,     GMixed up D&B from Radio 1 Dance.
-OL,16,G0100FRadio 1's Classic Essential Mix
-OL,17,     GWe revisit Paul Kalkbrenner's
-OL,18,     Gbrilliant 2011 Essential Mix. The
-OL,19,     GGerman electronic producer and
-OL,20,     Gperformer delivered a two-hour
-OL,21,     Gmix of his own productions and
-OL,22,     Gremixes.
+OL,4,G2230FRadio 1's Rap Mixtape
+OL,5,     GKenny Allstar goes in the mix
+OL,6,     Gwith classics, hits and all your
+OL,7,     Grap favourites from Ghetts.
+OL,8,     GContains language which some may
+OL,9,     Gfind offensive.
+OL,10,G2300FRadio 1's Drum & Bass Show with
+OL,11,     FCharlie Tee
+OL,12,     GCharlie Tee dishes up the hottest
+OL,13,     GD&B and reveals this week's Drop
+OL,14,     Gof the Week!
+OL,15,G0000FRadio 1 Dance Drum & Bass Mix
+OL,16,     GDiagnostix brings his big energy
+OL,17,     Gsound into this 30-minute drum
+OL,18,     Gand bass mix!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,232,200,150,300,000,100
 PN,23105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1760074414
-OL,1,W{${$~+$ {$~{4k4h7} (        G5/5
+OL,0,        ECIMSBWebfax 2   F231A1760153786
+OL,1,W{${$~+$ {$~{4k4h7} (        G5/6
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for SAT 11 OCT
-OL,4,G0300FFuture Dance Mix with Sarah Story
-OL,5,     GSarah serves up another Future
-OL,6,     GDance Mix featuring The Trip,
-OL,7,     GLuke Alessi and RSquared.
-OL,8,G0330FPete Tong's Hot Mix
-OL,9,     GPete brings you a Hot Mix
-OL,10,     Ginspired by the Ibiza closing
-OL,11,     Gparties.
-OL,12,G0400FRadio 1 Dance Party Starters
-OL,13,     G60 minutes of the biggest dance
-OL,14,     Gtunes from around the world.
-OL,15,G0500FRadio 1's Dance Anthems with
-OL,16,     FCharlie Hedges
-OL,17,     GNonstop classic dance anthems
-OL,18,     Gwith Charlie Hedges.
+OL,4,G0030FRadio 1 Dance Drum & Bass Mix:
+OL,5,     FChilled D&B
+OL,6,     GBSearl takes you through 30
+OL,7,     Gminutes of his vibey and smile-
+OL,8,     Ginducing selections.
+OL,9,G0100FRadio 1's Classic Essential Mix
+OL,10,     GWe revisit Paul Kalkbrenner's
+OL,11,     Gbrilliant 2011 Essential Mix. The
+OL,12,     GGerman electronic producer and
+OL,13,     Gperformer delivered a two-hour
+OL,14,     Gmix of his own productions and
+OL,15,     Gremixes.
+OL,16,G0300FFuture Dance Mix with Sarah Story
+OL,17,     GSarah serves up another Future
+OL,18,     GDance Mix featuring The Trip,
+OL,19,     GLuke Alessi and RSquared.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,232,200,150,300,000,100
+PN,23106
+SC,0006
+PS,c008
+OL,0,        ECIMSBWebfax 2   F231A1760153786
+OL,1,W{${$~+$ {$~{4k4h7} (        G6/6
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
+OL,3,CProgramme listings for SAT 11 OCT
+OL,4,G0330FPete Tong's Hot Mix
+OL,5,     GPete brings you a Hot Mix
+OL,6,     Ginspired by the Ibiza closing
+OL,7,     Gparties.
+OL,8,G0400FRadio 1 Dance Party Starters
+OL,9,     G60 minutes of the biggest dance
+OL,10,     Gtunes from around the world.
+OL,11,G0500FRadio 1's Dance Anthems with
+OL,12,     FCharlie Hedges
+OL,13,     GNonstop classic dance anthems
+OL,14,     Gwith Charlie Hedges.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,232,200,150,300,000,100
