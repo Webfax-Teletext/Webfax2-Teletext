@@ -2,23 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760110478
+OL,0,        ECIMSBWebfax 2   F127A1760168220
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FA bright
-OL,6,Fstart to the evening before dusk.
-OL,7,FClear and cool overnight, with light
-OL,8,Fwinds, though mist and fog patches may
-OL,9,Fdevelop in the early hours. Minimum
-OL,10,FTemperature 6C.
+OL,5,CToday:FA bright and sunny day after
+OL,6,Fany early mist and fog patches clear.
+OL,7,FSunshine may be hazy in the morning,
+OL,8,Fthough long sunny spells likely in the
+OL,9,Fafternoon. Light winds. Maximum
+OL,10,FTemperature 17C.
 OL,11,
-OL,12,CSaturday:FA bright day after any early
-OL,13,Fmist and fog patches clear. Sunshine
-OL,14,Fmay be hazy at times, though long
-OL,15,Fsunny spells likely for most. Light
-OL,16,Fwinds. Maximum Temperature 16C.
+OL,12,CTonight:FA bright and sunny start to
+OL,13,Fthe evening before dusk. Clear and
+OL,14,Fcool overnight, with a rural grass
+OL,15,Ffrost and areas of mist and fog
+OL,16,Fdeveloping. Light winds. Minimum
+OL,17,FTemperature 2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -26,17 +27,23 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760110478
+OL,0,        ECIMSBWebfax 2   F127A1760168220
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FEarly
-OL,6,Fmist and fog patches clearing Sunday,
-OL,7,Fthen bright and sunny. Cloudier Monday
-OL,8,Fand Tuesday with some drizzle
-OL,9,Fpossible. Mild by day and by night.
-OL,10,FWinds remaining light.
+OL,5,CSunday:FEarly fog could be slow to
+OL,6,Fclear, then becoming bright and sunny.
+OL,7,FTurning cloudy toward coasts in the
+OL,8,Fafternoon. Winds remaining light.
+OL,9,FMaximum Temperature 18C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:FMostly
+OL,12,Fcloudy early next week, with brief
+OL,13,Fsunny intervals at times. Mostly dry
+OL,14,Fwith a chance of isolated light
+OL,15,Fshowers. Mild by day and by night.
+OL,16,FWinds remaining light.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100

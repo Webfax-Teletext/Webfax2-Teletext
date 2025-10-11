@@ -2,23 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760121314
+OL,0,        ECIMSBWebfax 2   F138A1760168220
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FMost places
-OL,6,Fwill have a dry evening and night with
-OL,7,Fclear periods. More cloud across
-OL,8,FArgyll, thickening towards morning
-OL,9,Fwith a little rain possible in the
-OL,10,Fnorth. Minimum Temperature 6C.
+OL,5,CToday:FLargely cloudy and misty across
+OL,6,FArgyll with outbreaks of rain or
+OL,7,Fdrizzle. Elsewhere, a dry day with
+OL,8,Fearly cloud clearing to leave bright
+OL,9,For sunny spells. Maximum Temperature
+OL,10,F16C.
 OL,11,
-OL,12,CSaturday:FA sunny start in east
-OL,13,Fotherwise mainly cloudy. Most staying
-OL,14,Fdry but Argyll will see a little light
-OL,15,Frain or drizzle. Maximum Temperature
-OL,16,F15C.
+OL,12,CTonight:FMostly cloudy with the odd
+OL,13,Fspot of rain across Argyll. Elsewhere,
+OL,14,Fa dry night with clear spells and
+OL,15,Flight winds, this will allow some
+OL,16,Fpatchy fog to develop. Minimum
+OL,17,FTemperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -26,17 +27,23 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760121314
+OL,0,        ECIMSBWebfax 2   F138A1760168220
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FHigh
-OL,6,Fpressure will keep dry, settled
-OL,7,Fweather with light winds. There will
-OL,8,Fbe sunny spells by day with mist and
-OL,9,Ffog patches at nights. Cloudier on
-OL,10,FTuesday.
+OL,5,CSunday:FAreas of low cloud and fog
+OL,6,Fslowly clearing, otherwise dry with
+OL,7,Fbright or sunny spells developing.
+OL,8,FSome low cloud developing again in the
+OL,9,Fevening. Maximum Temperature 16C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:FHigh
+OL,12,Fpressure will keep dry, settled
+OL,13,Fweather with variable amounts of
+OL,14,Fcloud. A few bright or sunny intervals
+OL,15,Fby day and a chance of fog patches at
+OL,16,Fnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
