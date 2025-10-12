@@ -1,46 +1,28 @@
-PN,13201
-SC,0001
+PN,13200
+SC,0000
 CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1760240415
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8008
+OL,0,        ECIMSBWebfax 2   F132A1760294538
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FA cloudy start for most,
-OL,6,Fperhaps some drizzle, but the cloud
-OL,7,Fgradually thinning and breaking
-OL,8,Fthrough the day to allow increasing
-OL,9,Fsunny intervals as the afternoon goes
-OL,10,Fon. Light winds. Maximum Temperature
-OL,11,F15C.
-OL,12,
-OL,13,CTonight:FSome clear spells at first
-OL,14,Fbut cloud gradually thickening up
-OL,15,Fagain as the evening and night go on.
-OL,16,FLight winds. Minimum Temperature 8C.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page BWeatherCReg Sport FNat Radio
-FL,133,120,301,200,000,100
-PN,13202
-SC,0002
-CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1760240415
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GNorthern Ireland
-OL,4,
-OL,5,CMonday:FCloudy in morning the cloud
-OL,6,Fthen breaking up to allow some sunny
-OL,7,Fspells for the afternoon, though the
-OL,8,Ffar west may stay cloudier. Light
-OL,9,Fwinds. Maximum Temperature 16C.
+OL,5,CThis Evening and Tonight:FThis evening
+OL,6,Fwill be dry. The the rest of the night
+OL,7,Fwill remain dry but with a good deal
+OL,8,Fof cloud and a few fog patches.
+OL,9,FMinimum Temperature 8C.
 OL,10,
-OL,11,COutlook for Tuesday to Thursday:FHigh
-OL,12,Fpressure will keep dry, settled
-OL,13,Fweather with variable, often large
-OL,14,Famounts of cloud. Light winds.
+OL,11,CMonday:FMainly cloudy in morning the
+OL,12,Fcloud then breaking up to allow some
+OL,13,Fsunny spells for the afternoon, though
+OL,14,Fthe far west may stay cloudier. Light
+OL,15,Fwinds. Maximum Temperature 16C.
+OL,16,
+OL,17,COutlook for Tuesday to Thursday:FHigh
+OL,18,Fpressure will keep dry, settled
+OL,19,Fweather with variable, often large
+OL,20,Famounts of cloud. Light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
