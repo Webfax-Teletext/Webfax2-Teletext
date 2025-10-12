@@ -2,23 +2,23 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1760204312
+OL,0,        ECIMSBWebfax 2   F132A1760240415
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA dry night
-OL,6,Fwith variable amounts of cloud and
-OL,7,Fsome clear spells. Becoming chilly in
-OL,8,Fplaces, especially in southern
-OL,9,Fcounties, with some patchy fog
-OL,10,Fdeveloping. Minimum Temperature 5C.
-OL,11,
-OL,12,CSunday:FPatchy low cloud and fog
-OL,13,Fslowly clearing, otherwise dry with
-OL,14,Fbright or sunny spells developing.
-OL,15,FSome low cloud developing again in the
-OL,16,Fevening. Maximum Temperature 15C.
+OL,5,CToday:FA cloudy start for most,
+OL,6,Fperhaps some drizzle, but the cloud
+OL,7,Fgradually thinning and breaking
+OL,8,Fthrough the day to allow increasing
+OL,9,Fsunny intervals as the afternoon goes
+OL,10,Fon. Light winds. Maximum Temperature
+OL,11,F15C.
+OL,12,
+OL,13,CTonight:FSome clear spells at first
+OL,14,Fbut cloud gradually thickening up
+OL,15,Fagain as the evening and night go on.
+OL,16,FLight winds. Minimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,17 +26,21 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1760204312
+OL,0,        ECIMSBWebfax 2   F132A1760240415
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FHigh
-OL,6,Fpressure will keep dry, settled
-OL,7,Fweather with variable amounts of
-OL,8,Fcloud. A few bright or sunny intervals
-OL,9,Fby day and a chance of fog patches at
-OL,10,Fnight.
+OL,5,CMonday:FCloudy in morning the cloud
+OL,6,Fthen breaking up to allow some sunny
+OL,7,Fspells for the afternoon, though the
+OL,8,Ffar west may stay cloudier. Light
+OL,9,Fwinds. Maximum Temperature 16C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FHigh
+OL,12,Fpressure will keep dry, settled
+OL,13,Fweather with variable, often large
+OL,14,Famounts of cloud. Light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
