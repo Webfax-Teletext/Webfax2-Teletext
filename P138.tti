@@ -2,24 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760254847
+OL,0,        ECIMSBWebfax 2   F138A1760305363
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FA cloudy start for most,
-OL,6,Fperhaps some drizzle, but the cloud
-OL,7,Fgradually thinning and breaking
-OL,8,Fthrough the day to allow increasing
-OL,9,Fsunny spells as the afternoon goes on.
-OL,10,FLight winds. Maximum Temperature 16C.
-OL,11,
-OL,12,CTonight:FRemaining dry. Clear periods,
-OL,13,Fthough low cloud will reform in the
-OL,14,FCentral Belt with perhaps some fog on
-OL,15,Fhigher ground, while thicker cloud may
-OL,16,Falso affect Kintyre and Isles. Minimum
-OL,17,FTemperature 6C.
+OL,5,CThis Evening and Tonight:FRemaining
+OL,6,Fdry. Clear periods, though low cloud
+OL,7,Fwill reform in the Central Belt with
+OL,8,Fperhaps some fog on higher ground,
+OL,9,Fwhile thicker cloud may also affect
+OL,10,FKintyre and Isles. Minimum Temperature
+OL,11,F6C.
+OL,12,
+OL,13,CMonday:FAny low cloud and mist in
+OL,14,FCentral Belt burning off then some
+OL,15,Fsunny periods through the day, though
+OL,16,Fthe far west may stay cloudier. Light
+OL,17,Fwinds. Maximum Temperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,22 +27,16 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760254847
+OL,0,        ECIMSBWebfax 2   F138A1760305363
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CMonday:FAny low cloud and mist in
-OL,6,FCentral Belt burning off then some
-OL,7,Fsunny periods through the day, though
-OL,8,Fthe far west may stay cloudier. Light
-OL,9,Fwinds. Maximum Temperature 16C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:FHigh
-OL,12,Fpressure will keep dry, settled
-OL,13,Fweather with variable amounts of
-OL,14,Fcloud, and some sunny spells. A chance
-OL,15,Fof fog patches at night.
+OL,5,COutlook for Tuesday to Thursday:FHigh
+OL,6,Fpressure will keep dry, settled
+OL,7,Fweather with variable amounts of
+OL,8,Fcloud, and some sunny spells. A chance
+OL,9,Fof fog patches at night.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
