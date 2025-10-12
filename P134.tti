@@ -2,24 +2,23 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760247629
+OL,0,        ECIMSBWebfax 2   F134A1760290930
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FIt will be a cloudy day with a
-OL,6,Flittle light rain or drizzle at times,
-OL,7,Fthough much of the time it will be
-OL,8,Fdry. Low cloud and mist with some
-OL,9,Fpatchy haar. Westerly winds becoming
-OL,10,Flight. Maximum Temperature 14C.
-OL,11,
-OL,12,CTonight:FStaying murky this evening
-OL,13,Fwith some drizzle and fog patches.
-OL,14,FOvernight while staying cloudy, the
-OL,15,Fmist and fog should clear from
-OL,16,FShetland with a moderate westerly
-OL,17,Fbreeze there. Minimum Temperature 11C.
+OL,5,CThis Evening and Tonight:FStaying
+OL,6,Fmurky this evening with some drizzle
+OL,7,Fand fog patches. Overnight while
+OL,8,Fstaying cloudy, the mist and fog
+OL,9,Fshould clear from Shetland with a
+OL,10,Fmoderate westerly breeze there.
+OL,11,FMinimum Temperature 11C.
+OL,12,
+OL,13,CMonday:FA rather cloudy but mainly dry
+OL,14,Fday, just the odd light shower around,
+OL,15,Falong with a few sunny intervals.
+OL,16,FLight winds. Maximum Temperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -27,22 +26,17 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760247629
+OL,0,        ECIMSBWebfax 2   F134A1760290930
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CMonday:FA rather cloudy but mainly dry
-OL,6,Fday, just the odd light shower around,
-OL,7,Falong with a few sunny intervals.
-OL,8,FLight winds. Maximum Temperature 13C.
-OL,9,
-OL,10,COutlook for Tuesday to Thursday:FRather
-OL,11,Fcloudy weather with a few light
-OL,12,Fshowers, but also one or two sunnier
-OL,13,Finterludes. Light winds at first then
-OL,14,Fa moderate to fresh westerly from
-OL,15,FWednesday.
+OL,5,COutlook for Tuesday to Thursday:FRather
+OL,6,Fcloudy weather with a few light
+OL,7,Fshowers, but also one or two sunnier
+OL,8,Finterludes. Light winds at first then
+OL,9,Fa moderate to fresh westerly from
+OL,10,FWednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
