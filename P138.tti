@@ -2,23 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760200704
+OL,0,        ECIMSBWebfax 2   F138A1760254847
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FMostly
-OL,6,Fcloudy with the odd spot of rain
-OL,7,Facross Argyll. Elsewhere, a dry night
-OL,8,Fwith clear spells and light winds,
-OL,9,Fthis will allow some patchy fog to
-OL,10,Fdevelop. Minimum Temperature 6C.
+OL,5,CToday:FA cloudy start for most,
+OL,6,Fperhaps some drizzle, but the cloud
+OL,7,Fgradually thinning and breaking
+OL,8,Fthrough the day to allow increasing
+OL,9,Fsunny spells as the afternoon goes on.
+OL,10,FLight winds. Maximum Temperature 16C.
 OL,11,
-OL,12,CSunday:FAreas of low cloud and fog
-OL,13,Fslowly clearing, otherwise dry with
-OL,14,Fbright or sunny spells developing.
-OL,15,FSome low cloud developing again in the
-OL,16,Fevening. Maximum Temperature 16C.
+OL,12,CTonight:FRemaining dry. Clear periods,
+OL,13,Fthough low cloud will reform in the
+OL,14,FCentral Belt with perhaps some fog on
+OL,15,Fhigher ground, while thicker cloud may
+OL,16,Falso affect Kintyre and Isles. Minimum
+OL,17,FTemperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -26,17 +27,22 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760200704
+OL,0,        ECIMSBWebfax 2   F138A1760254847
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FHigh
-OL,6,Fpressure will keep dry, settled
-OL,7,Fweather with variable amounts of
-OL,8,Fcloud. A few bright or sunny intervals
-OL,9,Fby day and a chance of fog patches at
-OL,10,Fnight.
+OL,5,CMonday:FAny low cloud and mist in
+OL,6,FCentral Belt burning off then some
+OL,7,Fsunny periods through the day, though
+OL,8,Fthe far west may stay cloudier. Light
+OL,9,Fwinds. Maximum Temperature 16C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FHigh
+OL,12,Fpressure will keep dry, settled
+OL,13,Fweather with variable amounts of
+OL,14,Fcloud, and some sunny spells. A chance
+OL,15,Fof fog patches at night.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100

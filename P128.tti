@@ -2,26 +2,25 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1760200704
+OL,0,        ECIMSBWebfax 2   F128A1760254847
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FStaying dry
-OL,6,Fovernight, with clear skies developing
-OL,7,Ffor many of us. Turning chilly under
-OL,8,Fthe starry conditions, especially in
-OL,9,Frural areas. There is a risk of dense
-OL,10,Ffog patches forming under clear skies
-OL,11,Fduring the early hours. Minimum
-OL,12,FTemperature 4C.
-OL,13,
-OL,14,CSunday:FFog could be slow to clear in
-OL,15,Fplaces on Sunday morning, but skies
-OL,16,Fshould slowly start to brighten.
-OL,17,FFeeling warm in the afternoon
-OL,18,Fsunshine, and with light winds.
-OL,19,FMaximum Temperature 16C.
+OL,5,CToday:FEarly fog could be slow to
+OL,6,Fclear in places on Sunday morning, but
+OL,7,Fskies should slowly start to brighten
+OL,8,Fwith sunny spells developing widely
+OL,9,Finto the afternoon. Feeling warm in
+OL,10,Fthe afternoon sunshine, with light
+OL,11,Fwinds. Maximum Temperature 16C.
+OL,12,
+OL,13,CTonight:FAfter a fine evening it will
+OL,14,Fbe a dry night with clear spells,
+OL,15,Fespecially in the west. Turning
+OL,16,Fcloudier in the east. Some patchy fog
+OL,17,Funder clearest skies. Minimum
+OL,18,FTemperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -29,18 +28,25 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1760200704
+OL,0,        ECIMSBWebfax 2   F128A1760254847
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Monday to Wednesday:
-OL,6,FTurning cloudier from Monday, but
-OL,7,Fstaying largely dry. A few outbreaks
-OL,8,Fof drizzle are possible at times, and
-OL,9,Fsome overnight fog patches too.
-OL,10,FAverage temperatures for the time of
-OL,11,Fyear.
+OL,5,CMonday:FAny early fog slowly clearing
+OL,6,Fin the west. A dry day will then
+OL,7,Ffollow, but it will be rather cloudy
+OL,8,Fwith sunshine limited. Feeling
+OL,9,Fpleasantly warm with light winds.
+OL,10,FMaximum Temperature 17C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:FHigh
+OL,13,Fpressure remains in charge, generally
+OL,14,Fcloudy but staying largely dry. A few
+OL,15,Foutbreaks of drizzle are possible at
+OL,16,Ftimes, and some overnight fog patches
+OL,17,Ftoo. Temperatures remaining near
+OL,18,Faverage.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
