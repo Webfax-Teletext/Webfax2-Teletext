@@ -2,23 +2,23 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760290930
+OL,0,        ECIMSBWebfax 2   F134A1760341452
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThis Evening and Tonight:FStaying
-OL,6,Fmurky this evening with some drizzle
-OL,7,Fand fog patches. Overnight while
-OL,8,Fstaying cloudy, the mist and fog
-OL,9,Fshould clear from Shetland with a
-OL,10,Fmoderate westerly breeze there.
-OL,11,FMinimum Temperature 11C.
-OL,12,
-OL,13,CMonday:FA rather cloudy but mainly dry
-OL,14,Fday, just the odd light shower around,
-OL,15,Falong with a few sunny intervals.
-OL,16,FLight winds. Maximum Temperature 13C.
+OL,5,CToday:FA rather cloudy but mainly dry
+OL,6,Fday, just the odd light shower around,
+OL,7,Falong with a few sunny intervals,
+OL,8,Fthese most likely over Shetland.
+OL,9,FMostly light west or northwest breeze.
+OL,10,FMaximum Temperature 13C.
+OL,11,
+OL,12,CTonight:FIt will remain mostly cloudy
+OL,13,Fand while dry much of the time there
+OL,14,Fwill be a little patchy light rain.
+OL,15,FMostly light west or northwest wind.
+OL,16,FMinimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -26,17 +26,23 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760290930
+OL,0,        ECIMSBWebfax 2   F134A1760341452
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FRather
-OL,6,Fcloudy weather with a few light
-OL,7,Fshowers, but also one or two sunnier
-OL,8,Finterludes. Light winds at first then
-OL,9,Fa moderate to fresh westerly from
-OL,10,FWednesday.
+OL,5,CTuesday:FYet another mainly dry but
+OL,6,Fmostly cloudy day, always with the
+OL,7,Fchance of some patches of light rain.
+OL,8,FMostly light west or northwest wind.
+OL,9,FMaximum Temperature 13C.
+OL,10,
+OL,11,COutlook for Wednesday to Friday:FRather
+OL,12,Fcloudy weather with a few light
+OL,13,Fshowers, but also one or two sunnier
+OL,14,Finterludes. A moderate to fresh
+OL,15,Fwesterly on Wednesday then winds
+OL,16,Feasing again later in the week.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
