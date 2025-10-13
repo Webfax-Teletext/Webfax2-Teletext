@@ -2,23 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760334234
+OL,0,        ECIMSBWebfax 2   F127A1760388358
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FCloudy start with any early
-OL,6,Fmist or fog slow to clear. Likely
-OL,7,Fremaining cloudy for many areas, but
-OL,8,Fsome brighter intervals are possible,
-OL,9,Fmost likely further west. Light winds.
-OL,10,FMaximum Temperature 16C.
-OL,11,
-OL,12,CTonight:FCloud returning with mist and
-OL,13,Ffog patches forming, especially where
-OL,14,Fany cloud breaks occur in the west.
-OL,15,FGenerally dry with light winds.
-OL,16,FMinimum Temperature 8C.
+OL,5,CThis Evening and Tonight:FAny evening
+OL,6,Fcloud breaks will be short-lived with
+OL,7,Fcloud thickening this evening,
+OL,8,Fpotentially giving a little drizzle.
+OL,9,FPerhaps some isolated mist and fog
+OL,10,Fpatches developing. Light winds.
+OL,11,FMinimum Temperature 9C.
+OL,12,
+OL,13,CTuesday:FA murky start for many with
+OL,14,Flow cloud and some drizzle. Any fog
+OL,15,Fpatches will slowly clear during the
+OL,16,Fmorning. Some brighter spells may
+OL,17,Fdevelop. Maximum Temperature 16C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -26,24 +27,17 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760334234
+OL,0,        ECIMSBWebfax 2   F127A1760388358
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CTuesday:FOften cloudy, but some sunny
-OL,6,Fspells possible in the west. Coastal
-OL,7,Flow cloud and mist spreading inland at
-OL,8,Ftimes, with a risk of drizzle. Mild
-OL,9,Fwith light winds. Maximum Temperature
-OL,10,F15C.
-OL,11,
-OL,12,COutlook for Wednesday to Friday:FOften
-OL,13,Fcloudy, but some sunny spells. Coastal
-OL,14,Flow cloud and mist spreading west at
-OL,15,Ftimes, with a risk of drizzle. Chance
-OL,16,Fof overnight fog patches. Mostly mild
-OL,17,Fwith light winds.
+OL,5,COutlook for Wednesday to Friday:FOften
+OL,6,Fcloudy, but some sunny spells. Low
+OL,7,Fcloud and mist spreading west at
+OL,8,Ftimes, with some drizzle. Chance of
+OL,9,Fovernight fog patches. Risk of
+OL,10,Fovernight grass frost. Light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
