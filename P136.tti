@@ -2,23 +2,24 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1760283714
+OL,0,        ECIMSBWebfax 2   F136A1760330625
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CThis Evening and Tonight:FSome clear
-OL,6,Fspells this evening but areas of low
-OL,7,Fcloud and perhaps some fog patches
-OL,8,Fwill reform, the odd spot of drizzle
-OL,9,Ftoo. Chilly where it stays clear.
-OL,10,FMinimum Temperature 10C.
-OL,11,
-OL,12,CMonday:FAreas of low cloud will
-OL,13,Fgradually burn off through the morning
-OL,14,Fas sunny spells become more widespread
-OL,15,Fin the afternoon. Maximum Temperature
-OL,16,F17C.
+OL,5,CToday:FAreas of low cloud and patchy
+OL,6,Ffog will gradually burn off through
+OL,7,Fthe morning as sunny spells become
+OL,8,Fmore widespread in the afternoon,
+OL,9,Fthough cloud may linger near some
+OL,10,Fcoasts. Light winds. Maximum
+OL,11,FTemperature 15C.
+OL,12,
+OL,13,CTonight:FSome clear spells this
+OL,14,Fevening, with one or two fog patches
+OL,15,Fforming tonight. Cloudier skies near
+OL,16,Fthe east coast will edge further west
+OL,17,Fovernight. Minimum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -26,16 +27,22 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1760283714
+OL,0,        ECIMSBWebfax 2   F136A1760330625
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FHigh
-OL,6,Fpressure will keep dry, settled
-OL,7,Fweather with variable amounts of
-OL,8,Fcloud, and some sunny spells. A chance
-OL,9,Fof fog patches at night.
+OL,5,CTuesday:FCloud in east gradually
+OL,6,Fbreaking up through the day to allow
+OL,7,Fsome sunny intervals, the best
+OL,8,Fsunshine will be in the west. Maximum
+OL,9,FTemperature 15C.
+OL,10,
+OL,11,COutlook for Wednesday to Friday:FHigh
+OL,12,Fpressure will keep dry, settled
+OL,13,Fweather with variable amounts of
+OL,14,Fcloud, and some sunny spells. A chance
+OL,15,Fof fog patches at night.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
