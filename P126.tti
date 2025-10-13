@@ -2,26 +2,24 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1760287321
+OL,0,        ECIMSBWebfax 2   F126A1760337842
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FAny early
-OL,6,Fevening sunny spells soon giving way
-OL,7,Fto mist and low cloud spreading inland
-OL,8,Ffrom the North Sea. Perhaps a little
-OL,9,Fdrizzle at times, with hill fog also
-OL,10,Flikely. Light winds. Minimum
-OL,11,FTemperature 9C.
+OL,5,CToday:FRather cloudy to start with any
+OL,6,Fmist or fog slow to clear. Likely
+OL,7,Fstaying cloudy for many areas, perhaps
+OL,8,Fwith some coastal drizzle, but
+OL,9,Fbrighter intervals also possible,
+OL,10,Fmainly inland towards the north. Light
+OL,11,Fwinds. Maximum Temperature 17C.
 OL,12,
-OL,13,CMonday:FRather cloudy to start with
-OL,14,Fany mist slow to clear. Likely staying
-OL,15,Fcloudy for many areas, perhaps with
-OL,16,Fsome coastal drizzle, but brighter
-OL,17,Fintervals also possible, mainly
-OL,18,Finland. Light winds. Maximum
-OL,19,FTemperature 17C.
+OL,13,CTonight:FCloud returning with mist and
+OL,14,Ffog patches forming, especially where
+OL,15,Fcloud breaks occur in the west.
+OL,16,FGenerally dry with light winds.
+OL,17,FMinimum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -29,17 +27,24 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1760287321
+OL,0,        ECIMSBWebfax 2   F126A1760337842
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FOften
-OL,6,Fcloudy, but some sunny spells. Coastal
+OL,5,CTuesday:FOften cloudy, but some sunny
+OL,6,Fspells possible in the west. Coastal
 OL,7,Flow cloud and mist spreading inland at
-OL,8,Ftimes, with a risk of drizzle. Chance
-OL,9,Fof overnight fog patches. Mostly mild
-OL,10,Fwith light winds.
+OL,8,Ftimes, with a risk of drizzle. Mild
+OL,9,Fwith light winds. Maximum Temperature
+OL,10,F15C.
+OL,11,
+OL,12,COutlook for Wednesday to Friday:FOften
+OL,13,Fcloudy, but some sunny spells. Coastal
+OL,14,Flow cloud and mist spreading inland at
+OL,15,Ftimes, with a risk of drizzle. Chance
+OL,16,Fof overnight fog patches. Mostly mild
+OL,17,Fwith light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
