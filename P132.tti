@@ -1,28 +1,45 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1760294538
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1760323408
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry. The the rest of the night
-OL,7,Fwill remain dry but with a good deal
-OL,8,Fof cloud and a few fog patches.
-OL,9,FMinimum Temperature 8C.
+OL,5,CToday:FMainly cloudy in morning the
+OL,6,Fcloud then breaking up to allow some
+OL,7,Fsunny spells for the afternoon, though
+OL,8,Fthe far west may stay cloudier. Light
+OL,9,Fwinds. Maximum Temperature 16C.
 OL,10,
-OL,11,CMonday:FMainly cloudy in morning the
-OL,12,Fcloud then breaking up to allow some
-OL,13,Fsunny spells for the afternoon, though
-OL,14,Fthe far west may stay cloudier. Light
-OL,15,Fwinds. Maximum Temperature 16C.
+OL,11,CTonight:FSome clear spells at first
+OL,12,Fespecially in the east, before cloud
+OL,13,Fincreases from the west. It will stay
+OL,14,Fdry though. Light winds Minimum
+OL,15,FTemperature 10C.
 OL,16,
-OL,17,COutlook for Tuesday to Thursday:FHigh
-OL,18,Fpressure will keep dry, settled
-OL,19,Fweather with variable, often large
-OL,20,Famounts of cloud. Light winds.
+OL,17,CTuesday:FIt will be a dry, though
+OL,18,Fmostly cloudy day. A few sunny
+OL,19,Fintervals may break through here and
+OL,20,Fthere. Light winds. Maximum
+OL,21,FTemperature 14C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1760323408
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,COutlook for Wednesday to Friday:FHigh
+OL,6,Fpressure will keep dry, settled
+OL,7,Fweather with variable, often large
+OL,8,Famounts of cloud. Light winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
