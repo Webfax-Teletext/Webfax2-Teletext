@@ -2,24 +2,25 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760420834
+OL,0,        ECIMSBWebfax 2   F138A1760471356
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FA mainly dry day with variable
-OL,6,Famounts of cloud. Some misty low
-OL,7,Fcloud, fog and drizzle lingering well
-OL,8,Finto the afternoon in places. Feeling
-OL,9,Fpleasantly mild in any sunshine.
-OL,10,FMaximum Temperature 14C.
-OL,11,
-OL,12,CTonight:FThis evening will be rather
-OL,13,Fcloudy. Staying cloudy through the
-OL,14,Fnight with the odd patch of drizzle.
-OL,15,FFog patches forming where skies clear
-OL,16,Ffor any length of time. Minimum
-OL,17,FTemperature 9C.
+OL,5,CThis Evening and Tonight:FThis evening
+OL,6,Fwill be rather cloudy. Staying cloudy
+OL,7,Fthrough the night with the odd patch
+OL,8,Fof drizzle. Fog patches forming where
+OL,9,Fskies clear for any length of time,
+OL,10,Fmost likely towards Northern Argyll.
+OL,11,FMinimum Temperature 8C.
+OL,12,
+OL,13,CWednesday:FLittle change, remaining
+OL,14,Fgenerally dry but quite cloudy. A few
+OL,15,Fsunny periods may develop, best
+OL,16,Fchances in the north and in the
+OL,17,Fafternoon. Light and variable winds.
+OL,18,FMaximum Temperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,21 +28,15 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760420834
+OL,0,        ECIMSBWebfax 2   F138A1760471356
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CWednesday:FLittle change, remaining
-OL,6,Fgenerally dry with variable cloud
-OL,7,Fcover and a few sunny periods in the
-OL,8,Fnorth. Light and variable winds.
-OL,9,FMaximum Temperature 14C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:
-OL,12,FRemaining mainly dry and settled but
-OL,13,Foften cloudy. Some brightness possible
-OL,14,Fon Friday and Saturday.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FRemaining mainly dry and settled but
+OL,7,Foften cloudy. Some brightness possible
+OL,8,Fon Friday and Saturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100

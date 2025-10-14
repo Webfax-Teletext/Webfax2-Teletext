@@ -2,24 +2,25 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1760413617
+OL,0,        ECIMSBWebfax 2   F136A1760471356
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CToday:FA mainly dry day with variable
-OL,6,Famounts of cloud. Some misty low
-OL,7,Fcloud, fog and drizzle lingering well
-OL,8,Finto the afternoon in places. Feeling
-OL,9,Fpleasantly mild in any sunshine.
-OL,10,FMaximum Temperature 14C.
-OL,11,
-OL,12,CTonight:FThis evening will be dry.
-OL,13,FThen the rest of the night will be dry
-OL,14,Fwith variable amounts of cloud. Some
-OL,15,Fmist, fog and patchy frost developing
-OL,16,Fwhere skies are clear. Minimum
-OL,17,FTemperature 7C.
+OL,5,CThis Evening and Tonight:FThis evening
+OL,6,Fwill be dry though often cloudy. Then
+OL,7,Fthe rest of the night will stay dry
+OL,8,Fwith variable amounts of cloud. Some
+OL,9,Fmist, fog and patchy frost may develop
+OL,10,Fif skies should clear. Minimum
+OL,11,FTemperature 7C.
+OL,12,
+OL,13,CWednesday:FLittle change, remaining
+OL,14,Fgenerally dry with variable cloud
+OL,15,Fcover and the best chances of a few
+OL,16,Fsunny periods developing through the
+OL,17,Fafternoon. Light and variable winds.
+OL,18,FMaximum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -27,21 +28,16 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1760413617
+OL,0,        ECIMSBWebfax 2   F136A1760471356
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CWednesday:FLittle change, remaining
-OL,6,Fgenerally dry with variable cloud
-OL,7,Fcover and a few sunny periods. Light
-OL,8,Fand variable winds. Maximum
-OL,9,FTemperature 14C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:
-OL,12,FRemaining mainly dry and settled but
-OL,13,Foften cloudy. Some brightness possible
-OL,14,Fon Friday and Saturday.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FRemaining mainly dry and settled but
+OL,7,Foften cloudy, perhaps some patchy
+OL,8,Flight rain on Friday. Some brightness
+OL,9,Fpossible on Thursday and Saturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
