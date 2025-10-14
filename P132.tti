@@ -1,29 +1,45 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1760373922
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1760420834
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThere will
-OL,6,Fbe some clear spells at first
-OL,7,Fespecially in the east, before cloud
-OL,8,Fincreases from the west. It will stay
-OL,9,Fdry though. Light winds Minimum
-OL,10,FTemperature 6C.
-OL,11,
-OL,12,CTuesday:FIt will be a dry, though
-OL,13,Fmostly cloudy day. A few sunny
-OL,14,Fintervals may break through here and
-OL,15,Fthere. Light winds. Maximum
-OL,16,FTemperature 14C.
+OL,5,CToday:FA cloudy day in many areas with
+OL,6,Fa little drizzle here and there.
+OL,7,FOvernight slowly lifting through the
+OL,8,Fmorning. The odd brighter spell in the
+OL,9,Fnorth. Maximum Temperature 14C.
+OL,10,
+OL,11,CTonight:FThis evening will be rather
+OL,12,Fcloudy. Staying cloudy through the
+OL,13,Fnight with the odd patch of drizzle.
+OL,14,FFog patches forming where skies clear
+OL,15,Ffor any length of time. Minimum
+OL,16,FTemperature 9C.
 OL,17,
-OL,18,COutlook for Wednesday to Friday:FHigh
-OL,19,Fpressure will keep dry, settled
-OL,20,Fweather with variable, often large
-OL,21,Famounts of cloud. Light winds.
+OL,18,CWednesday:FLittle change, remaining
+OL,19,Fgenerally dry but with a good deal of
+OL,20,Fcloud. Light and variable winds.
+OL,21,FMaximum Temperature 13C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1760420834
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FRemaining mainly dry and settled but
+OL,7,Foften cloudy. Some brightness possible
+OL,8,Fon Friday and Saturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
