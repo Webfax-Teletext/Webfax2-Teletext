@@ -2,23 +2,23 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760428051
+OL,0,        ECIMSBWebfax 2   F134A1760456921
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FA lot of cloud through the day
-OL,6,Facross Shetland, Fair Isle and Orkney.
-OL,7,FA mainly dry but the odd patch of
-OL,8,Fdrizzle possible at times. Maximum
-OL,9,FTemperature 13C.
-OL,10,
-OL,11,CTonight:FCloudy with the chance of a
-OL,12,Flittle drizzle this evening. Then the
-OL,13,Frest of the night will remain cloudy
-OL,14,Fwith a little rain or drizzle, this
-OL,15,Fmostly across Shetland. Minimum
-OL,16,FTemperature 10C.
+OL,5,CThis Evening and Tonight:FCloudy with
+OL,6,Fthe chance of a little drizzle this
+OL,7,Fevening. Then the rest of the night
+OL,8,Fwill remain cloudy with a little rain
+OL,9,For drizzle, this mostly across
+OL,10,FShetland. Minimum Temperature 10C.
+OL,11,
+OL,12,CWednesday:FChance of some brightness
+OL,13,Facross Orkney, otherwise rather cloudy
+OL,14,Fagain with some occasional light rain,
+OL,15,Fthis mainly across Shetland. Maximum
+OL,16,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -26,22 +26,17 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760428051
+OL,0,        ECIMSBWebfax 2   F134A1760456921
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CWednesday:FChance of some brightness
-OL,6,Facross Orkney, otherwise rather cloudy
-OL,7,Fagain with some occasional light rain,
-OL,8,Fthis mainly across Shetland. Maximum
-OL,9,FTemperature 13C.
-OL,10,
-OL,11,COutlook for Thursday to Saturday:
-OL,12,FCloudy with one or two light showers
-OL,13,Fon Thursday. Dry and somewhat colder
-OL,14,Fon Friday and Saturday, some sunny
-OL,15,Fbreaks developing on Friday.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FCloudy with one or two light showers
+OL,7,Fon Thursday, brighter over Shetland
+OL,8,Flater. Dry and somewhat colder on
+OL,9,FFriday and Saturday, some sunny breaks
+OL,10,Fdeveloping on Friday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
