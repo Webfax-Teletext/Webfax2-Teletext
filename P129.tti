@@ -2,24 +2,24 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1760388358
+OL,0,        ECIMSBWebfax 2   F129A1760413617
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FAny evening
-OL,6,Fcloud breaks will be short-lived and
-OL,7,Fmost of the night will be cloudy with
-OL,8,Fa risk of isolated mist and fog
-OL,9,Fpatches forming. Risk of some drizzly
-OL,10,Fshowers, especially in the east. Light
-OL,11,Fwinds. Minimum Temperature 10C.
+OL,5,CToday:FA mostly cloudy day, with a few
+OL,6,Ffleeting light showers possible, these
+OL,7,Fmainly in the east. The best of
+OL,8,Flimited bright or sunny spells are
+OL,9,Flikely in the west. Temperatures near
+OL,10,Fnormal, with mostly light winds.
+OL,11,FMaximum Temperature 16C.
 OL,12,
-OL,13,CTuesday:FMostly cloudy, but some
-OL,14,Fbright spells are possible. Risk of
-OL,15,Fdrizzly showers, especially in the
-OL,16,Feast. Light winds. Mild. Maximum
-OL,17,FTemperature 17C.
+OL,13,CTonight:FA mostly mild and rather
+OL,14,Fcloudy night, with some light showers
+OL,15,For drizzle, although some inland
+OL,16,Fwestern parts may see more lasting
+OL,17,Fcloud breaks. Minimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -27,17 +27,26 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1760388358
+OL,0,        ECIMSBWebfax 2   F129A1760413617
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FOften
-OL,6,Fcloudy, but some sunny spells. Low
-OL,7,Fcloud and mist spreading west at
-OL,8,Ftimes, with drizzle or showers
-OL,9,Fpossible. Chance of overnight fog
-OL,10,Fpatches. Light winds.
+OL,5,CWednesday:FA similar day to Tuesday,
+OL,6,Fstill rather cloudy with the some
+OL,7,Flight rain possible, especially in the
+OL,8,Feast. Brightest in the west. Winds
+OL,9,Fremaining light, with temperatures
+OL,10,Fagain near normal. Maximum Temperature
+OL,11,F16C.
+OL,12,
+OL,13,COutlook for Thursday to Saturday:
+OL,14,FLittle change overall. Staying mostly
+OL,15,Fdry, but mostly cloudy skies producing
+OL,16,Fthe odd spot of rain now and again.
+OL,17,FPerhaps brighter Saturday.
+OL,18,FTemperatures near normal, with winds
+OL,19,Fremaining light.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
