@@ -1,28 +1,50 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1760471356
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1760503836
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be rather cloudy. Staying cloudy
-OL,7,Fthrough the night with the odd patch
-OL,8,Fof drizzle. Fog patches forming if
-OL,9,Fskies should clear for any length of
-OL,10,Ftime. Minimum Temperature 9C.
-OL,11,
-OL,12,CWednesday:FLittle change, remaining
-OL,13,Fgenerally dry but with a good deal of
-OL,14,Fcloud. Light and variable winds.
-OL,15,FMaximum Temperature 13C.
-OL,16,
-OL,17,COutlook for Thursday to Saturday:
-OL,18,FRemaining mainly dry and settled but
-OL,19,Foften cloudy. Some brightness possible
-OL,20,Fon Friday and Saturday.
+OL,5,CToday:FIt will be a mostly dry day
+OL,6,Fwith overcast cloud and very limited,
+OL,7,Fif any, brighter intervals. Although
+OL,8,Fdry for the most part the odd spot of
+OL,9,Flight drizzle possible under thickest
+OL,10,Fcloud. Light winds. Maximum
+OL,11,FTemperature 12C.
+OL,12,
+OL,13,CTonight:FIt will be dry and cloudy
+OL,14,Fthrough the evening and overnight.
+OL,15,FStaying rather overcast but if any
+OL,16,Fclear spells do develop the chance of
+OL,17,Fa fog patches forming. Minimum
+OL,18,FTemperature 9C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1760503836
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,CThursday:FLittle change, remaining
+OL,6,Fgenerally dry but with a good deal of
+OL,7,Fcloud. Light and variable winds.
+OL,8,FMaximum Temperature 11C.
+OL,9,
+OL,10,COutlook for Friday to Sunday:FLargely
+OL,11,Fdry and cloudy on Friday and Saturday
+OL,12,Fwith some sunny intervals. Winds
+OL,13,Fstrengthening on Saturday as it turns
+OL,14,Fmore unsettled with stronger winds and
+OL,15,Frain spreading north-eastwards on
+OL,16,FSunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
