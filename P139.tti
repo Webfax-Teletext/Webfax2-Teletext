@@ -1,29 +1,49 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F139A1760467747
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1760500228
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry but increasingly cloudy.
-OL,7,FStaying cloudy through the night with
-OL,8,Fthe odd patch of drizzle. Fog patches
-OL,9,Fforming if skies should clear for any
-OL,10,Flength of time. Minimum Temperature 9C.
+OL,5,CToday:FIt will be a dry and cloudy day
+OL,6,Ffor the most part. There is the chance
+OL,7,Fof a few bright or sunny intervals
+OL,8,Fdeveloping, most likely in the east,
+OL,9,Fbut for most staying rather grey.
+OL,10,FLight winds. Maximum Temperature 12C.
 OL,11,
-OL,12,CWednesday:FLittle change, remaining
-OL,13,Fgenerally dry but with a good deal of
-OL,14,Fcloud. Light and variable winds.
-OL,15,FMaximum Temperature 13C.
-OL,16,
-OL,17,COutlook for Thursday to Saturday:
-OL,18,FRemaining mainly dry and settled but
-OL,19,Foften cloudy, some light drizzle on
-OL,20,FFriday. Some brightness possible on
-OL,21,FSaturday.
+OL,12,CTonight:FA dry night and largely
+OL,13,Fcloudy with the chance of a few clear
+OL,14,Fintervals, mainly east. If cloud does
+OL,15,Fbreak it will be rather chilly with
+OL,16,Ffog patches. Minimum Temperature 8C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1760500228
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,CThursday:FA dry and cloudy day with
+OL,6,Fthe chance of a few brighter spells in
+OL,7,Fthe morning, but these short lived.
+OL,8,FAny fog patches clearing in the
+OL,9,Fmorning. Maximum Temperature 12C.
+OL,10,
+OL,11,COutlook for Friday to Sunday:FLargely
+OL,12,Fdry and cloudy on Friday and Saturday
+OL,13,Fwith some sunny intervals. Winds
+OL,14,Fstrengthening through Saturday as it
+OL,15,Fturns more unsettled with stronger
+OL,16,Fwinds and rain spreading north-
+OL,17,Feastwards on Sunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
