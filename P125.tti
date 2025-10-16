@@ -2,24 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1760554361
+OL,0,        ECIMSBWebfax 2   F125A1760590444
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FA mostly
-OL,6,Fcloudy and rather mild night to come.
-OL,7,FSome cloud breaks are possible in the
-OL,8,Fwest, where some patchy fog may form
-OL,9,Fand it will turn chilly. Minimum
-OL,10,FTemperature 5C.
+OL,5,CToday:FLittle change in the weather
+OL,6,Fpattern on Thursday. Remaining rather
+OL,7,Fcloudy but dry with light winds. Some
+OL,8,Fglimmers of brightness at times with
+OL,9,Ftemperatures near the seasonal norm.
+OL,10,FMaximum Temperature 13C.
 OL,11,
-OL,12,CThursday:FLittle change in the weather
-OL,13,Fpattern on Thursday. Remaining rather
-OL,14,Fcloudy, dry with light winds. Some
-OL,15,Fbrightness at times with temperatures
-OL,16,Fnear the seasonal norm. Maximum
-OL,17,FTemperature 13C.
+OL,12,CTonight:FAnother mostly cloudy and
+OL,13,Fdull end to the day with cloudy skies
+OL,14,Fpersisting through the night.
+OL,15,FOccasional clear spells developing
+OL,16,Fallowing temperatures to fall and fog
+OL,17,Fpatches to form. Minimum Temperature
+OL,18,F4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -27,17 +28,23 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1760554361
+OL,0,        ECIMSBWebfax 2   F125A1760590444
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Friday to Sunday:FRemaining
-OL,6,Fsettled, mostly cloudy and dry at
-OL,7,Ffirst with some brighter spells and
-OL,8,Fovernight fog. A change on Sunday as
-OL,9,Frain and brisker winds arrive from the
-OL,10,Fwest.
+OL,5,CFriday:FAnother grey day, with some
+OL,6,Fbreaks in the cloud to give a few
+OL,7,Fbrighter intervals. Winds staying
+OL,8,Flight with temperatures around
+OL,9,Faverage. Maximum Temperature 14C.
+OL,10,
+OL,11,COutlook for Saturday to Monday:FBright
+OL,12,For sunny intervals on Saturday and
+OL,13,Fturning breezier. A change on Sunday
+OL,14,Fas rain and brisker winds arrive from
+OL,15,Fthe west followed by sunshine and
+OL,16,Fheavy showers on Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
