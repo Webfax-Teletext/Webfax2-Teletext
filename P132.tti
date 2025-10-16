@@ -2,23 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1760586836
+OL,0,        ECIMSBWebfax 2   F132A1760640986
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FToday will be dry and mostly
-OL,6,Fgrey, with persistent overcast skies.
-OL,7,FWinds remain light and variable,
-OL,8,Fcreating calm conditions and little
-OL,9,Fchange throughout the day Maximum
-OL,10,FTemperature 12C.
-OL,11,
-OL,12,CTonight:FThere will be little change
-OL,13,Fthrough this evening and overnight as
-OL,14,Fconditions stay dry and cloudy. Winds
-OL,15,Fwill be light from an easterly
-OL,16,Fdirection. Minimum Temperature 8C.
+OL,5,CThis Evening and Tonight:FThere will
+OL,6,Fbe little change through this evening
+OL,7,Fand overnight as conditions stay
+OL,8,Fcloudy. Mostly dry but the odd spot of
+OL,9,Flight rain possible at times. Winds
+OL,10,Fwill be light from an easterly
+OL,11,Fdirection. Minimum Temperature 8C.
+OL,12,
+OL,13,CFriday:FLittle change with another
+OL,14,Fmostly dry but largely cloudy day with
+OL,15,Fvery isolated brighter spells. Chance
+OL,16,Fof the odd spot of rain. Winds
+OL,17,Fstrengthening along the east coast
+OL,18,Fthis evening. Maximum Temperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -26,24 +28,18 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1760586836
+OL,0,        ECIMSBWebfax 2   F132A1760640986
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CFriday:FA dry and cloudy morning.
-OL,6,FStaying dry through the afternoon and
-OL,7,Fmostly cloudy but with a few bright or
-OL,8,Fsunny spells breaking through at
-OL,9,Ftimes. Light winds. Maximum
-OL,10,FTemperature 13C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FMostly
-OL,13,Fdry and cloudy on Saturday with rain
-OL,14,Fpossible in the evening. Cloudy on
-OL,15,FSunday and Monday as rain spreads
-OL,16,Fnorth-eastwards, rain heavy at times.
-OL,17,FWinds strengthening on Saturday.
+OL,5,COutlook for Saturday to Monday:FMostly
+OL,6,Fdry and cloudy on Saturday with rain
+OL,7,Flater. Rain clears north-eastwards on
+OL,8,FSunday morning, heavy at times,
+OL,9,Ffollowed by showers continuing through
+OL,10,FMonday. Winds strengthening on
+OL,11,FSaturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
