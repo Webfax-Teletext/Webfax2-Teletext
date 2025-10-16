@@ -2,24 +2,24 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1760561577
+OL,0,        ECIMSBWebfax 2   F131A1760594053
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Fcloudy and rather mild across eastern
-OL,7,Fcounties. Cloud breaks are more likely
-OL,8,Fover western counties, where patchy
-OL,9,Fmist or fog is possible and it will
-OL,10,Fturn chilly. Minimum Temperature 5C.
+OL,5,CToday:FCloudiest conditions remain
+OL,6,Fover eastern counties, but a brighter
+OL,7,Fday is likely further west with some
+OL,8,Fsunny spells possible. Breezy along
+OL,9,Fsouthern coasts. Feeling a little
+OL,10,Fwarmer. Maximum Temperature 16C.
 OL,11,
-OL,12,CThursday:FCloudiest conditions remain
-OL,13,Fover eastern counties, but a brighter
-OL,14,Fday is likely further west with some
-OL,15,Fsunny spells possible. Breezy along
-OL,16,Fsouthern coasts. Feeling a little
-OL,17,Fwarmer. Maximum Temperature 16C.
+OL,12,CTonight:FAnother largely cloudy and
+OL,13,Fdull end to the day though with a few
+OL,14,Fearly evening sunny breaks. Clearer
+OL,15,Fspells developing overnight allowing
+OL,16,Ftemperatures to fall and fog patches
+OL,17,Fto form. Minimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -27,17 +27,23 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1760561577
+OL,0,        ECIMSBWebfax 2   F131A1760594053
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Friday to Sunday:FRemaining
-OL,6,Fsettled, mostly cloudy and dry at
-OL,7,Ffirst with some brighter spells and
-OL,8,Fovernight fog. A change on Sunday as
-OL,9,Frain and brisker winds arrive from the
-OL,10,Fwest.
+OL,5,CFriday:FA brighter start for many with
+OL,6,Fvariable cloud and sunny spells
+OL,7,Fthrough the day, especially out to the
+OL,8,Fwest. A few showers possible along the
+OL,9,Fsouth coast. Maximum Temperature 17C.
+OL,10,
+OL,11,COutlook for Saturday to Monday:FBright
+OL,12,For sunny intervals on Saturday and
+OL,13,Fturning breezier. A change on Sunday
+OL,14,Fas rain and brisker winds arrive from
+OL,15,Fthe west followed by sunshine and
+OL,16,Fheavy showers on Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
