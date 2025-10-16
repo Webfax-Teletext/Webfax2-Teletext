@@ -2,24 +2,26 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1760601291
+OL,0,        ECIMSBWebfax 2   F128A1760630161
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CToday:FLittle change in the weather
-OL,6,Fpattern on Thursday. Remaining rather
-OL,7,Fcloudy but dry with light winds. Some
-OL,8,Fbrightness at times with temperatures
-OL,9,Fnear the seasonal norm. Maximum
-OL,10,FTemperature 14C.
-OL,11,
-OL,12,CTonight:FAnother mostly cloudy and
-OL,13,Fdull end to the day with cloudy skies
-OL,14,Fpersisting through the night. Turning
-OL,15,Fchilly under any clear spells that may
-OL,16,Fdevelop, otherwise rather mild.
-OL,17,FMinimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FAnother
+OL,6,Fmostly cloudy and dull end to the day
+OL,7,Fwith cloudy skies persisting through
+OL,8,Fthe night. Turning a little chilly
+OL,9,Funder any clear spells that may
+OL,10,Fdevelop, with patchy fog possible,
+OL,11,Fotherwise rather mild. Minimum
+OL,12,FTemperature 9C.
+OL,13,
+OL,14,CFriday:FAnother largely grey day, with
+OL,15,Fsome breaks developing in the cloud to
+OL,16,Fgive a few brighter intervals. Winds
+OL,17,Fstaying light with temperatures a
+OL,18,Flittle above average. Maximum
+OL,19,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -27,23 +29,17 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1760601291
+OL,0,        ECIMSBWebfax 2   F128A1760630161
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CFriday:FAnother largely grey day, with
-OL,6,Fsome breaks in the cloud to give a few
-OL,7,Fbrighter intervals. Winds staying
-OL,8,Flight with temperatures around
-OL,9,Faverage. Maximum Temperature 14C.
-OL,10,
-OL,11,COutlook for Saturday to Monday:FBright
-OL,12,For sunny intervals on Saturday and
-OL,13,Fturning breezier. A change on Sunday
-OL,14,Fas rain and brisker winds arrive from
-OL,15,Fthe west followed by sunshine and
-OL,16,Fheavy showers on Monday.
+OL,5,COutlook for Saturday to Monday:FDry,
+OL,6,Fbut generally cloudy to start on
+OL,7,FSaturday. Increasingly windy later as
+OL,8,Frain moves eastwards into Sunday,
+OL,9,Ffollowed by sunshine and heavy showers
+OL,10,Fon Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
