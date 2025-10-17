@@ -2,25 +2,25 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760633769
+OL,0,        ECIMSBWebfax 2   F127A1760684287
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FLargely dry
-OL,6,Fand mostly cloudy, with occasional
-OL,7,Fclear spells. Some low cloud on the
-OL,8,FDerbyshire hills, with the odd spot of
-OL,9,Fdrizzle. Perhaps some patchy mist or
-OL,10,Ffog forming under any clearer spells
-OL,11,Fovernight. Light winds. Minimum
-OL,12,FTemperature 9C.
-OL,13,
-OL,14,CFriday:FLittle change is expected,
-OL,15,Fwith variable cloud and some brighter
-OL,16,For sunny spells, but also one or two
-OL,17,Fspots of drizzle possible. Winds will
-OL,18,Fremain light. Maximum Temperature 14C.
+OL,5,CToday:FLargely cloudy, with a chance
+OL,6,Fof outbreaks of light rain or drizzle
+OL,7,Fin the south through the morning.
+OL,8,FCloud gradually lifting, with a chance
+OL,9,Fof brighter intervals though the
+OL,10,Fafternoon. Winds will remain light.
+OL,11,FMaximum Temperature 14C.
+OL,12,
+OL,13,CTonight:FMostly cloudy this evening
+OL,14,Fwith a few clear spells in the east.
+OL,15,FCloud gradually thickening overnight,
+OL,16,Fwith any clear spells becoming
+OL,17,Flimited, but it should remain dry.
+OL,18,FLight winds. Minimum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -28,18 +28,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760633769
+OL,0,        ECIMSBWebfax 2   F127A1760684287
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:FFine,
-OL,6,Fbut turning breezier Saturday, with
-OL,7,Fearly sunny spells, before cloud
-OL,8,Fthickens later. Windy Sunday, with
-OL,9,Frain moving east during the afternoon,
-OL,10,Foccasionally heavy. Sunshine and heavy
-OL,11,Fshowers follow Monday.
+OL,5,CSaturday:FA cloudy start Saturday,
+OL,6,Fwith limited bright or sunny
+OL,7,Fintervals. Becoming brighter through
+OL,8,Fthe afternoon as clouds lift. Dry
+OL,9,Fthroughout, gradually turning
+OL,10,Fbreezier. Maximum Temperature 15C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FWindy
+OL,13,FSunday, with rain moving slowly
+OL,14,Feastward, occasionally heavy. Bright
+OL,15,Fto start Monday before becoming cloudy
+OL,16,Fwith rain and heavy showers. Sunny
+OL,17,Fintervals Tuesday with occasional
+OL,18,Fshowers. Temperatures around average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
