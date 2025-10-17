@@ -2,26 +2,24 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1760630161
+OL,0,        ECIMSBWebfax 2   F128A1760673462
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FAnother
-OL,6,Fmostly cloudy and dull end to the day
-OL,7,Fwith cloudy skies persisting through
-OL,8,Fthe night. Turning a little chilly
-OL,9,Funder any clear spells that may
-OL,10,Fdevelop, with patchy fog possible,
-OL,11,Fotherwise rather mild. Minimum
-OL,12,FTemperature 9C.
-OL,13,
-OL,14,CFriday:FAnother largely grey day, with
-OL,15,Fsome breaks developing in the cloud to
-OL,16,Fgive a few brighter intervals. Winds
-OL,17,Fstaying light with temperatures a
-OL,18,Flittle above average. Maximum
-OL,19,FTemperature 14C.
+OL,5,CToday:FAnother largely grey day, with
+OL,6,Fsome breaks developing in the cloud to
+OL,7,Fgive a few brighter intervals, mainly
+OL,8,Fto the west of high ground. Winds
+OL,9,Fstaying light with temperatures a
+OL,10,Flittle above average. Maximum
+OL,11,FTemperature 14C.
+OL,12,
+OL,13,CTonight:FRemaining mostly cloudy
+OL,14,Fovernight. Occasional clear spells
+OL,15,Fdeveloping allowing temperatures to
+OL,16,Ffall and some mist and fog patches to
+OL,17,Fform. Minimum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -29,17 +27,24 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1760630161
+OL,0,        ECIMSBWebfax 2   F128A1760673462
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:FDry,
-OL,6,Fbut generally cloudy to start on
-OL,7,FSaturday. Increasingly windy later as
-OL,8,Frain moves eastwards into Sunday,
-OL,9,Ffollowed by sunshine and heavy showers
-OL,10,Fon Monday.
+OL,5,CSaturday:FDry, but generally cloudy to
+OL,6,Fstart on Saturday, though some
+OL,7,Fbrighter spells are possible. Turning
+OL,8,Fincreasingly windy as rain arrives in
+OL,9,Fthe west later. Maximum Temperature
+OL,10,F15C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FA damp
+OL,13,Fstart on Sunday as rain continues to
+OL,14,Fclear eastwards, with some brighter
+OL,15,Fspells possible later as winds slowly
+OL,16,Fease. Sunshine and blustery showers on
+OL,17,FMonday and Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
