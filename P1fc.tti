@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1760713159
+PN,1fc01
+SC,0001
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1760716768
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,10 +13,10 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1760713159;
-OL,10,GService: Webfax 2 - 8759 2c0fe96fc
-OL,11,FLast Update: 17/10/2025 15:59:19      
-OL,13,Ageneric/pollen_forecast    G17/10-15:55
+OL,25,1760716768;
+OL,10,GService: Webfax 2 - 8760 11badc8eb
+OL,11,FLast Update: 17/10/2025 16:59:28  G1/2
+OL,13,Ageneric/pollen_forecast    G17/10-16:56
 OL,14,CitvSport/border            G06/10-14:16
 OL,15,CitvSport/calendar          G02/10-23:55
 OL,16,CitvSport/granada           G10/10-18:34
@@ -25,4 +25,23 @@ OL,18,CitvSport/meridian          G16/10-13:55
 OL,19,CitvSport/tyne-tees         G13/10-09:44
 OL,20,CitvSport/utv               G02/10-23:55
 OL,21,CitvSport/wales             G13/10-22:46
-OL,22,Ctvroom/cleanfeed           G16/10-06:04
+OL,22,CitvSport/westcountry       G16/10-15:55
+OL,23,Ctvroom/cleanfeed           G16/10-06:04
+PN,1fc02
+SC,0002
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1760716768
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1760716768;
+OL,10,GService: Webfax 2 - 8760 11badc8eb
+OL,11,FLast Update: 17/10/2025 16:59:28  G2/2
