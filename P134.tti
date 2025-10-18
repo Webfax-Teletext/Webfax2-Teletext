@@ -2,25 +2,26 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760756461
+OL,0,        ECIMSBWebfax 2   F134A1760810591
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FOrkney will be dry with some
-OL,6,Fbright or sunny intervals. Shetland
-OL,7,Fwill be cloudy at times with the
-OL,8,Fchance of a few light showers, these
-OL,9,Fmainly in the morning. Maximum
-OL,10,FTemperature 12C.
-OL,11,
-OL,12,CTonight:FCloudy with a few light
-OL,13,Fshowers possible over Shetland.
-OL,14,FStaying dry with clear spells over
-OL,15,FOrkney in the evening, clouding over
-OL,16,Fthrough the early hours. Freshening
-OL,17,Fsoutherly winds. Minimum Temperature
-OL,18,F10C.
+OL,5,CThis Evening and Tonight:FCloudy with
+OL,6,Fa few light showers possible over
+OL,7,FShetland. Staying dry with clear
+OL,8,Fspells over Orkney in the evening,
+OL,9,Fclouding over through the early hours.
+OL,10,FFreshening southerly winds. Minimum
+OL,11,FTemperature 10C.
+OL,12,
+OL,13,CSunday:FA dry start with some
+OL,14,Fbrightness before rain spreads north
+OL,15,Fthrough late morning, persisting
+OL,16,Fthroughout the day. Strengthening
+OL,17,Fsouth to southeast winds, coastal
+OL,18,Fgales for Orkney. Maximum Temperature
+OL,19,F12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -28,25 +29,17 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760756461
+OL,0,        ECIMSBWebfax 2   F134A1760810591
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CSunday:FA dry start with some
-OL,6,Fbrightness before rain spreads north
-OL,7,Fthrough late morning, persisting
-OL,8,Fthroughout the day. Strengthening
-OL,9,Fsouth to southeast winds, coastal
-OL,10,Fgales for Orkney. Maximum Temperature
-OL,11,F12C.
-OL,12,
-OL,13,COutlook for Monday to Wednesday:FWind
-OL,14,Fand rain lingering across Shetland
-OL,15,Fthrough Monday, drier interludes
-OL,16,Fpossible for Orkney. Otherwise rather
-OL,17,Fcloudy with scattered showers. Windy
-OL,18,Fat times.
+OL,5,COutlook for Monday to Wednesday:FWind
+OL,6,Fand rain lingering across Shetland
+OL,7,Fthrough Monday, drier interludes
+OL,8,Fpossible for Orkney. Otherwise rather
+OL,9,Fcloudy with scattered showers. Windy
+OL,10,Fat times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
