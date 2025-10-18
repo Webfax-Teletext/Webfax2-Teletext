@@ -2,24 +2,26 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760763679
+OL,0,        ECIMSBWebfax 2   F138A1760814199
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FA dry day with some bright or
-OL,6,Fsunny spells in the morning, but
-OL,7,Ftending to cloud over through the
-OL,8,Fafternoon. Freshening southeasterly
-OL,9,Fwinds along exposed coasts. Maximum
-OL,10,FTemperature 13C.
-OL,11,
-OL,12,CTonight:FCloudy through the evening as
-OL,13,Fsome light rain starts to spread into
-OL,14,Fthe isles. Rain spreading to all parts
-OL,15,Fovernight, becoming heavy and
-OL,16,Fpersistent at times. Coastal gales.
-OL,17,FMinimum Temperature 10C.
+OL,5,CThis Evening and Tonight:FCloudy
+OL,6,Fthrough the evening as some light rain
+OL,7,Fstarts to spread into the isles. Rain
+OL,8,Fspreading to all parts overnight,
+OL,9,Fbecoming heavy and persistent at
+OL,10,Ftimes. Coastal gales. Minimum
+OL,11,FTemperature 10C.
+OL,12,
+OL,13,CSunday:FCloudy with rain for much of
+OL,14,Fthe day, this occasionally heavy
+OL,15,Fbefore turning drier through the
+OL,16,Fevening. Strong southeast winds with
+OL,17,Fcoastal gales at first will ease
+OL,18,Fthrough the day. Maximum Temperature
+OL,19,F13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,24 +29,16 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760763679
+OL,0,        ECIMSBWebfax 2   F138A1760814199
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CSunday:FCloudy with rain for much of
-OL,6,Fthe day, this occasionally heavy
-OL,7,Fbefore turning drier through the
-OL,8,Fevening. Strong southeast winds with
-OL,9,Fcoastal gales at first will ease
-OL,10,Fthrough the day. Maximum Temperature
-OL,11,F13C.
-OL,12,
-OL,13,COutlook for Monday to Wednesday:FOften
-OL,14,Fcloudy with scattered showers on
-OL,15,FMonday and Tuesday. Drier and brighter
-OL,16,Fat first Wednesday before rain likely
-OL,17,Flater.
+OL,5,COutlook for Monday to Wednesday:FOften
+OL,6,Fcloudy with scattered showers on
+OL,7,FMonday and Tuesday. Drier and brighter
+OL,8,Fat first Wednesday before rain likely
+OL,9,Flater.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
