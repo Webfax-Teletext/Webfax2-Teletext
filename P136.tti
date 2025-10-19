@@ -2,24 +2,24 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1760799765
+OL,0,        ECIMSBWebfax 2   F136A1760846675
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CThis Evening and Tonight:FBecoming
-OL,6,Fincreasingly overcast overnight as
-OL,7,Fcloud and a few outbreaks of rain
-OL,8,Fspread east through the evening and
-OL,9,Fovernight. Strengthening southeast
-OL,10,Fwinds along the coast. Minimum
-OL,11,FTemperature 8C.
-OL,12,
-OL,13,CSunday:FCloudy with rain spreading
-OL,14,Fnortheast on Sunday, persisting
-OL,15,Fthroughout the day. Windy along the
-OL,16,Feast coast with chance of coastal
-OL,17,Fgales. Maximum Temperature 12C.
+OL,5,CToday:FCloudy with rain spreading
+OL,6,Fnortheast on Sunday, persisting
+OL,7,Fthroughout the day and becoming heavy
+OL,8,Fat times later. Windy along the east
+OL,9,Fcoast with chance of coastal gales.
+OL,10,FMaximum Temperature 12C.
+OL,11,
+OL,12,CTonight:FCloudy with rain, heavy at
+OL,13,Ftimes, through the evening. Becoming
+OL,14,Fclearer and drier overnight, allowing
+OL,15,Fareas of fog to form. Strong southeast
+OL,16,Fcoastal winds at first, easing through
+OL,17,Fthe evening. Minimum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -27,16 +27,21 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1760799765
+OL,0,        ECIMSBWebfax 2   F136A1760846675
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FRather
-OL,6,Fcloudy with a chance of showers on
-OL,7,FMonday and Tuesday. Drier and brighter
-OL,8,Fat first Wednesday before rain likely
-OL,9,Flater.
+OL,5,CMonday:FDry with variable cloud and
+OL,6,Fbright spells. Any areas of overnight
+OL,7,Ffog may be slow to clear. Light winds.
+OL,8,FMaximum Temperature 13C.
+OL,9,
+OL,10,COutlook for Tuesday to Thursday:
+OL,11,FVariable cloud and bright spells with
+OL,12,Fchance of some showers on Tuesday and
+OL,13,FWednesday. Likely turning wet and
+OL,14,Fwindy on Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100

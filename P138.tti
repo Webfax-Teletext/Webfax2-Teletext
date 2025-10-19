@@ -2,26 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760814199
+OL,0,        ECIMSBWebfax 2   F138A1760846675
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Fthrough the evening as some light rain
-OL,7,Fstarts to spread into the isles. Rain
-OL,8,Fspreading to all parts overnight,
-OL,9,Fbecoming heavy and persistent at
-OL,10,Ftimes. Coastal gales. Minimum
-OL,11,FTemperature 10C.
-OL,12,
-OL,13,CSunday:FCloudy with rain for much of
-OL,14,Fthe day, this occasionally heavy
-OL,15,Fbefore turning drier through the
-OL,16,Fevening. Strong southeast winds with
-OL,17,Fcoastal gales at first will ease
-OL,18,Fthrough the day. Maximum Temperature
-OL,19,F13C.
+OL,5,CToday:FIt will be cloudy with rain for
+OL,6,Fmuch of the day, this occasionally
+OL,7,Fheavy. Strong southeast winds with
+OL,8,Fcoastal gales at first will ease
+OL,9,Fthrough the day. Maximum Temperature
+OL,10,F13C.
+OL,11,
+OL,12,CTonight:FCloudy with rain at first,
+OL,13,Fthis gradually clearing northeast
+OL,14,Fthrough the evening. Becoming clearer
+OL,15,Fand drier overnight, allowing areas of
+OL,16,Ffog to form. Minimum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -29,16 +26,21 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1760814199
+OL,0,        ECIMSBWebfax 2   F138A1760846675
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FOften
-OL,6,Fcloudy with scattered showers on
-OL,7,FMonday and Tuesday. Drier and brighter
-OL,8,Fat first Wednesday before rain likely
-OL,9,Flater.
+OL,5,CMonday:FOften cloudy but largely dry
+OL,6,Fthorough Monday. Chance of the odd
+OL,7,Fshower. Any areas of overnight fog may
+OL,8,Fbe slow to clear. Light winds. Maximum
+OL,9,FTemperature 13C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FOften
+OL,12,Fcloudy with scattered showers on
+OL,13,FTuesday and Wednesday. Likely turning
+OL,14,Fwet and windy on Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100

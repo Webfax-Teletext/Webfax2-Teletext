@@ -2,25 +2,27 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1760821417
+OL,0,        ECIMSBWebfax 2   F128A1760846675
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly dry
-OL,6,Fat first this evening but turning wet
-OL,7,Fovernight as showery outbreaks of rain
-OL,8,Farrive from the west, with some
-OL,9,Fheavier downpours possible at times. A
-OL,10,Fmild but increasingly windy night.
-OL,11,FMinimum Temperature 10C.
-OL,12,
-OL,13,CSunday:FCloudy and rather windy
-OL,14,Fthrough the morning with outbreaks of
-OL,15,Frain, perhaps heavy and persistent at
-OL,16,Ftimes. Winds easing later and turning
-OL,17,Fdrier by the evening. Maximum
-OL,18,FTemperature 15C.
+OL,5,CToday:FA cloudy and rather windy start
+OL,6,Fwith outbreaks of rain spreading east,
+OL,7,Fturning heavy and persistent at times.
+OL,8,FPerhaps some drier and brighter
+OL,9,Finterludes arriving in the very far
+OL,10,Fwest later. Wind easing a little by
+OL,11,Flate afternoon. Maximum Temperature
+OL,12,F15C.
+OL,13,
+OL,14,CTonight:FContinuing to turn drier
+OL,15,Fthrough the evening as rain clears
+OL,16,Feastwards and winds ease. Some fog
+OL,17,Fpatches possible, though cloud and
+OL,18,Fblustery showers returning later on in
+OL,19,Fthe night. Mild. Minimum Temperature
+OL,20,F11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -28,18 +30,25 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1760821417
+OL,0,        ECIMSBWebfax 2   F128A1760846675
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Monday to Wednesday:
-OL,6,FSunshine and heavy showers on Monday,
-OL,7,Fthen drier with fewer showers on
-OL,8,FTuesday. Staying changeable on
-OL,9,FWednesday with a chance of rain later.
-OL,10,FOften breezy with temperatures around
-OL,11,Faverage.
+OL,5,CMonday:FA day of sunny spells and
+OL,6,Fshowers, these turning heavy and
+OL,7,Fblustery at times with a risk of hail
+OL,8,Fand thunder. Temperatures around or a
+OL,9,Flittle above average. Maximum
+OL,10,FTemperature 15C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:FA
+OL,13,Flittle drier on Tuesday with sunny
+OL,14,Fspells and fewer showers. Staying
+OL,15,Funsettled on Wednesday and Thursday
+OL,16,Fwith showers or longer spells of rain.
+OL,17,FOften windy, with temperatures around
+OL,18,Faverage.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
