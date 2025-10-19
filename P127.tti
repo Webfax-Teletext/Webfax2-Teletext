@@ -2,24 +2,27 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760803374
+OL,0,        ECIMSBWebfax 2   F127A1760857502
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud
-OL,6,Fincreasing this evening, with some
-OL,7,Foutbreaks of rain reaching the Peak
-OL,8,FDistrict at times, Becoming breezy
-OL,9,Finland and windy along the coast, and
-OL,10,Fstaying mild everywhere. Minimum
-OL,11,FTemperature 10C.
-OL,12,
-OL,13,CSunday:FStarting dry and cloudy then
-OL,14,Frain, often heavy, gradually spreads
-OL,15,Feast. The rain gradually clears late
-OL,16,Fevening. Breezy inland and windy along
-OL,17,Fthe coast. Maximum Temperature 15C.
+OL,5,CToday:FCloudy with outbreaks of patchy
+OL,6,Flight rain, but also some drier
+OL,7,Finterludes through the morning, before
+OL,8,Fpersistent, and locally heavy, rain
+OL,9,Fmoves slowly eastwards during the
+OL,10,Fafternoon. Rain easing by the evening.
+OL,11,FWindy, especially along the coast.
+OL,12,FTemperatures near normal. Maximum
+OL,13,FTemperature 14C.
+OL,14,
+OL,15,CTonight:FOutbreaks of rain, locally
+OL,16,Fheavy, will continue to slowly move
+OL,17,Feastwards during the first part of the
+OL,18,Fnight. Rain clearing shortly after
+OL,19,Fmidnight, becoming drier with clear
+OL,20,Fspells. Windy. Minimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -27,17 +30,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1760803374
+OL,0,        ECIMSBWebfax 2   F127A1760857502
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FBreezy
-OL,6,FMonday with sunshine and heavy
-OL,7,Fshowers, these perhaps thundery.
-OL,8,FTuesday breezy with sunny spells and
-OL,9,Foccasional showers. Wednesday, dry
-OL,10,Fstart, turning wet and windy later.
+OL,5,CMonday:FUnsettled, with showers or
+OL,6,Flonger spells of rain, these will be
+OL,7,Fheavy at times, with the risk of hail
+OL,8,Fand thunder. Some brighter interludes.
+OL,9,FStrong winds, especially along coasts.
+OL,10,FMaximum Temperature 15C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:
+OL,13,FTuesday, bright intervals and
+OL,14,Foccasional showers. Likely wet and
+OL,15,Fwindy on Wednesday, after a dry start.
+OL,16,FRemaining unsettled, often windy, with
+OL,17,Ffurther showers or longer spells of
+OL,18,Frain Thursday. Cooler.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
