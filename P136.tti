@@ -2,24 +2,23 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1760846675
+OL,0,        ECIMSBWebfax 2   F136A1760897191
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CToday:FCloudy with rain spreading
-OL,6,Fnortheast on Sunday, persisting
-OL,7,Fthroughout the day and becoming heavy
-OL,8,Fat times later. Windy along the east
-OL,9,Fcoast with chance of coastal gales.
-OL,10,FMaximum Temperature 12C.
-OL,11,
-OL,12,CTonight:FCloudy with rain, heavy at
-OL,13,Ftimes, through the evening. Becoming
-OL,14,Fclearer and drier overnight, allowing
-OL,15,Fareas of fog to form. Strong southeast
-OL,16,Fcoastal winds at first, easing through
-OL,17,Fthe evening. Minimum Temperature 7C.
+OL,5,CThis Evening and Tonight:FCloudy with
+OL,6,Frain, heavy at times, through the
+OL,7,Fevening. Becoming clearer and drier
+OL,8,Fovernight, allowing areas of fog to
+OL,9,Fform. Strong southeast winds at first,
+OL,10,Feasing through the evening. Minimum
+OL,11,FTemperature 7C.
+OL,12,
+OL,13,CMonday:FDry with variable cloud and
+OL,14,Fbright spells. Any areas of overnight
+OL,15,Ffog may be slow to clear. Light winds.
+OL,16,FMaximum Temperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -27,21 +26,16 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1760846675
+OL,0,        ECIMSBWebfax 2   F136A1760897191
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CMonday:FDry with variable cloud and
-OL,6,Fbright spells. Any areas of overnight
-OL,7,Ffog may be slow to clear. Light winds.
-OL,8,FMaximum Temperature 13C.
-OL,9,
-OL,10,COutlook for Tuesday to Thursday:
-OL,11,FVariable cloud and bright spells with
-OL,12,Fchance of some showers on Tuesday and
-OL,13,FWednesday. Likely turning wet and
-OL,14,Fwindy on Thursday.
+OL,5,COutlook for Tuesday to Thursday:
+OL,6,FVariable cloud and bright spells with
+OL,7,Fchance of some showers on Tuesday and
+OL,8,FWednesday. Likely turning wet and
+OL,9,Fwindy on Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100

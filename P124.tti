@@ -2,27 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1760846675
+OL,0,        ECIMSBWebfax 2   F124A1760897191
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FCloudy with outbreaks of patchy
-OL,6,Flight rain, but also some drier
-OL,7,Finterludes through the morning, before
-OL,8,Fpersistent, and locally heavy, rain
-OL,9,Fmoves slowly eastwards during the
-OL,10,Fafternoon. Rain easing by the evening.
-OL,11,FWindy, especially along the coast.
-OL,12,FTemperatures near normal. Maximum
-OL,13,FTemperature 14C.
-OL,14,
-OL,15,CTonight:FRain gradually clearing east
-OL,16,Fthrough the evening to leave a largely
-OL,17,Fdry night, with clear spells
-OL,18,Fdeveloping. Winds easing. A cooler
-OL,19,Fnight under any clearer spells. Risk
-OL,20,Fof fog patches. Minimum Temperature 3C.
+OL,5,CThis Evening and Tonight:FRain
+OL,6,Fgradually clearing east to leave
+OL,7,Flargely dry conditions toward the end
+OL,8,Fof the night. Some clear spells
+OL,9,Fdeveloping, which may allow a few fog
+OL,10,Fpatches to develop as winds also ease.
+OL,11,FMinimum Temperature 3C.
+OL,12,
+OL,13,CMonday:FAny early fog patches
+OL,14,Fclearing. A largely dry, bright start.
+OL,15,FHowever showers, perhaps heavy,
+OL,16,Fspreading from the south later in the
+OL,17,Fday. Mostly light winds. Maximum
+OL,18,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -30,25 +28,18 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1760846675
+OL,0,        ECIMSBWebfax 2   F124A1760897191
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CMonday:FEarly fog patches clearing to
-OL,6,Fleave a largely dry and bright day,
-OL,7,Fwith some sunny spells. Some showers,
-OL,8,Fpossibly heavy, will reach southern
-OL,9,Fareas later in the day. Light winds.
-OL,10,FMaximum Temperature 14C.
-OL,11,
-OL,12,COutlook for Tuesday to Thursday:
-OL,13,FTuesday, bright intervals and
-OL,14,Foccasional showers. Likely wet and
-OL,15,Fwindy on Wednesday, after a dry start.
-OL,16,FRemaining unsettled, often windy, with
-OL,17,Ffurther showers or longer spells of
-OL,18,Frain Thursday. Cooler.
+OL,5,COutlook for Tuesday to Thursday:
+OL,6,FTuesday, bright intervals and
+OL,7,Foccasional showers. Wednesday probably
+OL,8,Fmostly dry, perhaps turning wet and
+OL,9,Fwindy later. Thursday, windy with
+OL,10,Fshowers or longer spells of rain.
+OL,11,FCooler.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
