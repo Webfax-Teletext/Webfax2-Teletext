@@ -2,25 +2,24 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760861111
+OL,0,        ECIMSBWebfax 2   F134A1760893582
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FA dry start with some
-OL,6,Fbrightness before rain spreads north
-OL,7,Finto Orkney through late morning,
-OL,8,Fpersisting throughout the day. Staying
-OL,9,Fmostly dry for Shetland until evening.
-OL,10,FStrengthening south to southeast
-OL,11,Fwinds, coastal gales for Orkney.
-OL,12,FMaximum Temperature 12C.
-OL,13,
-OL,14,CTonight:FCloudy with rain over Orkney,
-OL,15,Fsoon spreading north to Shetland, and
-OL,16,Fpersisting through the night, heavy at
-OL,17,Ftimes. Strong southeast winds. Minimum
-OL,18,FTemperature 10C.
+OL,5,CThis Evening and Tonight:FCloudy
+OL,6,Foutbreaks of rain over Orkney soon
+OL,7,Fspreading north to Shetland. The rain
+OL,8,Fbecomes persistent over Orkney
+OL,9,Fovernight, then possibly across
+OL,10,FShetland later. Strong southeast
+OL,11,Fwinds. Minimum Temperature 10C.
+OL,12,
+OL,13,CMonday:FCloud and rain lingering for
+OL,14,Fmuch of the day but some drier
+OL,15,Finterludes possible for Orkney later.
+OL,16,FStrong southeast winds gradually ease.
+OL,17,FMaximum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -28,22 +27,16 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760861111
+OL,0,        ECIMSBWebfax 2   F134A1760893582
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CMonday:FCloud and rain lingering
-OL,6,Facross Shetland through Monday, drier
-OL,7,Finterludes possible for Orkney later.
-OL,8,FStrong southeast winds gradually ease.
-OL,9,FMaximum Temperature 12C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:
-OL,12,FStaying unsettled and rather cloudy
-OL,13,Fwith scattered showers and
-OL,14,Foccasionally strong winds Tuesday to
-OL,15,FThursday .
+OL,5,COutlook for Tuesday to Thursday:
+OL,6,FStaying unsettled and rather cloudy
+OL,7,Fwith scattered showers and
+OL,8,Foccasionally strong winds Tuesday to
+OL,9,FThursday .
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
