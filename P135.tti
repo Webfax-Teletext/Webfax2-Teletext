@@ -2,27 +2,25 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1760846675
+OL,0,        ECIMSBWebfax 2   F135A1760900799
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FIt will be cloudy throughout
-OL,6,Fthe day with spells of rain, heaviest
-OL,7,Fand most persistent towards Lochaber
-OL,8,Fand Mull at first, then towards
-OL,9,Feastern Caithness and Sutherland
-OL,10,Flater. Coastal gales in the southwest
-OL,11,Fat first, developing across Caithness
-OL,12,Flater. Maximum Temperature 12C.
-OL,13,
-OL,14,CTonight:FCloud and rain clear
-OL,15,Fnortheast, becoming confined to
-OL,16,FCaithness overnight. After the rain
-OL,17,Fclears areas of fog will form
-OL,18,Fovernight. Strong southeast winds in
-OL,19,Fthe north will gradually ease. Minimum
-OL,20,FTemperature 7C.
+OL,5,CThis Evening and Tonight:FCloud and
+OL,6,Frain clear northeast, becoming
+OL,7,Fconfined to Caithness overnight. After
+OL,8,Fthe rain clears areas of fog will form
+OL,9,Fovernight. Strong southeast winds in
+OL,10,Fthe north will gradually ease. Minimum
+OL,11,FTemperature 7C.
+OL,12,
+OL,13,CMonday:FOften dry with bright spells
+OL,14,Fon Monday though areas of overnight
+OL,15,Ffog may be slow to clear. Cloudier
+OL,16,Fwith some showers over Caithness and
+OL,17,FWestern Isles. Light winds. Maximum
+OL,18,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -30,21 +28,15 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1760846675
+OL,0,        ECIMSBWebfax 2   F135A1760900799
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CMonday:FOften dry with bright spells
-OL,6,Fon Monday though areas of overnight
-OL,7,Ffog may be slow to clear. Cloudy with
-OL,8,Fsome showers over Caithness. Light
-OL,9,Fwinds. Maximum Temperature 13C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:FOften
-OL,12,Fcloudy with showers or longer spells
-OL,13,Fof rain, and occasionally strong winds
-OL,14,Ffrom Tuesday through to Thursday.
+OL,5,COutlook for Tuesday to Thursday:FOften
+OL,6,Fcloudy with showers or longer spells
+OL,7,Fof rain, and occasionally strong winds
+OL,8,Ffrom Tuesday through to Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
