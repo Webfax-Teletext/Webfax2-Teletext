@@ -1,29 +1,44 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F139A1760910219
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1760935513
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy with
-OL,6,Frain at first, this gradually clearing
-OL,7,Fnortheast through the evening.
-OL,8,FBecoming clearer and drier overnight,
-OL,9,Fallowing some areas of mist and fog to
-OL,10,Fform. Minimum Temperature 7C.
-OL,11,
-OL,12,CMonday:FOften cloudy but largely dry
-OL,13,Fthorough Monday. Chance of the odd
-OL,14,Fshower, perhaps heavy. Any areas of
-OL,15,Fovernight fog may be slow to clear.
-OL,16,FLight winds. Maximum Temperature 13C.
-OL,17,
-OL,18,COutlook for Tuesday to Thursday:FOften
-OL,19,Fcloudy with chance of a few showers on
-OL,20,FTuesday and Wednesday. Likely turning
-OL,21,Fwet and windy on Thursday.
+OL,5,CToday:FAny overnight fog patches
+OL,6,Fclearing this morning. Then it will be
+OL,7,Fa mainly dry day with a few sunny
+OL,8,Fperiods and just the odd shower.
+OL,9,FMaximum Temperature 14C.
+OL,10,
+OL,11,CTonight:FDry this evening. A few fog
+OL,12,Fpatches developing across the east in
+OL,13,Fthe early hours, but some showery rain
+OL,14,Fspreading across the southwest. Light
+OL,15,Fwinds. Minimum Temperature 6C.
+OL,16,
+OL,17,CTuesday:FA cloudy day with some
+OL,18,Fshowery rain moving east at times,
+OL,19,Fbest of the drier weather towards the
+OL,20,Feast coast. Maximum Temperature 13C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1760935513
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,COutlook for Wednesday to Friday:FMainly
+OL,6,Fdry on Wednesday, rain spreading east
+OL,7,Flater on. Rain on Thursday, drier
+OL,8,Flater. Dry, cold and breezy on Friday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100

@@ -2,24 +2,25 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760910219
+OL,0,        ECIMSBWebfax 2   F134A1760935513
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Foutbreaks of rain over Orkney soon
-OL,7,Fspreading north to Shetland. The rain
-OL,8,Fbecomes persistent over Orkney
-OL,9,Fovernight, then possibly across
-OL,10,FShetland later. Strong southeast
-OL,11,Fwinds. Minimum Temperature 10C.
+OL,5,CToday:FCloudy with rain today, this
+OL,6,Fturning persistent across Shetland
+OL,7,Fthis afternoon. Rain turning lighter
+OL,8,Facross Orkney this afternoon. Strong
+OL,9,Feast or southeasterly winds across
+OL,10,FShetland. Misty low cloud developing
+OL,11,Facross Orkney. Maximum Temperature 12C.
 OL,12,
-OL,13,CMonday:FCloud and rain lingering for
-OL,14,Fmuch of the day but some drier
-OL,15,Finterludes possible for Orkney later.
-OL,16,FStrong southeast winds gradually ease.
-OL,17,FMaximum Temperature 12C.
+OL,13,CTonight:FA cloudy evening and night
+OL,14,Fwith further spells of rain across
+OL,15,FShetland along with some misty low
+OL,16,Fcloud at first. Orkney mainly dry with
+OL,17,Fjust the odd shower. Minimum
+OL,18,FTemperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -27,16 +28,21 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1760910219
+OL,0,        ECIMSBWebfax 2   F134A1760935513
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:
-OL,6,FStaying unsettled and rather cloudy
-OL,7,Fwith scattered showers and
-OL,8,Foccasionally strong winds Tuesday to
-OL,9,FThursday .
+OL,5,CTuesday:FA fair amount of cloud around
+OL,6,Falong with some showery rain. Light
+OL,7,Fsouth or southwesterly winds. Maximum
+OL,8,FTemperature 13C.
+OL,9,
+OL,10,COutlook for Wednesday to Friday:FSome
+OL,11,Frain at first on Wednesday, then drier
+OL,12,Fand clearer. A few showers on
+OL,13,FThursday. Windy and cold with showers
+OL,14,Fon Friday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
