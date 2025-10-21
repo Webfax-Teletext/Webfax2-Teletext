@@ -2,25 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1760993983
+OL,0,        ECIMSBWebfax 2   F129A1761015660
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FEvening
-OL,6,Fshowers will gradually ease overnight
-OL,7,Fto leave mostly dry conditions, with
-OL,8,Fsome clearer spells developing. A few
-OL,9,Fmist and fog patches may form in
-OL,10,Fplaces. Light winds. Minimum
-OL,11,FTemperature 10C.
-OL,12,
-OL,13,CTuesday:FAny early fog patches
-OL,14,Fclearing to give some bright or
-OL,15,Foccasional sunny spells. Occasional
-OL,16,Fshowers developing and moving
-OL,17,Feastwards through the day. Turning
-OL,18,Fbreezy. Maximum Temperature 16C.
+OL,5,CToday:FEarly morning fog patches,
+OL,6,Fmainly in the north, slowly lifting
+OL,7,Fthrough the morning, with some sunny
+OL,8,Fintervals developing. Many parts are
+OL,9,Flikely to stay dry, however isolated
+OL,10,Fafternoon showers are possible. Light
+OL,11,Fwinds at first, but strengthening a
+OL,12,Flittle later. Maximum Temperature 15C.
+OL,13,
+OL,14,CTonight:FShowers fading, with clear
+OL,15,Fskies developing. Winds also gradually
+OL,16,Feasing, perhaps allowing the odd patch
+OL,17,Fof mist and fog to develop by dawn.
+OL,18,FMinimum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,17 +28,27 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1760993983
+OL,0,        ECIMSBWebfax 2   F129A1761015660
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FMostly
-OL,6,Fdry with bright spells Wednesday, once
-OL,7,Fany early fog clears. Turning wet and
-OL,8,Fwindy into Thursday, with risk of
-OL,9,Fcoastal gales. Rain clearing to
-OL,10,Fshowers Friday, still windy. Cooler.
+OL,5,CWednesday:FEarly fog perhaps slow to
+OL,6,Fclear. A fine day follows, with sunny
+OL,7,Fintervals and variable cloud, although
+OL,8,Fhigh cloud will thicken from the
+OL,9,Fsouthwest through afternoon. Rain
+OL,10,Ffollowing after dark. Maximum
+OL,11,FTemperature 14C.
+OL,12,
+OL,13,COutlook for Thursday to Saturday:
+OL,14,FUnsettled, with any heavy rain
+OL,15,FThursday and early Friday, clearing to
+OL,16,Foccasional showers later. Sunny spells
+OL,17,Fand occasional showers likely
+OL,18,Fcontinuing Saturday. Winds also
+OL,19,Fstrengthening. Turning colder by
+OL,20,FSaturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
