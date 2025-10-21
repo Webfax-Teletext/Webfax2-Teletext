@@ -1,29 +1,47 @@
-PN,13400
-SC,0000
+PN,13401
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F134A1760993984
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F134A1761019268
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CThis Evening and Tonight:FA cloudy
-OL,6,Fevening and night with further spells
-OL,7,Fof rain across Shetland along with
-OL,8,Fsome misty low cloud at first. Orkney
-OL,9,Fmainly dry with just the odd shower.
-OL,10,FMinimum Temperature 10C.
+OL,5,CToday:FA mostly cloudy day with some
+OL,6,Fshowery rain spreading northeast at
+OL,7,Ftimes through the day,. Some drier
+OL,8,Finterludes too. Light to moderate
+OL,9,Fsouth or southeasterly winds. Maximum
+OL,10,FTemperature 13C.
 OL,11,
-OL,12,CTuesday:FA fair amount of cloud around
-OL,13,Falong with some showery rain. Light
-OL,14,Fsouth or southwesterly winds. Maximum
-OL,15,FTemperature 13C.
-OL,16,
-OL,17,COutlook for Wednesday to Friday:FSome
-OL,18,Frain at first on Wednesday, then drier
-OL,19,Fand clearer. A few showers on
-OL,20,FThursday. Windy and cold with showers
-OL,21,Fon Friday.
+OL,12,CTonight:FA cloudy evening and night
+OL,13,Fwith a few passing showers, these
+OL,14,Fbecoming fewer later. Becoming windy
+OL,15,Facross Orkney with fresh occasionally
+OL,16,Fstrong west or southwesterly winds.
+OL,17,FMinimum Temperature 10C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,135,120,301,200,000,100
+PN,13402
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F134A1761019268
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GOrkney
+OL,4,
+OL,5,CWednesday:FA mostly dry day with some
+OL,6,Fbright or sunny spells and the odd
+OL,7,Flight shower. Fresh southwesterly
+OL,8,Fwinds. Maximum Temperature 11C.
+OL,9,
+OL,10,COutlook for Thursday to Saturday:
+OL,11,FMostly dry on Thursday, the odd shower
+OL,12,Flater. Cold and windy on Friday and
+OL,13,FSaturday with frequent showers,
+OL,14,Fperhaps some longer spells of rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
