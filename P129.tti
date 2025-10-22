@@ -2,25 +2,26 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1761135927
+OL,0,        ECIMSBWebfax 2   F129A1761150364
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FEarly fog perhaps slow to
-OL,6,Fclear. A fine day follows, with sunny
-OL,7,Fintervals and variable cloud, although
-OL,8,Fhigh cloud will thicken from the
-OL,9,Fsouthwest through the afternoon, most
-OL,10,Fparts will stay dry during daylight
-OL,11,Fhours. Maximum Temperature 15C.
-OL,12,
-OL,13,CTonight:FCloud will thicken from the
-OL,14,Fsouth, with rain, heavy at times,
-OL,15,Fspreading northwards affecting all
-OL,16,Fparts before midnight. Light winds at
-OL,17,Ffirst but strengthening later. Minimum
-OL,18,FTemperature 8C.
+OL,5,CThis Evening and Tonight:FEarly clear
+OL,6,Fspells soon giving way to cloud
+OL,7,Fthickening from the southwest as Storm
+OL,8,FBenjamin approaches. Rain, heavy at
+OL,9,Ftimes, arriving during the evening.
+OL,10,FLight winds at first but
+OL,11,Fstrengthening, with gales developing.
+OL,12,FMinimum Temperature 8C.
+OL,13,
+OL,14,CThursday:FCloudy with heavy rain and
+OL,15,Fvery strong winds, including gales.
+OL,16,FWinds especially strong in the east.
+OL,17,FTurning drier from the west during the
+OL,18,Fevening. Feeling cold, especially in
+OL,19,Fthe wind. Maximum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,25 +29,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1761135927
+OL,0,        ECIMSBWebfax 2   F129A1761150364
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThursday:FCloudy with heavy rain and
-OL,6,Fstrong winds through the morning.
-OL,7,FTurning drier from the west with sunny
-OL,8,Fspells developing. Winds easing a
-OL,9,Flittle through the evening. Turning
-OL,10,Fcolder. Maximum Temperature 10C.
-OL,11,
-OL,12,COutlook for Friday to Sunday:
-OL,13,FOccasional showers and strong winds on
-OL,14,FFriday. Perhaps sunnier Saturday,
-OL,15,Fespecially inland. Strong winds and
-OL,16,Fcoastal gales at times. Heavy rain at
-OL,17,Ftimes on Sunday. Temperatures below
-OL,18,Faverage.
+OL,5,COutlook for Friday to Sunday:FSunny
+OL,6,Fspells then showers later on Friday.
+OL,7,FOvernight rain, then coastal showers
+OL,8,FSaturday, but sunnier inland. Rain
+OL,9,Flater on Sunday. Strong winds and
+OL,10,Fcoastal gales at times. Temperatures
+OL,11,Fbelow average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
