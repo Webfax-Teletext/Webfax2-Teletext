@@ -2,24 +2,28 @@ PN,13301
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1761121500
+OL,0,        ECIMSBWebfax 2   F133A1761153973
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CToday:FA brighter day with sunny
-OL,6,Fspells once any fog patches clear.
-OL,7,FJust the small chance of a shower.
-OL,8,FTurning wet through the evening with
-OL,9,Fheavy rain and strong winds overnight.
-OL,10,FMaximum Temperature 13C.
-OL,11,
-OL,12,CTonight:FTurning generally wet this
-OL,13,Fevening with heavy rain and remaining
-OL,14,Fwet overnight, though perhaps drier in
-OL,15,Fthe northwest. Becoming windier with
-OL,16,Fgales in places by dawn. Milder than
-OL,17,Flast night. Minimum Temperature 6C.
+OL,5,CThis Evening and Tonight:FTurning
+OL,6,Fgenerally wet this evening with heavy
+OL,7,Frain arriving from the south and
+OL,8,Fremaining wet overnight. The far
+OL,9,Fnorthwest may stay a bit drier.
+OL,10,FBecoming breezier later in the night
+OL,11,Fwith coastal gales possible by dawn.
+OL,12,FMilder than last night. Minimum
+OL,13,FTemperature 6C.
+OL,14,
+OL,15,CThursday:FA windy day with the
+OL,16,Fpotential for some disruption. Heavy
+OL,17,Fshowers merging into longer periods of
+OL,18,Frain at times. Strong northwesterly
+OL,19,Fwinds with gales or severe gales.
+OL,20,FFeeling much colder. Maximum
+OL,21,FTemperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
@@ -27,25 +31,17 @@ PN,13302
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1761121500
+OL,0,        ECIMSBWebfax 2   F133A1761153973
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CThursday:FA very windy and
-OL,6,Foccasionally wet day with the
-OL,7,Fpotential for some disruption. Heavy
-OL,8,Frain probably clearing to showers.
-OL,9,FStrong northwesterly winds with gales
-OL,10,For severe gales. Feeling much colder.
-OL,11,FMaximum Temperature 11C.
-OL,12,
-OL,13,COutlook for Friday to Sunday:FShowers
-OL,14,Fon Friday, these heavy at times.
-OL,15,FBrighter with fewer showers and sunny
-OL,16,Fspells on Saturday, then largely dry
-OL,17,Fon Sunday. Windy at times and feeling
-OL,18,Frather cold.
+OL,5,COutlook for Friday to Sunday:FShowers
+OL,6,Fon Friday, these heavy at times.
+OL,7,FBrighter with fewer showers and sunny
+OL,8,Fspells on Saturday. Cloudier with some
+OL,9,Frain later on Sunday. Windy at times
+OL,10,Fand feeling rather cold.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
