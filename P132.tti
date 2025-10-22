@@ -1,29 +1,48 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1761088997
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1761107041
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA mainly dry
-OL,6,Fevening and night with variable
-OL,7,Famounts of cloud. Still a few showers
-OL,8,Facross northern and western counties.
-OL,9,FLight west or northwesterly winds.
-OL,10,FMinimum Temperature 6C.
+OL,5,CToday:FDry with sunny periods in the
+OL,6,Feast at first but cloudy with
+OL,7,Fscattered showers west in the morning.
+OL,8,FBecoming cloudy east with the odd
+OL,9,Fshower north in the afternoon. Maximum
+OL,10,FTemperature 13C.
 OL,11,
-OL,12,CWednesday:FA generally dry morning
-OL,13,Fwith some sunny spells. Clouding over
-OL,14,Fin the afternoon and evening with the
-OL,15,Fodd shower. Maximum Temperature 13C.
-OL,16,
-OL,17,COutlook for Thursday to Saturday:FDry
-OL,18,Fat first on Thursday, showery may to
-OL,19,Fspread southeast later. Rather cold
-OL,20,Fand windy with a few showers on Friday
-OL,21,Fand Saturday.
+OL,12,CTonight:FAny early showers soon die
+OL,13,Fthen becoming cloudy with rain
+OL,14,Fspreading north for a time before
+OL,15,Fbecoming dry with clear spells towards
+OL,16,Fmorning. Minimum Temperature 6C.
+OL,17,
+OL,18,CThursday:FSunny spells, dry at first
+OL,19,Fthen showers west from late morning,
+OL,20,Fstaying mainly dry and brighter east.
+OL,21,FMaximum Temperature 11C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1761107041
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,COutlook for Friday to Sunday:
+OL,6,FStrengthening northerly winds bring
+OL,7,Fcolder conditions with a few showers
+OL,8,FFriday and early Saturday. The wind
+OL,9,Fand showers will ease from Saturday,
+OL,10,Fcloud and outbreaks rain spread east
+OL,11,FSunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
