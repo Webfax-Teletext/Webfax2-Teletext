@@ -2,24 +2,27 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1761195343
+OL,0,        ECIMSBWebfax 2   F130A1761235040
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FCloudy with heavy rain and
-OL,6,Fstrong winds, including gales. Winds
-OL,7,Fespecially strong on coasts. Gradually
-OL,8,Fturning drier from the west during the
-OL,9,Fafternoon. Feeling cold, especially in
-OL,10,Fthe wind. Maximum Temperature 13C.
-OL,11,
-OL,12,CTonight:FPartly cloudy with some clear
-OL,13,Fspells and mostly dry conditions
-OL,14,Fovernight. Strong winds may ease a
-OL,15,Flittle. Feeling chilly, especially in
-OL,16,Fthe strong winds. Minimum Temperature
-OL,17,F5C.
+OL,5,CThis Evening and Tonight:FCloud and
+OL,6,Fshowery rain gradually clearing from
+OL,7,FKent and Sussex this evening. Becoming
+OL,8,Flargely dry with lengthy clear spells
+OL,9,Fdeveloping overnight. Staying windy,
+OL,10,Fespecially along the coasts, with the
+OL,11,Frisk of gales. Feeling cold,
+OL,12,Fespecially in the strong wind. Minimum
+OL,13,FTemperature 4C.
+OL,14,
+OL,15,CFriday:FSome bright intervals but
+OL,16,Fshowers likely to develop through the
+OL,17,Fday, with the odd heavy one, clearing
+OL,18,Flater. Further strong winds with a
+OL,19,Frisk of coastal gales. Feeling cold.
+OL,20,FMaximum Temperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -27,25 +30,18 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1761195343
+OL,0,        ECIMSBWebfax 2   F130A1761235040
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CFriday:FSome bright intervals but
-OL,6,Fshowers likely to develop through the
-OL,7,Fday, with the odd heavy one, clearing
-OL,8,Flater. Further strong winds with a
-OL,9,Frisk of coastal gales. Feeling cold.
-OL,10,FMaximum Temperature 13C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:
-OL,13,FSaturday, mostly dry and bright.
-OL,14,FStrong gusty winds, coastal gales
-OL,15,Fpossible. Sunday, mostly dry and
-OL,16,Fbright. Strong winds. Monday, cloud
-OL,17,Fand some rain early and perhaps later.
-OL,18,FBreezy. Chilly throughout.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FSaturday, mostly dry and bright.
+OL,7,FStrong gusty winds, coastal gales
+OL,8,Fpossible. Sunday, mostly dry and
+OL,9,Fbright. Strong winds. Monday, cloud
+OL,10,Fand some rain early and perhaps later.
+OL,11,FBreezy. Chilly throughout.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
