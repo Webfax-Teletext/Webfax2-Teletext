@@ -2,26 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1761180776
+OL,0,        ECIMSBWebfax 2   F124A1761202563
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FLong clear
-OL,6,Fspells at first, leading to a chilly
-OL,7,Fnight with a risk of ground frost,
-OL,8,Fespecially in the north. However,
-OL,9,Fcloud will thicken with strengthening
-OL,10,Fwinds as Storm Benjamin approaches.
-OL,11,FRain perhaps arriving by dawn. Minimum
-OL,12,FTemperature 2C.
+OL,5,CToday:FCloudy with rain at first,
+OL,6,Fheaviest in the southeast. Turning
+OL,7,Fdrier in the west later but rain and
+OL,8,Fshowers only slowly clearing offshore
+OL,9,Fthrough the evening. Windy, especially
+OL,10,Fin the south with a risk of coastal
+OL,11,Fgales. Feeling cold. Maximum
+OL,12,FTemperature 10C.
 OL,13,
-OL,14,CThursday:FCloudy with rain at first,
-OL,15,Fheaviest in the southeast. Turning
-OL,16,Fdrier from the west later. Windy,
-OL,17,Fespecially in the south with a risk of
-OL,18,Fcoastal gales. Feeling cold. Maximum
-OL,19,FTemperature 8C.
+OL,14,CTonight:FPartly cloudy and mostly dry
+OL,15,Fconditions overnight but staying windy
+OL,16,Fwith a risk of coastal gales. Feeling
+OL,17,Fchilly, especially in the strong
+OL,18,Fwinds. Minimum Temperature 4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,17 +28,25 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1761180776
+OL,0,        ECIMSBWebfax 2   F124A1761202563
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Friday to Sunday:
-OL,6,FOccasional rain on Friday. Perhaps
-OL,7,Fsunnier Saturday, especially inland.
-OL,8,FRain at times on Sunday. Strong winds
-OL,9,Fand coastal gales at times.
-OL,10,FTemperatures below average.
+OL,5,CFriday:FCloud soon increasing again
+OL,6,Ffrom the north bringing further rain
+OL,7,For showers, some heavy. Strong winds
+OL,8,Fcontinue with an ongoing risk of
+OL,9,Fcoastal gales. Feeling cold. Maximum
+OL,10,FTemperature 10C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:
+OL,13,FSaturday, probably drier and brighter,
+OL,14,Fespecially inland. Strong gusty winds,
+OL,15,Fcoastal gales. Both Sunday and Monday,
+OL,16,Fstarting bright, cloud and rain later.
+OL,17,FWinds less strong. Feeling cold
+OL,18,Fthroughout.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
