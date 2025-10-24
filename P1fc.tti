@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1761267545
+PN,1fc01
+SC,0001
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1761271151
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,7 +13,40 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1761267545;
-OL,10,GService: Webfax 2 - 8917 56886f997
-OL,11,FLast Update: 24/10/2025 01:59:05      
-OL,13,Ageneric/pollen_forecast    G24/10-01:57
+OL,25,1761271151;
+OL,10,GService: Webfax 2 - 8918 738d2684c
+OL,11,FLast Update: 24/10/2025 02:59:11  G1/2
+OL,13,CbbcSport/Golf              G23/10-01:51
+OL,14,CbbcSport/Horse Racing      G23/10-01:51
+OL,15,Ageneric/pollen_forecast    G24/10-02:49
+OL,16,CitvNews/tyne-tees          G23/10-01:52
+OL,17,CitvSport/border            G23/10-01:52
+OL,18,CitvSport/calendar          G23/10-01:52
+OL,19,CitvSport/central           G23/10-01:52
+OL,20,CitvSport/channel           G23/10-01:52
+OL,21,CitvSport/granada           G23/10-01:52
+OL,22,CitvSport/london            G23/10-01:52
+OL,23,CitvSport/meridian          G23/10-01:52
+PN,1fc02
+SC,0002
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1761271151
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1761271151;
+OL,10,GService: Webfax 2 - 8918 738d2684c
+OL,11,FLast Update: 24/10/2025 02:59:11  G2/2
+OL,13,CitvSport/tyne-tees         G23/10-01:52
+OL,14,CitvSport/utv               G23/10-01:52
+OL,15,CitvSport/wales             G23/10-01:52
+OL,16,CitvSport/westcountry       G23/10-01:52
+OL,17,Ctvroom/cleanfeed           G23/10-01:52
