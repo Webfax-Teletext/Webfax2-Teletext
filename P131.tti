@@ -2,25 +2,24 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1761321658
+OL,0,        ECIMSBWebfax 2   F131A1761372175
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FHeavy
-OL,6,Fshowers persisting this evening,
-OL,7,Fgradually easing through the early
-OL,8,Fhours to leave clearer spells by dawn
-OL,9,Fand just a few showers. Turning colder
-OL,10,Fwith brisk northerly winds. Minimum
-OL,11,FTemperature 6C.
-OL,12,
-OL,13,CSaturday:FA mixture of sunny spells
-OL,14,Fand a scattering of showers, some of
-OL,15,Fthese on the heavy side. Feeling
-OL,16,Frather cold especially when exposed to
-OL,17,Fthe strong northerly winds. Maximum
-OL,18,FTemperature 12C.
+OL,5,CToday:FA mixture of sunny spells and a
+OL,6,Fscattering of showers, some of these
+OL,7,Fon the heavy side, especially in the
+OL,8,Fwest. Feeling rather cold especially
+OL,9,Fwhen exposed to the strong northerly
+OL,10,Fwinds. Maximum Temperature 12C.
+OL,11,
+OL,12,CTonight:FShowers persisting in the
+OL,13,Fwest this evening, drier in the east.
+OL,14,FTurning cloudier for a time overnight
+OL,15,Fwith further showers, but turning
+OL,16,Fcolder where skies stay clear. Minimum
+OL,17,FTemperature 3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -28,17 +27,23 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1761321658
+OL,0,        ECIMSBWebfax 2   F131A1761372175
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FA
-OL,6,Fchilly start to Sunday with sunny
-OL,7,Fspells but turning cloudier with
-OL,8,Foutbreaks of rain. Drier on Monday
-OL,9,Fwith showers possible on Tuesday.
-OL,10,FRather cold and often breezy.
+OL,5,CSunday:FA largely dry and chilly start
+OL,6,Fwith cloud thickening through the
+OL,7,Fmorning, with patchy rain by the
+OL,8,Fafternoon. Remaining breezy. Maximum
+OL,9,FTemperature 11C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:FDrier
+OL,12,Fon Monday with sunny spells.
+OL,13,FChangeable thereafter with sunny
+OL,14,Fspells mixed with showers or longer
+OL,15,Fspells of rain. Temperatures returning
+OL,16,Fcloser to average but often breezy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
