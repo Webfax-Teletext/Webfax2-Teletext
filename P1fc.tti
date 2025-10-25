@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1761393827
+OL,0,        ECIMSBWebfax 2   F1fcA1761397436
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,12 +13,12 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1761393826;
-OL,10,GService: Webfax 2 - 8952 7675d3217
-OL,11,FLast Update: 25/10/2025 13:03:46  G1/2
+OL,25,1761397435;
+OL,10,GService: Webfax 2 - 8953 bfbbdffcf
+OL,11,FLast Update: 25/10/2025 14:03:55  G1/2
 OL,13,CbbcSport/Horse Racing      G23/10-01:51
-OL,14,Ageneric/f1                 G25/10-13:00
-OL,15,Ageneric/pollen_forecast    G25/10-13:00
+OL,14,Ageneric/f1                 G25/10-14:02
+OL,15,Ageneric/pollen_forecast    G25/10-14:02
 OL,16,CitvSport/calendar          G23/10-01:52
 OL,17,CitvSport/central           G23/10-01:52
 OL,18,CitvSport/channel           G23/10-01:52
@@ -30,7 +30,7 @@ OL,23,CitvSport/wales             G23/10-01:52
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1761393827
+OL,0,        ECIMSBWebfax 2   F1fcA1761397436
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1761393826;
-OL,10,GService: Webfax 2 - 8952 7675d3217
-OL,11,FLast Update: 25/10/2025 13:03:46  G2/2
+OL,25,1761397435;
+OL,10,GService: Webfax 2 - 8953 bfbbdffcf
+OL,11,FLast Update: 25/10/2025 14:03:55  G2/2
 OL,13,CitvSport/westcountry       G23/10-01:52
-OL,14,Ctv_listings?select=false   G24/10-07:27
-OL,15,Ctvroom/cleanfeed           G23/10-01:52
+OL,14,Ctvroom/cleanfeed           G23/10-01:52
