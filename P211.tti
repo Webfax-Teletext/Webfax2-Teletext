@@ -1,44 +1,26 @@
-PN,21101
-SC,0001
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1761361348
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/2
+PN,21100
+SC,0000
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1761364956
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for FRI 24 OCT
-OL,4,G0400FBBC News
-OL,5,G0406FUnexpected Elements
-OL,6,     GEurope has a new entry/exit
-OL,7,     Gsystem based on biometric data.
-OL,8,     GBut what exactly is the science
-OL,9,     Gbehind biometric data, how can we
-OL,10,     Gensure it's used responsibly, and
-OL,11,     Gcan it be cracked?
-OL,12,G0500FBBC News
-OL,13,G0506FThe Newsroom
-OL,14,     GThe world's Newsroom brings you
-OL,15,     Gglobal events as they happen.
-OL,16,G0530FBBC News Summary
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,212,200,150,300,000,100
-PN,21102
-SC,0002
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1761361348
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/2
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 24 OCT
-OL,4,G0532FDear Daughter
-OL,5,     GWhen Julia's boyfriend slapped
-OL,6,     Gher in the face, it was only the
-OL,7,     Gbeginning. She writes a letter
-OL,8,     Gadvising her future daughter what
-OL,9,     Gto do if she ever faces domestic
-OL,10,     Gviolence.
-OL,11,G0550FMore or Less
-OL,12,     GFemonomics author Corinne Low
-OL,13,     Gexplains the economics of women,
-OL,14,     Gmen and housework.
+OL,4,G0500FBBC News
+OL,5,G0506FThe Newsroom
+OL,6,     GThe world's Newsroom brings you
+OL,7,     Gglobal events as they happen.
+OL,8,G0530FBBC News Summary
+OL,9,G0532FDear Daughter
+OL,10,     GWhen Julia's boyfriend slapped
+OL,11,     Gher in the face, it was only the
+OL,12,     Gbeginning. She writes a letter
+OL,13,     Gadvising her future daughter what
+OL,14,     Gto do if she ever faces domestic
+OL,15,     Gviolence.
+OL,16,G0550FMore or Less
+OL,17,     GFemonomics author Corinne Low
+OL,18,     Gexplains the economics of women,
+OL,19,     Gmen and housework.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,212,200,150,300,000,100
