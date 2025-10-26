@@ -2,25 +2,23 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1761465993
+OL,0,        ECIMSBWebfax 2   F139A1761498470
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FA cold start to the day and
-OL,6,Fbright at first, but soon clouding
-OL,7,Fover from the west. Rain spreads east
-OL,8,Fduring the day, clearing the east
-OL,9,Fthrough the afternoon allowing some
-OL,10,Fbright or sunny spells to develop.
-OL,11,FMaximum Temperature 10C.
-OL,12,
-OL,13,CTonight:FLargely dry with clear spells
-OL,14,Fthrough the evening, though the odd
-OL,15,Fshower in the southwest. Showers
-OL,16,Fspreading south overnight, becoming
-OL,17,Flargely dry again by morning. Minimum
-OL,18,FTemperature 4C.
+OL,5,CThis Evening and Tonight:FLargely dry
+OL,6,Fwith clear spells through the evening,
+OL,7,Fthough the odd shower in the
+OL,8,Fsouthwest. Showers spreading south
+OL,9,Fovernight, becoming largely dry again
+OL,10,Fby morning. Minimum Temperature 4C.
+OL,11,
+OL,12,CMonday:FThe odd shower clearing south
+OL,13,Ffirst thing. Otherwise dry and bright
+OL,14,Fon Monday with light winds. Rain
+OL,15,Fspreading west in the late evening.
+OL,16,FMaximum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -28,22 +26,16 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1761465993
+OL,0,        ECIMSBWebfax 2   F139A1761498470
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CMonday:FThe odd shower clearing south
-OL,6,Ffirst thing. Otherwise dry and bright
-OL,7,Fon Monday with light winds. Rain
-OL,8,Fspreading west in the late evening.
-OL,9,FMaximum Temperature 10C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:
-OL,12,FTuesday and Wednesday will be windy
-OL,13,Fwith some blustery showers, these
-OL,14,Fheavy at times. Dry start Thursday
-OL,15,Fbefore turning more unsettled later.
+OL,5,COutlook for Tuesday to Thursday:
+OL,6,FTuesday and Wednesday will be windy
+OL,7,Fwith some blustery showers, these
+OL,8,Fheavy at times. Dry start Thursday
+OL,9,Fbefore turning more unsettled later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
