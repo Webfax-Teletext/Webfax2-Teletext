@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1761447950
+OL,0,        ECIMSBWebfax 2   F1fcA1761451557
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,11 +13,11 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1761447949;
-OL,10,GService: Webfax 2 - 8967 613832d7c
-OL,11,FLast Update: 26/10/2025 03:05:49  G1/2
+OL,25,1761451556;
+OL,10,GService: Webfax 2 - 8968 45a5210cd
+OL,11,FLast Update: 26/10/2025 04:05:56  G1/2
 OL,13,CbbcNews/Technology         G24/10-18:45
-OL,14,Ageneric/pollen_forecast    G26/10-02:59
+OL,14,Ageneric/pollen_forecast    G26/10-04:00
 OL,15,CitvNews/border             G24/10-20:38
 OL,16,CitvNews/channel            G24/10-19:16
 OL,17,CitvNews/london             G24/10-16:33
@@ -30,7 +30,7 @@ OL,23,CitvSport/granada           G24/10-16:00
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1761447950
+OL,0,        ECIMSBWebfax 2   F1fcA1761451557
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1761447949;
-OL,10,GService: Webfax 2 - 8967 613832d7c
-OL,11,FLast Update: 26/10/2025 03:05:49  G2/2
+OL,25,1761451556;
+OL,10,GService: Webfax 2 - 8968 45a5210cd
+OL,11,FLast Update: 26/10/2025 04:05:56  G2/2
 OL,13,CitvSport/london            G23/10-01:52
 OL,14,CitvSport/meridian          G23/10-01:52
 OL,15,CitvSport/tyne-tees         G23/10-01:52
@@ -52,3 +52,4 @@ OL,16,CitvSport/utv               G23/10-01:52
 OL,17,CitvSport/wales             G23/10-01:52
 OL,18,CitvSport/westcountry       G23/10-01:52
 OL,19,Ctvroom/cleanfeed           G23/10-01:52
+OL,20,CZXIndustries/epg.json      G25/10-04:02
