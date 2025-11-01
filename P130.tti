@@ -2,28 +2,27 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1761975280
+OL,0,        ECIMSBWebfax 2   F130A1762018605
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FEarly rain soon clears east,
-OL,6,Fwith sunny spells and scattered
-OL,7,Fcoastal showers following. The showers
-OL,8,Fwill be blustery, often heavy and
-OL,9,Fperhaps with hail and thunder. They
-OL,10,Fwill also spread inland this
-OL,11,Fafternoon. Windy along the coast.
-OL,12,FRather mild temperatures. Maximum
-OL,13,FTemperature 15C.
-OL,14,
-OL,15,CTonight:FThis evening showers,
-OL,16,Foccasionally heavy and perhaps
-OL,17,Fthundery, become confined to southern
-OL,18,Fcoasts. Inland areas become dry and
-OL,19,Flargely clear until a band of heavy
-OL,20,Frain arrives from the west. Minimum
-OL,21,FTemperature 5C.
+OL,5,CThis Evening and Tonight:FThis evening
+OL,6,Fshowers, occasionally heavy and
+OL,7,Fperhaps thundery, become confined to
+OL,8,Fsouthern coasts. Inland areas become
+OL,9,Fdry and largely clear until a band of
+OL,10,Fshowery rain, heavy at times, arrives
+OL,11,Ffrom the west towards dawn Minimum
+OL,12,FTemperature 5C.
+OL,13,
+OL,14,CSunday:FShowers or spells of rain
+OL,15,Fclear soon east, allowing for isolated
+OL,16,Flight showers and sunny spells to
+OL,17,Fdevelop. Rain arriving overnight.
+OL,18,FBreezy with temperatures close to or
+OL,19,Fslightly below average. Maximum
+OL,20,FTemperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -31,26 +30,18 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1761975280
+OL,0,        ECIMSBWebfax 2   F130A1762018605
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CSunday:FHeavy rain clears east through
-OL,6,Fthe morning, then most places remain
-OL,7,Fdry with sunny spells, although
-OL,8,Fisolated light showers may arrive.
-OL,9,FTemperatures near average with
-OL,10,Fgenerally light winds. Maximum
-OL,11,FTemperature 13C.
-OL,12,
-OL,13,COutlook for Monday to Wednesday:
-OL,14,FGenerally cloudy, mild and often
-OL,15,Fwindy. Monday and Tuesday some
-OL,16,Foutbreaks of rain arrive but with
-OL,17,Fdrier and brighter spells in-between.
-OL,18,FWednesday patchy rain is likely,
-OL,19,Fprobably becoming widespread later.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FGenerally cloudy, mild and often
+OL,7,Fwindy. Monday and Tuesday some
+OL,8,Foutbreaks of rain arrive but with
+OL,9,Fdrier and brighter spells in-between.
+OL,10,FWednesday patchy rain is likely,
+OL,11,Fprobably becoming widespread later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
