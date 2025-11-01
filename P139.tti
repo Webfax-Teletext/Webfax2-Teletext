@@ -2,23 +2,25 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1761978889
+OL,0,        ECIMSBWebfax 2   F139A1762029433
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FThe day will be cloudy and
-OL,6,Fbreezy with frequent and heavy showers
-OL,7,Ffor all at first. Bright spells will
-OL,8,Fincrease later as the showers die
-OL,9,Fthrough the afternoon. Maximum
-OL,10,FTemperature 11C.
-OL,11,
-OL,12,CTonight:FBreezy with clear spells and
-OL,13,Fisolated showers during the evening.
-OL,14,FIt will become cloudy and windy with a
-OL,15,Fband of rain spreading east later.
-OL,16,FMinimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FBreezy with
+OL,6,Fclear spells and isolated showers
+OL,7,Fduring the evening. It will become
+OL,8,Fcloudy and windy for a time in the
+OL,9,Fearly hours with a band of rain
+OL,10,Fspreading east. Becoming drier and
+OL,11,Fclearer again towards morning. Minimum
+OL,12,FTemperature 4C.
+OL,13,
+OL,14,CSunday:FA breezy and mostly dry day,
+OL,15,Fbut the odd shower. Bright or sunny
+OL,16,Fspells in the east. Cloudier in the
+OL,17,Fwest. Rain spreads east through the
+OL,18,Fevening. Maximum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -26,22 +28,16 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1761978889
+OL,0,        ECIMSBWebfax 2   F139A1762029433
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CSunday:FA breezy but mostly dry day.
-OL,6,FSunny spells in the east otherwise
-OL,7,Fcloudy with the odd bright spell. The
-OL,8,Fodd shower south. Maximum Temperature
-OL,9,F10C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:
-OL,12,FUnsettled and breezy with heavy
-OL,13,Fshowers and outbreaks of rain at times
-OL,14,Fthroughout this period. Becoming drier
-OL,15,Flater Wednesday.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FUnsettled and breezy with heavy
+OL,7,Fshowers and outbreaks of rain at times
+OL,8,Fthroughout this period. Becoming drier
+OL,9,Flater Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
