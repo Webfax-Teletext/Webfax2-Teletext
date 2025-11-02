@@ -2,23 +2,26 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1762072753
+OL,0,        ECIMSBWebfax 2   F136A1762116067
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CToday:FThe day will be mostly dry with
-OL,6,Fbright or sunny spells. It will be
-OL,7,Fbreezy and cloud will increase for a
-OL,8,Ftime around midday. The odd afternoon
-OL,9,Fshower is possible in the west.
-OL,10,FMaximum Temperature 10C.
-OL,11,
-OL,12,CTonight:FThe evening will be dry and
-OL,13,Fbreezy with clear spells. Cloud will
-OL,14,Fbuild towards midnight and a band of
-OL,15,Frain will soon follow from the
-OL,16,Fsouthwest. Minimum Temperature 3C.
+OL,5,CThis Evening and Tonight:FThe evening
+OL,6,Fwill be dry and breezy with clear
+OL,7,Fspells. Cloud will build towards
+OL,8,Fmidnight and a band of rain will soon
+OL,9,Ffollow from the southwest, becoming
+OL,10,Fheavy later tonight. Becoming milder
+OL,11,Fwith strengthening southwest winds.
+OL,12,FMinimum Temperature 3C.
+OL,13,
+OL,14,CMonday:FMostly cloudy with further
+OL,15,Frain, most persistent in the west.
+OL,16,FDrier in the east with some brighter
+OL,17,Finterludes. Much milder. Strong
+OL,18,Fsouthwest winds. Maximum Temperature
+OL,19,F15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -26,22 +29,16 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1762072753
+OL,0,        ECIMSBWebfax 2   F136A1762116067
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CMonday:FThe day will continue windy
-OL,6,Fand cloudy with rain at times,
-OL,7,Fbecoming dry with bright spells in the
-OL,8,Feast for a time around midday. Maximum
-OL,9,FTemperature 15C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:FCloudy
-OL,12,Fand breezy, mostly dry Tuesday.
-OL,13,FOutbreaks persistent, heavy rain
-OL,14,Fspread north Wednesday. Becoming dry
-OL,15,Fwith bright spells Thursday.
+OL,5,COutlook for Tuesday to Thursday:FCloudy
+OL,6,Fand breezy, mostly dry Tuesday.
+OL,7,FOutbreaks persistent, heavy rain
+OL,8,Fspread north Wednesday. Becoming dry
+OL,9,Fwith bright spells Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
