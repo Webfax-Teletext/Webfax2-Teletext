@@ -2,25 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1762148551
+OL,0,        ECIMSBWebfax 2   F132A1762195486
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FAnother cloudy day with bands
-OL,6,Fof showery rain, heavy at times, more
-OL,7,Fpersistent during the afternoon. A
-OL,8,Fmuch milder day with southwest winds
-OL,9,Fbecoming strong. Maximum Temperature
-OL,10,F15C.
-OL,11,
-OL,12,CTonight:FCloud and occasionally heavy
-OL,13,Frain clearing east through the
-OL,14,Fevening. Then mostly dry with clear
-OL,15,Fspells overnight, but a few showers
-OL,16,Fpossible over western counties. Fresh
-OL,17,Fsouthwest winds. Minimum Temperature
-OL,18,F10C.
+OL,5,CThis Evening and Tonight:FCloud and
+OL,6,Foccasionally heavy rain clearing east
+OL,7,Fthrough the evening. Then mostly dry
+OL,8,Fwith clear spells overnight, but a few
+OL,9,Fshowers possible over western
+OL,10,Fcounties. Fresh southwest winds.
+OL,11,FMinimum Temperature 10C.
+OL,12,
+OL,13,CTuesday:FMostly dry with some bright
+OL,14,Fspells in the morning, though chance
+OL,15,Fof the odd shower in northwest.
+OL,16,FTurning cloudier in east through the
+OL,17,Fmorning with a little rain in
+OL,18,Fafternoon. Maximum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -28,23 +28,16 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1762148551
+OL,0,        ECIMSBWebfax 2   F132A1762195486
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CTuesday:FMostly dry with some bright
-OL,6,Fspells in the morning, though chance
-OL,7,Fof the odd shower in the northwest.
-OL,8,FTurning cloudy in the afternoon with
-OL,9,Frain spreading north. Maximum
-OL,10,FTemperature 14C.
-OL,11,
-OL,12,COutlook for Wednesday to Friday:
-OL,13,FRemaining unsettled through this
-OL,14,Fperiod with showers or some longer
-OL,15,Fspells of rain, heavy at times.
-OL,16,FOccasionally strong winds.
+OL,5,COutlook for Wednesday to Friday:
+OL,6,FRemaining unsettled through this
+OL,7,Fperiod with showers or some longer
+OL,8,Fspells of rain, heavy at times.
+OL,9,FOccasionally strong winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
