@@ -2,24 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1762116067
+OL,0,        ECIMSBWebfax 2   F132A1762148551
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThe evening
-OL,6,Fwill begin cloudy but dry with rain in
-OL,7,Fthe west. Outbreaks of rain will soon
-OL,8,Fspread east becoming heavy in places.
-OL,9,FBecoming milder overnight. Minimum
-OL,10,FTemperature 7C.
+OL,5,CToday:FAnother cloudy day with bands
+OL,6,Fof showery rain, heavy at times, more
+OL,7,Fpersistent during the afternoon. A
+OL,8,Fmuch milder day with southwest winds
+OL,9,Fbecoming strong. Maximum Temperature
+OL,10,F15C.
 OL,11,
-OL,12,CMonday:FAnother cloudy day with bands
-OL,13,Fof showery rain, heavy at times, more
-OL,14,Fpersistent during the afternoon. A
-OL,15,Fmuch milder day with southwest winds
-OL,16,Fbecoming strong. Maximum Temperature
-OL,17,F15C.
+OL,12,CTonight:FCloud and occasionally heavy
+OL,13,Frain clearing east through the
+OL,14,Fevening. Then mostly dry with clear
+OL,15,Fspells overnight, but a few showers
+OL,16,Fpossible over western counties. Fresh
+OL,17,Fsouthwest winds. Minimum Temperature
+OL,18,F10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,16 +28,23 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1762116067
+OL,0,        ECIMSBWebfax 2   F132A1762148551
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:
-OL,6,FCloudy, windy but dry with sunny
-OL,7,Fspells Tuesday. Outbreaks of rain,
-OL,8,Fheavy at times Wednesday becoming
-OL,9,Fdrier and brighter Thursday.
+OL,5,CTuesday:FMostly dry with some bright
+OL,6,Fspells in the morning, though chance
+OL,7,Fof the odd shower in the northwest.
+OL,8,FTurning cloudy in the afternoon with
+OL,9,Frain spreading north. Maximum
+OL,10,FTemperature 14C.
+OL,11,
+OL,12,COutlook for Wednesday to Friday:
+OL,13,FRemaining unsettled through this
+OL,14,Fperiod with showers or some longer
+OL,15,Fspells of rain, heavy at times.
+OL,16,FOccasionally strong winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100

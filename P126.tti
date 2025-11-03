@@ -2,24 +2,25 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1762090802
+OL,0,        ECIMSBWebfax 2   F126A1762148551
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FSome clear
-OL,6,Fspells initially but cloud soon
-OL,7,Fbuilding from the west with outbreaks
-OL,8,Fof rain arriving towards midnight and
-OL,9,Fpersisting through till dawn, heavy at
-OL,10,Ftimes across western hills. Breezy.
-OL,11,FMinimum Temperature 4C.
-OL,12,
-OL,13,CMonday:FA cloudy and windy day with
-OL,14,Foutbreaks of rain, persistent and at
-OL,15,Ftimes heavy across western hills and
-OL,16,Fcontinuing overnight. Mild for the
-OL,17,Ftime of year. Maximum Temperature 16C.
+OL,5,CToday:FA mostly cloudy day with
+OL,6,Foutbreaks of rain, persistent and
+OL,7,Foccasionally heavy across western
+OL,8,Fhills. Some drier and brighter spells
+OL,9,Fare possible in the east. Temperatures
+OL,10,Fmild for the time of year, but this
+OL,11,Foffset by strong and gusty winds.
+OL,12,FMaximum Temperature 15C.
+OL,13,
+OL,14,CTonight:FMostly cloudy this evening.
+OL,15,FFurther outbreaks of rain, heavy at
+OL,16,Ftimes, moving southwards overnight.
+OL,17,FStrong and gusty winds continuing.
+OL,18,FMild. Minimum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -27,17 +28,23 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1762090802
+OL,0,        ECIMSBWebfax 2   F126A1762148551
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FA
-OL,6,Fmostly cloudy and mild period with
-OL,7,Foutbreaks of rain, which may turn
-OL,8,Fheavy and persistent at times over
-OL,9,Fwestern hills. Brighter, drier
-OL,10,Fconditions may develop on Thursday.
+OL,5,CTuesday:FMostly cloudy with outbreaks
+OL,6,Fof rain, heavy at times, moving
+OL,7,Fnorthwards. Rain becoming more
+OL,8,Fpersistent later. Wind easing a
+OL,9,Flittle. Mild. Maximum Temperature 15C.
+OL,10,
+OL,11,COutlook for Wednesday to Friday:
+OL,12,FRemaining unsettled, with outbreaks of
+OL,13,Frain, heavy at times. Occasionally
+OL,14,Fbreezy. Mostly mild, although cool
+OL,15,Ftemperatures are possible on Thursday
+OL,16,Fnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
