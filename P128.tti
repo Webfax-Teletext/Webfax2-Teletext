@@ -2,26 +2,25 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1762188267
+OL,0,        ECIMSBWebfax 2   F128A1762238813
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Fvery mild this evening and overnight
-OL,7,Fwith occasional dribs and drabs of
-OL,8,Frain in places and perhaps something
-OL,9,Fmore persistent by the end of the
-OL,10,Fnight. Staying breezy with blustery
-OL,11,Fsoutherly winds in places. Minimum
-OL,12,FTemperature 12C.
-OL,13,
-OL,14,CTuesday:FShowery rain at times through
-OL,15,Fthe day with perhaps the odd brighter
-OL,16,Finterval, mainly during the morning.
-OL,17,FHeavier rain is likely by the evening.
-OL,18,FRather breezy and staying very mild.
-OL,19,FMaximum Temperature 16C.
+OL,5,CToday:FShowery rain at times through
+OL,6,Ftoday with perhaps the odd brighter
+OL,7,Finterval, mainly during this morning.
+OL,8,FHeavier rain may push into southern
+OL,9,Fparts of the region by late afternoon.
+OL,10,FRather breezy and staying very mild.
+OL,11,FMaximum Temperature 15C.
+OL,12,
+OL,13,CTonight:FHeavier rain for a time this
+OL,14,Fevening but turning somewhat drier by
+OL,15,Fmidnight. Remaining damp at times
+OL,16,Fovernight and turning murky over
+OL,17,Fhigher ground as winds ease. Staying
+OL,18,Fvery mild. Minimum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -29,17 +28,26 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1762188267
+OL,0,        ECIMSBWebfax 2   F128A1762238813
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FStaying very mild and rather unsettled
-OL,7,Fthrough the remainder of the week.
-OL,8,FShowers or occasional longer periods
-OL,9,Fof rain with the chance of some
-OL,10,Fbrighter spells. Breezy at times.
+OL,5,CWednesday:FAnother largely cloudy day
+OL,6,Fwith showery rain likely in places,
+OL,7,Fparticularly during the morning. Often
+OL,8,Fdry through the afternoon with bright
+OL,9,Fintervals. Very mild with a light
+OL,10,Fsoutherly breeze. Maximum Temperature
+OL,11,F16C.
+OL,12,
+OL,13,COutlook for Thursday to Saturday:
+OL,14,FStaying mild or very mild on Thursday
+OL,15,Fand Friday with showers or longer
+OL,16,Fperiods of rain, interspersed with
+OL,17,Fbrighter spells. Probably drier,
+OL,18,Fbrighter and fresher on Saturday.
+OL,19,FBreezy at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
