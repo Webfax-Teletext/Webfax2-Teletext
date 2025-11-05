@@ -2,23 +2,23 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1762296606
+OL,0,        ECIMSBWebfax 2   F135A1762325480
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will be
-OL,6,Fcloudy this evening with some showery
-OL,7,Frain at first, gradually dying out
-OL,8,Fthrough the evening Dry with light
-OL,9,Fwinds, and clear spells developing
-OL,10,Fovernight. Minimum Temperature 5C.
+OL,5,CToday:FA dry and bright start. Cloud
+OL,6,Fand rain will gradually extend north
+OL,7,Fthrough the day although not reaching
+OL,8,FSutherland and Outer Hebrides until
+OL,9,Flater in the day. Maximum Temperature
+OL,10,F12C.
 OL,11,
-OL,12,CWednesday:FA dry and bright start but
-OL,13,Fcloud and rain will gradually extend
-OL,14,Fnorth through the day. Rain will be
-OL,15,Fheavy at times. Maximum Temperature
-OL,16,F12C.
+OL,12,CTonight:FCloudy with further rain. The
+OL,13,Frain will become light and patchy
+OL,14,Fduring the night with some drier
+OL,15,Fspells developing. Light winds.
+OL,16,FMinimum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -26,17 +26,25 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1762296606
+OL,0,        ECIMSBWebfax 2   F135A1762325480
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:FRain
-OL,6,Fclears north Thursday morning, then
-OL,7,Fdrier but cloudy before more showers
-OL,8,Flater. Variable cloud Friday with rain
-OL,9,For showers in the west, drier in the
-OL,10,Feast. Mostly dry Saturday
+OL,5,CThursday:FRather cloudy with still
+OL,6,Fsome patchy light rain, mostly near to
+OL,7,Fthe West Coast. Drier and brighter
+OL,8,Fover Caithness and around Inverness.
+OL,9,FAnother mild day with a light
+OL,10,Fsoutherly breeze. Maximum Temperature
+OL,11,F15C.
+OL,12,
+OL,13,COutlook for Friday to Sunday:FA
+OL,14,Fchangeable few days with some showers
+OL,15,For even longer spells of rain, mostly
+OL,16,Fin west. Drier, brighter spells too,
+OL,17,Fbest towards Inverness and Caithness.
+OL,18,FBreezy at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
