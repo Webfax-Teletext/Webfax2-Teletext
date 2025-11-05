@@ -2,23 +2,24 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1762274928
+OL,0,        ECIMSBWebfax 2   F129A1762314652
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy at
-OL,6,Ffirst with outbreaks of rain and
-OL,7,Fdrizzle, mainly in the west. Becoming
-OL,8,Flargely dry as rain clears north,
-OL,9,Fperhaps with some clear spells. Windy,
-OL,10,Fespecially on the coast. Mild. Minimum
-OL,11,FTemperature 12C.
-OL,12,
-OL,13,CWednesday:FLargely dry with bright or
-OL,14,Fperhaps some sunny spells. Feeling
-OL,15,Fvery mild despite the strong breeze.
-OL,16,FMaximum Temperature 17C.
+OL,5,CToday:FVariable, often large amounts
+OL,6,Fof cloud but largely dry with some
+OL,7,Fbright or perhaps sunny spells
+OL,8,Fdeveloping. Feeling very mild despite
+OL,9,Fa rather brisk breeze. Maximum
+OL,10,FTemperature 17C.
+OL,11,
+OL,12,CTonight:FVariable, often large amounts
+OL,13,Fof cloud and mostly dry, although
+OL,14,Fisolated showers may move north later.
+OL,15,FIsolated mist or fog patches also
+OL,16,Fpossible where any cloud breaks
+OL,17,Flinger. Mild. Minimum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -26,16 +27,25 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1762274928
+OL,0,        ECIMSBWebfax 2   F129A1762314652
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Thursday to Saturday:FOften
-OL,6,Fcloudy, but with some outbreaks of
-OL,7,Frain or showers, although Saturday may
-OL,8,Fbe mostly dry. Winds easing, with a
-OL,9,Frisk of overnight mist or fog. Mild.
+OL,5,CThursday:FVariable often large amounts
+OL,6,Fof cloud but some brighter spells
+OL,7,Flikely. Mostly dry although a few
+OL,8,Fshowers possible at times. Generally
+OL,9,Flighter winds. Very mild. Maximum
+OL,10,FTemperature 17C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FOften
+OL,13,Fcloudy with drier spells, although
+OL,14,Fscattered showers likely during Friday
+OL,15,Finto Saturday morning. Winds often
+OL,16,Flight but fresher later Sunday.
+OL,17,FTrending less mild, with some cooler
+OL,18,Fnights.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
