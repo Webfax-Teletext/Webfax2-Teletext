@@ -2,25 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1762365187
+OL,0,        ECIMSBWebfax 2   F127A1762394067
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FVariable but
-OL,6,Foften large amounts of cloud and
-OL,7,Fmostly dry apart from occasional
-OL,8,Fpatchy light rain or drizzle across
-OL,9,Fthe Peak District. The odd mist or fog
-OL,10,Fpatch possible. Mild. Minimum
-OL,11,FTemperature 12C.
-OL,12,
-OL,13,CThursday:FVariable often large amounts
-OL,14,Fof cloud but some brighter spells
-OL,15,Fpossible. Mostly dry although a few
-OL,16,Fshowers possible in the east.
-OL,17,FGenerally light winds. Very mild.
-OL,18,FMaximum Temperature 17C.
+OL,5,CToday:FVariable often large amounts of
+OL,6,Fcloud but some brighter spells
+OL,7,Fpossible. Mostly dry although a few
+OL,8,Fshowers possible in the east.
+OL,9,FGenerally light winds. Very mild.
+OL,10,FMaximum Temperature 17C.
+OL,11,
+OL,12,CTonight:FVariable often large amounts
+OL,13,Fof cloud, and although mostly dry some
+OL,14,Fscattered showery rain is possible.
+OL,15,FPatchy mist or fog may also form in
+OL,16,Fplaces. Mild with light winds. Minimum
+OL,17,FTemperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -28,17 +27,24 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1762365187
+OL,0,        ECIMSBWebfax 2   F127A1762394067
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Friday to Sunday:FOften
-OL,6,Fcloudy with drier spells, although a
-OL,7,Fband of rain or showers likely later
-OL,8,FFriday and Sunday. Winds often light
-OL,9,Fbut fresher Sunday. Trending less
-OL,10,Fmild, with some cooler nights.
+OL,5,CFriday:FSome showery rain possible at
+OL,6,Ffirst and again later, but clearing to
+OL,7,Fbrighter spells in-between. Light
+OL,8,Fwinds at first but turning breezier.
+OL,9,FStill mild. Maximum Temperature 15C.
+OL,10,
+OL,11,COutlook for Saturday to Monday:
+OL,12,FVariable cloud, some overnight mist or
+OL,13,Ffog patches. Occasional drier spells
+OL,14,Fbut a band of rain or showers likely
+OL,15,Flater Sunday, perhaps lingering
+OL,16,FMonday. Breezy at times, trending less
+OL,17,Fmild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
