@@ -2,26 +2,25 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1762442001
+OL,0,        ECIMSBWebfax 2   F128A1762449233
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CToday:FSome early clear and dry spells
-OL,6,Fat first, but becoming increasingly
-OL,7,Fcloudy through the morning with a
-OL,8,Fchance of the odd light shower at
-OL,9,Ftimes. Some brighter breaks returning
-OL,10,Fduring the afternoon. Feeling
-OL,11,Funseasonably mild with light southerly
-OL,12,Fwinds. Maximum Temperature 16C.
-OL,13,
-OL,14,CTonight:FPerhaps some early evening
-OL,15,Fclear spells possible as cloud breaks
-OL,16,Fup at times, but becoming increasingly
-OL,17,Fcloudy again later, with occasional
-OL,18,Foutbreaks of rain overnight. Another
-OL,19,Fmild night. Minimum Temperature 12C.
+OL,5,CThis Evening and Tonight:FRemaining
+OL,6,Fcloudy and murky this evening and
+OL,7,Fovernight with some drizzle in places.
+OL,8,FAnother very mild night for the time
+OL,9,Fof year with light southerly winds.
+OL,10,FMinimum Temperature 10C.
+OL,11,
+OL,12,CFriday:FMostly cloudy with outbreaks
+OL,13,Fof rain during the morning, but some
+OL,14,Fbrighter spells develop through the
+OL,15,Fafternoon. Towards evening cloud will
+OL,16,Freturn as a band of rain pushes
+OL,17,Fnortheastwards. Maximum Temperature
+OL,18,F15C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -29,26 +28,18 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1762442001
+OL,0,        ECIMSBWebfax 2   F128A1762449233
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CFriday:FMostly cloudy with outbreaks
-OL,6,Fof rain during the morning, but some
-OL,7,Fbrighter spells develop through the
-OL,8,Fafternoon. Towards evening cloud will
-OL,9,Freturn as a band of rain pushes
-OL,10,Fnortheastwards. Maximum Temperature
-OL,11,F15C.
-OL,12,
-OL,13,COutlook for Saturday to Monday:
-OL,14,FBrighter on Saturday, though some
-OL,15,Fshowers possible through the evening.
-OL,16,FAnother largely fine day on Sunday,
-OL,17,Fbut turning unsettled overnight into
-OL,18,FMonday, as bands of rain push
-OL,19,Feastwards. Feeling fresher.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FBrighter on Saturday, though some
+OL,7,Fshowers possible through the evening.
+OL,8,FAnother largely fine day on Sunday,
+OL,9,Fbut turning unsettled overnight into
+OL,10,FMonday, as bands of rain push
+OL,11,Feastwards. Feeling fresher.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
