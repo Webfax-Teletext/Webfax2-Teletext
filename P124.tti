@@ -2,26 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1762442000
+OL,0,        ECIMSBWebfax 2   F124A1762452842
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FVariable often large amounts of
-OL,6,Fcloud but some brighter spells
-OL,7,Fpossible. Mostly dry although the odd
-OL,8,Fpatch of light rain or drizzle across
-OL,9,Fthe Pennines, and perhaps the odd
-OL,10,Fshowery outbreak later elsewhere.
-OL,11,FGenerally light winds. Very mild.
-OL,12,FMaximum Temperature 16C.
-OL,13,
-OL,14,CTonight:FVariable often large amounts
-OL,15,Fof cloud, and although mostly dry some
-OL,16,Fscattered showery rain is possible.
-OL,17,FPatchy mist or fog may also form in
-OL,18,Fplaces. Mild with light winds. Minimum
-OL,19,FTemperature 10C.
+OL,5,CThis Evening and Tonight:FVariable
+OL,6,Foften large amounts of cloud, and
+OL,7,Falthough mostly dry some scattered
+OL,8,Fshowery rain is possible, with drizzle
+OL,9,Fover hills. Patchy mist or fog may
+OL,10,Falso form in places. Mild with light
+OL,11,Fwinds. Minimum Temperature 10C.
+OL,12,
+OL,13,CFriday:FSome showery rain, which could
+OL,14,Fturn heavier for a time before
+OL,15,Fweakening again later in the day.
+OL,16,FLight winds at first, turning
+OL,17,Fbreezier. Still mild. Maximum
+OL,18,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,25 +28,18 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1762442000
+OL,0,        ECIMSBWebfax 2   F124A1762452842
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CFriday:FSome showery rain, which could
-OL,6,Fturn heavier for a time before
-OL,7,Fweakening again later in the day.
-OL,8,FLight winds at first, turning
-OL,9,Fbreezier. Still mild. Maximum
-OL,10,FTemperature 14C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:
-OL,13,FVariable cloud, some overnight mist or
-OL,14,Ffog patches. Occasional drier spells
-OL,15,Fbut a band of rain or showers likely
-OL,16,Flater Sunday, perhaps lingering
-OL,17,FMonday. Breezy at times, trending less
-OL,18,Fmild.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FVariable cloud, some overnight mist or
+OL,7,Ffog patches. Occasional drier spells
+OL,8,Fbut a band of rain or showers likely
+OL,9,Flater Sunday, perhaps lingering
+OL,10,FMonday. Breezy at times, trending less
+OL,11,Fmild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
