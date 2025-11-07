@@ -2,25 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1762452842
+OL,0,        ECIMSBWebfax 2   F130A1762488937
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FVariable
-OL,6,Foften large amounts of cloud, and
-OL,7,Falthough mostly dry some scattered
-OL,8,Fshowery rain is possible, especially
-OL,9,Ftoward dawn. Patchy mist or fog may
-OL,10,Falso form in places. Mild with light
-OL,11,Fwinds. Minimum Temperature 11C.
+OL,5,CToday:FA murky start with mist, fog
+OL,6,Fand low cloud accompanied by outbreaks
+OL,7,Fof drizzle. Low cloud slowly lifting
+OL,8,Fthrough the morning with some brighter
+OL,9,Fspells developing from midday, but
+OL,10,Fstill a risk of an isolated light
+OL,11,Fshower Maximum Temperature 15C.
 OL,12,
-OL,13,CFriday:FScattered showers possible at
-OL,14,Ffirst. Some brighter spells possible
-OL,15,Fbut a band of rain moves east later in
-OL,16,Fthe afternoon. Light winds at first
-OL,17,Fbut turning breezier. Still mild.
-OL,18,FMaximum Temperature 16C.
+OL,13,CTonight:FCloud building into the
+OL,14,Fevening with drizzly outbreaks of rain
+OL,15,Fmoving across the area, some clearer
+OL,16,Fspells perhaps developing from the
+OL,17,Fwest later. Breezy at times towards
+OL,18,Fthe coast. Minimum Temperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -28,17 +28,24 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1762452842
+OL,0,        ECIMSBWebfax 2   F130A1762488937
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Saturday to Monday:
-OL,6,FVariable cloud, some overnight mist or
-OL,7,Ffog patches. Occasional drier spells
-OL,8,Fbut a band of showery rain moving east
-OL,9,Flater Sunday into Monday. Breezy at
-OL,10,Ftimes, trending less mild.
+OL,5,CSaturday:FSome patchy low cloud around
+OL,6,Ffirst thing, but clearing to give a
+OL,7,Fdry and bright day with plenty of
+OL,8,Fsunny spells and mostly light winds.
+OL,9,FMaximum Temperature 15C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:FA
+OL,12,Fchangeable period with variable cloud
+OL,13,Fand outbreaks of rain or showers
+OL,14,Finterspersed with some clearer or
+OL,15,Fbrighter interludes. Chilly at times
+OL,16,Fovernight with a few mist and fog
+OL,17,Fpatches.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
