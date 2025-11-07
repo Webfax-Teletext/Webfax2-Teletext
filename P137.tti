@@ -2,27 +2,26 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1762492546
+OL,0,        ECIMSBWebfax 2   F137A1762550331
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FRather cloudy start across
-OL,6,Fsouthern Aberdeenshire with patchy
-OL,7,Frain and drizzle, but brighter
-OL,8,Fconditions with sunny spells across
-OL,9,Fthe north developing more widely
-OL,10,Fthrough the day. Low cloud and mist
-OL,11,Fcontinue to affect eastern coastal
-OL,12,Fparts at times. Maximum Temperature
-OL,13,F15C.
-OL,14,
-OL,15,CTonight:FSome clear spells across
-OL,16,Fnorthern Aberdeenshire and Moray but
-OL,17,Fgenerally a rather cloudy night, with
-OL,18,Fmist and low cloud affecting eastern
-OL,19,Fcoasts and patchy rain in the south.
-OL,20,FMinimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FSome clear
+OL,6,Fspells across northern Aberdeenshire
+OL,7,Fand Moray but generally a rather
+OL,8,Fcloudy night, with mist and low cloud
+OL,9,Faffecting eastern coasts and patchy
+OL,10,Frain in the south. Minimum Temperature
+OL,11,F5C.
+OL,12,
+OL,13,CSaturday:FRather cloudy start across
+OL,14,Fsouthern and eastern Aberdeenshire
+OL,15,Fwith patchy light rain and drizzle,
+OL,16,Fbut brighter conditions with sunny
+OL,17,Fspells across the north developing
+OL,18,Fmore widely through the day. Maximum
+OL,19,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -30,26 +29,18 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1762492546
+OL,0,        ECIMSBWebfax 2   F137A1762550331
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CSaturday:FRather cloudy start across
-OL,6,Fsouthern and eastern Aberdeenshire
-OL,7,Fwith patchy light rain and drizzle,
-OL,8,Fbut brighter conditions with sunny
-OL,9,Fspells across the north developing
-OL,10,Fmore widely through the day. Maximum
-OL,11,FTemperature 14C.
-OL,12,
-OL,13,COutlook for Sunday to Tuesday:FMostly
-OL,14,Fcloudy Sunday, although north brighter
-OL,15,Fat times, with rain spreading
-OL,16,Fnortheast. Mainly dry with some good
-OL,17,Fsunny spells Monday but Tuesday looks
-OL,18,Fcloudier again, with rain edging north
-OL,19,Flater.
+OL,5,COutlook for Sunday to Tuesday:FMostly
+OL,6,Fcloudy Sunday, although north brighter
+OL,7,Fat times, with rain spreading
+OL,8,Fnortheast. Mainly dry with some good
+OL,9,Fsunny spells Monday but Tuesday looks
+OL,10,Fcloudier again, with rain edging north
+OL,11,Flater.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
