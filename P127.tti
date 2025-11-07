@@ -2,26 +2,25 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1762488937
+OL,0,        ECIMSBWebfax 2   F127A1762532253
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FPatchy fog around initially
-OL,6,Fwill gradually clear, but remaining
-OL,7,Fgenerally dull with low cloud and
-OL,8,Foutbreaks of showery rain arriving
-OL,9,Fduring the morning. Perhaps some
-OL,10,Fbrighter spells developing from the
-OL,11,Fsouth later in the afternoon. Maximum
-OL,12,FTemperature 15C.
-OL,13,
-OL,14,CTonight:FSome clear spells to start
-OL,15,Fthe evening but becoming generally
-OL,16,Fmore cloudy as the night develops,
-OL,17,Fwith some low cloud and outbreaks of
-OL,18,Fdrizzle arriving towards dawn. Minimum
-OL,19,FTemperature 10C.
+OL,5,CThis Evening and Tonight:FSome clear
+OL,6,Fspells to start the evening but
+OL,7,Fbecoming generally more cloudy as the
+OL,8,Fnight develops, with low cloud and
+OL,9,Foutbreaks of rain or drizzle arriving
+OL,10,Fbefore midnight. Light winds. Minimum
+OL,11,FTemperature 10C.
+OL,12,
+OL,13,CSaturday:FCloudy initially with
+OL,14,Fpatches of mist and fog and outbreaks
+OL,15,Fof drizzle. Becoming brighter through
+OL,16,Fthe morning with some good sunny
+OL,17,Fspells developing during the
+OL,18,Fafternoon. Maximum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -29,25 +28,18 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1762488937
+OL,0,        ECIMSBWebfax 2   F127A1762532253
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CSaturday:FCloudy initially with
-OL,6,Fpatches of mist and fog and outbreaks
-OL,7,Fof drizzle. Becoming brighter through
-OL,8,Fthe morning with some good sunny
-OL,9,Fspells developing during the
-OL,10,Fafternoon. Maximum Temperature 14C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FA
-OL,13,Fchangeable period with variable cloud
-OL,14,Fand outbreaks of rain or showers
-OL,15,Finterspersed with some clearer or
-OL,16,Fbrighter interludes. Chilly at times
-OL,17,Fovernight with a few mist and fog
-OL,18,Fpatches.
+OL,5,COutlook for Sunday to Tuesday:FA
+OL,6,Fchangeable period with variable cloud
+OL,7,Fand outbreaks of rain or showers
+OL,8,Finterspersed with some clearer or
+OL,9,Fbrighter interludes. Chilly at times
+OL,10,Fovernight with a few mist and fog
+OL,11,Fpatches.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
