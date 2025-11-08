@@ -2,25 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1762590044
+OL,0,        ECIMSBWebfax 2   F129A1762622530
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FDull start with low cloud or
-OL,6,Ffog and patchy light rain or drizzle.
-OL,7,FThen becoming dry and brighter this
-OL,8,Fmorning, with some good sunny spells
-OL,9,Fdeveloping this afternoon. Remaining
-OL,10,Fvery mild with temperatures above
-OL,11,Faverage, and light winds. Maximum
-OL,12,FTemperature 15C.
-OL,13,
-OL,14,CTonight:FDry and largely clear with
-OL,15,Flight winds. As a result temperatures
-OL,16,Fwill fall much lower than recent
-OL,17,Fnights, with a chance of patchy mist
-OL,18,For fog forming. Minimum Temperature 3C.
+OL,5,CThis Evening and Tonight:FDry and
+OL,6,Flargely clear through the evening and
+OL,7,Fovernight with light winds. As a
+OL,8,Fresult, temperatures will fall lower
+OL,9,Fthan recent nights, with a chance of
+OL,10,Fpatchy mist or fog forming. Minimum
+OL,11,FTemperature 4C.
+OL,12,
+OL,13,CSunday:FAny early mist and fog will
+OL,14,Fclear, then bright or sunny spells
+OL,15,Fbefore cloud increases from the west
+OL,16,Fthrough the afternoon, bringing patchy
+OL,17,Frain into the evening. Maximum
+OL,18,FTemperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,25 +28,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1762590044
+OL,0,        ECIMSBWebfax 2   F129A1762622530
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CSunday:FAny early mist and fog will
-OL,6,Fclear, then bright or sunny spells
-OL,7,Fbefore cloud increases from the west
-OL,8,Fthrough the afternoon. Staying dry,
-OL,9,Fmild and with light winds. Maximum
-OL,10,FTemperature 14C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:
-OL,13,FUnsettled weather conditions with
-OL,14,Fvariable cloud and outbreaks of rain
-OL,15,For showers interspersed with some
-OL,16,Fclearer or brighter interludes. Chilly
-OL,17,Fat times overnight with a few mist and
-OL,18,Ffog patches.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FUnsettled weather conditions with
+OL,7,Fvariable cloud and outbreaks of rain
+OL,8,For showers interspersed with some
+OL,9,Fclearer or brighter interludes. Chilly
+OL,10,Fat times overnight with a few mist and
+OL,11,Ffog patches.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
