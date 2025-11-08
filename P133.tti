@@ -2,23 +2,24 @@ PN,13301
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1762586435
+OL,0,        ECIMSBWebfax 2   F133A1762636974
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CToday:FA bright day with sunny spells.
-OL,6,FThe odd shower around during the
-OL,7,Fafternoon but most places staying dry.
-OL,8,FFeeling pleasant in the sunshine with
-OL,9,Flight winds. Maximum Temperature 14C.
-OL,10,
-OL,11,CTonight:FA calm evening with clear
-OL,12,Fspells and fog patches possible. Cloud
-OL,13,Fbuilding overnight and the breeze
-OL,14,Fpicking up in strength as rain fringes
-OL,15,Finto the west towards dawn. Minimum
-OL,16,FTemperature 6C.
+OL,5,CThis Evening and Tonight:FA calm
+OL,6,Fevening with clear spells and fog
+OL,7,Fpatches possible. Cloud building
+OL,8,Fovernight and the breeze picking up in
+OL,9,Fstrength as rain fringes into the west
+OL,10,Ftowards dawn. Minimum Temperature 6C.
+OL,11,
+OL,12,CSunday:FCloudy and breezy with
+OL,13,Foutbreaks of rain erratically
+OL,14,Fspreading across the country, possibly
+OL,15,Fturning heavy at times. Temperatures
+OL,16,Fgenerally near the seasonal average.
+OL,17,FMaximum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
@@ -26,25 +27,18 @@ PN,13302
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1762586435
+OL,0,        ECIMSBWebfax 2   F133A1762636974
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CSunday:FCloudy and breezy with
-OL,6,Foutbreaks of rain erratically
-OL,7,Fspreading across the country, possibly
-OL,8,Fturning heavy at times. Temperatures
-OL,9,Fgenerally near the seasonal average.
-OL,10,FMaximum Temperature 14C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FA
-OL,13,Fchangeable and unsettled period with
-OL,14,Fheavy showers and spells of rain.
-OL,15,FOften cloudy, though some sunny spells
-OL,16,Fbreaking through on occasion. Turning
-OL,17,Fmilder but with blustery winds at
-OL,18,Ftimes.
+OL,5,COutlook for Monday to Wednesday:FA
+OL,6,Fchangeable and unsettled period with
+OL,7,Fheavy showers and spells of rain.
+OL,8,FOften cloudy, though some sunny spells
+OL,9,Fbreaking through on occasion. Turning
+OL,10,Fmilder but with blustery winds at
+OL,11,Ftimes.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
