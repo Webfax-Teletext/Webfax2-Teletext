@@ -2,28 +2,26 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1762665850
+OL,0,        ECIMSBWebfax 2   F137A1762709193
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FA cloudy but dry morning. Rain,
-OL,6,Fheavy at times in the south at first,
-OL,7,Fspreads northeast for a time in the
-OL,8,Fafternoon. Becoming dry with bright
-OL,9,Fspells again by evening. Maximum
-OL,10,FTemperature 13C.
-OL,11,
-OL,12,CTonight:FDry with clear periods. Cloud
-OL,13,Fincreases from the southeast from
-OL,14,Fmidnight with outbreaks of rain, some
-OL,15,Fheavy, soon following northwest.
-OL,16,FMinimum Temperature 3C.
-OL,17,
-OL,18,CMonday:FCloudy with outbreaks of rain,
-OL,19,Fsome persistent and heavy in the
-OL,20,Fmorning. Mostly dry later with bright
-OL,21,Fspells east. Maximum Temperature 11C.
+OL,5,CThis Evening and Tonight:FAny rain
+OL,6,Fquickly clearing east then dry with
+OL,7,Fclear periods. Becoming chilly
+OL,8,Fovernight with some patchy fog
+OL,9,Fdeveloping. Cloud increases from the
+OL,10,Fsoutheast from midnight with outbreaks
+OL,11,Fof rain, some heavy, soon spreading
+OL,12,Fnorth. Minimum Temperature 3C.
+OL,13,
+OL,14,CMonday:FCloudy with outbreaks of rain,
+OL,15,Fsome persistent and heavy in the
+OL,16,Fmorning. Becoming mostly dry in the
+OL,17,Fafternoon with bright spells in the
+OL,18,Feast. Chance of rain again overnight.
+OL,19,FMaximum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -31,15 +29,17 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1762665850
+OL,0,        ECIMSBWebfax 2   F137A1762709193
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FCloudy
-OL,6,Fbut dry early Tuesday. Outbreaks rain,
-OL,7,Fpersistent and heavy from Tuesday
-OL,8,Fafternoon. Becoming drier Thursday.
+OL,5,COutlook for Tuesday to Thursday:FDry
+OL,6,Fand bright start to Tuesday then
+OL,7,Fspells of rain, often persistent and
+OL,8,Fheavy from Tuesday afternoon through
+OL,9,FWednesday. Drier but colder Thursday
+OL,10,Fwith a few showers, wintry on hills.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
