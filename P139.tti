@@ -2,27 +2,25 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1762665850
+OL,0,        ECIMSBWebfax 2   F139A1762727241
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FA cloudy day, dry east at
-OL,6,Ffirst, otherwise outbreaks of rain,
-OL,7,Fheavy at times west in the morning.
-OL,8,FThen drier from the afternoon. Windy
-OL,9,Fin the west. Maximum Temperature 13C.
-OL,10,
-OL,11,CTonight:FMostly dry with clear spells
-OL,12,Fduring the evening. Cloud spreads
-OL,13,Fnorth from late evening with locally
-OL,14,Fheavy rain following from midnight.
-OL,15,FMinimum Temperature 4C.
-OL,16,
-OL,17,CMonday:FCloudy with outbreaks of rain,
-OL,18,Fsome persistent and heavy. Becoming
-OL,19,Fdrier and brighter from the afternoon.
-OL,20,FMaximum Temperature 11C.
+OL,5,CThis Evening and Tonight:FMostly dry
+OL,6,Fwith clear spells to start the
+OL,7,Fevening. Cloud and rain will spread up
+OL,8,Finto Dumfriesshire and the Borders
+OL,9,Fduring the evening then to all parts
+OL,10,Fovernight. The rain will be heavy in
+OL,11,Fplaces. Minimum Temperature 4C.
+OL,12,
+OL,13,CMonday:FCloudy with outbreaks of rain
+OL,14,Fto start the day, some persistent and
+OL,15,Fheavy. Becoming drier and brighter
+OL,16,Fthrough the morning with a few
+OL,17,Fscattered showers. Maximum Temperature
+OL,18,F11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -30,16 +28,18 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1762665850
+OL,0,        ECIMSBWebfax 2   F139A1762727241
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FCloudy
-OL,6,Fwith outbreaks of rain, persistent and
-OL,7,Fheavy at times. Drier for a time
-OL,8,FWednesday afternoon. Light winds
-OL,9,Fstrengthen for a time Tuesday night.
+OL,5,COutlook for Tuesday to Thursday:FDry
+OL,6,Fstart to Tuesday then cloudy with
+OL,7,Foutbreaks of rain, persistent and
+OL,8,Fheavy later Tuesday and on Wednesday.
+OL,9,FFurther outbreaks of rain on Thursday
+OL,10,Fand turning colder with strengthening
+OL,11,Fwinds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
