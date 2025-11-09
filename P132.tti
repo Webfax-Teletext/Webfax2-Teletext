@@ -2,24 +2,28 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1762636974
+OL,0,        ECIMSBWebfax 2   F132A1762662240
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will be a
-OL,6,Fcloudy evening with rain in the south
-OL,7,Fspreading northwards. Remaining cloudy
-OL,8,Fovernight with outbreaks of rain
-OL,9,Facross all parts, which may be heavy
-OL,10,Fat times. Minimum Temperature 9C.
+OL,5,CToday:FCloudy with outbreaks of rain,
+OL,6,Fheavy at times at first. Becoming dry
+OL,7,Fwith sunny periods from mid-morning.
+OL,8,FWindy during the morning, easing down
+OL,9,Fthough the afternoon. Maximum
+OL,10,FTemperature 13C.
 OL,11,
-OL,12,CSunday:FCloudy with rain at first but
-OL,13,Fbecoming drier and brighter through
-OL,14,Fthe morning. Mostly dry through the
-OL,15,Fafternoon with sunny spells and
-OL,16,Fscattered showers. Breezy in the
-OL,17,Fmorning. Maximum Temperature 13C.
+OL,12,CTonight:FMostly dry with clear spells
+OL,13,Fduring the evening. Cloud spreads
+OL,14,Fnorth from late evening with locally
+OL,15,Fheavy rain following from midnight.
+OL,16,FMinimum Temperature 7C.
+OL,17,
+OL,18,CMonday:FCloudy with outbreaks of rain,
+OL,19,Fsome persistent and heavy. Becoming
+OL,20,Fdrier and brighter from mid-morning.
+OL,21,FMaximum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,17 +31,16 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1762636974
+OL,0,        ECIMSBWebfax 2   F132A1762662240
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FMainly
-OL,6,Fcloudy with a few showers on Monday.
-OL,7,FCloudy and windy on Tuesday with more
-OL,8,Fpersistent and heavy rain at times.
-OL,9,FPerhaps drier on Wednesday then more
-OL,10,Frain later.
+OL,5,COutlook for Tuesday to Thursday:FCloudy
+OL,6,Fwith outbreaks of rain, persistent and
+OL,7,Fheavy at times. Becoming drier from
+OL,8,FTuesday afternoon. Light winds
+OL,9,Fstrengthen for a time Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
