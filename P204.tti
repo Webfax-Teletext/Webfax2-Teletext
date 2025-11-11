@@ -1,8 +1,8 @@
-PN,20400
-SC,0000
-PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1762824263
-OL,1,W{${$~+$ {$~{4k4h7} *u|
+PN,20401
+SC,0001
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1762835097
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for MON 10 NOV
 OL,4,G0100FBBC R4 Joins BBC World Service
@@ -21,9 +21,21 @@ OL,16,     Gstart the day with the Reverend
 OL,17,     GCanon Michael Parker, chaplain
 OL,18,     Ggeneral of His Majesty's Land
 OL,19,     GForces.
-OL,20,G0545FFarming Today
-OL,21,     GThe latest news about food,
-OL,22,     Gfarming and the countryside.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,205,200,150,300,000,100
+PN,20402
+SC,0002
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1762835097
+OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/2
+OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
+OL,3,CProgramme listings for MON 10 NOV
+OL,4,G0545FFarming Today
+OL,5,     GA cross-party group of MPs
+OL,6,     Glaunches a new action plan for
+OL,7,     Gfishing, led by former fisheries
+OL,8,     Gminister Daniel Zeichner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
