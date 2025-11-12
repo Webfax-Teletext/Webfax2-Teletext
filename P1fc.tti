@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1762957932
+PN,1fc00
+SC,0000
+PS,8018
+OL,0,        ECIMSBWebfax 2   F1fcA1762961540
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,35 +13,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1762957931;
-OL,10,GService: Webfax 2 - 9389 3ab190bbb
-OL,11,FLast Update: 12/11/2025 14:32:11  G1/2
-OL,13,Ageneric/pollen_forecast    G12/11-14:24
+OL,25,1762961540;
+OL,10,GService: Webfax 2 - 9390 73c118abc
+OL,11,FLast Update: 12/11/2025 15:32:20      
+OL,13,Ageneric/pollen_forecast    G12/11-15:26
 OL,14,CitvSport/border            G06/11-15:13
 OL,15,CitvSport/calendar          G06/11-15:13
-OL,16,CitvSport/central           G06/11-15:13
-OL,17,CitvSport/channel           G07/11-18:17
-OL,18,CitvSport/london            G06/11-15:13
-OL,19,CitvSport/meridian          G06/11-15:13
-OL,20,CitvSport/tyne-tees         G08/11-16:21
-OL,21,CitvSport/utv               G06/11-15:13
-OL,22,CitvSport/wales             G09/11-19:26
-OL,23,CitvSport/westcountry       G06/11-15:13
-PN,1fc02
-SC,0002
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1762957932
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1762957931;
-OL,10,GService: Webfax 2 - 9389 3ab190bbb
-OL,11,FLast Update: 12/11/2025 14:32:11  G2/2
+OL,16,CitvSport/channel           G07/11-18:17
+OL,17,CitvSport/london            G06/11-15:13
+OL,18,CitvSport/meridian          G06/11-15:13
+OL,19,CitvSport/tyne-tees         G08/11-16:21
+OL,20,CitvSport/utv               G06/11-15:13
+OL,21,CitvSport/wales             G09/11-19:26
+OL,22,CitvSport/westcountry       G06/11-15:13
