@@ -2,25 +2,24 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763026516
+OL,0,        ECIMSBWebfax 2   F125A1763051784
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FA cloudy start with patchy
-OL,6,Foutbreaks of rain, these most frequent
-OL,7,Fand persistent across northern
-OL,8,Fcounties. Brighter in the south with a
-OL,9,Ffew sunny breaks between spells of
-OL,10,Frain. Light winds and still feeling
-OL,11,Fmild. Maximum Temperature 14C.
-OL,12,
-OL,13,CTonight:FStaying cloudy with further
-OL,14,Fspells of rain overnight, these
-OL,15,Fmerging into more persistent spells in
-OL,16,Fthe south by dawn. Much chillier than
-OL,17,Frecent nights, with a touch of grass
-OL,18,Ffrost. Minimum Temperature 2C.
+OL,5,CThis Evening and Tonight:FStaying
+OL,6,Fcloudy with further spells of rain
+OL,7,Fovernight, these merging into more
+OL,8,Fpersistent spells in the far south by
+OL,9,Fdawn. Feeling much chillier than
+OL,10,Frecent nights. Minimum Temperature 2C.
+OL,11,
+OL,12,CFriday:FWet and windy on Friday with
+OL,13,Fheavy spells of rain in the south at
+OL,14,Ftimes. Mainly dry across northern
+OL,15,Fcounties until the evening. Feeling
+OL,16,Fcolder than recent days. Maximum
+OL,17,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,24 +27,18 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763026516
+OL,0,        ECIMSBWebfax 2   F125A1763051784
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CFriday:FWet and windy on Friday with
-OL,6,Fheavy spells of rain in the south at
-OL,7,Ftimes. Mainly dry across northern
-OL,8,Fcounties until this evening. Feeling
-OL,9,Fcolder than recent days. Maximum
-OL,10,FTemperature 9C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FDrier
-OL,13,Fand more settled this weekend, with
-OL,14,Fcloudy skies for many but some sunny
-OL,15,Fperiods as well. Feeling notably
-OL,16,Fcolder in northerly winds, with
-OL,17,Fovernight frosts possible.
+OL,5,COutlook for Saturday to Monday:FWinds
+OL,6,Feasing on Saturday and any rain
+OL,7,Feventually petering out. Cloudy skies
+OL,8,Ffor many with some sunnier periods.
+OL,9,FBrighter from Sunday but notably
+OL,10,Fcolder in northerly winds, with
+OL,11,Fovernight frosts.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
