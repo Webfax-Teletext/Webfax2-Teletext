@@ -1,24 +1,20 @@
 PN,20400
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1763008469
+OL,0,        ECIMSBWebfax 2   F204A1763012078
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 12 NOV
-OL,4,G0100FBBC R4 Joins BBC World Service
-OL,5,G0500FNews Summary
-OL,6,G0504FYesterday in Parliament
-OL,7,     GDavid Cornock on PMQs.
-OL,8,G0534FShipping Forecast
-OL,9,G0543FPrayer for the Day
-OL,10,     GA spiritual comment and prayer to
-OL,11,     Gstart the day with Royal Navy
-OL,12,     Gchaplain Rev Paul Bryce.
-OL,13,G0545FFarming Today
-OL,14,     GMPs call for farm inheritance tax
-OL,15,     Gto be halted, until an assessment
-OL,16,     Gof its impact in Wales is drawn
-OL,17,     Gup.
+OL,4,G0534FShipping Forecast
+OL,5,G0543FPrayer for the Day
+OL,6,     GA spiritual comment and prayer to
+OL,7,     Gstart the day with Royal Navy
+OL,8,     Gchaplain Rev Paul Bryce.
+OL,9,G0545FFarming Today
+OL,10,     GMPs call for farm inheritance tax
+OL,11,     Gto be halted, until an assessment
+OL,12,     Gof its impact in Wales is drawn
+OL,13,     Gup.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
