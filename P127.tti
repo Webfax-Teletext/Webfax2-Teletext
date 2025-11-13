@@ -2,23 +2,25 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1763052566
+OL,0,        ECIMSBWebfax 2   F127A1763063413
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FThursday should be largely dry
-OL,6,Fwith variable cloud and bright or
-OL,7,Fsunny spells. Perhaps the odd light
-OL,8,Fshower around. Generally light winds.
-OL,9,FStill very mild. Maximum Temperature
-OL,10,F15C.
-OL,11,
-OL,12,CTonight:FCloud thickens from the south
-OL,13,Fovernight bringing outbreaks of rain,
-OL,14,Fsome heavy. A strengthening and gusty
-OL,15,Feasterly breeze developing, giving a
-OL,16,Fchillier feel. Minimum Temperature 8C.
+OL,5,CThis Evening and Tonight:FCloud
+OL,6,Fspreading and thickening from the
+OL,7,Fsouth overnight to bring outbreaks of
+OL,8,Frain, some of this becoming heavy and
+OL,9,Fpersistent. A strengthening and gusty
+OL,10,Feasterly breeze developing, giving a
+OL,11,Fchillier feel. Minimum Temperature 8C.
+OL,12,
+OL,13,CFriday:FA wet day for Friday with
+OL,14,Ffurther heavy and persistent rain
+OL,15,Fthroughout. This will be accompanied
+OL,16,Fby a strong and gusty easterly wind
+OL,17,Fand feeling colder. Maximum
+OL,18,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -26,24 +28,18 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1763052566
+OL,0,        ECIMSBWebfax 2   F127A1763063413
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CFriday:FA wet day Friday with further
-OL,6,Fheavy and persistent rain throughout.
-OL,7,FThis will be accompanied by a strong
-OL,8,Fand gusty east wind and feeling
-OL,9,Fcolder. Maximum Temperature 9C.
-OL,10,
-OL,11,COutlook for Saturday to Monday:FFurther
-OL,12,Frain, heavy and persistent, moving
-OL,13,Fnorthwards Friday and persisting into
-OL,14,Fearly Saturday. Rain gradually easing
-OL,15,FSaturday. Feeling colder, with a
-OL,16,Fstrong and gusty easterly wind. Drier
-OL,17,Fand brighter Sunday.
+OL,5,COutlook for Saturday to Monday:FFurther
+OL,6,Frain, heavy and persistent, moving
+OL,7,Fnorthwards Friday and persisting into
+OL,8,Fearly Saturday. Rain gradually easing
+OL,9,FSaturday. Feeling colder, with a
+OL,10,Fstrong and gusty easterly wind. Drier
+OL,11,Fand brighter Sunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100

@@ -2,23 +2,26 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1763052565
+OL,0,        ECIMSBWebfax 2   F134A1763063413
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FIt will be a bright and chilly
-OL,6,Fday with fresh to strong north or
-OL,7,Fnortheast winds. Occasional showers,
-OL,8,Fthese heavy and perhaps wintry at
-OL,9,Ftimes. Maximum Temperature 7C.
-OL,10,
-OL,11,CTonight:FClear spells and occasional
-OL,12,Fshowers during this evening and
-OL,13,Fovernight. The showers wintry at
-OL,14,Ftimes, mainly across Shetland and the
-OL,15,Fnorth or northeast winds still fresh
-OL,16,For strong. Minimum Temperature 1C.
+OL,5,CThis Evening and Tonight:FClear spells
+OL,6,Fand occasional showers during this
+OL,7,Fevening and overnight. The showers
+OL,8,Fwill be wintry at times, especially
+OL,9,Facross Shetland. North or northeast
+OL,10,Fwinds will remain fresh or strong.
+OL,11,FMinimum Temperature 1C.
+OL,12,
+OL,13,CFriday:FA bright and cold day with
+OL,14,Foccasional sunny spells and a
+OL,15,Fscattering of showers. The showers
+OL,16,Fwintry at times, mainly across
+OL,17,FShetland with moderate or fresh north
+OL,18,For northeast winds. Maximum
+OL,19,FTemperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -26,23 +29,16 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1763052565
+OL,0,        ECIMSBWebfax 2   F134A1763063413
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CFriday:FA bright day with occasional
-OL,6,Fsunny spells and a scattering of
-OL,7,Fshowers. The showers wintry at times,
-OL,8,Fmainly across Shetland and the north
-OL,9,For northeast winds moderate or fresh.
-OL,10,FMaximum Temperature 7C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FMainly
-OL,13,Fdry and bright on Saturday with a
-OL,14,Ffrost possible at night. A scattering
-OL,15,Fof showers on Sunday and Monday,
-OL,16,Fwintry at times. Chilly winds.
+OL,5,COutlook for Saturday to Monday:FMainly
+OL,6,Fdry and bright on Saturday with a
+OL,7,Ffrost possible at night. A scattering
+OL,8,Fof showers on Sunday and Monday,
+OL,9,Fwintry at times. Chilly winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
