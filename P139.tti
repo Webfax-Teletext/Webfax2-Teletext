@@ -2,24 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1762975979
+OL,0,        ECIMSBWebfax 2   F139A1763008469
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FA cloudy
-OL,6,Fnight with rain, this patchy at first
-OL,7,Fthen turning more persistent and heavy
-OL,8,Fin places overnight, driest towards
-OL,9,FGalloway. Northeast winds increasing
-OL,10,Ffresh. Minimum Temperature 6C.
+OL,5,CToday:FA dull, overcast day with
+OL,6,Fperiods of rain that will turn heavy
+OL,7,Fat times. It will feel chilly in the
+OL,8,Fnortheast winds, these becoming strong
+OL,9,Fto gale force through the Solway
+OL,10,FFirth. Maximum Temperature 8C.
 OL,11,
-OL,12,CThursday:FA dull, overcast day with
-OL,13,Fperiods of rain that turns heavy at
-OL,14,Ftimes. Temperatures significantly
-OL,15,Flower than Wednesday and feeling cold
-OL,16,Fin fresh to strong northeast winds.
-OL,17,FMaximum Temperature 8C.
+OL,12,CTonight:FMostly cloudy with showers or
+OL,13,Fthe odd longer spell of rain, but
+OL,14,Fturning drier with a few clearer
+OL,15,Fspells later in the night. Brisk
+OL,16,Fnortheast winds, strong around the
+OL,17,Fcoast. Minimum Temperature 4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -27,16 +27,22 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1762975979
+OL,0,        ECIMSBWebfax 2   F139A1763008469
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Friday to Sunday:FStaying
-OL,6,Fcold with rural frosts. Mainly dry
-OL,7,Fwith brighter spells, but a few light
-OL,8,Fshowers in the east at times. Light
-OL,9,Fnorth to northeast winds.
+OL,5,CFriday:FBright with occasional sunny
+OL,6,Fspells and a scattering of showers,
+OL,7,Fthese wintry on hills. Chilly
+OL,8,Fnortheast winds. Maximum Temperature
+OL,9,F7C.
+OL,10,
+OL,11,COutlook for Saturday to Monday:FMainly
+OL,12,Fdry and bright on Saturday with a
+OL,13,Fwidespread frost at night. A
+OL,14,Fscattering of showers on Sunday and
+OL,15,FMonday, wintry on hills. Chilly winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
