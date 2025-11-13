@@ -2,25 +2,26 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1762975979
+OL,0,        ECIMSBWebfax 2   F126A1763001250
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy with
-OL,6,Foutbreaks of rain, locally heavy and
-OL,7,Fpersistent at times, will continue to
-OL,8,Fmove steadily northwards across all
-OL,9,Fparts overnight. A mild night, with
-OL,10,Flight winds. Minimum Temperature 8C.
-OL,11,
-OL,12,CThursday:FA cloudy day, with further
-OL,13,Foutbreaks of rain, locally heavy,
-OL,14,Fespecially over the hills. The rain
-OL,15,Fshould gradually ease later in the
-OL,16,Fday. Feeling cooler, with an easterly
-OL,17,Fbreeze developing. Maximum Temperature
-OL,18,F10C.
+OL,5,CToday:FFurther outbreaks of rain,
+OL,6,Flocally heavy, especially over hills
+OL,7,Ffurther north. Drier in the far south.
+OL,8,FRain should become lighter and more
+OL,9,Fintermittent later as it edges south.
+OL,10,FMild in the south, colder further
+OL,11,Fnorth. A brisk easterly breeze
+OL,12,Fdeveloping. Maximum Temperature 13C.
+OL,13,
+OL,14,CTonight:FCloud and occasional light
+OL,15,Frain moving south, becoming
+OL,16,Fincreasingly confined to east-facing
+OL,17,Fhills. A brisk and gusty easterly
+OL,18,Fbreeze developing. giving a chillier
+OL,19,Ffeel. Minimum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -28,18 +29,24 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1762975979
+OL,0,        ECIMSBWebfax 2   F126A1763001250
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Friday to Sunday:FFurther
-OL,6,Frain, heavy and persistent, moving
-OL,7,Fnorthwards Friday and persisting into
-OL,8,Fearly Saturday. Rain gradually easing
-OL,9,FSaturday. Feeling colder, with a
-OL,10,Fstrong and gusty easterly wind. Drier
-OL,11,Fand brighter Sunday.
+OL,5,CFriday:FFurther rain, heavy and
+OL,6,Fpersistent, slowly moving northwards
+OL,7,Fthrough the day. The heaviest rain
+OL,8,Flikely on east-facing hills. A strong
+OL,9,Fand gusty east wind, feeling colder.
+OL,10,FMaximum Temperature 9C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:FFurther
+OL,13,Fheavy into early Saturday, gradually
+OL,14,Feasing from the north. Feeling cold,
+OL,15,Fwith a strong and gusty easterly wind.
+OL,16,FDrier and brighter Sunday and Monday.
+OL,17,FWinds gradually easing, feeling chilly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
