@@ -2,25 +2,24 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1763067026
+OL,0,        ECIMSBWebfax 2   F128A1763099519
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FTurning
-OL,6,Fincreasingly cloudy this evening, with
-OL,7,Frain moving in from the south
-OL,8,Fovernight, this persistent and
-OL,9,Fsometimes heavy. Becoming rather windy
-OL,10,Ftoo, and feeling chillier than recent
-OL,11,Fnights. Minimum Temperature 6C.
+OL,5,CToday:FStorm Claudia a wet and windy
+OL,6,Fday. Rain turning persistent and heavy
+OL,7,Ffor all, leading to a risk of flooding
+OL,8,Fand challenging driving conditions.
+OL,9,FVery windy too, with gales possible
+OL,10,Fover the hills. Feeling cold. Maximum
+OL,11,FTemperature 10C.
 OL,12,
-OL,13,CFriday:FStorm Claudia brings rain,
-OL,14,Fthis turning persistent and heavy for
-OL,15,Fall, leading to a risk of flooding and
-OL,16,Fchallenging driving conditions. Very
-OL,17,Fwindy too, with gales possible over
-OL,18,Fthe hills. Maximum Temperature 10C.
+OL,13,CTonight:FThe wind and rain continuing
+OL,14,Ffor much of the night though heavier
+OL,15,Fspells of rain easing by the morning.
+OL,16,FA chilly night ahead. Minimum
+OL,17,FTemperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -28,18 +27,22 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1763067026
+OL,0,        ECIMSBWebfax 2   F128A1763099519
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:
-OL,6,FBecoming more settled over the
-OL,7,Fweekend. Still rather cloudy with a
-OL,8,Ffew light showers on Saturday, but
-OL,9,Fmore widely dry on Sunday and Monday.
-OL,10,FFeeling colder, especially during the
-OL,11,Fnights.
+OL,5,CSaturday:FSpots of rain to start but
+OL,6,Fturning drier later. Often cloudy.
+OL,7,FWindy to start though any strong,
+OL,8,Fgusty winds easing. Another cold day.
+OL,9,FMaximum Temperature 10C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:FBrighter
+OL,12,Ffrom Sunday but notably colder in
+OL,13,Fnortherly winds, with overnight frosts
+OL,14,Fpossible. A chance of more cloud
+OL,15,Faround on Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
