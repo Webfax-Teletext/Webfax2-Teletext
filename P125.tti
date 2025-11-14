@@ -2,23 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763106738
+OL,0,        ECIMSBWebfax 2   F125A1763146487
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FWet and windy on Friday with
-OL,6,Fheavy spells of rain in the south at
-OL,7,Ftimes. Mainly dry across northern
-OL,8,Fcounties until the evening. Feeling
-OL,9,Fcolder than recent days. Maximum
-OL,10,FTemperature 9C.
-OL,11,
-OL,12,CTonight:FHeavy spells of rain
-OL,13,Fcontinuing for a time before petering
-OL,14,Fout towards dawn. Often windy,
-OL,15,Fparticularly around hills and coasts.
-OL,16,FChilly. Minimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FHeavy spells
+OL,6,Fof rain continuing for a time before
+OL,7,Fpetering out towards dawn. Likely a
+OL,8,Fmurky morning with some low cloud,
+OL,9,Fhill fog and drizzly spells. Often
+OL,10,Fwindy, particularly around hills and
+OL,11,Fcoasts. Chilly. Minimum Temperature 5C.
+OL,12,
+OL,13,CSaturday:FOften cloudy with some spots
+OL,14,Fof rain and drizzle first thing.
+OL,15,FPerhaps some brighter spells later.
+OL,16,FStrong, gusty winds easing though
+OL,17,Fstill fairly breezy in the afternoon.
+OL,18,FFeeling cold. Maximum Temperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -26,23 +28,17 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763106738
+OL,0,        ECIMSBWebfax 2   F125A1763146487
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CSaturday:FOften cloudy with some spots
-OL,6,Fof rain and drizzle first thing.
-OL,7,FPerhaps some brighter spells later.
-OL,8,FStrong, gusty winds easing though
-OL,9,Fstill fairly breezy in the afternoon.
-OL,10,FFeeling cold. Maximum Temperature 9C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FBrighter
-OL,13,Ffrom Sunday but notably colder in
-OL,14,Fnortherly winds, with overnight frosts
-OL,15,Fpossible. Perhaps turning cloudier on
-OL,16,FTuesday with a risk of some rain.
+OL,5,COutlook for Sunday to Tuesday:FMore
+OL,6,Fsunshine from Sunday but notably
+OL,7,Fcolder in northerly winds, with
+OL,8,Fovernight frosts. A chance of showers
+OL,9,Faround exposed coasts and hills, these
+OL,10,Fmay turn wintry.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
