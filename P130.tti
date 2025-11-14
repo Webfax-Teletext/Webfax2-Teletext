@@ -2,27 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1763088687
+OL,0,        ECIMSBWebfax 2   F130A1763142877
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FOutbreaks of rain heavy in
-OL,6,Fplaces, most persistent toward the
-OL,7,Fnorth. Occasional drier interludes may
-OL,8,Fdevelop later for some southern
-OL,9,Fcounties. However heavy, perhaps
-OL,10,Fthundery showers may follow from the
-OL,11,Fsouth towards evening. Strong winds in
-OL,12,Fplaces. Temperatures remaining mild.
-OL,13,FMaximum Temperature 15C.
-OL,14,
-OL,15,CTonight:FOutbreaks of rain gradually
-OL,16,Fbecoming confined to the far north.
-OL,17,FTurning drier elsewhere but areas of
-OL,18,Flow cloud, mist and fog developing as
-OL,19,Fwinds become lighter. Minimum
-OL,20,FTemperature 10C.
+OL,5,CThis Evening and Tonight:FOutbreaks of
+OL,6,Fheavy rain or showers moving northward
+OL,7,Fthis evening. Turning drier for most
+OL,8,Fovernight as winds fall light, but
+OL,9,Fareas of low cloud, mist and fog
+OL,10,Fdeveloping through the early hours.
+OL,11,FMinimum Temperature 10C.
+OL,12,
+OL,13,CSaturday:FA murky start, with areas of
+OL,14,Flow cloud, mist or fog. Cloud slowly
+OL,15,Flifting, with some sunny intervals
+OL,16,Fthrough the day, before cloud and
+OL,17,Foutbreaks of rain sink south
+OL,18,Fovernight. Maximum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -30,24 +28,18 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1763088687
+OL,0,        ECIMSBWebfax 2   F130A1763142877
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CSaturday:FSaturday, murky start in
-OL,6,Fmany places with areas of low cloud,
-OL,7,Fmist or fog. Cloud slowly lifting,
-OL,8,Fwith some breaks in the south.
-OL,9,FGenerally drier, patchy rain in far
-OL,10,Fnorth. Maximum Temperature 14C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FSunday,
-OL,13,Fcloud and patchy rain clearing south.
-OL,14,FLargely dry and bright thereafter, but
-OL,15,Fcolder with an increasing chance of
-OL,16,Fovernight frost. Brisk winds gradually
-OL,17,Feasing.
+OL,5,COutlook for Sunday to Tuesday:FSunday,
+OL,6,Fcloud and patchy rain slowly clearing
+OL,7,Fsouth. Largely dry and bright
+OL,8,Fthereafter, but colder with an
+OL,9,Fincreasing chance of overnight frost.
+OL,10,FBreezy at times, especially toward
+OL,11,FKent coasts.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
