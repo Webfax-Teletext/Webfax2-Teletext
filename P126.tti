@@ -2,27 +2,23 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1763052565
+OL,0,        ECIMSBWebfax 2   F126A1763085077
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud and
-OL,6,Foccasional light rain and showers
-OL,7,Fmoving southwards, becoming
-OL,8,Fincreasingly confined to east-facing
-OL,9,Fhills. A brisk and gusty easterly
-OL,10,Fbreeze developing, giving a chilly
-OL,11,Ffeel to the night. Minimum Temperature
-OL,12,F6C.
-OL,13,
-OL,14,CFriday:FFurther rain, heavy and
-OL,15,Fpersistent, slowly moving northwards
-OL,16,Fthrough the day to probably affect
-OL,17,Fmost parts. The heaviest rain likely
-OL,18,Fon east-facing hills. A strong, cold
-OL,19,Fand gusty east wind Maximum
-OL,20,FTemperature 9C.
+OL,5,CToday:FRain, heavy and persistent,
+OL,6,Fslowly moving northwards through the
+OL,7,Fday to probably affect most parts. The
+OL,8,Fheaviest rain likely on east-facing
+OL,9,Fhills. A strong, cold and gusty east
+OL,10,Fwind Maximum Temperature 9C.
+OL,11,
+OL,12,CTonight:FA wet night for most places,
+OL,13,Fwith the heaviest rain on east-facing
+OL,14,Fhills. Strong and gusty winds
+OL,15,Fcontinue, and feeling cold. Minimum
+OL,16,FTemperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -30,17 +26,23 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1763052565
+OL,0,        ECIMSBWebfax 2   F126A1763085077
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Saturday to Monday:FFurther
-OL,6,Fheavy into early Saturday, gradually
-OL,7,Feasing from the north. Feeling cold,
-OL,8,Fwith a strong and gusty easterly wind.
-OL,9,FDrier and brighter Sunday and Monday.
-OL,10,FWinds gradually easing, feeling chilly.
+OL,5,CSaturday:FFurther heavy rain into
+OL,6,Fearly Saturday, the rain gradually
+OL,7,Fbecoming lighter and more intermittent
+OL,8,Fduring the day. Feeling cold, with a
+OL,9,Fstrong and gusty easterly wind.
+OL,10,FMaximum Temperature 9C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FBecoming
+OL,13,Fmostly dry and much brighter, but
+OL,14,Fcolder with an increasing chance of
+OL,15,Fovernight frost. Breezy at times with
+OL,16,Fa few coastal showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
