@@ -2,24 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1763099519
+OL,0,        ECIMSBWebfax 2   F132A1763139268
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FA cloudy start with patchy
-OL,6,Frain, mainly in county Down, but
-OL,7,Fbecoming dry and bright through the
-OL,8,Fday with a few sunny spells. Strong
-OL,9,Fnortheast winds, gales along the Down
-OL,10,Fcoast. Maximum Temperature 9C.
-OL,11,
-OL,12,CTonight:FDry to start, but becoming
-OL,13,Fovercast through the evening with some
-OL,14,Fmostly light rain spreading into the
-OL,15,Fsoutheast. Strong east to northeast
-OL,16,Fwinds continue, gales along the Down
-OL,17,Fcoast. Minimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FDry to
+OL,6,Fstart, but becoming overcast through
+OL,7,Fthe evening with some mostly light
+OL,8,Frain spreading into the southeast.
+OL,9,FStrong east to northeast winds
+OL,10,Fcontinue, gales along the Down coast.
+OL,11,FMinimum Temperature 5C.
+OL,12,
+OL,13,CSaturday:FIt will start off windy with
+OL,14,Foutbreaks of rain in the morning.
+OL,15,FWinds will ease and it will become
+OL,16,Fdrier through the day, but staying
+OL,17,Fcloudy. Maximum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,21 +27,15 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1763099519
+OL,0,        ECIMSBWebfax 2   F132A1763139268
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CSaturday:FIt will start off windy with
-OL,6,Foutbreaks of rain in the morning.
-OL,7,FWinds will ease and it will become
-OL,8,Fdrier through the day, but staying
-OL,9,Fcloudy. Maximum Temperature 11C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FMainly
-OL,12,Fdry and bright on Sunday with a frost
-OL,13,Fpossible at night. A scattering of
-OL,14,Fshowers on Monday and Tuesday.
+OL,5,COutlook for Sunday to Tuesday:FMainly
+OL,6,Fdry and bright on Sunday with a frost
+OL,7,Fpossible at night. A scattering of
+OL,8,Fshowers on Monday and Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100

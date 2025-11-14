@@ -1,48 +1,29 @@
-PN,12801
-SC,0001
+PN,12800
+SC,0000
 CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1763099519
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8008
+OL,0,        ECIMSBWebfax 2   F128A1763139269
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CToday:FStorm Claudia a wet and windy
-OL,6,Fday. Rain turning persistent and heavy
-OL,7,Ffor all, leading to a risk of flooding
-OL,8,Fand challenging driving conditions.
-OL,9,FVery windy too, with gales possible
-OL,10,Fover the hills. Feeling cold. Maximum
-OL,11,FTemperature 10C.
-OL,12,
-OL,13,CTonight:FThe wind and rain continuing
-OL,14,Ffor much of the night though heavier
-OL,15,Fspells of rain easing by the morning.
-OL,16,FA chilly night ahead. Minimum
-OL,17,FTemperature 5C.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page BWeatherCReg Sport FNat Radio
-FL,129,120,301,200,000,100
-PN,12802
-SC,0002
-CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1763099519
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GWest Midlands
-OL,4,
-OL,5,CSaturday:FSpots of rain to start but
-OL,6,Fturning drier later. Often cloudy.
-OL,7,FWindy to start though any strong,
-OL,8,Fgusty winds easing. Another cold day.
-OL,9,FMaximum Temperature 10C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FBrighter
-OL,12,Ffrom Sunday but notably colder in
-OL,13,Fnortherly winds, with overnight frosts
-OL,14,Fpossible. A chance of more cloud
-OL,15,Faround on Tuesday.
+OL,5,CThis Evening and Tonight:FThe wind and
+OL,6,Frain continuing for much of the night
+OL,7,Fthough heavier spells of rain easing
+OL,8,Fby the morning. Often windy,
+OL,9,Fparticularly around hills. A chilly
+OL,10,Fnight ahead. Minimum Temperature 5C.
+OL,11,
+OL,12,CSaturday:FSpots of rain to start but
+OL,13,Fturning drier later. Often cloudy.
+OL,14,FWindy to start though any strong,
+OL,15,Fgusty winds easing. Another cold day.
+OL,16,FMaximum Temperature 10C.
+OL,17,
+OL,18,COutlook for Sunday to Tuesday:FCloud
+OL,19,Fclearing to some sunshine from Sunday
+OL,20,Fbut feeling notably colder in
+OL,21,Fnortherly winds, with overnight frosts.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
