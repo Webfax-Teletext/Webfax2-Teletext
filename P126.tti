@@ -2,26 +2,25 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1763200652
+OL,0,        ECIMSBWebfax 2   F126A1763233136
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CToday:FHill fog and rain, locally
-OL,6,Fheavy, at first. Through today the
-OL,7,Frain gradually becomes lighter and
-OL,8,Fmore intermittent, but cloudy
-OL,9,Fconditions persist. Windy in places,
-OL,10,Fespecially over high ground and along
-OL,11,Fthe coast. Feeling chilly with the
-OL,12,Feasterly wind. Maximum Temperature 9C.
-OL,13,
-OL,14,CTonight:FStarting cloudy with patchy
-OL,15,Flight rain. Overnight mostly dry and
-OL,16,Fconditions with broken cloud and clear
-OL,17,Fperiods will gradually spread south.
-OL,18,FBecoming colder than recent nights.
-OL,19,FMinimum Temperature 2C.
+OL,5,CThis Evening and Tonight:FStarting
+OL,6,Fcloudy with patchy light rain.
+OL,7,FOvernight mostly dry with cloud
+OL,8,Fbreaking at times to allow a few
+OL,9,Fclearer spells. Feeling colder than
+OL,10,Frecent nights in brisk winds. Minimum
+OL,11,FTemperature 2C.
+OL,12,
+OL,13,CSunday:FLargely dry with bright or
+OL,14,Fsunny spells and some areas of cloud,.
+OL,15,FIsolated light showers are possible by
+OL,16,Fthe afternoon. Feeling cold with
+OL,17,Ftemperatures slightly below average.
+OL,18,FMaximum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -29,25 +28,18 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1763200652
+OL,0,        ECIMSBWebfax 2   F126A1763233136
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CSunday:FLargely dry with bright or
-OL,6,Fsunny spells and patchy cloud,
-OL,7,Falthough isolated light coastal
-OL,8,Fshowers will arrive. Feeling cold with
-OL,9,Ftemperatures slightly below average.
-OL,10,FMaximum Temperature 8C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FMonday
-OL,13,Fsunshine and scattered coastal
-OL,14,Fshowers. Tuesday cloudy conditions
-OL,15,Fwith rain may arrive, risk of hill
-OL,16,Fsleet or snow. Wednesday wintry
-OL,17,Fshowers, sometimes heavy. Generally
-OL,18,Fcold with some overnight frosts.
+OL,5,COutlook for Monday to Wednesday:FMonday
+OL,6,Fsunshine and scattered coastal
+OL,7,Fshowers. Tuesday cloudy conditions
+OL,8,Fwith rain may arrive, risk of hill
+OL,9,Fsleet or snow. Wednesday wintry
+OL,10,Fshowers, sometimes heavy. Generally
+OL,11,Fcold with some overnight frosts.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
