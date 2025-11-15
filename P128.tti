@@ -1,29 +1,48 @@
-PN,12800
-SC,0000
+PN,12801
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F128A1763139269
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F128A1763189823
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FThe wind and
-OL,6,Frain continuing for much of the night
-OL,7,Fthough heavier spells of rain easing
-OL,8,Fby the morning. Often windy,
-OL,9,Fparticularly around hills. A chilly
-OL,10,Fnight ahead. Minimum Temperature 5C.
-OL,11,
-OL,12,CSaturday:FSpots of rain to start but
-OL,13,Fturning drier later. Often cloudy.
-OL,14,FWindy to start though any strong,
-OL,15,Fgusty winds easing. Another cold day.
-OL,16,FMaximum Temperature 10C.
-OL,17,
-OL,18,COutlook for Sunday to Tuesday:FCloud
-OL,19,Fclearing to some sunshine from Sunday
-OL,20,Fbut feeling notably colder in
-OL,21,Fnortherly winds, with overnight frosts.
+OL,5,CToday:FA murky start with spots of
+OL,6,Frain and drizzle. Turning drier but it
+OL,7,Fis likely to remain cloudy through
+OL,8,Fmuch of the day. Windy to start though
+OL,9,Fany strong, gusty winds easing.
+OL,10,FFeeling cold under cloudy skies.
+OL,11,FMaximum Temperature 11C.
+OL,12,
+OL,13,CTonight:FLots of cloud sticking around
+OL,14,Fthrough this evening and overnight.
+OL,15,FThis could bring some spots of
+OL,16,Fdrizzle. Otherwise light winds and
+OL,17,Ffeeling chilly. Minimum Temperature 5C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,129,120,301,200,000,100
+PN,12802
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F128A1763189823
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GWest Midlands
+OL,4,
+OL,5,CSunday:FCloud clearing through Sunday
+OL,6,Fmorning allowing some sunny spells
+OL,7,Finto the afternoon but it will feel
+OL,8,Fnotably colder, with a touch of frost
+OL,9,Fovernight. Maximum Temperature 10C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:FInto
+OL,12,Fthe new week it will continue to feel
+OL,13,Fcold, particularly in brisk winds.
+OL,14,FOvernight frosts are likely with a
+OL,15,Fchance of some showers on Wednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
