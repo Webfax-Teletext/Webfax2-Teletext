@@ -1,7 +1,7 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
@@ -19,24 +19,23 @@ OL,14,     GA review of the week with the
 OL,15,     Glatest news.
 OL,16,G0900FBBC News
 OL,17,G0906FBBC OS Conversations
-OL,18,     GHow major news stories are
-OL,19,     Gaffecting the lives of people
-OL,20,     Garound the world.
-OL,21,G0930FBBC News Summary
+OL,18,     GCouples share their experiences
+OL,19,     Gof religion and romance.
+OL,20,G0930FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
 OL,4,G0932FAmericast
-OL,5,     GJoin Americast for insights and
-OL,6,     Ganalysis on what's happening
-OL,7,     Ginside Trump's White House.
+OL,5,     GThe growing questions from
+OL,6,     GRepublicans on how Trump is
+OL,7,     Grunning the country.
 OL,8,G1000FBBC News
 OL,9,G1006FNot by the Playbook
 OL,10,     GHow do you develop a clutch
@@ -55,7 +54,7 @@ FL,242,200,150,300,000,100
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
@@ -83,7 +82,7 @@ FL,242,200,150,300,000,100
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
@@ -107,7 +106,7 @@ FL,242,200,150,300,000,100
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
@@ -125,158 +124,169 @@ OL,14,     Gforce millions from their homes.
 OL,15,     GIs the world prepared?
 OL,16,G1930FBBC News Summary
 OL,17,G1932FHappy News
-OL,18,     GPositive news stories.
-OL,19,G2000FBBC News
-OL,20,G2006FThe Arts Hour
-OL,21,     GThe best global arts coverage
-OL,22,     Gfrom across the BBC.
+OL,18,     GA woman who saved a drowning
+OL,19,     Gkayaker says she finds it hard to
+OL,20,     Gbelieve he survived, and
+OL,21,     Gattending his wedding was a
+OL,22,     Gprivilege.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
-OL,4,G2100FBBC News
-OL,5,G2106FNewshour
-OL,6,     GInterviews, news and analysis of
-OL,7,     Gthe day's global events.
-OL,8,G2200FBBC News
-OL,9,G2206FThe Newsroom
-OL,10,     GThe world's Newsroom brings you
-OL,11,     Gglobal events as they happen.
-OL,12,G2230FBBC News Summary
-OL,13,G2232FThis Is Africa
-OL,14,     GMiss Jobizz is one of the
-OL,15,     GGambia's most successful female
-OL,16,     Gartists, but has had to contend
-OL,17,     Gwith a music establishment that
-OL,18,     Ghas only just begun to take women
-OL,19,     Gseriously.
-OL,20,G2300FBBC News
+OL,4,G2000FBBC News
+OL,5,G2006FThe Arts Hour
+OL,6,     GNikki Bedi talks to Ayobami
+OL,7,     GAdebayo and Chris Power, two of
+OL,8,     Gthe judges on this year's Booker
+OL,9,     GPrize for Fiction and we hear
+OL,10,     Gfrom all of the shortlisted
+OL,11,     Gauthors.
+OL,12,G2100FBBC News
+OL,13,G2106FNewshour
+OL,14,     GInterviews, news and analysis of
+OL,15,     Gthe day's global events.
+OL,16,G2200FBBC News
+OL,17,G2206FThe Newsroom
+OL,18,     GThe world's Newsroom brings you
+OL,19,     Gglobal events as they happen.
+OL,20,G2230FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
+OL,26,@nD@^rpoD@HrroD@Jrp
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
-OL,4,G2306FNot by the Playbook
-OL,5,     GHow do you develop a clutch
-OL,6,     Gmentality which enables you to
-OL,7,     Gexecute your best performance
-OL,8,     Gwhen it really matters, when the
-OL,9,     Gpressure is really on?
-OL,10,G0000FBBC News
-OL,11,G0006FBBC OS Conversations
-OL,12,     GHow major news stories are
-OL,13,     Gaffecting the lives of people
-OL,14,     Garound the world.
-OL,15,G0030FBBC News Summary
-OL,16,G0032FThe Documentary
-OL,17,     GA huge gas find reignites old
-OL,18,     Gdebates over Bolivia's energy and
-OL,19,     Genvironmental future.
-OL,20,G0100FBBC News
+OL,4,G2232FThis Is Africa
+OL,5,     GMiss Jobizz is one of the
+OL,6,     GGambia's most successful female
+OL,7,     Gartists, but has had to contend
+OL,8,     Gwith a music establishment that
+OL,9,     Ghas only just begun to take women
+OL,10,     Gseriously.
+OL,11,G2300FBBC News
+OL,12,G2306FNot by the Playbook
+OL,13,     GHow do you develop a clutch
+OL,14,     Gmentality which enables you to
+OL,15,     Gexecute your best performance
+OL,16,     Gwhen it really matters, when the
+OL,17,     Gpressure is really on?
+OL,18,G0000FBBC News
+OL,19,G0006FBBC OS Conversations
+OL,20,     GCouples share their experiences
+OL,21,     Gof religion and romance.
+OL,22,G0030FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
-OL,4,G0106FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G0130FBBC News Summary
-OL,8,G0132FDear Daughter
-OL,9,     GPaola's daughter Cami died aged
-OL,10,     G15. How can Paola grieve while
-OL,11,     Galso remembering the joy Cami
-OL,12,     Gbrought to their lives?
-OL,13,G0150FSporting Witness
-OL,14,     GHow a NBA game between the
-OL,15,     GIndiana Pacers and Detroit
-OL,16,     GPistons became one of the most
-OL,17,     Ginfamous brawls in sports. What
-OL,18,     Gbegan as a foul escalated as
-OL,19,     Gplayers clashed with fans.
-OL,20,G0200FBBC News
+OL,4,G0032FThe Documentary
+OL,5,     GA huge gas find reignites old
+OL,6,     Gdebates over Bolivia's energy and
+OL,7,     Genvironmental future.
+OL,8,G0100FBBC News
+OL,9,G0106FThe Newsroom
+OL,10,     GThe world's Newsroom brings you
+OL,11,     Gglobal events as they happen.
+OL,12,G0130FBBC News Summary
+OL,13,G0132FDear Daughter
+OL,14,     GPaola's daughter Cami died aged
+OL,15,     G15. How can Paola grieve while
+OL,16,     Galso remembering the joy Cami
+OL,17,     Gbrought to their lives?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
-OL,4,G0206FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G0230FBBC News Summary
-OL,8,G0232FHealth Check
-OL,9,     GWhy are measles cases continuing
-OL,10,     Gto spread in North America and
-OL,11,     Gbeyond?
-OL,12,G0300FBBC News
-OL,13,G0306FThe Documentary
-OL,14,     GThe Kazakhs who came through one
-OL,15,     Gof the worst man-made famines the
-OL,16,     Gworld has seen. Contains some
-OL,17,     Gscenes which some viewers may
-OL,18,     Gfind upsetting.
-OL,19,G0400FBBC News
+OL,4,G0150FSporting Witness
+OL,5,     GHow a NBA game between the
+OL,6,     GIndiana Pacers and Detroit
+OL,7,     GPistons became one of the most
+OL,8,     Ginfamous brawls in sports. What
+OL,9,     Gbegan as a foul escalated as
+OL,10,     Gplayers clashed with fans.
+OL,11,G0200FBBC News
+OL,12,G0206FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G0230FBBC News Summary
+OL,16,G0232FHealth Check
+OL,17,     GWhy are measles cases continuing
+OL,18,     Gto spread in North America and
+OL,19,     Gbeyond?
+OL,20,G0300FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
-OL,4,G0406FFrom Our Own Correspondent
-OL,5,     GInsight, wit and analysis from
-OL,6,     GBBC correspondents, journalists
-OL,7,     Gand writers from around the world.
-OL,8,G0430FBBC News Summary
-OL,9,G0432FUnspun World with John Simpson
-OL,10,     GJohn Simpson analyses why Russia
-OL,11,     Gis so keen to capture the
-OL,12,     GUkrainian city of Pokrovsk, and
-OL,13,     Gexplores how difficult it will be
-OL,14,     Gto rebuild Gaza.
-OL,15,G0500FBBC News
-OL,16,G0506FThe Newsroom
-OL,17,     GThe world's Newsroom brings you
-OL,18,     Gglobal events as they happen.
-OL,19,G0530FBBC News Summary
+OL,4,G0306FThe Documentary
+OL,5,     GThe Kazakhs who came through one
+OL,6,     Gof the worst man-made famines the
+OL,7,     Gworld has seen. Contains some
+OL,8,     Gscenes which some viewers may
+OL,9,     Gfind upsetting.
+OL,10,G0400FBBC News
+OL,11,G0406FFrom Our Own Correspondent
+OL,12,     GIS ideology still has a firm grip
+OL,13,     Gin the camps for former fighters'
+OL,14,     Gfamilies; the violence
+OL,15,     Gsurrounding Tanzania's election;
+OL,16,     Ghow the Philippines deals with
+OL,17,     Gnatural disasters.
+OL,18,G0430FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24111
 SC,0011
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763103130
+OL,0,        ECIMSBWebfax 2   F241A1763182603
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/11
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 15 NOV
-OL,4,G0532FThe Documentary
-OL,5,     GA huge gas find reignites old
-OL,6,     Gdebates over Bolivia's energy and
-OL,7,     Genvironmental future.
+OL,4,G0432FUnspun World with John Simpson
+OL,5,     GJohn Simpson analyses why Russia
+OL,6,     Gis so keen to capture the
+OL,7,     GUkrainian city of Pokrovsk, and
+OL,8,     Gexplores how difficult it will be
+OL,9,     Gto rebuild Gaza.
+OL,10,G0500FBBC News
+OL,11,G0506FThe Newsroom
+OL,12,     GThe world's Newsroom brings you
+OL,13,     Gglobal events as they happen.
+OL,14,G0530FBBC News Summary
+OL,15,G0532FThe Documentary
+OL,16,     GA huge gas find reignites old
+OL,17,     Gdebates over Bolivia's energy and
+OL,18,     Genvironmental future.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
