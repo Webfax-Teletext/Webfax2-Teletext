@@ -2,25 +2,26 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1763189823
+OL,0,        ECIMSBWebfax 2   F129A1763240350
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FGenerally overcast and dull
-OL,6,Fwith patchy light rain. However, some
-OL,7,Fdrier spells will develop, these
-OL,8,Fespecially this afternoon. Light winds
-OL,9,Finland, breezy along the coast, with
-OL,10,Ftemperatures close to average. Maximum
-OL,11,FTemperature 11C.
+OL,5,CThis Evening and Tonight:FOvercast
+OL,6,Fwith patchy light rain for most of
+OL,7,FSaturday night. However, drier
+OL,8,Fconditions with broken cloud and
+OL,9,Fclearer spells will gradually spread
+OL,10,Fsouth to reach most northern counties.
+OL,11,FFeeling colder. Minimum Temperature 6C.
 OL,12,
-OL,13,CTonight:FOvercast with patchy light
-OL,14,Frain for most of tonight. However,
-OL,15,Flater dry conditions with broken cloud
-OL,16,Fand clear spells will gradually spread
-OL,17,Fsouth across northern counties.
-OL,18,FMinimum Temperature 6C.
+OL,13,CSunday:FCloudy with patchy light rain
+OL,14,Facross southern areas Sunday morning.
+OL,15,FBrighter conditions further north
+OL,16,Fspreading southwards through the day.
+OL,17,FIsolated light coastal showers might
+OL,18,Ffollow. Feeling cold. Maximum
+OL,19,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,26 +29,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1763189823
+OL,0,        ECIMSBWebfax 2   F129A1763240350
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CSunday:FStarting cloudy with patchy
-OL,6,Flight rain across southern areas, but
-OL,7,Fthe brighter conditions already across
-OL,8,Fnorthern areas will spread south
-OL,9,Fthrough the morning. Isolated light
-OL,10,Fcoastal showers may follow. Colder.
-OL,11,FMaximum Temperature 9C.
-OL,12,
-OL,13,COutlook for Monday to Wednesday:FMonday
-OL,14,Fand Tuesday mainly dry with sunny
-OL,15,Fperiods. Tuesday night outbreaks of
-OL,16,Frain may arrive and gradually clear
-OL,17,FWednesday, scattered showers follow.
-OL,18,FRather cold or cold with some
-OL,19,Fovernight frosts.
+OL,5,COutlook for Monday to Wednesday:FMonday
+OL,6,Fand Tuesday mainly dry with sunny
+OL,7,Fspells. Tuesday night outbreaks of
+OL,8,Frain may arrive and gradually clear
+OL,9,FWednesday, scattered showers follow.
+OL,10,FRather cold or cold with some
+OL,11,Fovernight frosts.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
