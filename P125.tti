@@ -2,25 +2,27 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763352306
+OL,0,        ECIMSBWebfax 2   F125A1763406455
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FAfter a frosty start, today
-OL,6,Fwill be dry and mostly sunny with just
-OL,7,Fsmall amounts of fair weather cloud at
-OL,8,Ftimes. Feeling chilly despite the
-OL,9,Fincreasingly light northerly breeze.
-OL,10,FMaximum Temperature 6C.
-OL,11,
-OL,12,CTonight:FQuickly turning cold this
-OL,13,Fevening under clear and starry skies,
-OL,14,Fwith a frost developing after dark.
-OL,15,FBecoming cloudier through the early
-OL,16,Fhours with a few showers and
-OL,17,Ftemperatures recovering slightly.
-OL,18,FMinimum Temperature -2C.
+OL,5,CThis Evening and Tonight:FTurning cold
+OL,6,Fthis evening under clear and starry
+OL,7,Fskies, with a frost developing after
+OL,8,Fdark. Becoming cloudier through the
+OL,9,Fearly hours with a few showers, some
+OL,10,Fcould be wintry across higher ground
+OL,11,Fand temperatures recovering slightly
+OL,12,Fafter an early dip. Minimum
+OL,13,FTemperature -2C.
+OL,14,
+OL,15,CTuesday:FA much cloudier day with
+OL,16,Fshowery outbreaks of rain developing,
+OL,17,Fbecoming heavy in places. Perhaps some
+OL,18,Fsleet or snow over the highest ground
+OL,19,Fat times. Turning increasingly windy.
+OL,20,FFeeling chilly. Maximum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,24 +30,17 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763352306
+OL,0,        ECIMSBWebfax 2   F125A1763406455
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CTuesday:FA much cloudier day with
-OL,6,Fshowery outbreaks of rain developing,
-OL,7,Fbecoming heavy in places. Perhaps some
-OL,8,Fsleet or snow over the highest ground
-OL,9,Fat times. Turning increasingly windy.
-OL,10,FFeeling chilly. Maximum Temperature 8C.
-OL,11,
-OL,12,COutlook for Wednesday to Friday:FWindy
-OL,13,Fwith wintry showers falling as snow in
-OL,14,Fplaces on Wednesday. Largely fine
-OL,15,Fthereafter with sunny spells but rain
-OL,16,Fpossible Friday night. Much colder
-OL,17,Fwith overnight frost and ice.
+OL,5,COutlook for Wednesday to Friday:FWindy
+OL,6,Fwith wintry showers falling as snow in
+OL,7,Fplaces on Wednesday. Largely fine
+OL,8,Fthereafter with sunny spells but rain
+OL,9,Fpossible Friday night. Much colder
+OL,10,Fwith overnight frost and ice.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
