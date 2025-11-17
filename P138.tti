@@ -2,24 +2,25 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1763359523
+OL,0,        ECIMSBWebfax 2   F138A1763413674
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FThe morning will be bright and
-OL,6,Ffrosty for many and the day will
-OL,7,Fcontinue dry with bright or sunny
-OL,8,Fspells. Cloud will build south but the
-OL,9,Fafternoon will stay dry. Maximum
-OL,10,FTemperature 6C.
-OL,11,
-OL,12,CTonight:FThe evening will be cloudy
-OL,13,Fbut dry with increasing cloud.
-OL,14,FOutbreaks of rain will spread east
-OL,15,Flater, falling as sleet to low levels
-OL,16,Fand snow over higher ground. Minimum
-OL,17,FTemperature -1C.
+OL,5,CThis Evening and Tonight:FDry with
+OL,6,Fclear spells for most this evening,
+OL,7,Fbut scattered showers across the
+OL,8,FIsles. Cloud increases overnight with
+OL,9,Foutbreaks of rain and sleet, snow over
+OL,10,Fhigher ground, spreading east in the
+OL,11,Fearly hours. Minimum Temperature -1C.
+OL,12,
+OL,13,CTuesday:FOutbreaks of rain will
+OL,14,Fcontinue through the day, often
+OL,15,Ffalling as sleet to low levels and
+OL,16,Fsnow over higher ground. This will
+OL,17,Fturn to snow showers in the evening.
+OL,18,FMaximum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,23 +28,17 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1763359523
+OL,0,        ECIMSBWebfax 2   F138A1763413674
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CTuesday:FRain will continue to spread
-OL,6,Feast, falling as sleet to low levels
-OL,7,Fand snow over higher ground. This will
-OL,8,Fturn to frequent snow showers later.
-OL,9,FMaximum Temperature 6C.
-OL,10,
-OL,11,COutlook for Wednesday to Friday:FSnow
-OL,12,Fshowers will continue in the northwest
-OL,13,Fas most places become cold and dry
-OL,14,Ffrom Wednesday. These showers will
-OL,15,Fclear Thursday before snow spreads to
-OL,16,Fwestern parts late Friday.
+OL,5,COutlook for Wednesday to Friday:FCold,
+OL,6,Fwith most places dry and sunny, but
+OL,7,Fwintry showers across the Isles on
+OL,8,FWednesday and early Thursday. Then dry
+OL,9,Fbefore rain and snow spreads east late
+OL,10,FFriday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
