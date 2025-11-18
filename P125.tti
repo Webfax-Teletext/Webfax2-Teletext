@@ -2,26 +2,28 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763438930
+OL,0,        ECIMSBWebfax 2   F125A1763493070
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FA cloudy start to the day with
-OL,6,Fshowery outbreaks of rain developing,
-OL,7,Fbecoming heavy in places. Perhaps some
-OL,8,Fsleet or snow, with icy patches over
-OL,9,Fthe highest ground at times. Turning
-OL,10,Frather windy which will make it feel
-OL,11,Fcold. Maximum Temperature 7C.
-OL,12,
-OL,13,CTonight:FShowers continuing overnight
-OL,14,Fwith a greater risk of some snow,
-OL,15,Fespecially in the north and over
-OL,16,Fhigher ground. Winds staying gusty,
-OL,17,Fespecially around coasts but frost
-OL,18,Flikely in rural spots. Minimum
-OL,19,FTemperature -1C.
+OL,5,CThis Evening and Tonight:FCloudy
+OL,6,Fovernight with outbreaks of rain,
+OL,7,Fsleet and hill snow pushing across the
+OL,8,Fregion. Skies clearing later, allowing
+OL,9,Ftemperatures to fall below freezing
+OL,10,Fand resulting in icy stretches on
+OL,11,Funtreated surfaces. Coastal gales
+OL,12,Fpossible for a time. Minimum
+OL,13,FTemperature -3C.
+OL,14,
+OL,15,CWednesday:FAny remaining cloud
+OL,16,Fclearing first thing, leaving the
+OL,17,Fregion with a largely dry and sunny
+OL,18,Fday. Feeling cold despite this,
+OL,19,Fparticularly when exposed to the brisk
+OL,20,Fnortherly winds. Maximum Temperature
+OL,21,F5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -29,24 +31,17 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763438930
+OL,0,        ECIMSBWebfax 2   F125A1763493070
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CWednesday:FSome cloud and the odd
-OL,6,Fwintry shower over hills inland during
-OL,7,Fthe morning, but for many, bright
-OL,8,Fsunny spells expected. Brisk northerly
-OL,9,Fwinds which will make it feel rather
-OL,10,Fcold. Maximum Temperature 6C.
-OL,11,
-OL,12,COutlook for Thursday to Saturday:
-OL,13,FStaying mostly dry but cold for the
-OL,14,Frest of the week with sunny spells. A
-OL,15,Fchange this weekend as wind and rain
-OL,16,Fmoves in allowing temperatures to
-OL,17,Fincrease towards average.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FStaying mostly dry but cold for
+OL,7,FThursday and Friday with sunny spells.
+OL,8,FA change this weekend as rain moves
+OL,9,Fin, allowing temperatures to increase
+OL,10,Ftowards average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
