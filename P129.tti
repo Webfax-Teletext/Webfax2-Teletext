@@ -2,24 +2,23 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1763410064
+OL,0,        ECIMSBWebfax 2   F129A1763442539
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FCoastal
-OL,6,Fshowers easing to leave a dry, clear
-OL,7,Fand cold night with strong winds
-OL,8,Feasing. A frost possible very locally
-OL,9,Fby the morning, most likely in rural
-OL,10,Fwestern areas. Minimum Temperature 1C.
+OL,5,CToday:FCloudy at times through the
+OL,6,Fmorning after a cold start, but likely
+OL,7,Fdry. Brighter for a time during the
+OL,8,Fafternoon, then cloud and patchy rain
+OL,9,Fspreads southeast towards the evening.
+OL,10,FMaximum Temperature 7C.
 OL,11,
-OL,12,CTuesday:FVariable cloud through the
-OL,13,Fmorning after a chilly start, but
-OL,14,Flikely dry. Brighter for a time during
-OL,15,Fthe afternoon, then cloud and patchy
-OL,16,Frain spreads southeast towards the
-OL,17,Fevening. Maximum Temperature 7C.
+OL,12,CTonight:FRain persisting on and off
+OL,13,Fthrough the evening and overnight for
+OL,14,Fmany. Feeling increasingly cold with
+OL,15,Fstrengthening northerly winds by dawn.
+OL,16,FMinimum Temperature 2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -27,18 +26,26 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1763410064
+OL,0,        ECIMSBWebfax 2   F129A1763442539
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FAreas
-OL,6,Fof rain clearing southeast on
-OL,7,FWednesday with strong winds
-OL,8,Fdeveloping. Cold and bright Thursday
-OL,9,Fand Friday, overnight inland frosts
-OL,10,Fand scattered scattered wintry showers
-OL,11,Fnear the coast. Winds easing.
+OL,5,CWednesday:FOvernight rain clearing to
+OL,6,Fleave a cold and windy day with
+OL,7,Fincreasingly wintry showers running
+OL,8,Fdown the east coast. Brighter
+OL,9,Felsewhere but still feeling very cold
+OL,10,Fwith strong northerly winds. Maximum
+OL,11,FTemperature 6C.
+OL,12,
+OL,13,COutlook for Thursday to Saturday:
+OL,14,FStaying cold and windy Thursday with
+OL,15,Fcontinued wintry showers in the east.
+OL,16,FVery cold overnight into Friday but
+OL,17,Fdrier. Rain overnight into Saturday
+OL,18,Fbringing more unsettled but generally
+OL,19,Fmilder conditions.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
