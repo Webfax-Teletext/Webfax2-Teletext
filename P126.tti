@@ -2,25 +2,25 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1763449754
+OL,0,        ECIMSBWebfax 2   F126A1763504920
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CToday:FA cold start with a widespread
-OL,6,Ffrost. Cloud thickening towards dawn,
-OL,7,Fbringing outbreaks of rain into the
-OL,8,Fmorning. Rain persisting on and off
-OL,9,Fthrough the day, likely turning to
-OL,10,Fsleet or snow for some upland areas.
-OL,11,FFeeling cold. Maximum Temperature 6C.
-OL,12,
-OL,13,CTonight:FRain and some hill snow
-OL,14,Fpersisting on and off through the
-OL,15,Fevening and overnight for many areas.
-OL,16,FFeeling very cold with increasingly
-OL,17,Fstrong northerly winds. Minimum
-OL,18,FTemperature 1C.
+OL,5,CThis Evening and Tonight:FRain and
+OL,6,Fsome hill snow persisting on and off
+OL,7,Fthrough the evening and overnight for
+OL,8,Fmany areas. Feeling very cold with
+OL,9,Fincreasingly strong northerly winds.
+OL,10,FInland frost. Minimum Temperature -1C.
+OL,11,
+OL,12,CWednesday:FOvernight rain clearing to
+OL,13,Fleave a cold and windy day with
+OL,14,Ffrequent wintry showers along the east
+OL,15,Fcoast. Brighter elsewhere but still
+OL,16,Ffeeling very cold with strong
+OL,17,Fnortherly winds. Maximum Temperature
+OL,18,F3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -28,26 +28,18 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1763449754
+OL,0,        ECIMSBWebfax 2   F126A1763504920
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CWednesday:FOvernight rain clearing to
-OL,6,Fleave a cold and windy day with
-OL,7,Ffrequent wintry showers down the east
-OL,8,Fcoast. Brighter elsewhere but still
-OL,9,Ffeeling very cold with strong
-OL,10,Fnortherly winds. Maximum Temperature
-OL,11,F4C.
-OL,12,
-OL,13,COutlook for Thursday to Saturday:
-OL,14,FStaying cold and windy Thursday with
-OL,15,Fcontinued wintry showers in the east.
-OL,16,FVery cold overnight into Friday but
-OL,17,Fdrier. Rain overnight into Saturday
-OL,18,Fbringing more unsettled but generally
-OL,19,Fmilder conditions.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FStaying cold and windy Thursday with
+OL,7,Fcontinued wintry showers in the east.
+OL,8,FVery cold overnight into Friday but
+OL,9,Fdrier. Rain overnight into Saturday
+OL,10,Fbringing more unsettled but generally
+OL,11,Fmilder conditions.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
