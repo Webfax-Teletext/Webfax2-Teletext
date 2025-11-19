@@ -2,24 +2,26 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1763526596
+OL,0,        ECIMSBWebfax 2   F132A1763573516
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FA cold day with sunny spells
-OL,6,Fand scattered rain and sleet showers,
-OL,7,Ffalling as snow over higher ground,
-OL,8,Fand occasionally to lower levels.
-OL,9,FFresh northerly winds. Maximum
-OL,10,FTemperature 4C.
-OL,11,
-OL,12,CTonight:FScattered sleet and snow
-OL,13,Fshowers will continue through the
-OL,14,Fevening and overnight, often falling
-OL,15,Fas rain near the coasts. Fresh
-OL,16,Fnortherly winds. Minimum Temperature
-OL,17,F-2C.
+OL,5,CThis Evening and Tonight:FScattered
+OL,6,Fsleet and snow showers will continue
+OL,7,Fthrough the evening and overnight,
+OL,8,Foften falling as rain near the coasts.
+OL,9,Ffeeling very cold in the fresh
+OL,10,Fnortherly winds. Minimum Temperature
+OL,11,F-2C.
+OL,12,
+OL,13,CThursday:FScattered showers, mainly
+OL,14,Ffalling as rain or sleet to lower
+OL,15,Flevels, will become increasingly
+OL,16,Fisolated through the day with
+OL,17,Fincreasing sunny spells. Largely dry
+OL,18,Fby evening. Winds easing. Maximum
+OL,19,FTemperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,24 +29,16 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1763526596
+OL,0,        ECIMSBWebfax 2   F132A1763573516
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThursday:FScattered showers, mainly
-OL,6,Ffalling as rain or sleet to lower
-OL,7,Flevels, will become increasingly
-OL,8,Fisolated through the day with
-OL,9,Fincreasing sunny spells. Largely dry
-OL,10,Fby evening. Winds easing. Maximum
-OL,11,FTemperature 5C.
-OL,12,
-OL,13,COutlook for Friday to Sunday:FCold dry
-OL,14,Fstart to Friday. Rain and hill snow
-OL,15,Fspread east later. Less cold over the
-OL,16,Fweekend with a mix of dry spells, some
-OL,17,Fshowers or longer spells of rain.
+OL,5,COutlook for Friday to Sunday:FCold dry
+OL,6,Fstart to Friday. Rain and hill snow
+OL,7,Fspread east later. Less cold over the
+OL,8,Fweekend with a mix of dry spells, some
+OL,9,Fshowers or longer spells of rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
