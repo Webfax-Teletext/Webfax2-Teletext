@@ -2,26 +2,28 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1763613211
+OL,0,        ECIMSBWebfax 2   F134A1763663741
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FFrequent rain and sleet showers
-OL,6,Fthrough the day, these will often be
-OL,7,Fheavy and may fall as snow at times.
-OL,8,FStrong and gusty northerly winds.
-OL,9,FShowers and strong winds easing
-OL,10,Ftowards the evening. Cold. Maximum
-OL,11,FTemperature 4C.
-OL,12,
-OL,13,CTonight:FRain and sleet showers
-OL,14,Fgradually dying out through the
-OL,15,Fevening. Overnight will be largely dry
-OL,16,Fwith some clear spells and just the
-OL,17,Fisolated shower possible. Moderate
-OL,18,Fnortherly winds becoming westerly.
-OL,19,FMinimum Temperature -1C.
+OL,5,CThis Evening and Tonight:FRain and
+OL,6,Fsleet showers gradually dying out
+OL,7,Fthrough the evening. Overnight will be
+OL,8,Flargely dry with some clear spells and
+OL,9,Fjust the isolated shower possible.
+OL,10,FCold overnight with a frost or icy
+OL,11,Fpatches forming. Moderate northerly
+OL,12,Fwinds becoming westerly. Minimum
+OL,13,FTemperature -1C.
+OL,14,
+OL,15,CFriday:FMostly dry in the morning with
+OL,16,Fsome brightness and just an isolated
+OL,17,Fshower possible. Cloudy in the
+OL,18,Fafternoon with rain spreading
+OL,19,Feastwards. Southwesterly winds
+OL,20,Fbecoming strong. Less cold than
+OL,21,FThursday. Maximum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -29,25 +31,17 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1763613211
+OL,0,        ECIMSBWebfax 2   F134A1763663741
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CFriday:FMostly dry and cloudy in the
-OL,6,Fmorning with just an isolated shower
-OL,7,Fpossible. Remaining cloudy in the
-OL,8,Fafternoon with rain spreading
-OL,9,Feastwards. Southwesterly winds
-OL,10,Fbecoming strong. Less cold than
-OL,11,FThursday. Maximum Temperature 8C.
-OL,12,
-OL,13,COutlook for Saturday to Monday:FA mix
-OL,14,Fof sunny spells and showers with some
-OL,15,Flonger spells of rain possible.
-OL,16,FGenerally light winds but stronger on
-OL,17,FMonday. Continuing to feel less cold
-OL,18,Fthan recent days.
+OL,5,COutlook for Saturday to Monday:FA mix
+OL,6,Fof sunny spells and showers with some
+OL,7,Flonger spells of rain possible.
+OL,8,FGenerally light winds but stronger on
+OL,9,FMonday. Continuing to feel less cold
+OL,10,Fthan recent days.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
