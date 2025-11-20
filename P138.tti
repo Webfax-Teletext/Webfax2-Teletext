@@ -2,23 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1763620428
+OL,0,        ECIMSBWebfax 2   F138A1763678173
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FIt will be a largely dry, cold
-OL,6,Fday with plenty of crisp sunshine. A
-OL,7,Ffew isolated rain or sleet showers and
-OL,8,Flikely across the Isles, mainly in the
-OL,9,Fmorning. Maximum Temperature 4C.
-OL,10,
-OL,11,CTonight:FIt will be a dry night with
-OL,12,Fplenty of clear skies and any patchy
-OL,13,Fcloud mainly over the Isles. A cold
-OL,14,Fnight with light winds leading to a
-OL,15,Fwidespread frost. Minimum Temperature
-OL,16,F-6C.
+OL,5,CThis Evening and Tonight:FIt will be a
+OL,6,Fdry night with plenty of clear skies
+OL,7,Fand any patchy cloud mainly over the
+OL,8,FIsles. A cold night with light winds
+OL,9,Fleading to a widespread frost. Minimum
+OL,10,FTemperature -5C.
+OL,11,
+OL,12,CFriday:FA dry, cold and mostly clear
+OL,13,Fstart. Remaining dry through the
+OL,14,Fmorning but cloud building from the
+OL,15,Fwest. A mostly cloudy afternoon with
+OL,16,Frain spreading eastwards later.
+OL,17,FMaximum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -26,24 +27,17 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1763620428
+OL,0,        ECIMSBWebfax 2   F138A1763678173
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CFriday:FA dry, cold and mostly clear
-OL,6,Fstart. Remaining dry through the
-OL,7,Fmorning but cloud building from the
-OL,8,Fwest. A mostly cloudy afternoon with
-OL,9,Frain spreading eastwards later.
-OL,10,FMaximum Temperature 6C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FDry
-OL,13,Fwith bright spells for a time Saturday
-OL,14,Fbefore cloud and rain spreads east
-OL,15,Flater. Mostly cloudy Sunday and Monday
-OL,16,Fwith showers or longer spells of rain.
-OL,17,FTurning less cold.
+OL,5,COutlook for Saturday to Monday:FDry
+OL,6,Fwith bright spells for a time Saturday
+OL,7,Fbefore cloud and rain spreads east
+OL,8,Flater. Mostly cloudy Sunday and Monday
+OL,9,Fwith showers or longer spells of rain.
+OL,10,FTurning less cold.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
