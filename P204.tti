@@ -1,7 +1,7 @@
 PN,20400
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1763602386
+OL,0,        ECIMSBWebfax 2   F204A1763613211
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 19 NOV
@@ -15,8 +15,12 @@ OL,10,G0543FPrayer for the Day
 OL,11,     GA spiritual comment and prayer to
 OL,12,     Gstart the day with Swarzy Shire.
 OL,13,G0545FFarming Today
-OL,14,     GThe latest news about food,
-OL,15,     Gfarming and the countryside.
+OL,14,     GDecline in demand for whiskey is
+OL,15,     Gbeing blamed for the closure and
+OL,16,     Gsuspension of Scottish malting
+OL,17,     Gplants. Farmers fear it will also
+OL,18,     Gmean a decline in demand for
+OL,19,     Gbarley.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
