@@ -2,25 +2,26 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763663741
+OL,0,        ECIMSBWebfax 2   F125A1763717909
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Flargely clear and dry, with little
-OL,7,Fcloud cover in the west, however,
-OL,8,Fpatchy cloud pushes into eastern parts
-OL,9,Fovernight. Winds easing overnight.
-OL,10,FTurning cold with a widespread frost.
-OL,11,FMinimum Temperature -4C.
+OL,5,CToday:FA cold and frosty start.
+OL,6,FOtherwise a dry and sunny day with
+OL,7,Flighter winds than of late. Sunshine
+OL,8,Fturning hazier through the afternoon
+OL,9,Fwith higher level cloud moving in from
+OL,10,Fthe west. Feeling less cold in the
+OL,11,Flighter winds. Maximum Temperature 6C.
 OL,12,
-OL,13,CFriday:FA cold and frosty start.
-OL,14,FOtherwise a dry and sunny day with
-OL,15,Flighter winds than of late. Cloud
-OL,16,Fgradually building in from the west
-OL,17,Fduring the evening. Maximum
-OL,18,FTemperature 6C.
+OL,13,CTonight:FA chilly evening, but
+OL,14,Fbecoming cloudier and windier with
+OL,15,Foutbreaks of rain pushing eastwards
+OL,16,Fovernight. Rain turning heavy at times
+OL,17,Fover the hills. Temperatures rising
+OL,18,Fthrough the night. Minimum Temperature
+OL,19,F1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,18 +29,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763663741
+OL,0,        ECIMSBWebfax 2   F125A1763717909
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Saturday to Monday:FTurning
-OL,6,Fincreasingly cloudy and changeable
-OL,7,Ffrom Saturday, as bands of rain and
-OL,8,Fshowers push eastwards across the
-OL,9,Fregion. Breezy at times. Feeling less
-OL,10,Fcold as temperatures return to near
-OL,11,Faverage.
+OL,5,CSaturday:FA wet and windy morning with
+OL,6,Frain clearing eastwards. Brighter
+OL,7,Fbehind with showers and winds easing.
+OL,8,FFeeling less cold. Maximum Temperature
+OL,9,F9C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:
+OL,12,FRemaining unsettled on Sunday and
+OL,13,FMonday with further spells of rain and
+OL,14,Fshowers. Some brighter spells in
+OL,15,Fbetween, more so on Tuesday. Less
+OL,16,Fcold, especially overnight and often
+OL,17,Fwindy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
