@@ -2,24 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1763717909
+OL,0,        ECIMSBWebfax 2   F139A1763750419
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FThe morning will begin frosty
-OL,6,Fwith sunny periods. The day will stay
-OL,7,Fdry with cloud spreading into the west
-OL,8,Fby midday and continuing to eastern
-OL,9,Fparts through the afternoon. Maximum
-OL,10,FTemperature 5C.
-OL,11,
-OL,12,CTonight:FThe evening will begin dry
-OL,13,Fbut outbreaks of rain, heavy at times,
-OL,14,Fspread into the west by midnight. This
-OL,15,Frain will continue east later,
-OL,16,Fbecoming patchy by morning. Minimum
-OL,17,FTemperature -1C.
+OL,5,CThis Evening and Tonight:FThe evening
+OL,6,Fwill begin cloudy but mostly dry with
+OL,7,Fsome patchy rain. More persistent
+OL,8,Frain, heavy at times, spread into the
+OL,9,Fwest by midnight. This rain will
+OL,10,Fcontinue east later, becoming patchy
+OL,11,Fby morning. Minimum Temperature 2C.
+OL,12,
+OL,13,CSaturday:FEarly rain soon clears to
+OL,14,Fleave most places dry with increasing
+OL,15,Fsunny spells. A few showers will feed
+OL,16,Finto the Southwest during the day..
+OL,17,FMaximum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -27,22 +27,17 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1763717909
+OL,0,        ECIMSBWebfax 2   F139A1763750419
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CSaturday:FEarly rain soon clears to
-OL,6,Fleave most places dry with increasing
-OL,7,Fsunny spells. A few showers will build
-OL,8,Fin the west from the early afternoon.
-OL,9,FMaximum Temperature 8C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FSunday
-OL,12,Fand Monday will stay cloudy with a few
-OL,13,Fshowers at times. These showers will
-OL,14,Fclear overnight into Tuesday to leave
-OL,15,Fa mostly dry day with sunny spells.
+OL,5,COutlook for Sunday to Tuesday:FSunday
+OL,6,Fwill stay cloudy with showers or
+OL,7,Flonger spells of rain. Scattered
+OL,8,Fshowers on Monday. These will clear
+OL,9,Fovernight into Tuesday to leave a
+OL,10,Fmostly dry day with sunny spells..
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100

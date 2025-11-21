@@ -2,26 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763717909
+OL,0,        ECIMSBWebfax 2   F125A1763750419
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CToday:FA cold and frosty start.
-OL,6,FOtherwise a dry and sunny day with
-OL,7,Flighter winds than of late. Sunshine
-OL,8,Fturning hazier through the afternoon
-OL,9,Fwith higher level cloud moving in from
-OL,10,Fthe west. Feeling less cold in the
-OL,11,Flighter winds. Maximum Temperature 6C.
-OL,12,
-OL,13,CTonight:FA chilly evening, but
-OL,14,Fbecoming cloudier and windier with
-OL,15,Foutbreaks of rain pushing eastwards
-OL,16,Fovernight. Rain turning heavy at times
-OL,17,Fover the hills. Temperatures rising
-OL,18,Fthrough the night. Minimum Temperature
-OL,19,F1C.
+OL,5,CThis Evening and Tonight:FA clear and
+OL,6,Fchilly evening to start but soon
+OL,7,Fbecoming cloudier and windier with
+OL,8,Foutbreaks of rain pushing eastwards
+OL,9,Fovernight. Rain turning heavy at times
+OL,10,Fover the hills. Temperatures rising
+OL,11,Fthrough the night. Minimum Temperature
+OL,12,F1C.
+OL,13,
+OL,14,CSaturday:FA wet and windy morning with
+OL,15,Frain clearing eastwards. Brighter
+OL,16,Fbehind with showers and winds easing.
+OL,17,FFeeling less cold. Maximum Temperature
+OL,18,F8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -29,24 +28,18 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1763717909
+OL,0,        ECIMSBWebfax 2   F125A1763750419
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CSaturday:FA wet and windy morning with
-OL,6,Frain clearing eastwards. Brighter
-OL,7,Fbehind with showers and winds easing.
-OL,8,FFeeling less cold. Maximum Temperature
-OL,9,F9C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:
-OL,12,FRemaining unsettled on Sunday and
-OL,13,FMonday with further spells of rain and
-OL,14,Fshowers. Some brighter spells in
-OL,15,Fbetween, more so on Tuesday. Less
-OL,16,Fcold, especially overnight and often
-OL,17,Fwindy.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FRemaining unsettled on Sunday and
+OL,7,FMonday with further spells of rain and
+OL,8,Fshowers. Some brighter spells in
+OL,9,Fbetween, more so on Tuesday. Less
+OL,10,Fcold, especially overnight and often
+OL,11,Fwindy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
