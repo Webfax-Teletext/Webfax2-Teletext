@@ -2,25 +2,25 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1763663741
+OL,0,        ECIMSBWebfax 2   F128A1763699839
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Flargely clear and dry, with little
-OL,7,Fcloud cover in the west, however,
-OL,8,Fpatchy cloud pushes into eastern parts
-OL,9,Fovernight. Winds easing overnight.
-OL,10,FTurning cold with a widespread frost.
-OL,11,FMinimum Temperature -3C.
+OL,5,CToday:FAnother chilly and frosty start
+OL,6,Ffor many, but with plenty of lengthy
+OL,7,Fsunny spells throughout the day.
+OL,8,FRemaining dry with winds lighter than
+OL,9,Frecent days. Staying cold but feeling
+OL,10,Fpleasant in the sunshine and lighter
+OL,11,Fwinds. Maximum Temperature 5C.
 OL,12,
-OL,13,CFriday:FAnother chilly and frosty
-OL,14,Fstart for many with plenty of lengthy
-OL,15,Fsunny spells. Remaining dry with winds
-OL,16,Flighter than recent days. Staying cold
-OL,17,Fbut feeling pleasant in the sunshine.
-OL,18,FMaximum Temperature 5C.
+OL,13,CTonight:FA cold evening, but becoming
+OL,14,Fcloudier and windier with outbreaks of
+OL,15,Frain pushing eastwards during the
+OL,16,Fearly hours. Temperatures rising
+OL,17,Fthrough the night. Minimum Temperature
+OL,18,F-1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -28,18 +28,25 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1763663741
+OL,0,        ECIMSBWebfax 2   F128A1763699839
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:FTurning
-OL,6,Fincreasingly cloudy and changeable
-OL,7,Ffrom Saturday, as bands of rain and
-OL,8,Fshowers push eastwards across the
-OL,9,Fregion. Breezy at times. Feeling less
-OL,10,Fcold as temperatures return to near
-OL,11,Faverage.
+OL,5,CSaturday:FAn unsettled morning with
+OL,6,Frain and strong winds. Drier and
+OL,7,Fbrighter for a time during the
+OL,8,Fafternoon before further showery rain
+OL,9,Farrives later in the evening. Feeling
+OL,10,Fless cold. Maximum Temperature 9C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:
+OL,13,FRemaining unsettled on Sunday and
+OL,14,FMonday with further spells of rain and
+OL,15,Fshowers. Some brighter spells in
+OL,16,Fbetween, more so on Tuesday. Less
+OL,17,Fcold, especially overnight and often
+OL,18,Fwindy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
