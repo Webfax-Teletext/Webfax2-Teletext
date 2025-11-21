@@ -2,24 +2,22 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1763678173
+OL,0,        ECIMSBWebfax 2   F138A1763703447
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will be a
-OL,6,Fdry night with plenty of clear skies
-OL,7,Fand any patchy cloud mainly over the
-OL,8,FIsles. A cold night with light winds
-OL,9,Fleading to a widespread frost. Minimum
-OL,10,FTemperature -5C.
-OL,11,
-OL,12,CFriday:FA dry, cold and mostly clear
-OL,13,Fstart. Remaining dry through the
-OL,14,Fmorning but cloud building from the
-OL,15,Fwest. A mostly cloudy afternoon with
-OL,16,Frain spreading eastwards later.
-OL,17,FMaximum Temperature 6C.
+OL,5,CToday:FThe morning will begin frosty
+OL,6,Fand dry over the mainland. Cloud and
+OL,7,Flater rain over the Western Isles will
+OL,8,Fspread to the mainland from the late
+OL,9,Fmorning. Maximum Temperature 6C.
+OL,10,
+OL,11,CTonight:FThe evening will begin mostly
+OL,12,Fdry in the southeast but rain in the
+OL,13,Fwest will become heavy at times before
+OL,14,Fspreading east from the late evening.
+OL,15,FMinimum Temperature 1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,17 +25,23 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1763678173
+OL,0,        ECIMSBWebfax 2   F138A1763703447
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Saturday to Monday:FDry
-OL,6,Fwith bright spells for a time Saturday
-OL,7,Fbefore cloud and rain spreads east
-OL,8,Flater. Mostly cloudy Sunday and Monday
-OL,9,Fwith showers or longer spells of rain.
-OL,10,FTurning less cold.
+OL,5,CSaturday:FEarly rain soon clears to
+OL,6,Fleave a brief dry period in the
+OL,7,Fmorning. Scattered showers will soon
+OL,8,Fspread east to the Western Isles then
+OL,9,Fthe west coast by early afternoon.
+OL,10,FMaximum Temperature 8C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FSunday
+OL,13,Fand Monday will stay cloudy with a few
+OL,14,Fshowers at times. These showers will
+OL,15,Fclear overnight into Tuesday to leave
+OL,16,Fa mostly dry day with sunny spells.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100

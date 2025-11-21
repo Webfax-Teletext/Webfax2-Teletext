@@ -2,27 +2,26 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1763678173
+OL,0,        ECIMSBWebfax 2   F127A1763703447
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FVery cold
-OL,6,Fwith clear skies for many, and a
-OL,7,Fwidespread frost. Wintry showers
-OL,8,Fcontinuing overnight for parts of
-OL,9,FLincolnshire, although becoming more
-OL,10,Fconfined coastal areas later. Icy
-OL,11,Fpatches possible on untreated
-OL,12,Fsurfaces. Winds easing later. Minimum
-OL,13,FTemperature -2C.
-OL,14,
-OL,15,CFriday:FDry for all parts through
-OL,16,FFriday with longer bright or sunny
-OL,17,Fspells and lighter winds. Remaining
-OL,18,Fcold with a widespread frost at first
-OL,19,Fand again later. Maximum Temperature
-OL,20,F5C.
+OL,5,CToday:FBecoming dry with longer bright
+OL,6,For sunny spells developing. Sunshine
+OL,7,Fperhaps turning hazy later. Remaining
+OL,8,Fcold, with areas of frost and icy
+OL,9,Fpatches at first. Lighter winds for
+OL,10,Fmuch of the day. Maximum Temperature
+OL,11,F5C.
+OL,12,
+OL,13,CTonight:FCloud thickening overnight
+OL,14,Fwith outbreaks of rain in northwestern
+OL,15,Fparts towards dawn. A cold evening
+OL,16,Fwith a widespread frost, but
+OL,17,Ftemperatures rising as the night goes
+OL,18,Fon. Becoming breezy. Minimum
+OL,19,FTemperature -3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -30,17 +29,24 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1763678173
+OL,0,        ECIMSBWebfax 2   F127A1763703447
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:FRain
-OL,6,Fovernight into Saturday bringing less
-OL,7,Fcold conditions. Then unsettled Sunday
-OL,8,Fand Monday with rain or showers and
-OL,9,Fstrong winds at times. Temperatures
-OL,10,Fnear average.
+OL,5,CSaturday:FCloudy, with rain spreading
+OL,6,Feastwards, heavy at times. Perhaps
+OL,7,Fdrier in the west later in the day,
+OL,8,Fbut further rain arriving overnight.
+OL,9,FWindy, easing later. Milder than of
+OL,10,Flate. Maximum Temperature 7C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:
+OL,13,FUnsettled with rain or showers and
+OL,14,Fstrong winds at times. Milder, but
+OL,15,Fstill with a risk of overnight frost.
+OL,16,FPerhaps brighter on Tuesday with
+OL,17,Flighter winds but coastal showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
