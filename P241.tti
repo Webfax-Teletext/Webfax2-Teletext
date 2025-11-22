@@ -1,7 +1,7 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
@@ -19,9 +19,9 @@ OL,14,     GA review of the week with the
 OL,15,     Glatest news.
 OL,16,G0900FBBC News
 OL,17,G0906FBBC OS Conversations
-OL,18,     GHow major news stories are
-OL,19,     Gaffecting the lives of people
-OL,20,     Garound the world.
+OL,18,     GWomen who worry about climate
+OL,19,     Gchange discuss the difficult
+OL,20,     Gchoices they face.
 OL,21,G0930FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
@@ -29,224 +29,226 @@ FL,242,200,150,300,000,100
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
 OL,4,G0932FAmericast
-OL,5,     GJoin Americast for insights and
-OL,6,     Ganalysis on what's happening
-OL,7,     Ginside Trump's White House.
-OL,8,G1000FBBC News
-OL,9,G1006FNot by the Playbook
-OL,10,     GThis week, four English Roses who
-OL,11,     Gshare between them five Olympic
-OL,12,     Ggolds, four Ironman titles, nine
-OL,13,     Gsoccer Championships and two
-OL,14,     GRugby World Cups.
-OL,15,G1100FBBC News
-OL,16,G1106FThe Newsroom
-OL,17,     GThe world's Newsroom brings you
-OL,18,     Gglobal events as they happen.
-OL,19,G1130FBBC News Summary
+OL,5,     GDoes MTG threaten the US
+OL,6,     Gpresident's power?
+OL,7,G1000FBBC News
+OL,8,G1006FNot by the Playbook
+OL,9,     GThis week, four English Roses who
+OL,10,     Gshare between them five Olympic
+OL,11,     Ggolds, four Ironman titles, nine
+OL,12,     Gsoccer Championships and two
+OL,13,     GRugby World Cups.
+OL,14,G1100FBBC News
+OL,15,G1106FThe Newsroom
+OL,16,     GThe world's Newsroom brings you
+OL,17,     Gglobal events as they happen.
+OL,18,G1130FBBC News Summary
+OL,19,G1132FHealth Check
+OL,20,     GThe trend in wellbeing over our
+OL,21,     Glifespans is changing, driven by
+OL,22,     Gunhappier young people.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
-OL,4,G1132FHealth Check
-OL,5,     GThe trend in wellbeing over our
-OL,6,     Glifespans is changing, driven by
-OL,7,     Gunhappier young people.
-OL,8,G1200FBBC News
-OL,9,G1206FThe Documentary
-OL,10,     GFamilies of 24 Iraqis killed by
-OL,11,     GUS marines in Haditha, Iraq
-OL,12,     Glearn, 20 years later, why their
-OL,13,     Gfamilies' killers walked free.
-OL,14,G1300FBBC News
-OL,15,G1306FNewshour
-OL,16,     GInterviews, news and analysis of
-OL,17,     Gthe day's global events.
-OL,18,G1400FBBC News
-OL,19,G1406FSportsworld
-OL,20,     GLive sport from around the world
-OL,21,     Gwith news, interviews and
-OL,22,     Ganalysis.
+OL,4,G1200FBBC News
+OL,5,G1206FThe Documentary
+OL,6,     GFamilies of 24 Iraqis killed by
+OL,7,     GUS marines in Haditha, Iraq
+OL,8,     Glearn, 20 years later, why their
+OL,9,     Gfamilies' killers walked free.
+OL,10,G1300FBBC News
+OL,11,G1306FNewshour
+OL,12,     GInterviews, news and analysis of
+OL,13,     Gthe day's global events.
+OL,14,G1400FBBC News
+OL,15,G1406FSportsworld
+OL,16,     GLive sport from around the world
+OL,17,     Gwith news, interviews and
+OL,18,     Ganalysis.
+OL,19,G1800FBBC News
+OL,20,G1806FThe Newsroom
+OL,21,     GThe world's Newsroom brings you
+OL,22,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
-OL,4,G1800FBBC News
-OL,5,G1806FThe Newsroom
-OL,6,     GThe world's Newsroom brings you
-OL,7,     Gglobal events as they happen.
-OL,8,G1830FBBC News Summary
-OL,9,G1832FDear Daughter
-OL,10,     GWhen her daughter heads for
-OL,11,     Gcollege, Shelley realises she has
-OL,12,     Gsome advice to pass on - so she
-OL,13,     Gwrites a letter and hides it in
-OL,14,     Gher suitcase.
-OL,15,G1850FSporting Witness
-OL,16,     GDuring the 2005 Ashes in England,
-OL,17,     GAustralian captain Ricky Ponting
-OL,18,     Gquestions the use of a substitute
-OL,19,     Gfielder after being run out by
-OL,20,     GGary Pratt.
-OL,21,G1900FBBC News
+OL,4,G1830FBBC News Summary
+OL,5,G1832FDear Daughter
+OL,6,     GWhen her daughter heads for
+OL,7,     Gcollege, Shelley realises she has
+OL,8,     Gsome advice to pass on - so she
+OL,9,     Gwrites a letter and hides it in
+OL,10,     Gher suitcase.
+OL,11,G1850FSporting Witness
+OL,12,     GDuring the 2005 Ashes in England,
+OL,13,     GAustralian captain Ricky Ponting
+OL,14,     Gquestions the use of a substitute
+OL,15,     Gfielder after being run out by
+OL,16,     GGary Pratt.
+OL,17,G1900FBBC News
+OL,18,G1906FThe Inquiry
+OL,19,     GIs Pope Leo XIV too liberal for
+OL,20,     Gtoday's Catholic Church?
+OL,21,G1930FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
-OL,4,G1906FThe Inquiry
-OL,5,     GIs Pope Leo XIV too liberal for
-OL,6,     Gtoday's Catholic Church?
-OL,7,G1930FBBC News Summary
-OL,8,G1932FHappy News
-OL,9,     GPositive news stories.
-OL,10,G2000FBBC News
-OL,11,G2006FThe Arts Hour
-OL,12,     GNikki Bedi talks to Wicked: For
-OL,13,     GGood director Jon M Chu and
-OL,14,     GPluribus creator Vince Gilligan
-OL,15,     Gand star Rhea Seehorn.
-OL,16,G2100FBBC News
-OL,17,G2106FNewshour
-OL,18,     GInterviews, news and analysis of
-OL,19,     Gthe day's global events.
-OL,20,G2200FBBC News
+OL,4,G1932FHappy News
+OL,5,     GPositive news stories.
+OL,6,G2000FBBC News
+OL,7,G2006FThe Arts Hour
+OL,8,     GNikki Bedi talks to Wicked: For
+OL,9,     GGood director Jon M Chu and
+OL,10,     GPluribus creator Vince Gilligan
+OL,11,     Gand star Rhea Seehorn.
+OL,12,G2100FBBC News
+OL,13,G2106FNewshour
+OL,14,     GInterviews, news and analysis of
+OL,15,     Gthe day's global events.
+OL,16,G2200FBBC News
+OL,17,G2206FThe Newsroom
+OL,18,     GThe world's Newsroom brings you
+OL,19,     Gglobal events as they happen.
+OL,20,G2230FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
-OL,4,G2206FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G2230FBBC News Summary
-OL,8,G2232FThis Is Africa
-OL,9,     GInez is a Dutch-Moroccan singer
-OL,10,     Gwho became a viral sensation with
-OL,11,     Gher very first song - a level of
-OL,12,     Gsuccess she never expected.
-OL,13,G2300FBBC News
-OL,14,G2306FNot by the Playbook
-OL,15,     GThis week, four English Roses who
-OL,16,     Gshare between them five Olympic
-OL,17,     Ggolds, four Ironman titles, nine
-OL,18,     Gsoccer Championships and two
-OL,19,     GRugby World Cups.
-OL,20,G0000FBBC News
+OL,4,G2232FThis Is Africa
+OL,5,     GInez is a Dutch-Moroccan singer
+OL,6,     Gwho became a viral sensation with
+OL,7,     Gher very first song - a level of
+OL,8,     Gsuccess she never expected.
+OL,9,G2300FBBC News
+OL,10,G2306FNot by the Playbook
+OL,11,     GThis week, four English Roses who
+OL,12,     Gshare between them five Olympic
+OL,13,     Ggolds, four Ironman titles, nine
+OL,14,     Gsoccer Championships and two
+OL,15,     GRugby World Cups.
+OL,16,G0000FBBC News
+OL,17,G0006FBBC OS Conversations
+OL,18,     GWomen who worry about climate
+OL,19,     Gchange discuss the difficult
+OL,20,     Gchoices they face.
+OL,21,G0030FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
-OL,4,G0006FBBC OS Conversations
-OL,5,     GHow major news stories are
-OL,6,     Gaffecting the lives of people
-OL,7,     Garound the world.
-OL,8,G0030FBBC News Summary
-OL,9,G0032FThe Documentary
-OL,10,     GHow China's state banks are
-OL,11,     Gfuelling overseas investments and
-OL,12,     Gpurchases into sensitive key
-OL,13,     Gtechnologies on a scale
-OL,14,     Gpreviously unknown - and how
-OL,15,     Gthat's boosting Beijing's power.
-OL,16,G0100FBBC News
-OL,17,G0106FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G0130FBBC News Summary
+OL,4,G0032FThe Documentary
+OL,5,     GHow China's state banks are
+OL,6,     Gfuelling overseas investments and
+OL,7,     Gpurchases into sensitive key
+OL,8,     Gtechnologies on a scale
+OL,9,     Gpreviously unknown - and how
+OL,10,     Gthat's boosting Beijing's power.
+OL,11,G0100FBBC News
+OL,12,G0106FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G0130FBBC News Summary
+OL,16,G0132FDear Daughter
+OL,17,     GWhen her daughter heads for
+OL,18,     Gcollege, Shelley realises she has
+OL,19,     Gsome advice to pass on - so she
+OL,20,     Gwrites a letter and hides it in
+OL,21,     Gher suitcase.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
-OL,4,G0132FDear Daughter
-OL,5,     GWhen her daughter heads for
-OL,6,     Gcollege, Shelley realises she has
-OL,7,     Gsome advice to pass on - so she
-OL,8,     Gwrites a letter and hides it in
-OL,9,     Gher suitcase.
-OL,10,G0150FSporting Witness
-OL,11,     GDuring the 2005 Ashes in England,
-OL,12,     GAustralian captain Ricky Ponting
-OL,13,     Gquestions the use of a substitute
-OL,14,     Gfielder after being run out by
-OL,15,     GGary Pratt.
-OL,16,G0200FBBC News
-OL,17,G0206FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G0230FBBC News Summary
+OL,4,G0150FSporting Witness
+OL,5,     GDuring the 2005 Ashes in England,
+OL,6,     GAustralian captain Ricky Ponting
+OL,7,     Gquestions the use of a substitute
+OL,8,     Gfielder after being run out by
+OL,9,     GGary Pratt.
+OL,10,G0200FBBC News
+OL,11,G0206FThe Newsroom
+OL,12,     GThe world's Newsroom brings you
+OL,13,     Gglobal events as they happen.
+OL,14,G0230FBBC News Summary
+OL,15,G0232FHealth Check
+OL,16,     GThe trend in wellbeing over our
+OL,17,     Glifespans is changing, driven by
+OL,18,     Gunhappier young people.
+OL,19,G0300FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
-OL,4,G0232FHealth Check
-OL,5,     GThe trend in wellbeing over our
-OL,6,     Glifespans is changing, driven by
-OL,7,     Gunhappier young people.
-OL,8,G0300FBBC News
-OL,9,G0306FThe Documentary
-OL,10,     GFamilies of 24 Iraqis killed by
-OL,11,     GUS marines in Haditha, Iraq
-OL,12,     Glearn, 20 years later, why their
-OL,13,     Gfamilies' killers walked free.
-OL,14,G0400FBBC News
-OL,15,G0406FFrom Our Own Correspondent
-OL,16,     GInsight, wit and analysis from
-OL,17,     GBBC correspondents, journalists
-OL,18,     Gand writers from around the world.
-OL,19,G0430FBBC News Summary
+OL,4,G0306FThe Documentary
+OL,5,     GFamilies of 24 Iraqis killed by
+OL,6,     GUS marines in Haditha, Iraq
+OL,7,     Glearn, 20 years later, why their
+OL,8,     Gfamilies' killers walked free.
+OL,9,G0400FBBC News
+OL,10,G0406FFrom Our Own Correspondent
+OL,11,     GThe experiences of one boy from
+OL,12,     GGaza; reaction in Bangladesh to
+OL,13,     GSheikh Hasina's death sentence;
+OL,14,     GSpain struggles with Franco's
+OL,15,     Glegacy; an old home in Ukraine
+OL,16,     Gtaken over by Russia.
+OL,17,G0430FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1763707085
+OL,0,        ECIMSBWebfax 2   F241A1763786501
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 22 NOV
