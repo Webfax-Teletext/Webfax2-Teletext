@@ -2,24 +2,23 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1763808159
+OL,0,        ECIMSBWebfax 2   F135A1763833416
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FVariable amounts of cloud with
-OL,6,Fsome bright or sunny intervals. A few
-OL,7,Fshowers across the north and west, but
-OL,8,Fmainly dry in the east. Mild along the
-OL,9,Fwest coast, but still rather cold
-OL,10,Facross East Highland. Maximum
-OL,11,FTemperature 6C.
-OL,12,
-OL,13,CTonight:FA mainly dry evening and
-OL,14,Fnight, still the odd shower along the
-OL,15,Fwest coast this evening. Clear periods
-OL,16,Fwill lead to a frost and icy patches.
-OL,17,FMinimum Temperature -3C.
+OL,5,CThis Evening and Tonight:FA mainly dry
+OL,6,Fevening and night, still the odd
+OL,7,Fshower along the west coast this
+OL,8,Fevening. Clear periods will lead to a
+OL,9,Ffrost and icy patches. Minimum
+OL,10,FTemperature -3C.
+OL,11,
+OL,12,CSunday:FDry in the morning with sunny
+OL,13,Fintervals. Becoming cloudier in the
+OL,14,Fafternoon with a few showers in the
+OL,15,Feast. Still rather cold. Maximum
+OL,16,FTemperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -27,22 +26,17 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1763808159
+OL,0,        ECIMSBWebfax 2   F135A1763833416
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CSunday:FDry in the morning with sunny
-OL,6,Fintervals. Becoming cloudier in the
-OL,7,Fafternoon with a few showers in the
-OL,8,Feast. Still rather cold. Maximum
-OL,9,FTemperature 6C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:FCold
-OL,12,Fand breezy on Monday with scattered
-OL,13,Fshowers, then becoming dry on Tuesday.
-OL,14,FMuch milder with rain on Wednesday,
-OL,15,Fheavy and persistent in the west.
+OL,5,COutlook for Monday to Wednesday:FCold
+OL,6,Fand breezy on Monday with scattered
+OL,7,Fshowers, then becoming dry on Tuesday.
+OL,8,FMuch milder with rain on Wednesday,
+OL,9,Fheavy and persistent in the west, and
+OL,10,Fstrengthening winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
