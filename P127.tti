@@ -2,27 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1763743176
+OL,0,        ECIMSBWebfax 2   F127A1763793721
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud
-OL,6,Fthickening overnight with outbreaks of
-OL,7,Frain in north-western parts towards
-OL,8,Fdawn, perhaps turning heavy at times
-OL,9,Fover the Derbyshire hills. A cold
-OL,10,Fevening with a widespread frost, but
-OL,11,Ftemperatures rising as the night goes
-OL,12,Fon. Becoming breezy. Minimum
-OL,13,FTemperature -2C.
-OL,14,
-OL,15,CSaturday:FCloudy, with rain spreading
-OL,16,Feastwards, heavy at times. Perhaps
-OL,17,Fdrier in the west later in the day,
-OL,18,Fbut further rain arriving overnight.
-OL,19,FWindy, easing later. Milder than of
-OL,20,Flate. Maximum Temperature 7C.
+OL,5,CToday:FCloudy with outbreaks of rain
+OL,6,Fthroughout the day across much of the
+OL,7,Farea, some of this persistent and
+OL,8,Fperhaps heavy at times. Windy, but
+OL,9,Fwinds starting to ease through the
+OL,10,Fafternoon. Maximum Temperature 7C.
+OL,11,
+OL,12,CTonight:FA murky evening with plenty
+OL,13,Fof low cloud and drizzly outbreaks of
+OL,14,Frain slowly moving eastwards. Becoming
+OL,15,Fdrier for a time before further rain
+OL,16,Fspreads from the west towards dawn.
+OL,17,FMinimum Temperature 2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -30,17 +27,25 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1763743176
+OL,0,        ECIMSBWebfax 2   F127A1763793721
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:
-OL,6,FUnsettled with rain or showers and
-OL,7,Fstrong winds at times. Milder, but
-OL,8,Fstill with a risk of overnight frost.
-OL,9,FPerhaps brighter on Tuesday with
-OL,10,Flighter winds but coastal showers.
+OL,5,CSunday:FUnsettled with a band of rain
+OL,6,Fmoving across the area through the
+OL,7,Fmorning, with sunny spells and showers
+OL,8,Ffollowing for the afternoon. Breezy
+OL,9,Fwith a risk of an overnight frost.
+OL,10,FMaximum Temperature 8C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:
+OL,13,FUnsettled with rain or showers on
+OL,14,FMonday. Showers becoming confined to
+OL,15,Fcoastal regions on Tuesday with a
+OL,16,Ffrost expected overnight. Cloud and
+OL,17,Frain arriving later Wednesday and
+OL,18,Fbecoming mild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
