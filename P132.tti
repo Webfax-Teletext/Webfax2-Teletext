@@ -1,29 +1,47 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1763829807
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1763883952
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA few fog
-OL,6,Fpatches forming this evening,
-OL,7,Fotherwise dry. Then rain, occasionally
-OL,8,Fheavy, will spread east across all
-OL,9,Fparts for a time during the early
-OL,10,Fhours. Minimum Temperature 4C.
+OL,5,CToday:FA cloudy day with scattered
+OL,6,Fshowers, occasionally heavy. Some
+OL,7,Flonger spells of rain developing at
+OL,8,Ftimes. Fresh west or northwesterly
+OL,9,Fwinds, especially across the south.
+OL,10,FMaximum Temperature 8C.
 OL,11,
-OL,12,CSunday:FIt will be a cloudy day with
-OL,13,Fscattered showers or occasionally
-OL,14,Flonger spells of rain. Maximum
-OL,15,FTemperature 8C.
-OL,16,
-OL,17,COutlook for Monday to Wednesday:FMainly
-OL,18,Fdry and bright on Monday, cold
-OL,19,Fnortherly winds. Dry on Tuesday.
-OL,20,FMilder and windier with occasional
-OL,21,Frain on Wednesday.
+OL,12,CTonight:FThis evening will be cloudy
+OL,13,Fwith showers or longer spells of rain.
+OL,14,FDrier weather with fewer showers
+OL,15,Fdeveloping in the early hours. Fresh
+OL,16,Fnorth or northeasterly winds. Minimum
+OL,17,FTemperature 4C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1763883952
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,CMonday:FA mainly dry day, the odd
+OL,6,Fshower in the north and east at first.
+OL,7,FCloud breaking to allow a few sunny
+OL,8,Fintervals by afternoon. Maximum
+OL,9,FTemperature 9C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FDry
+OL,12,Fwith sunny spells on Tuesday. Cloudy
+OL,13,Fon Wednesday and Thursday with rain at
+OL,14,Ftimes, but turning milder.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
