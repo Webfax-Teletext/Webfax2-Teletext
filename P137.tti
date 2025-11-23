@@ -2,22 +2,25 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1763847846
+OL,0,        ECIMSBWebfax 2   F137A1763880347
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry with clear periods.
-OL,7,FClouding over in the south and east
-OL,8,Fwith the odd shower possible later.
-OL,9,FFrost and icy patches. Minimum
-OL,10,FTemperature -3C.
-OL,11,
-OL,12,CSunday:FA mostly cloudy and rather
-OL,13,Fcold day with scattered showers, these
-OL,14,Fmainly across eastern Aberdeenshire.
-OL,15,FMaximum Temperature 7C.
+OL,5,CToday:FIt will be cloudy witth
+OL,6,Fscattered showers deveoping through
+OL,7,Fthe day, some longer spells of rain
+OL,8,Fpossible across southern Aberdeenshire
+OL,9,Flater this afternoon. Freshening
+OL,10,Fnortheasterly wind. Maximum
+OL,11,FTemperature 7C.
+OL,12,
+OL,13,CTonight:FA cloudy evening and night
+OL,14,Fwith scattered showers. Some longer
+OL,15,Fspells of rain may develop at times.
+OL,16,FFresh northeasterly wind, occasionally
+OL,17,Fstrong along the coast. Minimum
+OL,18,FTemperature 3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -25,17 +28,22 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1763847846
+OL,0,        ECIMSBWebfax 2   F137A1763880347
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FCold
-OL,6,Fand breezy on Monday with scattered
-OL,7,Fshowers, perhaps forming longer spells
-OL,8,Fof rain. Showers dying out on Tuesday.
-OL,9,FBecoming milder with occasional rain
-OL,10,Fon Wednesday.
+OL,5,CMonday:FCloudy with showers or some
+OL,6,Flonger spells of rain, becoming drier
+OL,7,Fthrough the evening. Cold
+OL,8,Fnortheasterly wind. Maximum
+OL,9,FTemperature 7C.
+OL,10,
+OL,11,COutlook for Tuesday to Thursday:FMainly
+OL,12,Fdry, cold and bright on Tuesday,
+OL,13,Fisolated coastal showers. Cloudy on
+OL,14,FWednesday and Thursday with occasional
+OL,15,Frain, gradually turning milder.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
