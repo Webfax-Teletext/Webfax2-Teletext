@@ -2,25 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1763916427
+OL,0,        ECIMSBWebfax 2   F132A1763966953
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill see rain clearing away south then
-OL,7,Fdrier weather with fewer showers
-OL,8,Fdeveloping in the early hours. Fresh
-OL,9,Fnorth or northeasterly winds, strong
-OL,10,Fat times across the North coast.
-OL,11,FMinimum Temperature 4C.
+OL,5,CToday:FIt will be a mainly dry day
+OL,6,Fwith bright or sunny spells, but
+OL,7,Fturning chillier in the afternoon.
+OL,8,FThere may be the odd shower, most
+OL,9,Flikely around the north. Breezy at
+OL,10,Ftimes, especially around the coast.
+OL,11,FMaximum Temperature 9C.
 OL,12,
-OL,13,CMonday:FA mainly dry day, the odd
-OL,14,Fshower in the north and east at first.
-OL,15,FCloud breaking to allow a few sunny
-OL,16,Fintervals by afternoon but turning
-OL,17,Fchillier in the afternoon. Maximum
-OL,18,FTemperature 7C.
+OL,13,CTonight:FClear intervals and scattered
+OL,14,Fshowers continue through the evening.
+OL,15,FShowers become less frequent through
+OL,16,Fthe night. Cold northerly winds,
+OL,17,Fbreezy at first and easing overnight.
+OL,18,FMinimum Temperature 0C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -28,15 +28,22 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1763916427
+OL,0,        ECIMSBWebfax 2   F132A1763966953
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Tuesday to Thursday:FDry
-OL,6,Fwith sunny spells on Tuesday. Cloudy
-OL,7,Fon Wednesday and Thursday with rain at
-OL,8,Ftimes, but turning milder.
+OL,5,CTuesday:FIt will be dry and bright
+OL,6,Fwith good spells of sunshine but
+OL,7,Ffeeling a little coolder than Monday.
+OL,8,FMaximum Temperature 8C.
+OL,9,
+OL,10,COutlook for Wednesday to Friday:FCloudy
+OL,11,Fon Wednesday and Thursday with rain
+OL,12,Fand strong winds at times, but turning
+OL,13,Fmilder. Bright spells and showers on
+OL,14,FFriday. Strengthening southwest winds
+OL,15,Faround the coast from Thursday evening.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
