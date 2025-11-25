@@ -2,24 +2,27 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1764042773
+OL,0,        ECIMSBWebfax 2   F128A1764093302
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CToday:FA chilly start with variable
-OL,6,Famounts of cloud, though cloud melting
-OL,7,Faway into the afternoon to give way to
-OL,8,Fmore sunny spells. Still feeling cold,
-OL,9,Fbut lighter winds than Monday. Maximum
-OL,10,FTemperature 7C.
-OL,11,
-OL,12,CTonight:FTemperatures quickly falling
-OL,13,Faway this evening underneath the clear
-OL,14,Fskies and light winds. Dry overnight
-OL,15,Fwith some mist and fog patches, and
-OL,16,Fturning very cold with a sharp frost.
-OL,17,FMinimum Temperature -4C.
+OL,5,CThis Evening and Tonight:FTemperatures
+OL,6,Fquickly falling away this evening
+OL,7,Funderneath the clear skies with winds
+OL,8,Fbecoming very light. Staying dry and
+OL,9,Fclear overnight with isolated freezing
+OL,10,Ffog patches forming in prone spots. A
+OL,11,Fcold night with a widespread frost.
+OL,12,FMinimum Temperature -4C.
+OL,13,
+OL,14,CWednesday:FA dry and frosty start but
+OL,15,Fany brightness short-lived with skies
+OL,16,Fclouding over. Occasional rain through
+OL,17,Fthe afternoon and turning increasingly
+OL,18,Fbreezy. Feeling chilly but turning
+OL,19,Fmilder through the evening. Maximum
+OL,20,FTemperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -27,25 +30,18 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1764042773
+OL,0,        ECIMSBWebfax 2   F128A1764093302
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CWednesday:FA cold, frosty and bright
-OL,6,Fstart. Cloud gradually building from
-OL,7,Fthe west with outbreaks of rain
-OL,8,Farriving into the evening accompanied
-OL,9,Fby a strengthening wind. Maximum
-OL,10,FTemperature 8C.
-OL,11,
-OL,12,COutlook for Thursday to Saturday:
-OL,13,FTurning much milder and windier on
-OL,14,FThursday further spells of rain.
-OL,15,FRemaining changeable towards the
-OL,16,Fweekend with showers or longer spells
-OL,17,Fof rain. Temperatures returning back
-OL,18,Fto average.
+OL,5,COutlook for Thursday to Saturday:FMuch
+OL,6,Fmilder and windier on Thursday with
+OL,7,Ffurther spells of rain. Remaining
+OL,8,Fchangeable thereafter with showers or
+OL,9,Flonger spells of rain interspersed
+OL,10,Fwith sunny spells and turning somewhat
+OL,11,Fcolder again.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100

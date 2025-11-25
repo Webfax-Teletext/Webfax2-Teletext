@@ -2,24 +2,27 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1764057208
+OL,0,        ECIMSBWebfax 2   F131A1764093302
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FA chilly start with variable
-OL,6,Famounts of cloud, mainly in the east
-OL,7,Fand sunny spells through the day. A
-OL,8,Ffew showers still persisting across
-OL,9,Fparts of Cornwall. Winds gradually
-OL,10,Feasing. Maximum Temperature 9C.
-OL,11,
-OL,12,CTonight:FTemperatures quickly falling
-OL,13,Faway this evening underneath the clear
-OL,14,Fskies and light winds, with any
-OL,15,Fshowers easing. Turning cloudier in
-OL,16,Fthe far west by dawn, elsewhere cold
-OL,17,Fwith a frost. Minimum Temperature -3C.
+OL,5,CThis Evening and Tonight:FShowers
+OL,6,Facross Cornwall fading away, then a
+OL,7,Fclear evening with temperatures
+OL,8,Fquickly falling away. Becoming widely
+OL,9,Ffrosty with isolated freezing fog
+OL,10,Fpatches forming in eastern counties.
+OL,11,FTurning cloudier in the west later
+OL,12,Fwith temperatures rising in some areas
+OL,13,Fby dawn. Minimum Temperature -3C.
+OL,14,
+OL,15,CWednesday:FA dry and cold start with
+OL,16,Fany brightness in the east short-
+OL,17,Flived. Becoming damp in the west with
+OL,18,Frain spreading east through the
+OL,19,Fafternoon. Turning breezier and milder
+OL,20,Flater. Maximum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -27,25 +30,18 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1764057208
+OL,0,        ECIMSBWebfax 2   F131A1764093302
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CWednesday:FA cold and bright start for
-OL,6,Fmost, but cloud soon building from the
-OL,7,Fwest with outbreaks of rain arriving
-OL,8,Fby late afternoon. Turning breezy and
-OL,9,Fmilder in the west. Maximum
-OL,10,FTemperature 12C.
-OL,11,
-OL,12,COutlook for Thursday to Saturday:
-OL,13,FTurning much milder and windier on
-OL,14,FThursday further spells of rain.
-OL,15,FRemaining changeable towards the
-OL,16,Fweekend with showers or longer spells
-OL,17,Fof rain. Temperatures returning back
-OL,18,Fto average.
+OL,5,COutlook for Thursday to Saturday:FMuch
+OL,6,Fmilder and windier on Thursday with
+OL,7,Frain at times. Remaining changeable
+OL,8,Fthereafter with potentially a much
+OL,9,Fwetter and windier spell of weather on
+OL,10,FSaturday. Temperatures returning back
+OL,11,Fto average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
