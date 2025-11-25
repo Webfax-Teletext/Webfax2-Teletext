@@ -2,22 +2,24 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1764003051
+OL,0,        ECIMSBWebfax 2   F138A1764053599
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FVariable
-OL,6,Fcloud around greater Glasgow at first,
-OL,7,Fbut otherwise prolonged clear spells
-OL,8,Fallowing a frost to develop. Chance of
-OL,9,Fthe odd shower around the isles.
-OL,10,FMinimum Temperature -1C.
-OL,11,
-OL,12,CTuesday:FIt will be dry and bright
-OL,13,Fwith good spells of sunshine but
-OL,14,Ffeeling colder than Monday. Maximum
-OL,15,FTemperature 6C.
+OL,5,CToday:FIt will be dry and bright with
+OL,6,Fgood spells of sunshine, aside from
+OL,7,Fperhaps the odd shower towards the
+OL,8,FIsles at first. Feeling colder than
+OL,9,FMonday. Maximum Temperature 6C.
+OL,10,
+OL,11,CTonight:FDry with clear spells at
+OL,12,Ffirst allowing an early frost.
+OL,13,FClouding over towards the Isles
+OL,14,Fthrough the evening with showery rain,
+OL,15,Fapproaching the West coast by morning.
+OL,16,FStrengthening southerly winds. Minimum
+OL,17,FTemperature -1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -25,18 +27,24 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1764003051
+OL,0,        ECIMSBWebfax 2   F138A1764053599
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FCloudy
-OL,6,Fand windy at times on Wednesday and
-OL,7,FThursday with occasional rain, but
-OL,8,Fturning milder. Bright spells and
-OL,9,Fshowers on Friday. Strengthening
-OL,10,Fsouthwest winds around the coast from
-OL,11,FThursday evening.
+OL,5,CWednesday:FCloudy and windy as rain
+OL,6,Fspreads east through the morning,
+OL,7,Fheavy at times. Staying cloudy in the
+OL,8,Fafternoon with patchy light drizzle
+OL,9,Fand winds easing. Milder than recent
+OL,10,Fdays. Maximum Temperature 11C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FCloudy and windy at times on Thursday
+OL,14,Fwith occasional rain, but turning
+OL,15,Fmilder. Bright spells and showers on
+OL,16,FFriday and Saturday. Strengthening
+OL,17,Fsouthwest winds on Thursday and Friday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
