@@ -2,24 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1764013903
+OL,0,        ECIMSBWebfax 2   F130A1764046383
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Frain or drizzle easing overnight with
-OL,7,Flengthy clear spells developing.
-OL,8,FBecoming widely chilly by the morning
-OL,9,Fbut frost not expected to develop.
-OL,10,FOccasionally moderate to strong winds
-OL,11,Fcontinuing. Minimum Temperature 3C.
+OL,5,CToday:FBright spells and variable
+OL,6,Famounts of cloud, but widely dry
+OL,7,Fthrough the day with just the chance
+OL,8,Fof a light shower in the north and
+OL,9,Feast. Still feeling rather chilly,
+OL,10,Fthough winds a little lighter than on
+OL,11,FMonday. Maximum Temperature 7C.
 OL,12,
-OL,13,CTuesday:FVariable amounts of cloud,
-OL,14,Fbut widely dry through the day. Still
-OL,15,Ffeeling rather chilly, though winds a
-OL,16,Flittle lighter than on Monday. Maximum
-OL,17,FTemperature 8C.
+OL,13,CTonight:FRemaining dry and becoming
+OL,14,Fincreasingly clear overnight with
+OL,15,Ftemperatures falling quickly into the
+OL,16,Fevening as winds ease, with a
+OL,17,Fwidespread frost developing. Minimum
+OL,18,FTemperature -1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -27,18 +28,23 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1764013903
+OL,0,        ECIMSBWebfax 2   F130A1764046383
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FChance
-OL,6,Fof overnight frost and fog into
-OL,7,FWednesday, perhaps slow to clear.
-OL,8,FCloud and patchy rain spreads east
-OL,9,Fovernight. Breezier and much milder
-OL,10,FThursday and Friday with occasional
-OL,11,Frain.
+OL,5,CWednesday:FA largely fine day
+OL,6,FWednesday. Mostly clear and frosty to
+OL,7,Fstart. Breezier and gradually milder
+OL,8,Fby the evening with spells of light
+OL,9,Frain possible. Maximum Temperature 7C.
+OL,10,
+OL,11,COutlook for Thursday to Saturday:
+OL,12,FBreezier and remaining much milder
+OL,13,Fthrough Thursday and Friday with
+OL,14,Fspells of rain. Winds easing into
+OL,15,FSaturday but remaining unsettled and
+OL,16,Fforecast confidence reduces.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
