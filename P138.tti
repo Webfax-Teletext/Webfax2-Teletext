@@ -2,24 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1764143844
+OL,0,        ECIMSBWebfax 2   F138A1764183534
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FCloudy and windy as rain
-OL,6,Fspreads east through the morning,
-OL,7,Fheavy at times. Cloudy in the
-OL,8,Fafternoon with outbreaks of rain,
-OL,9,Fwinds and rain easing later. Milder
-OL,10,Fthan recent days. Maximum Temperature
-OL,11,F11C.
-OL,12,
-OL,13,CTonight:FDry for a time during the
-OL,14,Fevening but further rain soon
-OL,15,Farriving, turning heavy at times in
-OL,16,Fthe west and accompanied by strong
-OL,17,Fwinds. Minimum Temperature 6C.
+OL,5,CThis Evening and Tonight:FDry for a
+OL,6,Ftime during the evening but further
+OL,7,Frain will soon arrive, turning heavy
+OL,8,Fat times in the west and accompanied
+OL,9,Fby strong winds. Minimum Temperature
+OL,10,F6C.
+OL,11,
+OL,12,CThursday:FCloudy with outbreaks of
+OL,13,Frain in the morning, blustery showers
+OL,14,Fby late afternoon, strengthening winds
+OL,15,Fwith gales by the evening. Feeling
+OL,16,Fmild. Maximum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,23 +26,17 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1764143844
+OL,0,        ECIMSBWebfax 2   F138A1764183534
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThursday:FCloudy with outbreaks of
-OL,6,Frain in the morning, blustery showers
-OL,7,Fby late afternoon, strengthening winds
-OL,8,Fwith gales by the evening. Feeling
-OL,9,Fmild. Maximum Temperature 12C.
-OL,10,
-OL,11,COutlook for Friday to Sunday:FGales at
-OL,12,Ffirst Friday accompanied by showery
-OL,13,Frain, turning colder again later in
-OL,14,Fthe day. Showery at times on Saturday
-OL,15,Fand Sunday but some brighter spells
-OL,16,Ftoo, wintry on hills.
+OL,5,COutlook for Friday to Sunday:FGales at
+OL,6,Ffirst Friday accompanied by showery
+OL,7,Frain, turning colder again later in
+OL,8,Fthe day. Showery at times on Saturday
+OL,9,Fand Sunday but some brighter spells
+OL,10,Ftoo, wintry on hills.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
