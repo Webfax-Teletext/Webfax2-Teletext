@@ -2,23 +2,23 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764176315
+OL,0,        ECIMSBWebfax 2   F124A1764234073
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Fovercast with bands of rain moving
-OL,7,Fthrough and becoming more prolonged
-OL,8,Fover high ground. The wind will
-OL,9,Fgradually increase and become gusty at
-OL,10,Ftimes. Minimum Temperature 6C.
+OL,5,CToday:FCloud and outbreaks of rain and
+OL,6,Fdrizzle, often persistent and
+OL,7,Foccasionally heavier on western hills,
+OL,8,Fwith some drier interludes to the
+OL,9,Feast. Strong and rather gusty winds
+OL,10,Fbut mild. Maximum Temperature 13C.
 OL,11,
-OL,12,CThursday:FCloudy for most and
-OL,13,Fremaining mild with further bands of
-OL,14,Frain before turning more unsettled
-OL,15,Fwith gusty showers later. Maximum
-OL,16,FTemperature 13C.
+OL,12,CTonight:FCloud and outbreaks of rain
+OL,13,Fclearing away east through the evening
+OL,14,Fto become largely dry with clear
+OL,15,Fspells. Staying windy. Minimum
+OL,16,FTemperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -26,16 +26,24 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764176315
+OL,0,        ECIMSBWebfax 2   F124A1764234073
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Friday to Sunday:FBreezier
-OL,6,Fand unsettled to start with frequent
-OL,7,Fshowers before winds ease during
-OL,8,FSaturday and turning cooler with
-OL,9,Fisolated showers.
+OL,5,CFriday:FBright intervals but also some
+OL,6,Fheavy showers, especially around the
+OL,7,Fmiddle of the day and again in the
+OL,8,Fevening. Windy with temperatures
+OL,9,Fnearer average. Maximum Temperature 9C.
+OL,10,
+OL,11,COutlook for Saturday to Monday:
+OL,12,FSaturday, chance of cloud and rain
+OL,13,Fmoving north. Winds may ease before
+OL,14,Fstrengthening again. Sunday, turning
+OL,15,Fdrier and brighter but chilly. Winds
+OL,16,Feasing. Monday, wet and windy
+OL,17,Fconditions moving east.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
