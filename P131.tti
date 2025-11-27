@@ -2,25 +2,26 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1764205196
+OL,0,        ECIMSBWebfax 2   F131A1764281004
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FWidely cloudy with morning mist
-OL,6,Fand hill fog gradually lifting. A few
-OL,7,Fbrighter breaks at times, but for most
-OL,8,Fmainly overcast with outbreaks of rain
-OL,9,Fand drizzle, this sometimes heavy over
-OL,10,Fhigher ground. Feeling much milder but
-OL,11,Fbreezy too. Maximum Temperature 14C.
-OL,12,
-OL,13,CTonight:FSkies will clear from the
-OL,14,Fwest, leaving an increasingly settled
-OL,15,Fnight. Feeling chilly beneath clear
-OL,16,Fskies, but staying rather breezy so
-OL,17,Fremaining frost free. Minimum
-OL,18,FTemperature 4C.
+OL,5,CThis Evening and Tonight:FA band of
+OL,6,Fheavy rain pushing eastwards this
+OL,7,Fevening followed by lengthy clear
+OL,8,Fspells into the night with a few mist
+OL,9,Fand fog patches. Feeling chilly
+OL,10,Fbeneath clear skies, but staying
+OL,11,Frather breezy so remaining frost free.
+OL,12,FMinimum Temperature 4C.
+OL,13,
+OL,14,CFriday:FA day of sunshine and showers
+OL,15,Fmoving in from the west, which may be
+OL,16,Fheavy at times. Remaining windy,
+OL,17,Fespecially along the coasts, but
+OL,18,Ffeeling pleasant in sunny, sheltered
+OL,19,Fspots. Maximum Temperature 13C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -28,24 +29,17 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1764205196
+OL,0,        ECIMSBWebfax 2   F131A1764281004
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CFriday:FA day of sunshine and showers,
-OL,6,Fthese moving in from the west may be
-OL,7,Fheavy at times. Remaining windy,
-OL,8,Fespecially along the coasts, but
-OL,9,Ffeeling pleasant in sunny, sheltered
-OL,10,Fspots. Maximum Temperature 13C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FWidely
-OL,13,Fwet and windy on Saturday, before
-OL,14,Fturning drier and more settled on
-OL,15,FSunday. Unsettled again from Monday as
-OL,16,Frain arrives from the west. Feeling
-OL,17,Fcolder with overnight frosts possible.
+OL,5,COutlook for Saturday to Monday:FWidely
+OL,6,Fwet and windy on Saturday, before
+OL,7,Fturning drier and more settled on
+OL,8,FSunday. Unsettled again from Monday as
+OL,9,Frain arrives from the west. Feeling
+OL,10,Fcolder with overnight frosts possible.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
