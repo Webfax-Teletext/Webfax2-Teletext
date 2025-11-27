@@ -2,24 +2,25 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1764248508
+OL,0,        ECIMSBWebfax 2   F139A1764266556
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FA mostly cloudy day with patchy
-OL,6,Flight rain and drizzle. Brighter
-OL,7,Fspells developing later in the
-OL,8,Fafternoon as thicker cloud and rain
-OL,9,Fclears eastwards. Strong southwesterly
-OL,10,Fwinds with coastal gales in the west
-OL,11,Flater. Maximum Temperature 14C.
-OL,12,
-OL,13,CTonight:FIt will be a dry night with
-OL,14,Fpatchy cloud and clear spells. Winds
-OL,15,Fremaining strong throughout with a
-OL,16,Frisk of localised gales. Minimum
-OL,17,FTemperature 4C.
+OL,5,CThis Evening and Tonight:FIt will be a
+OL,6,Fdry night with patchy cloud in the
+OL,7,Fwest and clear periods in the east.
+OL,8,FWinds remaining strong throughout with
+OL,9,Fa risk of localised gales. Minimum
+OL,10,FTemperature 4C.
+OL,11,
+OL,12,CFriday:FA mostly dry and cloudy
+OL,13,Fmorning with some bright intervals.
+OL,14,FCloudy in the afternoon with patchy
+OL,15,Frain and drizzle spreading
+OL,16,Fsoutheastwards. Strong winds and risk
+OL,17,Fof gales easing later. Maximum
+OL,18,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -27,25 +28,17 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1764248508
+OL,0,        ECIMSBWebfax 2   F139A1764266556
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CFriday:FA mostly dry and cloudy
-OL,6,Fmorning with some bright intervals.
-OL,7,FCloudy in the afternoon with patchy
-OL,8,Frain and drizzle spreading
-OL,9,Fsoutheastwards. Strong winds and risk
-OL,10,Fof gales easing later. Maximum
-OL,11,FTemperature 9C.
-OL,12,
-OL,13,COutlook for Saturday to Monday:FMostly
-OL,14,Fcloudy with bright or sunny interludes
-OL,15,Fon Saturday and Sunday, a few showers
-OL,16,Fpossible also. Cloudy with rain on
-OL,17,FMonday. Mostly light winds but
-OL,18,Fbecoming strong Monday.
+OL,5,COutlook for Saturday to Monday:FMostly
+OL,6,Fcloudy with bright or sunny interludes
+OL,7,Fon Saturday and Sunday, a few showers
+OL,8,Fpossible also. Cloudy with rain on
+OL,9,FMonday. Mostly light winds but
+OL,10,Fbecoming strong Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
