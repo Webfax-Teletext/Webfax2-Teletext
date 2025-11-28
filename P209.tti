@@ -1,21 +1,21 @@
 PN,20901
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1764356793
+OL,0,        ECIMSBWebfax 2   F209A1764360417
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G1/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for FRI 28 NOV
-OL,4,G1830FThis Is Sports Extra
-OL,5,     GThis is BBC Radio 5 Sports Extra
-OL,6,     G- bringing you even more live
-OL,7,     Gcommentaries from the world's
-OL,8,     Ggreatest sporting events. Listen
-OL,9,     Gon BBC Sounds.
-OL,10,G1945FRugby Union
-OL,11,     GLive rugby union commentary from
-OL,12,     GBBC Radio Devon of Sale Sharks v
-OL,13,     GExeter Chiefs in the PREM.
-OL,14,G2200FThis Is Sports Extra
+OL,4,G1945FRugby Union
+OL,5,     GLive rugby union commentary from
+OL,6,     GBBC Radio Devon of Sale Sharks v
+OL,7,     GExeter Chiefs in the PREM.
+OL,8,G2200FThis Is Sports Extra
+OL,9,     GThis is BBC Radio 5 Sports Extra
+OL,10,     G- bringing you even more live
+OL,11,     Gcommentaries from the world's
+OL,12,     Ggreatest sporting events. Listen
+OL,13,     Gon BBC Sounds.
+OL,14,G0000FThis Is Sports Extra
 OL,15,     GThis is BBC Radio 5 Sports Extra
 OL,16,     G- bringing you even more live
 OL,17,     Gcommentaries from the world's
@@ -27,22 +27,16 @@ FL,210,200,150,300,000,100
 PN,20902
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1764356793
+OL,0,        ECIMSBWebfax 2   F209A1764360417
 OL,1,W{${$~+$ {$~{4k4h7} *w3 hwshw1G2/2
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (,' (,'"-$V,,,,
 OL,3,CProgramme listings for FRI 28 NOV
-OL,4,G0000FThis Is Sports Extra
-OL,5,     GThis is BBC Radio 5 Sports Extra
-OL,6,     G- bringing you even more live
-OL,7,     Gcommentaries from the world's
-OL,8,     Ggreatest sporting events. Listen
-OL,9,     Gon BBC Sounds.
-OL,10,G0320FCricket
-OL,11,     GLive ball-by-ball cricket
-OL,12,     Gcommentary from ABC in Australia
-OL,13,     Gof the Prime Minister's XI v
-OL,14,     GEngland in an Ashes warm-up match
-OL,15,     Gahead of the 2nd test.
+OL,4,G0320FCricket
+OL,5,     GLive ball-by-ball cricket
+OL,6,     Gcommentary from ABC in Australia
+OL,7,     Gof the Prime Minister's XI v
+OL,8,     GEngland in an Ashes warm-up match
+OL,9,     Gahead of the 2nd test.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,210,200,150,300,000,100
