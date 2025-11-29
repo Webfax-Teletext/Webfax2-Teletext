@@ -2,28 +2,28 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764428992
+OL,0,        ECIMSBWebfax 2   F124A1764443425
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FCloudy with spells of rain
-OL,6,Fperhaps becoming more persistent this
-OL,7,Fafternoon and sometimes heavy, also
-OL,8,Fpossibly turning wintry for the
-OL,9,FPennines. Winds may ease before
-OL,10,Fstrengthening again later especially
-OL,11,Falong the coast where there is a risk
-OL,12,Fof gales developing. Maximum
-OL,13,FTemperature 7C.
+OL,5,CThis Evening and Tonight:FRain,
+OL,6,Fperhaps wintry across the Pennines,
+OL,7,Fwill move eastwards through the
+OL,8,Fevening and become increasingly
+OL,9,Fconfined to coastal areas, with
+OL,10,Fwestern areas becoming dry. Windy,
+OL,11,Fwith a risk of coastal gales. Feeling
+OL,12,Fcold, with frost in the west. Minimum
+OL,13,FTemperature 0C.
 OL,14,
-OL,15,CTonight:FRain will gradually ease from
-OL,16,Fthe west, probably becoming confined
-OL,17,Fto coastal areas, with drier but
-OL,18,Flargely cloudy conditions following.
-OL,19,FWindy along the coast with perhaps
-OL,20,Fgales. Breezy elsewhere. Minimum
-OL,21,FTemperature 1C.
+OL,15,CSunday:FProbably windy at first along
+OL,16,Fthe coast with scattered showers,
+OL,17,Fbreezy elsewhere with patchy cloud.
+OL,18,FLargely sunny conditions will develop
+OL,19,Fthrough the day as the wind slowly
+OL,20,Feases. Feeling cold. Maximum
+OL,21,FTemperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -31,25 +31,17 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764428992
+OL,0,        ECIMSBWebfax 2   F124A1764443425
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CSunday:FProbably windy at first along
-OL,6,Fthe coast with scattered showers,
-OL,7,Fbreezy elsewhere with patchy cloud.
-OL,8,FLargely sunny conditions will develop
-OL,9,Fthrough the day as the wind slowly
-OL,10,Feases. Feeling cold. Maximum
-OL,11,FTemperature 5C.
-OL,12,
-OL,13,COutlook for Monday to Wednesday:FMilder
-OL,14,FMonday with rain for much of the day.
-OL,15,FCooler again with temperatures closer
-OL,16,Fto normal for Tuesday and Wednesday,
-OL,17,Fwith bright or sunny spells and a
-OL,18,Fchance of showers.
+OL,5,COutlook for Monday to Wednesday:FMilder
+OL,6,FMonday with rain for much of the day.
+OL,7,FCooler again with temperatures closer
+OL,8,Fto normal for Tuesday and Wednesday,
+OL,9,Fwith bright or sunny spells and a
+OL,10,Fchance of showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
