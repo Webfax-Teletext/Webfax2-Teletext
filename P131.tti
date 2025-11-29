@@ -2,27 +2,26 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1764367637
+OL,0,        ECIMSBWebfax 2   F131A1764392897
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud moving
-OL,6,Fin from the west will become
-OL,7,Fwidespread this evening, with rain
-OL,8,Fspreading across the region. Heavy and
-OL,9,Fpersistent at times overnight.
-OL,10,FBecoming breezy too, especially around
-OL,11,Fthe coasts with near-gale force winds
-OL,12,Fby dawn. Minimum Temperature 4C.
+OL,5,CToday:FHeavy and persistent rain
+OL,6,Fspreads eastwards through the morning,
+OL,7,Fpotentially leading to some travel
+OL,8,Fdisruption. Briefly brighter, before
+OL,9,Fshowers begin feeding in from the
+OL,10,Fnorth. Breezy, especially along around
+OL,11,Fthe coasts, but winds settling down
+OL,12,Flater. Maximum Temperature 10C.
 OL,13,
-OL,14,CSaturday:FRemaining widely wet with
-OL,15,Fpersistent and sometimes heavy rain
-OL,16,Fsoon replaced by showers feeding in
-OL,17,Ffrom the northwest. Breezy too, but
-OL,18,Fbeginning to feel cooler in the
-OL,19,Fnorthwesterly wind. Maximum
-OL,20,FTemperature 10C.
+OL,14,CTonight:FShowers will fade through
+OL,15,Fthis evening with clouds clearing
+OL,16,Fovernight. Feeling chilly beneath
+OL,17,Fclear skies with a touch of frost in
+OL,18,Frural spots. Winds easing, becoming
+OL,19,Flight. Minimum Temperature -1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -30,17 +29,24 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1764367637
+OL,0,        ECIMSBWebfax 2   F131A1764392897
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FA
-OL,6,Fchillier but brighter and drier day on
-OL,7,FSunday with an early frost. Turning
-OL,8,Fwet and windy on Monday, with sunshine
-OL,9,Fand showers on Tuesday. Temperatures
-OL,10,Fgenerally around average.
+OL,5,CSunday:FA much drier, brighter day
+OL,6,Fwith plenty of sunny spells, but
+OL,7,Ffeeling chillier than recent days.
+OL,8,FLight winds begin to strengthen into
+OL,9,Fthe evening as cloud thickens from the
+OL,10,Fwest. Maximum Temperature 10C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:FWidely
+OL,13,Fwet and windy on Monday as mild air
+OL,14,Fmoves in from the west. Temperatures
+OL,15,Frecovering to average on Tuesday and
+OL,16,FWednesday, with sunshine and showers
+OL,17,Ffor many.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
