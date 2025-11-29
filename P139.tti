@@ -2,25 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1764349575
+OL,0,        ECIMSBWebfax 2   F139A1764389290
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Fthrough the evening and overnight with
-OL,7,Frain, perhaps heavy at times, slowly
-OL,8,Fspreading southeastwards. Strong winds
-OL,9,Fbecoming light. Turning colder with
-OL,10,Fperhaps a touch of rural frost.
-OL,11,FMinimum Temperature 1C.
+OL,5,CToday:FThe morning will begin cloudy
+OL,6,Fwith showery rain in the north. This
+OL,7,Frain will become lighter while
+OL,8,Fspreading south during the morning.
+OL,9,FDry and bright conditions will follow
+OL,10,Ffrom the north during the afternoon.
+OL,11,FMaximum Temperature 6C.
 OL,12,
-OL,13,CSaturday:FCloudy with the odd spot of
-OL,14,Flight rain at first. Otherwise a
-OL,15,Fmostly dry day with patchy cloud,
-OL,16,Fchance of rain into Eastern Borders.
-OL,17,FFeeling colder than recent days.
-OL,18,FMaximum Temperature 6C.
+OL,13,CTonight:FEvening rain will soon clear
+OL,14,Fthe southeast to leave the night
+OL,15,Fmostly dry. Showers will spread to far
+OL,16,Feastern parts from midnight. Minimum
+OL,17,FTemperature -2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -28,17 +27,21 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1764349575
+OL,0,        ECIMSBWebfax 2   F139A1764389290
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FBright
-OL,6,Fspells and the odd shower Sunday,
-OL,7,Fcloud and rain spreading east later.
-OL,8,FCloudy with rain on Monday and winds
-OL,9,Fstrengthening. Drier on Tuesday with
-OL,10,Fsunny spells and some showers.
+OL,5,CSunday:FAfter a dry, bright and frosty
+OL,6,Fstart, cloud will spread southeast
+OL,7,Fwith rain pushing into the west from
+OL,8,Fthe evening. Maximum Temperature 5C.
+OL,9,
+OL,10,COutlook for Monday to Wednesday:FMonday
+OL,11,Fand Tuesday will stay mainly dry with
+OL,12,Fbright or sunny spells. It will become
+OL,13,Fcloudy with scattered showers during
+OL,14,FWednesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
