@@ -2,25 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1764389290
+OL,0,        ECIMSBWebfax 2   F132A1764439815
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FThe morning will begin cloudy
-OL,6,Fwith showery rain. This rain will
-OL,7,Fbecome lighter while clearing
-OL,8,Fsoutheast during the morning. Dry and
-OL,9,Fbrighter conditions will follow from
-OL,10,Fthe northwest during the afternoon.
-OL,11,FMaximum Temperature 7C.
-OL,12,
-OL,13,CTonight:FThe evening will begin dry
-OL,14,Fwith clear periods. Cloud will soon
-OL,15,Fincrease from the west with a few
-OL,16,Fshowers spreading spreading slowly
-OL,17,Feast from the late evening. Minimum
-OL,18,FTemperature 0C.
+OL,5,CThis Evening and Tonight:FThe evening
+OL,6,Fwill begin dry with clear periods.
+OL,7,FCloud will soon increase from the west
+OL,8,Fwith a few showers spreading spreading
+OL,9,Fslowly east from the late evening.
+OL,10,FMinimum Temperature 0C.
+OL,11,
+OL,12,CSunday:FThe odd shower possible first
+OL,13,Fthing. Otherwise a dry, bright and
+OL,14,Fcold morning. Cloud will spread east
+OL,15,Fwith rain following from the west from
+OL,16,Fthe late afternoon. Maximum
+OL,17,FTemperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -28,22 +27,17 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1764389290
+OL,0,        ECIMSBWebfax 2   F132A1764439815
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CSunday:FAfter a dry, bright and frosty
-OL,6,Fstart, cloud will spread east with
-OL,7,Frain following from the west from the
-OL,8,Flate afternoon. Maximum Temperature 6C.
-OL,9,
-OL,10,COutlook for Monday to Wednesday:FMonday
-OL,11,Fwill begin cloudy with showers merging
-OL,12,Finto longer periods of rain at times.
-OL,13,FTuesday and Wednesday will stay mostly
-OL,14,Fdry with occasional bright or sunny
-OL,15,Fspells.
+OL,5,COutlook for Monday to Wednesday:FMonday
+OL,6,Fwill begin cloudy with showers merging
+OL,7,Finto longer periods of rain at times.
+OL,8,FTuesday and Wednesday will stay mostly
+OL,9,Fdry with occasional bright spells, and
+OL,10,Fa few showers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
