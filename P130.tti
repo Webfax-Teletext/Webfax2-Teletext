@@ -2,24 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1764475905
+OL,0,        ECIMSBWebfax 2   F130A1764530068
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FDry and bright for all parts,
-OL,6,Fwith long sunny spells for most.
-OL,7,FBreezy to start but winds will fall
-OL,8,Flight through the morning. Feeling
-OL,9,Fcold with temperatures below average.
-OL,10,FMaximum Temperature 8C.
-OL,11,
-OL,12,CTonight:FCold but increasingly cloudy
-OL,13,Fthough the evening, with strengthening
-OL,14,Fwinds. Rain will arrive from the west
-OL,15,Fovernight, perhaps heavy at times,
-OL,16,Fwith winds becoming strong. Minimum
-OL,17,FTemperature -1C.
+OL,5,CThis Evening and Tonight:FCold but
+OL,6,Fincreasingly cloudy though the
+OL,7,Fevening, with strengthening winds.
+OL,8,FRain will arrive from the west
+OL,9,Fovernight, perhaps heavy at times,
+OL,10,Fwith winds becoming strong. Minimum
+OL,11,FTemperature 1C.
+OL,12,
+OL,13,CMonday:FA cloudy, windy and damp day
+OL,14,Fas outbreaks of rain, which may be
+OL,15,Fheavy at times, move northeastward.
+OL,16,FRain perhaps easing through the middle
+OL,17,Fof the day. Milder than Sunday.
+OL,18,FMaximum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -27,24 +28,16 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1764475905
+OL,0,        ECIMSBWebfax 2   F130A1764530068
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CMonday:FA cloudy, windy and damp day
-OL,6,Fas outbreaks of rain, which may be
-OL,7,Fheavy at times, move northeastward.
-OL,8,FRain perhaps easing through the middle
-OL,9,Fof the day. Milder than Sunday.
-OL,10,FMaximum Temperature 11C.
-OL,11,
-OL,12,COutlook for Tuesday to Thursday:FSunny
-OL,13,Fintervals and showers but chilly on
-OL,14,FTuesday and Wednesday, with a fresh
-OL,15,Fbreeze. Cloudy with rain and strong
-OL,16,Fwinds again Thursday, feeling rather
-OL,17,Fcold.
+OL,5,COutlook for Tuesday to Thursday:FSunny
+OL,6,Fintervals and showers but chilly on
+OL,7,FTuesday and Wednesday, with a fresh
+OL,8,Fbreeze on Tuesday. Cloudy with rain
+OL,9,Fand windy again Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
