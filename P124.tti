@@ -2,25 +2,26 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764493979
+OL,0,        ECIMSBWebfax 2   F124A1764526458
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FWindy at first along the coast
-OL,6,Fwith scattered showers, breezy
-OL,7,Felsewhere with patchy cloud. Largely
-OL,8,Fsunny conditions will develop through
-OL,9,Fthe day as the wind slowly eases.
-OL,10,FFeeling cold. Maximum Temperature 6C.
-OL,11,
-OL,12,CTonight:FChilly but increasingly
-OL,13,Fcloudy though the evening, as
-OL,14,Foutbreaks of light rain arrive from
-OL,15,Fthe west on strengthening winds. Rain
-OL,16,Fbecoming heavy and persistent
-OL,17,Fovernight, with winds near gale force.
-OL,18,FMinimum Temperature 1C.
+OL,5,CThis Evening and Tonight:FChilly but
+OL,6,Fincreasingly cloudy though the
+OL,7,Fevening, as outbreaks of light rain
+OL,8,Farrive from the west on strengthening
+OL,9,Fwinds. Rain becoming heavy and
+OL,10,Fpersistent overnight, with winds near
+OL,11,Fgale force. Minimum Temperature 1C.
+OL,12,
+OL,13,CMonday:FA cloudy and wet day as
+OL,14,Foutbreaks of rain, which may be heavy
+OL,15,Fat times, move northeastward. Strong
+OL,16,Fwind through the morning and
+OL,17,Fafternoon, easing later. Windy with
+OL,18,Frain overnight. Maximum Temperature
+OL,19,F12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -28,25 +29,16 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764493979
+OL,0,        ECIMSBWebfax 2   F124A1764526458
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CMonday:FA cloudy and wet day as
-OL,6,Foutbreaks of rain, which may be heavy
-OL,7,Fat times, move northeastward. Strong
-OL,8,Fwind through the morning and
-OL,9,Fafternoon, easing later. Windy with
-OL,10,Frain overnight. Maximum Temperature
-OL,11,F12C.
-OL,12,
-OL,13,COutlook for Tuesday to Thursday:FSunny
-OL,14,Fintervals and showers but chilly on
-OL,15,FTuesday and Wednesday, with a fresh
-OL,16,Fbreeze. Cloudy with rain and strong
-OL,17,Fwinds again Thursday, feeling rather
-OL,18,Fcold.
+OL,5,COutlook for Tuesday to Thursday:FSunny
+OL,6,Fintervals and showers but chilly on
+OL,7,FTuesday and Wednesday, with a fresh
+OL,8,Fbreeze on Tuesday. Cloudy with rain
+OL,9,Fand windy again Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
