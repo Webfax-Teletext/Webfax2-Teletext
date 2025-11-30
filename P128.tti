@@ -2,27 +2,27 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1764450643
+OL,0,        ECIMSBWebfax 2   F128A1764493979
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy at
-OL,6,Ffirst as rain continues through the
-OL,7,Fevening, but eventually turning drier
-OL,8,Ffrom midnight. Skies becoming clear,
-OL,9,Fallowing the odd frost patch to
-OL,10,Fdevelop. Breezy for a time, but winds
-OL,11,Fgradually easing overnight. Feeling
-OL,12,Fchilly. Minimum Temperature -1C.
+OL,5,CToday:FA chilly start with frost
+OL,6,Fpatches and icy stretches possible, as
+OL,7,Fa ridge of high pressure brings widely
+OL,8,Ffine and dry conditions with light
+OL,9,Fwinds. Becoming increasingly cloudy
+OL,10,Ffrom the west through the afternoon as
+OL,11,Fa weather system approaches. Maximum
+OL,12,FTemperature 8C.
 OL,13,
-OL,14,CSunday:FA dry and more settled start,
-OL,15,Fwith plenty of sunshine and light
-OL,16,Fwinds. Feeling chillier. Turning
-OL,17,Fincreasingly cloudy and breezier from
-OL,18,Fthe west through the evening, with
-OL,19,Frain arriving overnight. Maximum
-OL,20,FTemperature 8C.
+OL,14,CTonight:FWinds strengthening and
+OL,15,Fconditions turning unsettled overnight
+OL,16,Fas a weather system pushes
+OL,17,Fnortheastwards, bringing widespread
+OL,18,Fand prolonged rain, this perhaps heavy
+OL,19,Fat times. Feeling mild. Minimum
+OL,20,FTemperature 3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -30,17 +30,24 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1764450643
+OL,0,        ECIMSBWebfax 2   F128A1764493979
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FWidely
-OL,6,Fwet and windy on Monday as mild air
-OL,7,Fmoves in from the west. Temperatures
-OL,8,Frecovering to average on Tuesday and
-OL,9,FWednesday, with the return of sunshine
-OL,10,Fand scattered showers.
+OL,5,CMonday:FA dull and damp start for
+OL,6,Fmost, as bands of rain continue to
+OL,7,Fpush northeastwards, bringing
+OL,8,Fwidespread cloud and further outbreaks
+OL,9,Fof heavy rain. Breezy at times.
+OL,10,FMaximum Temperature 13C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:
+OL,13,FChangeable conditions continue from
+OL,14,FTuesday, with a mix of scattered
+OL,15,Fshowers and sunny spells. Temperatures
+OL,16,Fnear average. Breezy at times,
+OL,17,Fprimarily over higher ground.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
