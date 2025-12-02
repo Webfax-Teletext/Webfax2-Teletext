@@ -2,22 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1764652783
+OL,0,        ECIMSBWebfax 2   F129A1764707001
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FA bright day on Tuesday with
-OL,6,Fsunny spells and just the chance of a
-OL,7,Fshower into the afternoon. The breeze
-OL,8,Fsteadily easing but maintaining a
-OL,9,Fcooler feel. Maximum Temperature 10C.
-OL,10,
-OL,11,CTonight:FBecoming cloudy this evening
-OL,12,Fwith further showers possible. Drier
-OL,13,Fafter midnight with clear spells and
-OL,14,Ffog patches by dawn. Grass frost
-OL,15,Finland. Minimum Temperature 1C.
+OL,5,CThis Evening and Tonight:FCloudy this
+OL,6,Fevening with further showers possible.
+OL,7,FTurning drier after midnight with
+OL,8,Fclear spells and mist or fog patches
+OL,9,Flikely by dawn. Grass frost in
+OL,10,Fsheltered prone areas. Minimum
+OL,11,FTemperature 1C.
+OL,12,
+OL,13,CWednesday:FMostly dry on Wednesday
+OL,14,Fwith many parts seeing long sunny
+OL,15,Fspells. Isolated light showers may
+OL,16,Faffect eastern and southern parts
+OL,17,Fthrough the afternoon. Breezy. Maximum
+OL,18,FTemperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -25,24 +28,17 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1764652783
+OL,0,        ECIMSBWebfax 2   F129A1764707001
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CWednesday:FMostly dry on Wednesday
-OL,6,Fwith many parts seeing long sunny
-OL,7,Fspells. Isolated light showers may
-OL,8,Faffect western and southern parts this
-OL,9,Fafternoon. Breezy. Maximum Temperature
-OL,10,F9C.
-OL,11,
-OL,12,COutlook for Thursday to Saturday:
-OL,13,FFurther spells of heavy rain likely
-OL,14,Fduring Thursday morning. Dry for much
-OL,15,Fof Friday after a colder, misty start.
-OL,16,FScattered showers on Saturday, may
-OL,17,Fturn heavy at times.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FSpells of heavy rain likely during
+OL,7,FThursday morning. Dry for much of
+OL,8,FFriday after a colder, misty start,
+OL,9,Fthen moderate or heavy rain by the
+OL,10,Fevening. Scattered showers on Saturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
