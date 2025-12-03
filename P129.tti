@@ -2,24 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1764735880
+OL,0,        ECIMSBWebfax 2   F129A1764779218
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FDry with low cloud, mist and
-OL,6,Ffog in some areas to start, this
-OL,7,Fbreaking up through the morning to
-OL,8,Fleave good spells of sunshine.
-OL,9,FGenerally light winds, but blustery
-OL,10,Falong the coast. Maximum Temperature
-OL,11,F9C.
-OL,12,
-OL,13,CTonight:FMostly dry, with low cloud
-OL,14,Fforming in the evening. The odd shower
-OL,15,Fpossible along the coast overnight.
-OL,16,FChilly, with ground frost possible in
-OL,17,Frural areas. Minimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FMostly dry,
+OL,6,Fwith low cloud forming in the evening.
+OL,7,FThe odd shower possible along the
+OL,8,Fcoast overnight. Chilly, with ground
+OL,9,Ffrost possible in rural areas. Minimum
+OL,10,FTemperature 4C.
+OL,11,
+OL,12,CThursday:FDry at first, with any low
+OL,13,Fcloud lingering. Outbreaks of rain
+OL,14,Fmoving in during the morning, slowly
+OL,15,Fclearing north overnight. Cold
+OL,16,Fovernight, with fog possible and
+OL,17,Fwidespread frost expected. Maximum
+OL,18,FTemperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -27,25 +28,17 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1764735880
+OL,0,        ECIMSBWebfax 2   F129A1764779218
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThursday:FDry at first, with any low
-OL,6,Fcloud lingering. Outbreaks of rain
-OL,7,Fmoving in during the morning, slowly
-OL,8,Fclearing north overnight. Cold
-OL,9,Fovernight, with fog possible and
-OL,10,Fwidespread frost expected. Maximum
-OL,11,FTemperature 8C.
-OL,12,
-OL,13,COutlook for Friday to Sunday:FDry on
-OL,14,FFriday, with rain and very strong
-OL,15,Fwinds developing in the evening. Winds
-OL,16,Feasing on Saturday. Unsettled Saturday
-OL,17,Fand Sunday, with sunny spells, showers
-OL,18,Fand longer spells of rain.
+OL,5,COutlook for Friday to Sunday:FDry on
+OL,6,FFriday, with rain and very strong
+OL,7,Fwinds developing in the evening. Winds
+OL,8,Feasing on Saturday. Unsettled Saturday
+OL,9,Fand Sunday, with sunny spells, showers
+OL,10,Fand longer spells of rain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
