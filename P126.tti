@@ -2,25 +2,26 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1764829747
+OL,0,        ECIMSBWebfax 2   F126A1764880275
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CToday:FDry but cloudy start, with hill
-OL,6,Ffog. Outbreaks of rain will gradually
-OL,7,Fspread northeast this morning, perhaps
-OL,8,Fbecoming heavier at times this
-OL,9,Fafternoon. Temperatures will be close
-OL,10,Fto average. Maximum Temperature 8C.
-OL,11,
-OL,12,CTonight:FCloud and outbreaks of rain
-OL,13,Fthis evening, gradually clearing north
-OL,14,Fovernight. Dry and clearer conditions
-OL,15,Ffollow, with a slight frost
-OL,16,Fdeveloping, especially in rural areas
-OL,17,Fand perhaps patchy freezing fog.
-OL,18,FMinimum Temperature 0C.
+OL,5,CThis Evening and Tonight:FCloud and
+OL,6,Foutbreaks of rain this evening,
+OL,7,Fgradually clearing north overnight.
+OL,8,FDry and clearer conditions follow,
+OL,9,Fwith a slight frost developing,
+OL,10,Fespecially in rural areas and perhaps
+OL,11,Fpatchy freezing fog. Minimum
+OL,12,FTemperature 0C.
+OL,13,
+OL,14,CFriday:FDry with patchy cloud and
+OL,15,Fsunny spells through the morning, then
+OL,16,Fincreasing cloud and strengthening
+OL,17,Fwinds through the afternoon. Feeling
+OL,18,Fcold. Becoming wet and windy through
+OL,19,Fthe evening. Maximum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -28,24 +29,17 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1764829747
+OL,0,        ECIMSBWebfax 2   F126A1764880275
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CFriday:FDry with patchy cloud and
-OL,6,Fsunny spells through the morning, then
-OL,7,Fincreasing cloud and strengthening
-OL,8,Fwinds through the afternoon. Feeling
-OL,9,Fcold. Becoming wet and windy through
-OL,10,Fthe evening. Maximum Temperature 6C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:
-OL,13,FSaturday showers or spells of rain,
-OL,14,Fprobably drier later. Sunday dry start
-OL,15,Fthen a band of rain moves through.
-OL,16,FMonday chance of early outbreaks of
-OL,17,Frain, then dry and bright.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FSaturday showers or spells of rain,
+OL,7,Fprobably drier later. Sunday dry start
+OL,8,Fthen a band of rain moves through.
+OL,9,FMonday chance of early outbreaks of
+OL,10,Frain, then dry and bright.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
