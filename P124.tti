@@ -2,23 +2,24 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764844186
+OL,0,        ECIMSBWebfax 2   F124A1764869447
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FDry but cloudy start, with hill
-OL,6,Ffog. Outbreaks of rain will gradually
-OL,7,Fspread northeast later this morning,
-OL,8,Fperhaps becoming heavier at times this
-OL,9,Fafternoon. Temperatures will be close
-OL,10,Fto average. Maximum Temperature 8C.
+OL,5,CThis Evening and Tonight:FCloud and
+OL,6,Foutbreaks of rain this evening and for
+OL,7,Fmuch of tonight, with the rain
+OL,8,Fbecoming light. Later dry conditions
+OL,9,Fwith clear spells will spread north.
+OL,10,FMinimum Temperature 1C.
 OL,11,
-OL,12,CTonight:FCloud and outbreaks of rain
-OL,13,Fthis evening and for much of tonight,
-OL,14,Fwith the rain becoming light. Later
-OL,15,Fdry conditions with clear spells will
-OL,16,Fspread north. Minimum Temperature 1C.
+OL,12,CFriday:FDry with patchy cloud and
+OL,13,Fsunny spells through the morning, then
+OL,14,Fincreasing cloud and strengthening
+OL,15,Fwinds through the afternoon. Feeling
+OL,16,Fcold. Becoming wet and windy through
+OL,17,Fthe evening. Maximum Temperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -26,24 +27,17 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764844186
+OL,0,        ECIMSBWebfax 2   F124A1764869447
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CFriday:FDry with patchy cloud and
-OL,6,Fsunny spells through the morning, then
-OL,7,Fincreasing cloud and strengthening
-OL,8,Fwinds through the afternoon. Feeling
-OL,9,Fcold. Becoming wet and windy through
-OL,10,Fthe evening. Maximum Temperature 5C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:
-OL,13,FSaturday showers or spells of rain,
-OL,14,Fprobably drier later. Sunday dry start
-OL,15,Fthen a band of rain moves through.
-OL,16,FMonday chance of early outbreaks of
-OL,17,Frain, then dry and bright.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FSaturday showers or spells of rain,
+OL,7,Fprobably drier later. Sunday dry start
+OL,8,Fthen a band of rain moves through.
+OL,9,FMonday chance of early outbreaks of
+OL,10,Frain, then dry and bright.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
