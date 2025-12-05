@@ -2,25 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1764916368
+OL,0,        ECIMSBWebfax 2   F130A1764952464
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FDry this morning with bright or
-OL,6,Fsunny spells once early patchy
-OL,7,Ffreezing fog clears. Wet and windy
-OL,8,Fconditions gradually spread east this
-OL,9,Fafternoon and evening with gales
-OL,10,Flikely to develop along English
-OL,11,FChannel coasts. Maximum Temperature 9C.
+OL,5,CThis Evening and Tonight:FRain, often
+OL,6,Fheavy, will clear east with broken
+OL,7,Fcloud and scattered heavy showers
+OL,8,Ffollowing, these with a chance of hail
+OL,9,Fand thunder. Remaining windy with a
+OL,10,Fchance of coastal gales. Minimum
+OL,11,FTemperature 7C.
 OL,12,
-OL,13,CTonight:FRain, often heavy, will clear
-OL,14,Feast with broken cloud and scattered
-OL,15,Fheavy showers following, these with a
-OL,16,Fchance of hail and thunder. Remaining
-OL,17,Fwindy with a chance of coastal gales.
-OL,18,FMinimum Temperature 7C.
+OL,13,CSaturday:FBreezy with sunny spells and
+OL,14,Fscattered heavy showers, these heavy
+OL,15,Fat times with a chance of hail and
+OL,16,Fthunder. Windy along the south coast,
+OL,17,Fbreezy elsewhere. Maximum Temperature
+OL,18,F11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -28,25 +28,18 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1764916368
+OL,0,        ECIMSBWebfax 2   F130A1764952464
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CSaturday:FSaturday breezy with sunny
-OL,6,Fspells and scattered heavy showers,
-OL,7,Fthese heavy at times with a chance of
-OL,8,Fhail and thunder. Windy along the
-OL,9,Fsouth coast, breezy elsewhere. Maximum
-OL,10,FTemperature 10C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FSunday
-OL,13,Frain spreads northeast. Monday bright
-OL,14,Fand breezy with a chance of showers
-OL,15,Fthen wet and windy conditions arrive
-OL,16,Fovernight, gradually clearing east
-OL,17,Fthrough Tuesday. Temperatures
-OL,18,Fgenerally slightly above average.
+OL,5,COutlook for Sunday to Tuesday:FSunday;
+OL,6,Frain spreads northeast. Monday; bright
+OL,7,Fand breezy with a chance of showers
+OL,8,Fthen wet and windy conditions arrive
+OL,9,Fovernight, gradually clearing east
+OL,10,Fthrough Tuesday. Temperatures
+OL,11,Fgenerally slightly above average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
