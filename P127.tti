@@ -2,26 +2,26 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1764876666
+OL,0,        ECIMSBWebfax 2   F127A1764934413
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud and
-OL,6,Fpatchy rain across northern areas will
-OL,7,Fgradually move away northwards, with
-OL,8,Fdry and clear conditions following. A
-OL,9,Fwidespread frost will develop, while
-OL,10,Ffreezing fog patches likely to form.
-OL,11,FMinimum Temperature -2C.
+OL,5,CToday:FDry with bright or sunny spells
+OL,6,Fthis morning once any early patchy
+OL,7,Ffreezing fog clears. Becoming cloudy
+OL,8,Fand windy this afternoon, with rain
+OL,9,Fspreading northeast from late
+OL,10,Fafternoon. Feeling cold. Maximum
+OL,11,FTemperature 6C.
 OL,12,
-OL,13,CFriday:FDry with sunny spells through
-OL,14,Fthe morning once any early patchy
-OL,15,Ffreezing fog clears. Becoming cloudy
-OL,16,Fand windy through the afternoon, with
-OL,17,Frain spreading northeast from late
-OL,18,Fafternoon. Feeling cold. Maximum
-OL,19,FTemperature 6C.
+OL,13,CTonight:FRain, often heavy, will clear
+OL,14,Feast with broken cloud and scattered
+OL,15,Fheavy showers following. Later most
+OL,16,Fshowers fade away. Windy initially
+OL,17,Fwith a risk of coastal gales,
+OL,18,Fovernight winds ease. Minimum
+OL,19,FTemperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -29,18 +29,24 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1764876666
+OL,0,        ECIMSBWebfax 2   F127A1764934413
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:
-OL,6,FSaturday breezy with scattered heavy
-OL,7,Fshowers. Sunday a band of rain moves
-OL,8,Fnortheast. Monday any residual
-OL,9,Fovernight rain quickly clears then dry
-OL,10,Fand bright by day, with further rain
-OL,11,Fovernight.
+OL,5,CSaturday:FSaturday sunny spells and
+OL,6,Fscattered showers, which may be heavy
+OL,7,Fat times. Breezy for many places with
+OL,8,Ftemperatures close to average. Maximum
+OL,9,FTemperature 10C.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:FSunday
+OL,12,Foutbreaks of rain spread northeast.
+OL,13,FMonday bright and breezy with a chance
+OL,14,Fof showers then wet and windy
+OL,15,Fconditions arrive overnight, gradually
+OL,16,Fclearing east through Tuesday.
+OL,17,FGenerally mild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
