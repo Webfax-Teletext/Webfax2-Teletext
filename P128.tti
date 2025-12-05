@@ -2,26 +2,24 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1764880275
+OL,0,        ECIMSBWebfax 2   F128A1764898324
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FDry
-OL,6,Fthroughout Thursday evening with clear
-OL,7,Fspells continuing into the night,
-OL,8,Fthough cloud building towards dawn. A
-OL,9,Fchilly night with areas of frost and
-OL,10,Ffog possible where winds fall light.
-OL,11,FMinimum Temperature -1C.
-OL,12,
-OL,13,CFriday:FBright spells possible during
-OL,14,Fthe morning but turning increasingly
-OL,15,Fcloudy ahead of rain arriving later in
-OL,16,Fthe afternoon. Winds picking up in
-OL,17,Fstrength with widely gusty conditions
-OL,18,Fdeveloping by evening. Maximum
-OL,19,FTemperature 8C.
+OL,5,CToday:FBright spells possible during
+OL,6,Fthe morning but turning increasingly
+OL,7,Fcloudy ahead of rain arriving later in
+OL,8,Fthe afternoon. Winds picking up in
+OL,9,Fstrength with widely gusty conditions
+OL,10,Fdeveloping. Maximum Temperature 8C.
+OL,11,
+OL,12,CTonight:FWet and windy this evening
+OL,13,Fwith heavy bursts of rain possible.
+OL,14,FDrier interludes emerging overnight as
+OL,15,Fwinds ease, though still some showery
+OL,16,Foutbreaks at times. Staying frost
+OL,17,Ffree. Minimum Temperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -29,18 +27,25 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1764880275
+OL,0,        ECIMSBWebfax 2   F128A1764898324
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:
-OL,6,FChangeable this weekend and into next
-OL,7,Fweek. Often cloudy on Saturday with
-OL,8,Fshowers. Early rain on Sunday clearing
-OL,9,Fto brighter spells, then somewhat
-OL,10,Fdrier on Monday. Milder but often
-OL,11,Fbreezy.
+OL,5,CSaturday:FOften cloudy with showers or
+OL,6,Flonger spells of rain on and off
+OL,7,Fthroughout the day. Small chance of
+OL,8,Fsome brighter breaks. Temperatures up
+OL,9,Fslightly compared to Friday despite
+OL,10,Flimited sunshine. Maximum Temperature
+OL,11,F11C.
+OL,12,
+OL,13,COutlook for Sunday to Tuesday:FEarly
+OL,14,Frain on Sunday clearing to brighter
+OL,15,Fspells. Dry for most of Monday but
+OL,16,Fwith a notably wet and windy spell
+OL,17,Fpossible overnight into Tuesday. Mild
+OL,18,Fbut often breezy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
