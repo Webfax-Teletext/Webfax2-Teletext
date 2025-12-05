@@ -2,26 +2,23 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764934413
+OL,0,        ECIMSBWebfax 2   F124A1764948855
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FDry, apart for perhaps some
-OL,6,Fresidual overnight rain soon clearing
-OL,7,Ffrom Northumberland. Overall there
-OL,8,Fwill be large amounts of cloud, but
-OL,9,Fsome bright or sunny spells may occur
-OL,10,Fthis morning. Feeling cold, especially
-OL,11,Fas the wind strengthens this
-OL,12,Fafternoon. Maximum Temperature 5C.
-OL,13,
-OL,14,CTonight:FBecoming wet and windy this
-OL,15,Fevening with a risk of coastal gales
-OL,16,Fdeveloping. Overnight the rain moves
-OL,17,Faway northeastwards, then scattered
-OL,18,Fshowers and clear spells follow while
-OL,19,Fthe wind eases. Minimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FBecoming wet
+OL,6,Fand windy this evening with a risk of
+OL,7,Fcoastal gales developing. Overnight
+OL,8,Fthe rain moves away north-eastwards,
+OL,9,Fthen scattered showers and clear
+OL,10,Fspells follow while the wind eases.
+OL,11,FMinimum Temperature 4C.
+OL,12,
+OL,13,CSaturday:FSunny spells and scattered
+OL,14,Fshowers, which may be heavy at times.
+OL,15,FLight winds and temperatures closer to
+OL,16,Faverage. Maximum Temperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,24 +26,18 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1764934413
+OL,0,        ECIMSBWebfax 2   F124A1764948855
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CSaturday:FSaturday sunny spells and
-OL,6,Fscattered showers, which may be heavy
-OL,7,Fat times. Light winds and temperatures
-OL,8,Fcloser to average. Maximum Temperature
-OL,9,F9C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FSunday
-OL,12,Fdry morning then rain spreading
-OL,13,Fnortheast. Monday bright and breezy
-OL,14,Fwith a chance of showers then wet and
-OL,15,Fwindy conditions arrive overnight,
-OL,16,Fgradually clearing east through
-OL,17,FTuesday. Generally mild.
+OL,5,COutlook for Sunday to Tuesday:FSunday;
+OL,6,Fdry morning then rain spreading
+OL,7,Fnortheast. Monday; bright and breezy
+OL,8,Fwith a chance of showers then wet and
+OL,9,Fwindy conditions arrive overnight,
+OL,10,Fgradually clearing east through
+OL,11,FTuesday. Generally mild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
