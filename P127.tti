@@ -2,26 +2,24 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1764934413
+OL,0,        ECIMSBWebfax 2   F127A1764966900
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FDry with bright or sunny spells
-OL,6,Fthis morning once any early patchy
-OL,7,Ffreezing fog clears. Becoming cloudy
-OL,8,Fand windy this afternoon, with rain
-OL,9,Fspreading northeast from late
-OL,10,Fafternoon. Feeling cold. Maximum
-OL,11,FTemperature 6C.
+OL,5,CThis Evening and Tonight:FRain, often
+OL,6,Fheavy, will clear east with broken
+OL,7,Fcloud and scattered heavy showers
+OL,8,Ffollowing. Later most showers will
+OL,9,Ffade away. Windy initially with a risk
+OL,10,Fof coastal gales, overnight winds
+OL,11,Fease. Minimum Temperature 5C.
 OL,12,
-OL,13,CTonight:FRain, often heavy, will clear
-OL,14,Feast with broken cloud and scattered
-OL,15,Fheavy showers following. Later most
-OL,16,Fshowers fade away. Windy initially
-OL,17,Fwith a risk of coastal gales,
-OL,18,Fovernight winds ease. Minimum
-OL,19,FTemperature 5C.
+OL,13,CSaturday:FSunny spells and scattered
+OL,14,Fshowers, which may be heavy at times.
+OL,15,FBreezy for many places with
+OL,16,Ftemperatures close to average. Maximum
+OL,17,FTemperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -29,24 +27,18 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1764934413
+OL,0,        ECIMSBWebfax 2   F127A1764966900
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CSaturday:FSaturday sunny spells and
-OL,6,Fscattered showers, which may be heavy
-OL,7,Fat times. Breezy for many places with
-OL,8,Ftemperatures close to average. Maximum
-OL,9,FTemperature 10C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FSunday
-OL,12,Foutbreaks of rain spread northeast.
-OL,13,FMonday bright and breezy with a chance
-OL,14,Fof showers then wet and windy
-OL,15,Fconditions arrive overnight, gradually
-OL,16,Fclearing east through Tuesday.
-OL,17,FGenerally mild.
+OL,5,COutlook for Sunday to Tuesday:FSunday;
+OL,6,Foutbreaks of rain spread northeast.
+OL,7,FMonday; bright and breezy with a
+OL,8,Fchance of showers then wet and windy
+OL,9,Fconditions arrive overnight, gradually
+OL,10,Fclearing east through Tuesday.
+OL,11,FGenerally mild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
