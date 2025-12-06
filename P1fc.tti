@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1765049921
+OL,0,        ECIMSBWebfax 2   F1fcA1765053529
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1765049921;
-OL,10,GService: Webfax 2 - 9968 3ae8d8d00
-OL,11,FLast Update: 06/12/2025 19:38:41  G1/2
+OL,25,1765053529;
+OL,10,GService: Webfax 2 - 9969 25ab725ee
+OL,11,FLast Update: 06/12/2025 20:38:49  G1/2
 OL,13,CbbcNews/Technology         G05/12-18:08
 OL,14,CbbcSport/Tennis            G05/12-15:34
-OL,15,Ageneric/pollen_forecast    G06/12-19:32
+OL,15,Ageneric/pollen_forecast    G06/12-20:34
 OL,16,CitvNews/border             G05/12-18:19
-OL,17,CitvNews/london             G05/12-16:18
-OL,18,CitvNews/tyne-tees          G05/12-18:19
-OL,19,CitvSport/border            G18/11-22:28
-OL,20,CitvSport/calendar          G18/11-22:28
-OL,21,CitvSport/central           G28/11-20:06
-OL,22,CitvSport/channel           G28/11-18:06
-OL,23,CitvSport/granada           G04/12-18:30
+OL,17,CitvNews/channel            G05/12-20:19
+OL,18,CitvNews/london             G05/12-16:18
+OL,19,CitvNews/tyne-tees          G05/12-18:19
+OL,20,CitvSport/border            G18/11-22:28
+OL,21,CitvSport/calendar          G18/11-22:28
+OL,22,CitvSport/central           G28/11-20:06
+OL,23,CitvSport/channel           G28/11-18:06
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1765049921
+OL,0,        ECIMSBWebfax 2   F1fcA1765053529
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,10 +42,11 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1765049921;
-OL,10,GService: Webfax 2 - 9968 3ae8d8d00
-OL,11,FLast Update: 06/12/2025 19:38:41  G2/2
-OL,13,CitvSport/london            G18/11-22:28
-OL,14,CitvSport/meridian          G29/11-15:09
-OL,15,CitvSport/tyne-tees         G28/11-16:06
-OL,16,CitvSport/utv               G18/11-22:28
+OL,25,1765053529;
+OL,10,GService: Webfax 2 - 9969 25ab725ee
+OL,11,FLast Update: 06/12/2025 20:38:49  G2/2
+OL,13,CitvSport/granada           G04/12-18:30
+OL,14,CitvSport/london            G18/11-22:28
+OL,15,CitvSport/meridian          G29/11-15:09
+OL,16,CitvSport/tyne-tees         G28/11-16:06
+OL,17,CitvSport/utv               G18/11-22:28
