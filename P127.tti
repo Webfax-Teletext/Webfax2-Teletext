@@ -2,25 +2,25 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1765086009
+OL,0,        ECIMSBWebfax 2   F127A1765140158
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FDry to start, with some early
-OL,6,Fbright spells, before the cloud
-OL,7,Fthickens up during the morning. Rain
-OL,8,Fand stronger winds then spread
-OL,9,Fnortheast by mid-morning, heavy and
-OL,10,Fpersistent at times into the
-OL,11,Fafternoon. Generally mild. Maximum
-OL,12,FTemperature 13C.
-OL,13,
-OL,14,CTonight:FThe rain and cloud clearing
-OL,15,Fnorthwards during the evening with
-OL,16,Fwinds strengthening. A generally dry,
-OL,17,Fcool night following with some clear
-OL,18,Fspells. Minimum Temperature 6C.
+OL,5,CThis Evening and Tonight:FRain and
+OL,6,Fcloud quickly clearing to the
+OL,7,Fnortheast through the evening. The
+OL,8,Fstrong, gusty winds continuing through
+OL,9,Fthe evening and overnight. Staying
+OL,10,Fgenerally dry with some clear spells
+OL,11,Fdeveloping. Minimum Temperature 6C.
+OL,12,
+OL,13,CMonday:FSome rain likely around dawn
+OL,14,Fbut then mostly dry with good spells
+OL,15,Fof sunshine and fresh winds
+OL,16,Fcontinuing. A few showers possible in
+OL,17,Fthe afternoon with winds easing later
+OL,18,Fon. Maximum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -28,24 +28,17 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1765086009
+OL,0,        ECIMSBWebfax 2   F127A1765140158
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CMonday:FSome rain likely around dawn
-OL,6,Fbut then mostly dry with good spells
-OL,7,Fof sunshine and fresh winds
-OL,8,Fcontinuing. A few showers possible in
-OL,9,Fthe afternoon with winds easing later
-OL,10,Fon. Maximum Temperature 11C.
-OL,11,
-OL,12,COutlook for Tuesday to Thursday:FEarly
-OL,13,Frain and very strong winds expected on
-OL,14,FTuesday. Mostly dry on Wednesday but
-OL,15,Fstaying windy. Thursday seeing lighter
-OL,16,Fwinds but a risk of rain. Temperatures
-OL,17,Faverage or slightly above.
+OL,5,COutlook for Tuesday to Thursday:FRain
+OL,6,Fand very strong winds expected early
+OL,7,Fon Tuesday. Mostly dry on Wednesday
+OL,8,Fbut staying windy. Thursday seeing
+OL,9,Flighter winds but a risk of rain.
+OL,10,FTemperatures average or slightly above.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
