@@ -2,26 +2,26 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765057139
+OL,0,        ECIMSBWebfax 2   F124A1765089618
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FBlustery
-OL,6,Fshowers possible at first, fading
-OL,7,Fthrough the evening. Cloud breaking to
-OL,8,Fclear spells, allowing some mist or
-OL,9,Ffog patches to form. Further cloud
-OL,10,Fspreads northeast after midnight, with
-OL,11,Fsome light rain possible. Minimum
-OL,12,FTemperature 2C.
+OL,5,CToday:FDry to start, with some early
+OL,6,Fbright spells, before the cloud
+OL,7,Fthickens up during the morning. Rain
+OL,8,Fand stronger winds then spread
+OL,9,Fnortheast late morning, heavy and
+OL,10,Fpersistent at times in the afternoon.
+OL,11,FGenerally mild. Maximum Temperature
+OL,12,F12C.
 OL,13,
-OL,14,CSunday:FCloud in the morning, with the
-OL,15,Fodd spot of rain. More widespread
-OL,16,Frain, occasionally heavy, spreading in
-OL,17,Ffrom the southwest around midday, with
-OL,18,Fstrong winds expected. Very mild
-OL,19,FMaximum Temperature 12C.
+OL,14,CTonight:FThe rain and cloud clearing
+OL,15,Fnorthwards during the evening with
+OL,16,Fwinds becoming strong. A generally
+OL,17,Fdry, cool night following with some
+OL,18,Fclear spells and winds easing slightly
+OL,19,F. Minimum Temperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,17 +29,24 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765057139
+OL,0,        ECIMSBWebfax 2   F124A1765089618
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FRather
-OL,6,Funsettled but mild, with rain moving
-OL,7,Fin Monday evening into Tuesday
-OL,8,Fmorning, turning heavy at times. Very
-OL,9,Fwindy on Tuesday. Drier, brighter
-OL,10,Fperiods likely on Monday and Wednesday.
+OL,5,CMonday:FRain likely around dawn but
+OL,6,Fthen mostly dry with good spells of
+OL,7,Fsunshine and fresh winds continuing. A
+OL,8,Ffew showers possible in the afternoon
+OL,9,Fwith winds easing later on. Maximum
+OL,10,FTemperature 10C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:FEarly
+OL,13,Frain and very strong winds expected on
+OL,14,FTuesday. Mostly dry on Wednesday but
+OL,15,Fstaying windy. Thursday seeing lighter
+OL,16,Fwinds but a risk of rain. Temperatures
+OL,17,Faverage or slightly above.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
