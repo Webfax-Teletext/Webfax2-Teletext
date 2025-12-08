@@ -2,23 +2,26 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1765183485
+OL,0,        ECIMSBWebfax 2   F139A1765219575
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FA cloudy start with showers,
-OL,6,Fsome of which will be heavy. Showers
-OL,7,Fclear to the north through the morning
-OL,8,Fto leave the rest of the day dry with
-OL,9,Fsome bright or sunny spells
-OL,10,Fdeveloping. Maximum Temperature 10C.
-OL,11,
-OL,12,CTonight:FIt will be a dry evening with
-OL,13,Fclear spells. Overnight cloud and
-OL,14,Fheavy rain will spread northeastwards
-OL,15,Facross all areas. Winds strengthening.
-OL,16,FMinimum Temperature 4C.
+OL,5,CThis Evening and Tonight:FIt will be a
+OL,6,Fdry evening with clear spells and
+OL,7,Fvariable amounts of cloud. Cloud and
+OL,8,Fheavy rain will spread northeastwards
+OL,9,Facross all areas through the early
+OL,10,Fhours. Winds strengthening. Minimum
+OL,11,FTemperature 4C.
+OL,12,
+OL,13,CTuesday:FHeavy rain clearing
+OL,14,Fnorthwards through the morning.
+OL,15,FRemaining mostly cloudy with some
+OL,16,Flight outbreaks of rain possible, but
+OL,17,Fmany staying dry in the afternoon.
+OL,18,FStorm Bram brings gale-force winds.
+OL,19,FMaximum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -26,25 +29,17 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1765183485
+OL,0,        ECIMSBWebfax 2   F139A1765219575
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CTuesday:FHeavy rain clearing
-OL,6,Fnorthwards through the morning.
-OL,7,FRemaining mostly cloudy with some
-OL,8,Flight outbreaks of rain possible, but
-OL,9,Fmany staying dry in the afternoon.
-OL,10,FStrong winds and coastal gales.
-OL,11,FMaximum Temperature 14C.
-OL,12,
-OL,13,COutlook for Wednesday to Friday:FSunny
-OL,14,Fspells and showers on Wednesday with a
-OL,15,Frisk of coastal gales. Thursday and
-OL,16,FFriday remain mostly cloudy with
-OL,17,Foccasional rain interspersed with dry
-OL,18,Fperiods, and breezy at times.
+OL,5,COutlook for Wednesday to Friday:FSunny
+OL,6,Fspells and showers on Wednesday with
+OL,7,Fcoastal gales. Thursday and Friday
+OL,8,Fremain mostly cloudy with occasional
+OL,9,Frain interspersed with dry periods,
+OL,10,Fand breezy at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100

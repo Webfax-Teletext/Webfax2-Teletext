@@ -2,25 +2,26 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765183485
+OL,0,        ECIMSBWebfax 2   F129A1765219575
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FMostly dry if rather cloudy
-OL,6,Fweather for Monday with some morning
-OL,7,Fbrightness. The brisk winds will
-OL,8,Fcontinue. A few showers or some rain
-OL,9,Flikely for the afternoon, with thicker
-OL,10,Fcloud. Winds easing. Maximum
-OL,11,FTemperature 13C.
+OL,5,CThis Evening and Tonight:FCloud
+OL,6,Fthickening with showers merging to
+OL,7,Flonger spells of moderate rain, some
+OL,8,Fheavier bursts of rain likely after
+OL,9,Fmidnight, with winds freshening
+OL,10,Ffurther. A mild night. Minimum
+OL,11,FTemperature 10C.
 OL,12,
-OL,13,CTonight:FCloud thickening with showers
-OL,14,Fmerging to longer spells of rain, some
-OL,15,Fheavy after midnight, with winds
-OL,16,Ffreshening further. A mild night.
-OL,17,FPerhaps drier later. Minimum
-OL,18,FTemperature 10C.
+OL,13,CTuesday:FWindy start to Tuesday with
+OL,14,Ffurther heavier bursts of rain
+OL,15,Fclearing during the afternoon,
+OL,16,Fremaining mostly cloudy. Strong winds
+OL,17,Fwith possible coastal gales. Very or
+OL,18,Fexceptionally mild by the afternoon.
+OL,19,FMaximum Temperature 14C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,26 +29,18 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765183485
+OL,0,        ECIMSBWebfax 2   F129A1765219575
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CTuesday:FWindy start to Tuesday with
-OL,6,Fheavier bursts of rain clearing.
-OL,7,FStaying mostly cloudy with limited
-OL,8,Fbrightness. Further strong winds with
-OL,9,Fpossible coastal gales. Very or
-OL,10,Fexceptionally mild by afternoon.
-OL,11,FMaximum Temperature 14C.
-OL,12,
-OL,13,COutlook for Wednesday to Friday:FBright
-OL,14,Fon Wednesday with possible blustery
-OL,15,Fshowers. Winds easing for Thursday
-OL,16,Fwith bright or sunny spells. Overnight
-OL,17,Fstronger winds with rain clearing by
-OL,18,FFriday afternoon. Temperatures mostly
-OL,19,Fabove normal.
+OL,5,COutlook for Wednesday to Friday:FBright
+OL,6,Fon Wednesday with possible blustery
+OL,7,Fshowers. Winds easing for Thursday
+OL,8,Fwith bright or sunny spells. Friday
+OL,9,Fwinds ease with patchy rain during the
+OL,10,Fafternoon. Temperatures mostly above
+OL,11,Fnormal.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
