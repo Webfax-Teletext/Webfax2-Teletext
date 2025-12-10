@@ -2,23 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765331472
+OL,0,        ECIMSBWebfax 2   F129A1765385604
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FBright but breezy, with sunny
-OL,6,Fspells for many and generally dry,
-OL,7,Falthough just the chance of an
-OL,8,Fisolated shower blowing through. Still
-OL,9,Fmild but less so than Tuesday. Maximum
-OL,10,FTemperature 12C.
-OL,11,
-OL,12,CTonight:FDry overnight with patchy
-OL,13,Fcloud and clear spells, especially
-OL,14,Fafter midnight. Winds easing. perhaps
-OL,15,Fallowing a few fog patches to form
-OL,16,Finland. Minimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FDry
+OL,6,Fovernight with some patchy cloud and
+OL,7,Fclear spells, especially after
+OL,8,Fmidnight. Winds easing. perhaps
+OL,9,Fallowing a few mist or fog patches to
+OL,10,Fform inland by dawn. Minimum
+OL,11,FTemperature 5C.
+OL,12,
+OL,13,CThursday:FA dry start with bright
+OL,14,Fspells after any early mist or fog
+OL,15,Fpatches clear. Turning cloudier in the
+OL,16,Fafternoon, perhaps with a few spots of
+OL,17,Fdrizzle later. Breezy but mild.
+OL,18,FMaximum Temperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -26,24 +28,17 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765331472
+OL,0,        ECIMSBWebfax 2   F129A1765385604
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThursday:FDry start with bright spells
-OL,6,Fafter any early fog patches clear.
-OL,7,FTurning cloudier in the afternoon,
-OL,8,Fperhaps with a few spots of drizzle
-OL,9,Flater. Breezy but mild. Maximum
-OL,10,FTemperature 11C.
-OL,11,
-OL,12,COutlook for Friday to Sunday:FBand of
-OL,13,Frain moves erratically east on Friday,
-OL,14,Fdrier conditions to follow with winds
-OL,15,Feasing. Saturday and Sunday turning
-OL,16,Fwindy again. Dry start probably
-OL,17,Fturning wetter later. Staying mild.
+OL,5,COutlook for Friday to Sunday:FBand of
+OL,6,Frain moves erratically east on Friday,
+OL,7,Fdrier conditions to follow with winds
+OL,8,Feasing. Mostly dry for Saturday, with
+OL,9,Fstrong winds and further rain on
+OL,10,FSunday. Staying mild.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
