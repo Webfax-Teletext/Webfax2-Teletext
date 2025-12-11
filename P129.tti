@@ -2,24 +2,25 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765428900
+OL,0,        ECIMSBWebfax 2   F129A1765479448
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FA dry start with bright spells
-OL,6,Fafter any early mist or fog patches
-OL,7,Fclear. Turning rather cloudier through
-OL,8,Fthe afternoon, perhaps with the odd
-OL,9,Fspot of light rain or drizzle in
-OL,10,Fplaces. An increasing breeze but mild.
-OL,11,FMaximum Temperature 11C.
-OL,12,
-OL,13,CTonight:FCloudy overnight with the odd
-OL,14,Fpatch of light rain or drizzle in
-OL,15,Fplaces, although often dry. Brisk
-OL,16,Fbreeze around the coast but lighter
-OL,17,Finland. Mild. Minimum Temperature 8C.
+OL,5,CThis Evening and Tonight:FCloudy
+OL,6,Fovernight with the odd patch of light
+OL,7,Frain or drizzle in places, although
+OL,8,Foften dry. Brisk breeze around the
+OL,9,Fcoast but lighter inland. Mild.
+OL,10,FMinimum Temperature 8C.
+OL,11,
+OL,12,CFriday:FCloudy with a weakening band
+OL,13,Fof rain moving slowly east across the
+OL,14,Fregion, eventually clearing offshore
+OL,15,Fthrough the evening. Drier conditions
+OL,16,Ffollow from the west. Lighter winds
+OL,17,Fthan recent days. Maximum Temperature
+OL,18,F12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -27,25 +28,17 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765428900
+OL,0,        ECIMSBWebfax 2   F129A1765479448
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CFriday:FCloudy with a weakening band
-OL,6,Fof rain moving slowly east across the
-OL,7,Fregion, eventually clearing offshore
-OL,8,Fthrough the evening. Drier conditions
-OL,9,Ffollow from the west. Lighter winds
-OL,10,Fthan recent days. Maximum Temperature
-OL,11,F12C.
-OL,12,
-OL,13,COutlook for Saturday to Monday:FDry
-OL,14,Fstart Saturday, but further spells of
-OL,15,Fwet and windy weather are expected at
-OL,16,Ftimes through the period, with coastal
-OL,17,Fgales possible. Temperatures remain
-OL,18,Fabove average.
+OL,5,COutlook for Saturday to Monday:FDry
+OL,6,Fstart Saturday, but further spells of
+OL,7,Fwet and windy weather are expected at
+OL,8,Ftimes through the period, with coastal
+OL,9,Fgales possible. Temperatures remain
+OL,10,Fabove average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
