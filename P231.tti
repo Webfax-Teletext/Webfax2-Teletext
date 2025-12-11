@@ -1,7 +1,7 @@
 PN,23101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1765349513
+OL,0,        ECIMSBWebfax 2   F231A1765432510
 OL,1,W{${$~+$ {$~{4k4h7} (        G1/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for THU 11 DEC
@@ -28,7 +28,7 @@ FL,232,200,150,300,000,100
 PN,23102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1765349513
+OL,0,        ECIMSBWebfax 2   F231A1765432510
 OL,1,W{${$~+$ {$~{4k4h7} (        G2/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for THU 11 DEC
@@ -57,7 +57,7 @@ FL,232,200,150,300,000,100
 PN,23103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1765349513
+OL,0,        ECIMSBWebfax 2   F231A1765432510
 OL,1,W{${$~+$ {$~{4k4h7} (        G3/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for THU 11 DEC
@@ -83,7 +83,7 @@ FL,232,200,150,300,000,100
 PN,23104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1765349513
+OL,0,        ECIMSBWebfax 2   F231A1765432510
 OL,1,W{${$~+$ {$~{4k4h7} (        G4/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /V(,,,,,,,,,,,
 OL,3,CProgramme listings for THU 11 DEC
@@ -95,9 +95,8 @@ OL,8,G0400FRadio 1's Workout Anthems
 OL,9,     GMotivational tunes to get you
 OL,10,     Gmoving!
 OL,11,G0500FRadio 1 Early Breakfast
-OL,12,     GRadio 1 Early Breakfast - for
-OL,13,     Gthose still up and those getting
-OL,14,     Gup!
+OL,12,     GEmma Millen starts Friday on
+OL,13,     GRadio 1.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,232,200,150,300,000,100
