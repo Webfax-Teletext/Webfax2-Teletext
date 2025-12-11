@@ -2,25 +2,24 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765385604
+OL,0,        ECIMSBWebfax 2   F129A1765428900
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FDry
-OL,6,Fovernight with some patchy cloud and
-OL,7,Fclear spells, especially after
-OL,8,Fmidnight. Winds easing. perhaps
-OL,9,Fallowing a few mist or fog patches to
-OL,10,Fform inland by dawn. Minimum
-OL,11,FTemperature 5C.
+OL,5,CToday:FA dry start with bright spells
+OL,6,Fafter any early mist or fog patches
+OL,7,Fclear. Turning rather cloudier through
+OL,8,Fthe afternoon, perhaps with the odd
+OL,9,Fspot of light rain or drizzle in
+OL,10,Fplaces. An increasing breeze but mild.
+OL,11,FMaximum Temperature 11C.
 OL,12,
-OL,13,CThursday:FA dry start with bright
-OL,14,Fspells after any early mist or fog
-OL,15,Fpatches clear. Turning cloudier in the
-OL,16,Fafternoon, perhaps with a few spots of
-OL,17,Fdrizzle later. Breezy but mild.
-OL,18,FMaximum Temperature 11C.
+OL,13,CTonight:FCloudy overnight with the odd
+OL,14,Fpatch of light rain or drizzle in
+OL,15,Fplaces, although often dry. Brisk
+OL,16,Fbreeze around the coast but lighter
+OL,17,Finland. Mild. Minimum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,17 +27,25 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765385604
+OL,0,        ECIMSBWebfax 2   F129A1765428900
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Friday to Sunday:FBand of
-OL,6,Frain moves erratically east on Friday,
-OL,7,Fdrier conditions to follow with winds
-OL,8,Feasing. Mostly dry for Saturday, with
-OL,9,Fstrong winds and further rain on
-OL,10,FSunday. Staying mild.
+OL,5,CFriday:FCloudy with a weakening band
+OL,6,Fof rain moving slowly east across the
+OL,7,Fregion, eventually clearing offshore
+OL,8,Fthrough the evening. Drier conditions
+OL,9,Ffollow from the west. Lighter winds
+OL,10,Fthan recent days. Maximum Temperature
+OL,11,F12C.
+OL,12,
+OL,13,COutlook for Saturday to Monday:FDry
+OL,14,Fstart Saturday, but further spells of
+OL,15,Fwet and windy weather are expected at
+OL,16,Ftimes through the period, with coastal
+OL,17,Fgales possible. Temperatures remain
+OL,18,Fabove average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
