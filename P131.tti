@@ -2,26 +2,25 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1765501106
+OL,0,        ECIMSBWebfax 2   F131A1765573300
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CToday:FRain in the east gradually
-OL,6,Fclearing but cloud may linger into the
-OL,7,Fafternoon. A brighter day in the west
-OL,8,Fwith sunny spells, though the odd
-OL,9,Fshower may drift into western coasts.
-OL,10,FWinds lighter than of late but feeling
-OL,11,Ffresher. Maximum Temperature 10C.
+OL,5,CThis Evening and Tonight:FIsolated
+OL,6,Fshowers still possible along western
+OL,7,Fcoasts. Otherwise, dry overnight with
+OL,8,Flengthy clear periods and light winds.
+OL,9,FA chilly night with pockets of frost
+OL,10,Fand fog developing. Minimum
+OL,11,FTemperature -1C.
 OL,12,
-OL,13,CTonight:FIsolated showers still
-OL,14,Fpossible along western coasts.
-OL,15,FOtherwise, dry overnight with lengthy
-OL,16,Fclear periods and light winds. A
-OL,17,Fchilly night with pockets of frost and
-OL,18,Ffog developing. Minimum Temperature
-OL,19,F-1C.
+OL,13,CSaturday:FBright to begin the weekend,
+OL,14,Fthough sunshine turning hazier through
+OL,15,Fthe day as cloud builds. Winds
+OL,16,Fstrengthening with gusty conditions
+OL,17,Fdeveloping into evening. Remaining
+OL,18,Fdry. Maximum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -29,25 +28,18 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1765501106
+OL,0,        ECIMSBWebfax 2   F131A1765573300
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CSaturday:FBright to begin the weekend,
-OL,6,Fthough sunshine turning hazier through
-OL,7,Fthe day as cloud builds. Winds
-OL,8,Fstrengthening with gusty conditions
-OL,9,Fdeveloping into evening. Remaining
-OL,10,Fdry. Maximum Temperature 11C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:FDry but
-OL,13,Frather cloudy and windy on Sunday.
-OL,14,FTurning wetter overnight with an
-OL,15,Funsettled theme continuing into next
-OL,16,Fweek, where further rain and brisk
-OL,17,Fwinds are expected. Becoming milder
-OL,18,Fagain.
+OL,5,COutlook for Sunday to Tuesday:FDry but
+OL,6,Frather cloudy and windy on Sunday.
+OL,7,FTurning wetter overnight with an
+OL,8,Funsettled theme continuing into next
+OL,9,Fweek, where further rain and brisk
+OL,10,Fwinds are expected. Becoming milder
+OL,11,Fagain.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
