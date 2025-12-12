@@ -2,25 +2,26 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765479448
+OL,0,        ECIMSBWebfax 2   F129A1765533589
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Fovernight with the odd patch of light
-OL,7,Frain or drizzle in places, although
-OL,8,Foften dry. Brisk breeze around the
-OL,9,Fcoast but lighter inland. Mild.
-OL,10,FMinimum Temperature 8C.
-OL,11,
-OL,12,CFriday:FCloudy with a weakening band
-OL,13,Fof rain moving slowly east across the
-OL,14,Fregion, eventually clearing offshore
-OL,15,Fthrough the evening. Drier conditions
-OL,16,Ffollow from the west. Lighter winds
-OL,17,Fthan recent days. Maximum Temperature
-OL,18,F12C.
+OL,5,CToday:FA rather cloudy start for many,
+OL,6,Fbefore a narrow band of rain slowly
+OL,7,Fmoves east across the region during
+OL,8,Fthe afternoon. Becoming drier from the
+OL,9,Fwest by the evening. Lighter winds
+OL,10,Fthan recent days, with temperatures
+OL,11,Faround normal. Maximum Temperature 12C.
+OL,12,
+OL,13,CTonight:FA narrow rain band will
+OL,14,Fgradually clear offshore this evening,
+OL,15,Fwith drier and clearer conditions
+OL,16,Ffollowing. Turning locally chilly,
+OL,17,Fwith patchy frost and fog forming in
+OL,18,Fplaces. Light winds. Minimum
+OL,19,FTemperature 1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -28,17 +29,24 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1765479448
+OL,0,        ECIMSBWebfax 2   F129A1765533589
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,COutlook for Saturday to Monday:FDry
-OL,6,Fstart Saturday, but further spells of
-OL,7,Fwet and windy weather are expected at
-OL,8,Ftimes through the period, with coastal
-OL,9,Fgales possible. Temperatures remain
-OL,10,Fabove average.
+OL,5,CSaturday:FAfter a chilly start, it
+OL,6,Fwill be a mostly fine and dry day,
+OL,7,Fwith some good spells of sunshine for
+OL,8,Fmany. Temperatures near normal.
+OL,9,FBecoming breezier later in the day.
+OL,10,FMaximum Temperature 9C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FLargely
+OL,13,Fdry, bright and windy Sunday and
+OL,14,FMonday. Cloudy with outbreaks of rain
+OL,15,Flikely on Tuesday, gradually clearing
+OL,16,Fsoutheastwards later. Temperatures
+OL,17,Fabove the average.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
