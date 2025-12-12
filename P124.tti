@@ -2,24 +2,26 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765479448
+OL,0,        ECIMSBWebfax 2   F124A1765522760
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FCloud
-OL,6,Fthickening late evening with outbreaks
-OL,7,Fof rain moving slowly east overnight.
-OL,8,FStaying breezy through most of the
-OL,9,Fnight but winds easing by dawn. Mild.
-OL,10,FMinimum Temperature 6C.
-OL,11,
-OL,12,CFriday:FEarly cloud and rain clearing
-OL,13,Feast through the morning, with drier
-OL,14,Fand brighter conditions following. A
-OL,15,Ffew showers spreading to the Pennines
-OL,16,Flater. Winds noticeably lighter than
-OL,17,Frecent days. Maximum Temperature 9C.
+OL,5,CToday:FEarly cloud and rain clearing
+OL,6,Feast through the morning, with drier
+OL,7,Fand brighter conditions following.
+OL,8,FPerhaps a few showers reaching the
+OL,9,FPennines into the evening. Winds
+OL,10,Fnoticeably lighter than recent days,
+OL,11,Fwith temperatures around normal.
+OL,12,FMaximum Temperature 10C.
+OL,13,
+OL,14,CTonight:FAny showers easing this
+OL,15,Fevening to leave a mostly dry night,
+OL,16,Fwith clear spells for many. Turning
+OL,17,Flocally chilly in some sheltered rural
+OL,18,Fspots, with a touch of frost. Breezy.
+OL,19,FMinimum Temperature 0C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -27,18 +29,26 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765479448
+OL,0,        ECIMSBWebfax 2   F124A1765522760
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Saturday to Monday:FFurther
-OL,6,Fspells of wet and often windy weather
-OL,7,Fare expected through the period.
-OL,8,FHeaviest rain falling on west-facing
-OL,9,Fhills, with coastal and upland gales
-OL,10,Fat times. Temperatures remain above
-OL,11,Faverage.
+OL,5,CSaturday:FAfter a bright and chilly
+OL,6,Fstart, increasing cloud will bring
+OL,7,Foutbreaks of rain, locally heavy,
+OL,8,Facross western hills during the day.
+OL,9,FDrier and brighter in sheltered
+OL,10,Feastern parts. Becoming windy. Maximum
+OL,11,FTemperature 10C.
+OL,12,
+OL,13,COutlook for Sunday to Tuesday:FFurther
+OL,14,Fspells of wet and often windy weather
+OL,15,Fare expected through the period.
+OL,16,FHeaviest rain falling on west-facing
+OL,17,Fhills, with coastal and upland gales
+OL,18,Fat times. Temperatures remain above
+OL,19,Faverage.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
