@@ -2,23 +2,26 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1765511934
+OL,0,        ECIMSBWebfax 2   F135A1765566082
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FDry with bright or sunny spells
-OL,6,Ffor much of the region through the
-OL,7,Fday. Blustery, heavy showers over the
-OL,8,Fwest coast and Hebrides will edge into
-OL,9,FWester Ross and Sutherland through the
-OL,10,Flate afternoon. Maximum Temperature 8C.
-OL,11,
-OL,12,CTonight:FDry with clear spells at
-OL,13,Ffirst in the east. Showers in the west
-OL,14,Fwill spread to all parts through the
-OL,15,Fevening, largely dying out overnight.
-OL,16,FMinimum Temperature 2C.
+OL,5,CThis Evening and Tonight:FDry with
+OL,6,Fclear spells at first in the east.
+OL,7,FShowers in the west will spread to all
+OL,8,Fparts through the evening, largely
+OL,9,Fdying out towards dawn. Strengthening
+OL,10,Fsouthwest winds. Minimum Temperature
+OL,11,F2C.
+OL,12,
+OL,13,CSaturday:FMostly dry, cloudy start.
+OL,14,FPersistent, heavy rain soon arriving
+OL,15,Fin the west, spreading to all parts
+OL,16,Fthrough the morning. Staying drier in
+OL,17,Feast. Southwest gales developing,
+OL,18,Foccasional coastal severe gales.
+OL,19,FMaximum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -26,25 +29,17 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1765511934
+OL,0,        ECIMSBWebfax 2   F135A1765566082
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CSaturday:FMostly dry, cloudy start.
-OL,6,FPersistent, heavy rain soon arriving
-OL,7,Fin the west, spreading to all parts
-OL,8,Fthrough the morning. Staying drier in
-OL,9,Feast. Southwest gales developing,
-OL,10,Foccasional coastal severe gales.
-OL,11,FMaximum Temperature 12C.
-OL,12,
-OL,13,COutlook for Sunday to Tuesday:
-OL,14,FRemaining unsettled with showers or
-OL,15,Flonger spells of occasionally heavy
-OL,16,Frain. Mild, with strong southerly or
-OL,17,Fsouthwesterly winds and coastal gales,
-OL,18,Fsevere at times on Sunday and Monday.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FRemaining unsettled with showers or
+OL,7,Flonger spells of occasionally heavy
+OL,8,Frain. Mild, with strong southerly or
+OL,9,Fsouthwesterly winds and coastal gales,
+OL,10,Fsevere at times on Sunday and Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
