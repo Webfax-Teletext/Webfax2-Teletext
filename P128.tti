@@ -2,24 +2,24 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1765566082
+OL,0,        ECIMSBWebfax 2   F128A1765594951
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FStaying dry
-OL,6,Fthis evening and overnight with
-OL,7,Flengthy clear periods and light winds.
-OL,8,FA chilly night with pockets of frost
-OL,9,Fand fog developing in rural areas.
-OL,10,FMinimum Temperature 0C.
-OL,11,
-OL,12,CSaturday:FBright to begin the weekend,
-OL,13,Fthough sunshine turning hazier through
-OL,14,Fthe day as cloud builds. Winds
-OL,15,Fstrengthening with gusty conditions
-OL,16,Fdeveloping by evening. Remaining dry.
-OL,17,FMaximum Temperature 10C.
+OL,5,CToday:FA chilly but bright start to
+OL,6,Fbegin the weekend, though sunshine
+OL,7,Fturning hazier at times through the
+OL,8,Fafternoon as cloud builds. Winds
+OL,9,Fstrengthening with gusty conditions
+OL,10,Fdeveloping by evening. Remaining dry.
+OL,11,FMaximum Temperature 10C.
+OL,12,
+OL,13,CTonight:FTurning cloudier and windier
+OL,14,Fthrough this evening and overnight.
+OL,15,FSome patchy rain possible in the
+OL,16,Fnorth, otherwise staying largely dry
+OL,17,Fand frost-free. Minimum Temperature 4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -27,18 +27,23 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1765566082
+OL,0,        ECIMSBWebfax 2   F128A1765594951
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FDry but
-OL,6,Frather cloudy and windy on Sunday.
-OL,7,FTurning wetter overnight with an
-OL,8,Funsettled theme continuing into next
-OL,9,Fweek, where further rain and brisk
-OL,10,Fwinds are expected. Becoming milder
-OL,11,Fagain.
+OL,5,CSunday:FA cloudier and breezier day
+OL,6,Fcompared to Saturday but remaining
+OL,7,Fmostly dry. Some glimmers of sunshine
+OL,8,Fpossible in the east at first.
+OL,9,FSlightly milder than Saturday. Maximum
+OL,10,FTemperature 11C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:FHeavy
+OL,13,Frain moving in on Monday with strong
+OL,14,Fwinds. Drier on Tuesday with winds
+OL,15,Feasing. A chilly start to Wednesday,
+OL,16,Fbut becoming wet and windy again later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
