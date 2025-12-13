@@ -2,24 +2,24 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1765602170
+OL,0,        ECIMSBWebfax 2   F130A1765656308
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FA chilly start with perhaps a
-OL,6,Ffew isolated mist or fog patches, but
-OL,7,Fotherwise bright with plenty of
-OL,8,Fsunshine throughout the day. Winds
-OL,9,Flight throughout. Maximum Temperature
-OL,10,F10C.
-OL,11,
-OL,12,CTonight:FLargely clear skies overnight
-OL,13,Fand remaining dry. Winds starting
-OL,14,Flight but becoming breezy early Sunday
-OL,15,Fmorning. Chilly, with the risk of a
-OL,16,Fpatchy frost developing. Minimum
-OL,17,FTemperature 2C.
+OL,5,CThis Evening and Tonight:FLargely
+OL,6,Fclear skies overnight and remaining
+OL,7,Fdry. Winds starting light but becoming
+OL,8,Fbreezy early Sunday morning. Chilly,
+OL,9,Fwith a patchy ground frost developing,
+OL,10,Fand chance of an air frost in rural
+OL,11,Flocations. Minimum Temperature 2C.
+OL,12,
+OL,13,CSunday:FBreezy, but dry and bright on
+OL,14,FSunday with some sunny spells
+OL,15,Fthroughout the day. Becoming cloudier
+OL,16,Flater and remaining breezy. Maximum
+OL,17,FTemperature 11C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -27,24 +27,18 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1765602170
+OL,0,        ECIMSBWebfax 2   F130A1765656308
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CSunday:FBreezy, but dry and bright on
-OL,6,FSunday with plenty of sunshine
-OL,7,Fthroughout the day. Becoming mostly
-OL,8,Fcloudy later and remaining breezy.
-OL,9,FMaximum Temperature 12C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:FCloudy
-OL,12,FMonday with mostly dry conditions,
-OL,13,Ffollowed by outbreaks of rain on
-OL,14,FTuesday which will likely ease
-OL,15,Fovernight, before further rain
-OL,16,Fpossible later on Wednesday. Perhaps
-OL,17,Fchilly Tuesday night.
+OL,5,COutlook for Monday to Wednesday:FCloudy
+OL,6,FMonday with mostly dry conditions,
+OL,7,Ffollowed by outbreaks of rain on
+OL,8,FTuesday which will likely ease
+OL,9,Fovernight. Further rain possible later
+OL,10,Fon Wednesday. Perhaps chilly Tuesday
+OL,11,Fnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
