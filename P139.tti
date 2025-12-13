@@ -2,23 +2,23 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1765609389
+OL,0,        ECIMSBWebfax 2   F139A1765645480
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CToday:FThe morning will be dry with
-OL,6,Fsunny spells. The wind will strengthen
-OL,7,Fas cloud thickens in the afternoon
-OL,8,Fwith persistent and heavy rain
-OL,9,Ffollowing to western and central parts
-OL,10,Flater. Maximum Temperature 12C.
+OL,5,CThis Evening and Tonight:FThe night
+OL,6,Fwill be cloudy with heavy and
+OL,7,Fpersistent rain but largely dry
+OL,8,Ftowards the North Sea coast. The
+OL,9,Fstrong wind will begin to ease towards
+OL,10,Fthe morning. Minimum Temperature 7C.
 OL,11,
-OL,12,CTonight:FThe night will be cloudy with
-OL,13,Fheavy and persistent rain but dry in
-OL,14,Fthe east. The strong wind will begin
-OL,15,Fto ease towards the morning. Minimum
-OL,16,FTemperature 7C.
+OL,12,CSunday:FDry in the east at first
+OL,13,Fotherwise a cloudy day with further
+OL,14,Foutbreaks of rain, persistent and
+OL,15,Fheavy over central and western parts.
+OL,16,FMaximum Temperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -26,22 +26,17 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1765609389
+OL,0,        ECIMSBWebfax 2   F139A1765645480
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CSunday:FDry in the east at first
-OL,6,Fotherwise a cloudy day with further
-OL,7,Foutbreaks of rain, persistent and
-OL,8,Fheavy over central and western parts.
-OL,9,FMaximum Temperature 12C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:FMonday
-OL,12,Fand Tuesday will stay mostly dry with
-OL,13,Fsunny spells. The wind will strengthen
-OL,14,Fas cloud and rain spread east
-OL,15,FWednesday, turning showery later.
+OL,5,COutlook for Monday to Wednesday:FAny
+OL,6,Fovernight rain clears southeast, then
+OL,7,FMonday and Tuesday will stay mostly
+OL,8,Fdry with sunny spells. The wind will
+OL,9,Fstrengthen as cloud and rain spread
+OL,10,Feast Wednesday, turning showery later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100

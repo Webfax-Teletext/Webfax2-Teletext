@@ -2,24 +2,25 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1765609389
+OL,0,        ECIMSBWebfax 2   F137A1765645480
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FMost places will have a dry day
-OL,6,Fwith sunny spells in the morning and
-OL,7,Fcloud increasing in the afternoon.
-OL,8,FOutbreaks of rain will spread across
-OL,9,Fsouthern parts later in the afternoon.
-OL,10,FThe wind will strengthen from late
-OL,11,Fmorning. Maximum Temperature 11C.
+OL,5,CThis Evening and Tonight:FA mostly
+OL,6,Fcloudy night. Dry in the northeast
+OL,7,Fwith some clear spells possible.
+OL,8,FThicker cloud may bring some patchy
+OL,9,Frain in the west and far south at
+OL,10,Ftimes. The wind will ease towards the
+OL,11,Fmorning. Minimum Temperature 7C.
 OL,12,
-OL,13,CTonight:FA cloudy, mostly dry, night
-OL,14,Fwith rain in the south at times. A few
-OL,15,Fclear spells will develop in the north
-OL,16,Flater. The wind will ease towards the
-OL,17,Fmorning. Minimum Temperature 7C.
+OL,13,CSunday:FA dry day with some bright or
+OL,14,Fsunny spells in the northeast.
+OL,15,FCloudier in the south and west with a
+OL,16,Flittle patchy rain at times, turning
+OL,17,Fmore persistent by evening. Maximum
+OL,18,FTemperature 12C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -27,22 +28,16 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1765609389
+OL,0,        ECIMSBWebfax 2   F137A1765645480
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CSunday:FRain in the south and over the
-OL,6,Fnortheast coast in the morning
-OL,7,Fotherwise the day will be dry and
-OL,8,Fcloudy with the odd bright spell
-OL,9,Faround midday. Maximum Temperature 12C.
-OL,10,
-OL,11,COutlook for Monday to Wednesday:FMonday
-OL,12,Fand Tuesday will stay mostly dry with
-OL,13,Fsunny spells. The wind will strengthen
-OL,14,Fas cloud and rain spread east
-OL,15,FWednesday, turning showery later.
+OL,5,COutlook for Monday to Wednesday:FMonday
+OL,6,Fand Tuesday will stay mostly dry with
+OL,7,Fsunny spells. The wind will strengthen
+OL,8,Fas cloud and rain spread east
+OL,9,FWednesday, turning showery later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
