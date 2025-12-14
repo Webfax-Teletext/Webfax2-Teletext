@@ -2,23 +2,24 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1765703240
+OL,0,        ECIMSBWebfax 2   F135A1765732113
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FCloudy with rain in the south
-OL,6,Fotherwise the morning will be dry with
-OL,7,Fsunny spells. Rain will spread north,
-OL,8,Fbecoming heavy for a time in the
-OL,9,Fafternoon. Windy with gales in the
-OL,10,Fwest at times. Maximum Temperature 12C.
-OL,11,
-OL,12,CTonight:FCloudy with outbreaks of
-OL,13,Fheavy rain in the evening. This rain
-OL,14,Fwill clear south towards midnight with
-OL,15,Fshowers following in the west later.
-OL,16,FMinimum Temperature 2C.
+OL,5,CThis Evening and Tonight:FCloudy with
+OL,6,Foutbreaks of rain in the evening,
+OL,7,Fheaviest in the west. This rain will
+OL,8,Fclear southeast towards midnight with
+OL,9,Fsome clear periods developing, showers
+OL,10,Ffollowing in the west later. Minimum
+OL,11,FTemperature 2C.
+OL,12,
+OL,13,CMonday:FThe south and east will be
+OL,14,Fmostly dry with sunny periods. The
+OL,15,FNorthwest Highlands and Isles will
+OL,16,Fhowever be breezy with a few passing
+OL,17,Fshowers. Maximum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -26,23 +27,17 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1765703240
+OL,0,        ECIMSBWebfax 2   F135A1765732113
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CMonday:FThe day will be mostly dry
-OL,6,Fwith sunny periods. Western parts will
-OL,7,Fhowever be breezy and cloudy with
-OL,8,Fshowers at times. Maximum Temperature
-OL,9,F6C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:FSunny
-OL,12,Fspells and scattered showers Tuesday
-OL,13,Fthen windy with outbreaks of locally
-OL,14,Fheavy rain Wednesday. Dry and bright
-OL,15,FThursday morning but cloudy with
-OL,16,Fshowery rain later.
+OL,5,COutlook for Tuesday to Thursday:FSunny
+OL,6,Fspells and scattered showers Tuesday
+OL,7,Fthen windy with outbreaks of locally
+OL,8,Fheavy rain Wednesday. Dry and bright
+OL,9,FThursday morning but cloudy with
+OL,10,Fshowery rain possible later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
