@@ -2,23 +2,24 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1765645480
+OL,0,        ECIMSBWebfax 2   F139A1765699634
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FThe night
-OL,6,Fwill be cloudy with heavy and
-OL,7,Fpersistent rain but largely dry
-OL,8,Ftowards the North Sea coast. The
-OL,9,Fstrong wind will begin to ease towards
-OL,10,Fthe morning. Minimum Temperature 7C.
+OL,5,CToday:FCloudy with outbreaks of rain,
+OL,6,Fsome heavy, but drier in the east. The
+OL,7,Frain will become heavy across central
+OL,8,Fand western parts later in the
+OL,9,Fafternoon. Windy. Maximum Temperature
+OL,10,F12C.
 OL,11,
-OL,12,CSunday:FDry in the east at first
-OL,13,Fotherwise a cloudy day with further
-OL,14,Foutbreaks of rain, persistent and
-OL,15,Fheavy over central and western parts.
-OL,16,FMaximum Temperature 12C.
+OL,12,CTonight:FCloudy with outbreaks of
+OL,13,Fheavy rain but drier in the east. Rain
+OL,14,Fwill clear steadily from the northwest
+OL,15,Fafter midnight as clear spells
+OL,16,Fincrease towards the morning. Windy at
+OL,17,Ffirst. Minimum Temperature 4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -26,17 +27,22 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1765645480
+OL,0,        ECIMSBWebfax 2   F139A1765699634
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FAny
-OL,6,Fovernight rain clears southeast, then
-OL,7,FMonday and Tuesday will stay mostly
-OL,8,Fdry with sunny spells. The wind will
-OL,9,Fstrengthen as cloud and rain spread
-OL,10,Feast Wednesday, turning showery later.
+OL,5,CMonday:FThe day will begin cloudy but
+OL,6,Fmostly dry. Bright or sunny spells in
+OL,7,Fthe northwest will soon spread
+OL,8,Fsoutheast. Maximum Temperature 8C.
+OL,9,
+OL,10,COutlook for Tuesday to Thursday:FSunny
+OL,11,Fspells and dry Tuesday then windy with
+OL,12,Foutbreaks of locally heavy rain
+OL,13,FWednesday. Cloudy but dry at first
+OL,14,FThursday with rain spreading north
+OL,15,Flater.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
