@@ -2,28 +2,22 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1765706847
+OL,0,        ECIMSBWebfax 2   F132A1765739332
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FCloudy with rain at times,
-OL,6,Fbecoming drier for a time around
-OL,7,Fmidday. The rain returns later in the
-OL,8,Fafternoon becoming heavy in the east.
-OL,9,FWindy. Maximum Temperature 13C.
-OL,10,
-OL,11,CTonight:FCloudy with outbreaks of
-OL,12,Frain, heavy in places. The rain will
-OL,13,Fclear steadily from the west from the
-OL,14,Flate evening as clear spells increase
-OL,15,Ftowards the morning. Windy at first.
-OL,16,FMinimum Temperature 3C.
-OL,17,
-OL,18,CMonday:FThe day will begin cloudy but
-OL,19,Fmostly dry. Bright or sunny spells in
-OL,20,Fthe west will soon spread east.
-OL,21,FMaximum Temperature 8C.
+OL,5,CThis Evening and Tonight:FCloudy start
+OL,6,Fwith outbreaks of rain, heavy in
+OL,7,Fplaces. The rain will clear steadily
+OL,8,Ffrom the west from the late evening
+OL,9,Fwith clear spells developing tonight.
+OL,10,FWindy at first. Minimum Temperature 3C.
+OL,11,
+OL,12,CMonday:FA dry and bright day with some
+OL,13,Fsunny spells. A chilly evening with
+OL,14,Fsome fog patches forming. Maximum
+OL,15,FTemperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -31,16 +25,17 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1765706847
+OL,0,        ECIMSBWebfax 2   F132A1765739332
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
 OL,5,COutlook for Tuesday to Thursday:FSunny
-OL,6,Fspells and dry Tuesday then windy with
-OL,7,Foutbreaks of locally heavy rain
-OL,8,FWednesday. Cloudy but dry at first
-OL,9,FThursday with rain in the east later.
+OL,6,Fspells and dry Tuesday but some
+OL,7,Fmorning fog. Then windy with outbreaks
+OL,8,Fof locally heavy rain Wednesday.
+OL,9,FCloudy but dry at first Thursday with
+OL,10,Fchance of rain later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
