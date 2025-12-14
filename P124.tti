@@ -2,27 +2,26 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765659916
+OL,0,        ECIMSBWebfax 2   F124A1765692417
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy with
-OL,6,Foutbreaks of rain arriving through
-OL,7,FSaturday evening, particularly over
-OL,8,Fwestern hills where it may become
-OL,9,Fpersistent and occasionally heavy.
-OL,10,FDrier in the east. Strong winds
-OL,11,Fexpected throughout. Mild. Minimum
-OL,12,FTemperature 6C.
-OL,13,
-OL,14,CSunday:FAn unsettled and cloudy day
-OL,15,Fwith strong winds and outbreaks of
-OL,16,Frain, these continuing to be
-OL,17,Fpersistent and occasionally heavy
-OL,18,Facross western hills. Again drier
-OL,19,Fconditions in east. Maximum
-OL,20,FTemperature 12C.
+OL,5,CToday:FAn unsettled and cloudy day
+OL,6,Fwith strong winds and outbreaks of
+OL,7,Frain, these continuing to be
+OL,8,Fpersistent and occasionally heavy
+OL,9,Facross the Pennines, with drier
+OL,10,Fintervals likely further east. Maximum
+OL,11,FTemperature 12C.
+OL,12,
+OL,13,CTonight:FRemaining unsettled overnight
+OL,14,Fwith outbreaks of rain continuing,
+OL,15,Fagain persistent and occasionally
+OL,16,Fheavy across western hills, with best
+OL,17,Fof any drier spells in the east. Winds
+OL,18,Feasing towards dawn. Minimum
+OL,19,FTemperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -30,18 +29,25 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765659916
+OL,0,        ECIMSBWebfax 2   F124A1765692417
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Monday to Wednesday:
-OL,6,FOutbreaks of rain likely continuing
-OL,7,FMonday and initially on Tuesday,
-OL,8,Fturning drier for a time later on
-OL,9,FTuesday before further rain expected
-OL,10,Fon Wednesday. Risk of frost developing
-OL,11,FTuesday night.
+OL,5,CMonday:FCloudy with outbreaks of rain
+OL,6,Fcontinuing through much of Monday, but
+OL,7,Fless windy than previous days. Cloud
+OL,8,Fclearing overnight allowing for a
+OL,9,Ffrost to develop. Maximum Temperature
+OL,10,F9C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:
+OL,13,FVariable cloud and sunny spells on
+OL,14,FTuesday with a frost developing
+OL,15,Fovernight. Conditions turn windy and
+OL,16,Funsettled on Wednesday, with cloudy
+OL,17,Fskies and outbreaks of rain,
+OL,18,Fcontinuing through Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
