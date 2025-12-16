@@ -1,28 +1,48 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1765825989
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1765862082
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA dry
-OL,6,Fevening and night to come with clear
-OL,7,Fspells and light winds bringing a risk
-OL,8,Fof frost and fog come dawn,
-OL,9,Fparticularly to eastern areas. Minimum
-OL,10,FTemperature 0C.
+OL,5,CToday:FOvernight fog slowly clearing
+OL,6,Fthrough the morning. Otherwise it will
+OL,7,Fbe a dry day with some long spells of
+OL,8,Fsunshine. Winds will be a mostly light
+OL,9,Fsouthwesterly. Maximum Temperature 7C.
+OL,10,
+OL,11,CTonight:FA dry evening with some clear
+OL,12,Fspells and patchy low cloud or mist,
+OL,13,Fthis lifting overnight as winds
+OL,14,Fstrengthen and cloud thickens up, this
+OL,15,Fbringing some rain before morning.
+OL,16,FMinimum Temperature 3C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1765862082
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,CWednesday:FCloudy with outbreaks of
+OL,6,Frain, some heavy with a strong
+OL,7,Fsoutherly wind, reaching gale over
+OL,8,Fcoasts and high ground. Turning
+OL,9,Fclearer and less windy by evening.
+OL,10,FMaximum Temperature 11C.
 OL,11,
-OL,12,CTuesday:FOvernight fog slowly clearing
-OL,13,Fthrough the morning. Otherwise it will
-OL,14,Fbe a dry day with some sunny
-OL,15,Fintervals. Maximum Temperature 7C.
-OL,16,
-OL,17,COutlook for Wednesday to Friday:FEarly
-OL,18,Frain on Wednesday clearing to sunshine
-OL,19,Fand showers. Breezy with sunshine and
-OL,20,Fshowers on Thursday and Friday.
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FRemaining unsettled and fairly mild
+OL,14,Fwith clear or sunny intervals and
+OL,15,Fshowers, as well as a few longer
+OL,16,Fspells of rain. Strong winds at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
