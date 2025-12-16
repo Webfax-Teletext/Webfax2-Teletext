@@ -2,27 +2,24 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765825989
+OL,0,        ECIMSBWebfax 2   F124A1765858475
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy
-OL,6,Fconditions with outbreaks of rain
-OL,7,Finitially, will slowly clear eastward
-OL,8,Fthrough the night. Some clearer skies
-OL,9,Fthen developing early Tuesday morning
-OL,10,Fbringing the chance of some isolated
-OL,11,Fmist or fog patches by dawn. Winds
-OL,12,Fremaining light. Minimum Temperature
-OL,13,F1C.
-OL,14,
-OL,15,CTuesday:FCloud will soon clear away
-OL,16,Fwith a dry and sunny day likely once
-OL,17,Fany early mist has cleared.
-OL,18,FTemperatures close to average.
-OL,19,FOvernight frost and fog patches.
-OL,20,FMaximum Temperature 5C.
+OL,5,CToday:FRemaining cloud will clear away
+OL,6,Feastwards with a dry and sunny day.
+OL,7,FMist and fog may be slow to clear some
+OL,8,Fareas. Temperatures close to average.
+OL,9,FWinds remaining light. Maximum
+OL,10,FTemperature 6C.
+OL,11,
+OL,12,CTonight:FDry with clear spells for
+OL,13,Fmost parts to start the night with
+OL,14,Fsome frost and fog developing.
+OL,15,FClouding over later in the night with
+OL,16,Fa freshening southerly breeze. Minimum
+OL,17,FTemperature -2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -30,18 +27,25 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765825989
+OL,0,        ECIMSBWebfax 2   F124A1765858475
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FTurning windy and unsettled through
-OL,7,FWednesday, with cloudy skies and
-OL,8,Foutbreaks of rain arriving. Thursday
-OL,9,Fand Friday brighter with showers and a
-OL,10,Fchance of occasional rain. Breezier by
-OL,11,FFriday.
+OL,5,CWednesday:FTurning windy and unsettled
+OL,6,Fthrough Wednesday, with cloudy skies
+OL,7,Fand outbreaks of rain arriving. Some
+OL,8,Fpersistent and heavy rain likely. Rain
+OL,9,Fclearing overnight with winds easing.
+OL,10,FMaximum Temperature 9C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FThursday and Friday brighter with
+OL,14,Fshowers and chance of some rain.
+OL,15,FBreezier by Friday. Saturday cloudier
+OL,16,Fwith rain probably arriving later, and
+OL,17,Faccompanied by strengthening winds.
+OL,18,FTemperatures near normal.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
