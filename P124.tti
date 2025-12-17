@@ -2,23 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765979159
+OL,0,        ECIMSBWebfax 2   F124A1765997229
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FTurning windy and unsettled
-OL,6,Fthrough Wednesday, with cloudy skies
-OL,7,Fand outbreaks of rain arriving during
-OL,8,Fthe morning. Rain turning persistent
-OL,9,Fand heavy at times, particularly in
-OL,10,Fwestern areas. Maximum Temperature 9C.
-OL,11,
-OL,12,CTonight:FBand of rain moving slowly
-OL,13,Fsoutheastwards and clearing during the
-OL,14,Fearly hours. Winds easing for a time
-OL,15,Fwith the odd blustery shower towards
-OL,16,Fdawn. Minimum Temperature 5C.
+OL,5,CThis Evening and Tonight:FOutbreaks of
+OL,6,Frain through the evening and overnight
+OL,7,Fwith strong winds expected. The rain
+OL,8,Fclearing in the early hours, with
+OL,9,Fwinds easing for a time and the odd
+OL,10,Fblustery shower possible towards dawn.
+OL,11,FMinimum Temperature 2C.
+OL,12,
+OL,13,CThursday:FA dry, bright start with
+OL,14,Fblustery winds. Cloud increasing
+OL,15,Fthrough the morning, with very strong
+OL,16,Fwinds and rain moving in during the
+OL,17,Fafternoon, turning heavy at times.
+OL,18,FMaximum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -26,24 +28,17 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1765979159
+OL,0,        ECIMSBWebfax 2   F124A1765997229
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThursday:FThursday, brighter with the
-OL,6,Fodd, blustery shower. Rain moving in
-OL,7,Fduring the afternoon, with heavy
-OL,8,Fspells and clearing overnight. Maximum
-OL,9,FTemperature 8C.
-OL,10,
-OL,11,COutlook for Friday to Sunday:FFriday
-OL,12,Fbrighter but breezy with showers.
-OL,13,FSaturday cloudier with rain probably
-OL,14,Farriving later, and accompanied by
-OL,15,Fstrengthening winds. Sunday, rain at
-OL,16,Ftimes but winds easing. Temperatures
-OL,17,Fnear normal.
+OL,5,COutlook for Friday to Sunday:FBreezy
+OL,6,Fon Friday, with sunshine and showers.
+OL,7,FSaturday cloudier with rain arriving
+OL,8,Flater in the afternoon. Rain at times
+OL,9,Fon Sunday, with winds easing.
+OL,10,FTemperatures near normal.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
