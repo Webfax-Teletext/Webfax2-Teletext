@@ -2,26 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1766044160
+OL,0,        ECIMSBWebfax 2   F124A1766076647
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FA dry, bright start with
-OL,6,Fblustery winds. Winds may ease for a
-OL,7,Ftime, though cloud increasing through
-OL,8,Fthe morning. Rain will arrive from the
-OL,9,Fsouth during the afternoon, turning
-OL,10,Fheavy at times. Feeling rather cold.
-OL,11,FMaximum Temperature 8C.
+OL,5,CThis Evening and Tonight:FWet and
+OL,6,Fwindy through the evening as patchy,
+OL,7,Fbut sometimes heavy, rain moves east
+OL,8,Faccompanied by blustery winds. Turning
+OL,9,Fdrier, with clear spells overnight and
+OL,10,Fsome occasional showers. Minimum
+OL,11,FTemperature 1C.
 OL,12,
-OL,13,CTonight:FWet and windy through the
-OL,14,Fevening as patchy, but sometimes
-OL,15,Fheavy, rain moves east accompanied by
-OL,16,Fblustery winds. Turning drier, with
-OL,17,Fclear spells overnight but winds
-OL,18,Fstrengthening again. Cold. Minimum
-OL,19,FTemperature 1C.
+OL,13,CFriday:FA cold start with strong
+OL,14,Fwinds, patchy cloud and some sunny
+OL,15,Fintervals. Blustery showers at times,
+OL,16,Fespecially over the Pennines. Dry
+OL,17,Flater as winds begin to ease. Patchy
+OL,18,Fovernight fog. Maximum Temperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,25 +28,17 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1766044160
+OL,0,        ECIMSBWebfax 2   F124A1766076647
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CFriday:FA cold start with strong
-OL,6,Fwinds, patchy cloud and some sunny
-OL,7,Fintervals. Blustery showers at times,
-OL,8,Fespecially over the Pennines. Dry
-OL,9,Flater as winds begin to ease. Patchy
-OL,10,Fovernight fog. Maximum Temperature 8C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FA
-OL,13,Fbright start Saturday, but windy.
-OL,14,FTurning cloudy with rain later. Cloudy
-OL,15,FSunday, with outbreaks of rain,
-OL,16,Fperhaps heavy at times. Drier but
-OL,17,Fcloudy Monday. Temperatures near
-OL,18,Fnormal.
+OL,5,COutlook for Saturday to Monday:FA
+OL,6,Fbright start Saturday, but windy.
+OL,7,FTurning cloudy with rain overnight.
+OL,8,FCloudy Sunday, with outbreaks of rain,
+OL,9,Fperhaps heavy at times. Drier but
+OL,10,Fcloudy Monday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100

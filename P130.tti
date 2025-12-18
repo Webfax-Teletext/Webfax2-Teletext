@@ -2,26 +2,23 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1766044160
+OL,0,        ECIMSBWebfax 2   F130A1766076647
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FCloudy with outbreaks of light
-OL,6,Frain at first. Windy near coasts. Low
-OL,7,Fcloud and heavy rain moving northeast
-OL,8,Fthrough the morning and afternoon,
-OL,9,Faccompanied by strengthening winds and
-OL,10,Fgales possible along the coast later.
-OL,11,FMaximum Temperature 12C.
+OL,5,CThis Evening and Tonight:FWinds
+OL,6,Fgradually easing through the evening,
+OL,7,Fas rain becomes patchy before
+OL,8,Feventually clearing toward midnight.
+OL,9,FBecoming dry with clear spells through
+OL,10,Fthe early hours, but remaining breezy.
+OL,11,FMinimum Temperature 1C.
 OL,12,
-OL,13,CTonight:FWinds gradually easing
-OL,14,Fthrough the evening, as rain becomes
-OL,15,Fpatchy before eventually clearing
-OL,16,Ftoward midnight. Becoming dry with
-OL,17,Fclear spells through the early hours,
-OL,18,Fbut remaining breezy. Minimum
-OL,19,FTemperature 2C.
+OL,13,CFriday:FA dry, chilly and breezy start
+OL,14,Fto the day. Long sunny spells
+OL,15,Fthroughout, feeling less cold as winds
+OL,16,Fease later. Maximum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -29,24 +26,17 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1766044160
+OL,0,        ECIMSBWebfax 2   F130A1766076647
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CFriday:FA dry, chilly and breezy start
-OL,6,Fto the day. Long sunny spells
-OL,7,Fthroughout, feeling less cold as winds
-OL,8,Fease later. Chance of overnight
-OL,9,Fshowers near the south coast. Maximum
-OL,10,FTemperature 10C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FBright
-OL,13,Fand breezy Saturday, with sunny
-OL,14,Fspells, turning cloudy later in the
-OL,15,Fwest. Cloudy Sunday, with outbreaks of
-OL,16,Frain, perhaps heavy. Drier but cloudy
-OL,17,FMonday. Temperatures near normal.
+OL,5,COutlook for Saturday to Monday:FBright
+OL,6,Fand breezy Saturday, with sunny
+OL,7,Fspells, turning cloudy later in the
+OL,8,Fwest. Cloudy Sunday, with outbreaks of
+OL,9,Frain, perhaps heavy. Drier but cloudy
+OL,10,FMonday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
