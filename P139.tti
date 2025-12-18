@@ -1,29 +1,48 @@
-PN,13900
-SC,0000
+PN,13901
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F139A1766000839
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1766044160
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FHeavy spells
-OL,6,Fof rain at first this evening, turning
-OL,7,Fpatchier by late evening and clearing
-OL,8,Fovernight with a few clear spells
-OL,9,Flater in the night, perhaps the odd
-OL,10,Fshower too. Minimum Temperature 3C.
+OL,5,CToday:FMainly dry this morning, chance
+OL,6,Fof a shower in the southwest. Cloudy
+OL,7,Fthis afternoon with patchy rain
+OL,8,Fspreading northeast, but remaining dry
+OL,9,Facross Edinburgh and the Lothians.
+OL,10,FMaximum Temperature 9C.
 OL,11,
-OL,12,CThursday:FDry with sunny spells at
-OL,13,Ffirst but clouding over with some rain
-OL,14,Flikely in the afternoon. Fresh to
-OL,15,Fstrong southerly winds developing.
-OL,16,FMaximum Temperature 9C.
-OL,17,
-OL,18,COutlook for Friday to Sunday:FMostly
-OL,19,Fdry on Friday but breezy. Often wet
-OL,20,Fover the weekend in the west but drier
-OL,21,Fand brighter for the east.
+OL,12,CTonight:FRain, heavy for a time, will
+OL,13,Fspread east this evening. Scattered
+OL,14,Fshowers will follow on behind
+OL,15,Fovernight, but staying mostly dry
+OL,16,Falong the east coast. Strong
+OL,17,Fsouthwesterly winds. Minimum
+OL,18,FTemperature 5C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,150,120,301,200,000,100
+PN,13902
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F139A1766044160
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GDumfries
+OL,4,
+OL,5,CFriday:FA windy day with scattered
+OL,6,Fshowers, these most frequent across
+OL,7,Fthe Lothians. Fewer showers across the
+OL,8,Fsouth. Strong southwesterly winds.
+OL,9,FMaximum Temperature 9C.
+OL,10,
+OL,11,COutlook for Saturday to Monday:FCloudy
+OL,12,Fand breezy on Saturday with patchy
+OL,13,Frain. Cloudy on Sunday and Monday with
+OL,14,Frain at times.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100

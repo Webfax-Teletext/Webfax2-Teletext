@@ -2,26 +2,27 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1765993620
+OL,0,        ECIMSBWebfax 2   F125A1766044160
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will be a
-OL,6,Fcloudy, wet and windy evening with
-OL,7,Fsome heavy bursts of rain at times.
-OL,8,FOvernight, drier and clearer weather
-OL,9,Fwill arrive from the west, and the
-OL,10,Fstrong wind will ease somewhat.
-OL,11,FStaying frost-free. Minimum
-OL,12,FTemperature 5C.
+OL,5,CToday:FThe morning will get off to a
+OL,6,Fbright and breezy start. However,
+OL,7,Fcloud will gradually thicken from the
+OL,8,Fsouthwest with wet and increasingly
+OL,9,Fwindy weather arriving for the
+OL,10,Fafternoon. Some heavy bursts of rain
+OL,11,Fdeveloping. A fairly mild day though.
+OL,12,FMaximum Temperature 10C.
 OL,13,
-OL,14,CThursday:FThursday will get off to a
-OL,15,Fdry and bright start. However, cloud
-OL,16,Fwill thicken from the southwest with
-OL,17,Fwet and windy weather returning for
-OL,18,Fthe afternoon. Mild though. Maximum
-OL,19,FTemperature 11C.
+OL,14,CTonight:FThe evening will begin cloudy
+OL,15,Fwith blustery showers. The showers
+OL,16,Fwill ease overnight and some clear
+OL,17,Fspells will develop, although the
+OL,18,Fsouthwesterly wind will stay brisk and
+OL,19,Fgusty. Staying frost-free. Minimum
+OL,20,FTemperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -29,17 +30,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1765993620
+OL,0,        ECIMSBWebfax 2   F125A1766044160
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Friday to Sunday:FFriday
-OL,6,Fwill be a brighter, though still
-OL,7,Fblustery day with sunshine and
-OL,8,Fshowers. Windier on Saturday, with
-OL,9,Frain arriving later, then cloudy and
-OL,10,Fdamp, though less windy on Sunday.
+OL,5,CFriday:FFriday will bring a mix of
+OL,6,Fsunshine and scattered showers. The
+OL,7,Fshowers should begin to die out later
+OL,8,Fin the day. Feeling cool due to the
+OL,9,Fbreezy conditions. Maximum Temperature
+OL,10,F10C.
+OL,11,
+OL,12,COutlook for Saturday to Monday:FAfter
+OL,13,Fa mostly fine start, it will turn
+OL,14,Fwindy on Saturday. Rain arriving
+OL,15,Flater. Sunday and Monday look rather
+OL,16,Fcloudy with further patchy rain,
+OL,17,Falthough the wind will ease somewhat.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100

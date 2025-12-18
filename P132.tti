@@ -2,24 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1766008072
+OL,0,        ECIMSBWebfax 2   F132A1766044160
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FClear spells
-OL,6,Fand only a few showers for the evening
-OL,7,Fand night, with outbreaks focused
-OL,8,Facross the far western and southern
-OL,9,Fprovinces. South to southwest winds
-OL,10,Foccasionally strong around the coasts.
-OL,11,FMinimum Temperature 3C.
-OL,12,
-OL,13,CThursday:FA mainly dry start but cloud
-OL,14,Fthickening and rain spreading
-OL,15,Ferratically northeast from mid-morning
-OL,16,Fand through the afternoon. Maximum
-OL,17,FTemperature 9C.
+OL,5,CToday:FApart from the odd shower this
+OL,6,Fmorning will be dry with bright
+OL,7,Fspells. This afternoon will be cloudy
+OL,8,Fwith rain spreading from the west.
+OL,9,FFreshening southerly winds this
+OL,10,Fafternoon. Maximum Temperature 9C.
+OL,11,
+OL,12,CTonight:FRain soon clearing the far
+OL,13,Feast this evening. Then dry for a time
+OL,14,Fbefore showers spread from the west
+OL,15,Fovernight, most frequent in the west.
+OL,16,FWindy with fresh southwesterly winds.
+OL,17,FMinimum Temperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -27,16 +27,22 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1766008072
+OL,0,        ECIMSBWebfax 2   F132A1766044160
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Friday to Sunday:FStrong
-OL,6,Fwinds initially but mostly dry on
-OL,7,FFriday. Over the weekend outbreaks of
-OL,8,Frain and windy conditions at times,
-OL,9,Fdrier spells too.
+OL,5,CFriday:FSome bright or sunny intervals
+OL,6,Fand scattered showers, the showers
+OL,7,Fbecoming lighter and less frequent in
+OL,8,Fthe afternoon. Winds easing during the
+OL,9,Fafternoon. Maximum Temperature 4C.
+OL,10,
+OL,11,COutlook for Saturday to Monday:FRain
+OL,12,Fand strong winds at first on Saturday,
+OL,13,Fthen drier with a few showers. Cloudy
+OL,14,Fon Sunday and Monday with rain at
+OL,15,Ftimes,
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
