@@ -2,25 +2,28 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1766044160
+OL,0,        ECIMSBWebfax 2   F134A1766080284
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FSome bright or sunny spells
-OL,6,Fthrough the day. There will be a few
-OL,7,Fshowers this morning before it becomes
-OL,8,Fgenerally dry this afternoon. Chance
-OL,9,Fof a little rain across Orkney later.
-OL,10,FFresh to strong south or southwesterly
-OL,11,Fwinds. Maximum Temperature 9C.
-OL,12,
-OL,13,CTonight:FThis evening will be cloudy
-OL,14,Fwith rain, briefly heavy, spreading
-OL,15,Ffrom the southwest. Drier weather
-OL,16,Fspreading to Orkney by midnight, and
-OL,17,FShetland later in the night. Winds
-OL,18,Feasing. Minimum Temperature 6C.
+OL,5,CThis Evening and Tonight:FCloudy with
+OL,6,Foutbreaks of occasionally heavy rain
+OL,7,Fspreading northeast this evening,
+OL,8,Freaching Orkney around mid-evening and
+OL,9,FShetland towards midnight. Drier
+OL,10,Fweather reaches Orkney by midnight,
+OL,11,Fand Shetland later in the night.
+OL,12,FStrong southeasterly then
+OL,13,Fsouthwesterly winds. Minimum
+OL,14,FTemperature 5C.
+OL,15,
+OL,16,CFriday:FA few bright spells otherwise
+OL,17,Frather cloudy at times with blustery
+OL,18,Fshowers, occasionally prolonged and
+OL,19,Fheavy. Windy with strong to gale force
+OL,20,Fwesterly or southwesterly winds.
+OL,21,FMaximum Temperature 9C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -28,22 +31,17 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1766044160
+OL,0,        ECIMSBWebfax 2   F134A1766080284
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CFriday:FA few bright spells otherwise
-OL,6,Frather cloudy at times with showers,
-OL,7,Foccasionally prolonged and heavy.
-OL,8,FWindy with strong to gale west or
-OL,9,Fsouthwesterly winds. Maximum
-OL,10,FTemperature 8C.
-OL,11,
-OL,12,COutlook for Saturday to Monday:FCloudy
-OL,13,Fon Saturday with a little patchy rain.
-OL,14,FRemaining rather cloudy on Sunday and
-OL,15,FMonday with some showery rain at times.
+OL,5,COutlook for Saturday to Monday:FRather
+OL,6,Fcloudy on Saturday with a little
+OL,7,Fpatchy rain. Remaining rather cloudy
+OL,8,Fon Sunday and Monday with some showery
+OL,9,Frain at times. Strengthening
+OL,10,Fsoutheasterly winds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
