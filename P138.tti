@@ -2,24 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1766304354
+OL,0,        ECIMSBWebfax 2   F138A1766351299
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FBright spells in the east at
-OL,6,Ffirst otherwise cloudy with rain over
-OL,7,Fthe western Isles spreading northeast
-OL,8,Fthrough the morning. The rain will
-OL,9,Fclear by the afternoon but after a
-OL,10,Fbrief dry spell, drizzle will spread
-OL,11,Fwest later. Maximum Temperature 9C.
-OL,12,
-OL,13,CTonight:FThe night will be overcast
-OL,14,Fwith drizzle for much of the time.
-OL,15,FOutbreaks of rain, heavy at times,
-OL,16,Fwill spread northwest from shortly
-OL,17,Fafter midnight. Minimum Temperature 6C.
+OL,5,CThis Evening and Tonight:FThe night
+OL,6,Fwill be overcast with drizzle for much
+OL,7,Fof the time. Outbreaks of rain, heavy
+OL,8,Fat times, will spread northwest from
+OL,9,Fshortly after midnight. Minimum
+OL,10,FTemperature 6C.
+OL,11,
+OL,12,CMonday:FCloudy with outbreaks of
+OL,13,Flocally heavy rain at first. The rain
+OL,14,Fwill soon clear north to leave the
+OL,15,Frest of the day dry with sunny spells.
+OL,16,FMaximum Temperature 10C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -27,24 +26,18 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1766304354
+OL,0,        ECIMSBWebfax 2   F138A1766351299
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CMonday:FCloudy with outbreaks of
-OL,6,Flocally heavy rain at first. The rain
-OL,7,Fwill clear north to leave patchy
-OL,8,Fdrizzle for a time in the afternoon.
-OL,9,FMaximum Temperature 10C.
-OL,10,
-OL,11,COutlook for Tuesday to Thursday:FCloudy
-OL,12,Fwith patchy drizzle at first Tuesday.
-OL,13,FThe drizzle will clear Tuesday
-OL,14,Fafternoon leaving Wednesday and
-OL,15,FThursday dry. Bright or sunny spells
-OL,16,FWednesday increase to sunny periods
-OL,17,FThursday.
+OL,5,COutlook for Tuesday to Thursday:FCloudy
+OL,6,Fwith patchy drizzle at first Tuesday.
+OL,7,FThe drizzle will clear Tuesday
+OL,8,Fafternoon leaving Wednesday and
+OL,9,FThursday dry. Bright or sunny spells
+OL,10,FWednesday increase to sunny periods
+OL,11,FThursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
