@@ -2,25 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1766268236
+OL,0,        ECIMSBWebfax 2   F132A1766293525
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA mostly dry
-OL,6,Fstart across the northeast of the
-OL,7,FProvince, otherwise a cloudy evening
-OL,8,Fand night with occasional outbreaks of
-OL,9,Flight to moderate rain. Strong
-OL,10,Fsoutheast winds easing towards dawn.
-OL,11,FMinimum Temperature 5C.
+OL,5,CToday:FThe north will be cloudy with
+OL,6,Foutbreaks of rain at first this
+OL,7,Fmorning otherwise the day will stay
+OL,8,Fdry with bright or sunny spells. The
+OL,9,Fstrong southeast wind in the north and
+OL,10,Fnortheast will ease through the
+OL,11,Fafternoon. Maximum Temperature 10C.
 OL,12,
-OL,13,CSunday:FBrighter spells for the
-OL,14,Fmorning and only the odd scattered
-OL,15,Fshower. Cloud thickening from the east
-OL,16,Fduring the afternoon, with patchy rain
-OL,17,Fspreading westwards during the evening
-OL,18,Fand night. Maximum Temperature 10C.
+OL,13,CTonight:Fthe evening will stay mostly
+OL,14,Fdry with clear spells. Cloud and
+OL,15,Foutbreaks of locally heavy rain will
+OL,16,Fspread northwest after midnight.
+OL,17,FMinimum Temperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -28,16 +27,23 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1766268236
+OL,0,        ECIMSBWebfax 2   F132A1766293525
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FMonday
-OL,6,Fand Tuesday cloudy with occasional
-OL,7,Flight to moderate rain focused over
-OL,8,Feastern areas. Wednesday mostly dry
-OL,9,Fwith west seeing good sunny spells.
+OL,5,CMonday:FThe morning will be cloudy
+OL,6,Fwith outbreaks of rain. The rain will
+OL,7,Fclear from the east during the
+OL,8,Fafternoon with clear spells following
+OL,9,Ffrom the evening. Maximum Temperature
+OL,10,F10C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:
+OL,13,FTuesday will be cloudy but dry. The
+OL,14,Fcloud will break to leave Wednesday
+OL,15,Fand Thursday dry with sunny spells
+OL,16,Fincreasing from Wednesday afternoon.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
