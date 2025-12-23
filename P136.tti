@@ -2,27 +2,24 @@ PN,13601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1766466799
+OL,0,        ECIMSBWebfax 2   F136A1766528163
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
-OL,5,CToday:FIt will be an overcast day with
-OL,6,Flow cloud for many. Staying largely
-OL,7,Fdry but the odd spot of light rain or
-OL,8,Fdrizzle is possible. Light winds.
-OL,9,FMaximum Temperature 9C.
-OL,10,
-OL,11,CTonight:FCloudy and mostly dry through
-OL,12,Fthe evening. Remaining dry and cloudy
-OL,13,Fovernight but a few clear spells
-OL,14,Fdeveloping towards morning. Minimum
-OL,15,FTemperature 2C.
-OL,16,
-OL,17,CWednesday:FIt will be a dry day
-OL,18,Foverall with patchy cloud and plenty
-OL,19,Fof long sunny spells. Light winds.
-OL,20,FMaximum Temperature 8C.
+OL,5,CThis Evening and Tonight:FCloudy and
+OL,6,Fmostly dry through the evening,
+OL,7,Fperhaps some patchy drizzle at first.
+OL,8,FMainly dry and cloudy overnight but a
+OL,9,Ffew clear spells developing towards
+OL,10,Fmorning. Minimum Temperature 2C.
+OL,11,
+OL,12,CWednesday:FIt will be a dry day.
+OL,13,FRather cloudy to start, but sunny
+OL,14,Fspells developing for most, best in
+OL,15,Fthe west, with patchy cloud lingering
+OL,16,Fnear the coast. Light winds. Maximum
+OL,17,FTemperature 8C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100
@@ -30,16 +27,17 @@ PN,13602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F136A1766466799
+OL,0,        ECIMSBWebfax 2   F136A1766528163
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GTayside
 OL,4,
 OL,5,COutlook for Thursday to Saturday:FHigh
 OL,6,Fpressure will bring settled and
-OL,7,Flargely dry conditions. Variable cloud
-OL,8,Fwith some long clear and sunny spells.
-OL,9,FWinds mostly light. Becoming colder.
+OL,7,Flargely dry conditions. Often cloudy,
+OL,8,Fbut some clear and sunny spells likely
+OL,9,Fat times. Winds mostly light. Becoming
+OL,10,Fcolder.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,137,120,301,200,000,100

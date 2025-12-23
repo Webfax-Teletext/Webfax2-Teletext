@@ -2,28 +2,23 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1766477638
+OL,0,        ECIMSBWebfax 2   F124A1766528163
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FCloudy and murky with the
-OL,6,Fchance of some light rain or drizzle
-OL,7,Fon the Pennines. Hill fog slowly
-OL,8,Flifting through the day. Mainly light
-OL,9,Fwinds. Maximum Temperature 7C.
-OL,10,
-OL,11,CTonight:FCloudy to start but with
-OL,12,Fbreaks in the cloud becoming more
-OL,13,Ffrequent overnight and hill fog slowly
-OL,14,Fclearing from the remaining peaks.
-OL,15,FFeeling cooler than of late. Minimum
-OL,16,FTemperature 3C.
-OL,17,
-OL,18,CWednesday:FVariable cloud and breezier
-OL,19,Fon Christmas Eve, but dry with a
-OL,20,Fbetter chance of bright or sunny
-OL,21,Fspells. Maximum Temperature 6C.
+OL,5,CThis Evening and Tonight:FA dry night
+OL,6,Fbut rather cloudy to start. Some
+OL,7,Fbreaks in the cloud developing later
+OL,8,Fin the night as hill fog slowly clears
+OL,9,Fover the Pennines. Feeling cooler than
+OL,10,Fof late. Minimum Temperature 3C.
+OL,11,
+OL,12,CWednesday:FVariable cloud and breezy
+OL,13,Fon Christmas Eve, through strong gusts
+OL,14,Fto the west of high ground. Dry with a
+OL,15,Fbetter chance of bright or sunny
+OL,16,Fspells. Maximum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -31,17 +26,18 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1766477638
+OL,0,        ECIMSBWebfax 2   F124A1766528163
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
 OL,5,COutlook for Thursday to Saturday:
-OL,6,FCloudy start with bright or sunny
-OL,7,Fspells developing on Christmas Day.
-OL,8,FBreeze easing Boxing Day. Similar but
-OL,9,Fchance of light spells of rain on
-OL,10,FSaturday. Also turning colder.
+OL,6,FCloudy and breezy with some bright or
+OL,7,Fsunny spells developing later on
+OL,8,FChristmas Day. Breeze easing Boxing
+OL,9,FDay with sunny spells. Increasing
+OL,10,Fcloud and chance of drizzle Saturday.
+OL,11,FChilly.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
