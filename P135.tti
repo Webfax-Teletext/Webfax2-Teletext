@@ -2,24 +2,24 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1766513730
+OL,0,        ECIMSBWebfax 2   F135A1766546206
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CThis Evening and Tonight:FA cloudy
-OL,6,Fevening with a few outbreaks of light
-OL,7,Frain but generally becoming drier.
-OL,8,FThis leads to the overnight period
-OL,9,Fbeing mostly cloudy and dry. Light
-OL,10,Fwinds. Minimum Temperature 3C.
+OL,5,CToday:FA mainly dry day. Rather cloudy
+OL,6,Fto start, but increasing amounts of
+OL,7,Fsunshine developing for most places,
+OL,8,Fwith cloud becoming generally confined
+OL,9,Fto the northwest. Maximum Temperature
+OL,10,F8C.
 OL,11,
-OL,12,CWednesday:FA dry day. Rather cloudy to
-OL,13,Fstart, but increasing amounts of
-OL,14,Fsunshine for most, with cloud becoming
-OL,15,Fmostly confined to the northwest. Wind
-OL,16,Fremaining light. Maximum Temperature
-OL,17,F9C.
+OL,12,CTonight:FA dry, settled night with
+OL,13,Fareas of cloud lingering around
+OL,14,Fnorthwestern areas. Clear spells
+OL,15,Felsewhere will lead to a frost with
+OL,16,Fsome mist and fog patches. Minimum
+OL,17,FTemperature -2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -27,17 +27,23 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1766513730
+OL,0,        ECIMSBWebfax 2   F135A1766546206
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,COutlook for Thursday to Saturday:FHigh
-OL,6,Fpressure will bring settled and
-OL,7,Flargely dry conditions. Variable cloud
-OL,8,Fwith some long clear and sunny spells.
-OL,9,FWinds mostly light but breezy on
-OL,10,FSaturday. Becoming colder.
+OL,5,CThursday:FA cold and frosty start with
+OL,6,Fmist and fog patches which will may be
+OL,7,Fslow to clear in places. Otherwise a
+OL,8,Fdry day with a good deal of sunshine.
+OL,9,FMaximum Temperature 5C.
+OL,10,
+OL,11,COutlook for Friday to Sunday:FHigh
+OL,12,Fpressure will continue to bring
+OL,13,Fsettled and largely dry conditions
+OL,14,Fwith a good deal of sunshine for many
+OL,15,Fplaces. Overnight frosts and patchy
+OL,16,Fmist and fog.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
