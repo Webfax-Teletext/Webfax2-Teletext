@@ -2,24 +2,26 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1766520947
+OL,0,        ECIMSBWebfax 2   F126A1766564268
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CThis Evening and Tonight:FA dry night
-OL,6,Fbut rather cloudy to start. Some
-OL,7,Fbreaks in the cloud developing later
-OL,8,Fin the night, as hill fog slowly
-OL,9,Fclears over the Pennines. Feeling
-OL,10,Fcooler than of late. Minimum
-OL,11,FTemperature 3C.
-OL,12,
-OL,13,CWednesday:FVariable cloud and breezy
-OL,14,Fon Christmas Eve, through strong gusts
-OL,15,Fto the west of high ground. Dry with a
-OL,16,Fbetter chance of bright or sunny
-OL,17,Fspells. Maximum Temperature 6C.
+OL,5,CToday:FA rather cloudy start with some
+OL,6,Fhill fog across the Pennines. This
+OL,7,Fwill gradually lift through the day,
+OL,8,Fwith cloud also breaking to give some
+OL,9,Fsunny spells elsewhere. However it
+OL,10,Fwill be feeling rather cold,
+OL,11,Fespecially in the breeze. Maximum
+OL,12,FTemperature 7C.
+OL,13,
+OL,14,CTonight:FClear spells likely at first,
+OL,15,Fhowever some coastal mist and patchy
+OL,16,Fcloud will spread inland, with hill
+OL,17,Ffog redeveloping. Staying dry, but
+OL,18,Ffeeling cold, especially in the brisk
+OL,19,Fwinds. Minimum Temperature 2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -27,18 +29,25 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1766520947
+OL,0,        ECIMSBWebfax 2   F126A1766564268
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FCloudy and breezy with some bright or
-OL,7,Fsunny spells developing later on
-OL,8,FChristmas Day. Breeze easing Boxing
-OL,9,FDay with sunny spells. Increasing
-OL,10,Fcloud and chance of drizzle Saturday.
-OL,11,FChilly.
+OL,5,CThursday:FA dry Christmas Day is
+OL,6,Fexpected, with large amounts of cloud,
+OL,7,Fbut also some brighter or sunny
+OL,8,Fspells. Feeling cold again,
+OL,9,Fparticularly in the brisk easterly
+OL,10,Fbreeze. Maximum Temperature 6C.
+OL,11,
+OL,12,COutlook for Friday to Sunday:FVariable
+OL,13,Fcloud and some sunny spells
+OL,14,Fthroughout. Some hill fog possible,
+OL,15,Fwith light drizzle, but otherwise dry.
+OL,16,FRather cold and breezy, although a
+OL,17,Flittle less cold compared to over
+OL,18,FChristmas.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
