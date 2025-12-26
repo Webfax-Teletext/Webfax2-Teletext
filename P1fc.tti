@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1766786910
+PN,1fc01
+SC,0001
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1766790519
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,8 +13,39 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1766786910;
-OL,10,GService: Webfax 2 - 10450 dcca6da59
-OL,11,FLast Update: 26/12/2025 22:08:30      
+OL,25,1766790518;
+OL,10,GService: Webfax 2 - 10451 b73f0f1f9
+OL,11,FLast Update: 26/12/2025 23:08:38  G1/2
 OL,13,AbbcNewsLive                G25/12-22:03
-OL,14,Ageneric/pollen_forecast    G26/12-21:58
+OL,14,CbbcSport/Formula 1         G25/12-22:03
+OL,15,CbbcSport/Golf              G25/12-22:03
+OL,16,Ageneric/pollen_forecast    G26/12-23:00
+OL,17,CitvNews/channel            G25/12-22:04
+OL,18,CitvNews/london             G25/12-22:04
+OL,19,CitvSport/border            G25/12-22:04
+OL,20,CitvSport/calendar          G25/12-22:04
+OL,21,CitvSport/channel           G25/12-22:04
+OL,22,CitvSport/granada           G25/12-22:04
+OL,23,CitvSport/london            G25/12-22:04
+PN,1fc02
+SC,0002
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1766790519
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1766790518;
+OL,10,GService: Webfax 2 - 10451 b73f0f1f9
+OL,11,FLast Update: 26/12/2025 23:08:38  G2/2
+OL,13,CitvSport/meridian          G25/12-22:04
+OL,14,CitvSport/utv               G25/12-22:04
+OL,15,CitvSport/wales             G25/12-22:04
+OL,16,CitvSport/westcountry       G25/12-22:04
