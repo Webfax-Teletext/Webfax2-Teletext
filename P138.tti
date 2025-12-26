@@ -2,27 +2,23 @@ PN,13801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1766721946
+OL,0,        ECIMSBWebfax 2   F138A1766776082
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FA dry Boxing Day. Some patchy
-OL,6,Fcloud in the east, but largely sunny
-OL,7,Fconditions in the west, especially in
-OL,8,Fthe afternoon. Light and variable
-OL,9,Fwinds. Maximum Temperature 7C.
-OL,10,
-OL,11,CTonight:FA dry evening and night with
-OL,12,Flight winds. Patchy cloud and some
-OL,13,Fclear spells. A few fog patches are
-OL,14,Fpossible under any longer clear
-OL,15,Fspells. Minimum Temperature 0C.
-OL,16,
-OL,17,CSaturday:FA dry day with patchy cloud
-OL,18,Fand sunny spells, best in the west.
-OL,19,FCloud in the east will thicken in the
-OL,20,Fafternoon. Maximum Temperature 7C.
+OL,5,CThis Evening and Tonight:FA dry
+OL,6,Fevening and night with light winds.
+OL,7,FPatchy cloud and some clear spells. A
+OL,8,Ffew fog patches are possible under any
+OL,9,Flonger clear spells. Minimum
+OL,10,FTemperature 0C.
+OL,11,
+OL,12,CSaturday:FA dry day although cloudy
+OL,13,Fskies at times across the east and
+OL,14,Fthrough the Central Belt. Argyll and
+OL,15,Fthe west coast seeing the best of the
+OL,16,Fsunshine. Maximum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
@@ -30,15 +26,16 @@ PN,13802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1766721946
+OL,0,        ECIMSBWebfax 2   F138A1766776082
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
 OL,5,COutlook for Sunday to Tuesday:FA
 OL,6,Fmostly dry few days with variable
-OL,7,Fcloud amounts. The best of any sunny
-OL,8,Fspells will be in the west.
+OL,7,Fcloud amounts and some sunny periods.
+OL,8,FOvernight frost where skies remain
+OL,9,Fclear.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
