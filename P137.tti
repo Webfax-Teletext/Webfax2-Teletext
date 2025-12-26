@@ -2,24 +2,23 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1766736382
+OL,0,        ECIMSBWebfax 2   F137A1766768865
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FA cold and dry Boxing Day.
-OL,6,FMostly cloudy across Aberdeenshire,
-OL,7,Fsome brighter spells in the afternoon.
-OL,8,FBest of the sunny spells across Moray.
-OL,9,FAny fog patches, most likely across
-OL,10,Fwestern Moray, will be slow to clear.
-OL,11,FMaximum Temperature 4C.
-OL,12,
-OL,13,CTonight:FA dry evening and night with
-OL,14,Flight winds. Patchy cloud and some
-OL,15,Fclear spells. Thicker cloud will
-OL,16,Fspread into the north towards the end
-OL,17,Fof the night. Minimum Temperature -2C.
+OL,5,CThis Evening and Tonight:FA dry
+OL,6,Fevening and night with light winds.
+OL,7,FClear spells overnight across the west
+OL,8,Fwill lead to some frost and fog
+OL,9,Fpatches, but often cloudy across the
+OL,10,Feast. Minimum Temperature -3C.
+OL,11,
+OL,12,CSaturday:FSome early brightness across
+OL,13,FDeeside otherwise it will be a dry and
+OL,14,Frather cloudy day. Becoming somewhat
+OL,15,Fbrighter across the north later in the
+OL,16,Fafternoon. Maximum Temperature 7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -27,22 +26,17 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1766736382
+OL,0,        ECIMSBWebfax 2   F137A1766768865
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CSaturday:FA mostly cloudy day. Mainly
-OL,6,Fdry, but a few spots of light drizzle
-OL,7,Fat times. Brighter conditions spread
-OL,8,Finto the northwest later in the
-OL,9,Fafternoon. Maximum Temperature 7C.
-OL,10,
-OL,11,COutlook for Sunday to Tuesday:FDry
-OL,12,Fwith sunny spells on Sunday, cloudier
-OL,13,Ftowards the east coast. Variable cloud
-OL,14,Famounts with some patchy rain at times
-OL,15,Fon Monday and later on Tuesday.
+OL,5,COutlook for Sunday to Tuesday:FDry
+OL,6,Fwith sunny spells on Sunday, cloudier
+OL,7,Ftowards the east coast. Variable cloud
+OL,8,Famounts with some patchy rain at times
+OL,9,Fon Monday. Dry on Tuesday. Overnight
+OL,10,Ffrost.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
