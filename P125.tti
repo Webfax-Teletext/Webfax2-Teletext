@@ -2,26 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1766700286
+OL,0,        ECIMSBWebfax 2   F125A1766732772
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Fcloudy over the Pennines through the
-OL,7,Fevening, but skies becoming clearer
-OL,8,Fovernight. Winds easing somewhat, but
-OL,9,Fremaining gusty over hills. A chilly
-OL,10,Fnight, with a patchy air frost
-OL,11,Fpossible. Minimum Temperature 0C.
+OL,5,CToday:FBoxing Day brings another
+OL,6,Fsettled day, with largely clear skies
+OL,7,Fallowing prolonged sunshine. Breezy at
+OL,8,Ftimes, with strong gusty winds likely
+OL,9,Fover hills. Another cold day, with
+OL,10,Ffrost reforming overnight. Maximum
+OL,11,FTemperature 6C.
 OL,12,
-OL,13,CFriday:FBoxing Day brings another
-OL,14,Fsettled day, with largely clear skies
-OL,15,Fallowing prolonged sunshine. Breezy at
-OL,16,Ftimes, with strong gusty winds likely
-OL,17,Fover hills. Another cold day, with
-OL,18,Ffrost reforming overnight. Maximum
-OL,19,FTemperature 6C.
+OL,13,CTonight:FMostly clear skies overnight
+OL,14,Fwith some patchy cloud filtering in
+OL,15,Ffrom the east. Some patchy frost in
+OL,16,Fplaces as well as some freezing mist
+OL,17,Fand fog possible. Feeling cold.
+OL,18,FMinimum Temperature -1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -29,17 +28,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1766700286
+OL,0,        ECIMSBWebfax 2   F125A1766732772
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Saturday to Monday:FTurning
-OL,6,Fincreasingly cloudy from Saturday with
-OL,7,Fthe odd spot of light rain and drizzle
-OL,8,Fover the weekend, though some brighter
-OL,9,Fbreaks remain possible. Often breezy,
-OL,10,Fcausing it to feel colder.
+OL,5,CSaturday:FTurning increasingly cloudy
+OL,6,Fthrough Saturday with some breaks in
+OL,7,Fthe cloud to the west of hills. Spots
+OL,8,Fof light rain and drizzle at times.
+OL,9,FFeeling cold in the easterly wind.
+OL,10,FMaximum Temperature 8C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:
+OL,13,FRemaining cloudy with the odd spot of
+OL,14,Flight rain and drizzle, though some
+OL,15,Fbrighter breaks remain possible to the
+OL,16,Fwest of hills. Often breezy, causing
+OL,17,Fit to feel colder.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
