@@ -2,25 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1766765256
+OL,0,        ECIMSBWebfax 2   F125A1766819390
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FMostly clear
-OL,6,Fskies overnight with some patchy cloud
-OL,7,Ffiltering in from the east at times.
-OL,8,FSome spots of frost in places as well
-OL,9,Fas some freezing mist and fog possible
-OL,10,Ftoo. Feeling cold. Minimum Temperature
-OL,11,F-1C.
+OL,5,CToday:FTurning increasingly cloudy
+OL,6,Fthrough this morning with some breaks
+OL,7,Fin the cloud to the west of hills. A
+OL,8,Ffew spots of light rain and drizzle at
+OL,9,Ftimes, mainly over the hills. Feeling
+OL,10,Fcold in easterly winds. Maximum
+OL,11,FTemperature 8C.
 OL,12,
-OL,13,CSaturday:FTurning increasingly cloudy
-OL,14,Fthrough Saturday with some breaks in
-OL,15,Fthe cloud to the west of hills. Spots
-OL,16,Fof light rain and drizzle at times.
-OL,17,FFeeling cold in easterly winds.
-OL,18,FMaximum Temperature 8C.
+OL,13,CTonight:FMostly cloudy this evening
+OL,14,Fthough some more prolonged clear
+OL,15,Fspells to the west of hills. Lighter
+OL,16,Fwinds here too allowing some frost and
+OL,17,Ffreezing fog patches to develop.
+OL,18,FMinimum Temperature 0C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,17 +28,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1766765256
+OL,0,        ECIMSBWebfax 2   F125A1766819390
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:FOften
-OL,6,Fcloudy with the odd spot of light rain
-OL,7,Fand drizzle, though some brighter
-OL,8,Fbreaks remain possible to the west of
-OL,9,Fhills. Often breezy, causing it to
-OL,10,Ffeel colder.
+OL,5,CSunday:FAnother cloudy day, with some
+OL,6,Fspots of drizzle. Once again, some
+OL,7,Fbrighter spells possible to the west
+OL,8,Fof hills. Lighter winds and
+OL,9,Ftemperatures around normal for the
+OL,10,Ftime of year. Maximum Temperature 7C.
+OL,11,
+OL,12,COutlook for Monday to Wednesday:FOften
+OL,13,Fcloudy with spots of light rain and
+OL,14,Fdrizzle, though some brighter breaks
+OL,15,Fremain possible to the west of hills.
+OL,16,FFog and frost possible where skies
+OL,17,Fremain clear overnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100

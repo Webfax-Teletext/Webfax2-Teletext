@@ -1,29 +1,49 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1766776082
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1766819389
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry with clear periods. Then
-OL,7,Fthe rest of the night will be dry and
-OL,8,Fcold with a frost and some freezing
-OL,9,Ffog patches. Minimum Temperature -1C.
-OL,10,
-OL,11,CSaturday:FA dry day with lengthy
-OL,12,Fperiods of sunshine. Patchy cloud will
-OL,13,Fgradually increase later in the
-OL,14,Fafternoon and evening. Maximum
-OL,15,FTemperature 7C.
-OL,16,
-OL,17,COutlook for Sunday to Tuesday:FA
-OL,18,Fmostly dry few days with variable
-OL,19,Fcloud amounts. The best of any sunny
-OL,20,Fspells are likely to be on Monday and
-OL,21,FTuesday.
+OL,5,CToday:FIt will be a dry morning with
+OL,6,Flengthy periods of sunshine. Staying
+OL,7,Fdry through the afternoon but patchy
+OL,8,Fcloud will gradually increase from the
+OL,9,Feast through the afternoon. Maximum
+OL,10,FTemperature 7C.
+OL,11,
+OL,12,CTonight:FIt will stay dry through the
+OL,13,Fevening and overnight. Becoming
+OL,14,Fincreasingly cloudy through the
+OL,15,Fevening, staying mostly cloudy
+OL,16,Fovernight. Frost will form where skies
+OL,17,Fstay clear for a prolonged time.
+OL,18,FMinimum Temperature 0C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1766819389
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,CSunday:FIt will stay dry and largely
+OL,6,Fcloudy through Sunday. The best chance
+OL,7,Fof bright or sunny spells towards
+OL,8,FDerry. Maximum Temperature 7C.
+OL,9,
+OL,10,COutlook for Monday to Wednesday:FMostly
+OL,11,Fon Monday and Tuesday with variable
+OL,12,Fcloud amounts and sunny spells.
+OL,13,FOvernight frost and fog patches.
+OL,14,FCloudier on Wednesday with a few light
+OL,15,Fshowers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
