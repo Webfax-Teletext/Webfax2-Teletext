@@ -2,24 +2,25 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1766819389
+OL,0,        ECIMSBWebfax 2   F137A1766862713
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FIt will be a rather cloudy
-OL,6,Fmorning. It should stay mainly dry but
-OL,7,Fwith the odd spot of light rain
-OL,8,Fpossible. It will become brighter
-OL,9,Fthrough the afternoon. Maximum
-OL,10,FTemperature 7C.
-OL,11,
-OL,12,CTonight:FIt will stay dry through the
-OL,13,Fevening and overnight. Areas of cloud
-OL,14,Fpersisting around the coast but clear
-OL,15,Fskies inland, allowing a widespread
-OL,16,Ffrost and some fog patches to form.
-OL,17,FMinimum Temperature -5C.
+OL,5,CThis Evening and Tonight:FIt will stay
+OL,6,Fdry through the evening and overnight.
+OL,7,FAreas of cloud persisting around the
+OL,8,Fcoast but clear skies inland, allowing
+OL,9,Fa widespread frost and some fog
+OL,10,Fpatches to form. Minimum Temperature
+OL,11,F-5C.
+OL,12,
+OL,13,CSunday:FIt will stay dry through
+OL,14,FSunday with bright or sunny spells,
+OL,15,Fthough the sunshine may be hazy at
+OL,16,Ftimes. Cloudier around the east coast.
+OL,17,FFeeling cold with widespread overnight
+OL,18,Ffrost. Maximum Temperature 3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -27,24 +28,17 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1766819389
+OL,0,        ECIMSBWebfax 2   F137A1766862713
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CSunday:FIt will stay dry through
-OL,6,FSunday with bright or sunny spells,
-OL,7,Fthough the sunshine may be hazy at
-OL,8,Ftimes. Cloudier around the east coast.
-OL,9,FFeeling cold with widespread overnight
-OL,10,Ffrost. Maximum Temperature 3C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:
-OL,13,FVariable cloud amounts with some
-OL,14,Fpatchy rain for a time on Monday. Dry
-OL,15,Fstart on Tuesday before showery rain
-OL,16,Fagain later. Variable cloud and a few
-OL,17,Fshowers Wednesday. Overnight frost.
+OL,5,COutlook for Monday to Wednesday:
+OL,6,FVariable cloud amounts with some
+OL,7,Fpatchy rain for a time on Monday. Dry
+OL,8,Fstart on Tuesday before showery rain
+OL,9,Fagain later. Variable cloud and a few
+OL,10,Fshowers Wednesday. Overnight frost.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
