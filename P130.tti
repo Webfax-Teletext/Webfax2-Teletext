@@ -2,24 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1766908049
+OL,0,        ECIMSBWebfax 2   F130A1766940535
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FA dry day, with plenty of cloud
-OL,6,Fthroughout. A few breaks in the cloud
-OL,7,Fmay develop, with the best of any
-OL,8,Fbrighter spells likely in the south.
-OL,9,FBlustery winds along the coast, easing
-OL,10,Flater. Maximum Temperature 9C.
-OL,11,
-OL,12,CTonight:FStaying dry with a good deal
-OL,13,Fof cloud at first. Cloud breaks
-OL,14,Fdeveloping in the evening, with the
-OL,15,Fnortheasterly winds bringing colder
-OL,16,Ftemperatures, and frost likely in many
-OL,17,Fplaces. Minimum Temperature -2C.
+OL,5,CThis Evening and Tonight:FStaying dry
+OL,6,Fwith a good deal of cloud at first.
+OL,7,FCloud breaks developing in the
+OL,8,Fevening, with the north-easterly winds
+OL,9,Fbringing colder temperatures, and
+OL,10,Ffrost likely in many places outside of
+OL,11,FLondon. Minimum Temperature -2C.
+OL,12,
+OL,13,CMonday:FDry but dull to start, though
+OL,14,Fsome showers may move in from the
+OL,15,Fnorth late in the afternoon. Mostly
+OL,16,Flight winds, though stronger along the
+OL,17,Fcoast. Frost possible overnight.
+OL,18,FMaximum Temperature 6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -27,24 +28,17 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1766908049
+OL,0,        ECIMSBWebfax 2   F130A1766940535
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CMonday:FDry but dull to start, though
-OL,6,Fsome showers may move in from the
-OL,7,Fnorth late in the afternoon. Mostly
-OL,8,Flight winds, though stronger along the
-OL,9,Fcoast. Frost possible overnight.
-OL,10,FMaximum Temperature 6C.
-OL,11,
-OL,12,COutlook for Tuesday to Thursday:FMostly
-OL,13,Fdry and cloudy with light winds on
-OL,14,FTuesday. Some brighter spells but
-OL,15,Fblustery winds along the coast on
-OL,16,FWednesday. Gusty winds and occasional
-OL,17,Fshowers possible on Thursday.
+OL,5,COutlook for Tuesday to Thursday:FMostly
+OL,6,Fdry and cloudy with light winds on
+OL,7,FTuesday. Some brighter spells but
+OL,8,Fblustery winds along the coast on
+OL,9,FWednesday. Gusty winds and occasional
+OL,10,Fshowers possible on Thursday. Cold.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
