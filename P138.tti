@@ -1,45 +1,29 @@
-PN,13801
-SC,0001
+PN,13800
+SC,0000
 CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1766897192
-OL,1,Wj5hw1~{4k7juhw1{$             G1/2
+PS,8008
+OL,0,        ECIMSBWebfax 2   F138A1766947753
+OL,1,Wj5hw1~{4k7juhw1{$
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CToday:FAll parts will have a dry day
-OL,6,Fwith bright or sunny spells. Some
-OL,7,Fcloud may linger through the Central
-OL,8,FBelt and the east. A cold day. Maximum
-OL,9,FTemperature 5C.
-OL,10,
-OL,11,CTonight:FThis evening will be dry.
-OL,12,FThen the rest of the night will remain
-OL,13,Fdry with clear periods and some frost
-OL,14,Fand freezing fog patches. Light winds.
-OL,15,FMinimum Temperature -3C.
-OL,16,
-OL,17,CMonday:FA dry day with variable
-OL,18,Famounts of cloud and some sunny
-OL,19,Fspells. Overnight fog patches may
-OL,20,Flinger into the afternoon. Cold.
-OL,21,FMaximum Temperature 4C.
-OL,23,QppppppppppppppppppppGSource: Met Office
-OL,24,ANext Page BWeatherCReg Sport FNat Radio
-FL,139,120,301,200,000,100
-PN,13802
-SC,0002
-CT,20,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F138A1766897192
-OL,1,Wj5hw1~{4k7juhw1{$             G2/2
-OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
-OL,3,GStrathclyde
-OL,4,
-OL,5,COutlook for Tuesday to Thursday:FDry
-OL,6,Fand bright on Tuesday. Dry for most of
-OL,7,FWednesday but showers likely later.
-OL,8,FShowery rain early Thursday then dry.
+OL,5,CThis Evening and Tonight:FThis evening
+OL,6,Fwill be dry. Then the rest of the
+OL,7,Fnight will remain dry with clear
+OL,8,Fperiods and some frost and freezing
+OL,9,Ffog patches. Light winds. Minimum
+OL,10,FTemperature -3C.
+OL,11,
+OL,12,CMonday:FA dry day with variable
+OL,13,Famounts of cloud and some sunny
+OL,14,Fspells. Overnight fog patches may
+OL,15,Flinger into the afternoon. Cold.
+OL,16,FMaximum Temperature 4C.
+OL,17,
+OL,18,COutlook for Tuesday to Thursday:FDry
+OL,19,Fand bright on Tuesday. Dry for most of
+OL,20,FWednesday but showers likely later.
+OL,21,FShowery rain early Thursday then dry.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
