@@ -2,24 +2,23 @@ PN,13901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1766882742
+OL,0,        ECIMSBWebfax 2   F139A1766904438
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will stay
-OL,6,Fdry through the evening and overnight.
-OL,7,FStaying cloudy over Lothian and
-OL,8,FBorders but clearer skies over the
-OL,9,Fsouthwest will allow frost to develop.
-OL,10,FMinimum Temperature -3C.
+OL,5,CToday:FAll parts will have a dry and
+OL,6,Fcold day. Edinburgh, Lothians and
+OL,7,FBorders may be rather cloudy at times,
+OL,8,Fbut some brightness developing across
+OL,9,FDumfries and Galloway. Maximum
+OL,10,FTemperature 5C.
 OL,11,
-OL,12,CSunday:FIt will be a dry but cold day.
-OL,13,FLargely cloudy for Lothian and
-OL,14,FBorders, but some sunshine likely in
-OL,15,Fthe southwest. Frost and fog forming
-OL,16,Funder clear skies overnight. Maximum
-OL,17,FTemperature 5C.
+OL,12,CTonight:FThis evening will be dry.
+OL,13,FRemaining dry overnight with a frost
+OL,14,Facross the southwest. Lothian and
+OL,15,FBorders seeing more in the way of
+OL,16,Fcloud. Minimum Temperature -2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
@@ -27,17 +26,23 @@ PN,13902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F139A1766882742
+OL,0,        ECIMSBWebfax 2   F139A1766904438
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GDumfries
 OL,4,
-OL,5,COutlook for Monday to Wednesday:
-OL,6,FVariable cloud on Monday with patchy
-OL,7,Frain possible in the east for a time.
-OL,8,FDry on Tuesday with bright spells.
-OL,9,FVariable cloud and a few showers
-OL,10,FWednesday. Overnight frost, fog.
+OL,5,CMonday:FMost of the day will be dry
+OL,6,Fwith some sunshine in the southwest,
+OL,7,Fcloudier across the east. A few
+OL,8,Fshowers across Lothian and Borders
+OL,9,Ftowards evening. Maximum Temperature
+OL,10,F4C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:FDry
+OL,13,Fand bright on Tuesday. Dry for most of
+OL,14,FWednesday but showers likely
+OL,15,Fovernight. Showery rain early Thursday
+OL,16,Fthen dry.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,150,120,301,200,000,100
