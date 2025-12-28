@@ -2,27 +2,25 @@ PN,13301
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1766882743
+OL,0,        ECIMSBWebfax 2   F133A1766897192
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CThis Evening and Tonight:FTurning
-OL,6,Fcloudy for many overnight with
-OL,7,Foccasional drizzle possible over the
-OL,8,Fhills. Clear spells continuing in the
-OL,9,Fwest and a cold night here with
-OL,10,Fpockets of frost possible in sheltered
-OL,11,Fareas. Gusty winds over higher ground
-OL,12,Fat first, easing overnight. Minimum
-OL,13,FTemperature 2C.
-OL,14,
-OL,15,CSunday:FRather cloudy for most, with
-OL,16,Foccasional bright or sunny intervals
-OL,17,Fpossible. Perhaps more generally sunny
-OL,18,Fat times in some western areas.
-OL,19,FSlightly breezy but not as windy as on
-OL,20,FSaturday. Maximum Temperature 7C.
+OL,5,CToday:FRather cloudy for most, with
+OL,6,Foccasional bright or sunny intervals
+OL,7,Fpossible. Perhaps more generally sunny
+OL,8,Fat times in some western areas.
+OL,9,FSlightly breezy but not as windy as on
+OL,10,FSaturday. Maximum Temperature 7C.
+OL,11,
+OL,12,CTonight:FFairly cloudy in many places
+OL,13,Fthis evening but increasingly
+OL,14,Fprolonged clear periods developing
+OL,15,Fovernight. Patchy mist and freezing
+OL,16,Ffog developing later and turning cold
+OL,17,Fwith a frost developing in places.
+OL,18,FMinimum Temperature -1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
@@ -30,18 +28,25 @@ PN,13302
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1766882743
+OL,0,        ECIMSBWebfax 2   F133A1766897192
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FHigh
-OL,6,Fpressure will maintain the settled and
-OL,7,Fgenerally dry weather. Variable
-OL,8,Famounts of cloud but with increasingly
-OL,9,Flengthy sunny or clear periods.
-OL,10,FWidespread overnight frosts developing
-OL,11,Fand patchy freezing fog.
+OL,5,CMonday:FMonday will probably be a
+OL,6,Fbrighter day overall with sunny
+OL,7,Fperiods once any early fog or low
+OL,8,Fcloud has cleared. Fairly light winds
+OL,9,Fbut chilly nonetheless after a cold
+OL,10,Fstart. Maximum Temperature 7C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:
+OL,13,FRemaining generally dry to end 2025
+OL,14,Fwith sunny periods at times.
+OL,15,FWidespread overnight frosts and patchy
+OL,16,Ffreezing fog. Perhaps breezier with
+OL,17,Fisolated showers on New Year's Day.
+OL,18,FFeeling rather cold.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
