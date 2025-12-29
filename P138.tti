@@ -1,29 +1,45 @@
-PN,13800
-SC,0000
+PN,13801
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F138A1766947753
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F138A1766980258
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry. Then the rest of the
-OL,7,Fnight will remain dry with clear
-OL,8,Fperiods and some frost and freezing
-OL,9,Ffog patches. Light winds. Minimum
-OL,10,FTemperature -3C.
-OL,11,
-OL,12,CMonday:FA dry day with variable
-OL,13,Famounts of cloud and some sunny
-OL,14,Fspells. Overnight fog patches may
-OL,15,Flinger into the afternoon. Cold.
-OL,16,FMaximum Temperature 4C.
-OL,17,
-OL,18,COutlook for Tuesday to Thursday:FDry
-OL,19,Fand bright on Tuesday. Dry for most of
-OL,20,FWednesday but showers likely later.
-OL,21,FShowery rain early Thursday then dry.
+OL,5,CToday:FAny overnight fog patches
+OL,6,Fclearing by early afternoon. Otherwise
+OL,7,Fit will be a dry day with variable
+OL,8,Famounts of cloud and some bright or
+OL,9,Fsunny spells. Maximum Temperature 5C.
+OL,10,
+OL,11,CTonight:FThis evening will be dry.
+OL,12,FThen the rest of the night will be dry
+OL,13,Fwith variable amounts of cloud. A
+OL,14,Ffrost developing under lengthy cloud
+OL,15,Fbreaks. Minimum Temperature -3C.
+OL,16,
+OL,17,CTuesday:FAll parts will have a dry and
+OL,18,Fcold day with some bright or sunny
+OL,19,Fspells. Maximum Temperature 3C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,139,120,301,200,000,100
+PN,13802
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F138A1766980258
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GStrathclyde
+OL,4,
+OL,5,COutlook for Wednesday to Friday:FMainly
+OL,6,Fdry on Wednesday, freshening westerly
+OL,7,Fwinds will bring showery rain later.
+OL,8,FMainly dry and much colder on Thursday
+OL,9,Fand Friday, a few snow showers across
+OL,10,FArgyll and west coast.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
