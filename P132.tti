@@ -1,28 +1,46 @@
-PN,13200
-SC,0000
+PN,13201
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F132A1766954974
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1766987472
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry. The rest of the night
-OL,7,Fwill remain dry with variable amounts
-OL,8,Fof cloud. A few frost and fog patches
-OL,9,Fdeveloping where cloud clears. Minimum
-OL,10,FTemperature 0C.
-OL,11,
-OL,12,CMonday:FAny fog patches clearing by
-OL,13,Fearly afternoon. Otherwise it will be
-OL,14,Fa dry day with a few bright or sunny
-OL,15,Fspells. Cold. Maximum Temperature 5C.
+OL,5,CToday:FAll parts will have a dry day.
+OL,6,FThere will be variable amounts of
+OL,7,Fcloud through the day with a few
+OL,8,Fbright or sunny spells, Light winds.
+OL,9,FMaximum Temperature 6C.
+OL,10,
+OL,11,CTonight:FThis evening will be dry.
+OL,12,FThen the rest of the night will remain
+OL,13,Fdry with a few clear periods. Frost
+OL,14,Fand patchy fog forming where skies
+OL,15,Fclear. Minimum Temperature 0C.
 OL,16,
-OL,17,COutlook for Tuesday to Thursday:
-OL,18,FTuesday and Wednesday will be dry.
-OL,19,FFreshening northwesterly winds will
-OL,20,Fbring a few showers on Thursday.
+OL,17,CTuesday:FAny overnight fog patches
+OL,18,Fclearing in the morning. Otherwise it
+OL,19,Fwill be a dry day with some spells of
+OL,20,Fsunshine. Maximum Temperature 6C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,133,120,301,200,000,100
+PN,13202
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F132A1766987472
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GNorthern Ireland
+OL,4,
+OL,5,COutlook for Wednesday to Friday:FDry
+OL,6,Fon Wednesday with sunny periods.
+OL,7,FScattered showers on Thursday, some
+OL,8,Flonger spells of rain at first. Much
+OL,9,Fcolder on Friday with a chance of snow
+OL,10,Fshowers.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
