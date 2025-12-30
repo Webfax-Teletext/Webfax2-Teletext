@@ -2,28 +2,26 @@ PN,13301
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1767081311
+OL,0,        ECIMSBWebfax 2   F133A1767110185
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
-OL,5,CToday:FCloudy over the hills to start,
-OL,6,Fwith some drizzle in places. Otherwise
-OL,7,Fa mostly dry day with sunnier spells
-OL,8,Fdeveloping more widely compared to
-OL,9,Frecent days. Light winds but still
-OL,10,Ffeeling chilly. Maximum Temperature 6C.
-OL,11,
-OL,12,CTonight:FDry this evening with plenty
-OL,13,Fof lengthy clear skies overnight.
-OL,14,FTurning colder with a widespread frost
-OL,15,Fand some freezing fog patches. Minimum
-OL,16,FTemperature -4C.
-OL,17,
-OL,18,CWednesday:FA cold and frosty start to
-OL,19,FNew Year's Eve with plenty of winter's
-OL,20,Fsunshine. Light winds but still
-OL,21,Ffeeling chilly. Maximum Temperature 5C.
+OL,5,CThis Evening and Tonight:FDry
+OL,6,Fthroughout Tuesday evening and
+OL,7,Fovernight with a mixture of clear
+OL,8,Fspells and variable cloud. Turning
+OL,9,Fchilly underneath the lengthiest clear
+OL,10,Fskies with a widespread frost and some
+OL,11,Ffreezing fog patches. Light winds.
+OL,12,FMinimum Temperature -4C.
+OL,13,
+OL,14,CWednesday:FA frosty start to New
+OL,15,FYear's Eve with fog locally lingering
+OL,16,Funtil late morning. Elsewhere, plenty
+OL,17,Fof winter sunshine. Cloud building
+OL,18,Finto the evening with a breeze, but
+OL,19,Fdry. Maximum Temperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
@@ -31,17 +29,18 @@ PN,13302
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F133A1767081311
+OL,0,        ECIMSBWebfax 2   F133A1767110185
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWales
 OL,4,
 OL,5,COutlook for Thursday to Saturday:
-OL,6,FCloudier with showery rain arriving
-OL,7,Finto New Year's Day. Turning colder,
-OL,8,Fespecially in the wind, with the
-OL,9,Fincreased risk of wintry showers into
-OL,10,Fthe weekend. Frost and ice overnight.
+OL,6,FCloudier on New Year's Day with
+OL,7,Fshowery rain. Turning colder,
+OL,8,Fespecially in the strengthening wind,
+OL,9,Fwith the increased risk of wintry
+OL,10,Fshowers into the weekend. Frost and
+OL,11,Fice overnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,134,120,301,200,000,100
