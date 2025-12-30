@@ -2,22 +2,24 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1767088532
+OL,0,        ECIMSBWebfax 2   F132A1767121024
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FThe day will be mostly dry, the
-OL,6,Fmorning will be mainly cloudy with the
-OL,7,Foccasional bright spell but sunny
-OL,8,Fperiods will increase during the
-OL,9,Fafternoon. Maximum Temperature 6C.
-OL,10,
-OL,11,CTonight:FThe night will continue dry
-OL,12,Fwith clear periods. Light winds and
-OL,13,Fclear periods will lead to a frosty
-OL,14,Fnight with the occasional fog patch.
-OL,15,FMinimum Temperature -2C.
+OL,5,CThis Evening and Tonight:FThe night
+OL,6,Fwill continue dry with clear periods.
+OL,7,FLight winds and clear periods will
+OL,8,Flead to a frosty night with the
+OL,9,Foccasional mist or fog patch. Minimum
+OL,10,FTemperature -2C.
+OL,11,
+OL,12,CWednesday:FAfter a bright and frosty
+OL,13,Fstart much of the day will stay dry
+OL,14,Fwith sunny spells. Cloud will spread
+OL,15,Fsouth during the afternoon with
+OL,16,Fshowers in north during the evening.
+OL,17,FMaximum Temperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -25,25 +27,18 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1767088532
+OL,0,        ECIMSBWebfax 2   F132A1767121024
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CWednesday:FAfter a bright and frosty
-OL,6,Fstart much of the day will stay dry
-OL,7,Fwith sunny spells. Cloud will spread
-OL,8,Fsouth during the afternoon with
-OL,9,Fshowers in the north towards evening.
-OL,10,FMaximum Temperature 5C.
-OL,11,
-OL,12,COutlook for Thursday to Saturday:
-OL,13,FCloudy with showers becoming wintry
-OL,14,Ftowards the evening Thursday. Snow
-OL,15,Fshowers become frequent overnight into
-OL,16,FFriday but ease for a time from the
-OL,17,Fafternoon. Further snow showers
-OL,18,FSaturday. Windy.
+OL,5,COutlook for Thursday to Saturday:
+OL,6,FCloudy with showers becoming wintry
+OL,7,Ftowards the evening Thursday. Snow
+OL,8,Fshowers become frequent overnight into
+OL,9,FFriday but ease for a time from the
+OL,10,Fafternoon. Further snow showers
+OL,11,FSaturday. Windy.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
