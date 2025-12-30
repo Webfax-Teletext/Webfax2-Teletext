@@ -1,29 +1,49 @@
-PN,13800
-SC,0000
+PN,13801
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F138A1767037999
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F138A1767092143
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GStrathclyde
 OL,4,
-OL,5,CThis Evening and Tonight:FThis evening
-OL,6,Fwill be dry. Then the rest of the
-OL,7,Fnight will be dry with variable
-OL,8,Famounts of cloud. A frost developing
-OL,9,Funder lengthy cloud breaks. Minimum
-OL,10,FTemperature -3C.
+OL,5,CToday:FAfter a bright and frosty start
+OL,6,Fthe day will be dry and cold. There
+OL,7,Fwill be long sunny periods with patchy
+OL,8,Fcloud, this mostly in the west.
+OL,9,FMaximum Temperature 3C.
+OL,10,
+OL,11,CTonight:FThe night will be dry with
+OL,12,Fpatchy cloud. Long clear periods and
+OL,13,Flight winds will lead to a widespread
+OL,14,Ffrost. Cloud will increase in the
+OL,15,Fnorth and west later. Minimum
+OL,16,FTemperature -3C.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,139,120,301,200,000,100
+PN,13802
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F138A1767092143
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GStrathclyde
+OL,4,
+OL,5,CWednesday:FAfter a dry and bright
+OL,6,Fstart, cloud will spread southeast
+OL,7,Ffrom the morning with light showery
+OL,8,Frain following from late morning.
+OL,9,FShowers become heavy with snow on the
+OL,10,Fhills later. Maximum Temperature 6C.
 OL,11,
-OL,12,CTuesday:FAll parts will have a dry and
-OL,13,Fcold day with some bright or sunny
-OL,14,Fspells. Maximum Temperature 3C.
-OL,15,
-OL,16,COutlook for Wednesday to Friday:FMainly
-OL,17,Fdry on Wednesday, freshening westerly
-OL,18,Fwinds will bring showery rain later.
-OL,19,FMainly dry and much colder on Thursday
-OL,20,Fand Friday, a few snow showers across
-OL,21,FArgyll and west coast.
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FStaying very cold with snow showers,
+OL,14,Fthese mainly north and west and
+OL,15,Ffalling as snow to low levels. Strong
+OL,16,Fnortherly winds will reach gale at
+OL,17,Ftimes along the coasts.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,139,120,301,200,000,100
