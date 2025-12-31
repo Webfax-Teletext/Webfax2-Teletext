@@ -2,25 +2,27 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1767192095
+OL,0,        ECIMSBWebfax 2   F127A1767206549
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FEarly cloud and freezing fog
-OL,6,Fpatches will only slowly clear this
-OL,7,Fmorning to leave a sunny but cold day.
-OL,8,FCloud thickening from the northwest
-OL,9,Fduring the afternoon. Maximum
-OL,10,FTemperature 5C.
-OL,11,
-OL,12,CTonight:FDry at first, with variable
-OL,13,Famounts of cloud. However, clear
-OL,14,Fspells will allow some chilly
-OL,15,Ftemperatures. Wind increasing with
-OL,16,Fcloud thickening and outbreaks of
-OL,17,Flight rain or hill snow later. Minimum
-OL,18,FTemperature 1C.
+OL,5,CThis Evening and Tonight:FDry, cold
+OL,6,Fevening with some clear spells, and a
+OL,7,Fpatchy early frost possible. Areas of
+OL,8,Fthicker cloud then move south
+OL,9,Fovernight, bringing outbreaks of rain
+OL,10,Fafter midnight. These mostly light,
+OL,11,Fbut perhaps falling as snow over
+OL,12,Fhigher hills. Breezy. Minimum
+OL,13,FTemperature 1C.
+OL,14,
+OL,15,CThursday:FSome light rain or hill snow
+OL,16,Fat first, but soon clearing south.
+OL,17,FSunny spells then developing, but
+OL,18,Fstaying cold, particularly in the
+OL,19,Fbrisk winds, which will be strongest
+OL,20,Falong coasts. Maximum Temperature 5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -28,24 +30,17 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1767192095
+OL,0,        ECIMSBWebfax 2   F127A1767206549
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThursday:FCloudy with some light rain
-OL,6,For hill snow at first. This clearing
-OL,7,Faway southwards, with sunny spells
-OL,8,Fdeveloping. Windy, especially on
-OL,9,Fcoasts, and cold. Maximum Temperature
-OL,10,F5C.
-OL,11,
-OL,12,COutlook for Friday to Sunday:FCloudy
-OL,13,Fwith risk of some snow early Friday.
-OL,14,FThen cold, mostly dry and sunny,
-OL,15,Falthough coastal wintry showers are
-OL,16,Fpossible. Windy along coasts making it
-OL,17,Ffeel colder, easing during Sunday.
+OL,5,COutlook for Friday to Sunday:FCold,
+OL,6,Fmostly dry and sunny, although risk of
+OL,7,Fsome snow early Friday. Coastal wintry
+OL,8,Fshowers also possible. Strong winds
+OL,9,Fwill add to the cold feel, especially
+OL,10,Falong coasts, easing Sunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
