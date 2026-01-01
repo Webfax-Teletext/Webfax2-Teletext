@@ -2,24 +2,25 @@ PN,13401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1767246227
+OL,0,        ECIMSBWebfax 2   F134A1767289536
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CToday:FFrequent heavy snow or hail
-OL,6,Fshowers with some sunny spells. Strong
-OL,7,Fto gale force northerly winds, severe
-OL,8,Fgale force at first. Feeling very cold
-OL,9,Fwith a bitter windchill. Maximum
-OL,10,FTemperature 3C.
-OL,11,
-OL,12,CTonight:FFurther heavy snow or hail
-OL,13,Fshowers will continue through the
-OL,14,Fnight, perhaps persisting for a time.
-OL,15,FDrifting accumulations in strong
-OL,16,Fnortherly winds. Minimum Temperature
-OL,17,F0C.
+OL,5,CThis Evening and Tonight:FFurther
+OL,6,Fheavy snow or hail showers will
+OL,7,Fcontinue through the evening and
+OL,8,Fnight, perhaps accompanied by the odd
+OL,9,Frumble of thunder. Some drifting
+OL,10,Faccumulations in strong northerly
+OL,11,Fwinds. Minimum Temperature 0C.
+OL,12,
+OL,13,CFriday:FVery cold conditions with
+OL,14,Ffurther snow and hail showers
+OL,15,Fcontinuing, perhaps heavy and turning
+OL,16,Finto more prolonged snowfall for a
+OL,17,Ftime. Strong north to northwest winds.
+OL,18,FMaximum Temperature 2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
@@ -27,22 +28,16 @@ PN,13402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F134A1767246227
+OL,0,        ECIMSBWebfax 2   F134A1767289536
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney
 OL,4,
-OL,5,CFriday:FVery cold conditions with
-OL,6,Ffurther snow and hail showers
-OL,7,Fcontinuing, perhaps heavy and turning
-OL,8,Finto more prolonged snowfall for a
-OL,9,Ftime. Maximum Temperature 2C.
-OL,10,
-OL,11,COutlook for Saturday to Monday:FVery
-OL,12,Fcold conditions with further snow and
-OL,13,Fhail showers continuing, these heavy
-OL,14,Fand perhaps persisting giving some
-OL,15,Fdrifting accumulations.
+OL,5,COutlook for Saturday to Monday:FVery
+OL,6,Fcold conditions with further snow and
+OL,7,Fhail showers continuing, these heavy
+OL,8,Fand perhaps persisting giving some
+OL,9,Fdrifting accumulations.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
