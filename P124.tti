@@ -2,26 +2,25 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1767217369
+OL,0,        ECIMSBWebfax 2   F124A1767246227
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy this
-OL,6,Fevening with some rain, mainly light,
-OL,7,Fbut falling as snow on high ground.
-OL,8,FThis moving away southwards overnight,
-OL,9,Fwith skies clearing. As temperatures
-OL,10,Ffall away, there will be a risk of icy
-OL,11,Fpatches developing. Windy. Minimum
-OL,12,FTemperature -2C.
-OL,13,
-OL,14,CThursday:FA mostly dry and sunny New
-OL,15,FYear's Day. Strong winds, especially
-OL,16,Fon coasts, making it feel very cold.
-OL,17,FRisk of coastal wintry showers, but
-OL,18,Fthese may stay just offshore. Maximum
-OL,19,FTemperature 3C.
+OL,5,CToday:FA mostly dry and sunny New
+OL,6,FYear's Day. Strong winds, especially
+OL,7,Fon coasts, making it feel very cold.
+OL,8,FThere may be an isolated wintry shower
+OL,9,Fnear the coast but these will mostly
+OL,10,Fremain off-shore. Maximum Temperature
+OL,11,F2C.
+OL,12,
+OL,13,CTonight:FLong clear periods,
+OL,14,Fespecially inland. A severe frost
+OL,15,Fdeveloping widely with the cold
+OL,16,Fexacerbated by the north-westerly
+OL,17,Fbreeze which will be strong near the
+OL,18,Fcoast. Minimum Temperature -7C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,17 +28,26 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1767217369
+OL,0,        ECIMSBWebfax 2   F124A1767246227
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Friday to Sunday:FMostly
-OL,6,Fdry and sunny, but cold throughout
-OL,7,Fwith widespread overnight frosts. Some
+OL,5,CFriday:FA bitterly cold day with
+OL,6,Ftemperatures mostly below freezing.
+OL,7,FLargely dry and sunny though some
 OL,8,Fcoastal wintry showers are possible.
-OL,9,FStrong winds will make it feel very
-OL,10,Fcold, before gradually easing Sunday.
+OL,9,FStrong winds, especially near the
+OL,10,Fcoast, bringing a significant wind-
+OL,11,Fchill. Maximum Temperature 0C.
+OL,12,
+OL,13,COutlook for Saturday to Monday:FMostly
+OL,14,Fdry and sunny, but cold throughout
+OL,15,Fwith widespread overnight frosts. Some
+OL,16,Fcoastal wintry showers are likely.
+OL,17,FStrong winds will make it feel very
+OL,18,Fcold, before gradually easing from
+OL,19,FSunday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
