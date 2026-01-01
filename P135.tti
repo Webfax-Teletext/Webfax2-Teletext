@@ -2,24 +2,27 @@ PN,13501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1767249837
+OL,0,        ECIMSBWebfax 2   F135A1767293146
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CToday:FFrequent heavy snow or hail
-OL,6,Fshowers with some bright spells
-OL,7,Fthrough the day. Fresh to strong winds
-OL,8,Fwith occasional gales on coasts.
-OL,9,FFeeling very cold with a bitter
-OL,10,Fwindchill. Maximum Temperature 3C.
-OL,11,
-OL,12,CTonight:FFurther heavy snow or hail
-OL,13,Fshowers will continue through the
-OL,14,Fnight, perhaps persisting for a time.
-OL,15,FDrifting accumulations in strong
-OL,16,Fnortherly winds. Minimum Temperature
-OL,17,F-2C.
+OL,5,CThis Evening and Tonight:FFurther
+OL,6,Fheavy snow or hail showers will
+OL,7,Fcontinue through the night, though
+OL,8,Fsleety at first over the Western
+OL,9,FIsles. Heaviest snow showers over
+OL,10,FNorth Highland with drifting
+OL,11,Faccumulations in strong northerly
+OL,12,Fwinds. Minimum Temperature -2C.
+OL,13,
+OL,14,CFriday:FVery cold conditions with
+OL,15,Ffurther heavy snow showers especially
+OL,16,Fover North Highland, with some more
+OL,17,Fprolonged snow showers in the
+OL,18,Fafternoon and evening. Drifting in
+OL,19,Fstrong north or northwest winds.
+OL,20,FMaximum Temperature 2C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
@@ -27,22 +30,17 @@ PN,13502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F135A1767249837
+OL,0,        ECIMSBWebfax 2   F135A1767293146
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GHighlands
 OL,4,
-OL,5,CFriday:FVery cold conditions with
-OL,6,Ffurther snow and hail showers
-OL,7,Fcontinuing, perhaps heavy and turning
-OL,8,Finto more prolonged snowfall for a
-OL,9,Ftime. Maximum Temperature 2C.
-OL,10,
-OL,11,COutlook for Saturday to Monday:FVery
-OL,12,Fcold conditions with further snow and
-OL,13,Fhail showers continuing, these heavy
-OL,14,Fand perhaps persisting giving some
-OL,15,Fdrifting accumulations.
+OL,5,COutlook for Saturday to Monday:FVery
+OL,6,Fcold conditions with further snow and
+OL,7,Fhail showers continuing, these heavy
+OL,8,Fwith further drifting accumulations.
+OL,9,FFewer showers on Monday with lighter
+OL,10,Fwinds.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,136,120,301,200,000,100
