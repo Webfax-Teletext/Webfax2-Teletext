@@ -2,22 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1767332839
+OL,0,        ECIMSBWebfax 2   F132A1767383377
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CToday:FA cold day with wintry showers,
-OL,6,Fespecially in the north. Drier in the
-OL,7,Fsouth with more in the way of sunny
-OL,8,Fspells. Breezy with a bitter wind
-OL,9,Fchill. Maximum Temperature 4C.
-OL,10,
-OL,11,CTonight:FA very cold night with
-OL,12,Fscattered snow showers. Showers most
-OL,13,Flikely across northern parts with some
-OL,14,Fdrier and clearer spells further
-OL,15,Fsouth. Minimum Temperature -1C.
+OL,5,CThis Evening and Tonight:FA very cold
+OL,6,Fnight with scattered wintry showers.
+OL,7,FShowers most likely across northern
+OL,8,Fparts with slight falls on high ground
+OL,9,Fand a risk of ice more widely. Some
+OL,10,Fdrier and clearer spells further
+OL,11,Fsouth. Minimum Temperature -1C.
+OL,12,
+OL,13,CSaturday:FAnother cold day with wintry
+OL,14,Fshowers, which may turn heavy at
+OL,15,Ftimes. Dry and bright spells between
+OL,16,Fshowers. Breezy with a bitter wind
+OL,17,Fchill., especially near coasts.
+OL,18,FMaximum Temperature 4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -25,25 +28,17 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1767332839
+OL,0,        ECIMSBWebfax 2   F132A1767383377
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CSaturday:FAnother cold day with snow
-OL,6,Fshowers, which may be heavy at times.
-OL,7,FDry and bright spells between showers.
-OL,8,FBreezy with a bitter wind chill.,
-OL,9,Fespecially near coasts. Maximum
-OL,10,FTemperature 4C.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:
-OL,13,FRemaining cold or very cold through
-OL,14,Fthe period with occasional wintry
-OL,15,Fshowers Sunday and Monday. A band of
-OL,16,Frain and snow spreads eastwards on
-OL,17,FTuesday. Often breezy, especially near
-OL,18,Fcoasts.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FRemaining cold or very cold through
+OL,7,Fthe period with occasional wintry
+OL,8,Fshowers Sunday and Monday. A band of
+OL,9,Frain and hill snow spreads eastwards
+OL,10,Fon Tuesday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
