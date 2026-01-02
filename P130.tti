@@ -2,27 +2,26 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1767285928
+OL,0,        ECIMSBWebfax 2   F130A1767336448
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CThis Evening and Tonight:FCold at
-OL,6,Ffirst with a brisk breeze, and
-OL,7,Fwidespread frost developing. Cloud
-OL,8,Fincreasing after midnight with a
-OL,9,Fchance for wintry precipitation
-OL,10,Ftowards dawn, perhaps brief snow in
-OL,11,Fplaces. Slight and patchy
-OL,12,Faccumulations possible, along with icy
-OL,13,Fstretches. Minimum Temperature -2C.
-OL,14,
-OL,15,CFriday:FEarly rain, sleet or light
-OL,16,Fsnow soon clearing, to leave a cold
-OL,17,Fbut largely sunny day. Temperatures
-OL,18,Fonly rising a little above freezing,
-OL,19,Fand feeling colder in the brisk winds.
-OL,20,FMaximum Temperature 4C.
+OL,5,CToday:FAny early outbreaks of light
+OL,6,Frain, sleet or snow will clear,
+OL,7,Fleaving cold and dry conditions with
+OL,8,Fpatchy cloud and sunny spells.
+OL,9,FTemperatures only rising a little
+OL,10,Fabove freezing for many places, and
+OL,11,Ffeeling colder with the wind. Maximum
+OL,12,FTemperature 4C.
+OL,13,
+OL,14,CTonight:FAny early patchy cloud will
+OL,15,Fdisperse to leave a clear and cold
+OL,16,Fnight with temperatures quickly
+OL,17,Ffalling below freezing, and a
+OL,18,Fwidespread hard frost developing.
+OL,19,FMinimum Temperature -4C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -30,17 +29,24 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1767285928
+OL,0,        ECIMSBWebfax 2   F130A1767336448
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,COutlook for Saturday to Monday:FMostly
-OL,6,Fdry and sunny, but cold throughout
-OL,7,Fwith widespread overnight frosts.
-OL,8,FStrong winds will make it feel very
-OL,9,Fcold, before gradually easing from
-OL,10,FSunday.
+OL,5,CSaturday:FAfter a very frosty start
+OL,6,Ftemperatures will struggle to rise
+OL,7,Fabove freezing for many areas, despite
+OL,8,Fa largely sunny day. After dark
+OL,9,Ftemperatures rapidly fall below
+OL,10,Ffreezing again. Maximum Temperature 2C.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FMostly
+OL,13,Fdry and sunny, but cold throughout
+OL,14,Fwith widespread overnight frosts and
+OL,15,Fan increasing chance of freezing fog
+OL,16,Fpatches which will be slow to clear
+OL,17,Feach day.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
