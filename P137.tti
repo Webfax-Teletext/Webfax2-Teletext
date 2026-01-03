@@ -2,24 +2,25 @@ PN,13701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1767412256
+OL,0,        ECIMSBWebfax 2   F137A1767466383
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CToday:FA very cold day with snow and
-OL,6,Fhail showers, these often heavy and
-OL,7,Ffrequent, especially in the morning
-OL,8,Fwhere the odd rumble of thunder
-OL,9,Fpossible. Strong northerly winds with
-OL,10,Fcontinued coastal gale and drifting
-OL,11,Fsnow risk. Maximum Temperature 1C.
-OL,12,
-OL,13,CTonight:FVery cold overnight with
-OL,14,Fheavy snow showers continuing, best of
-OL,15,Fany drier spells in the south. Strong
-OL,16,Fnortherly winds which may cause
-OL,17,Fdrifting snow. Minimum Temperature -4C.
+OL,5,CThis Evening and Tonight:FIt will stay
+OL,6,Fvery cold overnight with heavy snow
+OL,7,Fshowers continuing, best of any drier
+OL,8,Fspells in the south. Strong northerly
+OL,9,Fwinds which may cause drifting snow.
+OL,10,FMinimum Temperature -5C.
+OL,11,
+OL,12,CSunday:FAnother very cold day with
+OL,13,Fheavy snow showers, which may be
+OL,14,Fthundery at times. Some drier and
+OL,15,Fbrighter spells possible between
+OL,16,Fshowers. Strong northerly winds mainly
+OL,17,Faround the coasts. Maximum Temperature
+OL,18,F0C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
@@ -27,24 +28,18 @@ PN,13702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F137A1767412256
+OL,0,        ECIMSBWebfax 2   F137A1767466383
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GGrampian
 OL,4,
-OL,5,CSunday:FAnother very cold day with
-OL,6,Fheavy snow showers, which may be
-OL,7,Fthundery at times. Some drier and
-OL,8,Fbrighter spells possible. Strong
-OL,9,Fnortherly winds mainly around the
-OL,10,Fcoasts. Maximum Temperature 1C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FSnow
-OL,13,Fshowers generally easing Monday with
-OL,14,Flighter winds. Rain and hill snow
-OL,15,Fspreading east early Tuesday. Dry for
-OL,16,Fa time Wednesday but rain and snow
-OL,17,Flater with winds strengthening. Cold.
+OL,5,COutlook for Monday to Wednesday:FSnow
+OL,6,Fshowers easing somewhat later Monday
+OL,7,Fwith lighter winds. Rain and hill snow
+OL,8,Fspreading east through Tuesday with
+OL,9,Ffreshening winds. This clearing
+OL,10,FWednesday to allow some drier,
+OL,11,Fbrighter spells. Cold.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,138,120,301,200,000,100
