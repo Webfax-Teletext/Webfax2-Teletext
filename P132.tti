@@ -2,25 +2,25 @@ PN,13201
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1767383377
+OL,0,        ECIMSBWebfax 2   F132A1767415865
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,CThis Evening and Tonight:FA very cold
-OL,6,Fnight with scattered wintry showers.
-OL,7,FShowers most likely across northern
-OL,8,Fparts with slight falls on high ground
-OL,9,Fand a risk of ice more widely. Some
-OL,10,Fdrier and clearer spells further
-OL,11,Fsouth. Minimum Temperature -1C.
+OL,5,CToday:FA cold day with scattered snow
+OL,6,Fshowers, which may turn heavy at
+OL,7,Ftimes. Dry and bright spells between
+OL,8,Fshowers, the best of these in the
+OL,9,Fsouth. Breezy with a bitter wind
+OL,10,Fchill, especially near coasts. Maximum
+OL,11,FTemperature 4C.
 OL,12,
-OL,13,CSaturday:FAnother cold day with wintry
-OL,14,Fshowers, which may turn heavy at
-OL,15,Ftimes. Dry and bright spells between
-OL,16,Fshowers. Breezy with a bitter wind
-OL,17,Fchill., especially near coasts.
-OL,18,FMaximum Temperature 4C.
+OL,13,CTonight:FA very cold night with
+OL,14,Fscattered wintry showers. Showers most
+OL,15,Flikely across northern parts with
+OL,16,Fdrier and clearer spells further
+OL,17,Fsouth. Widespread frost. Minimum
+OL,18,FTemperature -3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
@@ -28,17 +28,23 @@ PN,13202
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F132A1767383377
+OL,0,        ECIMSBWebfax 2   F132A1767415865
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorthern Ireland
 OL,4,
-OL,5,COutlook for Sunday to Tuesday:
-OL,6,FRemaining cold or very cold through
-OL,7,Fthe period with occasional wintry
-OL,8,Fshowers Sunday and Monday. A band of
-OL,9,Frain and hill snow spreads eastwards
-OL,10,Fon Tuesday.
+OL,5,CSunday:FAnother very cold day with
+OL,6,Fwintry showers. Showers mostly across
+OL,7,Fthe north with some drier and brighter
+OL,8,Fspells further south. Breezy near
+OL,9,Fcoasts. Maximum Temperature 3C.
+OL,10,
+OL,11,COutlook for Monday to Wednesday:FSnow
+OL,12,Fshowers generally easing on Monday.
+OL,13,FRain and hill snow spreading east
+OL,14,Fearly Tuesday. Dry for a time
+OL,15,FWednesday but rain and snow later with
+OL,16,Fwinds strengthening. Cold.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,133,120,301,200,000,100
