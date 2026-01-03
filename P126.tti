@@ -2,28 +2,25 @@ PN,12601
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1767419473
+OL,0,        ECIMSBWebfax 2   F126A1767477203
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CToday:FFrequent heavy snow showers
-OL,6,Finitially in coastal areas will spread
-OL,7,Finland during the day, perhaps
-OL,8,Fbringing some travel disruption.
-OL,9,FWestern areas should stay mainly dry
-OL,10,Fand bright, however. Windy overall,
-OL,11,Fwith a chance of coastal gales and
-OL,12,Ffeeling bitterly cold. Maximum
-OL,13,FTemperature 2C.
-OL,14,
-OL,15,CTonight:FSnow showers gradually
-OL,16,Fbecoming lighter and less frequent
-OL,17,Fduring the evening, then moving
-OL,18,Foffshore overnight. Icy patches
-OL,19,Fforming as skies clear with another
-OL,20,Fwidespread and locally hard frost
-OL,21,Fdeveloping. Minimum Temperature -4C.
+OL,5,CThis Evening and Tonight:FSnow showers
+OL,6,Fgradually becoming lighter and less
+OL,7,Ffrequent during the evening, then
+OL,8,Fmoving offshore overnight. Icy patches
+OL,9,Fforming as skies clear with another
+OL,10,Fwidespread and locally hard frost
+OL,11,Fdeveloping. Minimum Temperature -4C.
+OL,12,
+OL,13,CSunday:FA sunny but frosty and windy
+OL,14,Fstart to the day. Winds easing with
+OL,15,Fplenty of weak winter sunshine by day.
+OL,16,FTemperatures struggling to reach above
+OL,17,Ffreezing for many, bitterly cold.
+OL,18,FMaximum Temperature 1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
@@ -31,24 +28,17 @@ PN,12602
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F126A1767419473
+OL,0,        ECIMSBWebfax 2   F126A1767477203
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GYorkshire
 OL,4,
-OL,5,CSunday:FA sunny and frosty morning,
-OL,6,Fthen some uncertainty by the afternoon
-OL,7,Fwith many areas at risk of further
-OL,8,Fsnowfall. Not as windy as Saturday,
-OL,9,Fbut still bitterly cold. Maximum
-OL,10,FTemperature 1C.
-OL,11,
-OL,12,COutlook for Monday to Wednesday:FMainly
-OL,13,Fdry and sunny Monday, coastal snow
-OL,14,Fshowers easing. More changeable
-OL,15,FTuesday and Wednesday with some snow
-OL,16,Flikely. Very cold at first, less so
-OL,17,Flater and not as windy.
+OL,5,COutlook for Monday to Wednesday:FMainly
+OL,6,Fdry and sunny Monday, coastal snow
+OL,7,Fshowers easing. More changeable
+OL,8,FTuesday and Wednesday with stronger
+OL,9,Fwinds and some snow likely. Very cold
+OL,10,Fat first, less so later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,127,120,301,200,000,100
