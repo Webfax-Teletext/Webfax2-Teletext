@@ -2,27 +2,25 @@ PN,12801
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1767483812
+OL,0,        ECIMSBWebfax 2   F128A1767501855
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly clear
-OL,6,Fskies this evening with temperatures
-OL,7,Fsoon falling below freezing after
-OL,8,Fdark. Turning frosty with a severe
-OL,9,Ffrost developing in prone sheltered
-OL,10,Fspots and a few icy patches possible.
-OL,11,FWinds becoming light, though staying
-OL,12,Fbreezy over higher ground. Minimum
-OL,13,FTemperature -5C.
-OL,14,
-OL,15,CSunday:FA largely dry morning with
-OL,16,Fplenty of sunshine. An increasing
-OL,17,Fchance of snow flurries during the
-OL,18,Fafternoon, these perhaps heavy by the
-OL,19,Fevening. Frost lingering all day in
-OL,20,Fsome places. Maximum Temperature 3C.
+OL,5,CToday:FA largely dry morning with blue
+OL,6,Fskies and sunshine. An increasing
+OL,7,Fchance of snow flurries during this
+OL,8,Fafternoon, these perhaps heavy by this
+OL,9,Fevening. Frost lingering all day in
+OL,10,Fsome places and feeling cold. Maximum
+OL,11,FTemperature 3C.
+OL,12,
+OL,13,CTonight:FSnow showers this evening,
+OL,14,Fclearing southwards by around midnight
+OL,15,Fand leaving icy conditions in places.
+OL,16,FBecoming very cold and frosty with a
+OL,17,Fsevere frost forming in some prone
+OL,18,Fspots. Minimum Temperature -6C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
@@ -30,17 +28,24 @@ PN,12802
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F128A1767483812
+OL,0,        ECIMSBWebfax 2   F128A1767501855
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GWest Midlands
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FOften
-OL,6,Fsunny and cold on Monday with a few
-OL,7,Fsnow flurries possible. A bit less
-OL,8,Fcold thereafter with a chance of rain
-OL,9,For snow at times. Frosts and ice
-OL,10,Flikely.
+OL,5,CMonday:FAfter a very cold, frosty and
+OL,6,Ficy start for some, plenty of crisp
+OL,7,Fwinter sunshine to come on Monday.
+OL,8,FFeeling cold with temperatures
+OL,9,Fstruggling to rise above freezing in
+OL,10,Fplaces. Maximum Temperature 2C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:FA
+OL,13,Ffrosty start on Tuesday, then mainly
+OL,14,Fdry but some rain and hill snow is
+OL,15,Fpossible later. Gradually turning
+OL,16,Fsomewhat less cold and more unsettled
+OL,17,Fon Wednesday and Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,129,120,301,200,000,100
