@@ -2,25 +2,26 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1767483811
+OL,0,        ECIMSBWebfax 2   F124A1767516291
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FSnow showers
-OL,6,Fgradually becoming lighter and less
-OL,7,Ffrequent during the evening, then
-OL,8,Fmoving offshore overnight. Icy patches
-OL,9,Fforming as skies clear with another
-OL,10,Fwidespread and locally hard frost
-OL,11,Fdeveloping. Minimum Temperature -3C.
-OL,12,
-OL,13,CSunday:FA sunny but frosty and windy
-OL,14,Fstart to the day. Winds easing later
-OL,15,Fwith plenty of weak winter sunshine.
-OL,16,FTemperatures struggling to reach above
-OL,17,Ffreezing for many, feeling bitterly
-OL,18,Fcold. Maximum Temperature 1C.
+OL,5,CToday:FRemaining largely dry across
+OL,6,Fthe region with plenty of weak winter
+OL,7,Fsunshine. However, feeling bitterly
+OL,8,Fcold in the brisk breeze, with
+OL,9,Ftemperatures struggling to rise above
+OL,10,Ffreezing for many. Risk of a few light
+OL,11,Fsnow showers along the coast. Maximum
+OL,12,FTemperature 1C.
+OL,13,
+OL,14,CTonight:FRisk of a few snow showers
+OL,15,Fnear the coast overnight, while inland
+OL,16,Fareas remain largely dry and clear.
+OL,17,FBreezy and bitterly cold, with a
+OL,18,Fwidespread frost and icy patches.
+OL,19,FMinimum Temperature -5C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -28,17 +29,25 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1767483811
+OL,0,        ECIMSBWebfax 2   F124A1767516291
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Monday to Wednesday:FMainly
-OL,6,Fdry and sunny Monday, coastal snow
-OL,7,Fshowers easing. More changeable
-OL,8,FTuesday and Wednesday with stronger
-OL,9,Fwinds and some snow likely. Very cold
-OL,10,Fat first, less so later.
+OL,5,CMonday:FMost places dry and cold with
+OL,6,Fplenty of sunshine, although risk of a
+OL,7,Ffew snow showers towards the coast
+OL,8,Funtil later. Breezy initially but
+OL,9,Fwinds slowly easing through the
+OL,10,Fafternoon. Maximum Temperature 1C.
+OL,11,
+OL,12,COutlook for Tuesday to Thursday:FA
+OL,13,Fbright start Tuesday but soon becoming
+OL,14,Fcloudy, with rain and perhaps also
+OL,15,Fsnow developing later. Sunny spells
+OL,16,Fdeveloping Wednesday, before further
+OL,17,Frain and snow arriving overnight and
+OL,18,Finto Thursday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
