@@ -2,22 +2,25 @@ PN,13001
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1767588469
+OL,0,        ECIMSBWebfax 2   F130A1767638983
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CToday:FAny early cloud and isolated
-OL,6,Fsnow showers clearing east, then most
-OL,7,Fplaces dry and bright for the
-OL,8,Fremainder of the day, with long sunny
-OL,9,Fspells. Cold. Maximum Temperature 2C.
-OL,10,
-OL,11,CTonight:FPartly cloudy across Kent but
-OL,12,Flikely staying dry. Otherwise, clear
-OL,13,Fwith a hard frost and a risk of icy
-OL,14,Fstretches overnight. Minimum
-OL,15,FTemperature -7C.
+OL,5,CThis Evening and Tonight:FPartly
+OL,6,Fcloudy across Kent with chance of a
+OL,7,Flight snow shower. Otherwise, clear
+OL,8,Fwith a moderate or severe frost and
+OL,9,Fsome icy stretches overnight. Winds
+OL,10,Fremaining light. Minimum Temperature
+OL,11,F-7C.
+OL,12,
+OL,13,CTuesday:FA dry, bright and sunny
+OL,14,Fmorning. Cloudier by the afternoon,
+OL,15,Fwith sunshine turning hazy. A band of
+OL,16,Frain and sleet, sometimes heavy,
+OL,17,Farriving after dark. Winds freshening.
+OL,18,FCold. Maximum Temperature 3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
@@ -25,24 +28,18 @@ PN,13002
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F130A1767588469
+OL,0,        ECIMSBWebfax 2   F130A1767638983
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GLondon & Southeast
 OL,4,
-OL,5,CTuesday:FA dry, bright and sunny
-OL,6,Fmorning. Turning increasingly cloudy
-OL,7,Fthrough the afternoon, as winds
-OL,8,Fstrengthen. A band of rain and sleet,
-OL,9,Fsometimes heavy, arriving after dark.
-OL,10,FCold. Maximum Temperature 3C.
-OL,11,
-OL,12,COutlook for Wednesday to Friday:
-OL,13,FIncreasingly dry and sunny but breezy
-OL,14,FWednesday. Rain and sleet early
-OL,15,FThursday, clearing to bright spells.
-OL,16,FBecoming increasingly windy, with rain
-OL,17,Fand sleet late Thursday into Friday.
+OL,5,COutlook for Wednesday to Friday:
+OL,6,FIncreasingly dry, sunny but windy
+OL,7,FWednesday. Rain and sleet early
+OL,8,FThursday, clearing to bright spells.
+OL,9,FBecoming increasingly windy, with rain
+OL,10,Fand sleet late Thursday into Friday.
+OL,11,FChance of gales Friday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,131,120,301,200,000,100
