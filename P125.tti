@@ -2,26 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1767631767
+OL,0,        ECIMSBWebfax 2   F125A1767682297
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FTemperatures
-OL,6,Fquickly falling below freezing this
-OL,7,Fevening with a widespread and severe
-OL,8,Ffrost forming. Starry skies initially
-OL,9,Fovernight, but an increasing risk of
-OL,10,Fwintry showers moving in as we head
-OL,11,Ftowards dawn. Icy stretches in places.
-OL,12,FMinimum Temperature -8C.
-OL,13,
-OL,14,CTuesday:FA cold and icy start. The
-OL,15,Frisk of some wintry showers, then
-OL,16,Flonger spells of rain and hill snow
-OL,17,Fdeveloping into the evening. Not quite
-OL,18,Fas cold as recent days. Maximum
-OL,19,FTemperature 5C.
+OL,5,CToday:FA mostly cloudy day, with a few
+OL,6,Fsleet and snow showers. Some brighter
+OL,7,Fbreaks possible at times. Tending to
+OL,8,Fcloud over by late afternoon as rain
+OL,9,Fand hill snow begin to move in. Breezy
+OL,10,Fand feeling cold. Maximum Temperature
+OL,11,F5C.
+OL,12,
+OL,13,CTonight:FRain, sleet and snow moving
+OL,14,Feastwards through the evening,
+OL,15,Fclearing to sleet and snow showers
+OL,16,Fovernight. Clearer breaks will allow
+OL,17,Ftemperatures to fall and icy stretches
+OL,18,Fto develop. Minimum Temperature -1C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -29,18 +28,24 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1767631767
+OL,0,        ECIMSBWebfax 2   F125A1767682297
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Wednesday to Friday:
-OL,6,FLargely dry to start Wednesday but
-OL,7,Fturning unsettled thereafter. Periods
-OL,8,Fof heavy rain or snow, perhaps
-OL,9,Fbringing significant travel disruption
-OL,10,Fat times. Turning windier with a
-OL,11,Fchance of gales.
+OL,5,CWednesday:FAnother cold day is
+OL,6,Fexpected, with rather cloudy skies. A
+OL,7,Fscattering of sleet and snow showers,
+OL,8,Fthese tending to ease later in the
+OL,9,Fday. Gusty winds. Maximum Temperature
+OL,10,F6C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:FMost
+OL,13,Flikely dry for much of Thursday. An
+OL,14,Fincreasing risk of heavy rain, sleet
+OL,15,Fand snow later, along with strong
+OL,16,Fwinds. Perhaps lingering into Friday.
+OL,17,FSunshine and wintry showers Saturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
