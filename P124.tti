@@ -2,26 +2,26 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1767642593
+OL,0,        ECIMSBWebfax 2   F124A1767675080
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CThis Evening and Tonight:FRemaining
-OL,6,Fcoastal snow showers soon clearing out
-OL,7,Fto the North sea this evening.
-OL,8,FBecoming clear and very cold overnight
-OL,9,Fwith a hard frost and icy stretches.
-OL,10,FCloudier later. A mostly light wind,
-OL,11,Fbut breezier near the coast. Minimum
-OL,12,FTemperature -10C.
+OL,5,CToday:FCloudy through the day, with
+OL,6,Foutbreaks of patchy rain and sleet,
+OL,7,Fwith some snow over high ground.
+OL,8,FBecoming heavier and more organised
+OL,9,Flater in the afternoon. Less cold than
+OL,10,Fprevious days but winds increasing
+OL,11,Flater in the day. Maximum Temperature
+OL,12,F4C.
 OL,13,
-OL,14,CTuesday:FCloudy through Tuesday, with
-OL,15,Fa mixture of some rain, sleet and
-OL,16,Fsnow. Less cold than previous days but
-OL,17,Fwinds increasing later in the day.
-OL,18,FRain and snow overnight. Maximum
-OL,19,FTemperature 4C.
+OL,14,CTonight:FOrganised bands of rain and
+OL,15,Fsleet, with further snow over high
+OL,16,Fground through the evening, gradually
+OL,17,Fclearing overnight. Strong winds
+OL,18,Fthroughout. Cold and frosty with icy
+OL,19,Fstretches. Minimum Temperature -3C.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -29,18 +29,25 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1767642593
+OL,0,        ECIMSBWebfax 2   F124A1767675080
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,COutlook for Wednesday to Friday:FDry,
-OL,6,Fwindy but brighter Wednesday, with
-OL,7,Fcoastal showers. Rain, sleet and snow
-OL,8,FWednesday night clearing to sunny
-OL,9,Fspells and lighter winds Thursday.
-OL,10,FIncreasingly windy, with risk of heavy
-OL,11,Fsnow Friday.
+OL,5,CWednesday:FMostly dry, windy but
+OL,6,Fbright with sunny spells and patchy
+OL,7,Fcloud on Wednesday. Chance of showers
+OL,8,Flater in the day. Increasingly cloudy
+OL,9,Fwith rain, sleet and snow overnight.
+OL,10,FCold. Maximum Temperature 3C.
+OL,11,
+OL,12,COutlook for Thursday to Saturday:
+OL,13,FEarly, rain, sleet and snow clearing
+OL,14,Feast Thursday to brighter conditions.
+OL,15,FBecoming windy with a chance of heavy
+OL,16,Fsnow overnight into Friday, low
+OL,17,Fconfidence. Sunny, with light winds
+OL,18,Fprobable Saturday.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
