@@ -1,27 +1,19 @@
 PN,27600
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F276A1767989113
+OL,0,        ECIMSBWebfax 2   F276A1767996328
 OL,1,W{${$~+$ 7575k!k!57571u5w5775
 OL,2,W/.!/.!+.! %%-%* * %%%-%%%%%%%%V,,,,,,,,
 OL,3,CProgramme listings for FRI 9 JAN
-OL,4,G1930FMatchday
-OL,5,     GLive FA Cup third round
-OL,6,     Gcommentary of Wrexham v
-OL,7,     GNottingham Forest. Kick-off at
-OL,8,     G7.30pm. UK only.
-OL,9,G2130FPost-match
-OL,10,     GAll the post-match interviews and
-OL,11,     Ganalysis that really matter.
-OL,12,G2200FLate Night Jo
-OL,13,     GJo Good with late-night
-OL,14,     Gconversation, amazing stories and
-OL,15,     Gthe soundtrack to your night.
-OL,16,G0100FWeekend overnights with BBC Radio
-OL,17,     F5 Live
-OL,18,     GLocal BBC Radio joins BBC Radio 5
-OL,19,     GLive through the night on a
-OL,20,     Gweekend.
+OL,4,G2200FLate Night Jo
+OL,5,     GJo Good with late-night
+OL,6,     Gconversation, amazing stories and
+OL,7,     Gthe soundtrack to your night.
+OL,8,G0100FWeekend overnights with BBC Radio
+OL,9,     F5 Live
+OL,10,     GLocal BBC Radio joins BBC Radio 5
+OL,11,     GLive through the night on a
+OL,12,     Gweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BReg RadioCWeather FReg Sport
 FL,278,250,120,301,000,100
