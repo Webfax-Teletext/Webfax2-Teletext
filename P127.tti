@@ -2,23 +2,25 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1768193074
+OL,0,        ECIMSBWebfax 2   F127A1768258048
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CToday:FSome sunny spells to start,
-OL,6,Fwith the risk of a few isolated
-OL,7,Fshowers. Cloud building late morning
-OL,8,Fto give a mostly cloudy afternoon with
-OL,9,Fmore frequent showers, perhaps merging
-OL,10,Finto longer spells of rain. Breezy
-OL,11,Fthroughout and milder than recently.
+OL,5,CThis Evening and Tonight:FShowers
+OL,6,Fmostly moving away to give a largely
+OL,7,Fdry night with plenty of clear spells.
+OL,8,FPatchy mist and low cloud likely
+OL,9,Fdeveloping after midnight though cloud
+OL,10,Fis likely to thicken again from the
+OL,11,Fwest towards dawn.
 OL,12,
-OL,13,CTonight:FShowers mostly moving away to
-OL,14,Fgive a largely dry night with plenty
-OL,15,Fof clear spells. Patchy mist and low
-OL,16,Fcloud likely developing towards dawn.
+OL,13,CTuesday:FA cloudy day with a few
+OL,14,Foutbreaks of rain, these perhaps
+OL,15,Fbecoming more widespread and prolonged
+OL,16,Ffor a time during the afternoon. Cloud
+OL,17,Fclearing overnight with a sharp frost
+OL,18,Fdeveloping.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -26,25 +28,18 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1768193074
+OL,0,        ECIMSBWebfax 2   F127A1768258048
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CTuesday:FA cloudy day with a few
-OL,6,Foutbreaks of rain, these perhaps
-OL,7,Fbecoming more frequent for a time
-OL,8,Fduring the afternoon. Cloud clearing
-OL,9,Fovernight with a likely frost
-OL,10,Fdeveloping.
-OL,11,
-OL,12,COutlook for Wednesday to Friday:
-OL,13,FGenerally unsettled through this
-OL,14,Fperiod with outbreaks of rain or
-OL,15,Fshowers, but also a few brighter
-OL,16,Fspells in-between. Breezy at times,
-OL,17,Fwith temperatures around average for
-OL,18,Fthe time of year.
+OL,5,COutlook for Wednesday to Friday:
+OL,6,FGenerally unsettled through this
+OL,7,Fperiod with outbreaks of rain or
+OL,8,Fshowers, but also a few brighter
+OL,9,Fspells in-between. Breezy at times,
+OL,10,Fwith temperatures around average for
+OL,11,Fthe time of year.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
