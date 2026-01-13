@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1768301353
+OL,0,        ECIMSBWebfax 2   F1fcA1768304961
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,12 +13,12 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1768301353;
-OL,10,GService: Webfax 2 - 10870 889679694
-OL,11,FLast Update: 13/01/2026 10:49:13  G1/3
+OL,25,1768304961;
+OL,10,GService: Webfax 2 - 10871 73f5e3f82
+OL,11,FLast Update: 13/01/2026 11:49:21  G1/3
 OL,13,CbbcSport/Horse Racing      G10/01-21:58
-OL,14,Ageneric/national_weather   G13/01-10:42
-OL,15,Ageneric/pollen_forecast    G13/01-10:42
+OL,14,Ageneric/national_weather   G13/01-11:44
+OL,15,Ageneric/pollen_forecast    G13/01-11:44
 OL,16,CitvSport/border            G03/01-23:43
 OL,17,CitvSport/calendar          G03/01-23:43
 OL,18,CitvSport/central           G06/01-13:52
@@ -30,7 +30,7 @@ OL,23,CitvSport/wales             G09/01-19:05
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1768301353
+OL,0,        ECIMSBWebfax 2   F1fcA1768304961
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1768301353;
-OL,10,GService: Webfax 2 - 10870 889679694
-OL,11,FLast Update: 13/01/2026 10:49:13  G2/3
+OL,25,1768304961;
+OL,10,GService: Webfax 2 - 10871 73f5e3f82
+OL,11,FLast Update: 13/01/2026 11:49:21  G2/3
 OL,13,CitvSport/westcountry       G03/01-23:43
 OL,14,Amet_weather/500            G12/01-01:04
 OL,15,Amet_weather/501            G12/01-01:04
@@ -59,7 +59,7 @@ OL,23,Amet_weather/509            G12/01-01:11
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1768301353
+OL,0,        ECIMSBWebfax 2   F1fcA1768304961
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,13 +71,12 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1768301353;
-OL,10,GService: Webfax 2 - 10870 889679694
-OL,11,FLast Update: 13/01/2026 10:49:13  G3/3
+OL,25,1768304961;
+OL,10,GService: Webfax 2 - 10871 73f5e3f82
+OL,11,FLast Update: 13/01/2026 11:49:21  G3/3
 OL,13,Amet_weather/510            G12/01-01:11
 OL,14,Amet_weather/511            G12/01-01:11
 OL,15,Amet_weather/512            G12/01-01:11
 OL,16,Amet_weather/513            G12/01-01:11
 OL,17,Amet_weather/514            G12/01-01:11
 OL,18,Amet_weather/516            G12/01-01:11
-OL,19,Ctv_listings?select=false   G12/01-06:43
