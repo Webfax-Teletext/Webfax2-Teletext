@@ -2,25 +2,25 @@ PN,12501
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1768323007
+OL,0,        ECIMSBWebfax 2   F125A1768366308
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,CThis Evening and Tonight:FMainly dry
-OL,6,Fthis evening and overnight with
-OL,7,Flengthy clear periods. Turning cold
-OL,8,Fwith a widespread frost forming and
-OL,9,Fthe risk of icy patches on untreated
-OL,10,Fsurfaces. Isolated freezing fog
-OL,11,Fpatches forming in prone locations.
+OL,5,CToday:FEarly frost and any fog
+OL,6,Fclearing to leave a dry morning with
+OL,7,Fbright or sunny spells. Becoming a
+OL,8,Flittle breezier during this afternoon
+OL,9,Fand turning increasingly cloudy with
+OL,10,Fany sunshine becoming weak and hazy.
+OL,11,FFeeling colder than yesterday.
 OL,12,
-OL,13,CWednesday:FEarly frost and any fog
-OL,14,Fclearing to leave a dry morning with
-OL,15,Fbright spells. Becoming a little
-OL,16,Fbreezier during the afternoon and
-OL,17,Fturning increasingly cloudy. Feeling
-OL,18,Fcolder than on Tuesday.
+OL,13,CTonight:FThickening cloud with showery
+OL,14,Frain spreading eastwards. Risk of hill
+OL,15,Fsnow. Turning drier later in the night
+OL,16,Fwith clear spells and possible frost
+OL,17,Fand icy patches. Rather windy this
+OL,18,Fevening.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
@@ -28,18 +28,25 @@ PN,12502
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F125A1768323007
+OL,0,        ECIMSBWebfax 2   F125A1768366308
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth West
 OL,4,
-OL,5,COutlook for Thursday to Saturday:
-OL,6,FMainly dry on Thursday but probably
-OL,7,Fturning wet later. Heavy rain
-OL,8,Fovernight and perhaps turning windy
-OL,9,Ffor a time. Occasional showers likely
-OL,10,Fon Friday and Saturday. Temperatures
-OL,11,Fnear to average.
+OL,5,CThursday:FAny fog or low cloud
+OL,6,Flingering locally but otherwise plenty
+OL,7,Fof morning sunshine, especially in the
+OL,8,Fnorth. Cloud tending to increase
+OL,9,Fduring the afternoon but remaining
+OL,10,Fmostly dry. Slightly milder.
+OL,11,
+OL,12,COutlook for Friday to Sunday:
+OL,13,FOccasional showers on Friday, these
+OL,14,Fheavy in places. Mainly dry this
+OL,15,Fweekend but often grey and murky with
+OL,16,Fmist and fog. Some brightness is
+OL,17,Fpossible at times. Winds becoming
+OL,18,Flight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,126,120,301,200,000,100
