@@ -2,24 +2,24 @@ PN,12901
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1768452968
+OL,0,        ECIMSBWebfax 2   F129A1768496290
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CToday:FMostly dry but largely cloudy
-OL,6,Fto start, perhaps some bright spells
-OL,7,Ffurther north. Rain will move slowly
-OL,8,Fnorth through the morning, turning
-OL,9,Fheavy and prolonged during the
-OL,10,Fafternoon. Breezy near the coast.
-OL,11,
-OL,12,CTonight:FCloudy with heavy rain at
-OL,13,Ffirst before slowly turning dry from
-OL,14,Fthe west through the late evening.
-OL,15,FRain clearing eastwards during the
-OL,16,Fearly hours of Friday but staying
-OL,17,Fcloudy.
+OL,5,CThis Evening and Tonight:FCloudy with
+OL,6,Fheavy rain at first before slowly
+OL,7,Fturning dry from the west through the
+OL,8,Flate evening. Rain clearing eastwards
+OL,9,Fduring the early hours of Friday but
+OL,10,Fstaying cloudy, with some mist patches
+OL,11,Fpossible.
+OL,12,
+OL,13,CFriday:FMainly cloudy, with a chance
+OL,14,Fof showers, but also a few brighter
+OL,15,Fspells through the afternoon. Light to
+OL,16,Fmoderate winds, with fog patches
+OL,17,Fpossibly extensive overnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
@@ -27,23 +27,17 @@ PN,12902
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F129A1768452968
+OL,0,        ECIMSBWebfax 2   F129A1768496290
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast
 OL,4,
-OL,5,CFriday:FMainly cloudy, with a chance
-OL,6,Fof showers, but also a few brighter
-OL,7,Fspells through the afternoon. Moderate
-OL,8,Fwinds, with temperatures around
-OL,9,Faverage for the time of year.
-OL,10,
-OL,11,COutlook for Saturday to Monday:
-OL,12,FGenerally cloudy, with a chance of
-OL,13,Foutbreaks of rain or showers, but also
-OL,14,Fa few brighter spells. Light to
-OL,15,Fmoderate winds, with temperatures
-OL,16,Faround average for the time of year.
+OL,5,COutlook for Saturday to Monday:
+OL,6,FGenerally cloudy, with a chance of
+OL,7,Foutbreaks of rain or showers, but also
+OL,8,Fa few brighter spells. Light to
+OL,9,Fmoderate winds with fog patches likely
+OL,10,Fovernight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,130,120,301,200,000,100
