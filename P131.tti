@@ -2,23 +2,22 @@ PN,13101
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1768500732
+OL,0,        ECIMSBWebfax 2   F131A1768533224
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,CThis Evening and Tonight:FWinds easing
-OL,6,Fas rain clears away to the northeast
-OL,7,Fthrough the evening, allowing some
-OL,8,Fclearer spells to develop overnight.
-OL,9,FHowever, occasional showers feeding in
-OL,10,Ffrom the west. Largely frost-free.
-OL,11,
-OL,12,CFriday:FA brighter start, though
-OL,13,Fshowers continuing for much of the
-OL,14,Fday, turning heavy and blustery at
-OL,15,Ftimes, with some isolated hail and
-OL,16,Fthunder. Temperatures near average.
+OL,5,CToday:FA brighter start, though
+OL,6,Fshowers continuing for much of the
+OL,7,Fday, turning heavy and blustery at
+OL,8,Ftimes, with some isolated hail and
+OL,9,Fthunder. Temperatures near average.
+OL,10,
+OL,11,CTonight:FCloud and clear spells
+OL,12,Fovernight, so a chance of some patchy
+OL,13,Ffrost under prolonged breaks. Some
+OL,14,Fshowers to start the evening, then
+OL,15,Fmostly dry. A chance of mist and fog.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
@@ -26,17 +25,24 @@ PN,13102
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F131A1768500732
+OL,0,        ECIMSBWebfax 2   F131A1768533224
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GSouth West
 OL,4,
-OL,5,COutlook for Saturday to Monday:FA mix
-OL,6,Fof sunny spells and scattered showers
-OL,7,Fthrough the weekend, with fog and
-OL,8,Ffrost patches forming under clear
-OL,9,Fskies overnight. Turning wet and
-OL,10,Fbreezy from the west into Monday.
+OL,5,CSaturday:FSome showery outbreaks
+OL,6,Fpossible to start on Saturday but a
+OL,7,Fgood chance of brighter spells
+OL,8,Fdeveloping into the afternoon,
+OL,9,Fparticularly inland. Breezy around
+OL,10,Fcoasts. Chilly.
+OL,11,
+OL,12,COutlook for Sunday to Tuesday:FMostly
+OL,13,Fcloudy on Sunday and into next week,
+OL,14,Fwith fog which may be stubborn to
+OL,15,Fclear at times. Patchy frost possible
+OL,16,Funder clear skies. Remaining chilly by
+OL,17,Fday and night.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,132,120,301,200,000,100
