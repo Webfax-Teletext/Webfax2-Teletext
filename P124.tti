@@ -2,24 +2,24 @@ PN,12401
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1768547663
+OL,0,        ECIMSBWebfax 2   F124A1768583742
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CToday:FSome frost to start Friday
-OL,6,Fmorning. Variable cloud with a chance
-OL,7,Fof showers, mainly over hills, perhaps
-OL,8,Fwintry. Some brighter spells through
-OL,9,Fthe afternoon. Light winds, with mist
-OL,10,Fand fog patches, mainly affecting
-OL,11,Fhills.
+OL,5,CThis Evening and Tonight:FDry with
+OL,6,Fsome clear spells this evening,
+OL,7,Fbecoming increasing cloudy through the
+OL,8,Fnight, with low cloud shrouding higher
+OL,9,Fground. Mist and fog developing
+OL,10,Fovernight, with showers spreading in
+OL,11,Ffrom the south in the early hours.
 OL,12,
-OL,13,CTonight:FSome clear spells to start
-OL,14,Fthe night, otherwise clouding over
-OL,15,Fwith low cloud shrouding higher
-OL,16,Fground. Increasingly misty with some
-OL,17,Ffog. Showery rain likely later.
+OL,13,CSaturday:FAny mist or fog slowly
+OL,14,Flifting, but staying generally dull
+OL,15,Fwith light winds and showers expected,
+OL,16,Fwhich may turn heavy at times. Further
+OL,17,Fmist and fog likely overnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
@@ -27,24 +27,17 @@ PN,12402
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1768547663
+OL,0,        ECIMSBWebfax 2   F124A1768583742
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GNorth East
 OL,4,
-OL,5,CSaturday:FGenerally cloudy, with
-OL,6,Fchance of rain and showers. Perhaps
-OL,7,Fdrier through the afternoon. Light
-OL,8,Fwinds with mist and fog patches likely
-OL,9,Fovernight, especially over higher
-OL,10,Fground.
-OL,11,
-OL,12,COutlook for Sunday to Tuesday:
-OL,13,FGenerally cloudy, with a chance of
-OL,14,Foutbreaks of drizzly rain and showers.
-OL,15,FLimited clear or bright spells. Light
-OL,16,Fwinds with some fog patches likely.
-OL,17,FTemperatures near normal.
+OL,5,COutlook for Sunday to Tuesday:
+OL,6,FGenerally cloudy, with outbreaks of
+OL,7,Frain or showers at times. Mist and fog
+OL,8,Flikely to develop during the evenings
+OL,9,Fand night. Temperatures around average
+OL,10,Fwith some frost in places overnight.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,125,120,301,200,000,100
