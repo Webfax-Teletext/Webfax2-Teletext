@@ -2,23 +2,23 @@ PN,12701
 SC,0001
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1768500732
+OL,0,        ECIMSBWebfax 2   F127A1768547663
 OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,CThis Evening and Tonight:FCloudy, with
-OL,6,Fheavy rain at first before slowly
-OL,7,Fturning dry from the west through the
-OL,8,Flate evening. Rain clearing eastwards
-OL,9,Fshortly after midnight but staying
-OL,10,Fcloudy, with some fog patches possible.
+OL,5,CToday:FPatchy frost and fog to start
+OL,6,FFriday morning. Variable cloud with a
+OL,7,Fchance of morning showers. Some
+OL,8,Fbrighter spells through the afternoon.
+OL,9,FLight winds, with mist becoming mainly
+OL,10,Fconfined to Derbyshire hills.
 OL,11,
-OL,12,CFriday:FMainly cloudy, with a chance
-OL,13,Fof showers, but also a few brighter
-OL,14,Fspells through the afternoon. Light to
-OL,15,Fmoderate winds, with extensive fog
-OL,16,Fpatches possible overnight.
+OL,12,CTonight:FSome clear spells to start
+OL,13,Fthe night, otherwise clouding over
+OL,14,Fwith low cloud shrouding higher
+OL,15,Fground. Increasingly misty with some
+OL,16,Ffog. Showery rain likely later.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
@@ -26,17 +26,23 @@ PN,12702
 SC,0002
 CT,20,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F127A1768500732
+OL,0,        ECIMSBWebfax 2   F127A1768547663
 OL,1,Wj5hw1~{4k7juhw1{$             G2/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GEast Midlands
 OL,4,
-OL,5,COutlook for Saturday to Monday:
-OL,6,FGenerally cloudy, with a chance of
-OL,7,Foutbreaks of rain or showers, but also
-OL,8,Fa few brighter spells. Light to
-OL,9,Fmoderate winds with fog patches likely
-OL,10,Fovernight.
+OL,5,CSaturday:FGenerally cloudy, with
+OL,6,Fchance of rain and showers. Drier in
+OL,7,Fthe afternoon. Light winds with mist
+OL,8,Fand fog patches likely overnight,
+OL,9,Fespecially over higher ground.
+OL,10,
+OL,11,COutlook for Sunday to Tuesday:
+OL,12,FGenerally cloudy, with a chance of
+OL,13,Foutbreaks of drizzly rain and showers.
+OL,14,FLimited clear or bright spells. Light
+OL,15,Fwinds with some fog patches likely.
+OL,16,FTemperatures near normal.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,128,120,301,200,000,100
