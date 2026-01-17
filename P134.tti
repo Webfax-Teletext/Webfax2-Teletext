@@ -1,29 +1,48 @@
-PN,13400
-SC,0000
+PN,13401
+SC,0001
 CT,20,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F134A1768583742
-OL,1,Wj5hw1~{4k7juhw1{$
+PS,c008
+OL,0,        ECIMSBWebfax 2   F134A1768627046
+OL,1,Wj5hw1~{4k7juhw1{$             G1/2
 OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
 OL,3,GOrkney & Shetland
 OL,4,
-OL,5,CThis Evening and Tonight:FIt will stay
-OL,6,Flargely dry with long clear spells and
-OL,7,Flight winds through the evening and
-OL,8,Fovernight. Chance of the odd shower
-OL,9,Ffor Shetland overnight.
+OL,5,CToday:FThere is the chance of an
+OL,6,Foccasional shower over Shetland
+OL,7,Fotherwise much of the day will be dry
+OL,8,Fwith bright spells. Cloud and
+OL,9,Foutbreaks of showery rain will spread
+OL,10,Fover Orkney from mid-afternoon.
+OL,11,
+OL,12,CTonight:FDry at first over Shetland
+OL,13,Fotherwise cloudy with continuing
+OL,14,Fshowery rain for much of the night.
+OL,15,FClear spells will increase as the rain
+OL,16,Fclears Orkney towards the morning.
+OL,23,QppppppppppppppppppppGSource: Met Office
+OL,24,ANext Page BWeatherCReg Sport FNat Radio
+FL,135,120,301,200,000,100
+PN,13402
+SC,0002
+CT,20,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F134A1768627046
+OL,1,Wj5hw1~{4k7juhw1{$             G2/2
+OL,2,W+.-'"-$/*%*%*%/"-$/*%Q,,,,,,,,,,,,,,,,,
+OL,3,GOrkney & Shetland
+OL,4,
+OL,5,CSunday:FOrkney will stay dry and
+OL,6,Fbright as cloud and rain lingers over
+OL,7,FShetland through the day. This cloud
+OL,8,Fand rain will push west over Orkney
+OL,9,Ffrom the evening.
 OL,10,
-OL,11,CSaturday:FA mostly dry morning with
-OL,12,Fsome bright or sunny spells, chance of
-OL,13,Fthe odd shower for Shetland. Turning
-OL,14,Fcloudier through the afternoon with a
-OL,15,Ffew showers, but still some brightness.
-OL,16,
-OL,17,COutlook for Sunday to Tuesday:FOften
-OL,18,Fdry with bright spells and variable
-OL,19,Famounts of cloud. Some showers around,
-OL,20,Fchance of these becoming quite
-OL,21,Fpersistent at times.
+OL,11,COutlook for Monday to Wednesday:FBands
+OL,12,Fof rain and showers will push
+OL,13,Fnortheast through this period. These
+OL,14,Fbands will be interspersed with
+OL,15,Foccasional spells of drier and
+OL,16,Fbrighter conditions.
 OL,23,QppppppppppppppppppppGSource: Met Office
 OL,24,ANext Page BWeatherCReg Sport FNat Radio
 FL,135,120,301,200,000,100
