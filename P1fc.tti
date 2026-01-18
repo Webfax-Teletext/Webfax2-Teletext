@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1768744025
+OL,0,        ECIMSBWebfax 2   F1fcA1768744550
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,11 +13,11 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1768744025;
-OL,10,GService: Webfax 2 - 11003 7f816f6d5
-OL,11,FLast Update: 18/01/2026 13:47:05  G1/2
+OL,25,1768744550;
+OL,10,GService: Webfax 2 - 11004 29db949f1
+OL,11,FLast Update: 18/01/2026 13:55:50  G1/2
 OL,13,CbbcSport/Formula 1         G16/01-18:33
-OL,14,Ageneric/pollen_forecast    G18/01-13:44
+OL,14,Ageneric/pollen_forecast    G18/01-13:55
 OL,15,CitvNews/border             G16/01-18:29
 OL,16,CitvNews/central            G17/01-13:13
 OL,17,CitvNews/channel            G16/01-20:29
@@ -30,7 +30,7 @@ OL,23,CitvSport/channel           G15/01-18:12
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1768744025
+OL,0,        ECIMSBWebfax 2   F1fcA1768744550
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1768744025;
-OL,10,GService: Webfax 2 - 11003 7f816f6d5
-OL,11,FLast Update: 18/01/2026 13:47:05  G2/2
+OL,25,1768744550;
+OL,10,GService: Webfax 2 - 11004 29db949f1
+OL,11,FLast Update: 18/01/2026 13:55:50  G2/2
 OL,13,CitvSport/granada           G17/01-10:18
 OL,14,CitvSport/london            G15/01-18:12
 OL,15,CitvSport/meridian          G15/01-18:12
