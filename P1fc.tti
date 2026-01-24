@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1769286298
+PN,1fc01
+SC,0001
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1769287489
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,7 +13,40 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1769286297;
-OL,10,GService: Webfax 2 - 11194 5ba7a0065
-OL,11,FLast Update: 24/01/2026 20:24:57      
-OL,13,Ageneric/pollen_forecast    G24/01-20:23
+OL,25,1769287488;
+OL,10,GService: Webfax 2 - 11195 41797da5a
+OL,11,FLast Update: 24/01/2026 20:44:48  G1/2
+OL,13,CbbcSport/Formula 1         G23/01-20:26
+OL,14,CbbcSport/Horse Racing      G23/01-20:26
+OL,15,Ageneric/pollen_forecast    G24/01-20:44
+OL,16,CitvNews/border             G23/01-20:26
+OL,17,CitvSport/border            G23/01-20:27
+OL,18,CitvSport/calendar          G23/01-20:27
+OL,19,CitvSport/central           G23/01-20:27
+OL,20,CitvSport/channel           G23/01-20:27
+OL,21,CitvSport/granada           G23/01-20:27
+OL,22,CitvSport/london            G23/01-20:27
+OL,23,CitvSport/meridian          G23/01-20:27
+PN,1fc02
+SC,0002
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1769287489
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1769287488;
+OL,10,GService: Webfax 2 - 11195 41797da5a
+OL,11,FLast Update: 24/01/2026 20:44:48  G2/2
+OL,13,CitvSport/national          G23/01-20:27
+OL,14,CitvSport/tyne-tees         G23/01-20:27
+OL,15,CitvSport/utv               G23/01-20:27
+OL,16,CitvSport/wales             G23/01-20:28
+OL,17,CitvSport/westcountry       G23/01-20:27
