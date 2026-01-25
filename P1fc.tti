@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1769351978
+OL,0,        ECIMSBWebfax 2   F1fcA1769355599
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1769351977;
-OL,10,GService: Webfax 2 - 11220 e5533e820
-OL,11,FLast Update: 25/01/2026 14:39:37  G1/2
+OL,25,1769355599;
+OL,10,GService: Webfax 2 - 11221 12d681577
+OL,11,FLast Update: 25/01/2026 15:39:59  G1/3
 OL,13,CbbcNews/Technology         G23/01-23:01
 OL,14,CbbcSport/Horse Racing      G23/01-20:26
-OL,15,Ageneric/pollen_forecast    G25/01-14:31
+OL,15,Ageneric/pollen_forecast    G25/01-15:33
 OL,16,CitvNews/border             G23/01-20:26
-OL,17,CitvNews/central            G23/01-21:27
-OL,18,CitvNews/channel            G23/01-21:27
-OL,19,CitvNews/granada            G24/01-13:31
-OL,20,CitvNews/tyne-tees          G24/01-13:31
-OL,21,CitvSport/border            G23/01-20:27
-OL,22,CitvSport/calendar          G23/01-20:27
-OL,23,CitvSport/central           G23/01-20:27
+OL,17,CitvNews/calendar           G24/01-14:31
+OL,18,CitvNews/central            G23/01-21:27
+OL,19,CitvNews/channel            G23/01-21:27
+OL,20,CitvNews/granada            G24/01-13:31
+OL,21,CitvNews/meridian           G24/01-14:31
+OL,22,CitvNews/tyne-tees          G24/01-13:31
+OL,23,CitvSport/border            G23/01-20:27
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1769351978
+OL,0,        ECIMSBWebfax 2   F1fcA1769355599
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,15 +42,35 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1769351977;
-OL,10,GService: Webfax 2 - 11220 e5533e820
-OL,11,FLast Update: 25/01/2026 14:39:37  G2/2
-OL,13,CitvSport/channel           G23/01-20:27
-OL,14,CitvSport/granada           G23/01-20:27
-OL,15,CitvSport/london            G23/01-20:27
-OL,16,CitvSport/meridian          G23/01-20:27
-OL,17,CitvSport/national          G23/01-20:27
-OL,18,CitvSport/tyne-tees         G23/01-20:27
-OL,19,CitvSport/utv               G23/01-20:27
-OL,20,CitvSport/wales             G23/01-20:28
-OL,21,CitvSport/westcountry       G23/01-20:27
+OL,25,1769355599;
+OL,10,GService: Webfax 2 - 11221 12d681577
+OL,11,FLast Update: 25/01/2026 15:39:59  G2/3
+OL,13,CitvSport/calendar          G23/01-20:27
+OL,14,CitvSport/central           G23/01-20:27
+OL,15,CitvSport/channel           G23/01-20:27
+OL,16,CitvSport/granada           G23/01-20:27
+OL,17,CitvSport/london            G23/01-20:27
+OL,18,CitvSport/meridian          G23/01-20:27
+OL,19,CitvSport/national          G23/01-20:27
+OL,20,CitvSport/tyne-tees         G23/01-20:27
+OL,21,CitvSport/utv               G23/01-20:27
+OL,22,CitvSport/wales             G23/01-20:28
+OL,23,CitvSport/westcountry       G23/01-20:27
+PN,1fc03
+SC,0003
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1769355599
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1769355599;
+OL,10,GService: Webfax 2 - 11221 12d681577
+OL,11,FLast Update: 25/01/2026 15:39:59  G3/3
