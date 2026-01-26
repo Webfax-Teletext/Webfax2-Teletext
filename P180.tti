@@ -1,7 +1,7 @@
 PN,18000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F180A1769362635
+OL,0,        ECIMSBWebfax 2   F180A1769389222
 OL,1,TZ############## CT H ET ##############
 OL,2,S|||||4   (l|||4   (l||||    ,||||4
 OL,3,S}4h~5?//j 5?//j| |j//o5u*%z5?//o
@@ -9,16 +9,10 @@ OL,4,Suz55b{jps{55b{jpj s5uzuz55j
 OL,5,S#####q}||"###q}||"###cz||~5####q}~
 OL,6,S
 OL,7,TZ############ CF I L E ST ############
-OL,9,          On this day: 25th Jan
-OL,11,G181CCEEFAXFpreviews the day ahead on
-OL,12,    FBBC One and BBC TwoG1994
-OL,13,    BRecovery: ZXGuesser
-OL,15,G182CCEEFAXFpreviews the day ahead on
-OL,16,    FITV and Channel 4G1994
-OL,17,    BRecovery: ZXGuesser
-OL,19,G183CCEEFAXFpreviews the day ahead on
-OL,20,    Fnational BBC RadioG1994
-OL,21,    BRecovery: ZXGuesser
+OL,9,          On this day: 26th Jan
+OL,11,FTeletext pages from this date are not
+OL,12,Favailable here at the moment.
+OL,14,FPlease check back again later.
 OL,23,C]D@Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
-FL,181,120,140,250,8ff,100
+FL,1fc,120,140,250,0,100
