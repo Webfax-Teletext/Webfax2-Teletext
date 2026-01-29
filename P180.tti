@@ -1,7 +1,7 @@
 PN,18000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F180A1769691571
+OL,0,        ECIMSBWebfax 2   F180A1769717123
 OL,1,TZ############## CT H ET ##############
 OL,2,S|||||4   (l|||4   (l||||    ,||||4
 OL,3,S}4h~5?//j 5?//j| |j//o5u*%z5?//o
@@ -10,9 +10,9 @@ OL,5,S#####q}||"###q}||"###cz||~5####q}~
 OL,6,S
 OL,7,TZ############ CF I L E ST ############
 OL,9,          On this day: 29th Jan
-OL,11,FTeletext pages from this date are not
-OL,12,Favailable here at the moment.
-OL,14,FPlease check back again later.
+OL,11,G181CORACLEFwith the day's top stories
+OL,12,F    from ITNG1990
+OL,13,    BRecovery: TandCsApply
 OL,23,C]D@Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
-FL,181,120,140,250,0,100
+FL,181,120,140,250,8ff,100
