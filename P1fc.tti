@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1770108372
+OL,0,        ECIMSBWebfax 2   F1fcA1770111981
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,11 +13,11 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1770108372;
-OL,10,GService: Webfax 2 - 11418 e1fb2afe8
-OL,11,FLast Update: 03/02/2026 08:46:12  G1/2
+OL,25,1770111981;
+OL,10,GService: Webfax 2 - 11419 1144cc112
+OL,11,FLast Update: 03/02/2026 09:46:21  G1/2
 OL,13,Ageneric/lottery            G01/02-14:40
-OL,14,Ageneric/pollen_forecast    G03/02-08:39
+OL,14,Ageneric/pollen_forecast    G03/02-09:41
 OL,15,CitvSport/border            G01/02-14:39
 OL,16,CitvSport/calendar          G01/02-14:39
 OL,17,CitvSport/central           G01/02-14:39
@@ -25,12 +25,12 @@ OL,18,CitvSport/channel           G01/02-14:39
 OL,19,CitvSport/london            G01/02-14:39
 OL,20,CitvSport/meridian          G01/02-14:39
 OL,21,CitvSport/tyne-tees         G01/02-14:39
-OL,22,CitvSport/utv               G01/02-14:39
-OL,23,CitvSport/wales             G01/02-14:39
+OL,22,CitvSport/wales             G01/02-14:39
+OL,23,CitvSport/westcountry       G01/02-14:39
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1770108372
+OL,0,        ECIMSBWebfax 2   F1fcA1770111981
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,7 +42,6 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1770108372;
-OL,10,GService: Webfax 2 - 11418 e1fb2afe8
-OL,11,FLast Update: 03/02/2026 08:46:12  G2/2
-OL,13,CitvSport/westcountry       G01/02-14:39
+OL,25,1770111981;
+OL,10,GService: Webfax 2 - 11419 1144cc112
+OL,11,FLast Update: 03/02/2026 09:46:21  G2/2
