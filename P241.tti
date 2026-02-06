@@ -1,77 +1,50 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
+OL,3,CProgramme listings for SAT 7 FEB
 OL,4,G0600FBBC News
-OL,5,G0606FNewsday
-OL,6,     GLive news, business and sport
-OL,7,     Gfrom around the world.
+OL,5,G0606FWeekend
+OL,6,     GA review of the week with the
+OL,7,     Glatest news.
 OL,8,G0700FBBC News
-OL,9,G0706FNewsday
-OL,10,     GLive news, business and sport
-OL,11,     Gfrom around the world.
+OL,9,G0706FWeekend
+OL,10,     GA review of the week with the
+OL,11,     Glatest news.
 OL,12,G0800FBBC News
-OL,13,G0806FThe Interview
-OL,14,     GNorberto Paredes speaks to
-OL,15,     GHenrique Capriles, a Venezuelan
-OL,16,     Gopposition leader and former
-OL,17,     Gpresidential candidate, about his
-OL,18,     Ghopes for stability and democracy
-OL,19,     Gin his country.
-OL,20,G0830FBBC News Summary
+OL,13,G0806FWeekend
+OL,14,     GA review of the week with the
+OL,15,     Glatest news.
+OL,16,G0900FBBC News
+OL,17,G0906FBBC Conversations
+OL,18,     GHow major news stories are
+OL,19,     Gaffecting the lives of people
+OL,20,     Garound the world.
+OL,21,G0930FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G0832FBusiness Daily
-OL,5,     GIn our first edition of Meet the
-OL,6,     GFounders, we meet Luana Lopes
-OL,7,     GLara of Kalshi, a prediction
-OL,8,     Gmarkets startup that allows users
-OL,9,     Gto trade on the outcome of real-
-OL,10,     Gworld events.
-OL,11,G0850FWitness History
-OL,12,     GIn 1971, a question from eight-
-OL,13,     Gyear-old Adam inspired his father
-OL,14,     GRoger Hargreaves to create the Mr
-OL,15,     GMen. The first was Mr Tickle,
-OL,16,     Gwith his long stretchy arms.
-OL,17,G0900FBBC News
-OL,18,G0906FThe Newsroom
-OL,19,     GThe world's Newsroom brings you
-OL,20,     Gglobal events as they happen.
-OL,21,G0930FBBC News Summary
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,242,200,150,300,000,100
-PN,24103
-SC,0003
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/14
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G0932FBBC Inside Science
-OL,5,     GWhat are we still learning about
-OL,6,     Ga group of long-lasting,
-OL,7,     Goccasionally toxic chemicals
-OL,8,     Gcalled PFAS? And on the cusp of
-OL,9,     Gthe Winter Olympics in Italy, the
-OL,10,     Gscience of ski wax.
-OL,11,G1000FBBC News
-OL,12,G1006FUnexpected Elements
-OL,13,     GThe physics of a ski jumping
-OL,14,     Gscandal, and the tale of India's
-OL,15,     Glone luger.
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G0932FAmericast
+OL,5,     GJoin Americast for insights and
+OL,6,     Ganalysis on what's happening
+OL,7,     Ginside Trump's White House.
+OL,8,G1000FBBC News
+OL,9,G1006FNot by the Playbook
+OL,10,     GAhead of Super Bowl LX we meet
+OL,11,     Gthe NFL star with a story of
+OL,12,     Gredemption. Plus, we go behind
+OL,13,     Gthe scenes to meet those making
+OL,14,     Gthis event a sporting and
+OL,15,     Gcultural phenomenon.
 OL,16,G1100FBBC News
 OL,17,G1106FThe Newsroom
 OL,18,     GThe world's Newsroom brings you
@@ -80,295 +53,219 @@ OL,20,G1130FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
+PN,24103
+SC,0003
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/10
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G1132FUnspun World with John Simpson
+OL,5,     GJohn Simpson looks at the dangers
+OL,6,     Gfacing the Iranian clerical
+OL,7,     Gregime, and explores whether
+OL,8,     Gpeace talks aimed at ending the
+OL,9,     Gwar in Ukraine can succeed.
+OL,10,G1200FBBC News
+OL,11,G1206FWorld Book Club
+OL,12,     GThe world's great authors discuss
+OL,13,     Gtheir best-known novel.
+OL,14,G1300FBBC News
+OL,15,G1306FNewshour
+OL,16,     GInterviews, news and analysis of
+OL,17,     Gthe day's global events.
+OL,18,G1400FBBC News
+OL,19,G1406FSportsworld
+OL,20,     GLive sport from around the world
+OL,21,     Gwith news, interviews and
+OL,22,     Ganalysis.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,242,200,150,300,000,100
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G1132FThe Global Story
-OL,5,     GThe Global Story: Where the world
-OL,6,     Gmeets America.
-OL,7,G1200FBBC News
-OL,8,G1206FOutlook
-OL,9,     GThe gay Kenyan boyband star who
-OL,10,     Grefused to be defeated, the
-OL,11,     Gunlikely '50s revival act that
-OL,12,     Gmade it to Woodstock, and life in
-OL,13,     Gone of the biggest '80s boybands
-OL,14,     Gin the world.
-OL,15,G1250FWitness History
-OL,16,     GIn 1971, a question from eight-
-OL,17,     Gyear-old Adam inspired his father
-OL,18,     GRoger Hargreaves to create the Mr
-OL,19,     GMen. The first was Mr Tickle,
-OL,20,     Gwith his long stretchy arms.
-OL,21,G1300FBBC News
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G1800FBBC News
+OL,5,G1806FThe Newsroom
+OL,6,     GThe world's Newsroom brings you
+OL,7,     Gglobal events as they happen.
+OL,8,G1830FBBC News Summary
+OL,9,G1832FThe Dark Is Rising
+OL,10,     GThe Dark grips the country in an
+OL,11,     Gunnatural frost, as deepening
+OL,12,     Gsnow traps people indoors. To
+OL,13,     Gbreak the spell, Will needs the
+OL,14,     GSign of Fire.
+OL,15,G1850FSporting Witness
+OL,16,     GIn 2003, Croatian siblings Janica
+OL,17,     Gand Ivica Kostelic made history
+OL,18,     Gby becoming the first sister-
+OL,19,     Gbrother duo to win World Cup
+OL,20,     GAlpine slalom races on the same
+OL,21,     Gday.
+OL,22,G1900FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G1306FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G1330FBBC News Summary
-OL,8,G1332FHeart and Soul
-OL,9,     GIsmail Fenter, a former American
-OL,10,     GChristian pastor, says he 'fell
-OL,11,     Gfor Rumi', converted to Islam and
-OL,12,     Gmoved from L.A. to Turkey's
-OL,13,     GCentral Anatolia to live in
-OL,14,     GRumi's spiritual home.
-OL,15,G1400FBBC News
-OL,16,G1406FNewshour
-OL,17,     GInterviews, news and analysis of
-OL,18,     Gthe day's global events.
-OL,19,G1500FBBC News
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G1906FThe Inquiry
+OL,5,     GBangladesh will vote in a
+OL,6,     Gnational election after the fall
+OL,7,     Gof Sheikh Hasina's government.
+OL,8,     GWhat might this vote mean for its
+OL,9,     Gfuture?
+OL,10,G1930FBBC News Summary
+OL,11,G1932FHappy News
+OL,12,     GPositive news stories.
+OL,13,G2000FBBC News
+OL,14,G2006FThe Arts Hour
+OL,15,     GNikki talks to the Pakistani-
+OL,16,     GAmerican writer of the highly-
+OL,17,     Ganticipated novel This Is Where
+OL,18,     GThe Serpent Lives.
+OL,19,G2100FBBC News
+OL,20,G2106FNewshour
+OL,21,     GInterviews, news and analysis of
+OL,22,     Gthe day's global events.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G1506FThe Interview
-OL,5,     GNorberto Paredes speaks to
-OL,6,     GHenrique Capriles, a Venezuelan
-OL,7,     Gopposition leader and former
-OL,8,     Gpresidential candidate, about his
-OL,9,     Ghopes for stability and democracy
-OL,10,     Gin his country.
-OL,11,G1530FBBC News Summary
-OL,12,G1532FBusiness Daily
-OL,13,     GIn our first edition of Meet the
-OL,14,     GFounders, we meet Luana Lopes
-OL,15,     GLara of Kalshi, a prediction
-OL,16,     Gmarkets startup that allows users
-OL,17,     Gto trade on the outcome of real-
-OL,18,     Gworld events.
-OL,19,G1550FWorld Business Express
-OL,20,     GFinance, economy and business
-OL,21,     Gnews from BBC journalists around
-OL,22,     Gthe world.
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G2200FBBC News
+OL,5,G2206FThe Newsroom
+OL,6,     GThe world's Newsroom brings you
+OL,7,     Gglobal events as they happen.
+OL,8,G2230FBBC News Summary
+OL,9,G2232FThis Is Africa
+OL,10,     GNigerian alte/RnB/afrobeats
+OL,11,     Gsinger songwriter Tolani has just
+OL,12,     Greleased a heart-on-her-sleeve
+OL,13,     Galbum.
+OL,14,G2300FBBC News
+OL,15,G2306FNot by the Playbook
+OL,16,     GAhead of Super Bowl LX we meet
+OL,17,     Gthe NFL star with a story of
+OL,18,     Gredemption. Plus, we go behind
+OL,19,     Gthe scenes to meet those making
+OL,20,     Gthis event a sporting and
+OL,21,     Gcultural phenomenon.
+OL,22,G0000FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G1600FBBC News
-OL,5,G1606FOutside Source
-OL,6,     GA vibrant account of the day's
-OL,7,     Gevents with explanation and
-OL,8,     Greaction from those involved.
-OL,9,G1700FBBC News
-OL,10,G1706FOutside Source
-OL,11,     GA vibrant account of the day's
-OL,12,     Gevents with explanation and
-OL,13,     Greaction from those involved.
-OL,14,G1800FBBC News
-OL,15,G1806FOutlook
-OL,16,     GThe gay Kenyan boyband star who
-OL,17,     Grefused to be defeated, the
-OL,18,     Gunlikely '50s revival act that
-OL,19,     Gmade it to Woodstock, and life in
-OL,20,     Gone of the biggest '80s boybands
-OL,21,     Gin the world.
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G0006FBBC Conversations
+OL,5,     GHow major news stories are
+OL,6,     Gaffecting the lives of people
+OL,7,     Garound the world.
+OL,8,G0030FBBC News Summary
+OL,9,G0032FThe Documentary
+OL,10,     GIn Argentina, cloning polo horses
+OL,11,     Gis transforming the sport..
+OL,12,G0100FBBC News
+OL,13,G0106FThe Newsroom
+OL,14,     GThe world's Newsroom brings you
+OL,15,     Gglobal events as they happen.
+OL,16,G0130FBBC News Summary
+OL,17,G0132FThe Dark Is Rising
+OL,18,     GThe Dark grips the country in an
+OL,19,     Gunnatural frost, as deepening
+OL,20,     Gsnow traps people indoors. To
+OL,21,     Gbreak the spell, Will needs the
+OL,22,     GSign of Fire.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G1850FWitness History
-OL,5,     GIn 1971, a question from eight-
-OL,6,     Gyear-old Adam inspired his father
-OL,7,     GRoger Hargreaves to create the Mr
-OL,8,     GMen. The first was Mr Tickle,
-OL,9,     Gwith his long stretchy arms.
-OL,10,G1900FBBC News
-OL,11,G1906FThe Newsroom
-OL,12,     GThe world's Newsroom brings you
-OL,13,     Gglobal events as they happen.
-OL,14,G1930FBBC News Summary
-OL,15,G1932FSport Today
-OL,16,     GBBC sports correspondents tell
-OL,17,     Gthe story behind today's top
-OL,18,     Gsporting news, with interviews
-OL,19,     Gand reports from across the world.
-OL,20,G2000FBBC News
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G0150FSporting Witness
+OL,5,     GIn 2003, Croatian siblings Janica
+OL,6,     Gand Ivica Kostelic made history
+OL,7,     Gby becoming the first sister-
+OL,8,     Gbrother duo to win World Cup
+OL,9,     GAlpine slalom races on the same
+OL,10,     Gday.
+OL,11,G0200FBBC News
+OL,12,G0206FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G0230FBBC News Summary
+OL,16,G0232FHealth Check
+OL,17,     GClaudia visits someone who
+OL,18,     Gdescribes how hoarding has taken
+OL,19,     Gover her life. What causes it and
+OL,20,     Ghow is it treated?
+OL,21,G0300FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G2006FBBC Conversations
-OL,5,     GHow major news stories are
-OL,6,     Gaffecting the lives of people
-OL,7,     Garound the world.
-OL,8,G2030FBBC News Summary
-OL,9,G2032FCrowdScience
-OL,10,     GCrowdScience listener Griffith in
-OL,11,     GGhana wants to know why multiple
-OL,12,     Gchoice questions make us biased,
-OL,13,     Gand why our instincts around
-OL,14,     Gmaths and probability are so
-OL,15,     Goften wrong.
-OL,16,G2100FBBC News
-OL,17,G2106FNewshour
-OL,18,     GInterviews, news and analysis of
-OL,19,     Gthe day's global events.
-OL,20,G2200FBBC News
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G0306FWorld Book Club
+OL,5,     GThe world's great authors discuss
+OL,6,     Gtheir best-known novel.
+OL,7,G0400FBBC News
+OL,8,G0406FFrom Our Own Correspondent
+OL,9,     GInsight, wit and analysis from
+OL,10,     GBBC correspondents, journalists
+OL,11,     Gand writers from around the world.
+OL,12,G0430FBBC News Summary
+OL,13,G0432FUnspun World with John Simpson
+OL,14,     GJohn Simpson looks at the dangers
+OL,15,     Gfacing the Iranian clerical
+OL,16,     Gregime, and explores whether
+OL,17,     Gpeace talks aimed at ending the
+OL,18,     Gwar in Ukraine can succeed.
+OL,19,G0500FBBC News
+OL,20,G0506FThe Newsroom
+OL,21,     GThe world's Newsroom brings you
+OL,22,     Gglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/14
+OL,0,        ECIMSBWebfax 2   F241A1770361043
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/10
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G2206FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G2230FBBC News Summary
-OL,8,G2232FWorld Business Report
-OL,9,G2300FBBC News
-OL,10,G2306FThe Interview
-OL,11,     GNorberto Paredes speaks to
-OL,12,     GHenrique Capriles, a Venezuelan
-OL,13,     Gopposition leader and former
-OL,14,     Gpresidential candidate, about his
-OL,15,     Ghopes for stability and democracy
-OL,16,     Gin his country.
-OL,17,G2330FBBC News Summary
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,242,200,150,300,000,100
-PN,24111
-SC,0011
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/14
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G2332FHeart and Soul
-OL,5,     GIsmail Fenter, a former American
-OL,6,     GChristian pastor, says he 'fell
-OL,7,     Gfor Rumi', converted to Islam and
-OL,8,     Gmoved from L.A. to Turkey's
-OL,9,     GCentral Anatolia to live in
-OL,10,     GRumi's spiritual home.
-OL,11,G0000FBBC News
-OL,12,G0006FUnexpected Elements
-OL,13,     GThe physics of a ski jumping
-OL,14,     Gscandal, and the tale of India's
-OL,15,     Glone luger.
-OL,16,G0100FBBC News
-OL,17,G0106FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G0130FBBC News Summary
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,242,200,150,300,000,100
-PN,24112
-SC,0012
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/14
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G0132FThe Global Story
-OL,5,     GThe Global Story: Where the world
-OL,6,     Gmeets America.
-OL,7,G0200FBBC News
-OL,8,G0206FThe Newsroom
-OL,9,     GThe world's Newsroom brings you
-OL,10,     Gglobal events as they happen.
-OL,11,G0230FBBC News Summary
-OL,12,G0232FStumped
-OL,13,     GAlison Mitchell, Brett Sprigg &
-OL,14,     GCharu Sharma discuss what this
-OL,15,     Gmeans for the global game.
-OL,16,G0300FBBC News
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,242,200,150,300,000,100
-PN,24113
-SC,0013
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G13/14
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G0306FOutlook
-OL,5,     GThe gay Kenyan boyband star who
-OL,6,     Grefused to be defeated, the
-OL,7,     Gunlikely '50s revival act that
-OL,8,     Gmade it to Woodstock, and life in
-OL,9,     Gone of the biggest '80s boybands
-OL,10,     Gin the world.
-OL,11,G0350FWitness History
-OL,12,     GIn 1971, a question from eight-
-OL,13,     Gyear-old Adam inspired his father
-OL,14,     GRoger Hargreaves to create the Mr
-OL,15,     GMen. The first was Mr Tickle,
-OL,16,     Gwith his long stretchy arms.
-OL,17,G0400FBBC News
-OL,18,G0406FUnexpected Elements
-OL,19,     GThe physics of a ski jumping
-OL,20,     Gscandal, and the tale of India's
-OL,21,     Glone luger.
-OL,22,G0500FBBC News
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,242,200,150,300,000,100
-PN,24114
-SC,0014
-PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1770353824
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G14/14
-OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
-OL,3,CProgramme listings for FRI 6 FEB
-OL,4,G0506FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G0530FBBC News Summary
-OL,8,G0532FThe Dark Is Rising
-OL,9,     GThe Dark grips the country in an
-OL,10,     Gunnatural frost, as deepening
-OL,11,     Gsnow traps people indoors. To
-OL,12,     Gbreak the spell, Will needs the
-OL,13,     GSign of Fire.
-OL,14,G0550FMore or Less
-OL,15,     GIs Chelsea's Liam Delap a maths
-OL,16,     Ggenius? Or has he got a trick up
-OL,17,     Ghis sleeve?
+OL,3,CProgramme listings for SAT 7 FEB
+OL,4,G0530FBBC News Summary
+OL,5,G0532FThe Documentary
+OL,6,     GIn Argentina, cloning polo horses
+OL,7,     Gis transforming the sport..
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
