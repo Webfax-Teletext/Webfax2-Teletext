@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1772037624
+PN,1fc00
+SC,0000
+PS,8018
+OL,0,        ECIMSBWebfax 2   F1fcA1772041236
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,36 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1772037622;
-OL,10,GService: Webfax 2 - 11945 074890104
-OL,11,FLast Update: 25/02/2026 16:40:22  G1/2
-OL,13,AbbcNews/Business           G25/02-16:39
-OL,14,AbbcNews/Entertainment      G25/02-16:40
-OL,15,AbbcNews/Politics           G25/02-16:39
-OL,16,AbbcNews/Technology         G25/02-16:39
-OL,17,AbbcSport/Cricket           G25/02-16:40
-OL,18,AbbcSport/Football          G25/02-16:39
-OL,19,AbbcSport/Football Gossip   G25/02-16:40
-OL,20,AbbcSport/Formula 1         G25/02-16:40
-OL,21,AbbcSport/Golf              G25/02-16:40
-OL,22,AbbcSport/Horse Racing      G25/02-16:40
-OL,23,AbbcSport/Tennis            G25/02-16:40
-PN,1fc02
-SC,0002
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1772037624
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1772037622;
-OL,10,GService: Webfax 2 - 11945 074890104
-OL,11,FLast Update: 25/02/2026 16:40:22  G2/2
-OL,13,Ageneric/pollen_forecast    G25/02-16:40
+OL,25,1772041236;
+OL,10,GService: Webfax 2 - 11946 a1960fbb2
+OL,11,FLast Update: 25/02/2026 17:40:36      
+OL,13,Ageneric/f1                 G25/02-16:40
+OL,14,Ageneric/lottery            G25/02-16:40
+OL,15,Ageneric/pollen_forecast    G25/02-16:40
