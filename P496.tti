@@ -2,7 +2,7 @@ PN,49601
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
+OL,0,        ECIMSBWebfax 2   F496A1772145122
 OL,2,R    hhhlhh hlhl <$ 444<4l$<4444<4<$
 OL,3,R    *>jjjj jnj.4=$ 555=5j 5 =555554
 OL,4,R     %*.*. *** %-$ --%%%* -%%%%%%-%
@@ -18,26 +18,25 @@ OL,22,R
 OL,23,B]D Much more at: teletextarchive.com
 OL,24,AInfo  BT'text Files CRewind  FNat Radio
 FL,497,180,120,200,8ff,100
-OL,1,                                   G1/18
+OL,1,                                   G1/24
 PN,49602
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/24
 OL,2,Rwss5Wj =5=  5j$5j$j =bw 5 j$55j$m
 OL,3,R-,,%W* %%-  %*$-*$* -** % * %-*$.
 OL,4,R]D   The past as reported on teletext
 OL,6,MON THIS DAY: 26th February
 OL,7,T
-OL,9,G181 CEEFAXFwith the day's main news
-OL,10,    Fstories (1994)
-OL,11,    BRecovery: Tim Bisley
-OL,13,G182 CEEFAXFpreviewing today's line-up
-OL,14,    Fon BBC One and BBC Two (1994)
-OL,15,    BRecovery: Tim Bisley
-OL,17,G183 CEEFAXFpreviewing today's line-up
-OL,18,    Fon ITV and Channel 4 (1994)
+OL,9,G181 CEEFAXFwith the main news (1994)
+OL,10,    BRecovery: Tim Bisley
+OL,12,G182 CEEFAXFBBC One/BBC Two today (1994)
+OL,13,    BRecovery: Tim Bisley
+OL,15,G183 CEEFAXFITV and Ch 4 today (1994)
+OL,16,    BRecovery: Tim Bisley
+OL,18,G184 CEEFAXFBBC Radio today (1994)
 OL,19,    BRecovery: Tim Bisley
 OL,23,R]D Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
@@ -46,8 +45,8 @@ PN,49603
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|l4|l4|, T]V|l4|,h4|h4|,        C3/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|, T]V|l4|,h4|h4|,        C3/24
 OL,2,V]Tn1n1  T]Vj5,j5j5/|  THE
 OL,3,V]T/.%/.%/, T]Vj5pjuz5pF HEADLINES
 OL,4,T7#####################################k
@@ -76,8 +75,8 @@ PN,49604
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,F]T|l4|l4|, D]V|l4|,h4|h4|,        C4/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,F]T|l4|l4|, D]V|l4|,h4|h4|,        C4/24
 OL,2,F]Tn1n1  D]Vj5,j5j5/|           T]
 OL,3,F]T/.%/.%/, D]Vj5pjuz5pF HOME     T]
 OL,4,T7#####################################k
@@ -106,8 +105,8 @@ PN,49605
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C5/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C5/24
 OL,2,V]Tn1n1  T]Vj5,j5j5/|
 OL,3,V]T/.%/.%/, T]Vj5pjuz5pF POLITICS
 OL,4,T7#####################################k
@@ -136,8 +135,8 @@ PN,49606
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C6/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C6/24
 OL,2,V]Tn1n1  T]Vj5,j5j5/|
 OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
 OL,4,T7#####################################k
@@ -166,8 +165,8 @@ PN,49607
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C7/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C7/24
 OL,2,V]Tn1n1  T]Vj5,j5j5/|
 OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
 OL,4,T7#####################################k
@@ -196,8 +195,8 @@ PN,49608
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C8/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C8/24
 OL,2,V]Tn1n1  T]Vj5,j5j5/|
 OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
 OL,4,T7#####################################k
@@ -226,8 +225,8 @@ PN,49609
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C9/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C9/24
 OL,2,V]Tn1n1  T]Vj5,j5j5/|
 OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
 OL,4,T7#####################################k
@@ -256,8 +255,8 @@ PN,49610
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,       C10/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,       C10/24
 OL,2,V]Tn1n1  T]Vj5,j5j5/|
 OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
 OL,4,T7#####################################k
@@ -286,8 +285,8 @@ PN,49611
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|l4|l4|, l4                    A11/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|, l4                    A11/24
 OL,2,V]Tn1n1  j5DSATURDAY
 OL,3,V]Tz5z5p j5D1145-2015
 OL,4,V7#####################################k
@@ -316,8 +315,8 @@ PN,49612
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|l4|l4|, l4                    A12/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|, l4                    A12/24
 OL,2,V]Tn1n1  j5DSATURDAY/SUNDAY
 OL,3,V]Tz5z5p j5D2015-0150
 OL,4,V7#####################################k
@@ -346,8 +345,8 @@ PN,49613
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|l4|l4|, ,l4                   A13/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|, ,l4                   A13/24
 OL,2,V]Tn1n1  |.%DSATURDAY
 OL,3,V]Tz5z5p p0D0600-2035
 OL,4,V7#####################################k
@@ -376,8 +375,8 @@ PN,49614
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|l4|l4|, ,l4                   A14/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|, ,l4                   A14/24
 OL,2,V]Tn1n1  |.%DSATURDAY
 OL,3,V]Tz5z5p p0D2035-0140
 OL,4,V7#####################################k
@@ -406,8 +405,8 @@ PN,49615
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|,(l4                          A15/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|,(l4                          A15/24
 OL,2,V]T (n1DNETWORKED   SATURDAY/SUNDAY
 OL,3,V]Tp`z5DPROGRAMMES  1715-0530
 OL,4,V7#####################################k
@@ -436,8 +435,8 @@ PN,49616
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|,h4                           A16/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|,h4                           A16/24
 OL,2,V]T ju|DSATURDAY
 OL,3,V]Tp  D1230-2100
 OL,4,V7#####################################k
@@ -466,8 +465,8 @@ PN,49617
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|,h4                           A17/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|,h4                           A17/24
 OL,2,V]T ju|DSATURDAY
 OL,3,V]Tp  D2100-0020
 OL,4,V7#####################################k
@@ -496,8 +495,8 @@ PN,49618
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1772144400
-OL,1,V]T|,h4                           A18/18
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|,h4                           A18/24
 OL,2,V]T ju|DSATURDAY/SUNDAY
 OL,3,V]Tp  D0020-0405
 OL,4,V7#####################################k
@@ -520,5 +519,185 @@ OL,20,V5     Fon the Isle of Wight          Vj
 OL,21,Vupppppppppppppppppppppppppppppppppppppz
 OL,22,F]DN = NICAM Stereo  S = Subtitles 888
 OL,23,V]DFrom 26-02-94 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49619
+SC,0019
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|l0|h<| l4               A19/24
+OL,2,V]Tn1n5j5j5 j5DSATURDAY/SUNDAY
+OL,3,V]Tj5j5z5ju j5D0400-0400
+OL,4,V7#####################################k
+OL,5,V5C0400GNeale JamesCFM until 0600F    Vj
+OL,6,V5C0700GKevin GreeningFpresents the   Vj
+OL,7,V5C    FWeekend Breakfast Show        Vj
+OL,8,V5C1000GDanny Baker                   Vj
+OL,9,V5C1300GApache Indian                 Vj
+OL,10,V5C1400GAndy KershawFwith Mick Jo     Vj
+OL,11,V5     FLusala and the Soukous Gang   Vj
+OL,12,V5C1630GJohn PeelFwith sessions from  Vj
+OL,13,V5     FThe Swirlies and CNN          Vj
+OL,14,V5C1900GJohnnie WalkerFincluding In   Vj
+OL,15,V5     FConcert atC2130Ffeaturing     Vj
+OL,16,V5     FSuede in Blackpool            Vj
+OL,17,V5C2300GEssential Mix ShowCFM after   Vj
+OL,18,V5     C1200Fwith Brothers in Rhythm  Vj
+OL,19,V5C0100-0400GMark TonderaiCFM         Vj
+OL,20,V5                                     j
+OL,21,V5FNews: On the half-hour             Vj
+OL,22,Vupppppppppppppppppppppppppppppppppppppz
+OL,23,F]DFrom 26-02-94 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49620
+SC,0020
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|l0|h<| ,l4              A20/24
+OL,2,V]Tn1n5j5j5 |.%DSATURDAY/SUNDAY
+OL,3,V]Tj5j5z5ju p0D1800-0400
+OL,4,V7#####################################k
+OL,5,V5C1800GGreat Swing BattlesFintroducedVj
+OL,6,V5     Fby Clarke Peters              Vj
+OL,7,V5C1900GAt Home With Marjorie Proops  Vj
+OL,8,V5     FBritain's favourite agony auntVj
+OL,9,V5     Fshows Joanna Kaye round her   Vj
+OL,10,V5     Fhome in Barnes                Vj
+OL,11,V5C1930GBest of BritishFwith the BBC  Vj
+OL,12,V5     FConcert Orchestra             Vj
+OL,13,V5C2130GDavid JacobsFpresentsGEasy    Vj
+OL,14,V5     GDoes ItF                      Vj
+OL,15,V5C2200GRadio 2 Arts Programme        Vj
+OL,16,V5     Fpresented by Sheridan Morley  Vj
+OL,17,V5C0005GRonnie HiltonFintroduces      Vj
+OL,18,V5C    FSounds of the 50s             Vj
+OL,19,V5C0100GCharles NoveFwith Night Ride  Vj
+OL,20,V5     Fincluding Pause for Thought atVj
+OL,21,V5     C0130FandC0330                 Vj
+OL,22,Vupppppppppppppppppppppppppppppppppppppz
+OL,23,F]DFrom 26-02-94 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49621
+SC,0021
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|l0|h<| ,|               A21/24
+OL,2,V]Tn1n5j5j5 ,wDSATURDAY
+OL,3,V]Tj5j5z5ju pD1500-0035
+OL,4,V7#####################################k
+OL,5,V5C1500GVintage YearsFDavid Mellor on Vj
+OL,6,V5     Fthe legacy of past artists    Vj
+OL,7,V5     Fwith Luciano Pavarotti        Vj
+OL,8,V5C1700GJazz Record  RequestsFWith    Vj
+OL,9,V5     FGeoffrey Smith                Vj
+OL,10,V5C1745GMusic MattersFWith Ivan HewettVj
+OL,11,V5C1830GLive from the MetFBritten's   Vj
+OL,12,V5     FDeath in Venice with fromC1950Vj
+OL,13,V5     C-2020FThe Opera Quiz          Vj
+OL,14,V5C2130GThe Reith Lectures: Managing  Vj
+OL,15,V5     GMonstersFMarina Warner's 5th  Vj
+OL,16,V5     Flecture - Cannibal Tales      Vj
+OL,17,V5C2200GNikolaeva Plays Bach's "48"   Vj
+OL,18,V5C2235GSatieFSongs and Piano music   Vj
+OL,19,V5C2300GImpressionsFBrian Morton with Vj
+OL,20,V5     Frecent jazz albums            Vj
+OL,21,V5C0030-0035GNews                     Vj
+OL,22,Vupppppppppppppppppppppppppppppppppppppz
+OL,23,F]DFrom 26-02-94 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49622
+SC,0022
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|l0|h<| |                A22/24
+OL,2,V]Tn1n5j5j5 x4DSATURDAY
+OL,3,V]Tj5j5z5ju  j5D1310-1950
+OL,4,V7#####################################k
+OL,5,V5C1310GAny Questions?FDiscussion of  Vj
+OL,6,V5     Ftopical issues raised in      Vj
+OL,7,V5     FSouthwold, Suffolk            Vj
+OL,8,V5C1400GAny Answers?FCall 071-580 4444Vj
+OL,9,V5C1430GPlayhouse: Knox BayFby ElspethVj
+OL,10,V5     FSandys stars Michael McGrath  Vj
+OL,11,V5C1600GAge to AgeFChristopher Cook   Vj
+OL,12,V5     Flooks at the history of South Vj
+OL,13,V5     FAfrica on the eve of electionsVj
+OL,14,V5C1630GScience NowFWith Peter Evans  Vj
+OL,15,V5C1700GFile on 4FWith Jenny Cuffe    Vj
+OL,16,V5C1740GSiesta Days, Fiesta Nights    Vj
+OL,17,V5C1800GNews and Sport                Vj
+OL,18,V5C1825GWeek EndingFTopical satire    Vj
+OL,19,V5C1850GAd LibFRobert Robinson meets  Vj
+OL,20,V5     Fsome impressarios             Vj
+OL,21,V5C1920GKaleidoscopeFStephen Spender  Vj
+OL,22,Vupppppppppppppppppppppppppppppppppppppz
+OL,23,F]DFrom 26-02-94 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49623
+SC,0023
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|l0|h<| |                A23/24
+OL,2,V]Tn1n5j5j5 x4DSATURDAY/SUNDAY
+OL,3,V]Tj5j5z5ju  j5D1950-0545
+OL,4,V7#####################################k
+OL,5,V5C1950GSaturday Night Theatre:       Vj
+OL,6,V5     GLooking for AliceFby Peter    Vj
+OL,7,V5     FMcKelvey stars John Lloyd     Vj
+OL,8,V5     FFillingham and Melanie Thaw   Vj
+OL,9,V5C2120GMusic in MindFWith Brian Kay  Vj
+OL,10,V5C2150GTen to TenF                   Vj
+OL,11,V5C2200GNews                          Vj
+OL,12,V5C2215GDear TeacherFNancy Banks-SmithVj
+OL,13,V5     Frecalls a teacherCNew series  Vj
+OL,14,V5C2230GAll Shook Up: The Sound of    Vj
+OL,15,V5     GFuryFFirst in aCNew seriesFof Vj
+OL,16,V5     Fplays in the Rock 'n' roll    Vj
+OL,17,V5     Fseason sees Anton Lesser as   Vj
+OL,18,V5     FBilly Fury in Mike Walker's   Vj
+OL,19,V5     Fplay about the singer's life  Vj
+OL,20,V5C2400-0030GNews                     Vj
+OL,21,V5C0045-0545GWorld ServiceCLW         Vj
+OL,22,Vupppppppppppppppppppppppppppppppppppppz
+OL,23,F]DFrom 26-02-94 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49624
+SC,0024
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1772145122
+OL,1,V]T|l4|l4|l0|h<| |,$              A24/24
+OL,2,V]Tn1n5j5j5 /l4DSATURDAY
+OL,3,V]Tj5j5z5ju pz5D1805-2400
+OL,4,V7#####################################k
+OL,5,V5C1805GInternational CricketF        Vj
+OL,6,V5     Ffeaturing commentary on the   Vj
+OL,7,V5     Fsecond one-day international  Vj
+OL,8,V5     Fbetween the West Indies and   Vj
+OL,9,V5C    FEngland from Sabina Park in   Vj
+OL,10,V5     FJamaica                       Vj
+OL,11,V5C2245-2400GWorld Title FightFNigel  Vj
+OL,12,V5     FBenn takes on Henry Wharton   Vj
+OL,13,V5     Fin an all-British clash for   Vj
+OL,14,V5     Fthe WBC World Super           Vj
+OL,15,V5     FMiddleweight title. CommentaryVj
+OL,16,V5     Ffrom John Rawling             Vj
+OL,17,V5F                                   Vj
+OL,18,V5FNews and Sport: Half-hourly from   Vj
+OL,19,V5F0630 to 0830, hourly 0900 to 1200, Vj
+OL,20,V5Fthen 2400                          Vj
+OL,21,V5FSport additionally at 2200 and 2300Vj
+OL,22,Vupppppppppppppppppppppppppppppppppppppz
+OL,23,F]DFrom 26-02-94 / teletextarchive.com
 OL,24,ANext PageBT'text FilesCRewindFReg Radio
 FL,497,190,120,250,0,100
