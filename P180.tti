@@ -1,21 +1,18 @@
 PN,18000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F180A1772145122
+OL,0,        ECIMSBWebfax 2   F180A1772145810
 OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$<
 OL,2,Rwss5Wj =5=  5j$5j$j =bw 5 j$55j$m
 OL,3,R-,,%W* %%-  %*$-*$* -** % * %-*$.
 OL,4,R]D   The past as reported on teletext
 OL,6,MON THIS DAY: 26th February
 OL,7,T
-OL,9,G181 CEEFAXFwith the main news (1994)
-OL,10,    BRecovery: Tim Bisley
-OL,12,G182 CEEFAXFBBC One/BBC Two today (1994)
-OL,13,    BRecovery: Tim Bisley
-OL,15,G183 CEEFAXFITV and Ch 4 today (1994)
-OL,16,    BRecovery: Tim Bisley
-OL,18,G184 CEEFAXFBBC Radio today (1994)
-OL,19,    BRecovery: Tim Bisley
+OL,9,B1994 CEEFAX RECOVERY by Tim Bisley
+OL,10,G181FThe day's top news stories
+OL,11, 182FBBC One and BBC Two schedules
+OL,12,G183FITV and Channel 4 schedules
+OL,13,G184FBBC national radio schedules
 OL,23,R]D Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
 FL,200,120,140,250,8ff,100
