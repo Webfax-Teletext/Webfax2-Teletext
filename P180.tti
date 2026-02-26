@@ -1,7 +1,7 @@
 PN,18000
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F180A1772072496
+OL,0,        ECIMSBWebfax 2   F180A1772144400
 OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$<
 OL,2,Rwss5Wj =5=  5j$5j$j =bw 5 j$55j$m
 OL,3,R-,,%W* %%-  %*$-*$* -** % * %-*$.
@@ -11,6 +11,12 @@ OL,7,T
 OL,9,G181 CEEFAXFwith the day's main news
 OL,10,    Fstories (1994)
 OL,11,    BRecovery: Tim Bisley
+OL,13,G182 CEEFAXFpreviewing today's line-up
+OL,14,    Fon BBC One and BBC Two (1994)
+OL,15,    BRecovery: Tim Bisley
+OL,17,G183 CEEFAXFpreviewing today's line-up
+OL,18,    Fon ITV and Channel 4 (1994)
+OL,19,    BRecovery: Tim Bisley
 OL,23,R]D Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
 FL,200,120,140,250,8ff,100
