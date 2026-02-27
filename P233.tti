@@ -1,7 +1,7 @@
 PN,23301
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F233A1772086964
+OL,0,        ECIMSBWebfax 2   F233A1772167869
 OL,1,W{${$~+$ {$~{4k4h7} b{$       G1/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (.!V,,,,,,,,,,,
 OL,3,CProgramme listings for FRI 27 FEB
@@ -25,7 +25,7 @@ FL,234,200,150,300,000,100
 PN,23302
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F233A1772086964
+OL,0,        ECIMSBWebfax 2   F233A1772167869
 OL,1,W{${$~+$ {$~{4k4h7} b{$       G2/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (.!V,,,,,,,,,,,
 OL,3,CProgramme listings for FRI 27 FEB
@@ -45,7 +45,9 @@ OL,16,     GLive music from pianist Elisabeth
 OL,17,     GPion.
 OL,18,G1900FClassical Mixtape
 OL,19,     GTake time out with a 30-minute
-OL,20,     Gsoundscape of classical music.
+OL,20,     Gsoundscape of classical music
+OL,21,     Gfrom Ravel, Liszt, Rimsky-
+OL,22,     GKorsakov and Cecilia McDowall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,234,200,150,300,000,100
@@ -53,7 +55,7 @@ OL,26,@xD@^rb
 PN,23303
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F233A1772086964
+OL,0,        ECIMSBWebfax 2   F233A1772167869
 OL,1,W{${$~+$ {$~{4k4h7} b{$       G3/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (.!V,,,,,,,,,,,
 OL,3,CProgramme listings for FRI 27 FEB
@@ -81,21 +83,24 @@ FL,234,200,150,300,000,100
 PN,23304
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F233A1772086964
+OL,0,        ECIMSBWebfax 2   F233A1772167869
 OL,1,W{${$~+$ {$~{4k4h7} b{$       G4/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-' (.!V,,,,,,,,,,,
 OL,3,CProgramme listings for FRI 27 FEB
 OL,4,G2330F'Round Midnight
-OL,5,     GSaxophonist Soweto Kinch picks
-OL,6,     Gjazz from all eras, with a focus
-OL,7,     Gon new British artists.
-OL,8,G0030FThrough the Night
-OL,9,     GRobin Holloway's new piano
-OL,10,     Gquartet receives its first London
-OL,11,     Gouting in this concert from
-OL,12,     GWigmore Hall. It's followed by
-OL,13,     GBrahms' rich and ever-changing
-OL,14,     G1st Piano Quartet.
+OL,5,     GSoweto is joined by the ever-
+OL,6,     Gexplorative jazz bassist Dave
+OL,7,     GHolland to reflect on his career
+OL,8,     Gand collaborations with jazz
+OL,9,     Ggreats like Miles Davis, Chick
+OL,10,     GCorea and Herbie Hancock.
+OL,11,G0030FThrough the Night
+OL,12,     GRobin Holloway's new piano
+OL,13,     Gquartet receives its first London
+OL,14,     Gouting in this concert from
+OL,15,     GWigmore Hall. It's followed by
+OL,16,     GBrahms' rich and ever-changing
+OL,17,     G1st Piano Quartet.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,234,200,150,300,000,100
