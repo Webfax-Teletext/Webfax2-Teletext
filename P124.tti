@@ -2,8 +2,8 @@ PN,12401
 SC,0001
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G1/9
+OL,0,        ECIMSBWebfax 2   F124A1773000414
+OL,1,W{$~sj5j5h7}j7}                 G1/8
 OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
 OL,3,GFEATURESCSuspension of daytime BBC Two
 OL,4,Ctransmitter shutdown due to Channel 4
@@ -29,8 +29,8 @@ PN,12402
 SC,0002
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G2/9
+OL,0,        ECIMSBWebfax 2   F124A1773000414
+OL,1,W{$~sj5j5h7}j7}                 G2/8
 OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
 OL,3,GFEATURESCSuspension of daytime BBC Two
 OL,4,Ctransmitter shutdown due to Channel 4
@@ -55,8 +55,8 @@ PN,12403
 SC,0003
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G3/9
+OL,0,        ECIMSBWebfax 2   F124A1773000414
+OL,1,W{$~sj5j5h7}j7}                 G3/8
 OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
 OL,3,GFEATURESCSuspension of daytime BBC Two
 OL,4,Ctransmitter shutdown due to Channel 4
@@ -80,8 +80,8 @@ PN,12404
 SC,0004
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G4/9
+OL,0,        ECIMSBWebfax 2   F124A1773000414
+OL,1,W{$~sj5j5h7}j7}                 G4/8
 OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
 OL,3,GFEATURESCSuspension of daytime BBC Two
 OL,4,Ctransmitter shutdown due to Channel 4
@@ -105,8 +105,8 @@ PN,12405
 SC,0005
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G5/9
+OL,0,        ECIMSBWebfax 2   F124A1773000414
+OL,1,W{$~sj5j5h7}j7}                 G5/8
 OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
 OL,3,GFEATURESCSuspension of daytime BBC Two
 OL,4,Ctransmitter shutdown due to Channel 4
@@ -119,6 +119,12 @@ OL,12,FBy 1982, some relays existed merely to
 OL,13,Fprovide improved reception ` unlike the
 OL,14,Ffirst relays which extended coverage
 OL,15,Finto areas with no usable UHF signal.
+OL,17,FIn these cases, some may have
+OL,18,Fcontemplated two aerials- one for
+OL,19,Fexcellent reception of the three
+OL,20,Fexisting channels, another turned to
+OL,21,Fthe main transmitter for a usable (if
+OL,22,Fghosty or grainy) C4 signal.
 OL,23,APub: 22-Jul-2025Qpppppppppppppppppppppp
 OL,24,ANext Page BRewind CNat Radio FNat Sport
 FL,125,120,200,300,0,100
@@ -126,26 +132,25 @@ PN,12406
 SC,0006
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G6/9
+OL,0,        ECIMSBWebfax 2   F124A1773000414
+OL,1,W{$~sj5j5h7}j7}                 G6/8
 OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
 OL,3,GFEATURESCSuspension of daytime BBC Two
 OL,4,Ctransmitter shutdown due to Channel 4
 OL,5,Claunch
 OL,6,
-OL,7,FIn these cases, some may have
-OL,8,Fcontemplated two aerials- one for
-OL,9,Fexcellent reception of the three
-OL,10,Fexisting channels, another turned to
-OL,11,Fthe main transmitter for a usable (if
-OL,12,Fghosty or grainy) C4 signal.
-OL,14,FI suspect though that very few people
-OL,15,Fwould actually have gone to the trouble
-OL,16,Fof getting a new aerial just to get C4.
-OL,18,FEither way, it Is telling that the BBC
-OL,19,Fdidn't make the extension to BBC Two's
-OL,20,Ftransmission time permanent straight
-OL,21,Faway.
+OL,7,FI suspect though that very few people
+OL,8,Fwould actually have gone to the trouble
+OL,9,Fof getting a new aerial just to get C4.
+OL,11,FEither way, it Is telling that the BBC
+OL,12,Fdidn't make the extension to BBC Two's
+OL,13,Ftransmission time permanent straight
+OL,14,Faway.
+OL,16,FOn 7th February 1983, the 11.30am
+OL,17,Fshutdown returned. It was finally
+OL,18,Fabandoned by stealth when schools
+OL,19,Fprogrammes moved to BBC Two seven
+OL,20,Fmonths later.
 OL,23,APub: 22-Jul-2025Qpppppppppppppppppppppp
 OL,24,ANext Page BRewind CNat Radio FNat Sport
 FL,125,120,200,300,0,100
@@ -153,24 +158,24 @@ PN,12407
 SC,0007
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G7/9
+OL,0,        ECIMSBWebfax 2   F124A1773000414
+OL,1,W{$~sj5j5h7}j7}                 G7/8
 OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
 OL,3,GFEATURESCSuspension of daytime BBC Two
 OL,4,Ctransmitter shutdown due to Channel 4
 OL,5,Claunch
 OL,6,
-OL,7,FOn 7th February 1983, the 11.30am
-OL,8,Fshutdown returned. It was finally
-OL,9,Fabandoned by stealth when schools
-OL,10,Fprogrammes moved to BBC Two seven
-OL,11,Fmonths later.
-OL,13,FThe BBC ` and the country ` were in a
-OL,14,Fvery difficult situation in 1975 when
-OL,15,Fthe cut was made.
-OL,17,FBut it's telling that the BBC did not
-OL,18,Freverse this decision ` it was simply
-OL,19,Fsuperseded by events years later.
+OL,7,FThe BBC ` and the country ` were in a
+OL,8,Fvery difficult situation in 1975 when
+OL,9,Fthe cut was made.
+OL,11,FBut it's telling that the BBC did not
+OL,12,Freverse this decision ` it was simply
+OL,13,Fsuperseded by events years later.
+OL,15,FEven the experiment in late afternoon
+OL,16,FTV from November 1981 to April 1982
+OL,17,Fdidn't extend the time transmitters
+OL,18,Fwere on air for. They merely curtailed
+OL,19,Fthe afternoon trade test.
 OL,23,APub: 22-Jul-2025Qpppppppppppppppppppppp
 OL,24,ANext Page BRewind CNat Radio FNat Sport
 FL,125,120,200,300,0,100
@@ -178,47 +183,28 @@ PN,12408
 SC,0008
 CT,3,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G8/9
+OL,0,        ECIMSBWebfax 2   F124A1773000414
+OL,1,W{$~sj5j5h7}j7}                 G8/8
 OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
 OL,3,GFEATURESCSuspension of daytime BBC Two
 OL,4,Ctransmitter shutdown due to Channel 4
 OL,5,Claunch
 OL,6,
-OL,7,FEven the experiment in late afternoon
-OL,8,FTV from November 1981 to April 1982
-OL,9,Fdidn't extend the time transmitters
-OL,10,Fwere on air for. They merely curtailed
-OL,11,Fthe afternoon trade test.
-OL,13,FThe first evidence of a permanent
-OL,14,Fextension to BBC Two airtime came in
-OL,15,FDecember 1983. Ceefax was shown from
-OL,16,F9am onwards when there were no schools
-OL,17,Fprogrammes. This started to be
-OL,18,Facknowledged in Radio Times a few weeks
-OL,19,Flater.
-OL,23,APub: 22-Jul-2025Qpppppppppppppppppppppp
-OL,24,ANext Page BRewind CNat Radio FNat Sport
-FL,125,120,200,300,0,100
-PN,12409
-SC,0009
-CT,3,C
-PS,c008
-OL,0,        ECIMSBWebfax 2   F124A1772999460
-OL,1,W{$~sj5j5h7}j7}                 G9/9
-OL,2,W/*%+,"-/.!/*%/*-'Q(,,,,,,,,,,,,,,,,,,,,
-OL,3,GFEATURESCSuspension of daytime BBC Two
-OL,4,Ctransmitter shutdown due to Channel 4
-OL,5,Claunch
-OL,6,
-OL,7,FWas this to help the trade? Was this
-OL,8,Fbecause a shutdown during school
-OL,9,Fholidays alone was pointless? Was it
-OL,10,Fpart of the drive to promote Ceefax
-OL,11,Fduring otherwise empty airtime? Or was
-OL,12,Fit to allow viewers with teletext sets
-OL,13,Fto access the full BBC Two Ceefax
-OL,14,Fmagazine all day?
+OL,7,FThe first evidence of a permanent
+OL,8,Fextension to BBC Two airtime came in
+OL,9,FDecember 1983. Ceefax was shown from
+OL,10,F9am onwards when there were no schools
+OL,11,Fprogrammes. This started to be
+OL,12,Facknowledged in Radio Times a few weeks
+OL,13,Flater.
+OL,15,FWas this to help the trade? Was this
+OL,16,Fbecause a shutdown during school
+OL,17,Fholidays alone was pointless? Was it
+OL,18,Fpart of the drive to promote Ceefax
+OL,19,Fduring otherwise empty airtime? Or was
+OL,20,Fit to allow viewers with teletext sets
+OL,21,Fto access the full BBC Two Ceefax
+OL,22,Fmagazine all day?
 OL,23,APub: 22-Jul-2025Qpppppppppppppppppppppp
 OL,24,ANext Page BRewind CNat Radio FNat Sport
 FL,125,120,200,300,0,100@
