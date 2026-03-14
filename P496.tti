@@ -2,7 +2,7 @@ PN,49601
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
+OL,0,        ECIMSBWebfax 2   F496A1773512320
 OL,2,R    hhhlhh hlhl <$ 444<4l$<4444<4<$
 OL,3,R    *>jjjj jnj.4=$ 555=5j 5 =555554
 OL,4,R     %*.*. *** %-$ --%%%* -%%%%%%-%
@@ -18,13 +18,13 @@ OL,22,R
 OL,23,B]D Much more at: teletextarchive.com
 OL,24,AInfo  BT'text Files CRewind  FNat Radio
 FL,497,180,120,200,8ff,100
-OL,1,                                   G1/25
+OL,1,                                   G1/31
 PN,49602
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/31
 OL,2,Rwss5Wj =5=  5j$5j$j =bw 5 j$55j$m
 OL,3,R-,,%W* %%-  %*$-*$* -** % * %-*$.
 OL,4,R]D   The past as reported on teletext
@@ -34,6 +34,10 @@ OL,10,G181FThe day's main news stories
 OL,11,G182FBBC One and BBC Two schedules
 OL,12,G183FRegional ITV schedules
 OL,13,G184FNational BBC Radio schedules
+OL,14,G185FCeefax system upgradeG+FNational
+OL,15,    Fteletext service for the US
+OL,16,G186FEarly version of iconic Teletext
+OL,17,    FIs... pages
 OL,23,R]D Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
 FL,200,120,140,250,8ff,100
@@ -41,8 +45,8 @@ PN,49603
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]                                 C3/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]                                 C3/31
 OL,2,T]CBBC S  pjwsjw{5#}j5 j7k5s1w1
 OL,3,T]CNEWS  S jupj5j5p?ju0j5j5p0pz5
 OL,4,T]
@@ -69,8 +73,8 @@ PN,49604
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC4/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC4/31
 OL,2,T]W5h 55h 55hp5S||,||h|<,|4||   ||h|<,,
 OL,3,T]W5h"55h"55j/5S jwss1zubss
 OL,4,T]W-,,%-,,%-,,% ,,,,,,,,,,,,,,,,,,,,,,,
@@ -98,8 +102,8 @@ PN,49605
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC5/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC5/31
 OL,2,T]W5h 55h 55hp5S||,||h|<,|4||   ||h|<,,
 OL,3,T]W5h"55h"55j/5S jwss1zubss
 OL,4,T]W-,,%-,,%-,,% ,,,,,,,,,,,,,,,,,,,,,,,
@@ -127,8 +131,8 @@ PN,49606
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC6/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC6/31
 OL,2,T]W5h 55h 55hp5S||,||h|<,|4||   ||h|<,,
 OL,3,T]W5h"55h"55j/5S jwss1zubss
 OL,4,T]W-,,%-,,%-,,% ,,,,,,,,,,,,,,,,,,,,,,,
@@ -156,8 +160,8 @@ PN,49607
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC7/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC7/31
 OL,2,T]W5h 55h 55hp5S||,||h|<,|4||   ||h|<,,
 OL,3,T]W5h"55h"55j/5S jwss1zubss
 OL,4,T]W-,,%-,,%-,,% ,,,,,,,,,,,,,,,,,,,,,,,
@@ -185,8 +189,8 @@ PN,49608
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC8/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC8/31
 OL,2,T]W5h 55h 55hp5S||,||h|<,|4||   ||h|<,,
 OL,3,T]W5h"55h"55j/5S jwss1zubss
 OL,4,T]W-,,%-,,%-,,% ,,,,,,,,,,,,,,,,,,,,,,,
@@ -214,8 +218,8 @@ PN,49609
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC9/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Wppp0ppp0ppp0 pppppppppppppppppppC9/31
 OL,2,T]W5h 55h 55hp5S||,||h|<,|4||   ||h|<,,
 OL,3,T]W5h"55h"55j/5S jwss1zubss
 OL,4,T]W-,,%-,,%-,,% ,,,,,,,,,,,,,,,,,,,,,,,
@@ -243,8 +247,8 @@ PN,49610
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,Q]W  ,$,$    W\Q]R                F10/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,Q]W  ,$,$    W\Q]R                F10/31
 OL,2,Q]W  5j 5    W\Q] R+%{%j7/ju?jw1k7
 OL,3,Q]W  5j 5    W\Q] R/.%/*%/*-/*%/*-$*%
 OL,4,Q]W  5j 5    W\Q] Ffrom JOHANNESBURG
@@ -268,8 +272,8 @@ PN,49611
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T] 0                              C11/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T] 0                              C11/31
 OL,2,T]Rk4k4~k4  ~5  B
 OL,3,T]Rk4k4    j5   SUNDAY
 OL,4,T]Rz%z%oz%  ~}  G
@@ -296,8 +300,8 @@ PN,49612
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]                                C12/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]                                C12/31
 OL,2,T]Rk4k4~k4  ~5
 OL,3,T]Rk4k4    j5   SUNDAY
 OL,4,T]Rz%z%oz%  ~}  G
@@ -325,8 +329,8 @@ PN,49613
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]                                C13/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]                                C13/31
 OL,2,T]Rk4k4~k4  ~5  B
 OL,3,T]Rk4k4    j5   SUNDAY
 OL,4,T]Rz%z%oz%  ~}  G
@@ -354,8 +358,8 @@ PN,49614
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,Q]                                F14/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,Q]                                F14/31
 OL,2,Q]Sk4k4~k4  ~k4
 OL,3,Q]Sk4k4    x~%  CSUNDAY
 OL,4,Q]Sz%z%oz%  |4
@@ -380,8 +384,8 @@ PN,49615
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,Q]                                F15/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,Q]                                F15/31
 OL,2,Q]Sk4k4~k4  ~k4
 OL,3,Q]Sk4k4    x~%  CSUNDAY
 OL,4,Q]Sz%z%oz%  |4
@@ -408,8 +412,8 @@ PN,49616
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Spp`pp0p0p0                     C16/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Spp`pp0p0p0                     C16/31
 OL,2,T]Sj5"j5!j5      CLONDON
 OL,3,T]Sj5 j5 j5      GSunday evening
 OL,4,T]S## ##  #!
@@ -436,8 +440,8 @@ PN,49617
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Spp`pp0p0p0                     C17/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Spp`pp0p0p0                     C17/31
 OL,2,T]Sj5"j5!j5      CANGLIA
 OL,3,T]Sj5 j5 j5      GSunday evening
 OL,4,T]S## ##  #!
@@ -461,8 +465,8 @@ PN,49618
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Spp`pp0p0p0                     C18/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Spp`pp0p0p0                     C18/31
 OL,2,T]Sj5"j5!j5      CYORKSHIRE
 OL,3,T]Sj5 j5 j5      GSunday evening
 OL,4,T]S## ##  #!
@@ -484,8 +488,8 @@ PN,49619
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Spp`pp0p0p0                     C19/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Spp`pp0p0p0                     C19/31
 OL,2,T]Sj5"j5!j5      CCENTRAL
 OL,3,T]Sj5 j5 j5      GSunday evening
 OL,4,T]S## ##  #!
@@ -508,8 +512,8 @@ PN,49620
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Spp`pp0p0p0                     C20/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Spp`pp0p0p0                     C20/31
 OL,2,T]Sj5"j5!j5      CTVS
 OL,3,T]Sj5 j5 j5      GSunday evening
 OL,4,T]S## ##  #!
@@ -533,8 +537,8 @@ PN,49621
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]R|l4xl0|l0|h<| l4 ,,,,,,,,,,,,,,C21/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]R|l4xl0|l0|h<| l4 ,,,,,,,,,,,,,,C21/31
 OL,2,T]Rn1n5j5j5 j5G  Sunday March 14
 OL,3,T]R/*%/*%/.!/*-/ .- ,,,,,,,,,,,,,,,,,,,,
 OL,4,T]B  PROGRAMMES
@@ -560,8 +564,8 @@ PN,49622
 SC,0022
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]R|l4xl0|l0|h<| h<| ,,,,,,,,,,,,,C22/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]R|l4xl0|l0|h<| h<| ,,,,,,,,,,,,,C22/31
 OL,2,T]Rn1n5j5j5 h</G  Sunday March 14
 OL,3,T]R/*%/*%/.!/*-/ *-/ ,,,,,,,,,,,,,,,,,,,
 OL,4,T] BPROGRAMMES
@@ -590,8 +594,8 @@ PN,49623
 SC,0023
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]R|l4xl0|l0|h<| h<| ,,,,,,,,,,,,,C23/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]R|l4xl0|l0|h<| h<| ,,,,,,,,,,,,,C23/31
 OL,2,T]Rn1n5j5j5  ,wG  Sunday March 14
 OL,3,T]R/*%/*%/.!/*-/ *-/ ,,,,,,,,,,,,,,,,,,,
 OL,4,T]GPROGRAMMES
@@ -620,8 +624,8 @@ PN,49624
 SC,0024
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Rpp0pp0pp p`pp `0  ,,,,,,,,,,,,,C24/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Rpp0pp0pp p`pp `0  ,,,,,,,,,,,,,C24/31
 OL,2,T]Rn1n5j5j5 juuF GSunday March 14
 OL,3,T]R/*%/*%/.!/*-/   % ,,,,,,,,,,,,,,,,,,,
 OL,4,T]BMORNING AND AFTERNOON PROGRAMMES
@@ -649,8 +653,8 @@ PN,49625
 SC,0025
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1773506568
-OL,1,T]Rpp0pp0pp p`pp `0  ,,,,,,,,,,,,,C25/25
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Rpp0pp0pp p`pp `0  ,,,,,,,,,,,,,C25/31
 OL,2,T]Rn1n5j5j5 juuG  Sunday March 14
 OL,3,T]R/*%/*%/.!/*-/   % ,,,,,,,,,,,,,,,,,,,
 OL,4,T]BAFTERNOON AND EVENING PROGRAMMES
@@ -672,5 +676,169 @@ OL,20,     FMusic Hall reminiscences
 OL,21,11.00BEPILOGUE
 OL,22,11.15BINSIDE PARLIAMENT
 OL,23,12.00BNEWS            D]BFromG14-03-82
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49626
+SC,0026
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Spp                             C26/31
+OL,2,T]Sj5h<|  h<| $h<| |x4j= h<|h<|h4 |h<$
+OL,3,T]Sj5jws 0jws 0jws ~o4ju j5jwsjuub{5
+OL,4,T]
+OL,6, Over the past few months, engineers
+OL,7, have been working on theCCEEFAX
+OL,8, computer system.
+OL,10,FThey have now completed the final stage
+OL,11,Fof this work. The BBC now has the most
+OL,12,Fadvanced teletext system in the world.
+OL,13,F
+OL,14,FThere are still a few checks to be
+OL,15,Fmade but our system should now be more
+OL,16,Fefficient and flexible.
+OL,17,F
+OL,18,FFor you, the system will be more
+OL,19,Freliable and there will be new features
+OL,20,Fwhich will be appearing before long.
+OL,21,F
+OL,22,F
+OL,23,T]CFrom 14-03-82 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49627
+SC,0027
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]Spp                             C27/31
+OL,2,T]Sj5h<|  h<| $h<| |x4j= h<|h<|h4 |h<$
+OL,3,T]Sj5jws 0jws 0jws ~o4ju j5jwsjuub{5
+OL,4,T]
+OL,6, Two American companies are to hold
+OL,7, talks about a joint venture to provide
+OL,8, a national teletext service in the US.
+OL,10,FField Electronic Publishing of Chicago
+OL,11,Fand Satellite Syndicated Systems of
+OL,12,FTulsa, Oklahoma, intend to offer the
+OL,13,Fservice to 18,500,000 homes.
+OL,15,FIt would also be available to cable
+OL,16,Fsubscribers with a teletext decoder.
+OL,17,FThe new magazine wjll be demonstrated
+OL,18,Fin Las Vegas in May.
+OL,20,FField's teletext service is led by two
+OL,21,Fformer members of the Ceefax team.
+OL,23,T]CFrom 15-03-82 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49628
+SC,0028
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]S                               C28/31
+OL,2,T]S##h<|  h<| $h<| |x4j=   sh<$
+OL,3,T]S  jws 0jws 0jws ~o4ju   b{5000
+OL,4,T]S
+OL,7, Qk7h<4h<4|h4sh<$sh<4|lV 0Q"!|lh4|j=
+OL,8, Qj5jw1jw1oz%b{5ju5jV"'Q  sh7}ju
+OL,9, V(,,,,,,,,                  ,,,,,,,,,
+OL,10,                  T|||||||||||||||||||||
+OL,11,                  T//////////////////
+OL,12,                  TV
+OL,13,S] DUP-TO-THE-MINUTE NEWS...      V]
+OL,14, V] DTHE LATEST SPORT, INCLUDING
+OL,15,SQS] DFOOTBALL AND RACING RESULTS...V]
+OL,16,S  V]CDFINANCE FACTS AND FIGURES.....
+OL,17,    S] DCONSUMER ADVICE...FUN AND     V]
+OL,18,     V] DGAMES...ENTERTAINMENT GUIDE...
+OL,19,      C] DAND A GREAT DEAL MORE........
+OL,20,                  TV
+OL,21,                  TV/////////////////
+OL,22,                  T
+OL,23,                  Tsssssssssssssssssssss
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49629
+SC,0029
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]S                               C29/31
+OL,2,T]S##h<|  h<| $h<| |x4j=   sh<$
+OL,3,T]S  jws 0jws 0jws ~o4ju   b{5000
+OL,4,T]S
+OL,5,MC....an extra signal broadcast along
+OL,7,MCwith the television picture on each
+OL,9,MCchannel and translated into text on
+OL,11,MCyour screen by a decoder.
+OL,14,T]                    T\
+OL,15, ..........T] GBBC1Q/ Q\C[FCEEFAX 1
+OL,16,VT]        T\
+OL,17,VT] GBBC2Q/ Q\C[FCEEFAX 2
+OL,18,VT]        T\
+OL,19,VT] GITV Q/ Q\C[FOracle
+OL,20,VT]        T\
+OL,21,VT]QZ  \
+OL,22,VT]QZ  \
+OL,23,VT]QZ  \
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49630
+SC,0030
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]S                               C30/31
+OL,2,T]S##h<|  h<| $h<| |x4j=   sh<$
+OL,3,T]S  jws 0jws 0jws ~o4ju   b{5000
+OL,4,T]
+OL,6,T///////////////// C...pages of
+OL,7,TVCEEFAXT~ Cinformation
+OL,8,TVT~ CsummonedFby
+OL,9,TVT~ FyouCto your
+OL,10,TVT Ctv screen at
+OL,11,TVT Cthe touch of
+OL,12,TVT Cnumbered keys
+OL,13,TVT Con a remote-
+OL,14,TVT Ccontrol pad.
+OL,15,TV///////////////T
+OL,16,T FYouCchoose
+OL,17,                  HH^  G CIwhat to read
+OL,18,                  HH^G   CIand when to
+OL,19,CTHE BBC       Q]       Q\Cread it...
+OL,20,CTELETEXT      Q]G1 2 3 G\C\
+OL,21,CSERVICE       Q]       Q\C\
+OL,22,CIS CALLED     Q]G4 5 6 G\
+OL,23, CEEFAX        Q]       Q\
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49631
+SC,0031
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1773512320
+OL,1,T]S                               C31/31
+OL,2,T]S##h<|  h<| $h<| |x4j=   sh<$
+OL,3,T]S  jws 0jws 0jws ~o4ju   b{5000
+OL,4,T]S
+OL,5,                Tppppppppppppppppppppppp
+OL,6,F...a wide T    R||,||h|<,|4||   ||h|<,,
+OL,7,Frange of  T    R jwss1zubss
+OL,8,Finformation:   T,,,,,,,,,,,,,,,,,,,,,,,
+OL,9,  T                  V |,$|,|h<l4|,|(l<$
+OL,10,Finternational        V/l4,/j5j5,? j5
+OL,11,Fnews to   T          V,.%/  *-.%/ / *%
+OL,12,Fmotorway  T  ,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,13,Ftrouble-  T Q##j5##juz5#jws1jj5ss
+OL,14,Fspots...  T Q/,,*% / (,.%/ /*-,$/..%,,/
+OL,15,Ffootball  T  ##########################
+OL,16,Fscores to          Rh|||||||||||||||||4
+OL,17,Fshare prices...    Rj} ~ $z $j 5j l5j5
+OL,18,Ftv and radio       Rjppuzpuztp~psur{5
+OL,19,Fprogrammes to      R"#################!
+OL,20,Ffood prices...    T ]W  444    t4    S
+OL,21,Fweather forecastsT  ]W  555w5s5575w57
+OL,22,Fto brain teasers...T]W  --%-$-%%%%-$%
 OL,24,ANext PageBT'text FilesCRewindFReg Radio
 FL,497,190,120,250,0,100
