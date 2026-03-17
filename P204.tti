@@ -1,27 +1,25 @@
 PN,20400
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1773720273
+OL,0,        ECIMSBWebfax 2   F204A1773723888
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for MON 16 MAR
-OL,4,G0100FBBC R4 Joins BBC World Service
-OL,5,G0500FNews Summary
-OL,6,G0504FYesterday in Parliament
-OL,7,     GAlicia McCarthy reports as MPs
-OL,8,     Gquestion the government about
-OL,9,     Gefforts to reopen the Strait of
-OL,10,     GHormuz.
-OL,11,G0534FShipping Forecast
-OL,12,G0543FPrayer for the Day
-OL,13,     GA reflection and prayer to start
-OL,14,     Gthe day with Father Martin Magill.
-OL,15,G0545FFarming Today
-OL,16,     GAs the war in the Middle East
-OL,17,     Gcontinues to push up prices, the
-OL,18,     Ggovernment pledges #53 million to
-OL,19,     Ghelp vulnerable rural households
-OL,20,     Gstruggling to pay for heating oil.
+OL,4,G0504FYesterday in Parliament
+OL,5,     GAlicia McCarthy reports as MPs
+OL,6,     Gquestion the government about
+OL,7,     Gefforts to reopen the Strait of
+OL,8,     GHormuz.
+OL,9,G0534FShipping Forecast
+OL,10,G0543FPrayer for the Day
+OL,11,     GA reflection and prayer to start
+OL,12,     Gthe day with Father Martin Magill.
+OL,13,G0545FFarming Today
+OL,14,     GAs the war in the Middle East
+OL,15,     Gcontinues to push up prices, the
+OL,16,     Ggovernment pledges #53 million to
+OL,17,     Ghelp vulnerable rural households
+OL,18,     Gstruggling to pay for heating oil.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
