@@ -1,7 +1,7 @@
 PN,1fc00
 SC,0000
 PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1773765962
+OL,0,        ECIMSBWebfax 2   F1fcA1773769570
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,8 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1773765957;
-OL,10,GService: Webfax 2 - 12593 58590a8a2
-OL,11,FLast Update: 17/03/2026 16:45:57      
-OL,13,Ageneric/pollen_forecast    G17/03-16:45
-OL,14,Ageneric/tube_status        G17/03-16:45
+OL,25,1773769570;
+OL,10,GService: Webfax 2 - 12594 3902bab20
+OL,11,FLast Update: 17/03/2026 17:46:10      
+OL,13,Ageneric/lottery            G17/03-16:46
+OL,14,Ageneric/pollen_forecast    G17/03-16:45
+OL,15,Ageneric/tube_status        G17/03-16:45
