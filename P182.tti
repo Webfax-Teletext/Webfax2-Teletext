@@ -2,7 +2,7 @@ PN,18201
 SC,0001
 CT,8,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F182A1774228187
+OL,0,        ECIMSBWebfax 2   F182A1774231445
 OL,1,Vk5k5~# k5                       G1/4
 OL,2,Vk4k4  j5GMONDAY
 OL,3,Vz5z5p j5G2000-0055
@@ -30,7 +30,7 @@ PN,18202
 SC,0002
 CT,8,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F182A1774228187
+OL,0,        ECIMSBWebfax 2   F182A1774231445
 OL,1,Vk5k5~# #                       G2/4
 OL,2,Vk4k4  #GMONDAY
 OL,3,Vz5z5p pG1930-0010
@@ -58,7 +58,7 @@ PN,18203
 SC,0003
 CT,8,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F182A1774228187
+OL,0,        ECIMSBWebfax 2   F182A1774231445
 OL,1,Vk7j5                              G3/4
 OL,2,Vj5j7}bs}j77}jwhsGMONDAY/TUESDAY
 OL,3,Vj5j5juj55*up`pG1900-0530
@@ -82,7 +82,7 @@ PN,18204
 SC,0004
 CT,8,C
 PS,c008
-OL,0,        ECIMSBWebfax 2   F182A1774228187
+OL,0,        ECIMSBWebfax 2   F182A1774231445
 OL,1,V~#j5             j5              G4/4
 OL,2,V j7}bs}j7}j7}jwj5 xtGMONDAY
 OL,3,Vpj5juj5j5*upj5  j5G1700-0125
@@ -99,6 +99,7 @@ OL,16,C2255GDisabling World: A Is For Autism
 OL,18,C2310GDisabling World: A Different Hand
 OL,19,C2355GChannel 4 News: Midnight Special
 OL,20,C0155-0225GTonight with Jonathan Ross
+OL,22,V]D This Ceefax page is from 23-03-92
 OL,23,F]D Much more at: teletextarchive.com
 OL,24,ANext PageBT'text FilesCRewindFReg Radio
 FL,183,190,120,250,0,100
