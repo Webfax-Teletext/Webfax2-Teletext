@@ -1,7 +1,7 @@
 PN,20400
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1774916455
+OL,0,        ECIMSBWebfax 2   F204A1774926264
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for MON 30 MAR
@@ -17,8 +17,10 @@ OL,12,G0543FPrayer for the Day
 OL,13,     GRadio 4's daily prayer and
 OL,14,     Greflection.
 OL,15,G0545FFarming Today
-OL,16,     GThe latest news about food,
-OL,17,     Gfarming and the countryside.
+OL,16,     GAs livestock marts report a
+OL,17,     Grecord turnover for last year,
+OL,18,     Ghow much longer can high prices
+OL,19,     Gfor beef and sheep last?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
