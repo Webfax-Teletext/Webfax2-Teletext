@@ -2,7 +2,7 @@ PN,49601
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
+OL,0,        ECIMSBWebfax 2   F496A1775044735
 OL,2,R    hhhlhh hlhl <$ 444<4l$<4444<4<$
 OL,3,R    *>jjjj jnj.4=$ 555=5j 5 =555554
 OL,4,R     %*.*. *** %-$ --%%%* -%%%%%%-%
@@ -18,13 +18,13 @@ OL,22,R
 OL,23,B]D Much more at: teletextarchive.com
 OL,24,AInfo  BT'text Files CRewind  FNat Radio
 FL,497,180,120,200,8ff,100
-OL,1,                                   G1/12
+OL,1,                                   G1/27
 PN,49602
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/27
 OL,2,Rwss5Wj =5=  5j$5j$j =bw 5 j$55j$m
 OL,3,R-,,%W* %%-  %*$-*$* -** % * %-*$.
 OL,4,R]D   The past as reported on teletext
@@ -32,8 +32,9 @@ OL,6,MON THIS DAY: 1st April
 OL,7,T
 OL,9,B1991 CEEFAX RECOVERY by Tim Bisley
 OL,10, 181FThe day's main news stories
-OL,11, 182F
-OL,12, 183F
+OL,11, 182FBBC One and BBC Two schedules
+OL,12, 183FITV (Lon) and Channel 4 schedules
+OL,13, 184FNational BBC Radio schedules
 OL,23,R]D Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
 FL,200,120,140,250,8ff,100
@@ -41,8 +42,8 @@ PN,49603
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vj5       j5($                   G3/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vj5       j5($                   G3/27
 OL,2,Vk5{5s{4~k5j5k5{5~s################
 OL,3,Vj5op0z5z5j5j5op0p`ppppppppppppppp
 OL,4,T       G
@@ -65,8 +66,8 @@ PN,49604
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                               G4/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                               G4/27
 OL,2,Vj5{5jj5~sGKURDS FLEE AS IRAQI TROOPS
 OL,3,Vj5op0ozz5pGTAKE KEY CITIES
 OL,5, Thousands of Kurdish civilians are
@@ -92,8 +93,8 @@ PN,49605
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                               G5/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                               G5/27
 OL,2,Vj5{5jj5~sGSADDAM'S TROOPS "CONTROL
 OL,3,Vj5op0ozz5pGSOUTH-WESTERN IRAQ"
 OL,4,D
@@ -119,8 +120,8 @@ PN,49606
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                               G6/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                               G6/27
 OL,2,Vj5{5jj5~sGROGERS HERALDS BATTLE FOR
 OL,3,Vj5op0ozz5pGSTATE EDUCATION
 OL,5, Teachers are facing a battle for the
@@ -146,8 +147,8 @@ PN,49607
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                               G7/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                               G7/27
 OL,2,Vj5{5jj5~sGTEACHERS "DEMORALISED"
 OL,3,Vj5op0ozz5pGWARNS UNION
 OL,4,D
@@ -175,8 +176,8 @@ PN,49608
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                               G8/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                               G8/27
 OL,2,Vj5{5jj5~sGBRITAIN MAY HIT BOTTOM
 OL,3,Vj5op0ozz5pGOF RECESSION SOON
 OL,4,D
@@ -204,8 +205,8 @@ PN,49609
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                               G9/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                               G9/27
 OL,2,Vj5{5jj5~sGLABOUR WARNS OF FURTHER
 OL,3,Vj5op0ozz5pGREDUNDANCIES
 OL,4,D
@@ -232,8 +233,8 @@ PN,49610
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                              G10/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                              G10/27
 OL,2,Vj5{5jj5~sGALBANIAN COMMUNISTS
 OL,3,Vj5op0ozz5pGCLAIM VICTORY
 OL,4,D
@@ -260,8 +261,8 @@ PN,49611
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                              G11/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                              G11/27
 OL,2,Vj5{5jj5~sGOPPOSITION CROWDS
 OL,3,Vj5op0ozz5pGDISPERSED IN ALBANIA
 OL,5, Police have dispersed large crowds
@@ -288,8 +289,8 @@ PN,49612
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775004736
-OL,1,Vk4                              G12/12
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk4                              G12/27
 OL,2,Vj5{5jj5~sGFOUR DIE IN BANK
 OL,3,Vj5op0ozz5pGHOLIDAY PILE-UP
 OL,4,D
@@ -309,5 +310,400 @@ OL,19,Fhospital for facial, leg and chest
 OL,20,Finjuries. Thames Valley police promised
 OL,21,Fa full inquiry into the accident.
 OL,23,D]FFromG01-04-91F/ teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49613
+SC,0013
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5k5~# k5                      G13/27
+OL,2,Vk4k4  j5GMONDAY
+OL,3,Vz5z5p j5G1400-1815
+OL,4, C
+OL,5,C1400GFILM: CUSTER OF THE WESTA
+OL,6,C    FBiopic of General Custer, starring
+OL,7,     FRobert Shaw
+OL,8,C1615GDISNEY TIME
+OL,9,F     Phillip Schofield with clips of
+OL,10,     FDisney's world of myth and magic
+OL,11,C1655GFINAL SCORE
+OL,12,C    FFootball results and the closing
+OL,13,     Fstages of the Irish Grand National
+OL,14,C1710GNEWSFandGWEATHER
+OL,15,C1720GREGIONAL NEWSFandGWEATHER
+OL,16,C1725GNEIGHBOURSA
+OL,17,C1745GDAYLIGHT ROBBERY 2A
+OL,18,     FCan the shrewd squirrels outwit
+OL,19,     Fhuman opponents, in the battle to
+OL,20,     Fconquer squirrel-proof feeders?
+OL,22,V]DFrom 01-04-91       888 SubtitlesA
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49614
+SC,0014
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5k5~# k5                      G14/27
+OL,2,Vk4k4  j5GMONDAY
+OL,3,Vz5z5p j5G1815-0105
+OL,5,C1815GFILM: BATTERIES NOT INCLUDEDA
+OL,6,     FSteven Spielberg fantasy with Hume
+OL,7,     FCronyn and Jessica Tandy
+OL,8,C2000GFORSYTH'S SHOWA
+OL,9,     Fwith Shirley Bassey, Linda Lusardi
+OL,10,     FKenneth Connor and Jose Carreras
+OL,11,C2055GNEWSAF
+OL,12,C    GREGIONAL NEWSFandGWEATHER
+OL,13,C2115GFILM: FATAL BEAUTYA
+OL,14,     FThriller with Whoopi Goldberg
+OL,15,C2255GUK DANCE CHAMPIONSHIPS
+OL,16,     CNew seriesFAngela Rippon presents
+OL,17,     Fthe Amateur Latin Championship
+OL,18,C2335GFILM: GHOST STORYA
+OL,19,     FHorror in a spooky country house
+OL,20,C0100-0105GWEATHERFandGCLOSE
+OL,22,V]DFrom 01-04-91       888 SubtitlesA
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49615
+SC,0015
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5k5~# #                      G15/27
+OL,2,Vk4k4  #GEASTER MONDAY
+OL,3,Vz5z5p pG1540-0110
+OL,5,C1540GTHEATRE NIGHT: OTHELLOA
+OL,6,     FAcclaimed 1989 production by the
+OL,7,     FRoyal Shakespeare Company of the
+OL,8,     Ftragic masterpiece (includes
+OL,9,      INTERVALFatC1720)
+OL,10,C1910GWORLD FIGURE SKATING GALA
+OL,11,     FFinale from Munich's Olympiahalle
+OL,12,C2000GDON GIOVANNI
+OL,13,     FControversial director Peter
+OL,14,     FSellars' version of Mozart's dark
+OL,15,     Fopera, about rape and murder in
+OL,16,     FSpanish Harlem
+OL,17,C2305GWEATHERVIEW
+OL,18,C2310-0110GFILM: THE TURNING POINT
+OL,19,     FShirley MacLaine and Anne Bancroft
+OL,20,   F  in this ballet story
+OL,22,V]DFrom 01-04-91       888 SubtitlesA
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49616
+SC,0016
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk7j5                             G16/27
+OL,2,Vj5j7}bs}j77}jwhwsGEASTER MONDAY
+OL,3,Vj5j5juj55*up`pG0530-1900
+OL,5,C0530GMorning News   C0600GTV-am
+OL,6,C0925GLucky Ladders  C0955GCartoon
+OL,8,C1000GMonster Trucks C1040GThe New
+OL,9,      Racing to the        Adventures of
+OL,10,      Finish               He-Man
+OL,12,C1230GNews; Weather  C1240GHome and Away
+OL,14,C1310GRun the GaunletC1410GFilm: The
+OL,15,      Alpine               Love Bug
+OL,16,      Challenge
+OL,18,C1610GHome and Away  C1640GNews; Weather
+OL,20,C1645GThames News    C1650GThe Match
+OL,22,F]D This Ceefax page is from 01-04-91
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49617
+SC,0017
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk7j5                             G17/27
+OL,2,Vj5j7}bs}j77}jwhwsGEASTER MONDAY/TUES
+OL,3,Vj5j5juj55*up`pG1900-0530
+OL,5,C1900GSue Lawley
+OL,6,C1930GCoronation Street
+OL,8,C2000GFilm: Live and Let Die
+OL,10,C2215GNews and Weather
+OL,11,C2230GThames News and Weather
+OL,13,C2235GSomewhere to Run
+OL,14,C0005GThe New Avengers
+OL,16,C0100GSportsworld Extra
+OL,17,C0200GFilm: That Riviera Touch
+OL,18,C
+OL,19,C0400GMystery Theatre
+OL,20,C0430-0530GBedrock
+OL,22,F]D This Ceefax page is from 01-04-91
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49618
+SC,0018
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,V~#j5             j5             G18/27
+OL,2,V j7}bs}j7}j7}jwj5 xtGEASTER MONDAY
+OL,3,Vpj5juj5j5*upj5  j5G0600-1830
+OL,5,C0600GThe Channel Four Daily
+OL,7,C0925GFilm: The Gold Rush
+OL,8,C1045GFilm: Modern Times
+OL,10,C1220GDolphins
+OL,12,C1230GNoah's Ark
+OL,13,C1300GSesame Street
+OL,15,C1400GShort Stories: Brendan's Boys
+OL,17,C1430GChannel 4 Racing
+OL,18,C1630GFifteen-to-One
+OL,20,C1700GFilm: I Married a Witch
+OL,22,F]D This Ceefax page is from 01-04-91
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49619
+SC,0019
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,V~#j5             j5             G19/27
+OL,2,V j7}bs}j7}j7}jwj5 xtGMONDAY
+OL,3,Vpj5juj5j5*upj5  j5G1830-0220
+OL,5,C1830GTonight With Jonathan Ross
+OL,7,C1900GNews SummaryFfollowed byGLisa
+OL,8,      Stansfield - All Around the World
+OL,10,C2000GBrookside
+OL,12,C2030GMy Two Dads
+OL,14,C2100GChasing Shadows
+OL,16,C2200GShort and Curlies: The Childeater
+OL,18,C2215GFilm: A Handful of Dust
+OL,20,C0030-0220GFilm: The Blue Dhalia
+OL,22,F]D This Ceefax page is from 01-04-91
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49620
+SC,0020
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5    j5,    k5                 G20/27
+OL,2,Vk4s{4~k5j7 j5GEASTER MONDAY
+OL,3,Vj5z5z5ju j5G0500-0200
+OL,5,C0500GGary King
+OL,6,C0700GPhillip SchofieldFwith the Top 40
+OL,7,C0900GSimon Bates Solid Gold
+OL,8,C1230GNewsbeat
+OL,9,C1235GGary's Easter Egg-in
+OL,10,C1400GI've Got to Sing My SingFOleta
+OL,11,     FAdams looks back on her past year
+OL,12,C1500GSteve WrightFBest of Guests 91
+OL,13,C1730GNews 91
+OL,14,C1735GInstant Juke BoxFCall 071 637 4343
+OL,15,     Fyour favourite song
+OL,16,C1930GIn ConcertFThe Rolling Stones on
+OL,17,     Fthe Urban Jungle Tour at Wembley
+OL,18,C2200GNicky CampbellFGoes into the Night
+OL,19,C2400-0200GBob HarrisFwith An Emotional
+OL,20,     FFish in session
+OL,22,FNews: Every hour on the half-hour
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49621
+SC,0021
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5    j5,    # j7!k7         G21/27
+OL,2,Vk4s{4~k5j7 # j7 j5GEASTER MONDAY
+OL,3,Vj5z5z5ju p j5 j5G0400-1900
+OL,5,C0400GAlex LesterFwith the Early Show
+OL,6,C0705GGraham KnightFstarts your day
+OL,7,C0900GKen BruceFplays your favourite
+OL,8,    F music for two hours
+OL,9,C1100GGloria HunnifordFpresents her
+OL,10,    F programme live from Hull at the
+OL,11,     Flaunch of the first 1991 broadcast
+OL,12,     Fof Radio Goes To Town
+OL,13,C1300GHappy Times...A Portrait of Danny
+OL,14,      KayeFFour years after his death
+OL,15,     FMark Wynter celebrates the life
+OL,16,     Fand career of the great
+OL,17,     Fentertainer
+OL,18,C1400GBrian MatthewFmusic and memories
+OL,19,C1600GKenny BallFfavourite records
+OL,20,C1700GJohn DunnFwith tonight's 'after
+OL,21,     Fsix' guest, Michael Pennington
+OL,23,V]DFrom 01-04-91 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49622
+SC,0022
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5    j5,    # j7!k7         G22/27
+OL,2,Vk4s{4~k5j7 # j7 j5GMONDAY
+OL,3,Vj5z5z5ju p j5 j5G1900-0400
+OL,5,C1900GThe Great MusicalsCNew SeriesFEach
+OL,6,     Fweek Gordon Clyde tells the story
+OL,7,     Fof one of this century's most
+OL,8,    F popular musicals
+OL,9,C1930GAlan DellFwith Dance Band Days
+OL,10,C2000GBilly MayFrecalls his early days
+OL,11,     Fas a trumpet player and arranger
+OL,12,     Fwith top American bands of the 40s
+OL,13,C2100GNancy WilsonFin concert with the
+OL,14,     FCount Basie Orchestra
+OL,15,C2200GChris StuartFlate night music and
+OL,16,     Fconversation
+OL,17,C0005GJazz ParadeFPeter Clayton presents
+OL,18,     Fclassic jazz played by Chris
+OL,19,     FBlount's New Orleans Jazz Band
+OL,20,C0035GBill RennellsFwith Night Ride
+OL,21,C0300GA Little Night Music
+OL,22,     F
+OL,23,V]DFrom 01-04-91 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49623
+SC,0023
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5    j5,    #                 G23/27
+OL,2,Vk4s{4~k5j7 "GEASTER MONDAY
+OL,3,Vj5z5z5ju pG1440-0035
+OL,5,C1440GConcert from HalifaxFNicolai,
+OL,6,     FWeber, Mahler
+OL,7,C1645GDinu LipattiFDomenico Scarlatti,
+OL,8,     FChopin, Schubert
+OL,9,C1705GHansel und GretelFEngelbert
+OL,10,     FHumperdinck opera
+OL,11,C1900GNews
+OL,12,C1905GThird EarFPaul Cox talks about his
+OL,13,C    Ffilms' autobiographical nature
+OL,14,C1930GBournemouth SinfoniettaFVivaldi,
+OL,15,     FMalcolm Arnold, Haydn, Bach,
+OL,16,C2045GEnescu and Prokofiev
+OL,17,C2140GBach and LutherFMusic from Bach's
+OL,18,     FClavierubung III
+OL,19,C2230GMixing ItFA musical mixture
+OL,20,C2330GNews
+OL,21,C2335-0035GComposers of the WeekF
+OL,22,     FTchaikovsky
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49624
+SC,0024
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5    j5,                      G24/27
+OL,2,Vk4s{4~k5j7 `0GEASTER MONDAY
+OL,3,Vj5z5z5ju #k7G1200-1905
+OL,4,               R
+OL,5,C1200GYou and Yours
+OL,6,C1225GSlightly FoxedFWell-read literary
+OL,7,C    Fquiz with bookish guests
+OL,8,C1300GThe World at One
+OL,9,C1340GThe Archers
+OL,10,C1400GWoman's HourFtalks about family
+OL,11,     Fpolicy
+OL,12,C1500GRebeccaFDaphne du Maurier's
+OL,13,C    Fclassic story
+OL,14,C1630GKaleidoscopeFDark Nights In
+OL,15,     FBroadway - how the American
+OL,16,     Ftheatre is fighting for survival
+OL,17,C1700GPM
+OL,18,C1800GSix O'Clock News
+OL,19,C1830GThe News Quiz
+OL,20,C1900GNews
+OL,23,V]DFrom 01-04-91 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49625
+SC,0025
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5    j5,                      G25/27
+OL,2,Vk4s{4~k5j7 `0GEASTER MONDAY
+OL,3,Vj5z5z5ju #k7G1905-0030
+OL,5,C1905GThe ArchersC
+OL,6,C1920GThe Food ProgrammeFwith Derek
+OL,7,     FCooper
+OL,8,C1945GThe Monday PlayFThe Adonis Bird.
+OL,9,     FHarold is left in the lurch
+OL,10,C2100FFine Arts BrassCNew series
+OL,11,C2115GKaleidoscopeFlooks at the life of
+OL,12,     FFrench composer Olivier Messiaen
+OL,13,C2145GThe Financial World Tonight
+OL,14,C2200GThe World Tonight
+OL,15,C2245GA Book at BedtimeFThe Journal of a
+OL,16,     FDisappointed Man - WNP Barbellion
+OL,17,C2300GThe Million Pound Radio ShowF
+OL,18,C2330GAn Inland Donkey
+OL,19,C2345GSoldiers and InnocentsCNew series
+OL,20,     Fbased in a Welsh mining village
+OL,21,C2400-0030GNews
+OL,23,V]DFrom 01-04-91 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49626
+SC,0026
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5    j5,    #                 G26/27
+OL,2,Vk4s{4~k5j7 #GEASTER MONDAY
+OL,3,Vj5z5z5ju pG0600-1920
+OL,5,C0600GWorld ServiceFNews and 24 Hours
+OL,6,C0630GMorning EditionFBreakfast show
+OL,7,     Fwith Sarah Ward and Jon Briggs
+OL,8,C0900GTake FiveFwith Caron Keating
+OL,9,C1025G1,2,3,4,5Fwith Ellie Darvill
+OL,11,C1040GThis Family BusinessFJoin Johnnie
+OL,12,     FWalker on 0345 909 693
+OL,13,C1230GLearn to EarnFCareers and training
+OL,14,C    Ffor the over-21's.
+OL,15,C1305G1,2,3,4,5FFor young children
+OL,17,C1320GPacked LunchFConversation with
+OL,18,     FChristopher Lee and guests
+OL,19,C1400GSport on 5FFootball, Racing, and
+OL,20,     FRugby League
+OL,23,V]DFrom 01-04-91 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49627
+SC,0027
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775044735
+OL,1,Vk5    j5,    #                 G27/27
+OL,2,Vk4s{4~k5j7 #GMONDAY
+OL,3,Vj5z5z5ju pG1920-2400
+OL,5,C1920GThe BFGFPart six of Roald Dahl's
+OL,6,     Fpopular story read by Michael
+OL,7,     FHordern eight parts
+OL,8,C1935GChronicles of Not Necessarily Lord
+OL,9,      AndrewFA comic ghost story with
+OL,10,C    FDerek Griffiths
+OL,11,C2005GTalking HistoryFChildhood memories
+OL,13,C2020GMega MixFYouth programme
+OL,14,C2050GFanshawe on Five
+OL,15,C2130GDragnetF1950's Dectective drama
+OL,16,C2210-2400GThe Extended MixFwith Mark
+OL,17,     FThomas
+OL,19,FSport News: 0705, 0805, 1100, 1202,
+OL,20,F1300, 1802, 2200, 2300 and 2400
+OL,23,V]DFrom 01-04-91 / teletextarchive.com
 OL,24,ANext PageBT'text FilesCRewindFReg Radio
 FL,497,190,120,250,0,100
