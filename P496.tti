@@ -2,7 +2,7 @@ PN,49601
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775862228
+OL,0,        ECIMSBWebfax 2   F496A1775940149
 OL,2,R    hhhlhh hlhl <$ 444<4l$<4444<4<$
 OL,3,R    *>jjjj jnj.4=$ 555=5j 5 =555554
 OL,4,R     %*.*. *** %-$ --%%%* -%%%%%%-%
@@ -18,29 +18,501 @@ OL,22,R
 OL,23,B]D Much more at: teletextarchive.com
 OL,24,AInfo  BT'text Files CRewind  FNat Radio
 FL,497,180,120,200,8ff,100
-OL,1,                                   G1/2
+OL,1,                                   G1/18
 PN,49602
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F496A1775862228
-OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/2
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/18
 OL,2,Rwss5Wj =5=  5j$5j$j =bw 5 j$55j$m
 OL,3,R-,,%W* %%-  %*$-*$* -** % * %-*$.
 OL,4,R]D   The past as reported on teletext
 OL,6,MON THIS DAY: 11th April
 OL,7,T
-OL,9,FNo teletext pages are available yet for
-OL,10,Fthis date.
-OL,12,BThe Teletext FilesFis where we present
-OL,13,Fnews articles, TV/radio listings and
-OL,14,Fother material from teletext pages
-OL,15,Frecovered from old domestic off-air
-OL,16,Frecordings on VHS and Betamax tape.
-OL,18,FFeatured services: Ceefax, ORACLE,
-OL,19,FTeletext (Ltd) and Aertel.
-OL,21,FThis project is a collaboration with
-OL,22,BThe Teletext Archive.
-OL,23,Rppppppppppppppppppppppppppppppppppppppp
+OL,9,B1993 CEEFAX RECOVERY by Tim Bisley
+OL,10,G181FThe day's main news stories
+OL,11,G182FBBC TV, ITV (Lon) and C4 schedules
+OL,23,R]D Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
 FL,200,120,140,250,8ff,100
+PN,49603
+SC,0003
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C3/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/| THE
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pFHEADLINES
+OL,4,T7#####################################k
+OL,5,T5FHANI MEMORIAL: ONE CONFIRMED DEAD  Tj
+OL,6,T5GSouth African police open fire F155Tj
+OL,7,T5GViolence spreads through nationF156Tj
+OL,8,T5GHani murder weapon identified  F157Tj
+OL,9,T5F                                   Tj
+OL,10,T5FULSTERGChurch welcomes talks   F113Tj
+OL,11,T5GAdams hits back at criticism   F131Tj
+OL,12,T5G                                   Tj
+OL,13,T5FBOSNIAGNo talks after killings F161Tj
+OL,14,T5F                                   Tj
+OL,15,T5FSCHOOLSGNew call to drop tests F111Tj
+OL,16,T5F                                   Tj
+OL,17,T5FLATESTGUK tourist killed in US F166Tj
+OL,18,T-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+OL,19,T<,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l
+OL,20,T5C Stay tuned for the stories behind Tj
+OL,21,T5C  these headlines - coming upH>>>I Tj
+OL,22,T5FFromG11-04-93F/ teletextarchive.comTj
+OL,23,T-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49604
+SC,0004
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C4/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
+OL,4,T7#####################################k
+OL,5,T5FONE CONFIRMED DEAD IN SOUTH AFRICA Tj
+OL,6,T5GSouth African police have confirmedTj
+OL,7,T5Gthey have shot dead one person at aTj
+OL,8,T5Gmemorial service for murdered blackTj
+OL,9,T5Gleader Chris Hani.                 Tj
+OL,10,T5F                                   Tj
+OL,11,T5FThere are unconfirmed reports that Tj
+OL,12,T5Fthree people were killed in the    Tj
+OL,13,T5Fblack township of Soweto where the Tj
+OL,14,T5Fshooting took place.               Tj
+OL,15,T5F                                   Tj
+OL,16,T5FThere are also reports of attacks  Tj
+OL,17,T5Fon whites following Mr Hani's deathTj
+OL,18,T5F                                   Tj
+OL,19,T5FTwo white people were reportedly   Tj
+OL,20,T5Fset on fire and killed near Cape   Tj
+OL,21,T5FTown. A third had part of his      Tj
+OL,22,T5Ftongue cut off.                    Tj
+OL,23,T-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49605
+SC,0005
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C5/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
+OL,4,T7#####################################k
+OL,5,T5FVIOLENT PROTESTS AFTER HANI MURDER Tj
+OL,6,T5GViolence has been spreading in     Tj
+OL,7,T5GSouth Africa following the murder  Tj
+OL,8,T5Gof Communist party chief Chris HaniTj
+OL,9,T5                                     j
+OL,10,T5FGunmen have opened fire on two carsTj
+OL,11,T5Fcarrying white civilians on the    Tj
+OL,12,T5Fmain highway near Johannesburg.    Tj
+OL,13,T5F                                   Tj
+OL,14,T5FAnd a black policeman has been     Tj
+OL,15,T5Fkilled by gunmen in the township ofTj
+OL,16,T5FTembisa.                           Tj
+OL,17,T5                                     j
+OL,18,T5FLast night at least one house and  Tj
+OL,19,T5Fa car were set alight in the black Tj
+OL,20,T5Ftownship of Khayelitsa near Cape   Tj
+OL,21,T5FTown.                              Tj
+OL,22,Tupppppppppppppppppppppppppppppppppppppz
+OL,23,D]FFromG11-04-93F/ teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49606
+SC,0006
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C6/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
+OL,4,T7#####################################k
+OL,5,T5FPEACE TALKS WILL GO ON - DE KLERK  Tj
+OL,6,T5GSouth Africa's President FW de     Tj
+OL,7,T5GKlerk has said the killing of ChrisTj
+OL,8,T5GHani will not disrupt the peace    Tj
+OL,9,T5Gprocess.                           Tj
+OL,10,T5F                                   Tj
+OL,11,T5FHe said the murder may have been   Tj
+OL,12,T5Fcarried out "to upset the talks    Tj
+OL,13,T5Fprocess".                          Tj
+OL,14,T5F                                   Tj
+OL,15,T5FSpeaking on state television, Mr deTj
+OL,16,T5FKlerk offered to use the police    Tj
+OL,17,T5Fforce to upgrade the security of   Tj
+OL,18,T5Fhigh profile politicians.          Tj
+OL,19,T5F                                   Tj
+OL,20,T5FHe urged political leaders to      Tj
+OL,21,T5Fencourage calm among supporters.   Tj
+OL,22,Tupppppppppppppppppppppppppppppppppppppz
+OL,23,D]FFromG11-04-93F/ teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49607
+SC,0007
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C7/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
+OL,4,T7#####################################k
+OL,5,T5FGUN USED TO KILL HANI IDENTIFIED   Tj
+OL,6,T5GThe gun used to assassinate Chris  Tj
+OL,7,T5GHani was part of a consignment of  Tj
+OL,8,T5Gweapons stolen from the South      Tj
+OL,9,T5GAfrican air force.                 Tj
+OL,10,T5F                                   Tj
+OL,11,T5FSouth African Police Commissioner  Tj
+OL,12,T5FJohan Van der Merwe said a right-  Tj
+OL,13,T5Fwing group had been implicated in  Tj
+OL,14,T5Fthe theft of the weapons.          Tj
+OL,15,T5F                                   Tj
+OL,16,T5FHe said a hit-list of South AfricanTj
+OL,17,T5Fleaders had been found on the man  Tj
+OL,18,T5Fsuspected of killing Chris Hani.   Tj
+OL,19,T5F                                   Tj
+OL,20,T5FIt was unclear whether the suspect Tj
+OL,21,T5Fbelonged to a right-wing group.    Tj
+OL,22,Tupppppppppppppppppppppppppppppppppppppz
+OL,23,D]FFromG11-04-93F/ teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49608
+SC,0008
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C8/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF HOME
+OL,4,T7#####################################k
+OL,5,T5FCHURCH WELCOMES ADAMS-HUME MEETING Tj
+OL,6,T5GThe head of the Catholic Church in Tj
+OL,7,T5GIreland has welcomed the talks heldTj
+OL,8,T5Gbetween SDLP leader John Hume and  Tj
+OL,9,T5GSinn Fein president Gerry Adams.   Tj
+OL,10,T5F                                   Tj
+OL,11,T5FCardinal Cahal Daly said he hoped  Tj
+OL,12,T5Fthey might lead the way to peace   Tj
+OL,13,T5Fand he praised Mr Hume's "courage" Tj
+OL,14,T5Fin taking a "political risk".      Tj
+OL,15,T5F                                   Tj
+OL,16,T5FArchbishop Dr Robin Eames, the     Tj
+OL,17,T5FChurch of Ireland Primate, reacted Tj
+OL,18,T5Fcautiously to the talks and said:  Tj
+OL,19,T5F"Hope is the name of the game."    Tj
+OL,20,T5F                                   Tj
+OL,21,Tupppppppppppppppppppppppppppppppppppppz
+OL,22,D] FThis Ceefax page is fromG11-04-93
+OL,23,D]F Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49609
+SC,0009
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,        C9/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF POLITICS
+OL,4,T7#####################################k
+OL,5,T5FADAMS HITS BACK AT TALKS CRITICISM Tj
+OL,6,T5GSinn Fein president Gerry adams hasTj
+OL,7,T5Ghit back at criticism of his talks Tj
+OL,8,T5Gwith the SDLP leader John Hume.    Tj
+OL,9,T5G                                   Tj
+OL,10,T5FMr Adams said reaction to the      Tj
+OL,11,T5Fmeeting had been uninformed. And heTj
+OL,12,T5Fsaid the response of the Catholic  Tj
+OL,13,T5FPrimate, Cardinal Cahal Daly, was  Tj
+OL,14,T5F"opportunistic".                   Tj
+OL,15,T5F                                   Tj
+OL,16,T5FMr Adams could not say how the IRA Tj
+OL,17,T5Fwould view the talks - he said he  Tj
+OL,18,T5Fdid not speak for them.            Tj
+OL,19,T5F                                   Tj
+OL,20,T5FCardinal Daly had said he hoped theTj
+OL,21,T5Ftalks between the two men would    Tj
+OL,22,T5Flead to a lasting peace.           Tj
+OL,23,T-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49610
+SC,0010
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,       C10/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
+OL,4,T7#####################################k
+OL,5,T5FNEW DEATHS AS BOSNIANS SPURN TALKS Tj
+OL,6,T5GFour people are reported to have   Tj
+OL,7,T5Gbeen killed and nine others hurt inTj
+OL,8,T5GSerb shelling around Srebrenica.   Tj
+OL,9,T5G                                   Tj
+OL,10,T5FThe Muslim-led Bosnian army has    Tj
+OL,11,T5Fsaid it will not attend Monday's   Tj
+OL,12,T5Fkey meeting with the Serb army.    Tj
+OL,13,T5F                                   Tj
+OL,14,T5FIts leaders have accused Serbs of  Tj
+OL,15,T5Fviolating the latest ceasefire     Tj
+OL,16,T5Faround blockaded Srebrenica.       Tj
+OL,17,T5F                                   Tj
+OL,18,T5FThey say they will not attend talksTj
+OL,19,T5Funless Serbs stop "combat" at leastTj
+OL,20,T5F24 hours before any pre-arranged   Tj
+OL,21,T5Fmeeting.                           Tj
+OL,22,Tupppppppppppppppppppppppppppppppppppppz
+OL,23,D]FFromG11-04-93F/ teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49611
+SC,0011
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,       C11/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF HOME
+OL,4,T7#####################################k
+OL,5,T5FNEW CALL TO DROP SCHOOL TESTING    Tj
+OL,6,T5GThe Government is facing renewed   Tj
+OL,7,T5Gcalls to abandon this year's       Tj
+OL,8,T5GNational School Tests.             Tj
+OL,9,T5G                                   Tj
+OL,10,T5FThe Chairman of the National       Tj
+OL,11,T5FConfederation of Parent Teachers   Tj
+OL,12,T5FAssociations, Larry Goodband, said Tj
+OL,13,T5Fministers should drop the tests.   Tj
+OL,14,T5F                                   Tj
+OL,15,T5FHis call follows the decision by   Tj
+OL,16,T5Fthe biggest teaching union, the    Tj
+OL,17,T5FNational Union of Teachers, to     Tj
+OL,18,T5Fballot members on a tests boycott. Tj
+OL,19,T5F                                   Tj
+OL,20,T5FThe NUT's annual conference        Tj
+OL,21,T5Fcontinues in Brighton tomorrow.    Tj
+OL,22,Tupppppppppppppppppppppppppppppppppppppz
+OL,23,D]FFromG11-04-93F/ teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49612
+SC,0012
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,F]T|l4|l4|, T]V|l4|,h4|h4|,       C12/18
+OL,2,V]Tn1n1  T]Vj5,j5j5/|
+OL,3,V]T/.%/.%/, T]Vj5pjuz5pF WORLD
+OL,4,T7#####################################k
+OL,5,T5FSCOTTISH TOURIST MURDERED IN US    Tj
+OL,6,T5GA Scottish tourist has been        Tj
+OL,7,T5Gmurdered while on holiday in the   Tj
+OL,8,T5GUnited States.                     Tj
+OL,9,T5G                                   Tj
+OL,10,T5FAdrian Strasser, 36, who was a     Tj
+OL,11,T5Fteacher at Tower bank primary      Tj
+OL,12,T5Fschool in Edinburgh, was found     Tj
+OL,13,T5Fbeaten to death yesterday morning  Tj
+OL,14,T5Fin New Orleans.                    Tj
+OL,15,T5F                                   Tj
+OL,16,T5FPolice said it was a particularly  Tj
+OL,17,T5Fbrutal attack.                     Tj
+OL,18,T5F                                   Tj
+OL,19,T5FHe had been on holiday with his    Tj
+OL,20,T5Ffiance.                            Tj
+OL,21,Tupppppppppppppppppppppppppppppppppppppz
+OL,22,D] FThis Ceefax page is fromG11-04-93
+OL,23,D]F Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49613
+SC,0013
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,V]T|l4|l4|, l4                    A13/18
+OL,2,V]Tn1n1  j5DEASTER SUNDAY
+OL,3,V]Tz5z5p j5D1700-2000
+OL,4,V7#####################################k
+OL,5,V5C1700GTHE LEGEND OF LOCHNAGARCN     Vj
+OL,6,V5C    FPrince Charles narrates his   Vj
+OL,7,V5C    Fown tale of an old man        Vj
+OL,8,V5C1730GMASTERCHEFCS                  Vj
+OL,9,V5C     New seriesFLoyd Grossman and  Vj
+OL,10,V5     Fchef Robert Carrier begin thisVj
+OL,11,V5     Fyear's quest for the title    Vj
+OL,12,V5C1805GNEWSCSFandGWEATHER            Vj
+OL,13,V5C1820GSONGS OF PRAISE FOR EASTER DAYVj
+OL,14,V5C     S/NFfrom Norwich Cathedral    Vj
+OL,15,V5C1900GLAST OF THE SUMMER WINECS/N   Vj
+OL,16,V5     FCompo sees an opportunity for Vj
+OL,17,V5     FSmiler                        Vj
+OL,18,V5C1930GA YEAR IN PROVENCECS/N        Vj
+OL,19,V5     FWhen visitors arrive, goodwillVj
+OL,20,V5     Fbegins to evaporate           Vj
+OL,21,Vupppppppppppppppppppppppppppppppppppppz
+OL,22,F]DN = NICAM stereo  S = Subtitles 888
+OL,23,V]DFrom 11-04-93 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49614
+SC,0014
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,V]T|l4|l4|, l4                    A14/18
+OL,2,V]Tn1n1  j5DEASTER SUNDAY/MONDAY
+OL,3,V]Tz5z5p j5D2000-0015
+OL,4,V7#####################################k
+OL,5,V5C2000GLOVEJOYCS/N                   Vj
+OL,6,V5C    Fcons a young couple - and paysVj
+OL,7,V5     Ffor his misdemeanour          Vj
+OL,8,V5C2055GNEWSCSFandGWEATHER            Vj
+OL,9,V5C2110GYOU, ME AND ITCS              Vj
+OL,10,V5     FCharlie and Barbara try for a Vj
+OL,11,V5C    Ftest-tube baby                Vj
+OL,12,V5C2200GMASTERMINDCN                  Vj
+OL,13,V5C2230GEVERYMANCS                    Vj
+OL,14,V5C    FEd Vulliamy of The Guardian   Vj
+OL,15,V5C    Freturns to Bosnia             Vj
+OL,16,V5C2310GSHAKESPEARE: THE ANIMATED     Vj
+OL,17,V5     GTALESCS/NFMacbeth             Vj
+OL,18,V5C2340GCATS                          Vj
+OL,19,V5     FChanging attitudes to the cat Vj
+OL,20,V5C0010-0015GWEATHER                  Vj
+OL,21,Vupppppppppppppppppppppppppppppppppppppz
+OL,22,F]DN = NICAM stereo  S = Subtitles 888
+OL,23,V]DFrom 11-04-93 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49615
+SC,0015
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,V]T|l4|l4|, ,l4                   A15/18
+OL,2,V]Tn1n1  |.%DEASTER SUNDAY
+OL,3,V]Tz5z5p p0D1855-0135*
+OL,4,V7#####################################k
+OL,5,V5C1855GTHE GRAND PRIX OF EUROPE      Vj
+OL,6,V5C    FHighlights from Donington of  Vj
+OL,7,V5C    Ftoday's Formula 1 race        Vj
+OL,8,V5C1940GTHE NINETIESCS/N              Vj
+OL,9,V5     FBlackpool remembered in its   Vj
+OL,10,V5     Fheyday early this century     Vj
+OL,11,V5C2020GEVERY PICTURE TELLS A STORYC  Vj
+OL,12,V5C     S/NFAndrew Graham-Dixon probesVj
+OL,13,V5     Fthe story behind Gericault's  Vj
+OL,14,V5     FThe Raft of the Medusa        Vj
+OL,15,V5C2100GGOLF: THE MASTERS             Vj
+OL,16,V5     FLive coverage of the final    Vj
+OL,17,V5     Fholes from Augusta, Georgia   Vj
+OL,18,V5C2350-0135*GFILM: THE PARALLAX VIEW Vj
+OL,19,V5     CSFPolitical thriller with     Vj
+OL,20,V5     FWarren Beatty                 Vj
+OL,21,Vupppppppppppppppppppppppppppppppppppppz
+OL,22,F]DN = NICAM stereo  S = Subtitles 888
+OL,23,V]DFrom 11-04-93 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49616
+SC,0016
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,V]T|,(l4                          A16/18
+OL,2,V]T (n1DNETWORKED   EASTER SUNDAY/MON
+OL,3,V]Tp`z5DPROGRAMMES  1830-0530
+OL,4,V7#####################################k
+OL,5,V5C1830GCLASSIC CORONATION STREETCS   Vj
+OL,6,V5     FJudy Finnigan takes a stroll  Vj
+OL,7,V5C    Fthrough the Street's archives Vj
+OL,8,V5C1930GFILM: BIG BUSINESSCS/N        Vj
+OL,9,V5C    FMistaken identity comedy with Vj
+OL,10,V5C    FBette Midler and Lily Tomlin  Vj
+OL,11,V5C2110GMAIGRETCS/N                   Vj
+OL,12,V5C    FMaigret (Michael Gambon) gets Vj
+OL,13,V5C    Fdrawn into a political scandalVj
+OL,14,V5C2210GASPEL AND COMPANY             Vj
+OL,15,V5C    FJohn McCarthy, Jill Morrell   Vj
+OL,16,V5C2255GNEWS; REGIONAL WEATHER        Vj
+OL,17,V5C2315GCELEBRATIONCNew series        Vj
+OL,18,V5     FProfile of Daphne du Maurier  Vj
+OL,19,V5C0015GENCOUNTER                     Vj
+OL,20,V5C0045-0530GREGIONAL VARIATIONS      Vj
+OL,21,Vupppppppppppppppppppppppppppppppppppppz
+OL,22,F]DN = NICAM stereo  S = Subtitles 888
+OL,23,V]DFrom 11-04-93 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49617
+SC,0017
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,V]T|,h4                           A17/18
+OL,2,V]T ju| EASTER DAY
+OL,3,V]Tp  D1800-2045
+OL,4,V7#####################################k
+OL,5,V5C1800GMOVIEWATCHCN                  Vj
+OL,6,V5C    Freviews Accidental Hero with  Vj
+OL,7,V5C    FDustin Hoffman, Andy Garcia's Vj
+OL,8,V5     FBest of the Rest II and Body  Vj
+OL,9,V5     Fof Evidence starring Madonna  Vj
+OL,10,V5C1830GTHE WONDER YEARSCS            Vj
+OL,11,V5C    FKevin's chores pile up and he Vj
+OL,12,V5C    Fbecomes increasingly annoyed  Vj
+OL,13,V5C1900GTHE HORSE DETECTIVESCS        Vj
+OL,14,V5     FAmateur sleuths on the track  Vj
+OL,15,V5C    Fof stolen horses around       Vj
+OL,16,V5C    FBritain's horse fairs         Vj
+OL,17,V5C2000GRAISING THE ROOF              Vj
+OL,18,V5C    Flooks at some Tyneside        Vj
+OL,19,V5C    Fbuilders who are constructing Vj
+OL,20,V5C    Ftheir own homes               Vj
+OL,21,Vupppppppppppppppppppppppppppppppppppppz
+OL,22,F]DN = NICAM stereo  S = Subtitles 888
+OL,23,V]DFrom 11-04-93 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
+PN,49618
+SC,0018
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F496A1775940149
+OL,1,V]T|,h4                           A18/18
+OL,2,V]T ju| EASTER DAY
+OL,3,V]Tp  D2045-0150
+OL,4,V7#####################################k
+OL,5,V5C2045GA TO Z: LETTERS FROM THE      Vj
+OL,6,V5C    GHOMELESSCS                    Vj
+OL,7,V5     Flooks at the letters U to Z - Vj
+OL,8,V5     Fincluding W - for work        Vj
+OL,9,V5C2100GFILM: BILL AND TED'S EXCELLENTVj
+OL,10,V5     GADVENTURECS/N                 Vj
+OL,11,V5     FTwo young students set off on Vj
+OL,12,V5C    Fan adventure of a lifetime    Vj
+OL,13,V5C2240GHOME TRUTHS                   Vj
+OL,14,V5     FDiscussion on homelessness    Vj
+OL,15,V5C2345GA TO Z: LETTERS FROM THE      Vj
+OL,16,V5C    GHOMELESSCS                    Vj
+OL,17,V5C    FCompilation of five films on  Vj
+OL,18,V5C    Fhomelessness                  Vj
+OL,19,V5C0050-0150GMBIRA MUSIC              Vj
+OL,20,V5C    Ffeaturing African music       Vj
+OL,21,Vupppppppppppppppppppppppppppppppppppppz
+OL,22,F]DN = NICAM stereo  S = Subtitles 888
+OL,23,V]DFrom 11-04-93 / teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,497,190,120,250,0,100
