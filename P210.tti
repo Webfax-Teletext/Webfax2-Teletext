@@ -1,42 +1,27 @@
-PN,21001
-SC,0001
-PS,c008
-OL,0,        ECIMSBWebfax 2   F210A1776121430
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G1/2
+PN,21000
+SC,0000
+PS,8008
+OL,0,        ECIMSBWebfax 2   F210A1776126095
+OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7
 OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
 OL,3,CProgramme listings for MON 13 APR
-OL,4,G0000FAsian Network Trending
-OL,5,     GThree young British South Asian
-OL,6,     Gmen: Hindu, Muslim and Sikh,
-OL,7,     Gdiscuss faith, culture and
-OL,8,     Gcommunity in Britain.
-OL,9,G0100FAsian Network Evenings with Nadia
-OL,10,     FAli
-OL,11,     GNadia Ali gets you moving out of
-OL,12,     Gwork mode and ready for the
-OL,13,     Gevening - whether you're cooking,
-OL,14,     Ggetting ready to hit the gym or
-OL,15,     Gjust chilling at home!
-OL,16,G0300FBobby Friction
-OL,17,     GBobby looks back at Schooling The
-OL,18,     GNation, Live Jam and Future
-OL,19,     GFriction tracks. Contains strong
-OL,20,     Glanguage.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CTravel FNat Sport
-FL,211,200,150,300,000,100
-PN,21002
-SC,0002
-PS,c008
-OL,0,        ECIMSBWebfax 2   F210A1776121430
-OL,1,W{${$~+$ ~{4~s1hw}h7} h7}hw1k7  G2/2
-OL,2,W/.!/.!+.! /*%,.!/*%/*%/ *%/"-$*%V(,,,,,
-OL,3,CProgramme listings for MON 13 APR
-OL,4,G0500FThe Ultimate Vaisakhi Playlist
-OL,5,     Fwith Indy & Dr
-OL,6,     GIndy and Dr handpicked their
-OL,7,     Gfavourite tracks to create The
-OL,8,     GUltimate Vaisakhi Playlist.
+OL,4,G0100FAsian Network Evenings with Nadia
+OL,5,     FAli
+OL,6,     GNadia Ali gets you moving out of
+OL,7,     Gwork mode and ready for the
+OL,8,     Gevening - whether you're cooking,
+OL,9,     Ggetting ready to hit the gym or
+OL,10,     Gjust chilling at home!
+OL,11,G0300FBobby Friction
+OL,12,     GBobby looks back at Schooling The
+OL,13,     GNation, Live Jam and Future
+OL,14,     GFriction tracks. Contains strong
+OL,15,     Glanguage.
+OL,16,G0500FThe Ultimate Vaisakhi Playlist
+OL,17,     Fwith Indy & Dr
+OL,18,     GIndy and Dr handpicked their
+OL,19,     Gfavourite tracks to create The
+OL,20,     GUltimate Vaisakhi Playlist.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,211,200,150,300,000,100
