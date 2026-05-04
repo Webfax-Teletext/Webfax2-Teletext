@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1777900866
+PN,1fc00
+SC,0000
+PS,8018
+OL,0,        ECIMSBWebfax 2   F1fcA1777903656
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,40 +13,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1777900865;
-OL,10,GService: Webfax 2 - 13962 e611d0dec
-OL,11,FLast Update: 04/05/2026 14:21:05  G1/2
-OL,13,Ccharts/singles             G03/05-07:10
-OL,14,Cgeneric/championship       G03/05-01:09
-OL,15,Cgeneric/league-one         G02/05-18:03
-OL,16,Cgeneric/league-two         G02/05-23:02
-OL,17,Ageneric/lottery            G13/04-01:55
-OL,18,Cgeneric/pollen_forecast    G03/05-00:05
-OL,19,Ageneric/tube_status        G13/04-01:55
-OL,20,Cgeneric/weather_warnings   G13/04-01:55
-OL,21,CitvSport/border            G29/04-17:04
-OL,22,CitvSport/calendar          G26/04-21:03
-OL,23,CitvSport/channel           G01/05-12:04
-PN,1fc02
-SC,0002
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1777900866
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1777900865;
-OL,10,GService: Webfax 2 - 13962 e611d0dec
-OL,11,FLast Update: 04/05/2026 14:21:05  G2/2
-OL,13,CitvSport/granada           G30/04-12:03
-OL,14,CitvSport/london            G28/04-14:21
-OL,15,CitvSport/meridian          G24/04-09:05
-OL,16,CitvSport/wales             G29/04-10:05
-OL,17,CiNMS/comments.json         G13/04-01:55
+OL,25,1777903649;
+OL,10,GService: Webfax 2 - 13963 fa48d3dec
+OL,11,FLast Update: 04/05/2026 15:07:29      
+OL,13,Ageneric/lottery            G04/05-15:07
+OL,14,Ageneric/tube_status        G04/05-15:07
