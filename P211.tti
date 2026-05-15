@@ -1,53 +1,41 @@
 PN,21101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1778807016
+OL,0,        ECIMSBWebfax 2   F211A1778810618
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/2
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 14 MAY
-OL,4,G0200FBBC News
-OL,5,G0206FThe Newsroom
-OL,6,     GThe world's Newsroom brings you
-OL,7,     Gglobal events as they happen.
-OL,8,G0230FBBC News Summary
-OL,9,G0232FTech Life
-OL,10,     GDrivers and cyclists know the
-OL,11,     Gdangers of potholes and broken
-OL,12,     Groad signs. A Swedish company is
-OL,13,     Gfitting vehicles with cameras,
-OL,14,     Gand using AI to spot potential
-OL,15,     Gproblems and defects.
-OL,16,G0300FBBC News
-OL,17,G0306FOutlook
-OL,18,     GTrue stories of ordinary people
-OL,19,     Gand the extraordinary events that
-OL,20,     Ghave shaped their lives.
+OL,4,G0300FBBC News
+OL,5,G0306FOutlook
+OL,6,     GTrue stories of ordinary people
+OL,7,     Gand the extraordinary events that
+OL,8,     Ghave shaped their lives.
+OL,9,G0350FWitness History
+OL,10,     GIn 1997, Sweden launched
+OL,11,     GExpedition Robinson - the world's
+OL,12,     Gfirst reality-based competitive
+OL,13,     GTV programme.
+OL,14,G0400FBBC News
+OL,15,G0406FThe Newsroom
+OL,16,     GThe world's Newsroom brings you
+OL,17,     Gglobal events as they happen.
+OL,18,G0430FBBC News Summary
+OL,19,G0432FHeart and Soul
+OL,20,     G.
+OL,21,G0500FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,212,200,150,300,000,100
 PN,21102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1778807016
+OL,0,        ECIMSBWebfax 2   F211A1778810618
 OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/2
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for THU 14 MAY
-OL,4,G0350FWitness History
-OL,5,     GIn 1997, Sweden launched
-OL,6,     GExpedition Robinson - the world's
-OL,7,     Gfirst reality-based competitive
-OL,8,     GTV programme.
-OL,9,G0400FBBC News
-OL,10,G0406FThe Newsroom
-OL,11,     GThe world's Newsroom brings you
-OL,12,     Gglobal events as they happen.
-OL,13,G0430FBBC News Summary
-OL,14,G0432FHeart and Soul
-OL,15,     G.
-OL,16,G0500FBBC News
-OL,17,G0506FNewsday
-OL,18,     GLive news, business and sport
-OL,19,     Gfrom around the world.
+OL,4,G0506FNewsday
+OL,5,     GLive news, business and sport
+OL,6,     Gfrom around the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,212,200,150,300,000,100
