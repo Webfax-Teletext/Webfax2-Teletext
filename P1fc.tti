@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1779487438
+OL,0,        ECIMSBWebfax 2   F1fcA1779491016
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1779487437;
-OL,10,GService: Webfax 2 - 14483 e77b021b01
-OL,11,FLast Update: 22/05/2026 23:03:57  G1/2
+OL,25,1779491016;
+OL,10,GService: Webfax 2 - 14484 b3852f9445
+OL,11,FLast Update: 23/05/2026 00:03:36  G1/2
 OL,13,AbbcNewsLive                G22/05-23:01
 OL,14,CbbcSport/Horse Racing      G14/05-18:29
-OL,15,Ccharts/singles             G16/05-02:46
-OL,16,Cgeneric/championship       G10/05-00:06
-OL,17,Cgeneric/f1                 G10/05-00:06
-OL,18,Cgeneric/league-one         G10/05-05:01
-OL,19,Cgeneric/league-two         G10/05-00:06
-OL,20,Ageneric/lottery            G10/05-00:06
-OL,21,Cgeneric/prem_league        G21/05-14:16
-OL,22,Ageneric/tube_status        G10/05-00:06
-OL,23,Cgeneric/weather_warnings   G10/05-00:06
+OL,15,AceefaxBusiness             G22/05-23:55
+OL,16,Ccharts/singles             G16/05-02:46
+OL,17,Cgeneric/championship       G10/05-00:06
+OL,18,Cgeneric/f1                 G10/05-00:06
+OL,19,Cgeneric/league-one         G10/05-05:01
+OL,20,Cgeneric/league-two         G10/05-00:06
+OL,21,Ageneric/lottery            G10/05-00:06
+OL,22,Cgeneric/prem_league        G21/05-14:16
+OL,23,Ageneric/tube_status        G10/05-00:06
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1779487438
+OL,0,        ECIMSBWebfax 2   F1fcA1779491016
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,15 +42,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1779487437;
-OL,10,GService: Webfax 2 - 14483 e77b021b01
-OL,11,FLast Update: 22/05/2026 23:03:57  G2/2
-OL,13,CitvSport/border            G21/05-15:03
-OL,14,CitvSport/calendar          G10/05-00:06
-OL,15,CitvSport/central           G10/05-00:06
-OL,16,CitvSport/london            G20/05-11:06
-OL,17,CitvSport/meridian          G20/05-17:04
-OL,18,CitvSport/utv               G10/05-00:06
-OL,19,CitvSport/wales             G10/05-00:06
-OL,20,CitvSport/westcountry       G10/05-00:06
-OL,21,CiNMS/comments.json         G10/05-00:06
+OL,25,1779491016;
+OL,10,GService: Webfax 2 - 14484 b3852f9445
+OL,11,FLast Update: 23/05/2026 00:03:36  G2/2
+OL,13,Cgeneric/weather_warnings   G10/05-00:06
+OL,14,CitvSport/border            G21/05-15:03
+OL,15,CitvSport/calendar          G10/05-00:06
+OL,16,CitvSport/central           G10/05-00:06
+OL,17,CitvSport/london            G20/05-11:06
+OL,18,CitvSport/meridian          G20/05-17:04
+OL,19,CitvSport/utv               G10/05-00:06
+OL,20,CitvSport/wales             G10/05-00:06
+OL,21,CitvSport/westcountry       G10/05-00:06
+OL,22,CiNMS/comments.json         G10/05-00:06
