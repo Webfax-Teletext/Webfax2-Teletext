@@ -1,8 +1,8 @@
 PN,24101
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G1/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
 OL,4,G0600FBBC News
@@ -19,9 +19,9 @@ OL,14,     GA review of the week with the
 OL,15,     Glatest news.
 OL,16,G0900FBBC News
 OL,17,G0906FBBC Conversations
-OL,18,     GHow major news stories are
-OL,19,     Gaffecting the lives of people
-OL,20,     Garound the world.
+OL,18,     GPeople who live and work near
+OL,19,     Gvolcanos talk of the danger and
+OL,20,     Gwhy it's worth it.
 OL,21,G0930FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
@@ -29,35 +29,37 @@ FL,242,200,150,300,000,100
 PN,24102
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G2/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
 OL,4,G0932FAmericast
-OL,5,     GJoin Americast for insights and
-OL,6,     Ganalysis on what's happening
-OL,7,     Ginside Trump's White House.
-OL,8,G1000FBBC News
-OL,9,G1006FNot by the Playbook
-OL,10,     GFour athletes who don't just win,
-OL,11,     Gthey run the show. Olympic and
-OL,12,     GWorld Champions, those vying for
-OL,13,     G'Greatest of all Time' status.
-OL,14,     GIt's all about the secrets to
-OL,15,     Gstaying at the top.
-OL,16,G1100FBBC News
-OL,17,G1106FThe Newsroom
-OL,18,     GThe world's Newsroom brings you
-OL,19,     Gglobal events as they happen.
-OL,20,G1130FBBC News Summary
+OL,5,     GWhat is President Trump's plan
+OL,6,     Gfor the future of Cuba? Is he
+OL,7,     Gthinking about using the
+OL,8,     GVenezuela playbook and snatching
+OL,9,     G94-year-old Rail Castro?
+OL,10,G1000FBBC News
+OL,11,G1006FNot by the Playbook
+OL,12,     GFour athletes who don't just win,
+OL,13,     Gthey run the show. Olympic and
+OL,14,     GWorld Champions, those vying for
+OL,15,     G'Greatest of all Time' status.
+OL,16,     GIt's all about the secrets to
+OL,17,     Gstaying at the top.
+OL,18,G1100FBBC News
+OL,19,G1106FThe Newsroom
+OL,20,     GThe world's Newsroom brings you
+OL,21,     Gglobal events as they happen.
+OL,22,G1130FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24103
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G3/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
 OL,4,G1132FUnspun World with John Simpson
@@ -83,8 +85,8 @@ FL,242,200,150,300,000,100
 PN,24104
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G4/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
 OL,4,G1406FSportsworld
@@ -107,8 +109,8 @@ FL,242,200,150,300,000,100
 PN,24105
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G5/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
 OL,4,G1850FSporting Witness
@@ -125,151 +127,173 @@ OL,14,     Graising concerns for water
 OL,15,     Gecosystems and communities across
 OL,16,     GSouth Asia.
 OL,17,G1930FBBC News Summary
-OL,18,G1932FHappy News
-OL,19,     GPositive news stories.
-OL,20,G2000FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24106
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G6/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
-OL,4,G2006FThe Arts Hour
-OL,5,     GStar of Killing Eve, the Canadian
-OL,6,     GAmerican actor Sandra Oh talks
-OL,7,     Gabout preparing for her UK
-OL,8,     Gtheatre debut.
-OL,9,G2100FBBC News
-OL,10,G2106FNewshour
-OL,11,     GInterviews, news and analysis of
-OL,12,     Gthe day's global events.
-OL,13,G2200FBBC News
-OL,14,G2206FNot by the Playbook
-OL,15,     GFour athletes who don't just win,
-OL,16,     Gthey run the show. Olympic and
-OL,17,     GWorld Champions, those vying for
-OL,18,     G'Greatest of all Time' status.
-OL,19,     GIt's all about the secrets to
-OL,20,     Gstaying at the top.
-OL,21,G2300FBBC News
+OL,4,G1932FHappy News
+OL,5,     GWe find out why art could be the
+OL,6,     Gsecret to living longer and how
+OL,7,     Gyou can view the National
+OL,8,     GGallery's world-renowned
+OL,9,     Gcollections from the comfort of
+OL,10,     Gyour home, wherever you are.
+OL,11,G2000FBBC News
+OL,12,G2006FThe Arts Hour
+OL,13,     GStar of Killing Eve, the Canadian
+OL,14,     GAmerican actor Sandra Oh talks
+OL,15,     Gabout preparing for her UK
+OL,16,     Gtheatre debut.
+OL,17,G2100FBBC News
+OL,18,G2106FNewshour
+OL,19,     GInterviews, news and analysis of
+OL,20,     Gthe day's global events.
+OL,21,G2200FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24107
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G7/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
-OL,4,G2306FThe Newsroom
-OL,5,     GThe world's Newsroom brings you
-OL,6,     Gglobal events as they happen.
-OL,7,G2330FBBC News Summary
-OL,8,G2332FThis Is Africa
-OL,9,     GDJ Edu's pan-African music show
-OL,10,     Gfor the BBC World Service.
-OL,11,G0000FBBC News
-OL,12,G0006FBBC Conversations
-OL,13,     GHow major news stories are
-OL,14,     Gaffecting the lives of people
-OL,15,     Garound the world.
-OL,16,G0030FBBC News Summary
+OL,4,G2206FNot by the Playbook
+OL,5,     GFour athletes who don't just win,
+OL,6,     Gthey run the show. Olympic and
+OL,7,     GWorld Champions, those vying for
+OL,8,     G'Greatest of all Time' status.
+OL,9,     GIt's all about the secrets to
+OL,10,     Gstaying at the top.
+OL,11,G2300FBBC News
+OL,12,G2306FThe Newsroom
+OL,13,     GThe world's Newsroom brings you
+OL,14,     Gglobal events as they happen.
+OL,15,G2330FBBC News Summary
+OL,16,G2332FThis Is Africa
+OL,17,     GMeet XIV, an artist from Cabo
+OL,18,     GVerde who has just released a
+OL,19,     Gdeeply personal debut album, and
+OL,20,     GBeninese graphic designer-turned-
+OL,21,     Gpop star Voila Lulu.
+OL,22,G0000FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24108
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G8/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
-OL,4,G0032FThe Documentary
-OL,5,     GA personal account of day-to-day
-OL,6,     Glife in Iran told through the
-OL,7,     Gconversations of two Iranian
-OL,8,     Gsisters - one in the UK, the
-OL,9,     Gother in the Iranian city of
-OL,10,     GShiraz.
-OL,11,G0100FBBC News
-OL,12,G0106FThe Newsroom
-OL,13,     GThe world's Newsroom brings you
-OL,14,     Gglobal events as they happen.
-OL,15,G0130FBBC News Summary
-OL,16,G0132FInheritance: Samsung
-OL,17,     GJY Lee steps into the biggest
-OL,18,     Grole of his life, but can he
-OL,19,     Gnavigate both business and
-OL,20,     Gpolitics?
+OL,4,G0006FBBC Conversations
+OL,5,     GPeople who live and work near
+OL,6,     Gvolcanos talk of the danger and
+OL,7,     Gwhy it's worth it.
+OL,8,G0030FBBC News Summary
+OL,9,G0032FThe Documentary
+OL,10,     GA personal account of day-to-day
+OL,11,     Glife in Iran told through the
+OL,12,     Gconversations of two Iranian
+OL,13,     Gsisters - one in the UK, the
+OL,14,     Gother in the Iranian city of
+OL,15,     GShiraz.
+OL,16,G0100FBBC News
+OL,17,G0106FThe Newsroom
+OL,18,     GThe world's Newsroom brings you
+OL,19,     Gglobal events as they happen.
+OL,20,G0130FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24109
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5 G9/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
-OL,4,G0150FSporting Witness
-OL,5,     GShakhtar Donetsk won the UEFA Cup
-OL,6,     Gin 2009. It was meant to be a new
-OL,7,     Gchapter for independent Ukraine.
-OL,8,     GWhen war broke out in2014, the
-OL,9,     Gteam's ambitions were put on hold.
-OL,10,G0200FBBC News
-OL,11,G0206FThe Newsroom
-OL,12,     GThe world's Newsroom brings you
-OL,13,     Gglobal events as they happen.
-OL,14,G0230FBBC News Summary
-OL,15,G0232FHealth Check
-OL,16,     GAn Ebola outbreak that started in
-OL,17,     Gthe north-east of the Democratic
-OL,18,     GRepublic of Congo is spreading in
-OL,19,     Gthe region and has been declared
-OL,20,     Ga health emergency.
-OL,21,G0300FBBC News
+OL,4,G0132FInheritance: Samsung
+OL,5,     GJY Lee steps into the biggest
+OL,6,     Grole of his life, but can he
+OL,7,     Gnavigate both business and
+OL,8,     Gpolitics?
+OL,9,G0150FSporting Witness
+OL,10,     GShakhtar Donetsk won the UEFA Cup
+OL,11,     Gin 2009. It was meant to be a new
+OL,12,     Gchapter for independent Ukraine.
+OL,13,     GWhen war broke out in2014, the
+OL,14,     Gteam's ambitions were put on hold.
+OL,15,G0200FBBC News
+OL,16,G0206FThe Newsroom
+OL,17,     GThe world's Newsroom brings you
+OL,18,     Gglobal events as they happen.
+OL,19,G0230FBBC News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24110
 SC,0010
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G10/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
-OL,4,G0306FThe Documentary
-OL,5,     GThe story of former French
-OL,6,     GPresident Nicolas Sarkozy's rise
-OL,7,     Gand fall.
-OL,8,G0400FBBC News
-OL,9,G0406FFrom Our Own Correspondent
-OL,10,     GInsight, wit and analysis from
-OL,11,     GBBC correspondents, journalists
-OL,12,     Gand writers from around the world.
-OL,13,G0430FBBC News Summary
-OL,14,G0432FUnspun World with John Simpson
-OL,15,     GJohn Simpson analyses whether
-OL,16,     Gthere has been a significant
-OL,17,     Gshift in the relationship between
-OL,18,     Gthe US and China, and examines
-OL,19,     Gthe long-term political turmoil
-OL,20,     Gin the United Kingdom.
-OL,21,G0500FBBC News
+OL,4,G0232FHealth Check
+OL,5,     GAn Ebola outbreak that started in
+OL,6,     Gthe north-east of the Democratic
+OL,7,     GRepublic of Congo is spreading in
+OL,8,     Gthe region and has been declared
+OL,9,     Ga health emergency.
+OL,10,G0300FBBC News
+OL,11,G0306FThe Documentary
+OL,12,     GThe story of former French
+OL,13,     GPresident Nicolas Sarkozy's rise
+OL,14,     Gand fall.
+OL,15,G0400FBBC News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,242,200,150,300,000,100
 PN,24111
 SC,0011
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1779426302
-OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/11
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G11/12
+OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
+OL,3,CProgramme listings for SAT 23 MAY
+OL,4,G0406FFrom Our Own Correspondent
+OL,5,     GA heartfelt return to the
+OL,6,     GSudanese capital; agonising
+OL,7,     Gchoices for parents in
+OL,8,     GAfghanistan; how to sway
+OL,9,     GArmenia's voters East or West;
+OL,10,     Gthe social warmth of a
+OL,11,     Gtraditional Irish wake.
+OL,12,G0430FBBC News Summary
+OL,13,G0432FUnspun World with John Simpson
+OL,14,     GJohn Simpson analyses whether
+OL,15,     Gthere has been a significant
+OL,16,     Gshift in the relationship between
+OL,17,     Gthe US and China, and examines
+OL,18,     Gthe long-term political turmoil
+OL,19,     Gin the United Kingdom.
+OL,20,G0500FBBC News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CTravel FNat Sport
+FL,242,200,150,300,000,100
+PN,24112
+SC,0012
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1779505461
+OL,1,W{${$~+$ j5h7}jw=j5 k4 ~s1j5G12/12
 OL,2,W/.!/.!+.! +.-'"-'*%/"-$/.! ,.!"' V,,,,,
 OL,3,CProgramme listings for SAT 23 MAY
 OL,4,G0506FThe Newsroom
