@@ -1,27 +1,25 @@
 PN,20400
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1779668474
+OL,0,        ECIMSBWebfax 2   F204A1779681881
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SUN 24 MAY
-OL,4,G0100FBBC R4 Joins BBC World Service
-OL,5,G0500FNews Summary
-OL,6,G0504FLast Word
-OL,7,     GKirsty Lang on actor Michael
-OL,8,     GPennington, model and actress
-OL,9,     GCynthia Shange, rugby player
-OL,10,     GScott Hastings and singer
-OL,11,     GBeverley Martyn.
-OL,12,G0534FShipping Forecast
-OL,13,G0543FPrayer for the Day
-OL,14,     GA spiritual comment and prayer to
-OL,15,     Gstart the day with Mark Oakley.
-OL,16,G0545FFarming Today
-OL,17,     GCrofting is a type of agriculture
-OL,18,     Gunique to the Highlands and
-OL,19,     GIslands of Scotland.
-OL,20,G0557FWeather for Farmers
+OL,4,G0504FLast Word
+OL,5,     GKirsty Lang on actor Michael
+OL,6,     GPennington, model and actress
+OL,7,     GCynthia Shange, rugby player
+OL,8,     GScott Hastings and singer
+OL,9,     GBeverley Martyn.
+OL,10,G0534FShipping Forecast
+OL,11,G0543FPrayer for the Day
+OL,12,     GA spiritual comment and prayer to
+OL,13,     Gstart the day with Mark Oakley.
+OL,14,G0545FFarming Today
+OL,15,     GCrofting is a type of agriculture
+OL,16,     Gunique to the Highlands and
+OL,17,     GIslands of Scotland.
+OL,18,G0557FWeather for Farmers
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
