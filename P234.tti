@@ -1,7 +1,7 @@
 PN,23401
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G1/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
@@ -15,17 +15,19 @@ OL,10,     Gthrough the scenic Fetternear
 OL,11,     GEstate near Kemnay in
 OL,12,     GAberdeenshire.
 OL,13,G0630FFarming Today This Week
-OL,14,     GThe latest news about food,
-OL,15,     Gfarming and the countryside.
-OL,16,G0657FWeather Forecast
-OL,17,G0700FToday
+OL,14,     GHow have farmers been coping with
+OL,15,     Gthe heatwave, and what does more
+OL,16,     Gextreme weather mean for the
+OL,17,     Gfuture of UK farming?
+OL,18,G0657FWeather Forecast
+OL,19,G0700FToday
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23402
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G2/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
@@ -54,7 +56,7 @@ FL,235,200,150,300,000,100
 PN,23403
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G3/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
@@ -63,176 +65,185 @@ OL,5,     GJohn Burn-Murdoch hears about the
 OL,6,     Gunheard revolution changing the
 OL,7,     Gworld of healthcare.
 OL,8,G1130FFrom Our Own Correspondent
-OL,9,     GInsight and analysis from BBC
-OL,10,     Gcorrespondents around the world.
-OL,11,G1200FNews Summary
-OL,12,G1204FMoney Box
-OL,13,     GThe latest news from the world of
-OL,14,     Gpersonal finance.
-OL,15,G1230FThe News Quiz
-OL,16,     GAndy Zaltzman quizzes the week's
-OL,17,     Gnews with panellists Scott
-OL,18,     GBennett, Bella Hull, Ayesha
-OL,19,     GHazarika and Cody Dahler.
-OL,20,G1257FWeather Forecast
-OL,21,G1300FNews Bulletin
+OL,9,     GAs Cubans deal with the
+OL,10,     Gconsequences of the US fuel
+OL,11,     Gblockade, the country's
+OL,12,     Grevolutionary spirit is under
+OL,13,     Gstrain amid power cuts, growing
+OL,14,     Gpoverty, and lack of job
+OL,15,     Gopportunities.
+OL,16,G1200FNews Summary
+OL,17,G1204FMoney Box
+OL,18,     GThere are calls for a new social
+OL,19,     Genergy tariff to offer cheaper
+OL,20,     Ggas and electricity to those on
+OL,21,     Glower incomes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23404
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G4/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
-OL,4,G1310FAny Questions?
-OL,5,     GAlex Forsyth presents political
-OL,6,     Gdebate from St Norbert's
-OL,7,     GCommunity Hall in Spalding in
-OL,8,     GLincolnshire with Hamish Falconer
-OL,9,     GMP, Baroness Laing, George
-OL,10,     GMonbiot and Richard Tice MP.
-OL,11,G1405FAny Answers?
-OL,12,     GListeners respond to the issues
-OL,13,     Graised in the preceding edition
-OL,14,     Gof Any Questions?
-OL,15,G1445FThe Archers
-OL,16,     GAnna is surprised by an
-OL,17,     Gunexpected declaration, and Adam
-OL,18,     Gdeclares war.
+OL,4,G1230FThe News Quiz
+OL,5,     GAndy Zaltzman quizzes the week's
+OL,6,     Gnews with panellists Scott
+OL,7,     GBennett, Bella Hull, Ayesha
+OL,8,     GHazarika and Cody Dahler.
+OL,9,G1257FWeather Forecast
+OL,10,G1300FNews Bulletin
+OL,11,G1310FAny Questions?
+OL,12,     GAlex Forsyth presents political
+OL,13,     Gdebate from St Norbert's
+OL,14,     GCommunity Hall in Spalding in
+OL,15,     GLincolnshire with Hamish Falconer
+OL,16,     GMP, Baroness Laing, George
+OL,17,     GMonbiot and Richard Tice MP.
+OL,18,G1405FAny Answers?
+OL,19,     GListeners respond to the issues
+OL,20,     Graised in the preceding edition
+OL,21,     Gof Any Questions?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23405
 SC,0005
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G5/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
-OL,4,G1500FThe King Must Die
-OL,5,     GOne of the great historical
-OL,6,     Gnovels of recent times, telling
-OL,7,     Gthe story of Theseus, his quest
-OL,8,     Gto discover his true identity,
-OL,9,     Gand his fatal encounter with the
-OL,10,     GMinotaur in Minoan Crete.
-OL,11,G1600FWeekend Woman's Hour
-OL,12,     GHighlights from the Woman's Hour
-OL,13,     Gweek.
-OL,14,G1700FSaturday PM
-OL,15,G1730FPolitical Thinking with Nick
-OL,16,     FRobinson
-OL,17,     GNick Robinson talks to people who
-OL,18,     Gshape our political thinking
-OL,19,     Gabout what shaped theirs.
-OL,20,G1754FShipping Forecast
-OL,21,G1757FWeather Forecast
-OL,22,G1800FSix O'Clock News
+OL,4,G1445FThe Archers
+OL,5,     GAnna is surprised by an
+OL,6,     Gunexpected declaration, and Adam
+OL,7,     Gdeclares war.
+OL,8,G1500FThe King Must Die
+OL,9,     GOne of the great historical
+OL,10,     Gnovels of recent times, telling
+OL,11,     Gthe story of Theseus, his quest
+OL,12,     Gto discover his true identity,
+OL,13,     Gand his fatal encounter with the
+OL,14,     GMinotaur in Minoan Crete.
+OL,15,G1600FWeekend Woman's Hour
+OL,16,     GHighlights from the Woman's Hour
+OL,17,     Gweek.
+OL,18,G1700FSaturday PM
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23406
 SC,0006
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G6/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
-OL,4,G1815FLoose Ends
-OL,5,     GStuart Maconie and guests with an
-OL,6,     Geclectic mix of conversation,
-OL,7,     Gmusic and comedy.
-OL,8,G1900FProfile
-OL,9,     GAn insight into the character of
-OL,10,     Gan influential person making the
-OL,11,     Gnews headlines.
-OL,12,G1915FThis Cultural Life
-OL,13,     GAward-winning actor Kristin Scott
-OL,14,     GThomas talks to John Wilson about
-OL,15,     Gher career and cultural
-OL,16,     Ginfluences.
-OL,17,G2000FThe Louisville Lip
-OL,18,     GTen years on from his passing,
-OL,19,     GMuhammad Ali's story is told in
-OL,20,     Ghis own words through rarely
-OL,21,     Gheard audio from the BBC archives.
+OL,4,G1730FPolitical Thinking with Nick
+OL,5,     FRobinson
+OL,6,     GChair of the equalities watchdog,
+OL,7,     GDr Mary-Ann Stephenson, on sex
+OL,8,     Gand gender, the right to protest,
+OL,9,     Gand doing one of the hardest jobs
+OL,10,     Gin Britain.
+OL,11,G1754FShipping Forecast
+OL,12,G1757FWeather Forecast
+OL,13,G1800FSix O'Clock News
+OL,14,G1815FLoose Ends
+OL,15,     GBen Elton, Suzi Ruffell and Keith
+OL,16,     GBrymer Jones join Stuart Maconie
+OL,17,     Gwith music from Barns Courtney
+OL,18,     Gand Sarah Jane Morris with band.
+OL,19,G1900FProfile
+OL,20,     GIsrael's national security
+OL,21,     Gminister Itamar Ben-Gvir.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23407
 SC,0007
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G7/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
-OL,4,G2100FThe Moral Maze
-OL,5,     GMichael Buerk chairs a special
-OL,6,     Gdebate from the Hay Festival
-OL,7,     Gexamining the morality of
-OL,8,     Gnetworks. With panellists: Anne
-OL,9,     GMcElvoy, Matthew Taylor, Mona
-OL,10,     GSiddiqui and Ella Whelan.
-OL,11,G2200FNews Bulletin
-OL,12,G2215FThe Food Programme
-OL,13,     GThe food industry is predicting
-OL,14,     Gdouble digit inflation and are
-OL,15,     Gcalling on the Government to act.
-OL,16,     GDan Saladino asks if the
-OL,17,     Gforecasts are correct and if so,
-OL,18,     Gwhat can be done?
+OL,4,G1915FThis Cultural Life
+OL,5,     GAward-winning actor Kristin Scott
+OL,6,     GThomas talks to John Wilson about
+OL,7,     Gher career and cultural
+OL,8,     Ginfluences.
+OL,9,G2000FThe Louisville Lip
+OL,10,     GTen years on from his passing,
+OL,11,     GMuhammad Ali's story is told in
+OL,12,     Ghis own words through rarely
+OL,13,     Gheard audio from the BBC archives.
+OL,14,G2100FThe Moral Maze
+OL,15,     GMichael Buerk chairs a special
+OL,16,     Gdebate from the Hay Festival
+OL,17,     Gexamining the morality of
+OL,18,     Gnetworks. With panellists: Anne
+OL,19,     GMcElvoy, Matthew Taylor, Mona
+OL,20,     GSiddiqui and Ella Whelan.
+OL,21,G2200FNews Bulletin
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23408
 SC,0008
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G8/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
-OL,4,G2300FThe Many Wrongs of Lord Christian
-OL,5,     FBrighty
-OL,6,     GIn his quest to fix all his many
-OL,7,     Gpast misdeeds, Brighty finds a
-OL,8,     Gpotential shortcut - God.
-OL,9,G2330FRound Britain Quiz
-OL,10,     GKirsty Lang referees a contest
-OL,11,     Gfor first place between Northern
-OL,12,     GIreland & England in the
-OL,13,     Gnotoriously cryptic quiz.
-OL,14,G0000FMidnight News
-OL,15,G0015FTake Four Books
-OL,16,     GDeborah Levy speaks to Take Four
-OL,17,     GBooks about her new novel, My
-OL,18,     GYear in Paris with Gertrude
-OL,19,     GStein, and, together with
-OL,20,     Gpresenter James Crawford, they
-OL,21,     Gexplore its three influences.
-OL,22,G0048FShipping Forecast
+OL,4,G2215FThe Food Programme
+OL,5,     GThe food industry is predicting
+OL,6,     Gdouble digit inflation and are
+OL,7,     Gcalling on the Government to act.
+OL,8,     GDan Saladino asks if the
+OL,9,     Gforecasts are correct and if so,
+OL,10,     Gwhat can be done?
+OL,11,G2300FThe Many Wrongs of Lord Christian
+OL,12,     FBrighty
+OL,13,     GIn his quest to fix all his many
+OL,14,     Gpast misdeeds, Brighty finds a
+OL,15,     Gpotential shortcut - God.
+OL,16,G2330FRound Britain Quiz
+OL,17,     GKirsty Lang referees a contest
+OL,18,     Gfor first place between Northern
+OL,19,     GIreland & England in the
+OL,20,     Gnotoriously cryptic quiz.
+OL,21,G0000FMidnight News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100
 PN,23409
 SC,0009
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1780031094
+OL,0,        ECIMSBWebfax 2   F234A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} *u|       G9/9
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for SAT 30 MAY
-OL,4,G0100FBBC R4 Joins BBC World Service
-OL,5,G0530FNews Summary
-OL,6,G0534FShipping Forecast
-OL,7,G0543FBells on Sunday
-OL,8,     GBells on Sunday comes from St
-OL,9,     GGregory Morville in Shropshire.
-OL,10,G0545FIn Touch
-OL,11,     GPeter White and his guests review
-OL,12,     Gthe audio description of their
-OL,13,     Gchosen offerings from major
-OL,14,     Gstreaming platforms.
+OL,4,G0015FTake Four Books
+OL,5,     GDeborah Levy speaks to Take Four
+OL,6,     GBooks about her new novel, My
+OL,7,     GYear in Paris with Gertrude
+OL,8,     GStein, and, together with
+OL,9,     Gpresenter James Crawford, they
+OL,10,     Gexplore its three influences.
+OL,11,G0048FShipping Forecast
+OL,12,G0100FBBC R4 Joins BBC World Service
+OL,13,G0530FNews Summary
+OL,14,G0534FShipping Forecast
+OL,15,G0543FBells on Sunday
+OL,16,     GBells on Sunday comes from St
+OL,17,     GGregory Morville in Shropshire.
+OL,18,G0545FIn Touch
+OL,19,     GPeter White and his guests review
+OL,20,     Gthe audio description of their
+OL,21,     Gchosen offerings from major
+OL,22,     Gstreaming platforms.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,235,200,150,300,000,100

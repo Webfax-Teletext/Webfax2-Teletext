@@ -1,7 +1,7 @@
 PN,23701
 SC,0001
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1780031094
+OL,0,        ECIMSBWebfax 2   F237A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} (*u?     G1/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /*%/V(,,,,,,,,
 OL,3,CProgramme listings for
@@ -29,7 +29,7 @@ FL,238,200,150,300,000,100
 PN,23702
 SC,0002
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1780031094
+OL,0,        ECIMSBWebfax 2   F237A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} (*u?     G2/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /*%/V(,,,,,,,,
 OL,3,CProgramme listings for
@@ -49,14 +49,15 @@ OL,15,     Gsocial.
 OL,16,G2100FRadio 1's Rap Show with Kenny
 OL,17,     FAllstar
 OL,18,     GKenny Allstar has your essential
-OL,19,     Gguide to rap.
+OL,19,     Gguide to rap. Contains language
+OL,20,     Gwhich some may find offensive.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,238,200,150,300,000,100
 PN,23703
 SC,0003
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1780031094
+OL,0,        ECIMSBWebfax 2   F237A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} (*u?     G3/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /*%/V(,,,,,,,,
 OL,3,CProgramme listings for
@@ -65,42 +66,50 @@ OL,4,G2230FRadio 1's Rap Mixtape
 OL,5,     GKenny Allstar goes in the mix
 OL,6,     Gwith hits and all your rap
 OL,7,     Gfavourites from Busta Rhymes.
-OL,8,G2300F1Xtra's R&B Show with Chuckie
-OL,9,     GChuckie has your weekly fix of
-OL,10,     GR&B. @1Xtra on social.
-OL,11,G0030F1Xtra's R&B Slow Jamz Mix with
-OL,12,     FChuckie
-OL,13,     GChuckie mixes up R&B slow jams.
-OL,14,G0100F1Xtra's Throwback Thursday
-OL,15,     GNo theme, no skips - just pure
-OL,16,     Gthrowback heat. Bangers from Mary
-OL,17,     GJ. Blige, Soulja Boy, Ludacris,
-OL,18,     GDestiny's Child, The Notorious
-OL,19,     GB.I.G. and more.
+OL,8,     GContains language which some may
+OL,9,     Gfind offensive.
+OL,10,G2300F1Xtra's R&B Show with Chuckie
+OL,11,     GFriend of the show Ne-Yo, joins
+OL,12,     GChuckie to speak about his 20-
+OL,13,     Gyear career, AI in music, working
+OL,14,     Gwith Michael Jackson and more.
+OL,15,     GContains strong language.
+OL,16,G0030F1Xtra's R&B Slow Jamz Mix with
+OL,17,     FChuckie
+OL,18,     GChuckie plays fresh, new Slow
+OL,19,     GJamz hits from Drake, GIVEON, Kwn
+OL,20,     Gand more. Contains strong
+OL,21,     Glanguage.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,238,200,150,300,000,100
 PN,23704
 SC,0004
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1780031094
+OL,0,        ECIMSBWebfax 2   F237A1780113925
 OL,1,W{${$~+$ {$~{4k4h7} (*u?     G4/4
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'  /*%/V(,,,,,,,,
 OL,3,CProgramme listings for
 OL,3,CProgramme listings for SAT 30 MAY
-OL,4,G0200FThe Music Is Black Mixtape
-OL,5,     GDJs Shortee Blitz and Beat A Maxx
-OL,6,     Gcelebrate 100 years of Black
-OL,7,     GMusic in the UK with a fast-paced
-OL,8,     Gmixtape featuring over 200
-OL,9,     Gartists and tracks.
-OL,10,G0300F1Xtra Salutes... J Cole
-OL,11,     G1Xtra celebrates J Cole!
-OL,12,     GFeaturing an hour of his greatest
-OL,13,     Gtunes and best moments at the BBC!
-OL,14,G0400FDavid Rodigan
-OL,15,     GThe best Sunday reggae vibes.
-OL,16,     G@1Xtra on social.
+OL,4,G0100F1Xtra's Throwback Thursday
+OL,5,     GNo theme, no skips - just pure
+OL,6,     Gthrowback heat. Bangers from Mary
+OL,7,     GJ. Blige, Soulja Boy, Ludacris,
+OL,8,     GDestiny's Child, The Notorious
+OL,9,     GB.I.G. and more.
+OL,10,G0200FThe Music Is Black Mixtape
+OL,11,     GDJs Shortee Blitz and Beat A Maxx
+OL,12,     Gcelebrate 100 years of Black
+OL,13,     GMusic in the UK with a fast-paced
+OL,14,     Gmixtape featuring over 200
+OL,15,     Gartists and tracks.
+OL,16,G0300F1Xtra Salutes... J Cole
+OL,17,     G1Xtra celebrates J Cole!
+OL,18,     GFeaturing an hour of his greatest
+OL,19,     Gtunes and best moments at the BBC!
+OL,20,G0400FDavid Rodigan
+OL,21,     GThe best Sunday reggae vibes.
+OL,22,     G@1Xtra on social.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,238,200,150,300,000,100
