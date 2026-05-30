@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1780121167
+OL,0,        ECIMSBWebfax 2   F1fcA1780124784
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1780121166;
-OL,10,GService: Webfax 2 - 14689 0cd057cc56
-OL,11,FLast Update: 30/05/2026 07:06:06  G1/3
+OL,25,1780124783;
+OL,10,GService: Webfax 2 - 14690 86f53e23eb
+OL,11,FLast Update: 30/05/2026 08:06:23  G1/2
 OL,13,AbbcNewsLive                G29/05-15:37
 OL,14,CbbcSport/Horse Racing      G27/05-10:04
 OL,15,Ccharts/singles             G27/05-10:04
@@ -23,14 +23,14 @@ OL,16,Cgeneric/f1                 G27/05-10:05
 OL,17,Cgeneric/league-one         G27/05-10:05
 OL,18,Cgeneric/league-two         G27/05-10:05
 OL,19,Ageneric/lottery            G27/05-10:05
-OL,20,Cgeneric/pollen_forecast    G29/05-06:00
-OL,21,Cgeneric/prem_league        G28/05-14:55
-OL,22,Ageneric/tube_status        G27/05-10:04
-OL,23,Cgeneric/weather_warnings   G27/05-10:04
+OL,20,Cgeneric/prem_league        G28/05-14:55
+OL,21,Ageneric/tube_status        G27/05-10:04
+OL,22,Cgeneric/weather_warnings   G27/05-10:04
+OL,23,CitvSport/border            G27/05-10:04
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1780121167
+OL,0,        ECIMSBWebfax 2   F1fcA1780124784
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,35 +42,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1780121166;
-OL,10,GService: Webfax 2 - 14689 0cd057cc56
-OL,11,FLast Update: 30/05/2026 07:06:06  G2/3
-OL,13,CitvSport/border            G27/05-10:04
-OL,14,CitvSport/calendar          G27/05-10:04
-OL,15,CitvSport/central           G27/05-10:04
-OL,16,CitvSport/channel           G27/05-10:04
-OL,17,CitvSport/london            G28/05-09:05
-OL,18,CitvSport/meridian          G27/05-10:04
-OL,19,CitvSport/tyne-tees         G28/05-14:21
-OL,20,CitvSport/utv               G27/05-19:21
-OL,21,CitvSport/wales             G27/05-10:04
-OL,22,CitvSport/westcountry       G27/05-10:04
-OL,23,CiNMS/comments.json         G27/05-10:04
-PN,1fc03
-SC,0003
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1780121167
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1780121166;
-OL,10,GService: Webfax 2 - 14689 0cd057cc56
-OL,11,FLast Update: 30/05/2026 07:06:06  G3/3
+OL,25,1780124783;
+OL,10,GService: Webfax 2 - 14690 86f53e23eb
+OL,11,FLast Update: 30/05/2026 08:06:23  G2/2
+OL,13,CitvSport/calendar          G27/05-10:04
+OL,14,CitvSport/central           G27/05-10:04
+OL,15,CitvSport/channel           G27/05-10:04
+OL,16,CitvSport/london            G28/05-09:05
+OL,17,CitvSport/meridian          G27/05-10:04
+OL,18,CitvSport/tyne-tees         G28/05-14:21
+OL,19,CitvSport/utv               G27/05-19:21
+OL,20,CitvSport/wales             G27/05-10:04
+OL,21,CitvSport/westcountry       G27/05-10:04
+OL,22,CiNMS/comments.json         G27/05-10:04
