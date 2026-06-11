@@ -1,7 +1,7 @@
 PN,20400
 SC,0000
 PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1781137277
+OL,0,        ECIMSBWebfax 2   F204A1781147027
 OL,1,W{${$~+$ {$~{4k4h7} *u|
 OL,2,W/.!/.!+.! /*%/*%/.!/"-'   /V(,,,,,,,,,,
 OL,3,CProgramme listings for WED 10 JUN
@@ -15,8 +15,11 @@ OL,10,G0543FPrayer for the Day
 OL,11,     GA spiritual comment and prayer to
 OL,12,     Gstart the day with Warren Elf.
 OL,13,G0545FFarming Today
-OL,14,     GThe latest news about food,
-OL,15,     Gfarming and the countryside.
+OL,14,     GWith production costs rising
+OL,15,     Gfollowing the war in the Middle
+OL,16,     GEast, the National Farmers' Union
+OL,17,     Gis calling for government support
+OL,18,     Gwith the price of fertiliser.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CTravel FNat Sport
 FL,205,200,150,300,000,100
