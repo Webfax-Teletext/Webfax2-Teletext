@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1781529677
+OL,0,        ECIMSBWebfax 2   F1fcA1781532215
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1781529677;
-OL,10,GService: Webfax 2 - 15146 25356fc194
-OL,11,FLast Update: 15/06/2026 14:21:17  G1/3
+OL,25,1781532215;
+OL,10,GService: Webfax 2 - 15147 3dc317a9d9
+OL,11,FLast Update: 15/06/2026 15:03:35  G1/3
 OL,13,Ccharts/singles             G13/06-18:01
 OL,14,Cgeneric/championship       G09/06-08:16
 OL,15,Cgeneric/league-one         G09/06-08:16
@@ -25,12 +25,12 @@ OL,18,Cgeneric/prem_league        G09/06-08:16
 OL,19,Ageneric/tube_status        G09/06-08:16
 OL,20,Cgeneric/weather_warnings   G09/06-08:16
 OL,21,CitvNews/tyne-tees          G13/06-13:11
-OL,22,CitvSport/border            G10/06-17:03
-OL,23,CitvSport/calendar          G09/06-08:15
+OL,22,CitvNews/utv                G14/06-14:47
+OL,23,CitvSport/border            G10/06-17:03
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1781529677
+OL,0,        ECIMSBWebfax 2   F1fcA1781532215
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,24 +42,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1781529677;
-OL,10,GService: Webfax 2 - 15146 25356fc194
-OL,11,FLast Update: 15/06/2026 14:21:17  G2/3
-OL,13,CitvSport/central           G11/06-12:03
-OL,14,CitvSport/channel           G09/06-08:15
-OL,15,CitvSport/granada           G11/06-12:03
-OL,16,CitvSport/london            G09/06-15:03
-OL,17,CitvSport/meridian          G09/06-08:16
-OL,18,CitvSport/tyne-tees         G09/06-08:16
-OL,19,CitvSport/utv               G09/06-08:16
-OL,20,CitvSport/wales             G09/06-20:21
-OL,21,CitvSport/westcountry       G09/06-08:16
-OL,22,Ctv_listings                G09/06-08:15
-OL,23,Ctv_listings?select=false   G09/06-08:15
+OL,25,1781532215;
+OL,10,GService: Webfax 2 - 15147 3dc317a9d9
+OL,11,FLast Update: 15/06/2026 15:03:35  G2/3
+OL,13,CitvSport/calendar          G09/06-08:15
+OL,14,CitvSport/central           G11/06-12:03
+OL,15,CitvSport/channel           G09/06-08:15
+OL,16,CitvSport/granada           G11/06-12:03
+OL,17,CitvSport/london            G09/06-15:03
+OL,18,CitvSport/meridian          G09/06-08:16
+OL,19,CitvSport/tyne-tees         G09/06-08:16
+OL,20,CitvSport/utv               G09/06-08:16
+OL,21,CitvSport/wales             G09/06-20:21
+OL,22,CitvSport/westcountry       G09/06-08:16
+OL,23,Ctv_listings                G09/06-08:15
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1781529677
+OL,0,        ECIMSBWebfax 2   F1fcA1781532215
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,7 +71,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1781529677;
-OL,10,GService: Webfax 2 - 15146 25356fc194
-OL,11,FLast Update: 15/06/2026 14:21:17  G3/3
-OL,13,CiNMS/comments.json         G09/06-08:16
+OL,25,1781532215;
+OL,10,GService: Webfax 2 - 15147 3dc317a9d9
+OL,11,FLast Update: 15/06/2026 15:03:35  G3/3
+OL,13,Ctv_listings?select=false   G09/06-08:15
+OL,14,CiNMS/comments.json         G09/06-08:16
