@@ -2,7 +2,7 @@ PN,25001
 SC,0001
 CT,8,T
 PS,8008
-OL,0,        ECIMSBWebfax 2   F250A1781646123
+OL,0,        ECIMSBWebfax 2   F250A1781651786
 OL,1,W{$~{4k4h7} h7sj5j5k4~s       G1/2
 OL,2,W/*%/*%/.!/"-' "-'"-'*%/.!+,V(,,,,,,,,,,
 OL,3,CToday's schedules for BBC Local Radio
@@ -27,12 +27,12 @@ OL,21,FGuernsey......G---  FMerseyside....G---
 OL,22,G
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBNat RadioCNat SportFReg Sport
-FL,300,200,300,301,0,100
+FL,251,200,300,301,0,100
 PN,25002
 SC,0002
 CT,8,T
 PS,8008
-OL,0,        ECIMSBWebfax 2   F250A1781646123
+OL,0,        ECIMSBWebfax 2   F250A1781651786
 OL,1,W{$~{4k4h7} h7sj5j5k4~s       G2/2
 OL,2,W/*%/*%/.!/"-' "-'"-'*%/.!+,V(,,,,,,,,,,
 OL,3,CToday's schedules for BBC Local Radio
@@ -56,5 +56,5 @@ OL,20,GSomerset......G---
 OL,21,G
 OL,22,BNational Radio..................... 200
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BReg Radio CNat Sport FRewind
-FL,300,250,300,120,0,100
+OL,24,ANext PageBNat RadioCNat SportFReg Sport
+FL,251,200,300,301,0,100
