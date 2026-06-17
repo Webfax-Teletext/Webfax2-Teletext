@@ -1,14 +1,80 @@
-PN,21800
-SC,0000
+PN,21801
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F218A1781653768
+PS,c008
+OL,0,        ECIMSBWebfax 2   F218A1781673694
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday               G1/3
 OL,5,G0000 Gweler BBC Radio 2
 OL,6,     FMae Radio Cymru 2 yn ymuno a BBC
 OL,7,     FRadio 2 dros nos.
+OL,8,G0700 Sioe Frecwast
+OL,9,     FCerddoriaeth ac adloniant gyda
+OL,10,     FRhydian Bowen Phillips. Music and
+OL,11,     Fentertainment breakfast show with
+OL,12,     FRhydian Bowen Phillips.
+OL,13,G1000 Lisa Gwilym
+OL,14,     FAlistair James sydd yn sedd Lisa
+OL,15,     FGwilym, yn chwarae eich hoff
+OL,16,     Ffiwsig. Alistair James sits in for
+OL,17,     FLisa Gwilym, and plays your
+OL,18,     Ffavourite music.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,226,200,300,120,0,100
+PN,21802
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F218A1781673694
+OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
+OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
+OL,3,V}yyy5CWednesday               G2/3
+OL,5,G1400 Ifan Jones Evans
+OL,6,     FBeth Ollerton-Jones, Prif Swyddog
+OL,7,     FTafwyl sy'n sgwrsio gydag Ifan am
+OL,8,     F20 mlynedd o'r ?yl. Beth
+OL,9,     FOllerton-Jones, Tafwyl's Chief
+OL,10,     FOfficer chats to Ifan about 20
+OL,11,     Fyears of the festival.
+OL,12,G1700 Traciau Radio Cymru 2
+OL,13,     FTiwns trwy'r dydd yn parhau ar
+OL,14,     FRadio Cymru 2. More tunes on Radio
+OL,15,     FCymru 2.
+OL,16,G1900 Mirain Iwerydd
+OL,17,     FCerddoriaeth newydd Cymru. New
+OL,18,     FWelsh music.
+OL,19,G2030 Rhestr Chwarae Mirain
+OL,20,     FRhestr chwarae wedi'i churadu gan
+OL,21,     FMirain Iwerydd. A playlist curated
+OL,22,     Fby Mirain Iwerydd.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,226,200,300,120,0,100
+PN,21803
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F218A1781673694
+OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
+OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
+OL,3,V}yyy5CWednesday               G3/3
+OL,5,G2100 Caryl
+OL,6,     FCerddoriaeth a hwyl gyda'r hwyr
+OL,7,     Fgyda Steffan Hughes yn sedd Caryl
+OL,8,     FParry Jones. Music and fun with
+OL,9,     FSteffan Hughes sitting in for
+OL,10,     FCaryl Parry Jones.
+OL,11,G2300 Y Clwb PJs
+OL,12,     FYmunwch a Steffan Hughes i ymlacio
+OL,13,     Fwrth wrando ar gerddoriaeth
+OL,14,     Fhudolus cyn cysgu. Unwind with
+OL,15,     FSteffan Hughes while listening to
+OL,16,     Fsoothing music before sleeping.
+OL,17,G0000 Gweler BBC Radio 2
+OL,18,     FMae Radio Cymru 2 yn ymuno a BBC
+OL,19,     FRadio 2 dros nos.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,226,200,300,120,0,100@
