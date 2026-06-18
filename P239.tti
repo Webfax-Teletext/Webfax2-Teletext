@@ -2,10 +2,10 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1781673694
+OL,0,        ECIMSBWebfax 2   F239A1781760105
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G1/3
+OL,3,V}yyy5CFriday                  G1/3
 OL,5,G0600 Radio Scotland Breakfast
 OL,6,     FNews from across Scotland and the
 OL,7,     Fworld, plus sport, weather,
@@ -18,9 +18,12 @@ OL,13,G1200 Lunchtime Live
 OL,14,     FNews updates from Scotland and
 OL,15,     Fbeyond, plus all your lunchtime
 OL,16,     Fsport, travel and weather.
-OL,17,G1330 Radio Scotland Afternoons
-OL,18,     FThe best music, guests and arts
-OL,19,     Fcoverage.
+OL,17,G1330 Breaking the News
+OL,18,     FDes Clarke hosts Scotland's
+OL,19,     Faward-winning satirical news quiz.
+OL,20,G1400 Radio Scotland Afternoons
+OL,21,     FFeel-good music and chat with
+OL,22,     Fcelebrity guests.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -28,27 +31,25 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1781673694
+OL,0,        ECIMSBWebfax 2   F239A1781760105
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G2/3
+OL,3,V}yyy5CFriday                  G2/3
 OL,5,G1600 Drivetime
 OL,6,     FBreaking down the day's talking
 OL,7,     Fpoints with comment and opinion,
 OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Get It On with Bryan Burnett
-OL,10,     FAs we celebrate Scotland's first
-OL,11,     Fappearance in a World Cup since
-OL,12,     F1998, we relive the music that we
-OL,13,     Fwere listening to 28 years ago.
-OL,14,G2000 Travelling Folk
-OL,15,     FAnna celebrates 30 years of
-OL,16,     Ftraditional music at the Royal
-OL,17,     FConservatoire of Scotland.
-OL,18,G2200 Up Late
-OL,19,     FThe best company to end the day,
-OL,20,     Fwith lively chat and some of your
-OL,21,     Ffavourite tunes.
+OL,9,G1800 Yes Sir, We Can Boogie with Grant
+OL,10,G     and Arlene
+OL,11,     FGrant and Arlene with a party mix
+OL,12,     Fcelebrating Scotland facing
+OL,13,     FMorocco in the World Cup.
+OL,14,G2100 Sportsound
+OL,15,     FAll the build-up to Scotland's
+OL,16,     Fhuge game in Boston as Steve
+OL,17,     FClarke's side prepare for their
+OL,18,     Fsecond group match against
+OL,19,     FMorocco.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -56,18 +57,25 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1781673694
+OL,0,        ECIMSBWebfax 2   F239A1781760105
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G3/3
-OL,5,G0000 Scotcast
-OL,6,     FMartin Geissler and the team bring
-OL,7,     Fyou thoughtful conversation and
-OL,8,     Fexpert analysis covering the most
-OL,9,     Finteresting news stories in
-OL,10,     FScotland.
-OL,11,G0030 As BBC Radio 5 Live
-OL,12,     FJoining Radio 5 Live.
+OL,3,V}yyy5CFriday                  G3/3
+OL,5,G2300 Sportsound
+OL,6,     FFull commentary from Boston as
+OL,7,     FScotland take on Morocco in their
+OL,8,     Fsecond group game at the 2026 FIFA
+OL,9,     FWorld Cup.
+OL,10,G0130 This is BBC Radio Scotland (MW)
+OL,11,     FThis is BBC Radio Scotland (MW)
+OL,12,G0200 This is BBC Radio Scotland (MW)
+OL,13,     FThis is BBC Radio Scotland (MW)
+OL,14,G0215 World Cup
+OL,15,     FLive football commentary of Brazil
+OL,16,     Fv Haiti in Group C of the 2026
+OL,17,     FFIFA World Cup in Philadelphia.
+OL,18,G0330 As BBC Radio 5 Live
+OL,19,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100@
