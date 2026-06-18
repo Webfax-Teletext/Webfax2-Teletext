@@ -2,14 +2,14 @@ PN,22601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1781704206
+OL,0,        ECIMSBWebfax 2   F226A1781747402
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G1/5
 OL,5,G0500 Radio 1 Early Breakfast with Dean
 OL,6,G     McCullough
-OL,7,     FDean has Radio 1's Early
-OL,8,     FBreakfast.
+OL,7,     FMylo and Rosie have Radio 1's
+OL,8,     FEarly Breakfast.
 OL,9,G0658 Radio 1 News
 OL,10,     FThe latest news from around the UK
 OL,11,     Fand around the world.
@@ -28,7 +28,7 @@ PN,22602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1781704206
+OL,0,        ECIMSBWebfax 2   F226A1781747402
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G2/5
@@ -56,7 +56,7 @@ PN,22603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1781704206
+OL,0,        ECIMSBWebfax 2   F226A1781747402
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G3/5
@@ -82,28 +82,27 @@ PN,22604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1781704206
+OL,0,        ECIMSBWebfax 2   F226A1781747402
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G4/5
 OL,5,G2200 BBC Introducing on Radio 1 Dance
 OL,6,G     with Jaguar
-OL,7,     FJaguar brings you the most
-OL,8,     Fexciting new dance from BBC
-OL,9,     FIntroducing.
-OL,10,G2300 The Residency on Radio 1 Dance -
-OL,11,G     Lou Nour
-OL,12,     FLou Nour celebrates MCs and their
-OL,13,     Frole in shaping the energy and the
-OL,14,     Ffeeling of dance music.
-OL,15,G0100 Radio 1's Big Weekend:...
-OL,16,     F...Sunderland 2026, Olivia Dean.
-OL,17,     FOlivia Dean headlines Sunday at
-OL,18,     FRadio 1's Big Weekend 2026 in
-OL,19,     FSunderland.
-OL,20,G0200 Radio 1 Anthems
-OL,21,     FAlice Hopkins with big anthems and
-OL,22,     Ftunes you haven't heard in ages.
+OL,7,     FJaguar has a brand new Dancefloor
+OL,8,     FMoment from Surusinghe & Warrior
+OL,9,     FQueen, plus music from Lu.Re,
+OL,10,     FBacavi, Stashton, piri, Flaurese,
+OL,11,     FKiimi & loads more.
+OL,12,G2300 The Residency on Radio 1 Dance -
+OL,13,G     Lou Nour
+OL,14,     FLou Nour celebrates MCs and their
+OL,15,     Frole in shaping the energy and the
+OL,16,     Ffeeling of dance music.
+OL,17,G0100 Radio 1's Big Weekend:...
+OL,18,     F...Sunderland 2026, Olivia Dean.
+OL,19,     FOlivia Dean headlines Sunday at
+OL,20,     FRadio 1's Big Weekend 2026 in
+OL,21,     FSunderland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100
@@ -111,17 +110,20 @@ PN,22605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1781704206
+OL,0,        ECIMSBWebfax 2   F226A1781747402
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G5/5
-OL,5,G0400 Radio 1's Workout Anthems
-OL,6,     FMotivational tunes to get you
-OL,7,     Fmoving!
-OL,8,G0500 Radio 1 Early Breakfast with
-OL,9,G     Lauren Redfern
-OL,10,     FLauren Redfern starts Friday on
-OL,11,     FRadio 1.
+OL,5,G0200 Radio 1 Anthems
+OL,6,     FAlice Hopkins with big anthems and
+OL,7,     Ftunes you haven't heard in ages.
+OL,8,G0400 Radio 1's Workout Anthems
+OL,9,     FMotivational tunes to get you
+OL,10,     Fmoving!
+OL,11,G0500 Radio 1 Early Breakfast with
+OL,12,G     Lauren Redfern
+OL,13,     FLauren Redfern starts Friday on
+OL,14,     FRadio 1.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100@
