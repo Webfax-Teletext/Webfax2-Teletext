@@ -1,15 +1,50 @@
-PN,28700
-SC,0000
+PN,28701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F287A1781828404
+PS,c008
+OL,0,        ECIMSBWebfax 2   F287A1781846499
 OL,1,Vzssssss{0Ww;js%7+ "7jsjsjs
 OL,2,Vupp=wfff5W-.*,%-.  %*,*,(.V(,,,,,,,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G0100 Weekday overnights with BBC...
-OL,6,     F...Radio 5 Live. Local BBC Radio
-OL,7,     Fjoins BBC Radio 5 Live through the
-OL,8,     Fnight on a weekday.
+OL,3,V}yyy5CFriday                  G1/2
+OL,5,G0600 Amy Oakden
+OL,6,     FTrusted local news and sport,
+OL,7,     Finformation and advice, and great
+OL,8,     Fmusic.
+OL,9,G1000 Gary Philipson
+OL,10,     FGary Philipson brings you great
+OL,11,     Fmusic, information and advice, and
+OL,12,     Fmid-morning updates.
+OL,13,G1400 Scott Makin
+OL,14,     FScott brings you trusted news and
+OL,15,     Fsport, music and fun, and
+OL,16,     Fafternoon conversation.
+OL,17,G1800 BBC Radio Tees Sport
+OL,18,     FThe latest on Middlesbrough and
+OL,19,     FHartlepool United and sports news
+OL,20,     Ffrom across the region.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,288,250,301,140,0,100
+PN,28702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F287A1781846499
+OL,1,Vzssssss{0Ww;js%7+ "7jsjsjs
+OL,2,Vupp=wfff5W-.*,%-.  %*,*,(.V(,,,,,,,,,,,
+OL,3,V}yyy5CFriday                  G2/2
+OL,5,G1900 Rachel Teate
+OL,6,     FRachel's here with great music and
+OL,7,     Fconversation to get your weekend
+OL,8,     Fstarted.
+OL,9,G2200 Late Night Jo
+OL,10,     FJo Good with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekend overnights with BBC...
+OL,14,     F...Radio 5 Live. Local BBC Radio
+OL,15,     Fjoins BBC Radio 5 Live through the
+OL,16,     Fnight on a weekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,288,250,301,140,0,100@
