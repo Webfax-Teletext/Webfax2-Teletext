@@ -2,7 +2,7 @@ PN,24101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1781760105
+OL,0,        ECIMSBWebfax 2   F241A1781833800
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CFriday                  G1/4
@@ -31,7 +31,7 @@ PN,24102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1781760105
+OL,0,        ECIMSBWebfax 2   F241A1781833800
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CFriday                  G2/4
@@ -59,28 +59,22 @@ PN,24103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1781760105
+OL,0,        ECIMSBWebfax 2   F241A1781833800
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CFriday                  G3/4
 OL,5,G1900 Elin Fflur's 70s Playlist
-OL,6,     FElin Fflur gets your weekend
-OL,7,     Fstarted with party classics from
-OL,8,     Fthe 70s and the biggest Welsh
-OL,9,     Fanthems.
-OL,10,G2000 Elin Fflur's 80s Playlist
-OL,11,     FElin Fflur gets your weekend
-OL,12,     Fstarted with party classics from
-OL,13,     Fthe 80s and the biggest Welsh
-OL,14,     Fanthems.
-OL,15,G2100 Elin Fflur's 90s Playlist
-OL,16,     FElin Fflur gets your weekend
-OL,17,     Fstarted with party classics from
-OL,18,     Fthe 90s and the biggest Welsh
-OL,19,     Fanthems.
-OL,20,G2200 Friday Night H
-OL,21,     FH from Steps takes you into the
-OL,22,     Fweekend with great music and chat.
+OL,6,     FElin Fflur has a 70s Power Mix all
+OL,7,     Fabout food. A Welsh language track
+OL,8,     Ffrom Geraint Jarman and music from
+OL,9,     Fthe decade of punk, disco and rock
+OL,10,     Fn roll.
+OL,11,G2000 Elin Fflur's 80s Playlist
+OL,12,     FElin Fflur's Welsh Language hit is
+OL,13,     Falso her Long Player this week
+OL,14,     Ffrom Y Brodyr. Huge 80s songs from
+OL,15,     Fthe likes of Fleetwood Mac and
+OL,16,     FJanet Jackson.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,242,200,300,120,0,100
@@ -88,17 +82,27 @@ PN,24104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1781760105
+OL,0,        ECIMSBWebfax 2   F241A1781833800
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CFriday                  G4/4
-OL,5,G0000 The Party Playlist with H
-OL,6,     FH from Steps has your ultimate
-OL,7,     Fparty playlist. Not just for
-OL,8,     FFridays!
-OL,9,G0100 As BBC Radio 5 Live
-OL,10,     FSee listings for BBC Radio 5 Live
-OL,11,     Fon BBC Sounds.
+OL,5,G2100 Elin Fflur's 90s Playlist
+OL,6,     FElin Fflur celebrates the release
+OL,7,     Fof Toy Story 5 with a movie
+OL,8,     Fsoundtrack song from the first
+OL,9,     Ffilm. Plus the Beganifs supply
+OL,10,     Fthis week's 90s Welsh Language
+OL,11,     FHit.
+OL,12,G2200 Friday Night H
+OL,13,     FH from Steps takes you into the
+OL,14,     Fweekend with great music and chat.
+OL,15,G0000 The Party Playlist with H
+OL,16,     FH from Steps celebrates Pride
+OL,17,     FMonth through out June with Pride
+OL,18,     Fanthems.
+OL,19,G0100 As BBC Radio 5 Live
+OL,20,     FSee listings for BBC Radio 5 Live
+OL,21,     Fon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,242,200,300,120,0,100@
