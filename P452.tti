@@ -2,27 +2,24 @@ PN,45201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1781947213
+OL,0,        ECIMSBWebfax 2   F452A1781958014
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
 OL,3,V}yyy5CSaturday                G1/3
-OL,5,G1000 The Warm Up
-OL,6,     FThe best build-up to today's
-OL,7,     Fsporting action with pre-match fun
-OL,8,     Fand games. Call the show on 03717
-OL,9,     F22 33 44 (Calls charged at
-OL,10,     Fnational rate) or text 81089 (50p
-OL,11,     F+ charges).
-OL,12,G1300 World Cup Weekender
-OL,13,     FThe latest news, discussion and
-OL,14,     Freaction from the World Cup. Call
-OL,15,     Fthe show on 03717 22 33 44 (Calls
-OL,16,     Fcharged at national rate) or text
-OL,17,     F81089 (50p + charges).
-OL,18,G1600 World Cup GameDay Live Netherlands
-OL,19,G     v Sweden
-OL,20,     FAdrian Durham presents live
-OL,21,     Fcommentary from the World Cup.
+OL,5,G1300 World Cup Weekender
+OL,6,     FThe latest news, discussion and
+OL,7,     Freaction from the World Cup. Call
+OL,8,     Fthe show on 03717 22 33 44 (Calls
+OL,9,     Fcharged at national rate) or text
+OL,10,     F81089 (50p + charges).
+OL,11,G1600 World Cup GameDay Live Netherlands
+OL,12,G     v Sweden
+OL,13,     FAdrian Durham presents live
+OL,14,     Fcommentary from the World Cup.
+OL,15,G2000 World Cup GameDay Live Germany v
+OL,16,G     Ivory Coast
+OL,17,     FHugh Woozencroft presents live
+OL,18,     Fcommentary from the World Cup.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,453,250,301,140,0,100
@@ -30,25 +27,27 @@ PN,45202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1781947213
+OL,0,        ECIMSBWebfax 2   F452A1781958014
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
 OL,3,V}yyy5CSaturday                G2/3
-OL,5,G2000 World Cup GameDay Live Germany v
-OL,6,G     Ivory Coast
-OL,7,     FHugh Woozencroft presents live
-OL,8,     Fcommentary from the World Cup.
-OL,9,G2300 World Cup Sports Bar Weekender
-OL,10,     FReaction, analysis and your chance
-OL,11,     Fto have your say on the day's
-OL,12,     Fsport. Call the show on 03717 22
-OL,13,     F33 44 (Calls charged at national
-OL,14,     Frate) or text 81089 (50p +
-OL,15,     Fcharges).
-OL,16,G0100 World Cup GameDay Live Ecuador v
-OL,17,G     Curacao
-OL,18,     FBen Fletcher presents live
-OL,19,     Fcommentary from the World Cup.
+OL,5,G2300 World Cup Sports Bar Weekender
+OL,6,     FReaction, analysis and your chance
+OL,7,     Fto have your say on the day's
+OL,8,     Fsport. Call the show on 03717 22
+OL,9,     F33 44 (Calls charged at national
+OL,10,     Frate) or text 81089 (50p +
+OL,11,     Fcharges).
+OL,12,G0100 World Cup GameDay Live Ecuador v
+OL,13,G     Curacao
+OL,14,     FBen Fletcher presents live
+OL,15,     Fcommentary from the World Cup.
+OL,16,G0300 World Cup GameDay Live
+OL,17,     FThe latest news, discussion and
+OL,18,     Freaction from the World Cup. Call
+OL,19,     Fthe show on 03717 22 33 44 (Calls
+OL,20,     Fcharged at national rate) or text
+OL,21,     F81089 (50p + charges).
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,453,250,301,140,0,100
@@ -56,20 +55,14 @@ PN,45203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1781947213
+OL,0,        ECIMSBWebfax 2   F452A1781958014
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
 OL,3,V}yyy5CSaturday                G3/3
-OL,5,G0300 World Cup GameDay Live
-OL,6,     FThe latest news, discussion and
-OL,7,     Freaction from the World Cup. Call
-OL,8,     Fthe show on 03717 22 33 44 (Calls
-OL,9,     Fcharged at national rate) or text
-OL,10,     F81089 (50p + charges).
-OL,11,G0500 World Cup GameDay Live Tunisia v
-OL,12,G     Japan
-OL,13,     FBen Fletcher presents live
-OL,14,     Fcommentary from the World Cup.
+OL,5,G0500 World Cup GameDay Live Tunisia v
+OL,6,G     Japan
+OL,7,     FBen Fletcher presents live
+OL,8,     Fcommentary from the World Cup.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,453,250,301,140,0,100@
