@@ -1,15 +1,304 @@
-PN,20400
-SC,0000
+PN,20401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1781930966
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CFriday
-OL,5,G0545 The Hackers
-OL,6,     F9/10. Biella discovers the
-OL,7,     Fdifferent reasons people hack
-OL,8,     Ftheir own bodies.
+OL,3,V}yyy5CSaturday                G1/12
+OL,5,G0607 Ramblings
+OL,6,     FMarlon Patrice and his group, We
+OL,7,     FGo Outside Too, lead Clare up The
+OL,8,     FWrekin in Shropshire.
+OL,9,G0630 Farming Today This Week
+OL,10,     FCaz Graham brings you news from
+OL,11,     Fthe Royal Highland Show in
+OL,12,     FEdinburgh, as well as discussing
+OL,13,     FScottish agricultural policy and
+OL,14,     Fthe South West's octopus bloom.
+OL,15,G0657 Weather Forecast
+OL,16,G0700 Today
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G2/12
+OL,5,G0900 Saturday Live
+OL,6,     FThe comedian and writer Ruby Wax,
+OL,7,     Fthe social historian Professor
+OL,8,     FCarl Chinn, the journalist Sathnam
+OL,9,     FSanghera, plus the Inheritance
+OL,10,     FTracks of the broadcaster Lorraine
+OL,11,     FKelly.
+OL,12,G1000 Sixty Years of Hurt
+OL,13,     F6/6. In the last episode of his
+OL,14,     Fseries on the history of the
+OL,15,     FEngland Men's football team, David
+OL,16,     FBaddiel looks at that most
+OL,17,     Fmagical, and most tantalising of
+OL,18,     Fall things - hope.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G3/12
+OL,5,G1030 Legend: The Miles Davis Story
+OL,6,     F5/5. Clarke Peters on the final
+OL,7,     Fchapter of the MiIes Davis Story.
+OL,8,     FAfter five 'lost years', Miles
+OL,9,     Fmakes a musical comeback that will
+OL,10,     Fcement his legacy while making
+OL,11,     Fpeace with his past.
+OL,12,G1100 The Week in Westminster
+OL,13,     FVicki Young and guests discuss
+OL,14,     FAndy Burnham's Makerfield
+OL,15,     Fby-election win, which paves the
+OL,16,     Fway for a leadership challenge
+OL,17,     Fagainst Sir Keir Starmer.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20404
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G4/12
+OL,5,G1130 From Our Own Correspondent
+OL,6,     FDonald Trump once again dominated
+OL,7,     Fthe agenda at the latest G7 summit
+OL,8,     Fin France, as he presented his
+OL,9,     Fprospective peace deal with Iran
+OL,10,     Fand agreed to continued support
+OL,11,     Ffor Ukraine.
+OL,12,G1200 News Summary
+OL,13,G1204 Money Box
+OL,14,     FThe latest news from the world of
+OL,15,     Fpersonal finance.
+OL,16,G1230 Dead Ringers
+OL,17,     F2/6. The Dead Ringers team are
+OL,18,     Fback to train their vocal
+OL,19,     Ffirepower on the week's news. This
+OL,20,     Fweek: Andy Andy Burnham Bright.
+OL,21,G1257 Weather Forecast
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20405
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G5/12
+OL,5,G1300 News Bulletin
+OL,6,     FNational and international news
+OL,7,     Ffrom BBC Radio 4.
+OL,8,G1310 Any Questions?
+OL,9,     FAlex Forsyth presents political
+OL,10,     Fdebate from Hixon Memorial Hall in
+OL,11,     FStaffordshire with Catherine
+OL,12,     FAtkinson MP, Nigel Huddleston MP,
+OL,13,     FFraser Nelson and Polly Toynbee.
+OL,14,G1405 Any Answers?
+OL,15,     FListeners respond to the issues
+OL,16,     Fraised in the preceding edition of
+OL,17,     FAny Questions?
+OL,18,G1445 The Archers
+OL,19,     FThe stress builds for Amber, and
+OL,20,     FWill attempts to make a good
+OL,21,     Fimpression.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20406
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G6/12
+OL,5,G1500 Joseph Andrews Remixed
+OL,6,     F2/2. Joseph continues to wander
+OL,7,     Fthe byways of England and have
+OL,8,     Fadventures that reveal humanity's
+OL,9,     Ffoolishness in Shaun McKenna's
+OL,10,     Fremixed version of Fielding's
+OL,11,     Fcomic satire of the day.
+OL,12,G1600 Weekend Woman's Hour
+OL,13,     FHighlights from the Woman's Hour
+OL,14,     Fweek.
+OL,15,G1700 Saturday PM
+OL,16,     FFull coverage of the day's news.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20407
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G7/12
+OL,5,G1730 Political Thinking with Nick
+OL,6,G     Robinson
+OL,7,     FFormer Tory adviser and Trump pick
+OL,8,     Ffor California Governor Steve
+OL,9,     FHilton on how frustration with the
+OL,10,     Fstatus quo drove him from Downing
+OL,11,     FStreet to US Politics.
+OL,12,G1754 Shipping Forecast
+OL,13,G1757 Weather Forecast
+OL,14,G1800 Six O'Clock News
+OL,15,G1815 Loose Ends
+OL,16,     FStuart is joined by comedian
+OL,17,     FDaniel Sloss and writer Helen
+OL,18,     FWatson at Borders Book Festival in
+OL,19,     Fthe Scottish Borders. Plus, music
+OL,20,     Ffrom Horse McDonald.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20408
+SC,0008
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G8/12
+OL,5,G1900 Profile
+OL,6,     FAn insight into the character of
+OL,7,     Fan influential person making the
+OL,8,     Fnews headlines.
+OL,9,G1915 This Cultural Life
+OL,10,     FWriter and Children's Laureate
+OL,11,     FFrank Cottrell-Boyce talks to John
+OL,12,     FWilson about his cultural
+OL,13,     Finfluences and career.
+OL,14,G2000 Resonance FM: The Art of Listening
+OL,15,     FComedian and writer Stewart Lee
+OL,16,     Ftells the story and explores the
+OL,17,     Ffounding ideas and archive of
+OL,18,     FResonance FM, the UK's greatest
+OL,19,     Fradio art station.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20409
+SC,0009
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G9/12
+OL,5,G2100 The Moral Maze
+OL,6,     FMichael Buerk chairs a live debate
+OL,7,     Fexamining the moral issues behind
+OL,8,     Fone of the week's news stories.
+OL,9,     FWith panellists: Ash Sarkar, James
+OL,10,     FOrr, Mona Siddiqui and Tim
+OL,11,     FStanley.
+OL,12,G2200 News Bulletin
+OL,13,     FNational and international news
+OL,14,     Ffrom BBC Radio 4.
+OL,15,G2215 The Food Programme
+OL,16,     F15 years after her cancer
+OL,17,     Fdiagnosis, Sheila Dillon asks why
+OL,18,     Ffood still often gets overlooked
+OL,19,     Fin cancer care, and finds out how
+OL,20,     Fthat could be changing.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20410
+SC,0010
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday               G10/12
+OL,5,G2300 The Many Wrongs Of Lord Christian
+OL,6,G     Brighty
+OL,7,     F4/4. Brighty's plans to take Babs
+OL,8,     Fand Churley to the celebrated
+OL,9,     Ffinal Ball of the Season at Mr
+OL,10,     FTwouft's house are upended when he
+OL,11,     Fruns into his into ex-fiancee Lady
+OL,12,     FPenelope.
+OL,13,G2330 DejC  News
+OL,14,     FLucy Porter hosts a brand new quiz
+OL,15,     Fas contestants are questioned on a
+OL,16,     Fcentury of news archive which
+OL,17,     Ftests their knowledge of the sound
+OL,18,     Fof stories from the last 100
+OL,19,     Fyears.
+OL,20,G0000 Midnight News
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20411
+SC,0011
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday               G11/12
+OL,5,G0015 Take Four Books
+OL,6,     FThe Scottish author, Douglas
+OL,7,     FStuart, on his latest novel, John
+OL,8,     FOf John, and, together with
+OL,9,     Fpresenter James Crawford, they
+OL,10,     Fexplore its connections to three
+OL,11,     Fother books.
+OL,12,G0048 Shipping Forecast
+OL,13,G0100 World Service
+OL,14,     FBBC Radio 4 joins the BBC World
+OL,15,     FService.
+OL,16,G0530 News Summary
+OL,17,G0534 Shipping Forecast
+OL,18,G0543 Bells on Sunday
+OL,19,     FBells on Sunday comes from the
+OL,20,     FChurch of St Michael and St Felix
+OL,21,     Fin Rumburgh, Suffolk.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20412
+SC,0012
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1781932897
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday               G12/12
+OL,5,G0545 In Touch
+OL,6,     FA guided shopping service for
+OL,7,     Fvisually impaired people is being
+OL,8,     Foffered by John Lewis and visually
+OL,9,     Fimpaired sisters will be competing
+OL,10,     Ffor different teams at the
+OL,11,     FCommonwealth Games.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100@
