@@ -1,42 +1,27 @@
-PN,45201
-SC,0001
+PN,45200
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1782055211
+PS,8008
+OL,0,        ECIMSBWebfax 2   F452A1782066017
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CSunday                  G1/2
-OL,5,G1600 World Cup GameDay Live Spain v
-OL,6,G     Saudi Arabia
-OL,7,     FNatalie Sawyer commentary from the
-OL,8,     FWorld Cup.
-OL,9,G1900 World Cup GameDay Live Belgium v
-OL,10,G     Iran
-OL,11,     FHugh Woozencroft presents live
-OL,12,     Fcommentary from the World Cup.
-OL,13,G2200 World Cup GameDay Live Uruguay v
-OL,14,G     Cape Verde
+OL,3,V}yyy5CSunday
+OL,5,G1900 World Cup GameDay Live Belgium v
+OL,6,G     Iran
+OL,7,     FHugh Woozencroft presents live
+OL,8,     Fcommentary from the World Cup.
+OL,9,G2200 World Cup GameDay Live Uruguay v
+OL,10,G     Cape Verde
+OL,11,     FLive commentary from the World
+OL,12,     FCup.
+OL,13,G0100 World Cup GameDay Live New Zealand
+OL,14,G     v Egypt
 OL,15,     FLive commentary from the World
 OL,16,     FCup.
-OL,17,G0100 World Cup GameDay Live New Zealand
-OL,18,G     v Egypt
-OL,19,     FLive commentary from the World
-OL,20,     FCup.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,453,250,301,140,0,100
-PN,45202
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1782055211
-OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
-OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CSunday                  G2/2
-OL,5,G0500 Early Sports Breakfast
-OL,6,     FAn early morning serving of the
-OL,7,     Flatest sports news for when you
-OL,8,     Fwake up.
+OL,17,G0500 Early Sports Breakfast
+OL,18,     FAn early morning serving of the
+OL,19,     Flatest sports news for when you
+OL,20,     Fwake up.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,453,250,301,140,0,100@
