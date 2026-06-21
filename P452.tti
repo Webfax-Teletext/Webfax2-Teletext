@@ -2,23 +2,27 @@ PN,45201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1782022810
+OL,0,        ECIMSBWebfax 2   F452A1782033611
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CSunday                  G1/3
-OL,5,G0700 Weekend Sports Breakfast
-OL,6,     FThe definitive word on all the
-OL,7,     Fweekend's sports stories. Call the
-OL,8,     Fshow on 03717 22 33 44 (Calls
-OL,9,     Fcharged at national rate) or text
-OL,10,     F81089 (50p + charges).
-OL,11,G1000 The Warm Up
-OL,12,     FThe best build-up to today's
-OL,13,     Fsporting action with pre-match fun
-OL,14,     Fand games. Call the show on 03717
-OL,15,     F22 33 44 (Calls charged at
-OL,16,     Fnational rate) or text 81089 (50p
-OL,17,     F+ charges).
+OL,3,V}yyy5CSunday                  G1/2
+OL,5,G1000 The Warm Up
+OL,6,     FThe best build-up to today's
+OL,7,     Fsporting action with pre-match fun
+OL,8,     Fand games. Call the show on 03717
+OL,9,     F22 33 44 (Calls charged at
+OL,10,     Fnational rate) or text 81089 (50p
+OL,11,     F+ charges).
+OL,12,G1300 World Cup Weekender
+OL,13,     FThe latest news, discussion and
+OL,14,     Freaction from the World Cup. Call
+OL,15,     Fthe show on 03717 22 33 44 (Calls
+OL,16,     Fcharged at national rate) or text
+OL,17,     F81089 (50p + charges).
+OL,18,G1600 World Cup GameDay Live Spain v
+OL,19,G     Saudi Arabia
+OL,20,     FNatalie Sawyer commentary from the
+OL,21,     FWorld Cup.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,453,250,301,140,0,100
@@ -26,47 +30,26 @@ PN,45202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1782022810
+OL,0,        ECIMSBWebfax 2   F452A1782033611
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CSunday                  G2/3
-OL,5,G1300 World Cup Weekender
-OL,6,     FThe latest news, discussion and
-OL,7,     Freaction from the World Cup. Call
-OL,8,     Fthe show on 03717 22 33 44 (Calls
-OL,9,     Fcharged at national rate) or text
-OL,10,     F81089 (50p + charges).
-OL,11,G1600 World Cup GameDay Live Spain v
-OL,12,G     Saudi Arabia
-OL,13,     FNatalie Sawyer commentary from the
-OL,14,     FWorld Cup.
-OL,15,G1900 World Cup GameDay Live Belgium v
-OL,16,G     Iran
-OL,17,     FHugh Woozencroft presents live
-OL,18,     Fcommentary from the World Cup.
-OL,19,G2200 World Cup GameDay Live Uruguay v
-OL,20,G     Cape Verde
-OL,21,     FLive commentary from the World
-OL,22,     FCup.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,453,250,301,140,0,100
-PN,45203
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1782022810
-OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
-OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CSunday                  G3/3
-OL,5,G0100 World Cup GameDay Live New Zealand
-OL,6,G     v Egypt
-OL,7,     FLive commentary from the World
-OL,8,     FCup.
-OL,9,G0500 Early Sports Breakfast
-OL,10,     FAn early morning serving of the
-OL,11,     Flatest sports news for when you
-OL,12,     Fwake up.
+OL,3,V}yyy5CSunday                  G2/2
+OL,5,G1900 World Cup GameDay Live Belgium v
+OL,6,G     Iran
+OL,7,     FHugh Woozencroft presents live
+OL,8,     Fcommentary from the World Cup.
+OL,9,G2200 World Cup GameDay Live Uruguay v
+OL,10,G     Cape Verde
+OL,11,     FLive commentary from the World
+OL,12,     FCup.
+OL,13,G0100 World Cup GameDay Live New Zealand
+OL,14,G     v Egypt
+OL,15,     FLive commentary from the World
+OL,16,     FCup.
+OL,17,G0500 Early Sports Breakfast
+OL,18,     FAn early morning serving of the
+OL,19,     Flatest sports news for when you
+OL,20,     Fwake up.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,453,250,301,140,0,100@
