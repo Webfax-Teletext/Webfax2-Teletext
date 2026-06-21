@@ -2,27 +2,24 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782084052
+OL,0,        ECIMSBWebfax 2   F211A1782085778
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSunday                  G1/5
-OL,5,G0006 From Our Own Correspondent
-OL,6,     FThe US dominates the G7; the DRC's
-OL,7,     FEbola outbreak is out of control;
-OL,8,     Fa close election in Peru is still
-OL,9,     Fundecided; Ghanaians prepare for
-OL,10,     Fthe World Cup.
-OL,11,G0030 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G0032 BBC Inside Science
-OL,15,     FUnder-16s will soon be banned from
-OL,16,     Fmajor social media apps, but what
-OL,17,     Fevidence do we have for this ban
-OL,18,     Fand what research is still needed.
-OL,19,G0100 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,5,G0032 BBC Inside Science
+OL,6,     FUnder-16s will soon be banned from
+OL,7,     Fmajor social media apps, but what
+OL,8,     Fevidence do we have for this ban
+OL,9,     Fand what research is still needed.
+OL,10,G0100 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G0106 The Newsroom
+OL,14,     FThe world's Newsroom brings you
+OL,15,     Fglobal events as they happen.
+OL,16,G0130 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -30,26 +27,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782084052
+OL,0,        ECIMSBWebfax 2   F211A1782085778
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSunday                  G2/5
-OL,5,G0106 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0130 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0132 Discovery
-OL,12,     FPalaeontologist Dean Lomax on the
-OL,13,     Fmighty marine reptiles that might
-OL,14,     Fhave been the largest creatures
-OL,15,     Fever to roam the planet - and on
-OL,16,     Fhaving the determination to follow
-OL,17,     Fyour dreams.
-OL,18,G0200 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
+OL,5,G0132 Discovery
+OL,6,     FPalaeontologist Dean Lomax on the
+OL,7,     Fmighty marine reptiles that might
+OL,8,     Fhave been the largest creatures
+OL,9,     Fever to roam the planet - and on
+OL,10,     Fhaving the determination to follow
+OL,11,     Fyour dreams.
+OL,12,G0200 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0206 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0230 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -57,26 +54,28 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782084052
+OL,0,        ECIMSBWebfax 2   F211A1782085778
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSunday                  G3/5
-OL,5,G0206 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0230 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0232 CrowdScience
-OL,12,     FBluetooth connects billions of
-OL,13,     Fdevices worldwide, letting us
-OL,14,     Fshare files, listen to music and
-OL,15,     Fmuch more - all without wires. But
-OL,16,     Fhow does it send information
-OL,17,     Fthrough the air?
-OL,18,G0300 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
+OL,5,G0232 CrowdScience
+OL,6,     FBluetooth connects billions of
+OL,7,     Fdevices worldwide, letting us
+OL,8,     Fshare files, listen to music and
+OL,9,     Fmuch more - all without wires. But
+OL,10,     Fhow does it send information
+OL,11,     Fthrough the air?
+OL,12,G0300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0306 People Fixing The World
+OL,16,     FFrom the grassroots rescue network
+OL,17,     Fin Nepal to the Malaysian
+OL,18,     Fscientists working on a universal
+OL,19,     Fantivenom.
+OL,20,G0330 BBC News Summary
+OL,21,     FThe latest two minute news summary
+OL,22,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -84,28 +83,23 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782084052
+OL,0,        ECIMSBWebfax 2   F211A1782085778
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSunday                  G4/5
-OL,5,G0306 People Fixing The World
-OL,6,     FFrom the grassroots rescue network
-OL,7,     Fin Nepal to the Malaysian
-OL,8,     Fscientists working on a universal
-OL,9,     Fantivenom.
-OL,10,G0330 BBC News Summary
-OL,11,     FThe latest two minute news summary
-OL,12,     Ffrom BBC World Service.
-OL,13,G0332 The Fifth Floor
-OL,14,     FWhy record numbers of climbers
-OL,15,     Fmean increased risk for mountain
-OL,16,     Fguides.
-OL,17,G0400 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G0406 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,5,G0332 The Fifth Floor
+OL,6,     FWhy record numbers of climbers
+OL,7,     Fmean increased risk for mountain
+OL,8,     Fguides.
+OL,9,G0400 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0406 The Newsroom
+OL,13,     FThe world's Newsroom brings you
+OL,14,     Fglobal events as they happen.
+OL,15,G0430 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -113,25 +107,22 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782084052
+OL,0,        ECIMSBWebfax 2   F211A1782085778
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSunday                  G5/5
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 The Conversation
-OL,9,     FDatshiane Navanayagam talks to
-OL,10,     Fpsychiatrists in Rwanda and the UK
-OL,11,     Fabout the impact of traumatic
-OL,12,     Fevents and how to survive and
-OL,13,     Fthrive after damaging experiences.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 Newsday
-OL,18,     FLive news, business and sport from
-OL,19,     Faround the world.
+OL,5,G0432 The Conversation
+OL,6,     FDatshiane Navanayagam talks to
+OL,7,     Fpsychiatrists in Rwanda and the UK
+OL,8,     Fabout the impact of traumatic
+OL,9,     Fevents and how to survive and
+OL,10,     Fthrive after damaging experiences.
+OL,11,G0500 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0506 Newsday
+OL,15,     FLive news, business and sport from
+OL,16,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
