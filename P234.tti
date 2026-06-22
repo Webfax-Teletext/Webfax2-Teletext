@@ -2,26 +2,27 @@ PN,23401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1782019296
+OL,0,        ECIMSBWebfax 2   F234A1782105720
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CMonday                  G1/2
+OL,3,V}yyy5CTuesday                 G1/2
 OL,5,G0600 This Is Sports Extra
 OL,6,     FThis is BBC Radio 5 Sports Extra -
 OL,7,     Fbringing you even more live
 OL,8,     Fcommentaries from the world's
 OL,9,     Fgreatest sporting events. Listen
 OL,10,     Fon BBC Sounds.
-OL,11,G1055 County Cricket
-OL,12,     FKevin Howells presents live
-OL,13,     Fball-by-ball cricket commentary
-OL,14,     Ffrom the County Championship.
-OL,15,G1830 This Is Sports Extra
-OL,16,     FThis is BBC Radio 5 Sports Extra -
-OL,17,     Fbringing you even more live
-OL,18,     Fcommentaries from the world's
-OL,19,     Fgreatest sporting events. Listen
-OL,20,     Fon BBC Sounds.
+OL,11,G1015 ICC Women's T20 World Cup
+OL,12,     FLive ball-by-ball cricket
+OL,13,     Fcommentary of New Zealand v
+OL,14,     FScotland in the ICC Women's T20
+OL,15,     FWorld Cup at the Bristol County
+OL,16,     FGround.
+OL,17,G1415 ICC Women's T20 World Cup
+OL,18,     FLive ball-by-ball cricket
+OL,19,     Fcommentary of Sri Lanka v Ireland
+OL,20,     Fin the ICC Women's T20 World Cup
+OL,21,     Fat the Bristol County Ground.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,235,200,300,120,0,100
@@ -29,16 +30,27 @@ PN,23402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1782019296
+OL,0,        ECIMSBWebfax 2   F234A1782105720
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CMonday                  G2/2
-OL,5,G0000 This Is Sports Extra
-OL,6,     FThis is BBC Radio 5 Sports Extra -
-OL,7,     Fbringing you even more live
-OL,8,     Fcommentaries from the world's
-OL,9,     Fgreatest sporting events. Listen
-OL,10,     Fon BBC Sounds.
+OL,3,V}yyy5CTuesday                 G2/2
+OL,5,G1815 ICC Women's T20 World Cup
+OL,6,     FLive ball-by-ball cricket
+OL,7,     Fcommentary of Australia v Pakistan
+OL,8,     Fin the ICC Women's T20 World Cup
+OL,9,     Fat Headingley.
+OL,10,G2230 This Is Sports Extra
+OL,11,     FThis is BBC Radio 5 Sports Extra -
+OL,12,     Fbringing you even more live
+OL,13,     Fcommentaries from the world's
+OL,14,     Fgreatest sporting events. Listen
+OL,15,     Fon BBC Sounds.
+OL,16,G0000 This Is Sports Extra
+OL,17,     FThis is BBC Radio 5 Sports Extra -
+OL,18,     Fbringing you even more live
+OL,19,     Fcommentaries from the world's
+OL,20,     Fgreatest sporting events. Listen
+OL,21,     Fon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,235,200,300,120,0,100@
