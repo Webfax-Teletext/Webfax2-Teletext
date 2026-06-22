@@ -2,24 +2,28 @@ PN,20501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1782159471
+OL,0,        ECIMSBWebfax 2   F205A1782161265
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CMonday                  G1/2
-OL,5,G2100 5 Live News
-OL,6,     FQasa Alom with the day's news and
-OL,7,     Ffurther analysis on the day Sir
-OL,8,     FKeir Starmer resigned as prime
-OL,9,     Fminister and leader of the Labour
-OL,10,     Fparty.
-OL,11,G2130 World Cup
-OL,12,     FSteve Crossman presents build-up
-OL,13,     Fto France v Iraq at the 2026 FIFA
-OL,14,     FWorld Cup.
-OL,15,G2155 World Cup
-OL,16,     FLive football commentary of France
-OL,17,     Fv Iraq in Group I of the 2026 FIFA
-OL,18,     FWorld Cup in Philadelphia.
+OL,5,G2130 World Cup
+OL,6,     FSteve Crossman presents build-up
+OL,7,     Fto France v Iraq at the 2026 FIFA
+OL,8,     FWorld Cup.
+OL,9,G2155 World Cup
+OL,10,     FLive football commentary of France
+OL,11,     Fv Iraq in Group I of the 2026 FIFA
+OL,12,     FWorld Cup in Philadelphia.
+OL,13,G0005 5 Live News
+OL,14,     FQasa Alom with a round up of the
+OL,15,     Fday's news following Sir Keir
+OL,16,     FStarmer's resignation as prime
+OL,17,     Fminister and leader of the Labour
+OL,18,     Fparty.
+OL,19,G0055 World Cup
+OL,20,     FLive football commentary of Norway
+OL,21,     Fv Senegal in Group I of the 2026
+OL,22,     FFIFA World Cup in New Jersey.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100
@@ -27,28 +31,18 @@ PN,20502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1782159471
+OL,0,        ECIMSBWebfax 2   F205A1782161265
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CMonday                  G2/2
-OL,5,G0005 5 Live News
-OL,6,     FQasa Alom with a round up of the
-OL,7,     Fday's news following Sir Keir
-OL,8,     FStarmer's resignation as prime
-OL,9,     Fminister and leader of the Labour
-OL,10,     Fparty.
-OL,11,G0055 World Cup
-OL,12,     FLive football commentary of Norway
-OL,13,     Fv Senegal in Group I of the 2026
-OL,14,     FFIFA World Cup in New Jersey.
-OL,15,G0305 Dotun Adebayo
-OL,16,     FDotun Adebayo with your calls and
-OL,17,     Fbuild-up to Jordan v Algeria in
-OL,18,     Fthe World Cup.
-OL,19,G0355 World Cup
-OL,20,     FLive football commentary of Jordan
-OL,21,     Fv Algeria in Group J of the 2026
-OL,22,     FFIFA World Cup in San Francisco.
+OL,5,G0305 Dotun Adebayo
+OL,6,     FDotun Adebayo with your calls and
+OL,7,     Fbuild-up to Jordan v Algeria in
+OL,8,     Fthe World Cup.
+OL,9,G0355 World Cup
+OL,10,     FLive football commentary of Jordan
+OL,11,     Fv Algeria in Group J of the 2026
+OL,12,     FFIFA World Cup in San Francisco.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100@
