@@ -2,17 +2,17 @@ PN,47701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F477A1782152446
+OL,0,        ECIMSBWebfax 2   F477A1782191914
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CTuesday                 G1/3
+OL,3,V}yyy5CWednesday               G1/4
 OL,5,G0600 talkSPORT World Cup Breakfast
 OL,6,     FJoin us as we bring you a
 OL,7,     Fbreakfast buffet of sport. Call
 OL,8,     Fthe show on 03717 22 33 44 (Calls
 OL,9,     Fcharged at national rate) or text
 OL,10,     F81089 (50p + charges).
-OL,11,G1000 Hawksbee & Baker
+OL,11,G1000 Hawksbee & Jacobs
 OL,12,     FA serving of sports news, guests
 OL,13,     Fand a sideways look at the big
 OL,14,     Fstories of the day. Call the show
@@ -26,10 +26,10 @@ PN,47702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F477A1782152446
+OL,0,        ECIMSBWebfax 2   F477A1782191914
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CTuesday                 G2/3
+OL,3,V}yyy5CWednesday               G2/4
 OL,5,G1300 White & Jordan - Live from NY
 OL,6,     FBreaking sports news, big name
 OL,7,     Fguests and opinionated debate on
@@ -44,10 +44,6 @@ OL,15,     FtalkSPORT 2. Call the show on
 OL,16,     F03717 22 33 44 (Calls charged at
 OL,17,     Fnational rate) or text 81089 (50p
 OL,18,     F+ charges).
-OL,19,G1900 World Cup GameDay Live England v
-OL,20,G     Ghana
-OL,21,     FAdrian Durham presents live
-OL,22,     Fcommentary from the World Cup.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,478,250,301,140,0,100
@@ -55,25 +51,41 @@ PN,47703
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F477A1782152446
+OL,0,        ECIMSBWebfax 2   F477A1782191914
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CTuesday                 G3/3
-OL,5,G2330 World Cup GameDay Sports Bar
-OL,6,     FReaction, analysis and your chance
-OL,7,     Fto have your say on the day's
-OL,8,     Fsport. Call the show on 03717 22
-OL,9,     F33 44 (Calls charged at national
-OL,10,     Frate) or text 81089 (50p +
-OL,11,     Fcharges).
-OL,12,G0200 World Cup GameDay Live Colombia v
-OL,13,G     Congo
-OL,14,     FOlly Clink presents live
-OL,15,     Fcommentary from the World Cup.
-OL,16,G0500 Early Sports Breakfast
-OL,17,     FAn early morning serving of the
-OL,18,     Flatest sports news for when you
-OL,19,     Fwake up.
+OL,3,V}yyy5CWednesday               G3/4
+OL,5,G1900 World Cup GameDay Live Switzerland
+OL,6,G     v Canada
+OL,7,     FHugh Woozencroft presents live
+OL,8,     Fcommentary from the World Cup.
+OL,9,     FBosnia v Qatar is on talkSPORT 2.
+OL,10,G2200 World Cup GameDay Live Scotland v
+OL,11,G     Brazil
+OL,12,     FNatalie Sawyer presents live
+OL,13,     Fcommentary from the World Cup.
+OL,14,G0100 World Cup GameDay Live - Phone-In
+OL,15,     FLive commentary from the World
+OL,16,     FCup.
+OL,17,G0200 World Cup GameDay Live Czech
+OL,18,G     Republic v Mexico
+OL,19,     FBen Fletcher presents live
+OL,20,     Fcommentary from the World Cup.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,478,250,301,140,0,100
+PN,47704
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F477A1782191914
+OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
+OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
+OL,3,V}yyy5CWednesday               G4/4
+OL,5,G0500 Early Sports Breakfast
+OL,6,     FAn early morning serving of the
+OL,7,     Flatest sports news for when you
+OL,8,     Fwake up.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,478,250,301,140,0,100@
