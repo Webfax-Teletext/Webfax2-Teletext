@@ -2,7 +2,7 @@ PN,24001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782191914
+OL,0,        ECIMSBWebfax 2   F240A1782265671
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CWednesday               G1/5
@@ -16,9 +16,11 @@ OL,11,     Fis eadar-nC iseanta gach madainn.
 OL,12,     FLocal, national and international
 OL,13,     Fnews each morning.
 OL,14,G0900 Naoi gu Deich
-OL,15,     FComhradh, deasbad, cultar agus
-OL,16,     Fcur-seachadan. Conversation,
-OL,17,     Fdiscussion, culture and lifestyle.
+OL,15,     F'S e Domhnall MacCoinnich C  Nis
+OL,16,     Fan Leodhas a tha na cheiliche aig
+OL,17,     FCathy NicDhomhnaill. Donald
+OL,18,     FMacKenzie is Cathy MacDonald's
+OL,19,     Fguest this Wednesday morning.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -26,7 +28,7 @@ PN,24002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782191914
+OL,0,        ECIMSBWebfax 2   F240A1782265671
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CWednesday               G2/5
@@ -38,14 +40,16 @@ OL,9,     Fpresents her great choice of
 OL,10,     Ftraditional Gaelic music.
 OL,11,G1200 Feasgar an-diugh
 OL,12,     FNaidheachdan, comhradh, spors,
-OL,13,     Fceol agus fealla-dhC . News, chat,
-OL,14,     Fsport, music and entertainment.
-OL,15,G1330 Caithream Ciuil
-OL,16,     FCeol Ceilteach agus fiosrachadh
-OL,17,     Fair na tha dol agaibhse. Gaelic
-OL,18,     Fand Celtic music and a round-up of
-OL,19,     Fwhat's on. Post-d -
-OL,20,     Fdethadol@bbc.co.uk.
+OL,13,     Fceol agus fealla-dhC  le Emma
+OL,14,     FNicLaomainn. News, chat, sport,
+OL,15,     Fmusic and entertainment wth Emma
+OL,16,     FLamont.
+OL,17,G1330 Caithream Ciuil
+OL,18,     FCeol Ceilteach agus fiosrachadh
+OL,19,     Fair na tha dol agaibhse. Gaelic
+OL,20,     Fand Celtic music and a round-up of
+OL,21,     Fwhat's on. Post-d -
+OL,22,     Fdethadol@bbc.co.uk.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -53,7 +57,7 @@ PN,24003
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782191914
+OL,0,        ECIMSBWebfax 2   F240A1782265671
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CWednesday               G3/5
@@ -80,7 +84,7 @@ PN,24004
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782191914
+OL,0,        ECIMSBWebfax 2   F240A1782265671
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CWednesday               G4/5
@@ -96,10 +100,6 @@ OL,13,     FBhaile bho 1988 ann an Uig san
 OL,14,     FEilean Sgitheanach. Radio nan
 OL,15,     FGC idheal's archive programme from
 OL,16,     FUig in Skye in 1988.
-OL,17,G2055 Feasgar an-diugh
-OL,18,     FNaidheachdan, comhradh, spors,
-OL,19,     Fceol agus fealla-dhC . News, chat,
-OL,20,     Fsport, music and entertainment.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -107,20 +107,27 @@ PN,24005
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782191914
+OL,0,        ECIMSBWebfax 2   F240A1782265671
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CWednesday               G5/5
-OL,5,G2230 Cupa na Cruinne - Alba v Brasil
-OL,6,     FAn geama mu dheireadh aig Alba ann
-OL,7,     Fam buidheann C an aghaidh Brasil,
-OL,8,     Fbeo C  Miami. Scotland's final
-OL,9,     Fgame in Group C against Brazil,
-OL,10,     Flive from Miami.
-OL,11,G0130 Mar Radio Alba
-OL,12,     FTha BBC Radio nan Gaidheal mar BBC
-OL,13,     FRadio Alba. BBC Radio nan Gaidheal
-OL,14,     Fjoins BBC Radio Scotland.
+OL,5,G2055 Feasgar an-diugh
+OL,6,     FComhradh, spors, ceol agus
+OL,7,     Ffealla-dhC  le Emma Niclaomainn
+OL,8,     Fagus Niall Iain Domhnallach. Chat,
+OL,9,     Fsport, music and entertainment
+OL,10,     Fwith Emma Lamont and Niall Iain
+OL,11,     FMacdonald.
+OL,12,G2230 Cupa na Cruinne - Alba v Brasil
+OL,13,     FAn geama mu dheireadh aig Alba ann
+OL,14,     Fam buidheann C an aghaidh Brasil,
+OL,15,     Fbeo C  Miami. Scotland's final
+OL,16,     Fgame in Group C against Brazil,
+OL,17,     Flive from Miami.
+OL,18,G0130 Mar Radio Alba
+OL,19,     FTha BBC Radio nan Gaidheal mar BBC
+OL,20,     FRadio Alba. BBC Radio nan Gaidheal
+OL,21,     Fjoins BBC Radio Scotland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100@
