@@ -2,10 +2,10 @@ PN,45201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1782303478
+OL,0,        ECIMSBWebfax 2   F452A1782308880
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CWednesday               G1/3
+OL,3,V}yyy5CWednesday               G1/2
 OL,5,G1300 White & Jordan - Live from NY
 OL,6,     FBreaking sports news, big name
 OL,7,     Fguests and opinionated debate on
@@ -27,10 +27,10 @@ PN,45202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1782303478
+OL,0,        ECIMSBWebfax 2   F452A1782308880
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CWednesday               G2/3
+OL,3,V}yyy5CWednesday               G2/2
 OL,5,G1900 World Cup GameDay Live Switzerland
 OL,6,G     v Canada
 OL,7,     FHugh Woozencroft presents live
@@ -40,28 +40,14 @@ OL,10,G2200 World Cup GameDay Live Scotland v
 OL,11,G     Brazil
 OL,12,     FNatalie Sawyer presents live
 OL,13,     Fcommentary from the World Cup.
-OL,14,G0100 World Cup GameDay Live - Phone-In
-OL,15,     FLive commentary from the World
-OL,16,     FCup.
-OL,17,G0200 World Cup GameDay Live Czech
-OL,18,G     Republic v Mexico
-OL,19,     FBen Fletcher presents live
-OL,20,     Fcommentary from the World Cup.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,453,250,301,140,0,100
-PN,45203
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F452A1782303478
-OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
-OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CWednesday               G3/3
-OL,5,G0500 Early Sports Breakfast
-OL,6,     FAn early morning serving of the
-OL,7,     Flatest sports news for when you
-OL,8,     Fwake up.
+OL,14,G0145 World Cup GameDay Live Czech
+OL,15,G     Republic v Mexico
+OL,16,     FBen Fletcher presents live
+OL,17,     Fcommentary from the World Cup.
+OL,18,G0500 Early Sports Breakfast
+OL,19,     FAn early morning serving of the
+OL,20,     Flatest sports news for when you
+OL,21,     Fwake up.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,453,250,301,140,0,100@
