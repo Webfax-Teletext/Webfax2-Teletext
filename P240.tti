@@ -2,7 +2,7 @@ PN,24001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782364712
+OL,0,        ECIMSBWebfax 2   F240A1782438472
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G1/5
@@ -16,9 +16,12 @@ OL,11,     Fis eadar-nC iseanta gach madainn.
 OL,12,     FLocal, national and international
 OL,13,     Fnews each morning.
 OL,14,G0900 Naoi gu Deich
-OL,15,     FComhradh, deasbad, cultar agus
-OL,16,     Fcur-seachadan. Conversation,
-OL,17,     Fdiscussion, culture and lifestyle.
+OL,15,     FSuil gheur is eirmseach air
+OL,16,     Fnaidheachdan na seachdain le
+OL,17,     FCoinneach Mac a' Ghobhainn.
+OL,18,     FChristine MacIntyre and Kevin
+OL,19,     FWalker join Coinneach Smith in
+OL,20,     Flooking back on the week's news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -26,7 +29,7 @@ PN,24002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782364712
+OL,0,        ECIMSBWebfax 2   F240A1782438472
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G2/5
@@ -53,7 +56,7 @@ PN,24003
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782364712
+OL,0,        ECIMSBWebfax 2   F240A1782438472
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G3/5
@@ -81,7 +84,7 @@ PN,24004
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782364712
+OL,0,        ECIMSBWebfax 2   F240A1782438472
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G4/5
@@ -97,10 +100,6 @@ OL,13,     Fseachdain air a chasan. Chat and
 OL,14,     Fmusic with John Carmichael and
 OL,15,     Fguest to get your weekend off to a
 OL,16,     Fgreat start.
-OL,17,G2300 Naoi gu Deich
-OL,18,     FComhradh, deasbad, cultar agus
-OL,19,     Fcur-seachadan. Conversation,
-OL,20,     Fdiscussion, culture and lifestyle.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -108,14 +107,21 @@ PN,24005
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1782364712
+OL,0,        ECIMSBWebfax 2   F240A1782438472
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G5/5
-OL,5,G0000 Mar Radio Alba
-OL,6,     FTha BBC Radio nan Gaidheal mar BBC
-OL,7,     FRadio Alba. BBC Radio nan Gaidheal
-OL,8,     Fjoins BBC Radio Scotland.
+OL,5,G2300 Naoi gu Deich
+OL,6,     FSuil gheur is eirmseach air
+OL,7,     Fnaidheachdan na seachdain le
+OL,8,     FCoinneach Mac a' Ghobhainn.
+OL,9,     FChristine MacIntyre and Kevin
+OL,10,     FWalker join Coinneach Smith in
+OL,11,     Flooking back on the week's news.
+OL,12,G0000 Mar Radio Alba
+OL,13,     FTha BBC Radio nan Gaidheal mar BBC
+OL,14,     FRadio Alba. BBC Radio nan Gaidheal
+OL,15,     Fjoins BBC Radio Scotland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100@
