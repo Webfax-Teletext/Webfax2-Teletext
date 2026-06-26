@@ -1,15 +1,50 @@
-PN,26700
-SC,0000
+PN,26701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F267A1782433119
+PS,c008
+OL,0,        ECIMSBWebfax 2   F267A1782451111
 OL,1,Vzssssss{0Ww;js%7+ j jsjsjijs
 OL,2,Vupp=wfff5W-.*,%-. *,*,*,*&(.V(,,,,,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G0100 Weekday overnights with BBC...
-OL,6,     F...Radio 5 Live. Local BBC Radio
-OL,7,     Fjoins BBC Radio 5 Live through the
-OL,8,     Fnight on a weekday.
+OL,3,V}yyy5CFriday                  G1/2
+OL,5,G0600 Rima Ahmed
+OL,6,     FWaking you up each weekday
+OL,7,     Fmorning, it's Dixie.
+OL,8,G1000 Gayle Lofthouse
+OL,9,     FWest Yorkshire stories to make you
+OL,10,     Fsmile, mid-morning updates and the
+OL,11,     Fmusic you love.
+OL,12,G1400 Toby Foster
+OL,13,     FThe day's local and national news,
+OL,14,     Fas well as great music and quizzes
+OL,15,     Fwith Toby.
+OL,16,G1800 West Yorkshire Sport Daily
+OL,17,     FTopical sports issues of the day.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,269,250,301,140,0,100
+PN,26702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F267A1782451111
+OL,1,Vzssssss{0Ww;js%7+ j jsjsjijs
+OL,2,Vupp=wfff5W-.*,%-. *,*,*,*&(.V(,,,,,,,,,
+OL,3,V}yyy5CFriday                  G2/2
+OL,5,G1900 West Yorkshire Sport: Rugby League
+OL,6,     FJames Deighton and Barry Eaton
+OL,7,     Fbring you full coverage of Leeds
+OL,8,     FRhinos' Super League clash at home
+OL,9,     Fto Hull KR with live updates of
+OL,10,     FCastleford Tigers v York (both 8pm
+OL,11,     Fko).
+OL,12,G2200 Late Night Jo
+OL,13,     FJo Good with late-night
+OL,14,     Fconversation, amazing stories and
+OL,15,     Fthe soundtrack to your night.
+OL,16,G0100 Weekend overnights with BBC...
+OL,17,     F...Radio 5 Live. Local BBC Radio
+OL,18,     Fjoins BBC Radio 5 Live through the
+OL,19,     Fnight on a weekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,269,250,301,140,0,100@

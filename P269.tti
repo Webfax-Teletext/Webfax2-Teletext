@@ -1,15 +1,49 @@
-PN,26900
-SC,0000
+PN,26901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F269A1782433119
+PS,c008
+OL,0,        ECIMSBWebfax 2   F269A1782451111
 OL,1,Vzssssss{0Ww;js%7+ j jjkj+jkj jkjsjz*js
 OL,2,Vupp=wfff5W-.*,%-. *,****.*.*,**(.** *,
-OL,3,V}yyy5CThursday
-OL,5,G0100 Weekday overnights with BBC...
-OL,6,     F...Radio 5 Live. Local BBC Radio
-OL,7,     Fjoins BBC Radio 5 Live through the
-OL,8,     Fnight on a weekday.
+OL,3,V}yyy5CFriday                  G1/2
+OL,5,G0600 Scott Dalton
+OL,6,     FScott has trusted Lincolnshire
+OL,7,     Fnews, advice and great music to
+OL,8,     Fstart the day.
+OL,9,G1000 Sean Dunderdale
+OL,10,     FHot weather latest; the big
+OL,11,     Fstories of the day; The Rewind at
+OL,12,     F1pm.
+OL,13,G1400 Richard Stead
+OL,14,     FEntertainment through the
+OL,15,     Fafternoon and updates on the day's
+OL,16,     Fevents with Richard.
+OL,17,G1800 Hope and Glory
+OL,18,     FWe're celebrating Lincolnshire
+OL,19,     Fsport across the county.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,270,250,301,140,0,100
+PN,26902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F269A1782451111
+OL,1,Vzssssss{0Ww;js%7+ j jjkj+jkj jkjsjz*js
+OL,2,Vupp=wfff5W-.*,%-. *,****.*.*,**(.** *,
+OL,3,V}yyy5CFriday                  G2/2
+OL,5,G1900 Sile Sibanda
+OL,6,     FConversation and music for our
+OL,7,     FAfrican and Caribbean communities
+OL,8,     Fwith Sile Sibanda.
+OL,9,G2200 Late Night Jo
+OL,10,     FJo Good with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekend overnights with BBC...
+OL,14,     F...Radio 5 Live. Local BBC Radio
+OL,15,     Fjoins BBC Radio 5 Live through the
+OL,16,     Fnight on a weekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,270,250,301,140,0,100@

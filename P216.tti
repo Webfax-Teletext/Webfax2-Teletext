@@ -1,14 +1,108 @@
-PN,21600
-SC,0000
+PN,21601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F216A1782433119
+PS,c008
+OL,0,        ECIMSBWebfax 2   F216A1782451111
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G0100 As BBC Radio 5 Live
-OL,6,     FSee listings for BBC Radio 5 Live
-OL,7,     Fon BBC Sounds.
+OL,3,V}yyy5CFriday                  G1/4
+OL,5,G0605 Wake Up with Radio Wales
+OL,6,     FA lively mix of music to start the
+OL,7,     Fday. Perfect for your pod!
+OL,8,G0631 Walescast
+OL,9,     FA decade after Wales voted to
+OL,10,     Fleave the EU, James is in Ebbw
+OL,11,     FVale to reflect with locals.
+OL,12,G0700 Radio Wales Breakfast
+OL,13,     FEverything you need to know as you
+OL,14,     Fwake up.
+OL,15,G0900 Lucy Owen
+OL,16,     FLucy brightens your morning with
+OL,17,     Fgreat music and entertainment.
+OL,18,     FCall 03700 100 110 Text 81012 or
+OL,19,     Fmessage via X @bbcradiowales.
+OL,20,G1200 The Phone In
+OL,21,     FBe part of the nation's
+OL,22,     Fconversation.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,217,200,300,120,0,100
+PN,21602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F216A1782451111
+OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
+OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
+OL,3,V}yyy5CFriday                  G2/4
+OL,5,G1400 Sofia Rizzi
+OL,6,     FCelebrity guests, the latest
+OL,7,     Fblockbuster film reviews, and we
+OL,8,     Fplay The Name Game! Call or
+OL,9,     FWhatsApp 03700 100 110 Text 81012.
+OL,10,G1700 Radio Wales Drive
+OL,11,     FEverything you need to know as you
+OL,12,     Fhead home.
+OL,13,G1830 Radio Wales Arts Show
+OL,14,     FPhysical Education by Grand
+OL,15,     FAmbition, Ffasiwn photography
+OL,16,     Fexhibition at National Museum
+OL,17,     FCardiff, MusicFest Aberystwyth
+OL,18,     Fwith a new opera, and 60 years of
+OL,19,     FLlantarnam Grange, Cwmbran.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,217,200,300,120,0,100
+PN,21603
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F216A1782451111
+OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
+OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
+OL,3,V}yyy5CFriday                  G3/4
+OL,5,G1900 Ben Sheppard's 70s Playlist
+OL,6,     FBen Sheppard has a country rock
+OL,7,     FPowermix from the 1970s with hits
+OL,8,     Ffrom Fleetwood Mac, The Eagles and
+OL,9,     FGlen Campbell.
+OL,10,G2000 Ben Sheppard's 80s Playlist
+OL,11,     FThis weeks movie soundtrack is
+OL,12,     Fprovided by Tina Turner from Mad
+OL,13,     FMax Beyond Thunderdome to go with
+OL,14,     Fsome of the 80s finest tunes for
+OL,15,     Fyou.
+OL,16,G2100 Ben Sheppard's 90s Playlist
+OL,17,     FBen Sheppard gets your weekend
+OL,18,     Fstarted with party classics from
+OL,19,     Fthe 90s and the biggest Welsh
+OL,20,     Fanthems.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,217,200,300,120,0,100
+PN,21604
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F216A1782451111
+OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
+OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
+OL,3,V}yyy5CFriday                  G4/4
+OL,5,G2200 Friday Night H
+OL,6,     FCelebrating Pride with H from
+OL,7,     FSteps, with music from icons from
+OL,8,     Fthe LGBTQ+ community, including
+OL,9,     FTroy Sivan, Whitney Huston and
+OL,10,     FSister Sledge.
+OL,11,G0000 The Party Playlist with H
+OL,12,     FH from Steps playlists an hour of
+OL,13,     FPride Icons for Pride Month with
+OL,14,     Fmusic from George Michael, Miley
+OL,15,     FCyrus, Scissor Sisters plus many
+OL,16,     Fmore.
+OL,17,G0100 As BBC Radio 5 Live
+OL,18,     FSee listings for BBC Radio 5 Live
+OL,19,     Fon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,217,200,300,120,0,100@
