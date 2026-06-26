@@ -2,10 +2,10 @@ PN,24101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1782451111
+OL,0,        ECIMSBWebfax 2   F241A1782479891
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
-OL,3,V}yyy5CSaturday                G1/3
+OL,3,V}yyy5CSaturday                G1/4
 OL,5,G0100 As BBC Radio 5 Live
 OL,6,     FSee listings for BBC Radio 5 Live
 OL,7,     Fon BBC Sounds.
@@ -26,10 +26,10 @@ PN,24102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1782451111
+OL,0,        ECIMSBWebfax 2   F241A1782479891
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
-OL,3,V}yyy5CSaturday                G2/3
+OL,3,V}yyy5CSaturday                G2/4
 OL,5,G1200 Lucy Owen
 OL,6,     FActress Rakie Ayola chats to Lucy
 OL,7,     Fabout her recent Channel 4 drama,
@@ -54,28 +54,40 @@ PN,24103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1782451111
+OL,0,        ECIMSBWebfax 2   F241A1782479891
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
-OL,3,V}yyy5CSaturday                G3/3
+OL,3,V}yyy5CSaturday                G3/4
 OL,5,G1633 Scrum V Live
 OL,6,     FLive commentary of Barbarians v
 OL,7,     FWales Women.
 OL,8,G1915 Bethan Elfyn
-OL,9,     FTop tunes, classic and new, for
-OL,10,     Fyour Saturday night. Plus the
-OL,11,     FWales Mix.
-OL,12,G2100 BBC Introducing with Adam Walton
-OL,13,     FThe best in new Welsh music,
-OL,14,     Fexclusive sessions, interviews and
-OL,15,     Fdemos.
-OL,16,G0000 Relax with Radio Wales
-OL,17,     FRelax, unwind and chill out with
-OL,18,     Fan hour of classic and
-OL,19,     Fcontemporary tunes.
-OL,20,G0100 As BBC Radio 5 Live
-OL,21,     FSee listings for BBC Radio 5 Live
-OL,22,     Fon BBC Sounds.
+OL,9,     FBethan plays an archive recording
+OL,10,     Fof Lleucu Non at Green Man
+OL,11,     FSettlement 2025. Also, new Welsh
+OL,12,     Freleases in The Wales Mix.
+OL,13,G2100 BBC Introducing with Adam Walton
+OL,14,     FThe best in new Welsh music,
+OL,15,     Fexclusive sessions, interviews and
+OL,16,     Fdemos.
+OL,17,G0000 Relax with Radio Wales
+OL,18,     FRelax, unwind and chill out with
+OL,19,     Fan hour of classic and
+OL,20,     Fcontemporary tunes.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,242,200,300,120,0,100
+PN,24104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F241A1782479891
+OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
+OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
+OL,3,V}yyy5CSaturday                G4/4
+OL,5,G0100 As BBC Radio 5 Live
+OL,6,     FSee listings for BBC Radio 5 Live
+OL,7,     Fon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,242,200,300,120,0,100@
