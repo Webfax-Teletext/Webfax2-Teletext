@@ -2,27 +2,27 @@ PN,21301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1782537509
+OL,0,        ECIMSBWebfax 2   F213A1782539311
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CSaturday                G1/8
-OL,5,G0100 As BBC Radio 5 live
-OL,6,     FBBC Radio Ulster joins BBC Radio 5
-OL,7,     Flive.
-OL,8,G0630 Kerry McLean
-OL,9,     FJoin Kerry for a special mix of
-OL,10,     Fgreat music, chat and requests to
-OL,11,     Fstart your Saturday.
-OL,12,G0800 BBC News NI update
-OL,13,     FThe latest national and
-OL,14,     Finternational news.
-OL,15,G0805 Your Place and Mine
-OL,16,     FA waterfront celebration of
-OL,17,     FDerry's rich maritime heritage, a
-OL,18,     Ftransformed parochial house now
-OL,19,     Fthriving as a community hub, and a
-OL,20,     Ffarm in Tempo raising rare, woolly
-OL,21,     FHungarian pigs.
+OL,5,G0630 Kerry McLean
+OL,6,     FJoin Kerry for a special mix of
+OL,7,     Fgreat music, chat and requests to
+OL,8,     Fstart your Saturday.
+OL,9,G0800 BBC News NI update
+OL,10,     FThe latest national and
+OL,11,     Finternational news.
+OL,12,G0805 Your Place and Mine
+OL,13,     FA waterfront celebration of
+OL,14,     FDerry's rich maritime heritage, a
+OL,15,     Ftransformed parochial house now
+OL,16,     Fthriving as a community hub, and a
+OL,17,     Ffarm in Tempo raising rare, woolly
+OL,18,     FHungarian pigs.
+OL,19,G0900 BBC News NI update
+OL,20,     FThe latest national and
+OL,21,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -30,22 +30,26 @@ PN,21302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1782537509
+OL,0,        ECIMSBWebfax 2   F213A1782539311
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CSaturday                G2/8
-OL,5,G0900 BBC News NI update
-OL,6,     FThe latest national and
-OL,7,     Finternational news.
-OL,8,G0903 Gardeners' Corner
-OL,9,     FWeekly gardening inspiration for
-OL,10,     Fsummer with David Maxwell and his
-OL,11,     Fexpert guests, including advice on
-OL,12,     Fgrowing olives and basil, and the
-OL,13,     Fcameraman who befriended a bee.
-OL,14,G1000 BBC News NI update
-OL,15,     FThe latest national and
-OL,16,     Finternational news.
+OL,5,G0903 Gardeners' Corner
+OL,6,     FWeekly gardening inspiration for
+OL,7,     Fsummer with David Maxwell and his
+OL,8,     Fexpert guests, including advice on
+OL,9,     Fgrowing olives and basil, and the
+OL,10,     Fcameraman who befriended a bee.
+OL,11,G1000 BBC News NI update
+OL,12,     FThe latest national and
+OL,13,     Finternational news.
+OL,14,G1003 Consumer Fight Back
+OL,15,     FThe government is cutting Value
+OL,16,     FAdded Tax from 20% to 5% on some
+OL,17,     Frestaurants and leisure activities
+OL,18,     Ffor the summer - in a temporary
+OL,19,     Fmove designed to ease the cost of
+OL,20,     Fdays out.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -53,27 +57,23 @@ PN,21303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1782537509
+OL,0,        ECIMSBWebfax 2   F213A1782539311
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CSaturday                G3/8
-OL,5,G1003 Consumer Fight Back
-OL,6,     FThe government is cutting Value
-OL,7,     FAdded Tax from 20% to 5% on some
-OL,8,     Frestaurants and leisure activities
-OL,9,     Ffor the summer - in a temporary
-OL,10,     Fmove designed to ease the cost of
-OL,11,     Fdays out.
-OL,12,G1100 BBC News NI update
-OL,13,     FThe latest national and
-OL,14,     Finternational news.
-OL,15,G1103 Saturday with John Toal
-OL,16,     FWe're live at the Foyle Maritime
-OL,17,     FFestival where spectacular tall
-OL,18,     Fships from across Europe line the
-OL,19,     Fshores, alongside lively markets,
-OL,20,     Fmusic stages and culinary
-OL,21,     Fdelights.
+OL,5,G1100 BBC News NI update
+OL,6,     FThe latest national and
+OL,7,     Finternational news.
+OL,8,G1103 Saturday with John Toal
+OL,9,     FWe're live at the Foyle Maritime
+OL,10,     FFestival where spectacular tall
+OL,11,     Fships from across Europe line the
+OL,12,     Fshores, alongside lively markets,
+OL,13,     Fmusic stages and culinary
+OL,14,     Fdelights.
+OL,15,G1300 BBC News NI update
+OL,16,     FThe latest national and
+OL,17,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -81,26 +81,26 @@ PN,21304
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1782537509
+OL,0,        ECIMSBWebfax 2   F213A1782539311
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CSaturday                G4/8
-OL,5,G1300 BBC News NI update
-OL,6,     FThe latest national and
-OL,7,     Finternational news.
-OL,8,G1305 Your Farm and Mine
-OL,9,     FDavid Irwin joins Eve Blair in the
-OL,10,     Fstudio to discuss all things
-OL,11,     Ffarming, including the impact of
-OL,12,     Fweather conditions and fertilizer
-OL,13,     Fcosts on farming production.
-OL,14,G1330 Comedy: Reece Kidd Stand-Up
-OL,15,     FFrom five shows a day at the
-OL,16,     FEdinburgh Fringe, NI comic Reece
-OL,17,     FKidd delivers a montage of
-OL,18,     Fstand-up, intercut with the
-OL,19,     Frunning commentary inside his own
-OL,20,     Fhead.
+OL,5,G1305 Your Farm and Mine
+OL,6,     FDavid Irwin joins Eve Blair in the
+OL,7,     Fstudio to discuss all things
+OL,8,     Ffarming, including the impact of
+OL,9,     Fweather conditions and fertilizer
+OL,10,     Fcosts on farming production.
+OL,11,G1330 Comedy: Reece Kidd Stand-Up
+OL,12,     FFrom five shows a day at the
+OL,13,     FEdinburgh Fringe, NI comic Reece
+OL,14,     FKidd delivers a montage of
+OL,15,     Fstand-up, intercut with the
+OL,16,     Frunning commentary inside his own
+OL,17,     Fhead.
+OL,18,G1400 BBC News NI update
+OL,19,     FThe latest national and
+OL,20,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -108,28 +108,28 @@ PN,21305
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1782537509
+OL,0,        ECIMSBWebfax 2   F213A1782539311
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CSaturday                G5/8
-OL,5,G1400 BBC News NI update
-OL,6,     FThe latest national and
-OL,7,     Finternational news.
-OL,8,G1403 Summer Sportsound
-OL,9,     FTwo hours of the latest sports
-OL,10,     Fstories and features with some top
-OL,11,     Fmusic to help you through your
-OL,12,     Fafternoon.
-OL,13,G1600 BBC News NI update
-OL,14,     FThe latest national and
-OL,15,     Finternational news.
-OL,16,G1603 The GAA Social
-OL,17,     FThe GAA Social brings to life
-OL,18,     Fstories from Gaelic Games. It
-OL,19,     Ffeatures pundit discussions and
-OL,20,     Fwide-ranging interviews with the
-OL,21,     Fsport's players, managers and
-OL,22,     Fofficials.
+OL,5,G1403 Summer Sportsound
+OL,6,     FTwo hours of the latest sports
+OL,7,     Fstories and features with some top
+OL,8,     Fmusic to help you through your
+OL,9,     Fafternoon.
+OL,10,G1600 BBC News NI update
+OL,11,     FThe latest national and
+OL,12,     Finternational news.
+OL,13,G1603 The GAA Social
+OL,14,     FThe GAA Social brings to life
+OL,15,     Fstories from Gaelic Games. It
+OL,16,     Ffeatures pundit discussions and
+OL,17,     Fwide-ranging interviews with the
+OL,18,     Fsport's players, managers and
+OL,19,     Fofficials.
+OL,20,G1700 BBC News NI update
+OL,21,     FThe latest national and
+OL,22,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -137,28 +137,28 @@ PN,21306
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1782537509
+OL,0,        ECIMSBWebfax 2   F213A1782539311
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CSaturday                G6/8
-OL,5,G1700 BBC News NI update
-OL,6,     FThe latest national and
-OL,7,     Finternational news.
-OL,8,G1703 Taylor Johnson
-OL,9,     FTaylor Johnson takes you on a
-OL,10,     Fjourney through the essential gigs
-OL,11,     Fcoming up this year.
-OL,12,G1900 BBC News NI update
-OL,13,     FThe latest national and
-OL,14,     Finternational news.
-OL,15,G1903 BBC Introducing in Northern...
-OL,16,     F...Ireland with Taylor Johnson.
-OL,17,     FDiscover your next favourite
-OL,18,     Fartist. From rock to jazz to
-OL,19,     Fhip-hop, Taylor Johnson plays the
-OL,20,     Fbest new artists breaking through
-OL,21,     Fthe BBC Music Introducing
-OL,22,     FUploader.
+OL,5,G1703 Taylor Johnson
+OL,6,     FTaylor Johnson takes you on a
+OL,7,     Fjourney through the essential gigs
+OL,8,     Fcoming up this year.
+OL,9,G1900 BBC News NI update
+OL,10,     FThe latest national and
+OL,11,     Finternational news.
+OL,12,G1903 BBC Introducing in Northern...
+OL,13,     F...Ireland with Taylor Johnson.
+OL,14,     FDiscover your next favourite
+OL,15,     Fartist. From rock to jazz to
+OL,16,     Fhip-hop, Taylor Johnson plays the
+OL,17,     Fbest new artists breaking through
+OL,18,     Fthe BBC Music Introducing
+OL,19,     FUploader.
+OL,20,G2000 BBC News NI update
+OL,21,     FThe latest national and
+OL,22,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -166,23 +166,26 @@ PN,21307
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1782537509
+OL,0,        ECIMSBWebfax 2   F213A1782539311
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CSaturday                G7/8
-OL,5,G2000 BBC News NI update
-OL,6,     FThe latest national and
-OL,7,     Finternational news.
-OL,8,G2003 Folk Club
-OL,9,     FNeil showcases a scorching mix of
-OL,10,     Ftraditional music. This week
-OL,11,     Ffeatures The Bonny Men, Aine Ui
-OL,12,     FCheallaigh, Flook, Arcady, Caitlin
-OL,13,     FNicGabhann, Ciaran O Maonaigh, and
-OL,14,     Fmore.
-OL,15,G2200 BBC News NI update
-OL,16,     FThe latest national and
-OL,17,     Finternational news.
+OL,5,G2003 Folk Club
+OL,6,     FNeil showcases a scorching mix of
+OL,7,     Ftraditional music. This week
+OL,8,     Ffeatures The Bonny Men, Aine Ui
+OL,9,     FCheallaigh, Flook, Arcady, Caitlin
+OL,10,     FNicGabhann, Ciaran O Maonaigh, and
+OL,11,     Fmore.
+OL,12,G2200 BBC News NI update
+OL,13,     FThe latest national and
+OL,14,     Finternational news.
+OL,15,G2203 The Late Show with Mike Edgar
+OL,16,     FA hand-picked mix of pop, jazz,
+OL,17,     Ffolk, soul and more from across
+OL,18,     Fthe eras with our own music
+OL,19,     Faficionado. Enjoy uplifting and
+OL,20,     Fmellow sounds for Saturday night.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -190,26 +193,20 @@ PN,21308
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1782537509
+OL,0,        ECIMSBWebfax 2   F213A1782539311
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CSaturday                G8/8
-OL,5,G2203 The Late Show with Mike Edgar
-OL,6,     FA hand-picked mix of pop, jazz,
-OL,7,     Ffolk, soul and more from across
-OL,8,     Fthe eras with our own music
-OL,9,     Faficionado. Enjoy uplifting and
-OL,10,     Fmellow sounds for Saturday night.
-OL,11,G2355 BBC News NI update
-OL,12,     FThe latest national and
-OL,13,     Finternational news.
-OL,14,G0000 Long Player with Steven Rainey
-OL,15,     FThe Jam deliver their most
-OL,16,     Fexplosive set of songs yet, 1980s
-OL,17,     FSound Affects.
-OL,18,G0100 As BBC Radio 5 live
-OL,19,     FBBC Radio Ulster joins BBC Radio 5
-OL,20,     Flive.
+OL,5,G2355 BBC News NI update
+OL,6,     FThe latest national and
+OL,7,     Finternational news.
+OL,8,G0000 Long Player with Steven Rainey
+OL,9,     FThe Jam deliver their most
+OL,10,     Fexplosive set of songs yet, 1980s
+OL,11,     FSound Affects.
+OL,12,G0100 As BBC Radio 5 live
+OL,13,     FBBC Radio Ulster joins BBC Radio 5
+OL,14,     Flive.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100@
