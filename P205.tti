@@ -1,41 +1,24 @@
-PN,20501
-SC,0001
+PN,20500
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1782519503
+PS,8008
+OL,0,        ECIMSBWebfax 2   F205A1782526665
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
-OL,3,V}yyy5CFriday                  G1/2
-OL,5,G0055 World Cup
-OL,6,     FLive football commentary of
-OL,7,     FUruguay v Spain in the final round
-OL,8,     Fof Group H matches at the 2026
-OL,9,     FFIFA World Cup, plus updates from
-OL,10,     FCape Verde v Saudi Arabia.
-OL,11,G0305 Joel Mitchell
-OL,12,     FJoel Mitchell with calls, features
-OL,13,     Fand World Cup build-up. Call 08085
-OL,14,     F909693 (calls are free from
-OL,15,     Fmobiles and landlines). Text 85058
-OL,16,     F(charged at your standard message
-OL,17,     Frate).
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,206,200,300,120,0,100
-PN,20502
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1782519503
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
-OL,3,V}yyy5CFriday                  G2/2
-OL,5,G0355 World Cup
-OL,6,     FLive football commentary of Egypt
-OL,7,     Fv Iran in the final round of Group
-OL,8,     FG matches at the 2026 FIFA World
-OL,9,     FCup, plus updates from New Zealand
-OL,10,     Fv Belgium.
+OL,3,V}yyy5CFriday
+OL,5,G0305 Joel Mitchell
+OL,6,     FJoel Mitchell with calls, features
+OL,7,     Fand World Cup build-up. Call 08085
+OL,8,     F909693 (calls are free from
+OL,9,     Fmobiles and landlines). Text 85058
+OL,10,     F(charged at your standard message
+OL,11,     Frate).
+OL,12,G0355 World Cup
+OL,13,     FLive football commentary of Egypt
+OL,14,     Fv Iran in the final round of Group
+OL,15,     FG matches at the 2026 FIFA World
+OL,16,     FCup, plus updates from New Zealand
+OL,17,     Fv Belgium.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100@
