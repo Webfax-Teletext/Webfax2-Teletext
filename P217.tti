@@ -1,11 +1,11 @@
-PN,21700
-SC,0000
+PN,21701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F217A1782535665
+PS,c008
+OL,0,        ECIMSBWebfax 2   F217A1782537509
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday                G1/5
 OL,5,G0530 Huw Stephens
 OL,6,     FCerddoriaeth newydd a hen, wedi'i
 OL,7,     Fddewis yn wythnosol gan Huw
@@ -13,6 +13,119 @@ OL,8,     FStephens o'i gasgliad personol.
 OL,9,     FHuw Stephens selects music, old
 OL,10,     Fand new, from his personal
 OL,11,     Fcollection.
+OL,12,G0700 Galwad Cynnar
+OL,13,     FGerallt Pennant a'i westeion yn
+OL,14,     Ftrafod natur, bywyd gwyllt a
+OL,15,     Fchadwraeth. Gerallt Pennant and
+OL,16,     Fguests discuss nature, wildlife
+OL,17,     Fand conservation.
+OL,18,G0800 Dros Frecwast
+OL,19,     FY newyddion diweddaraf yng Nghymru
+OL,20,     Fa thu hwnt. The latest news in
+OL,21,     FWales and beyond.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,218,200,300,120,0,100
+PN,21702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F217A1782537509
+OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
+OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
+OL,3,V}yyy5CSaturday                G2/5
+OL,5,G0830 Ar y Marc
+OL,6,     FDylan Jones a'r criw yn trafod pob
+OL,7,     Fmath o bethau'n ymwneud a
+OL,8,     Fphel-droed. Football magazine
+OL,9,     Fprogramme with Dylan Jones and the
+OL,10,     Fgang.
+OL,11,G0900 Tudur Owen
+OL,12,     FLot o fwydro, 'chydig o sylwedd,
+OL,13,     Fdim swmp. Music and laughs for
+OL,14,     FSaturday morning.
+OL,15,G1100 Shelley a Rhydian
+OL,16,     FCerddoriaeth ac adloniant gyda
+OL,17,     FShelley Rees a Rhydian Bowen
+OL,18,     FPhillips. Music and entertainment
+OL,19,     Fwith Shelley Rees and Rhydian
+OL,20,     FBowen Phillips.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,218,200,300,120,0,100
+PN,21703
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F217A1782537509
+OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
+OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
+OL,3,V}yyy5CSaturday                G3/5
+OL,5,G1330 Chwaraeon Radio Cymru
+OL,6,     FSylwebaeth o gem rygbi dynion
+OL,7,     FBarbariaid v Cymru yn Stadiwm
+OL,8,     FTwickenham, Llundain. Wales' men
+OL,9,     Fface the Barbarians at Twickenham
+OL,10,     FStadium, London.
+OL,11,G1600 Y Coridor Ansicrwydd
+OL,12,     FSgwrs gyda rheolwr Caernarfon
+OL,13,     FRichard 'Fish' Davies wrth i'r
+OL,14,     FOval baratoi i gynnal gemau
+OL,15,     FEwropeaidd am y tro cyntaf erioed
+OL,16,     Fyn dilyn gwaith adnewyddu gwerth
+OL,17,     F#1.3m.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,218,200,300,120,0,100
+PN,21704
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F217A1782537509
+OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
+OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
+OL,3,V}yyy5CSaturday                G4/5
+OL,5,G1630 Chwaraeon Radio Cymru
+OL,6,     FSylwebaeth o gem rygbi mercherd y
+OL,7,     FBarbariaid v Cymru yn Stadiwm
+OL,8,     FTwickenham, Llundain. Wales' women
+OL,9,     Fface the Barbarians at Twickenham
+OL,10,     FStadium, London.
+OL,11,G1900 Marc Griffiths
+OL,12,     FCymysgedd o'r hen a'r newydd i
+OL,13,     Fddiddanu ar nos Sadwrn, gan
+OL,14,     Fgynnwys llwyth o geisiadau. Music
+OL,15,     Fold and new, including plenty of
+OL,16,     FSaturday night requests.
+OL,17,G2100 Ffion Emyr
+OL,18,     FTair awr o gerddoriaeth a
+OL,19,     Fchwmniaeth, gyda Lois Cernyw yn
+OL,20,     Fsedd Ffion Emyr. Three hours of
+OL,21,     Fmusic and companionship, with Lois
+OL,22,     FCernyw sitting in for Ffion Emyr.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,218,200,300,120,0,100
+PN,21705
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F217A1782537509
+OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
+OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
+OL,3,V}yyy5CSaturday                G5/5
+OL,5,G0000 Gweler BBC World Service
+OL,6,     FMae Radio Cymru'n ymuno a'r BBC
+OL,7,     FWorld Service dros nos. Radio
+OL,8,     FCymru joins the BBC World Service
+OL,9,     Fovernight.
+OL,10,G0530 Linda Griffiths
+OL,11,     FCymysgedd o gerddoriaeth hen a
+OL,12,     Fnewydd yn cynnwys un o ganeuon
+OL,13,     Fcoll Triawd y Coleg o 1948. Linda
+OL,14,     FGriffiths with a mix of music,
+OL,15,     Ffeaturing a long-lost song by
+OL,16,     FTriawd y Coleg.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,218,200,300,120,0,100@

@@ -1,15 +1,49 @@
-PN,28700
-SC,0000
+PN,28701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F287A1782519503
+PS,c008
+OL,0,        ECIMSBWebfax 2   F287A1782537509
 OL,1,Vzssssss{0Ww;js%7+ "7jsjsjs
 OL,2,Vupp=wfff5W-.*,%-.  %*,*,(.V(,,,,,,,,,,,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC...
-OL,6,     F...Radio 5 Live. Local BBC Radio
-OL,7,     Fjoins BBC Radio 5 Live through the
-OL,8,     Fnight on a weekend.
+OL,3,V}yyy5CSaturday                G1/2
+OL,5,G0600 Gilly Hope
+OL,6,     FGilly starts your weekend the
+OL,7,     Fright way with great music and
+OL,8,     Fconversation.
+OL,9,G1000 Kelly Scott
+OL,10,     FSteffen brings you great music and
+OL,11,     Fconversation for your mid-morning.
+OL,12,G1400 Total Sport
+OL,13,     FThe perfect blend of sport,
+OL,14,     Fentertainment and music.
+OL,15,G1800 Upload with Emma Millen
+OL,16,     FOriginal comedy, podcasts, poetry,
+OL,17,     Ffiction and more on BBC Upload
+OL,18,     Fwith Emma Millen. Upload your work
+OL,19,     Ffor a chance to get on the BBC.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,288,250,301,140,0,100
+PN,28702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F287A1782537509
+OL,1,Vzssssss{0Ww;js%7+ "7jsjsjs
+OL,2,Vupp=wfff5W-.*,%-.  %*,*,(.V(,,,,,,,,,,,
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G2000 BBC Introducing - North East
+OL,6,     FTrack of the week: The Safest
+OL,7,     FPlace - Pink Cloud Syndrome,
+OL,8,     FFrankie Archer, Pet Rock.
+OL,9,G2200 Late Night Jo
+OL,10,     FJim Davis with late-night
+OL,11,     Fconversation, stories and the
+OL,12,     Fsoundtrack to your night.
+OL,13,G0100 Weekend overnights with BBC...
+OL,14,     F...Radio 5 Live. Local BBC Radio
+OL,15,     Fjoins BBC Radio 5 Live through the
+OL,16,     Fnight on a weekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,288,250,301,140,0,100@
