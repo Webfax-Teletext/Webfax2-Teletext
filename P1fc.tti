@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1782539311
+OL,0,        ECIMSBWebfax 2   F1fcA1782541070
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1782539310;
-OL,10,GService: Webfax 2 - 15694 18af50946e
-OL,11,FLast Update: 27/06/2026 06:48:30  G1/3
+OL,25,1782541069;
+OL,10,GService: Webfax 2 - 15695 8ce9fc9d71
+OL,11,FLast Update: 27/06/2026 07:17:49  G1/3
 OL,13,AbbcNewsLive                G26/06-22:49
 OL,14,CbbcSport/Horse Racing      G23/06-12:01
 OL,15,Ccharts/singles             G22/06-07:21
 OL,16,Cgeneric/championship       G09/06-08:16
 OL,17,Ageneric/f1                 G26/06-16:15
 OL,18,Ageneric/lottery            G09/06-08:16
-OL,19,Cgeneric/prem_league        G22/06-14:46
-OL,20,Ageneric/tube_status        G09/06-08:16
-OL,21,Cgeneric/weather_warnings   G09/06-08:16
-OL,22,CitvSport/border            G10/06-17:03
-OL,23,CitvSport/calendar          G09/06-08:15
+OL,19,Cgeneric/pollen_forecast    G26/06-06:44
+OL,20,Cgeneric/prem_league        G22/06-14:46
+OL,21,Ageneric/tube_status        G09/06-08:16
+OL,22,Cgeneric/weather_warnings   G09/06-08:16
+OL,23,CitvSport/border            G10/06-17:03
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1782539311
+OL,0,        ECIMSBWebfax 2   F1fcA1782541070
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,24 +42,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1782539310;
-OL,10,GService: Webfax 2 - 15694 18af50946e
-OL,11,FLast Update: 27/06/2026 06:48:30  G2/3
-OL,13,CitvSport/central           G11/06-12:03
-OL,14,CitvSport/channel           G22/06-20:47
-OL,15,CitvSport/granada           G24/06-16:17
-OL,16,CitvSport/london            G09/06-15:03
-OL,17,CitvSport/meridian          G09/06-08:16
-OL,18,CitvSport/tyne-tees         G23/06-20:47
-OL,19,CitvSport/utv               G09/06-08:16
-OL,20,CitvSport/wales             G19/06-08:49
-OL,21,CitvSport/westcountry       G09/06-08:16
-OL,22,Ctv_listings?select=false   G09/06-08:15
-OL,23,CiNMS/comments.json         G09/06-08:16
+OL,25,1782541069;
+OL,10,GService: Webfax 2 - 15695 8ce9fc9d71
+OL,11,FLast Update: 27/06/2026 07:17:49  G2/3
+OL,13,CitvSport/calendar          G09/06-08:15
+OL,14,CitvSport/central           G11/06-12:03
+OL,15,CitvSport/channel           G22/06-20:47
+OL,16,CitvSport/granada           G24/06-16:17
+OL,17,CitvSport/london            G09/06-15:03
+OL,18,CitvSport/meridian          G09/06-08:16
+OL,19,CitvSport/tyne-tees         G23/06-20:47
+OL,20,CitvSport/utv               G09/06-08:16
+OL,21,CitvSport/wales             G19/06-08:49
+OL,22,CitvSport/westcountry       G09/06-08:16
+OL,23,Ctv_listings?select=false   G09/06-08:15
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1782539311
+OL,0,        ECIMSBWebfax 2   F1fcA1782541070
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,7 +71,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1782539310;
-OL,10,GService: Webfax 2 - 15694 18af50946e
-OL,11,FLast Update: 27/06/2026 06:48:30  G3/3
-OL,13,CZXIndustries/epg.json      G16/06-05:03
+OL,25,1782541069;
+OL,10,GService: Webfax 2 - 15695 8ce9fc9d71
+OL,11,FLast Update: 27/06/2026 07:17:49  G3/3
+OL,13,CiNMS/comments.json         G09/06-08:16
+OL,14,CZXIndustries/epg.json      G16/06-05:03
