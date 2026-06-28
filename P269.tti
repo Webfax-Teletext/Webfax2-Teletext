@@ -1,15 +1,49 @@
-PN,26900
-SC,0000
+PN,26901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F269A1782605886
+PS,c008
+OL,0,        ECIMSBWebfax 2   F269A1782623910
 OL,1,Vzssssss{0Ww;js%7+ j jjkj+jkj jkjsjz*js
 OL,2,Vupp=wfff5W-.*,%-. *,****.*.*,**(.** *,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC...
-OL,6,     F...Radio 5 Live. Local BBC Radio
-OL,7,     Fjoins BBC Radio 5 Live through the
-OL,8,     Fnight on a weekend.
+OL,3,V}yyy5CSunday                  G1/2
+OL,5,G0600 Fiona Mills
+OL,6,     FFiona has a bright start to your
+OL,7,     Fday with ideas for the weekend.
+OL,8,G1000 Sean Dunderdale
+OL,9,     FSean livens up your weekend with
+OL,10,     Fgreat guests, conversation and
+OL,11,     Fmusic.
+OL,12,G1400 The Make a Difference Show
+OL,13,     FGaby Roslin talks to some amazing
+OL,14,     Fpeople making a difference where
+OL,15,     Fwe live.
+OL,16,G1800 Lincolnshire Farmwatch
+OL,17,     FYour weekly round-up of rural life
+OL,18,     Fin Lincolnshire with Sean
+OL,19,     FDunderdale.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,270,250,301,140,0,100
+PN,26902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F269A1782623910
+OL,1,Vzssssss{0Ww;js%7+ j jjkj+jkj jkjsjz*js
+OL,2,Vupp=wfff5W-.*,%-. *,****.*.*,**(.** *,
+OL,3,V}yyy5CSunday                  G2/2
+OL,5,G1900 Tim Walker's Folk
+OL,6,     FThe best folk music from
+OL,7,     FLincolnshire and beyond with Tim
+OL,8,     FWalker.
+OL,9,G2200 The Late Show
+OL,10,     FAsma Younus with late-night
+OL,11,     Fconversation, stories and the
+OL,12,     Fsoundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC...
+OL,14,     F...Radio 5 Live. Local BBC Radio
+OL,15,     Fjoins BBC Radio 5 Live through the
+OL,16,     Fnight on a weekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,270,250,301,140,0,100@
