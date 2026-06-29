@@ -2,7 +2,7 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1782710312
+OL,0,        ECIMSBWebfax 2   F239A1782742685
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CTuesday                 G1/3
@@ -28,7 +28,7 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1782710312
+OL,0,        ECIMSBWebfax 2   F239A1782742685
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CTuesday                 G2/3
@@ -42,12 +42,11 @@ OL,11,     Fsolo artist. Was it Elton's Yellow
 OL,12,     FBrick Road, KD's Ingenue Paul
 OL,13,     FSimon's Graceland?
 OL,14,G2000 Another Country with Ricky Ross
-OL,15,     FShowcasing new and classic country
-OL,16,     Fand Americana music.
-OL,17,G2200 Up Late
-OL,18,     FThe best company to end the day,
-OL,19,     Fwith lively chat and some of your
-OL,20,     Ffavourite tunes.
+OL,15,     FCountry and Americana
+OL,16,     Fsummer-themed songs, plus hot new
+OL,17,     Ftunes from Miranda Lambert, Carly
+OL,18,     FPearce, Little Big Town, Tenille
+OL,19,     FTownes and Old Crow Medicine Show.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -55,18 +54,22 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1782710312
+OL,0,        ECIMSBWebfax 2   F239A1782742685
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CTuesday                 G3/3
-OL,5,G0000 Scotcast
-OL,6,     FMartin Geissler and the team bring
-OL,7,     Fyou thoughtful conversation and
-OL,8,     Fexpert analysis covering the most
-OL,9,     Finteresting news stories in
-OL,10,     FScotland.
-OL,11,G0030 As BBC Radio 5 Live
-OL,12,     FJoining Radio 5 Live.
+OL,5,G2200 Up Late
+OL,6,     FThe best company to end the day,
+OL,7,     Fwith lively chat and some of your
+OL,8,     Ffavourite tunes.
+OL,9,G0000 Scotcast
+OL,10,     FMartin Geissler and the team bring
+OL,11,     Fyou thoughtful conversation and
+OL,12,     Fexpert analysis covering the most
+OL,13,     Finteresting news stories in
+OL,14,     FScotland.
+OL,15,G0030 As BBC Radio 5 Live
+OL,16,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100@
