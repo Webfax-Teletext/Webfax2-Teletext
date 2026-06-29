@@ -2,14 +2,14 @@ PN,47801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F478A1782623910
+OL,0,        ECIMSBWebfax 2   F478A1782710312
 OL,1,Vzssssss{0W7+j  w{js1wsjj#% wsj#7k
 OL,2,Vupp=wfff5W-.*,$%*(,%,.**,% % * %*V(,,,,
-OL,3,V}yyy5CMonday                  G1/4
-OL,5,G0400 Early Breakfast with Lucy Coward
-OL,6,     FJoin Lucy for the ideal selection
-OL,7,     Fof music if you rise first thing
-OL,8,     Fin the morning.
+OL,3,V}yyy5CTuesday                 G1/4
+OL,5,G0400 Early Breakfast
+OL,6,     FJoin Jennifer for the ideal
+OL,7,     Fselection of music if you rise
+OL,8,     Ffirst thing in the morning.
 OL,9,G0630 Dan Walker
 OL,10,     FDan Walker has the perfect
 OL,11,     Fclassical music to get you up in
@@ -30,10 +30,10 @@ PN,47802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F478A1782623910
+OL,0,        ECIMSBWebfax 2   F478A1782710312
 OL,1,Vzssssss{0W7+j  w{js1wsjj#% wsj#7k
 OL,2,Vupp=wfff5W-.*,$%*(,%,.**,% % * %*V(,,,,
-OL,3,V}yyy5CMonday                  G2/4
+OL,3,V}yyy5CTuesday                 G2/4
 OL,5,G1000 Aled Jones
 OL,6,     FAled Jones presents three hours of
 OL,7,     Fthe best classical music from late
@@ -57,10 +57,10 @@ PN,47803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F478A1782623910
+OL,0,        ECIMSBWebfax 2   F478A1782710312
 OL,1,Vzssssss{0W7+j  w{js1wsjj#% wsj#7k
 OL,2,Vupp=wfff5W-.*,$%*(,%,.**,% % * %*V(,,,,
-OL,3,V}yyy5CMonday                  G3/4
+OL,3,V}yyy5CTuesday                 G3/4
 OL,5,G1600 Margherita Taylor
 OL,6,     FJoin Margherita as she plays the
 OL,7,     Fbest music to take you into the
@@ -71,13 +71,14 @@ OL,11,     FZeb Soanes eases you into the
 OL,12,     Fevening with a relaxing soundtrack
 OL,13,     Fof all-time favourites and
 OL,14,     Fcontemporary classics.
-OL,15,G2100 Carousel
-OL,16,     FToday's focus is Sergei
-OL,17,     FRachmaninov, late-Romantic Russian
-OL,18,     Fpianist, composer, and conductor,
-OL,19,     Fsome of whose works are among the
-OL,20,     Fmost popular in the classical
-OL,21,     Frepertoire.
+OL,15,G2200 Calm Classics with Ritula Shah
+OL,16,     FRitula Shah provides the perfect
+OL,17,     Fsoothing soundtrack to help you
+OL,18,     Fwind down at the end of the day.
+OL,19,G0100 Bill Overton
+OL,20,     FBill Overton keeps you company all
+OL,21,     Fthrough the night with beautiful
+OL,22,     Fmusic for the early hours.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,479,250,301,140,0,100
@@ -85,22 +86,14 @@ PN,47804
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F478A1782623910
+OL,0,        ECIMSBWebfax 2   F478A1782710312
 OL,1,Vzssssss{0W7+j  w{js1wsjj#% wsj#7k
 OL,2,Vupp=wfff5W-.*,$%*(,%,.**,% % * %*V(,,,,
-OL,3,V}yyy5CMonday                  G4/4
-OL,5,G2200 Calm Classics with Ritula Shah
-OL,6,     FRitula Shah provides the perfect
-OL,7,     Fsoothing soundtrack to help you
-OL,8,     Fwind down at the end of the day.
-OL,9,G0100 Bill Overton
-OL,10,     FBill Overton keeps you company all
-OL,11,     Fthrough the night with beautiful
-OL,12,     Fmusic for the early hours.
-OL,13,G0400 Early Breakfast
-OL,14,     FJoin Jennifer for the ideal
-OL,15,     Fselection of music if you rise
-OL,16,     Ffirst thing in the morning.
+OL,3,V}yyy5CTuesday                 G4/4
+OL,5,G0400 Early Breakfast
+OL,6,     FJoin Jennifer for the ideal
+OL,7,     Fselection of music if you rise
+OL,8,     Ffirst thing in the morning.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,479,250,301,140,0,100@
