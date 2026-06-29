@@ -2,24 +2,27 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G1/11
-OL,5,G1606 Outside Source
+OL,3,V}yyy5CMonday                  G1/10
+OL,5,G1706 Outside Source
 OL,6,     FA vibrant account of the day's
 OL,7,     Fevents with explanation and
 OL,8,     Freaction from those involved.
-OL,9,G1700 BBC News
+OL,9,G1800 BBC News
 OL,10,     FThe latest five minute news
 OL,11,     Fbulletin from BBC World Service.
-OL,12,G1706 Outside Source
-OL,13,     FA vibrant account of the day's
-OL,14,     Fevents with explanation and
-OL,15,     Freaction from those involved.
-OL,16,G1800 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
+OL,12,G1806 Outlook
+OL,13,     FNguyen Van Loc grew up in singing
+OL,14,     Fballads in Vietnam. When the
+OL,15,     Fcommunists took over, his music
+OL,16,     Fcost him his liberty.
+OL,17,G1850 Witness History
+OL,18,     FIn March 1959, the US government
+OL,19,     Fpassed the Hawaiian Admission Act
+OL,20,     Fsetting the process of statehood
+OL,21,     Fin motion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -27,26 +30,27 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G2/11
-OL,5,G1806 Outlook
-OL,6,     FNguyen Van Loc grew up in singing
-OL,7,     Fballads in Vietnam. When the
-OL,8,     Fcommunists took over, his music
-OL,9,     Fcost him his liberty.
-OL,10,G1850 Witness History
-OL,11,     FIn March 1959, the US government
-OL,12,     Fpassed the Hawaiian Admission Act
-OL,13,     Fsetting the process of statehood
-OL,14,     Fin motion.
-OL,15,G1900 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G1906 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
+OL,3,V}yyy5CMonday                  G2/10
+OL,5,G1900 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G1906 The Newsroom
+OL,9,     FThe world's Newsroom brings you
+OL,10,     Fglobal events as they happen.
+OL,11,G1930 BBC News Summary
+OL,12,     FThe latest two minute news summary
+OL,13,     Ffrom BBC World Service.
+OL,14,G1932 Sport Today
+OL,15,     FBBC sports correspondents tell the
+OL,16,     Fstory behind today's top sporting
+OL,17,     Fnews, with interviews and reports
+OL,18,     Ffrom across the world.
+OL,19,G2000 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -54,28 +58,27 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G3/11
-OL,5,G1930 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G1932 Sport Today
-OL,9,     FBBC sports correspondents tell the
-OL,10,     Fstory behind today's top sporting
-OL,11,     Fnews, with interviews and reports
-OL,12,     Ffrom across the world.
-OL,13,G2000 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G2006 From Our Own Correspondent
-OL,17,     FThe vanishing hopes of young
-OL,18,     FAfghan women; Jamaican farms grow
-OL,19,     Fback better after Hurricane
-OL,20,     FMelissa; tangling with Thailand's
-OL,21,     Fsnakes; nervous laughter in
-OL,22,     FMoscow's comedy clubs.
+OL,3,V}yyy5CMonday                  G3/10
+OL,5,G2006 From Our Own Correspondent
+OL,6,     FThe vanishing hopes of young
+OL,7,     FAfghan women; Jamaican farms grow
+OL,8,     Fback better after Hurricane
+OL,9,     FMelissa; tangling with Thailand's
+OL,10,     Fsnakes; nervous laughter in
+OL,11,     FMoscow's comedy clubs.
+OL,12,G2030 BBC News Summary
+OL,13,     FThe latest two minute news summary
+OL,14,     Ffrom BBC World Service.
+OL,15,G2032 Discovery
+OL,16,     FDr Julia Ravey and Dr Ella Hubber
+OL,17,     Ftell each other inspiring tales of
+OL,18,     Fpioneering female scientists- the
+OL,19,     Fstories they wish they'd known
+OL,20,     Fabout the women that came before
+OL,21,     Fthem.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -83,26 +86,28 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G4/11
-OL,5,G2030 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G2032 Discovery
-OL,9,     FDr Julia Ravey and Dr Ella Hubber
-OL,10,     Ftell each other inspiring tales of
-OL,11,     Fpioneering female scientists- the
-OL,12,     Fstories they wish they'd known
-OL,13,     Fabout the women that came before
-OL,14,     Fthem.
-OL,15,G2100 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G2106 Newshour
-OL,19,     FInterviews, news and analysis of
-OL,20,     Fthe day's global events.
+OL,3,V}yyy5CMonday                  G4/10
+OL,5,G2100 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G2106 Newshour
+OL,9,     FInterviews, news and analysis of
+OL,10,     Fthe day's global events.
+OL,11,G2200 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G2206 The Interview
+OL,15,     FWaihiga Mwaura speaks to former US
+OL,16,     FSecretary of State John Kerry
+OL,17,     Fabout why he thinks many parts of
+OL,18,     Fthe world are retreating from
+OL,19,     Ftackling climate change.
+OL,20,G2230 BBC News Summary
+OL,21,     FThe latest two minute news summary
+OL,22,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -110,33 +115,10 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G5/11
-OL,5,G2200 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G2206 The Interview
-OL,9,     FWaihiga Mwaura speaks to former US
-OL,10,     FSecretary of State John Kerry
-OL,11,     Fabout why he thinks many parts of
-OL,12,     Fthe world are retreating from
-OL,13,     Ftackling climate change.
-OL,14,G2230 BBC News Summary
-OL,15,     FThe latest two minute news summary
-OL,16,     Ffrom BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21106
-SC,0006
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G6/11
+OL,3,V}yyy5CMonday                  G5/10
 OL,5,G2232 The Conversation
 OL,6,     FWomen in Hong Kong and South
 OL,7,     FAfrica tell Datshiane Navanayagam
@@ -156,14 +138,14 @@ OL,20,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21107
-SC,0007
+PN,21106
+SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G7/11
+OL,3,V}yyy5CMonday                  G6/10
 OL,5,G2332 World Business Report
 OL,6,     FThe latest business and finance
 OL,7,     Fnews from around the world, on the
@@ -185,14 +167,14 @@ OL,22,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21108
-SC,0008
+PN,21107
+SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G8/11
+OL,3,V}yyy5CMonday                  G7/10
 OL,5,G0130 BBC News Summary
 OL,6,     FThe latest two minute news summary
 OL,7,     Ffrom BBC World Service.
@@ -212,14 +194,14 @@ OL,20,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21109
-SC,0009
+PN,21108
+SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G9/11
+OL,3,V}yyy5CMonday                  G8/10
 OL,5,G0232 Assignment
 OL,6,     FWhat's behind Swiss concerns about
 OL,7,     Fimmigration?
@@ -239,14 +221,14 @@ OL,20,     Fin motion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21110
-SC,0010
+PN,21109
+SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                 G10/11
+OL,3,V}yyy5CMonday                  G9/10
 OL,5,G0400 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
@@ -268,14 +250,14 @@ OL,22,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21111
-SC,0011
+PN,21110
+SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782746279
+OL,0,        ECIMSBWebfax 2   F211A1782749870
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                 G11/11
+OL,3,V}yyy5CMonday                 G10/10
 OL,5,G0506 Newsday
 OL,6,     FLive news, business and sport from
 OL,7,     Faround the world.
