@@ -1,53 +1,29 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782785866
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1782789488
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G1/2
-OL,5,G0306 Outlook
-OL,6,     FNguyen Van Loc grew up in singing
-OL,7,     Fballads in Vietnam. When the
-OL,8,     Fcommunists took over, his music
-OL,9,     Fcost him his liberty.
-OL,10,G0350 Witness History
-OL,11,     FIn March 1959, the US government
-OL,12,     Fpassed the Hawaiian Admission Act
-OL,13,     Fsetting the process of statehood
-OL,14,     Fin motion.
-OL,15,G0400 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0406 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782785866
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G2/2
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 In the Studio
-OL,9,     FIn the Studio enters the creative
-OL,10,     Fworld of award-winning
-OL,11,     FIrish-language poet Ailbhe Ni
-OL,12,     FGhearbhuigh as she composes a new
-OL,13,     Fpoem.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 Newsday
-OL,18,     FLive news, business and sport from
-OL,19,     Faround the world.
+OL,3,V}yyy5CMonday
+OL,5,G0406 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0430 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0432 In the Studio
+OL,12,     FIn the Studio enters the creative
+OL,13,     Fworld of award-winning
+OL,14,     FIrish-language poet Ailbhe Ni
+OL,15,     FGhearbhuigh as she composes a new
+OL,16,     Fpoem.
+OL,17,G0500 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
+OL,20,G0506 Newsday
+OL,21,     FLive news, business and sport from
+OL,22,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
