@@ -1,15 +1,69 @@
-PN,45200
-SC,0000
+PN,45201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F452A1782793066
+PS,c008
+OL,0,        ECIMSBWebfax 2   F452A1782796711
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CMonday
-OL,5,G0500 Early Sports Breakfast
-OL,6,     FAn early morning serving of the
-OL,7,     Flatest sports news for when you
-OL,8,     Fwake up.
+OL,3,V}yyy5CTuesday                 G1/3
+OL,5,G0600 talkSPORT World Cup Breakfast
+OL,6,     FJoin us as we bring you a
+OL,7,     Fbreakfast buffet of sport. Call
+OL,8,     Fthe show on 03717 22 33 44 (Calls
+OL,9,     Fcharged at national rate) or text
+OL,10,     F81089 (50p + charges).
+OL,11,G1000 Hawksbee & Jacobs
+OL,12,     FA serving of sports news, guests
+OL,13,     Fand a sideways look at the big
+OL,14,     Fstories of the day. Call the show
+OL,15,     Fon 03717 22 33 44 (Calls charged
+OL,16,     Fat national rate) or text 81089
+OL,17,     F(50p + charges).
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,453,250,301,140,0,100
+PN,45202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F452A1782796711
+OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
+OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
+OL,3,V}yyy5CTuesday                 G2/3
+OL,5,G1300 White & Jordan - Live from NY
+OL,6,     FBreaking sports news, big name
+OL,7,     Fguests and opinionated debate on
+OL,8,     Fthe day's top stories. Call the
+OL,9,     Fshow on 03717 22 33 44 (Calls
+OL,10,     Fcharged at national rate) or text
+OL,11,     F81089 (50p + charges).
+OL,12,G1600 World Cup GameDay Live - Ivory
+OL,13,G     Coast v Norway
+OL,14,     FJeff Stelling presents live
+OL,15,     Fcommentary from the World Cup.
+OL,16,G2000 World Cup GameDay Live - France v
+OL,17,G     Sweden
+OL,18,     FHugh Woozencroft presents live
+OL,19,     Fcommentary from the World Cup.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,453,250,301,140,0,100
+PN,45203
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F452A1782796711
+OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
+OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
+OL,3,V}yyy5CTuesday                 G3/3
+OL,5,G0100 World Cup GameDay Live - Mexico v
+OL,6,G     Ecuador
+OL,7,     FNatalie Sawyer presents live
+OL,8,     Fcommentary from the World Cup.
+OL,9,G0500 Early Sports Breakfast
+OL,10,     FAn early morning serving of the
+OL,11,     Flatest sports news for when you
+OL,12,     Fwake up.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,453,250,301,140,0,100@
