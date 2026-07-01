@@ -2,25 +2,28 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1782883166
+OL,0,        ECIMSBWebfax 2   F214A1782893904
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CWednesday               G1/3
-OL,5,G0600 Radio Scotland Breakfast
-OL,6,     FNews from across Scotland and the
-OL,7,     Fworld, plus sport, weather,
-OL,8,     Fentertainment and big name
-OL,9,     Finterviews.
-OL,10,G0900 Mornings
-OL,11,     FLaura McGhie gets to the heart of
-OL,12,     Fthe stories making the news.
-OL,13,G1200 Lunchtime Live
-OL,14,     FNews updates from Scotland and
-OL,15,     Fbeyond, plus all your lunchtime
-OL,16,     Fsport, travel and weather.
-OL,17,G1330 Radio Scotland Afternoons
-OL,18,     FThe best music, guests and arts
-OL,19,     Fcoverage.
+OL,5,G0900 Mornings
+OL,6,     FLaura McGhie gets to the heart of
+OL,7,     Fthe stories making the news.
+OL,8,G1200 Lunchtime Live
+OL,9,     FNews updates from Scotland and
+OL,10,     Fbeyond, plus all your lunchtime
+OL,11,     Fsport, travel and weather.
+OL,12,G1330 Radio Scotland Afternoons
+OL,13,     FThe best music, guests and arts
+OL,14,     Fcoverage.
+OL,15,G1600 Drivetime
+OL,16,     FBreaking down the day's talking
+OL,17,     Fpoints with comment and opinion,
+OL,18,     Fplus sport, travel and weather.
+OL,19,G1800 Get It On with Bryan Burnett
+OL,20,     FTonight, we are after songs about
+OL,21,     Fbirds - from an Albatross to Three
+OL,22,     FLittle Birds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -28,25 +31,27 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1782883166
+OL,0,        ECIMSBWebfax 2   F214A1782893904
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CWednesday               G2/3
-OL,5,G1600 Drivetime
-OL,6,     FBreaking down the day's talking
-OL,7,     Fpoints with comment and opinion,
-OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Get It On with Bryan Burnett
-OL,10,     FTonight, we are after songs about
-OL,11,     Fbirds - from an Albatross to Three
-OL,12,     FLittle Birds.
-OL,13,G2000 The Quay Sessions
-OL,14,     FRoddy plays new music from The
-OL,15,     FProclaimers and shares live
-OL,16,     Fhighlights recorded at this year's
-OL,17,     FTRNSMT festival, including
-OL,18,     FKasabian, Amy Macdonald, The
-OL,19,     FFratellis and Rianne Downey.
+OL,5,G2000 The Quay Sessions
+OL,6,     FRoddy plays new music from The
+OL,7,     FProclaimers and shares live
+OL,8,     Fhighlights recorded at this year's
+OL,9,     FTRNSMT festival, including
+OL,10,     FKasabian, Amy Macdonald, The
+OL,11,     FFratellis and Rianne Downey.
+OL,12,G2200 Up Late
+OL,13,     FThe best company to end the day,
+OL,14,     Fwith lively chat and some of your
+OL,15,     Ffavourite tunes.
+OL,16,G0000 Scotcast
+OL,17,     FMartin Geissler and the team bring
+OL,18,     Fyou thoughtful conversation and
+OL,19,     Fexpert analysis covering the most
+OL,20,     Finteresting news stories in
+OL,21,     FScotland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -54,22 +59,12 @@ PN,21403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1782883166
+OL,0,        ECIMSBWebfax 2   F214A1782893904
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CWednesday               G3/3
-OL,5,G2200 Up Late
-OL,6,     FThe best company to end the day,
-OL,7,     Fwith lively chat and some of your
-OL,8,     Ffavourite tunes.
-OL,9,G0000 Scotcast
-OL,10,     FMartin Geissler and the team bring
-OL,11,     Fyou thoughtful conversation and
-OL,12,     Fexpert analysis covering the most
-OL,13,     Finteresting news stories in
-OL,14,     FScotland.
-OL,15,G0030 As BBC Radio 5 Live
-OL,16,     FJoining Radio 5 Live.
+OL,5,G0030 As BBC Radio 5 Live
+OL,6,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100@

@@ -2,27 +2,25 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G1/16
-OL,5,G0832 Business Daily
-OL,6,     FCharlotte Tilbury reflects on
-OL,7,     Fturning a makeup artistry career
-OL,8,     Finto a global beauty brand. She
-OL,9,     Falso discusses the company's
-OL,10,     Fgrowth and how it navigated the
-OL,11,     Fchallenges of Covid-19.
-OL,12,G0850 Witness History
-OL,13,     FIn 1955, Rosa Parks was arrested
-OL,14,     Fafter refusing to give up her seat
-OL,15,     Fon the bus for a white man.
-OL,16,G0900 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
-OL,19,G0906 The Newsroom
-OL,20,     FThe world's Newsroom brings you
-OL,21,     Fglobal events as they happen.
+OL,3,V}yyy5CWednesday               G1/15
+OL,5,G0906 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0930 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0932 The Climate Question
+OL,12,     FThe El Nino weather pattern has
+OL,13,     Fstarted and could be one of the
+OL,14,     Fstrongest on record. So how does
+OL,15,     FEl Nino work exactly? And what's
+OL,16,     Fthe link with climate change?
+OL,17,G1000 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -30,26 +28,28 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G2/16
-OL,5,G0930 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0932 The Climate Question
-OL,9,     FThe El Nino weather pattern has
-OL,10,     Fstarted and could be one of the
-OL,11,     Fstrongest on record. So how does
-OL,12,     FEl Nino work exactly? And what's
-OL,13,     Fthe link with climate change?
-OL,14,G1000 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G1006 The Documentary
-OL,18,     FPrimate experimentation: we have
-OL,19,     Fthe need, but do we have the
-OL,20,     Fright?
+OL,3,V}yyy5CWednesday               G2/15
+OL,5,G1006 The Documentary
+OL,6,     FPrimate experimentation: we have
+OL,7,     Fthe need, but do we have the
+OL,8,     Fright?
+OL,9,G1100 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G1106 The Newsroom
+OL,13,     FThe world's Newsroom brings you
+OL,14,     Fglobal events as they happen.
+OL,15,G1130 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
+OL,18,G1132 The Global Story
+OL,19,     F.
+OL,20,G1200 BBC News
+OL,21,     FThe latest five minute news
+OL,22,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -57,35 +57,10 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G3/16
-OL,5,G1100 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1106 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G1130 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G1132 The Global Story
-OL,15,     F.
-OL,16,G1200 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21104
-SC,0004
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G4/16
+OL,3,V}yyy5CWednesday               G3/15
 OL,5,G1206 Outlook
 OL,6,     FBorn with a rare condition,
 OL,7,     Fdoctors said Johnny Byamungu
@@ -105,14 +80,14 @@ OL,20,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21105
-SC,0005
+PN,21104
+SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G5/16
+OL,3,V}yyy5CWednesday               G4/15
 OL,5,G1330 BBC News Summary
 OL,6,     FThe latest two minute news summary
 OL,7,     Ffrom BBC World Service.
@@ -132,14 +107,14 @@ OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21106
-SC,0006
+PN,21105
+SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G6/16
+OL,3,V}yyy5CWednesday               G5/15
 OL,5,G1506 The Interview
 OL,6,     FMani Djazmi speaks to Katie
 OL,7,     FSadleir, Commonwealth Games CEO,
@@ -158,14 +133,14 @@ OL,19,     Fchallenges of Covid-19.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21107
-SC,0007
+PN,21106
+SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G7/16
+OL,3,V}yyy5CWednesday               G6/15
 OL,5,G1550 World Business Express
 OL,6,     FFinance, economy and business news
 OL,7,     Ffrom BBC journalists around the
@@ -187,14 +162,14 @@ OL,22,     Freaction from those involved.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21108
-SC,0008
+PN,21107
+SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G8/16
+OL,3,V}yyy5CWednesday               G7/15
 OL,5,G1800 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
@@ -214,14 +189,14 @@ OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21109
-SC,0009
+PN,21108
+SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G9/16
+OL,3,V}yyy5CWednesday               G8/15
 OL,5,G1906 The Newsroom
 OL,6,     FThe world's Newsroom brings you
 OL,7,     Fglobal events as they happen.
@@ -239,14 +214,14 @@ OL,18,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21110
-SC,0010
+PN,21109
+SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday              G10/16
+OL,3,V}yyy5CWednesday               G9/15
 OL,5,G2006 The Climate Question
 OL,6,     FThe El Nino weather pattern has
 OL,7,     Fstarted and could be one of the
@@ -266,14 +241,14 @@ OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21111
-SC,0011
+PN,21110
+SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday              G11/16
+OL,3,V}yyy5CWednesday              G10/15
 OL,5,G2106 Newshour
 OL,6,     FInterviews, news and analysis of
 OL,7,     Fthe day's global events.
@@ -295,14 +270,14 @@ OL,22,     FMiddle East conflict.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21112
-SC,0012
+PN,21111
+SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday              G12/16
+OL,3,V}yyy5CWednesday              G11/15
 OL,5,G2300 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
@@ -322,14 +297,14 @@ OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21113
-SC,0013
+PN,21112
+SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday              G13/16
+OL,3,V}yyy5CWednesday              G12/15
 OL,5,G0006 The Documentary
 OL,6,     FPrimate experimentation: we have
 OL,7,     Fthe need, but do we have the
@@ -351,14 +326,14 @@ OL,22,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21114
-SC,0014
+PN,21113
+SC,0013
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday              G14/16
+OL,3,V}yyy5CWednesday              G13/15
 OL,5,G0206 The Newsroom
 OL,6,     FThe world's Newsroom brings you
 OL,7,     Fglobal events as they happen.
@@ -377,14 +352,14 @@ OL,19,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21115
-SC,0015
+PN,21114
+SC,0014
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday              G15/16
+OL,3,V}yyy5CWednesday              G14/15
 OL,5,G0306 Outlook
 OL,6,     FBorn with a rare condition,
 OL,7,     Fdoctors said Johnny Byamungu
@@ -404,14 +379,14 @@ OL,20,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21116
-SC,0016
+PN,21115
+SC,0015
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782892094
+OL,0,        ECIMSBWebfax 2   F211A1782893904
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday              G16/16
+OL,3,V}yyy5CWednesday              G15/15
 OL,5,G0430 BBC News Summary
 OL,6,     FThe latest two minute news summary
 OL,7,     Ffrom BBC World Service.
