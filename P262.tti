@@ -1,16 +1,50 @@
-PN,26200
-SC,0000
+PN,26201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F262A1782951527
+PS,c008
+OL,0,        ECIMSBWebfax 2   F262A1782969569
 OL,1,Vzssssss{0Ww;js%7+ jz`tjjj
 OL,2,Vupp=wfff5W-.*,%-. ** !*..V(,,,,,,,,,,,,
-OL,3,V}yyy5CWednesday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CThursday                G1/2
+OL,5,G0600 Tammy Gooding
+OL,6,     FWake up with a smile, plus the
+OL,7,     Fnews, sport, travel and weather
+OL,8,     Fyou need to start the day.
+OL,9,G1000 Elliott Webb
+OL,10,     FYour stories with the very best
+OL,11,     Finterviews and plenty of laughter
+OL,12,     Fwith Elliott.
+OL,13,G1400 Toni McDonald on BBC Hereford &
+OL,14,G     Worcester
+OL,15,     FWhat you need to know where you
+OL,16,     Flive with Toni.
+OL,17,G1800 Upload with Nina Das Gupta
+OL,18,     FOriginal comedy, podcasts, poetry,
+OL,19,     Ffiction and more on BBC Upload.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,263,250,301,140,0,100
+PN,26202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F262A1782969569
+OL,1,Vzssssss{0Ww;js%7+ jz`tjjj
+OL,2,Vupp=wfff5W-.*,%-. ** !*..V(,,,,,,,,,,,,
+OL,3,V}yyy5CThursday                G2/2
+OL,5,G2000 BBC Introducing - Shropshire,
+OL,6,G     Stoke, Hereford & Worcester
+OL,7,     FAndrew Marston introduces the best
+OL,8,     Fnew music from across our area.
+OL,9,G2200 The Late Show
+OL,10,     FBecky Want with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,263,250,301,140,0,100@
