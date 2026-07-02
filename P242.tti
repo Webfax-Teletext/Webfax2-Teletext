@@ -2,7 +2,7 @@ PN,24201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1782969569
+OL,0,        ECIMSBWebfax 2   F242A1782998337
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
 OL,3,V}yyy5CFriday                  G1/5
@@ -27,7 +27,7 @@ PN,24202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1782969569
+OL,0,        ECIMSBWebfax 2   F242A1782998337
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
 OL,3,V}yyy5CFriday                  G2/5
@@ -53,7 +53,7 @@ PN,24203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1782969569
+OL,0,        ECIMSBWebfax 2   F242A1782998337
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
 OL,3,V}yyy5CFriday                  G3/5
@@ -78,7 +78,7 @@ PN,24204
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1782969569
+OL,0,        ECIMSBWebfax 2   F242A1782998337
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
 OL,3,V}yyy5CFriday                  G4/5
@@ -92,14 +92,11 @@ OL,11,     FMae Radio Cymru'n ymuno a'r BBC
 OL,12,     FWorld Service dros nos. Radio
 OL,13,     FCymru joins the BBC World Service
 OL,14,     Fovernight.
-OL,15,G0100 This is BBC R Cymru
-OL,16,     FThis is BBC R Cymru
-OL,17,G0130 This is BBC R Cymru
-OL,18,     FThis is BBC R Cymru
-OL,19,G0200 This is BBC R Cymru
-OL,20,     FThis is BBC R Cymru
-OL,21,G0230 This is BBC R Cymru
-OL,22,     FThis is BBC R Cymru
+OL,15,G0100 Beti a'i Phobol
+OL,16,     FBeti George yn holi rhai o bobl
+OL,17,     Fmwyaf diddorol Cymru. Beti George
+OL,18,     Finterviews some of Wales' most
+OL,19,     Finteresting people.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,243,200,300,120,0,100
@@ -107,27 +104,22 @@ PN,24205
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1782969569
+OL,0,        ECIMSBWebfax 2   F242A1782998337
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
 OL,3,V}yyy5CFriday                  G5/5
-OL,5,G0300 This is BBC R Cymru
-OL,6,     FThis is BBC R Cymru
-OL,7,G0330 This is BBC R Cymru
-OL,8,     FThis is BBC R Cymru
-OL,9,G0400 This is BBC R Cymru
-OL,10,     FThis is BBC R Cymru
-OL,11,G0430 This is BBC R Cymru
-OL,12,     FThis is BBC R Cymru
-OL,13,G0500 This is BBC R Cymru
-OL,14,     FThis is BBC R Cymru
-OL,15,G0530 Huw Stephens
-OL,16,     FCerddoriaeth newydd a hen, wedi'i
-OL,17,     Fddewis yn wythnosol gan Huw
-OL,18,     FStephens o'i gasgliad personol.
-OL,19,     FHuw Stephens selects music, old
-OL,20,     Fand new, from his personal
-OL,21,     Fcollection.
+OL,5,G0145 Gweler BBC World Service
+OL,6,     FMae Radio Cymru'n ymuno a'r BBC
+OL,7,     FWorld Service dros nos. Radio
+OL,8,     FCymru joins the BBC World Service
+OL,9,     Fovernight.
+OL,10,G0530 Huw Stephens
+OL,11,     FCerddoriaeth newydd a hen, wedi'i
+OL,12,     Fddewis yn wythnosol gan Huw
+OL,13,     FStephens o'i gasgliad personol.
+OL,14,     FHuw Stephens selects music, old
+OL,15,     Fand new, from his personal
+OL,16,     Fcollection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,243,200,300,120,0,100@

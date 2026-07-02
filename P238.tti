@@ -2,10 +2,10 @@ PN,23801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1782969569
+OL,0,        ECIMSBWebfax 2   F238A1782998337
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CFriday                  G1/7
+OL,3,V}yyy5CFriday                  G1/6
 OL,5,G0000 As BBC Radio 5 live
 OL,6,     FBBC Radio Ulster joins BBC Radio 5
 OL,7,     Flive.
@@ -31,28 +31,27 @@ PN,23802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1782969569
+OL,0,        ECIMSBWebfax 2   F238A1782998337
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CFriday                  G2/7
+OL,3,V}yyy5CFriday                  G2/6
 OL,5,G1030 Vinny & Cate
-OL,6,     FFrom the kitchen to the office,
-OL,7,     Fthe work van and beyond... This is
-OL,8,     FYOUR mid-morning escape, with
-OL,9,     FVinny & Cate.
-OL,10,G1130 The Mystery Mix Tape with Vinny &
-OL,11,G     Cate
-OL,12,     FVinny and Cate challenge you (and
-OL,13,     Feach other) to search through your
-OL,14,     Fmusic memories to correctly
-OL,15,     Fidentify the year in question.
-OL,16,G1200 Radio Foyle News
-OL,17,     FThe latest local and national news
-OL,18,     Fupdates.
-OL,19,G1203 The Mark Patterson Show
-OL,20,     FNews, views, issues and culture
-OL,21,     Ffrom across the north west of
-OL,22,     FNorthern Ireland.
+OL,6,     FVinny and Cate broadcast live from
+OL,7,     FStendhal, joined by festival
+OL,8,     Fattendees and Mark McCabe.
+OL,9,G1130 The Mystery Mix Tape with Vinny &
+OL,10,G     Cate
+OL,11,     FVinny and Cate challenge you (and
+OL,12,     Feach other) to search through your
+OL,13,     Fmusic memories to correctly
+OL,14,     Fidentify the year in question.
+OL,15,G1200 Radio Foyle News
+OL,16,     FThe latest local and national news
+OL,17,     Fupdates.
+OL,18,G1203 The Mark Patterson Show
+OL,19,     FNews, views, issues and culture
+OL,20,     Ffrom across the north west of
+OL,21,     FNorthern Ireland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,239,200,300,120,0,100
@@ -60,10 +59,10 @@ PN,23803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1782969569
+OL,0,        ECIMSBWebfax 2   F238A1782998337
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CFriday                  G3/7
+OL,3,V}yyy5CFriday                  G3/6
 OL,5,G1300 North West at One
 OL,6,     FThe latest local, national and
 OL,7,     Finternational news, sport and
@@ -87,10 +86,10 @@ PN,23804
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1782969569
+OL,0,        ECIMSBWebfax 2   F238A1782998337
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CFriday                  G4/7
+OL,3,V}yyy5CFriday                  G4/6
 OL,5,G1504 Sean Coyle
 OL,6,     FRequests, dedications and lots of
 OL,7,     Fgood music to brighten up your
@@ -114,10 +113,10 @@ PN,23805
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1782969569
+OL,0,        ECIMSBWebfax 2   F238A1782998337
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CFriday                  G5/7
+OL,3,V}yyy5CFriday                  G5/6
 OL,5,G1800 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
@@ -129,11 +128,13 @@ OL,12,G1900 BBC News NI update
 OL,13,     FThe latest national and
 OL,14,     Finternational news.
 OL,15,G1904 Stephen McCauley
-OL,16,     FStephen McCauley brings you the
-OL,17,     Fbest in alternative music from
-OL,18,     Fpunk to electronica from home and
-OL,19,     Fabroad featuring live performance,
-OL,20,     Finterviews and more.
+OL,16,     FThe show is live from Stendhal
+OL,17,     FFestival 2026 with live music and
+OL,18,     Fthe atmosphere that only Stendhal
+OL,19,     Fcan bring.
+OL,20,G2200 BBC News NI update
+OL,21,     FThe latest national and
+OL,22,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,239,200,300,120,0,100
@@ -141,41 +142,27 @@ PN,23806
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1782969569
+OL,0,        ECIMSBWebfax 2   F238A1782998337
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CFriday                  G6/7
-OL,5,G2200 BBC News NI update
-OL,6,     FThe latest national and
-OL,7,     Finternational news.
-OL,8,G2204 The Late Show with Mickey Bradley
-OL,9,     FRecords by Grandma's House, United
-OL,10,     FStates of Existence, Nancy
-OL,11,     FSinatra, McCarthy, Demonstration
-OL,12,     FTapes, Altered Images and more.
-OL,13,G2355 BBC News NI update
-OL,14,     FThe latest national and
-OL,15,     Finternational news.
-OL,16,G0000 Inna Rhythm with Kwame Daniels
-OL,17,     FDJ Kwame Daniels presents a Sat
-OL,18,     Fnav to your 'Inna Rhythm' with an
-OL,19,     Fincredible soundtrack of Disco to
-OL,20,     FBoogie, Electronica to Afro Beat,
-OL,21,     FJazz to Funk.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,239,200,300,120,0,100
-PN,23807
-SC,0007
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1782969569
-OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
-OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CFriday                  G7/7
-OL,5,G0100 As BBC Radio 5 live
-OL,6,     FBBC Radio Ulster joins BBC Radio 5
-OL,7,     Flive.
+OL,3,V}yyy5CFriday                  G6/6
+OL,5,G2204 The Late Show with Mickey Bradley
+OL,6,     FRecords by Grandma's House, United
+OL,7,     FStates of Existence, Nancy
+OL,8,     FSinatra, McCarthy, Demonstration
+OL,9,     FTapes, Altered Images and more.
+OL,10,G2355 BBC News NI update
+OL,11,     FThe latest national and
+OL,12,     Finternational news.
+OL,13,G0000 Inna Rhythm with Kwame Daniels
+OL,14,     FDJ Kwame Daniels presents a Sat
+OL,15,     Fnav to your 'Inna Rhythm' with an
+OL,16,     Fincredible soundtrack of Disco to
+OL,17,     FBoogie, Electronica to Afro Beat,
+OL,18,     FJazz to Funk.
+OL,19,G0100 As BBC Radio 5 live
+OL,20,     FBBC Radio Ulster joins BBC Radio 5
+OL,21,     Flive.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,239,200,300,120,0,100@
