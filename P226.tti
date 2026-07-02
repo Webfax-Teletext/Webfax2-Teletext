@@ -2,7 +2,7 @@ PN,22601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1782883166
+OL,0,        ECIMSBWebfax 2   F226A1782956896
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G1/5
@@ -30,7 +30,7 @@ PN,22602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1782883166
+OL,0,        ECIMSBWebfax 2   F226A1782956896
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G2/5
@@ -57,7 +57,7 @@ PN,22603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1782883166
+OL,0,        ECIMSBWebfax 2   F226A1782956896
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G3/5
@@ -72,11 +72,6 @@ OL,12,     FHottest Record.
 OL,13,G2000 Radio 1's Rave-Up with Charlie Tee
 OL,14,     FCharlie Tee sits in, raving up
 OL,15,     Fyour Thursday night!
-OL,16,G2200 BBC Introducing on Radio 1...
-OL,17,     F...Dance with James Threlfall.
-OL,18,     FJames Threlfall brings you the
-OL,19,     Fmost exciting new dance from BBC
-OL,20,     FIntroducing.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100
@@ -84,28 +79,23 @@ PN,22604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1782883166
+OL,0,        ECIMSBWebfax 2   F226A1782956896
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G4/5
-OL,5,G2300 The Residency on Radio 1 Dance -
-OL,6,G     Chloe Caillet
-OL,7,     FChloe Caillet kicks off her
-OL,8,     FResidency with a celebration of
-OL,9,     Fdance music legends.
-OL,10,G0100 Danny Howard's Club Mix
-OL,11,     FDanny goes in with another Club
-OL,12,     FMix, with tunes from this year's
-OL,13,     FParklife Festival line-up
-OL,14,     Fincluding, Calvin Harris, Sammy
-OL,15,     FVirji, Chloe Caillet and more.
-OL,16,G0200 Radio 1 Anthems
-OL,17,     FChelsea Little with big anthems
-OL,18,     Fand tunes you haven't heard in
-OL,19,     Fages.
-OL,20,G0400 Radio 1's Workout Anthems
-OL,21,     FBig dance bangers to power your
-OL,22,     Fworkout!
+OL,5,G2200 BBC Introducing on Radio 1...
+OL,6,     F...Dance with James Threlfall.
+OL,7,     FJames Threlfall has a brand new
+OL,8,     FDancefloor Moment from Emily Nash,
+OL,9,     Fplus music from Declan Knapp,
+OL,10,     FDRIIA, GHSTGHSTGHST, Alande,
+OL,11,     FLu.Re, Gardna, Bacavi, Aembr &
+OL,12,     Fmore.
+OL,13,G2300 The Residency on Radio 1 Dance -
+OL,14,G     Chloe Caillet
+OL,15,     FChloe Caillet kicks off her
+OL,16,     FResidency with a celebration of
+OL,17,     Fdance music legends.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100
@@ -113,14 +103,27 @@ PN,22605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1782883166
+OL,0,        ECIMSBWebfax 2   F226A1782956896
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G5/5
-OL,5,G0500 Radio 1 Early Breakfast
-OL,6,     FRadio 1 Early Breakfast - for
-OL,7,     Fthose still up and those getting
-OL,8,     Fup!
+OL,5,G0100 Danny Howard's Club Mix
+OL,6,     FDanny goes in with another Club
+OL,7,     FMix, with tunes from this year's
+OL,8,     FParklife Festival line-up
+OL,9,     Fincluding, Calvin Harris, Sammy
+OL,10,     FVirji, Chloe Caillet and more.
+OL,11,G0200 Radio 1 Anthems
+OL,12,     FChelsea Little with big anthems
+OL,13,     Fand tunes you haven't heard in
+OL,14,     Fages.
+OL,15,G0400 Radio 1's Workout Anthems
+OL,16,     FBig dance bangers to power your
+OL,17,     Fworkout!
+OL,18,G0500 Radio 1 Early Breakfast
+OL,19,     FRadio 1 Early Breakfast - for
+OL,20,     Fthose still up and those getting
+OL,21,     Fup!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100@
