@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1782985699
+OL,0,        ECIMSBWebfax 2   F1fcA1782987510
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1782985699;
-OL,10,GService: Webfax 2 - 15936 eb62c5eda0
-OL,11,FLast Update: 02/07/2026 10:48:19  G1/3
+OL,25,1782987508;
+OL,10,GService: Webfax 2 - 15937 8adfc39aff
+OL,11,FLast Update: 02/07/2026 11:18:28  G1/3
 OL,13,AbbcNewsLive                G01/07-15:21
-OL,14,CbbcSport/Horse Racing      G23/06-12:01
-OL,15,Cbbc_news_papers            G01/07-00:20
-OL,16,Ccharts/singles             G27/06-16:06
-OL,17,Cgeneric/championship       G27/06-10:56
-OL,18,Cgeneric/f1                 G28/06-16:50
-OL,19,Cgeneric/league-one         G26/06-19:38
-OL,20,Cgeneric/league-two         G27/06-03:03
-OL,21,Ageneric/lottery            G09/06-08:16
-OL,22,Ageneric/tube_status        G09/06-08:16
-OL,23,Cgeneric/weather_warnings   G09/06-08:16
+OL,14,Cbbc_news_papers            G01/07-00:20
+OL,15,Ccharts/singles             G27/06-16:06
+OL,16,Cgeneric/championship       G27/06-10:56
+OL,17,Cgeneric/f1                 G28/06-16:50
+OL,18,Cgeneric/league-one         G26/06-19:38
+OL,19,Cgeneric/league-two         G27/06-03:03
+OL,20,Ageneric/lottery            G09/06-08:16
+OL,21,Ageneric/tube_status        G09/06-08:16
+OL,22,Cgeneric/weather_warnings   G09/06-08:16
+OL,23,CitvSport/border            G10/06-17:03
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1782985699
+OL,0,        ECIMSBWebfax 2   F1fcA1782987510
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,24 +42,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1782985699;
-OL,10,GService: Webfax 2 - 15936 eb62c5eda0
-OL,11,FLast Update: 02/07/2026 10:48:19  G2/3
-OL,13,CitvSport/border            G10/06-17:03
-OL,14,CitvSport/calendar          G09/06-08:15
-OL,15,CitvSport/central           G11/06-12:03
-OL,16,CitvSport/channel           G22/06-20:47
-OL,17,CitvSport/granada           G24/06-16:17
-OL,18,CitvSport/london            G30/06-14:47
-OL,19,CitvSport/meridian          G09/06-08:16
-OL,20,CitvSport/tyne-tees         G23/06-20:47
-OL,21,CitvSport/utv               G09/06-08:16
-OL,22,CitvSport/wales             G19/06-08:49
-OL,23,CitvSport/westcountry       G09/06-08:16
+OL,25,1782987508;
+OL,10,GService: Webfax 2 - 15937 8adfc39aff
+OL,11,FLast Update: 02/07/2026 11:18:28  G2/3
+OL,13,CitvSport/calendar          G09/06-08:15
+OL,14,CitvSport/central           G11/06-12:03
+OL,15,CitvSport/channel           G22/06-20:47
+OL,16,CitvSport/granada           G24/06-16:17
+OL,17,CitvSport/london            G30/06-14:47
+OL,18,CitvSport/meridian          G09/06-08:16
+OL,19,CitvSport/tyne-tees         G23/06-20:47
+OL,20,CitvSport/utv               G09/06-08:16
+OL,21,CitvSport/wales             G19/06-08:49
+OL,22,CitvSport/westcountry       G09/06-08:16
+OL,23,Ctv_listings?select=false   G09/06-08:15
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1782985699
+OL,0,        ECIMSBWebfax 2   F1fcA1782987510
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,9 +71,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1782985699;
-OL,10,GService: Webfax 2 - 15936 eb62c5eda0
-OL,11,FLast Update: 02/07/2026 10:48:19  G3/3
-OL,13,Ctv_listings?select=false   G09/06-08:15
-OL,14,CiNMS/comments.json         G09/06-08:16
-OL,15,CZXIndustries/epg.json      G16/06-05:03
+OL,25,1782987508;
+OL,10,GService: Webfax 2 - 15937 8adfc39aff
+OL,11,FLast Update: 02/07/2026 11:18:28  G3/3
+OL,13,CiNMS/comments.json         G09/06-08:16
+OL,14,CZXIndustries/epg.json      G16/06-05:03
