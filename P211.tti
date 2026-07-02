@@ -1,53 +1,29 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782958698
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1782962307
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G1/2
-OL,5,G0306 Outlook
-OL,6,     FBorn with a rare condition,
-OL,7,     Fdoctors said Johnny Byamungu
-OL,8,     Fwouldn't live to five. After a
-OL,9,     Flife-saving kidney transplant he
-OL,10,     Fnow plays football for England.
-OL,11,G0350 Witness History
-OL,12,     FIn 1955, Rosa Parks was arrested
-OL,13,     Fafter refusing to give up her seat
-OL,14,     Fon the bus for a white man.
-OL,15,G0400 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0406 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1782958698
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G2/2
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 The Food Chain
-OL,9,     FWith dining out becoming an
-OL,10,     Fincreasingly expensive luxury, we
-OL,11,     Ffind out how to order the perfect
-OL,12,     Frestaurant meal with top tips from
-OL,13,     Fa panel of seasoned pros.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 Newsday
-OL,18,     FLive news, business and sport from
-OL,19,     Faround the world.
+OL,3,V}yyy5CWednesday
+OL,5,G0406 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0430 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0432 The Food Chain
+OL,12,     FWith dining out becoming an
+OL,13,     Fincreasingly expensive luxury, we
+OL,14,     Ffind out how to order the perfect
+OL,15,     Frestaurant meal with top tips from
+OL,16,     Fa panel of seasoned pros.
+OL,17,G0500 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
+OL,20,G0506 Newsday
+OL,21,     FLive news, business and sport from
+OL,22,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
