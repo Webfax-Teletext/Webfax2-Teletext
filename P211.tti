@@ -2,27 +2,27 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G1/10
-OL,5,G1806 Outlook
-OL,6,     FA Hollywood cameraman crash lands
-OL,7,     Fin an active volcano and the story
-OL,8,     Fbehind the first Jamaican
-OL,9,     Fbobsleigh team's journey to the
-OL,10,     FWinter Olympics.
-OL,11,G1850 Witness History
-OL,12,     FBetween 1984 and 1986, the Statue
-OL,13,     Fof Liberty in New York underwent a
-OL,14,     Fmulti-million-dollar restoration
-OL,15,     Fproject.
-OL,16,G1900 BBC News
+OL,3,V}yyy5CFriday                  G1/9
+OL,5,G1906 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G1930 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G1932 Sport Today
+OL,12,     FBBC sports correspondents tell the
+OL,13,     Fstory behind today's top sporting
+OL,14,     Fnews, with interviews and reports
+OL,15,     Ffrom across the world.
+OL,16,G2000 BBC News
 OL,17,     FThe latest five minute news
 OL,18,     Fbulletin from BBC World Service.
-OL,19,G1906 The Newsroom
-OL,20,     FThe world's Newsroom brings you
-OL,21,     Fglobal events as they happen.
+OL,19,G2006 BBC Conversations
+OL,20,     FSurvivors in Venezuela share their
+OL,21,     Fstories.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -30,27 +30,28 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G2/10
-OL,5,G1930 BBC News Summary
+OL,3,V}yyy5CFriday                  G2/9
+OL,5,G2030 BBC News Summary
 OL,6,     FThe latest two minute news summary
 OL,7,     Ffrom BBC World Service.
-OL,8,G1932 Sport Today
-OL,9,     FBBC sports correspondents tell the
-OL,10,     Fstory behind today's top sporting
-OL,11,     Fnews, with interviews and reports
-OL,12,     Ffrom across the world.
-OL,13,G2000 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G2006 BBC Conversations
-OL,17,     FSurvivors in Venezuela share their
-OL,18,     Fstories.
-OL,19,G2030 BBC News Summary
-OL,20,     FThe latest two minute news summary
-OL,21,     Ffrom BBC World Service.
+OL,8,G2032 CrowdScience
+OL,9,     FWhy do some plants rely on insects
+OL,10,     Fto pollinate them? CrowdScience
+OL,11,     Fgoes on the hunt for a rare flower
+OL,12,     Fin the Philippines to help answer
+OL,13,     Fa question from a listener.
+OL,14,G2100 BBC News
+OL,15,     FThe latest five minute news
+OL,16,     Fbulletin from BBC World Service.
+OL,17,G2106 Newshour
+OL,18,     FInterviews, news and analysis of
+OL,19,     Fthe day's global events.
+OL,20,G2200 BBC News
+OL,21,     FThe latest five minute news
+OL,22,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -58,36 +59,10 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G3/10
-OL,5,G2032 CrowdScience
-OL,6,     FWhy do some plants rely on insects
-OL,7,     Fto pollinate them? CrowdScience
-OL,8,     Fgoes on the hunt for a rare flower
-OL,9,     Fin the Philippines to help answer
-OL,10,     Fa question from a listener.
-OL,11,G2100 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G2106 Newshour
-OL,15,     FInterviews, news and analysis of
-OL,16,     Fthe day's global events.
-OL,17,G2200 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21104
-SC,0004
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G4/10
+OL,3,V}yyy5CFriday                  G3/9
 OL,5,G2206 The Interview
 OL,6,     FSean Farrington speaks to Jackie
 OL,7,     FJantos, CEO of popular mobile
@@ -109,14 +84,14 @@ OL,22,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21105
-SC,0005
+PN,21104
+SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G5/10
+OL,3,V}yyy5CFriday                  G4/9
 OL,5,G2306 The Newsroom
 OL,6,     FThe world's Newsroom brings you
 OL,7,     Fglobal events as they happen.
@@ -133,14 +108,14 @@ OL,17,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21106
-SC,0006
+PN,21105
+SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G6/10
+OL,3,V}yyy5CFriday                  G5/9
 OL,5,G0006 Unexpected Elements
 OL,6,     FThe decision to abolish sales tax
 OL,7,     Fon period products in Pakistan has
@@ -160,14 +135,14 @@ OL,20,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21107
-SC,0007
+PN,21106
+SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G7/10
+OL,3,V}yyy5CFriday                  G6/9
 OL,5,G0132 The Global Story
 OL,6,     FWith the BBC's international
 OL,7,     Feditor Jeremy Bowen and China
@@ -184,14 +159,14 @@ OL,17,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21108
-SC,0008
+PN,21107
+SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G8/10
+OL,3,V}yyy5CFriday                  G7/9
 OL,5,G0232 Stumped
 OL,6,     FEngland great Ben Stokes has
 OL,7,     Fcalled time on his international
@@ -210,14 +185,14 @@ OL,19,     FWinter Olympics.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21109
-SC,0009
+PN,21108
+SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G9/10
+OL,3,V}yyy5CFriday                  G8/9
 OL,5,G0350 Witness History
 OL,6,     FBetween 1984 and 1986, the Statue
 OL,7,     Fof Liberty in New York underwent a
@@ -239,14 +214,14 @@ OL,22,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21110
-SC,0010
+PN,21109
+SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783099136
+OL,0,        ECIMSBWebfax 2   F211A1783102728
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                 G10/10
+OL,3,V}yyy5CFriday                  G9/9
 OL,5,G0506 The Newsroom
 OL,6,     FThe world's Newsroom brings you
 OL,7,     Fglobal events as they happen.
