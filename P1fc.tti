@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1783064891
+OL,0,        ECIMSBWebfax 2   F1fcA1783066704
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1783064890;
-OL,10,GService: Webfax 2 - 15980 fe292231f4
-OL,11,FLast Update: 03/07/2026 08:48:10  G1/3
+OL,25,1783066704;
+OL,10,GService: Webfax 2 - 15981 e84b17b279
+OL,11,FLast Update: 03/07/2026 09:18:24  G1/3
 OL,13,AbbcNewsLive                G02/07-17:09
 OL,14,Ccharts/singles             G27/06-16:06
 OL,15,Cgeneric/championship       G27/06-10:56
@@ -23,14 +23,14 @@ OL,16,Cgeneric/f1                 G28/06-16:50
 OL,17,Cgeneric/league-one         G26/06-19:38
 OL,18,Cgeneric/league-two         G27/06-03:03
 OL,19,Ageneric/lottery            G09/06-08:16
-OL,20,Cgeneric/pollen_forecast    G02/07-05:36
-OL,21,Cgeneric/prem_league        G02/07-04:11
-OL,22,Ageneric/tube_status        G09/06-08:16
-OL,23,Cgeneric/weather_warnings   G09/06-08:16
+OL,20,Cgeneric/prem_league        G02/07-04:11
+OL,21,Ageneric/tube_status        G09/06-08:16
+OL,22,Cgeneric/weather_warnings   G09/06-08:16
+OL,23,CitvNews/tyne-tees          G02/07-07:48
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1783064891
+OL,0,        ECIMSBWebfax 2   F1fcA1783066704
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,24 +42,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1783064890;
-OL,10,GService: Webfax 2 - 15980 fe292231f4
-OL,11,FLast Update: 03/07/2026 08:48:10  G2/3
-OL,13,CitvNews/tyne-tees          G02/07-07:48
-OL,14,CitvSport/border            G10/06-17:03
-OL,15,CitvSport/calendar          G09/06-08:15
-OL,16,CitvSport/central           G11/06-12:03
-OL,17,CitvSport/channel           G22/06-20:47
-OL,18,CitvSport/london            G30/06-14:47
-OL,19,CitvSport/meridian          G09/06-08:16
-OL,20,CitvSport/tyne-tees         G23/06-20:47
-OL,21,CitvSport/utv               G09/06-08:16
-OL,22,CitvSport/wales             G19/06-08:49
-OL,23,CitvSport/westcountry       G09/06-08:16
+OL,25,1783066704;
+OL,10,GService: Webfax 2 - 15981 e84b17b279
+OL,11,FLast Update: 03/07/2026 09:18:24  G2/3
+OL,13,CitvSport/border            G10/06-17:03
+OL,14,CitvSport/calendar          G09/06-08:15
+OL,15,CitvSport/central           G11/06-12:03
+OL,16,CitvSport/channel           G22/06-20:47
+OL,17,CitvSport/london            G30/06-14:47
+OL,18,CitvSport/meridian          G09/06-08:16
+OL,19,CitvSport/tyne-tees         G23/06-20:47
+OL,20,CitvSport/utv               G09/06-08:16
+OL,21,CitvSport/wales             G19/06-08:49
+OL,22,CitvSport/westcountry       G09/06-08:16
+OL,23,Ctv_listings?select=false   G09/06-08:15
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1783064891
+OL,0,        ECIMSBWebfax 2   F1fcA1783066704
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,9 +71,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1783064890;
-OL,10,GService: Webfax 2 - 15980 fe292231f4
-OL,11,FLast Update: 03/07/2026 08:48:10  G3/3
-OL,13,Ctv_listings?select=false   G09/06-08:15
-OL,14,CiNMS/comments.json         G09/06-08:16
-OL,15,CZXIndustries/epg.json      G16/06-05:03
+OL,25,1783066704;
+OL,10,GService: Webfax 2 - 15981 e84b17b279
+OL,11,FLast Update: 03/07/2026 09:18:24  G3/3
+OL,13,CiNMS/comments.json         G09/06-08:16
+OL,14,CZXIndustries/epg.json      G16/06-05:03
