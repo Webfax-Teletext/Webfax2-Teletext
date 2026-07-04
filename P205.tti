@@ -1,11 +1,11 @@
-PN,20500
-SC,0000
+PN,20501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F205A1783126097
+PS,c008
+OL,0,        ECIMSBWebfax 2   F205A1783127905
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CFriday                  G1/2
 OL,5,G0130 Laura McGhie
 OL,6,     FLaura McGhie with your calls and
 OL,7,     Ffeatures through the night. Call
@@ -22,6 +22,21 @@ OL,17,     FDiscussion, analysis and the
 OL,18,     Flatest news from big fight nights
 OL,19,     Fand the world of boxing with Steve
 OL,20,     FBunce.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,206,200,300,120,0,100
+PN,20502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F205A1783127905
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
+OL,3,V}yyy5CFriday                  G2/2
+OL,5,G0530 Football Daily
+OL,6,     FFrance's all-time leading
+OL,7,     Fgoalscorer Olivier Giroud speaks
+OL,8,     Fto Mark Chapman.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100@
