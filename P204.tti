@@ -2,25 +2,27 @@ PN,20401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1783178300
+OL,0,        ECIMSBWebfax 2   F204A1783181897
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G1/6
-OL,5,G1600 Weekend Woman's Hour
-OL,6,     FHighlights from the Woman's Hour
-OL,7,     Fweek.
-OL,8,G1700 Saturday PM
-OL,9,     FFull coverage of the day's news.
-OL,10,G1730 Political Thinking with Nick
-OL,11,G     Robinson
-OL,12,     FMorgan McSweeney, once Keir
-OL,13,     FStarmer's right hand man, speaks
-OL,14,     Ffor the first time and reveals how
-OL,15,     FStarmer's Labour project fell
-OL,16,     Fapart.
-OL,17,G1754 Shipping Forecast
-OL,18,G1757 Weather Forecast
-OL,19,G1800 Six O'Clock News
+OL,5,G1700 Saturday PM
+OL,6,     FFull coverage of the day's news.
+OL,7,G1730 Political Thinking with Nick
+OL,8,G     Robinson
+OL,9,     FMorgan McSweeney, once Keir
+OL,10,     FStarmer's right hand man, speaks
+OL,11,     Ffor the first time and reveals how
+OL,12,     FStarmer's Labour project fell
+OL,13,     Fapart.
+OL,14,G1754 Shipping Forecast
+OL,15,G1757 Weather Forecast
+OL,16,G1800 Six O'Clock News
+OL,17,G1815 Loose Ends
+OL,18,     FGrayson Perry, Adrian Lester and
+OL,19,     FKathy Lette join Clive Anderson
+OL,20,     Fwith music from Alexandra Burke
+OL,21,     Fand Katie Norris.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -28,26 +30,27 @@ PN,20402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1783178300
+OL,0,        ECIMSBWebfax 2   F204A1783181897
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G2/6
-OL,5,G1815 Loose Ends
-OL,6,     FGrayson Perry, Adrian Lester and
-OL,7,     FKathy Lette join Clive Anderson
-OL,8,     Fwith music from Alexandra Burke
-OL,9,     Fand Katie Norris.
-OL,10,G1900 Profile
-OL,11,     FDonna Ockenden is a senior midwife
-OL,12,     Fand healthcare leader who has
-OL,13,     Fspent more than 35 years reforming
-OL,14,     Fpatient safety in UK maternity
-OL,15,     Fservices.
-OL,16,G1915 This Cultural Life
-OL,17,     FCuban performance and conceptual
-OL,18,     Fartist Tania Bruguera talks to
-OL,19,     FJohn Wilson about her career and
-OL,20,     Fcultural influences.
+OL,5,G1900 Profile
+OL,6,     FDonna Ockenden is a senior midwife
+OL,7,     Fand healthcare leader who has
+OL,8,     Fspent more than 35 years reforming
+OL,9,     Fpatient safety in UK maternity
+OL,10,     Fservices.
+OL,11,G1915 This Cultural Life
+OL,12,     FCuban performance and conceptual
+OL,13,     Fartist Tania Bruguera talks to
+OL,14,     FJohn Wilson about her career and
+OL,15,     Fcultural influences.
+OL,16,G2000 Born on the Fourth of July
+OL,17,     FAs Americans mark the 250th
+OL,18,     Fanniversary of the Declaration of
+OL,19,     FIndependence, James Naughtie looks
+OL,20,     Fat how Americans celebrate 4th
+OL,21,     FJuly, and what it means.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -55,26 +58,23 @@ PN,20403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1783178300
+OL,0,        ECIMSBWebfax 2   F204A1783181897
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G3/6
-OL,5,G2000 Born on the Fourth of July
-OL,6,     FAs Americans mark the 250th
-OL,7,     Fanniversary of the Declaration of
-OL,8,     FIndependence, James Naughtie looks
-OL,9,     Fat how Americans celebrate 4th
-OL,10,     FJuly, and what it means.
-OL,11,G2100 The Moral Maze
-OL,12,     FMichael Buerk chairs a live debate
-OL,13,     Fexamining the moral issues behind
-OL,14,     Fone of the week's news stories.
-OL,15,     FWith panellists: Giles Fraser,
-OL,16,     FCarmody Grey, Matthew Taylor and
-OL,17,     FTim Stanley.
-OL,18,G2200 News Bulletin
-OL,19,     FNational and international news
-OL,20,     Ffrom BBC Radio 4.
+OL,5,G2100 The Moral Maze
+OL,6,     FMichael Buerk chairs a live debate
+OL,7,     Fexamining the moral issues behind
+OL,8,     Fone of the week's news stories.
+OL,9,     FWith panellists: Giles Fraser,
+OL,10,     FCarmody Grey, Matthew Taylor and
+OL,11,     FTim Stanley.
+OL,12,G2200 News Bulletin
+OL,13,     FNational and international news
+OL,14,     Ffrom BBC Radio 4.
+OL,15,G2215 The Food Programme
+OL,16,     FChef Romy Gill explores the
+OL,17,     Ftradition of the cricket tea.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -82,26 +82,23 @@ PN,20404
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1783178300
+OL,0,        ECIMSBWebfax 2   F204A1783181897
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G4/6
-OL,5,G2215 The Food Programme
-OL,6,     FChef Romy Gill explores the
-OL,7,     Ftradition of the cricket tea.
-OL,8,G2300 Parish Matters
-OL,9,     F1/4. New comedy set in an Ulster
-OL,10,     Fparish somewhere near the Border.
-OL,11,     FThe best and only cop in town,
-OL,12,     FSergeant Rafferty, makes an
-OL,13,     Falarming discovery in the cow
-OL,14,     Fshed.
-OL,15,G2330 Your Number's Up
-OL,16,     FNumber-based quiz questions cover
-OL,17,     Ftopics from Henry VIII's wives to
-OL,18,     Fcompetitive hot dog eating and the
-OL,19,     FPremier League.
-OL,20,G0000 Midnight News
+OL,5,G2300 Parish Matters
+OL,6,     F1/4. New comedy set in an Ulster
+OL,7,     Fparish somewhere near the Border.
+OL,8,     FThe best and only cop in town,
+OL,9,     FSergeant Rafferty, makes an
+OL,10,     Falarming discovery in the cow
+OL,11,     Fshed.
+OL,12,G2330 Your Number's Up
+OL,13,     FNumber-based quiz questions cover
+OL,14,     Ftopics from Henry VIII's wives to
+OL,15,     Fcompetitive hot dog eating and the
+OL,16,     FPremier League.
+OL,17,G0000 Midnight News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -109,7 +106,7 @@ PN,20405
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1783178300
+OL,0,        ECIMSBWebfax 2   F204A1783181897
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G5/6
@@ -137,7 +134,7 @@ PN,20406
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1783178300
+OL,0,        ECIMSBWebfax 2   F204A1783181897
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G6/6
