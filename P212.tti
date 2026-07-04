@@ -2,27 +2,27 @@ PN,21201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1783142363
+OL,0,        ECIMSBWebfax 2   F212A1783144098
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSaturday                G1/8
-OL,5,G0100 As BBC Radio 5 live
-OL,6,     FBBC Radio Ulster joins BBC Radio 5
-OL,7,     Flive.
-OL,8,G0630 Kerry McLean
-OL,9,     FJoin Kerry for a special mix of
-OL,10,     Fgreat music, chat and requests to
-OL,11,     Fstart your Saturday.
-OL,12,G0800 BBC News NI update
-OL,13,     FThe latest national and
-OL,14,     Finternational news.
-OL,15,G0805 Your Place and Mine
-OL,16,     FThe cultural and historical links
-OL,17,     Fbetween Cullybackey and the
-OL,18,     FDeclaration of Independence and
-OL,19,     Fthe 3,000-year-old major
-OL,20,     Fprehistoric centre in Armagh may
-OL,21,     Fbe one of Europe's oldest.
+OL,5,G0630 Kerry McLean
+OL,6,     FJoin Kerry for a special mix of
+OL,7,     Fgreat music, chat and requests to
+OL,8,     Fstart your Saturday.
+OL,9,G0800 BBC News NI update
+OL,10,     FThe latest national and
+OL,11,     Finternational news.
+OL,12,G0805 Your Place and Mine
+OL,13,     FThe cultural and historical links
+OL,14,     Fbetween Cullybackey and the
+OL,15,     FDeclaration of Independence and
+OL,16,     Fthe 3,000-year-old major
+OL,17,     Fprehistoric centre in Armagh may
+OL,18,     Fbe one of Europe's oldest.
+OL,19,G0900 BBC News NI update
+OL,20,     FThe latest national and
+OL,21,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -30,23 +30,27 @@ PN,21202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1783142363
+OL,0,        ECIMSBWebfax 2   F212A1783144098
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSaturday                G2/8
-OL,5,G0900 BBC News NI update
-OL,6,     FThe latest national and
-OL,7,     Finternational news.
-OL,8,G0903 Gardeners' Corner
-OL,9,     FGardening advice for summer with
-OL,10,     FDavid Maxwell and his expert
-OL,11,     Fguests including: success with
-OL,12,     Fdelphiniums, how to make more
-OL,13,     Fplants for free right now, and
-OL,14,     Fmaking chive pesto.
-OL,15,G1000 BBC News NI update
-OL,16,     FThe latest national and
-OL,17,     Finternational news.
+OL,5,G0903 Gardeners' Corner
+OL,6,     FGardening advice for summer with
+OL,7,     FDavid Maxwell and his expert
+OL,8,     Fguests including: success with
+OL,9,     Fdelphiniums, how to make more
+OL,10,     Fplants for free right now, and
+OL,11,     Fmaking chive pesto.
+OL,12,G1000 BBC News NI update
+OL,13,     FThe latest national and
+OL,14,     Finternational news.
+OL,15,G1003 Consumer Fight Back
+OL,16,     FLinzi checks back in with listener
+OL,17,     FMargaret and her daughter Martina
+OL,18,     Fto find out whether, after two
+OL,19,     Fmonths of disruption, Margaret's
+OL,20,     Flandline is finally back up and
+OL,21,     Frunning.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -54,28 +58,21 @@ PN,21203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1783142363
+OL,0,        ECIMSBWebfax 2   F212A1783144098
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSaturday                G3/8
-OL,5,G1003 Consumer Fight Back
-OL,6,     FLinzi checks back in with listener
-OL,7,     FMargaret and her daughter Martina
-OL,8,     Fto find out whether, after two
-OL,9,     Fmonths of disruption, Margaret's
-OL,10,     Flandline is finally back up and
-OL,11,     Frunning.
-OL,12,G1100 BBC News NI update
-OL,13,     FThe latest national and
-OL,14,     Finternational news.
-OL,15,G1103 Sportsound Rugby - Nations
-OL,16,G     Championship
-OL,17,     FLive coverage of Ireland's visit
-OL,18,     Fto Australia in the opening game
-OL,19,     Fof the inaugural Nations
-OL,20,     FChampionship. Presented by Gavin
-OL,21,     FAndrews with commentary from Jim
-OL,22,     FNeilly.
+OL,5,G1100 BBC News NI update
+OL,6,     FThe latest national and
+OL,7,     Finternational news.
+OL,8,G1103 Sportsound Rugby - Nations
+OL,9,G     Championship
+OL,10,     FLive coverage of Ireland's visit
+OL,11,     Fto Australia in the opening game
+OL,12,     Fof the inaugural Nations
+OL,13,     FChampionship. Presented by Gavin
+OL,14,     FAndrews with commentary from Jim
+OL,15,     FNeilly.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -83,7 +80,7 @@ PN,21204
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1783142363
+OL,0,        ECIMSBWebfax 2   F212A1783144098
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSaturday                G4/8
@@ -110,7 +107,7 @@ PN,21205
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1783142363
+OL,0,        ECIMSBWebfax 2   F212A1783144098
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSaturday                G5/8
@@ -138,7 +135,7 @@ PN,21206
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1783142363
+OL,0,        ECIMSBWebfax 2   F212A1783144098
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSaturday                G6/8
@@ -165,7 +162,7 @@ PN,21207
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1783142363
+OL,0,        ECIMSBWebfax 2   F212A1783144098
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSaturday                G7/8
@@ -192,7 +189,7 @@ PN,21208
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1783142363
+OL,0,        ECIMSBWebfax 2   F212A1783144098
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSaturday                G8/8
