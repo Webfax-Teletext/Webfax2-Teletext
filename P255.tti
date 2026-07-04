@@ -1,16 +1,51 @@
-PN,25500
-SC,0000
+PN,25501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F255A1783124329
+PS,c008
+OL,0,        ECIMSBWebfax 2   F255A1783142364
 OL,1,Vzssssss{0Ww;js%7+ j+jjjj;
 OL,2,Vupp=wfff5W-.*,%-. *.*..**V(,,,,,,,,,,,,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSaturday                G1/2
+OL,5,G0600 Phil Upton on BBC CWR
+OL,6,     FStart the day with sport in full
+OL,7,     Fvoice, stories from home, and
+OL,8,     Ftunes to lift your weekend.
+OL,9,G1000 Mark Rhodes on BBC CWR
+OL,10,     FMark's here with great music and
+OL,11,     Fconversation as we build up to an
+OL,12,     Fafternoon of sport.
+OL,13,G1400 Total Sport
+OL,14,     FThe perfect blend of sport,
+OL,15,     Fentertainment and music.
+OL,16,G1800 Upload with Nina Das Gupta
+OL,17,     FThe Wolverhampton act channels the
+OL,18,     Fwit of Lenny Henry and the craft
+OL,19,     Fof Julie Walters.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,256,250,301,140,0,100
+PN,25502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F255A1783142364
+OL,1,Vzssssss{0Ww;js%7+ j+jjjj;
+OL,2,Vupp=wfff5W-.*,%-. *.*..**V(,,,,,,,,,,,,
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G2000 BBC Introducing - West Mids &
+OL,6,G     Warwickshire
+OL,7,     FThe best in unsigned music from
+OL,8,     Fthe West Midlands and Coventry and
+OL,9,     FWarwickshire.
+OL,10,G2200 Late Night Jo
+OL,11,     FJim Davis with late-night
+OL,12,     Fconversation, amazing stories and
+OL,13,     Fthe soundtrack to your night.
+OL,14,G0100 Weekend overnights with BBC Radio
+OL,15,G     5 Live
+OL,16,     FLocal BBC Radio joins BBC Radio 5
+OL,17,     FLive through the night on a
+OL,18,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,256,250,301,140,0,100@

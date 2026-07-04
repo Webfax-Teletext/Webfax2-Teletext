@@ -1,11 +1,11 @@
-PN,20300
-SC,0000
+PN,20301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F203A1783122496
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1783142363
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday                G1/6
 OL,5,G0030 Through the Night
 OL,6,     FFrom the International Contius
 OL,7,     FBach Festival, the Hildebrandt
@@ -13,6 +13,127 @@ OL,8,     FConsort, soloists and organist and
 OL,9,     Fconductor Wouter Dekoninck perform
 OL,10,     Fcantatas by Bach, Buxtehude and
 OL,11,     FBruhns.
+OL,12,G0630 Breakfast
+OL,13,     FHannah French presents Radio 3's
+OL,14,     FBreakfast show live from York, as
+OL,15,     Fthe York Early Music Festival
+OL,16,     Fcelebrates its 50th anniversary.
+OL,17,     FTo get in touch, email
+OL,18,     F3breakfast@bbc.co.uk.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1783142363
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday                G2/6
+OL,5,G0900 Saturday Morning
+OL,6,     FTom Service plays the best
+OL,7,     Fclassical music alongside the
+OL,8,     Flatest stories in the arts world,
+OL,9,     Fwith special guests Jacob Collier
+OL,10,     Fand pianist Simone Dinnerstein.
+OL,11,G1200 Earlier... with Jools Holland
+OL,12,     FJools is joined by songwriter,
+OL,13,     Fsinger and violinist Andrew Bird.
+OL,14,G1300 Key Changes: Radio 3's...
+OL,15,     F...Essential History of Classical
+OL,16,     FMusic. 1722, Kothen. Bach rethinks
+OL,17,     Ftuning, and expands the
+OL,18,     Fpossibilities of music.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1783142363
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday                G3/6
+OL,5,G1400 Record Review
+OL,6,     FAndrew McGregor with the best of
+OL,7,     Fthe week's new classical releases,
+OL,8,     Fjoined by Natalie Burch and
+OL,9,     FJonathan Cross, who surveys
+OL,10,     Frecordings of Falla's ballet The
+OL,11,     FThree-Cornered Hat.
+OL,12,G1600 Sound of Cinema
+OL,13,     FA special Sound of Cinema for the
+OL,14,     FFourth of July, as Edith Bowman
+OL,15,     Fcelebrates the 250th anniversary
+OL,16,     Fof the USA, showcasing film scores
+OL,17,     Fthat have captured its spirit.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20304
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1783142363
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday                G4/6
+OL,5,G1700 This Classical Life
+OL,6,     FJess Gillam hosts a listening
+OL,7,     Fparty with the harpist and
+OL,8,     Fcomposer Catrin Finch, including
+OL,9,     Fmusic by Dvorak, Oscar Peterson,
+OL,10,     FMahler and RAYE.
+OL,11,G1800 Opera on 3
+OL,12,     FJuan Diego Florez returns to the
+OL,13,     FVienna State Opera as the new
+OL,14,     Fleader of Ceylon's pearl
+OL,15,     Ffishermen, where the friendship of
+OL,16,     Ftwo men is threatened by love for
+OL,17,     Fthe same woman.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20305
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1783142363
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday                G5/6
+OL,5,G2130 Music Planet
+OL,6,     FLopa Kothari invites
+OL,7,     FFrench-Algerian singer-songwriter
+OL,8,     FSouad Massi to the studio to
+OL,9,     Fpresent her new album Zagate with
+OL,10,     Fa special session. Plus, new
+OL,11,     Freleases from across the globe.
+OL,12,G2230 New Music Show
+OL,13,     FTom Service presents a specially
+OL,14,     Frecorded performance by the group
+OL,15,     FApartment House at the BBC's Maida
+OL,16,     FVale studios plus a new commission
+OL,17,     Ffrom Sasha Scott.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20306
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1783142363
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday                G6/6
+OL,5,G0030 Through the Night
+OL,6,     FThe Dusseldorf Symphony Orchestra
+OL,7,     Funder Adam Fischer with Lang Lang
+OL,8,     Fplay well-known Romantic pieces in
+OL,9,     Fthe beautiful setting of the
+OL,10,     FChenshan Botanical Garden.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100@

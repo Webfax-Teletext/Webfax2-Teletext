@@ -1,16 +1,49 @@
-PN,28200
-SC,0000
+PN,28201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F282A1783124329
+PS,c008
+OL,0,        ECIMSBWebfax 2   F282A1783142364
 OL,1,Vzssssss{0Ww;js%7+ jsjkjkkjsj;jsjs"7
 OL,2,Vupp=wfff5W-.*,%-. (.*.****,**(.*, %V,,,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSaturday                G1/2
+OL,5,G0600 Caroline Martin on BBC Radio
+OL,6,G     Somerset
+OL,7,     FNews, information and advice, plus
+OL,8,     Fgreat music for your Saturday
+OL,9,     Fbreakfast with Caroline.
+OL,10,G1000 Andy Bennett on BBC Radio Somerset
+OL,11,     FJoin Joe for a mid-morning with
+OL,12,     Fplenty of laughs along the way.
+OL,13,G1400 Total Sport
+OL,14,     FThe perfect blend of sport,
+OL,15,     Fentertainment and music.
+OL,16,G1800 Upload with Adam Crowther
+OL,17,     FLooking back at the archive of
+OL,18,     Fstorytelling and fiction on BBC
+OL,19,     FUpload with Adam Crowther.
+OL,20,G2000 BBC Introducing - The West
+OL,21,     FLaura sits in for James with Susie
+OL,22,     FMills as her Artist of the Week.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,283,250,301,140,0,100
+PN,28202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F282A1783142364
+OL,1,Vzssssss{0Ww;js%7+ jsjkjkkjsj;jsjs"7
+OL,2,Vupp=wfff5W-.*,%-. (.*.****,**(.*, %V,,,
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G2200 Late Night Jo
+OL,6,     FJim Davis with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekend overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,283,250,301,140,0,100@
