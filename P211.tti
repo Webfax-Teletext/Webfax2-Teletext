@@ -2,26 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783210730
+OL,0,        ECIMSBWebfax 2   F211A1783212491
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday                G1/5
-OL,5,G0106 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0130 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0132 More than the Score
-OL,12,     FWhat makes a 'major' tournament
-OL,13,     Fmajor, and what makes a Grand Slam
-OL,14,     Fgrand?
-OL,15,G0150 Sporting Witness
-OL,16,     FWest Germany's 1990 World Cup
-OL,17,     Fshirt has become a design classic
-OL,18,     Fand is now one of the most
-OL,19,     Fsought-after by classic kit
-OL,20,     Fcollectors.
+OL,5,G0132 More than the Score
+OL,6,     FWhat makes a 'major' tournament
+OL,7,     Fmajor, and what makes a Grand Slam
+OL,8,     Fgrand?
+OL,9,G0150 Sporting Witness
+OL,10,     FWest Germany's 1990 World Cup
+OL,11,     Fshirt has become a design classic
+OL,12,     Fand is now one of the most
+OL,13,     Fsought-after by classic kit
+OL,14,     Fcollectors.
+OL,15,G0200 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
+OL,18,G0206 The Newsroom
+OL,19,     FThe world's Newsroom brings you
+OL,20,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -29,26 +29,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783210730
+OL,0,        ECIMSBWebfax 2   F211A1783212491
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday                G2/5
-OL,5,G0200 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0206 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G0230 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G0232 Health Check
-OL,15,     FWe discuss the Ebola drugs being
-OL,16,     Ftrialled in the Democratic
-OL,17,     FRepublic of Congo, and Claudia
-OL,18,     Fvisits the Royal Society Summer
-OL,19,     FExhibition to explore the health
-OL,20,     Fresearch on display.
+OL,5,G0230 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G0232 Health Check
+OL,9,     FWe discuss the Ebola drugs being
+OL,10,     Ftrialled in the Democratic
+OL,11,     FRepublic of Congo, and Claudia
+OL,12,     Fvisits the Royal Society Summer
+OL,13,     FExhibition to explore the health
+OL,14,     Fresearch on display.
+OL,15,G0300 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
+OL,18,G0306 World Book Club
+OL,19,     FHarriett Gilbert talks with Rachel
+OL,20,     FKusher about The Mars Room.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -56,26 +56,23 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783210730
+OL,0,        ECIMSBWebfax 2   F211A1783212491
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday                G3/5
-OL,5,G0300 BBC News
+OL,5,G0400 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
-OL,8,G0306 World Book Club
-OL,9,     FHarriett Gilbert talks with Rachel
-OL,10,     FKusher about The Mars Room.
-OL,11,G0400 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0406 From Our Own Correspondent
-OL,15,     FThe desperate search for survivors
-OL,16,     Fand missing persons in Caracas;
-OL,17,     Fwhat's become of the American
-OL,18,     FDream after 250 years of
-OL,19,     Findependence; a hectic summer of
-OL,20,     Fpolitics in Hungary.
+OL,8,G0406 From Our Own Correspondent
+OL,9,     FThe desperate search for survivors
+OL,10,     Fand missing persons in Caracas;
+OL,11,     Fwhat's become of the American
+OL,12,     FDream after 250 years of
+OL,13,     Findependence; a hectic summer of
+OL,14,     Fpolitics in Hungary.
+OL,15,G0430 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -83,28 +80,25 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783210730
+OL,0,        ECIMSBWebfax 2   F211A1783212491
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday                G4/5
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 BBC Inside Science
-OL,9,     FAt this year's Royal Society
-OL,10,     FSummer Science Exhibition we get
-OL,11,     Fhands on with the most
-OL,12,     Fcutting-edge science the UK has to
-OL,13,     Foffer.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 The Newsroom
-OL,18,     FThe world's Newsroom brings you
-OL,19,     Fglobal events as they happen.
-OL,20,G0530 BBC News Summary
-OL,21,     FThe latest two minute news summary
-OL,22,     Ffrom BBC World Service.
+OL,5,G0432 BBC Inside Science
+OL,6,     FAt this year's Royal Society
+OL,7,     FSummer Science Exhibition we get
+OL,8,     Fhands on with the most
+OL,9,     Fcutting-edge science the UK has to
+OL,10,     Foffer.
+OL,11,G0500 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0506 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0530 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -112,7 +106,7 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783210730
+OL,0,        ECIMSBWebfax 2   F211A1783212491
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday                G5/5
