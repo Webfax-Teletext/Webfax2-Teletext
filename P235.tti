@@ -2,7 +2,7 @@ PN,23501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F235A1783315174
+OL,0,        ECIMSBWebfax 2   F235A1783345711
 OL,1,Vzssssss{0Ww;js%7+ js5wsjjs57k j#5ws"k#
 OL,2,Vupp=wfff5W-.*,%-. * %,.** %%* * %-, *
 OL,3,V}yyy5CTuesday                 G1/7
@@ -30,7 +30,7 @@ PN,23502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F235A1783315174
+OL,0,        ECIMSBWebfax 2   F235A1783345711
 OL,1,Vzssssss{0Ww;js%7+ js5wsjjs57k j#5ws"k#
 OL,2,Vupp=wfff5W-.*,%-. * %,.** %%* * %-, *
 OL,3,V}yyy5CTuesday                 G2/7
@@ -56,7 +56,7 @@ PN,23503
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F235A1783315174
+OL,0,        ECIMSBWebfax 2   F235A1783345711
 OL,1,Vzssssss{0Ww;js%7+ js5wsjjs57k j#5ws"k#
 OL,2,Vupp=wfff5W-.*,%-. * %,.** %%* * %-, *
 OL,3,V}yyy5CTuesday                 G3/7
@@ -83,7 +83,7 @@ PN,23504
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F235A1783315174
+OL,0,        ECIMSBWebfax 2   F235A1783345711
 OL,1,Vzssssss{0Ww;js%7+ js5wsjjs57k j#5ws"k#
 OL,2,Vupp=wfff5W-.*,%-. * %,.** %%* * %-, *
 OL,3,V}yyy5CTuesday                 G4/7
@@ -110,7 +110,7 @@ PN,23505
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F235A1783315174
+OL,0,        ECIMSBWebfax 2   F235A1783345711
 OL,1,Vzssssss{0Ww;js%7+ js5wsjjs57k j#5ws"k#
 OL,2,Vupp=wfff5W-.*,%-. * %,.** %%* * %-, *
 OL,3,V}yyy5CTuesday                 G5/7
@@ -123,11 +123,12 @@ OL,10,     Ftimeless pop classics, he's taking
 OL,11,     Fyou through the songs that defined
 OL,12,     Fa generation.
 OL,13,G0000 All Star Anthems
-OL,14,     FAJD brings All Star Anthems - 30
-OL,15,     Fminutes of straight-up hip-hop and
-OL,16,     FR&B energy, mixed with global
-OL,17,     Fcrossover sounds and iconic
-OL,18,     Fmoments.
+OL,14,     FAJD starts with Hugel, the mix
+OL,15,     Fflows through Talwiinder, Sammy
+OL,16,     FVirji, Noor Chahal and DJ Sanj,
+OL,17,     Falongside global sounds from J
+OL,18,     FBalvin and HAVEN, before closing
+OL,19,     Fon a Panjabi MC.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,236,200,300,120,0,100
@@ -135,7 +136,7 @@ PN,23506
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F235A1783315174
+OL,0,        ECIMSBWebfax 2   F235A1783345711
 OL,1,Vzssssss{0Ww;js%7+ js5wsjjs57k j#5ws"k#
 OL,2,Vupp=wfff5W-.*,%-. * %,.** %%* * %-, *
 OL,3,V}yyy5CTuesday                 G6/7
@@ -152,11 +153,6 @@ OL,14,     Fmode and ready for the evening,
 OL,15,     Fwhether you're cooking, getting
 OL,16,     Fready to hit the gym or just
 OL,17,     Fchilling at home!
-OL,18,G0300 Asian Network's New Music Show
-OL,19,G     with DJ Limelight
-OL,20,     FThe best new Asian music from the
-OL,21,     FUK and around the world, including
-OL,22,     FDJ Limelight's Coldest Record.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,236,200,300,120,0,100
@@ -164,18 +160,24 @@ PN,23507
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F235A1783315174
+OL,0,        ECIMSBWebfax 2   F235A1783345711
 OL,1,Vzssssss{0Ww;js%7+ js5wsjjs57k j#5ws"k#
 OL,2,Vupp=wfff5W-.*,%-. * %,.** %%* * %-, *
 OL,3,V}yyy5CTuesday                 G7/7
-OL,5,G0500 Kizzi's House Party Mix
-OL,6,     FWherever you are, DJ Kye has the
-OL,7,     Fperfect blend of tunes to get you
-OL,8,     Fon that dancefloor.
-OL,9,G0530 Kizzi's House Party Mix
-OL,10,     FWherever you are, DJ Kye has the
-OL,11,     Fperfect blend of tunes to get you
-OL,12,     Fon that dancefloor.
+OL,5,G0300 Asian Network's New Music Show
+OL,6,G     with DJ Limelight
+OL,7,     FThe best new Asian music from the
+OL,8,     FUK and around the world, including
+OL,9,     FDJ Limelight's Coldest Record from
+OL,10,     FGurinder Gill and Nav!
+OL,11,G0500 Kizzi's House Party Mix
+OL,12,     FWherever you are, DJ Kye has the
+OL,13,     Fperfect blend of tunes to get you
+OL,14,     Fon that dancefloor.
+OL,15,G0530 Kizzi's House Party Mix
+OL,16,     FWherever you are, DJ Kye has the
+OL,17,     Fperfect blend of tunes to get you
+OL,18,     Fon that dancefloor.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,236,200,300,120,0,100@
