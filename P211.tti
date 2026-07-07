@@ -2,27 +2,28 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G1/14
-OL,5,G1132 The Global Story
-OL,6,     F.
-OL,7,G1200 BBC News
-OL,8,     FThe latest five minute news
-OL,9,     Fbulletin from BBC World Service.
-OL,10,G1206 Outlook
-OL,11,     FWhat began as a furious row over
-OL,12,     Fconservation became an unlikely
-OL,13,     Flove story for wildlife
-OL,14,     Fphotographers Cristina Mittermeier
-OL,15,     Fand Paul Nicklen.
-OL,16,G1250 Witness History
-OL,17,     FFrom 1975 to 1980, an estimated
-OL,18,     F20,000 immigrant workers protested
-OL,19,     Fagainst rent hikes and living
-OL,20,     Fconditions in the French hostels
-OL,21,     Fknown as "foyers".
+OL,5,G1206 Outlook
+OL,6,     FWhat began as a furious row over
+OL,7,     Fconservation became an unlikely
+OL,8,     Flove story for wildlife
+OL,9,     Fphotographers Cristina Mittermeier
+OL,10,     Fand Paul Nicklen.
+OL,11,G1250 Witness History
+OL,12,     FFrom 1975 to 1980, an estimated
+OL,13,     F20,000 immigrant workers protested
+OL,14,     Fagainst rent hikes and living
+OL,15,     Fconditions in the French hostels
+OL,16,     Fknown as "foyers".
+OL,17,G1300 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
+OL,20,G1306 The Newsroom
+OL,21,     FThe world's Newsroom brings you
+OL,22,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -30,26 +31,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G2/14
-OL,5,G1300 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1306 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G1330 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G1332 In the Studio
-OL,15,     FJuggling a tv-adaptation of her
-OL,16,     Fbook The Good Daughter while
-OL,17,     Ffinishing off her latest book,
-OL,18,     FKarin Slaughter shares her writing
-OL,19,     Ftips from her remote mountain
-OL,20,     Fcabin in Georgia, USA.
+OL,5,G1330 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G1332 In the Studio
+OL,9,     FJuggling a tv-adaptation of her
+OL,10,     Fbook The Good Daughter while
+OL,11,     Ffinishing off her latest book,
+OL,12,     FKarin Slaughter shares her writing
+OL,13,     Ftips from her remote mountain
+OL,14,     Fcabin in Georgia, USA.
+OL,15,G1400 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
+OL,18,G1406 Newshour
+OL,19,     FInterviews, news and analysis of
+OL,20,     Fthe day's global events.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -57,28 +58,22 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G3/14
-OL,5,G1400 BBC News
+OL,5,G1500 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
-OL,8,G1406 Newshour
-OL,9,     FInterviews, news and analysis of
-OL,10,     Fthe day's global events.
-OL,11,G1500 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G1506 People Fixing The World
-OL,15,     FIn Liverpool, a search for "hidden
-OL,16,     Fentrepreneurs" backs bold ideas
-OL,17,     Fwith a year's wage and mentoring,
-OL,18,     Fhelping people turn life
-OL,19,     Fexperiences into new businesses.
-OL,20,G1530 BBC News Summary
-OL,21,     FThe latest two minute news summary
-OL,22,     Ffrom BBC World Service.
+OL,8,G1506 People Fixing The World
+OL,9,     FIn Liverpool, a search for "hidden
+OL,10,     Fentrepreneurs" backs bold ideas
+OL,11,     Fwith a year's wage and mentoring,
+OL,12,     Fhelping people turn life
+OL,13,     Fexperiences into new businesses.
+OL,14,G1530 BBC News Summary
+OL,15,     FThe latest two minute news summary
+OL,16,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -86,7 +81,7 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G4/14
@@ -115,7 +110,7 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G5/14
@@ -142,7 +137,7 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G6/14
@@ -168,7 +163,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G7/14
@@ -197,7 +192,7 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G8/14
@@ -226,7 +221,7 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                 G9/14
@@ -253,7 +248,7 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                G10/14
@@ -281,7 +276,7 @@ PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                G11/14
@@ -309,7 +304,7 @@ PN,21112
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                G12/14
@@ -338,7 +333,7 @@ PN,21113
 SC,0013
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                G13/14
@@ -364,7 +359,7 @@ PN,21114
 SC,0014
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783421300
+OL,0,        ECIMSBWebfax 2   F211A1783423114
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday                G14/14
