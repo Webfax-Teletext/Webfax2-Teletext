@@ -1,11 +1,39 @@
-PN,25500
-SC,0000
+PN,25501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F255A1783383530
+PS,c008
+OL,0,        ECIMSBWebfax 2   F255A1783401609
 OL,1,Vzssssss{0Ww;js%7+ j+jjjj;
 OL,2,Vupp=wfff5W-.*,%-. *.*..**V(,,,,,,,,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday                 G1/2
+OL,5,G0600 Lorna Bailey at Breakfast
+OL,6,     FBig laughs, big stories, Sky Blues
+OL,7,     Fnews and the music you love.
+OL,8,G1000 Vic Minett
+OL,9,     FVic has great stories, great
+OL,10,     Fguests and The Rewind.
+OL,11,G1400 Trish Adudu on BBC CWR
+OL,12,     FTrish Adudu brings you great
+OL,13,     Fmusic, the latest news, big guests
+OL,14,     Fand inspirational people.
+OL,15,G1800 Total Sport with Phil Upton
+OL,16,     FThe perfect blend of sport,
+OL,17,     Fentertainment and music.
+OL,18,G2200 The Late Show
+OL,19,     FBecky Want with late-night
+OL,20,     Fconversation, amazing stories and
+OL,21,     Fthe soundtrack to your night.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,256,250,301,140,0,100
+PN,25502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F255A1783401609
+OL,1,Vzssssss{0Ww;js%7+ j+jjjj;
+OL,2,Vupp=wfff5W-.*,%-. *.*..**V(,,,,,,,,,,,,
+OL,3,V}yyy5CTuesday                 G2/2
 OL,5,G0100 Weekday overnights with BBC Radio
 OL,6,G     5 Live
 OL,7,     FLocal BBC Radio joins BBC Radio 5

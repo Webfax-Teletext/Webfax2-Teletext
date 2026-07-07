@@ -1,13 +1,154 @@
-PN,46300
-SC,0000
+PN,46301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F463A1783383530
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1783401609
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday                 G1/6
 OL,5,G0100 Scoth an Luain
 OL,6,     FScoth an Luain
+OL,7,G0700 Nead na Fuiseoige
+OL,8,     FClar ceoil a chur i lathair ag
+OL,9,     FGrainne Ni Dhomhnaill.
+OL,10,G0800 Adhmhaidin
+OL,11,     FClar cursai reatha agus nuachta
+OL,12,     Fnaisiunta, idirnaisiunta agus
+OL,13,     Faitiuil le tuairisc spoirt agus
+OL,14,     Ftuairisc ar na nuachtain
+OL,15,G0900 Priomhscealta na Nuachta
+OL,16,     FPriomhscealta na Nuachta agus na
+OL,17,     FGaeltachta.
+OL,18,G0915 Iris Aniar
+OL,19,     FClar irise a chur i lathair o
+OL,20,     Fcheannaras Raidio na Gaeltachta i
+OL,21,     FgCasla.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1783401609
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CTuesday                 G2/6
+OL,5,G1015 Tobar an Cheoil
+OL,6,     FClar ceoil a chur i lathair ag
+OL,7,     FCaoimhin O Se.
+OL,8,G1055 Tuairisc Spoirt
+OL,9,     FTuairisc Spoirt.
+OL,10,G1100 Barrscealta
+OL,11,     FClar irise a chur i lathair beo o
+OL,12,     Fstiuideo na nDoiri Beaga.
+OL,13,G1200 Priomhscealta na Nuachta
+OL,14,     FPriomhscealta na Nuachta agus na
+OL,15,     FGaeltachta.
+OL,16,G1208 An Saol o Dheas
+OL,17,     FClar irise, a chur i lathair beo
+OL,18,     Fon Rodai i Shraid na Cathrach, ait
+OL,19,     Fa bhfuil Scoil Samhraidh Willie
+OL,20,     FClancy ar siul.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1783401609
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CTuesday                 G3/6
+OL,5,G1300 Nuacht a hAon
+OL,6,     FAn barr is deireanai nuachta
+OL,7,     Fnaisiunta, idirnaisiunta agus
+OL,8,     Faitiula.
+OL,9,G1330 Ar Bhruach na Sionainne
+OL,10,     FCloisfear mic leinn Ollscoil
+OL,11,     FLuimnigh i mbun ceoil agus cainte
+OL,12,     Fsa tsraith seo.
+OL,13,G1400 Tuairisc Spoirt
+OL,14,     FTuairisc Spoirt.
+OL,15,G1405 Leagan Cainte
+OL,16,     FPle ar leaganacha cainte agus ar
+OL,17,     Fsheanfhocail faoi Chathaoirleacht
+OL,18,     FLiam Mhic Con Iomaire. Seo sraith
+OL,19,     Fclaracha a craoladh ar dtus sna
+OL,20,     Fnaochaidi.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46304
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1783401609
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CTuesday                 G4/6
+OL,5,G1435 Focal ar Fhocal
+OL,6,     FLiam Mac Con Iomaire ag leamh
+OL,7,     Fsleachta on leabhar 'Cladai
+OL,8,     FChonamara', leabhar faoi chursai
+OL,9,     Ffarraige a scriobh Seamus Mac An
+OL,10,     FIomaire as Muinis, a foilsiodh den
+OL,11,     Fchead uair i 1938.
+OL,12,G1500 Ril an Rodai
+OL,13,     FRil an Rodai a chur i lathair o
+OL,14,     FShraid na Cathrach, ait a bhfuil
+OL,15,     FScoil Samhraidh Willie Clancy ar
+OL,16,     Fsiul.
+OL,17,G1700 Tus Aite
+OL,18,     FClar cursai reatha agus nuachta a
+OL,19,     Fchur i lathair ag Aonghus O
+OL,20,     FLochlainn.
+OL,21,G1755 Tuairisc Spoirt
+OL,22,     FTuairisc Spoirt.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46305
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1783401609
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CTuesday                 G5/6
+OL,5,G1800 Nuacht a Se
+OL,6,     FAn barr is deireanai nuachta
+OL,7,     Fnaisiunta, idirnaisiunta agus
+OL,8,     Faitiuil.
+OL,9,G1830 Fograi an Lae
+OL,10,     FImeachtai agus fograi na
+OL,11,     FGaeltachta.
+OL,12,G1900 Ceol Binn o na Beanna
+OL,13,     FCeol traidisiunta den scoth, a
+OL,14,     Fchur i lathair ag Neansai Ni
+OL,15,     FChoisdealbha beo o Shraid na
+OL,16,     FCathrach, ait a bhfuil Scoil
+OL,17,     FSamhraidh Willie Clancy ar siul.
+OL,18,G2100 Ri-Ra ar RnaG
+OL,19,     FCeol agus amhrain o na cairteanna,
+OL,20,     Far Ri-Ra ar RnaG, ag cur tus
+OL,21,     Fbriomhar le craoladh Anocht FM i
+OL,22,     Frith na seachtaine.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46306
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1783401609
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CTuesday                 G6/6
+OL,5,G2200 An Taobh Tuathail
+OL,6,     FCeol nua eagsuil do chach, a chur
+OL,7,     Fi lathair ag Cian O Ciobhain.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100@
