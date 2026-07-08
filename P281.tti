@@ -1,16 +1,52 @@
-PN,28100
-SC,0000
+PN,28101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F281A1783469975
+PS,c008
+OL,0,        ECIMSBWebfax 2   F281A1783487968
 OL,1,Vzssssss{0Ww;js%7+ jijkj;jsjs"7
 OL,2,Vupp=wfff5W-.*,%-. *&*.**(.*, %V,,,,,,,,
-OL,3,V}yyy5CTuesday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CWednesday               G1/2
+OL,5,G0600 Rick Jackson
+OL,6,     FYour morning mix of news, laughs
+OL,7,     Fand local life.
+OL,8,G0700 Steve Harris
+OL,9,     FTrusted local news, information
+OL,10,     Fand advice, and great music with
+OL,11,     FSteve at breakfast.
+OL,12,G0900 Rick Jackson
+OL,13,     FYour morning mix of news, laughs
+OL,14,     Fand local life.
+OL,15,G1000 Katie Martin
+OL,16,     FYour say on what matters today and
+OL,17,     FThe Rewind from 1pm.
+OL,18,G1400 Alun Newman
+OL,19,     FThe day's local and national news,
+OL,20,     Fas well as big guests, great music
+OL,21,     Fand loads of fun.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,282,250,301,140,0,100
+PN,28102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F281A1783487968
+OL,1,Vzssssss{0Ww;js%7+ jijkj;jsjs"7
+OL,2,Vupp=wfff5W-.*,%-. *&*.**(.*, %V,,,,,,,,
+OL,3,V}yyy5CWednesday               G2/2
+OL,5,G1800 Solent Sport
+OL,6,     FT20 Blast Cricket coverage of
+OL,7,     FHampshire Hawks v Middlesex. The
+OL,8,     Fmatch starts at 7pm.
+OL,9,G2200 The Late Show
+OL,10,     FBecky Want with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,282,250,301,140,0,100@
