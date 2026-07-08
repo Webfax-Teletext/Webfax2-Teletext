@@ -2,7 +2,7 @@ PN,23701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1783487966
+OL,0,        ECIMSBWebfax 2   F237A1783521460
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CThursday                G1/6
@@ -27,7 +27,7 @@ PN,23702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1783487966
+OL,0,        ECIMSBWebfax 2   F237A1783521460
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CThursday                G2/6
@@ -52,7 +52,7 @@ PN,23703
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1783487966
+OL,0,        ECIMSBWebfax 2   F237A1783521460
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CThursday                G3/6
@@ -81,7 +81,7 @@ PN,23704
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1783487966
+OL,0,        ECIMSBWebfax 2   F237A1783521460
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CThursday                G4/6
@@ -89,19 +89,18 @@ OL,5,G1800 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
 OL,8,G1805 Anne-Marie Wallace
-OL,9,     FExpect music and chat that will
-OL,10,     Fbring joy to your tea-time routine
-OL,11,     Falong with What's on Your Plate?
-OL,12,     Fand the Daily Dilemma.
-OL,13,G1930 Blas
-OL,14,     FDearcadh an duine oig ar abhair a
-OL,15,     Fbhfuil spraoi ag baint leo agus
-OL,16,     Fabhair nios troime, gach rud on
-OL,17,     Fstil mhaireachtala go taisteal
-OL,18,     Fagus cursai spoirt.
-OL,19,G2000 BBC News NI update
-OL,20,     FThe latest national and
-OL,21,     Finternational news.
+OL,9,     FAM is joined by Caoimhe 'Ceol' Ni
+OL,10,     FChathail to look ahead to a new
+OL,11,     Fseries they're presenting
+OL,12,     Ftogether, celebrating the Fleadh
+OL,13,     Fmaking it's debut in Belfast this
+OL,14,     Fsummer.
+OL,15,G1930 Blas
+OL,16,     FDearcadh an duine oig ar abhair a
+OL,17,     Fbhfuil spraoi ag baint leo agus
+OL,18,     Fabhair nios troime, gach rud on
+OL,19,     Fstil mhaireachtala go taisteal
+OL,20,     Fagus cursai spoirt.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,238,200,300,120,0,100
@@ -109,24 +108,27 @@ PN,23705
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1783487966
+OL,0,        ECIMSBWebfax 2   F237A1783521460
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CThursday                G5/6
-OL,5,G2004 Blas Ceoil
-OL,6,     FCeol, caint agus craic le Caoimhe
-OL,7,     F'Ceol' Ni Chathail.
-OL,8,G2100 BBC News NI update
-OL,9,     FThe latest national and
-OL,10,     Finternational news.
-OL,11,G2104 Kaz Hawkins Got the Blues
-OL,12,     FBelfast-born singer Kaz Hawkins is
-OL,13,     Fback with another personal
-OL,14,     Fselection of her favourite blues
-OL,15,     Frecords both old and new.
-OL,16,G2200 BBC News NI update
-OL,17,     FThe latest national and
-OL,18,     Finternational news.
+OL,5,G2000 BBC News NI update
+OL,6,     FThe latest national and
+OL,7,     Finternational news.
+OL,8,G2004 Blas Ceoil
+OL,9,     FCeol, caint agus craic le Caoimhe
+OL,10,     F'Ceol' Ni Chathail.
+OL,11,G2100 BBC News NI update
+OL,12,     FThe latest national and
+OL,13,     Finternational news.
+OL,14,G2104 Kaz Hawkins Got the Blues
+OL,15,     FBelfast-born singer Kaz Hawkins is
+OL,16,     Fback with another personal
+OL,17,     Fselection of her favourite blues
+OL,18,     Frecords both old and new.
+OL,19,G2200 BBC News NI update
+OL,20,     FThe latest national and
+OL,21,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,238,200,300,120,0,100
@@ -134,7 +136,7 @@ PN,23706
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1783487966
+OL,0,        ECIMSBWebfax 2   F237A1783521460
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CThursday                G6/6
