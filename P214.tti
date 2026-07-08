@@ -2,25 +2,24 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1783487966
+OL,0,        ECIMSBWebfax 2   F214A1783498706
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CWednesday               G1/3
-OL,5,G0600 Radio Scotland Breakfast
-OL,6,     FNews from across Scotland and the
-OL,7,     Fworld, plus sport, weather,
-OL,8,     Fentertainment and big name
-OL,9,     Finterviews.
-OL,10,G0900 Mornings
-OL,11,     FLaura McGhie gets to the heart of
-OL,12,     Fthe stories making the news.
-OL,13,G1200 Lunchtime Live
-OL,14,     FNews updates from Scotland and
-OL,15,     Fbeyond, plus all your lunchtime
-OL,16,     Fsport, travel and weather.
-OL,17,G1330 Radio Scotland Afternoons
-OL,18,     FThe best music, guests and arts
-OL,19,     Fcoverage.
+OL,5,G0900 Mornings
+OL,6,     FLaura McGhie gets to the heart of
+OL,7,     Fthe stories making the news.
+OL,8,G1200 Lunchtime Live
+OL,9,     FNews updates from Scotland and
+OL,10,     Fbeyond, plus all your lunchtime
+OL,11,     Fsport, travel and weather.
+OL,12,G1330 Radio Scotland Afternoons
+OL,13,     FThe best music, guests and arts
+OL,14,     Fcoverage.
+OL,15,G1600 Drivetime
+OL,16,     FBreaking down the day's talking
+OL,17,     Fpoints with comment and opinion,
+OL,18,     Fplus sport, travel and weather.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -28,27 +27,27 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1783487966
+OL,0,        ECIMSBWebfax 2   F214A1783498706
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CWednesday               G2/3
-OL,5,G1600 Drivetime
-OL,6,     FBreaking down the day's talking
-OL,7,     Fpoints with comment and opinion,
-OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Get It On with Bryan Burnett
-OL,10,     FIt's 30 years since the release of
-OL,11,     Fthe Spice Girls debut single and
-OL,12,     Fwe were introduced to Sporty,
-OL,13,     FPosh, Baby, Ginger and Scary! Who
-OL,14,     Felse in pop in best known by a
-OL,15,     Fnickname?
-OL,16,G2000 The Quay Sessions
-OL,17,     FValtos recorded live at the Celtic
-OL,18,     FConnections special earlier this
-OL,19,     Fyear. New music from Skerryvore
-OL,20,     Fplus Biffy Clyro, Callum Beattie
-OL,21,     Fand Belle & Sebastian.
+OL,5,G1800 Get It On with Bryan Burnett
+OL,6,     FIt's 30 years since the release of
+OL,7,     Fthe Spice Girls debut single and
+OL,8,     Fwe were introduced to Sporty,
+OL,9,     FPosh, Baby, Ginger and Scary! Who
+OL,10,     Felse in pop in best known by a
+OL,11,     Fnickname?
+OL,12,G2000 The Quay Sessions
+OL,13,     FValtos recorded live at the Celtic
+OL,14,     FConnections special earlier this
+OL,15,     Fyear. New music from Skerryvore
+OL,16,     Fplus Biffy Clyro, Callum Beattie
+OL,17,     Fand Belle & Sebastian.
+OL,18,G2200 Up Late
+OL,19,     FThe best company to end the day,
+OL,20,     Fwith lively chat and some of your
+OL,21,     Ffavourite tunes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -56,22 +55,18 @@ PN,21403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1783487966
+OL,0,        ECIMSBWebfax 2   F214A1783498706
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CWednesday               G3/3
-OL,5,G2200 Up Late
-OL,6,     FThe best company to end the day,
-OL,7,     Fwith lively chat and some of your
-OL,8,     Ffavourite tunes.
-OL,9,G0000 Scotcast
-OL,10,     FMartin Geissler and the team bring
-OL,11,     Fyou thoughtful conversation and
-OL,12,     Fexpert analysis covering the most
-OL,13,     Finteresting news stories in
-OL,14,     FScotland.
-OL,15,G0030 As BBC Radio 5 Live
-OL,16,     FJoining Radio 5 Live.
+OL,5,G0000 Scotcast
+OL,6,     FMartin Geissler and the team bring
+OL,7,     Fyou thoughtful conversation and
+OL,8,     Fexpert analysis covering the most
+OL,9,     Finteresting news stories in
+OL,10,     FScotland.
+OL,11,G0030 As BBC Radio 5 Live
+OL,12,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100@
