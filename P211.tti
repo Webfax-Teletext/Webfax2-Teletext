@@ -2,28 +2,28 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G1/12
-OL,5,G1306 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G1330 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G1332 The Food Chain
-OL,12,     FWhat does it take to feed a World
-OL,13,     FCup footballer? We explore the
-OL,14,     Fscience, history and logistics
-OL,15,     Fbehind what elite players eat to
-OL,16,     Fperform and recover.
-OL,17,G1400 BBC News
+OL,5,G1332 The Food Chain
+OL,6,     FWhat does it take to feed a World
+OL,7,     FCup footballer? We explore the
+OL,8,     Fscience, history and logistics
+OL,9,     Fbehind what elite players eat to
+OL,10,     Fperform and recover.
+OL,11,G1400 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G1406 Newshour
+OL,15,     FInterviews, news and analysis of
+OL,16,     Fthe day's global events.
+OL,17,G1500 BBC News
 OL,18,     FThe latest five minute news
 OL,19,     Fbulletin from BBC World Service.
-OL,20,G1406 Newshour
-OL,21,     FInterviews, news and analysis of
-OL,22,     Fthe day's global events.
+OL,20,G1506 The Inquiry
+OL,21,     FWill Kenya recognise femicide as a
+OL,22,     Fdistinct crime?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -31,26 +31,27 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G2/12
-OL,5,G1500 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1506 The Inquiry
-OL,9,     FWill Kenya recognise femicide as a
-OL,10,     Fdistinct crime?
-OL,11,G1530 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G1532 Business Daily
-OL,15,     FZohran Mamdani rode a wave of
-OL,16,     Fcost-of-living pressures to win
-OL,17,     FCity Hall. But talk of new taxes
-OL,18,     Fto fund spending spooked some on
-OL,19,     FWall Street. Six months in, has he
-OL,20,     Ffound a balance?
+OL,5,G1530 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G1532 Business Daily
+OL,9,     FZohran Mamdani rode a wave of
+OL,10,     Fcost-of-living pressures to win
+OL,11,     FCity Hall. But talk of new taxes
+OL,12,     Fto fund spending spooked some on
+OL,13,     FWall Street. Six months in, has he
+OL,14,     Ffound a balance?
+OL,15,G1550 World Business Express
+OL,16,     FFinance, economy and business news
+OL,17,     Ffrom BBC journalists around the
+OL,18,     Fworld.
+OL,19,G1600 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -58,28 +59,24 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G3/12
-OL,5,G1550 World Business Express
-OL,6,     FFinance, economy and business news
-OL,7,     Ffrom BBC journalists around the
-OL,8,     Fworld.
-OL,9,G1600 BBC News
+OL,5,G1606 Outside Source
+OL,6,     FA vibrant account of the day's
+OL,7,     Fevents with explanation and
+OL,8,     Freaction from those involved.
+OL,9,G1700 BBC News
 OL,10,     FThe latest five minute news
 OL,11,     Fbulletin from BBC World Service.
-OL,12,G1606 Outside Source
+OL,12,G1706 Outside Source
 OL,13,     FA vibrant account of the day's
 OL,14,     Fevents with explanation and
 OL,15,     Freaction from those involved.
-OL,16,G1700 BBC News
+OL,16,G1800 BBC News
 OL,17,     FThe latest five minute news
 OL,18,     Fbulletin from BBC World Service.
-OL,19,G1706 Outside Source
-OL,20,     FA vibrant account of the day's
-OL,21,     Fevents with explanation and
-OL,22,     Freaction from those involved.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -87,28 +84,28 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G4/12
-OL,5,G1800 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1806 Outlook
-OL,9,     FFelice Hardy grew up knowing
-OL,10,     Flittle about her ancestors. When
-OL,11,     Fher grandma died, she started
-OL,12,     Fresearching, discovering
-OL,13,     Fextraordinary sporting records -
-OL,14,     Fand painful family secrets.
-OL,15,G1850 Witness History
-OL,16,     FOn 9 July 2011, thousands of
-OL,17,     Fpeople flooded the city of Juba as
-OL,18,     FSouth Sudan became the world's
-OL,19,     Fnewest nation.
-OL,20,G1900 BBC News
-OL,21,     FThe latest five minute news
-OL,22,     Fbulletin from BBC World Service.
+OL,5,G1806 Outlook
+OL,6,     FFelice Hardy grew up knowing
+OL,7,     Flittle about her ancestors. When
+OL,8,     Fher grandma died, she started
+OL,9,     Fresearching, discovering
+OL,10,     Fextraordinary sporting records -
+OL,11,     Fand painful family secrets.
+OL,12,G1850 Witness History
+OL,13,     FOn 9 July 2011, thousands of
+OL,14,     Fpeople flooded the city of Juba as
+OL,15,     FSouth Sudan became the world's
+OL,16,     Fnewest nation.
+OL,17,G1900 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
+OL,20,G1906 The Newsroom
+OL,21,     FThe world's Newsroom brings you
+OL,22,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -116,27 +113,27 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G5/12
-OL,5,G1906 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G1930 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G1932 Sport Today
-OL,12,     FBBC sports correspondents tell the
-OL,13,     Fstory behind today's top sporting
-OL,14,     Fnews, with interviews and reports
-OL,15,     Ffrom across the world.
-OL,16,G2000 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
-OL,19,G2006 The Documentary
-OL,20,     Fant enthusiasts are working to
-OL,21,     Fstamp out the illegal ant trade.
+OL,5,G1930 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G1932 Sport Today
+OL,9,     FBBC sports correspondents tell the
+OL,10,     Fstory behind today's top sporting
+OL,11,     Fnews, with interviews and reports
+OL,12,     Ffrom across the world.
+OL,13,G2000 BBC News
+OL,14,     FThe latest five minute news
+OL,15,     Fbulletin from BBC World Service.
+OL,16,G2006 The Documentary
+OL,17,     Fant enthusiasts are working to
+OL,18,     Fstamp out the illegal ant trade.
+OL,19,G2030 BBC News Summary
+OL,20,     FThe latest two minute news summary
+OL,21,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -144,26 +141,26 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G6/12
-OL,5,G2030 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G2032 BBC Inside Science
-OL,9,     FA weekly show exploring science,
-OL,10,     Fits mysteries, and the debates it
-OL,11,     Fsparks.
-OL,12,G2100 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G2106 Newshour
-OL,16,     FInterviews, news and analysis of
-OL,17,     Fthe day's global events.
-OL,18,G2200 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
+OL,5,G2032 BBC Inside Science
+OL,6,     FA weekly show exploring science,
+OL,7,     Fits mysteries, and the debates it
+OL,8,     Fsparks.
+OL,9,G2100 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G2106 Newshour
+OL,13,     FInterviews, news and analysis of
+OL,14,     Fthe day's global events.
+OL,15,G2200 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
+OL,18,G2206 The Inquiry
+OL,19,     FWill Kenya recognise femicide as a
+OL,20,     Fdistinct crime?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -171,28 +168,28 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G7/12
-OL,5,G2206 The Inquiry
-OL,6,     FWill Kenya recognise femicide as a
-OL,7,     Fdistinct crime?
-OL,8,G2230 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G2232 The Food Chain
-OL,12,     FWhat does it take to feed a World
-OL,13,     FCup footballer? We explore the
-OL,14,     Fscience, history and logistics
-OL,15,     Fbehind what elite players eat to
-OL,16,     Fperform and recover.
-OL,17,G2300 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G2306 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,5,G2230 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G2232 The Food Chain
+OL,9,     FWhat does it take to feed a World
+OL,10,     FCup footballer? We explore the
+OL,11,     Fscience, history and logistics
+OL,12,     Fbehind what elite players eat to
+OL,13,     Fperform and recover.
+OL,14,G2300 BBC News
+OL,15,     FThe latest five minute news
+OL,16,     Fbulletin from BBC World Service.
+OL,17,G2306 The Newsroom
+OL,18,     FThe world's Newsroom brings you
+OL,19,     Fglobal events as they happen.
+OL,20,G2330 BBC News Summary
+OL,21,     FThe latest two minute news summary
+OL,22,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -200,27 +197,24 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G8/12
-OL,5,G2330 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G2332 World Business Report
-OL,9,     FThe latest business and finance
-OL,10,     Fnews from around the world, on the
-OL,11,     FBBC.
-OL,12,G0000 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G0006 The Explanation
-OL,16,     FWhere the world is explained.
-OL,17,     FMaking sense of the big stories -
-OL,18,     Flooking behind the spin.
-OL,19,G0030 BBC News Summary
-OL,20,     FThe latest two minute news summary
-OL,21,     Ffrom BBC World Service.
+OL,5,G2332 World Business Report
+OL,6,     FThe latest business and finance
+OL,7,     Fnews from around the world, on the
+OL,8,     FBBC.
+OL,9,G0000 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0006 The Explanation
+OL,13,     FWhere the world is explained.
+OL,14,     FMaking sense of the big stories -
+OL,15,     Flooking behind the spin.
+OL,16,G0030 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -228,7 +222,7 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G9/12
@@ -255,7 +249,7 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday               G10/12
@@ -282,7 +276,7 @@ PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday               G11/12
@@ -311,7 +305,7 @@ PN,21112
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783599505
+OL,0,        ECIMSBWebfax 2   F211A1783601290
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday               G12/12
