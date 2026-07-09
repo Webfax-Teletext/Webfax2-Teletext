@@ -2,10 +2,10 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1783521462
+OL,0,        ECIMSBWebfax 2   F239A1783574376
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G1/3
+OL,3,V}yyy5CFriday                  G1/3
 OL,5,G0600 Radio Scotland Breakfast
 OL,6,     FNews from across Scotland and the
 OL,7,     Fworld, plus sport, weather,
@@ -18,9 +18,12 @@ OL,13,G1200 Lunchtime Live
 OL,14,     FNews updates from Scotland and
 OL,15,     Fbeyond, plus all your lunchtime
 OL,16,     Fsport, travel and weather.
-OL,17,G1330 Radio Scotland Afternoons
-OL,18,     FThe best music, guests and arts
-OL,19,     Fcoverage.
+OL,17,G1330 Breaking the News
+OL,18,     FJay Lafferty hosts Scotland's
+OL,19,     Faward-winning satirical news quiz.
+OL,20,G1400 Radio Scotland Afternoons
+OL,21,     FFeel-good music and chat with
+OL,22,     Fcelebrity guests.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -28,28 +31,27 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1783521462
+OL,0,        ECIMSBWebfax 2   F239A1783574376
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G2/3
+OL,3,V}yyy5CFriday                  G2/3
 OL,5,G1600 Drivetime
 OL,6,     FBreaking down the day's talking
 OL,7,     Fpoints with comment and opinion,
 OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Get It On with Bryan Burnett
-OL,10,     FIt's all about your first foreign
-OL,11,     Fholiday and the songs you recall.
-OL,12,     FWith mum and dad to a Spanish
-OL,13,     Fcosta, pals off to a Greek island,
-OL,14,     For maybe a long bus trip with the
-OL,15,     Fschool.
-OL,16,G2000 Travelling Folk
-OL,17,     FIn the height of the summer
-OL,18,     Ffestival season. Anna shares live
-OL,19,     Fconcert sets from the Orkney Folk
-OL,20,     FFestival as well as a round-up of
-OL,21,     Ffestivals still to come across
-OL,22,     FScotland.
+OL,9,G1800 Grant Stott's Vinyl Collective
+OL,10,     FJoin Grant as he celebrates all
+OL,11,     Fthat was wonderful musically about
+OL,12,     F1986! From Simple Minds to Howard
+OL,13,     FJones, Michael MacDonald to Janet
+OL,14,     FJackson.
+OL,15,G2000 BBC Introducing in Scotland
+OL,16,     FRosie Alice has a busy summer -
+OL,17,     Fshe's got new music out and gigs
+OL,18,     Fon the way, find out all about
+OL,19,     FPhoebe's featured artist on
+OL,20,     Ftonight's show. An EcoAudio
+OL,21,     Fcertified production.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -57,22 +59,16 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1783521462
+OL,0,        ECIMSBWebfax 2   F239A1783574376
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G3/3
+OL,3,V}yyy5CFriday                  G3/3
 OL,5,G2200 Up Late
 OL,6,     FThe best company to end the day,
 OL,7,     Fwith lively chat and some of your
 OL,8,     Ffavourite tunes.
-OL,9,G0000 Scotcast
-OL,10,     FMartin Geissler and the team bring
-OL,11,     Fyou thoughtful conversation and
-OL,12,     Fexpert analysis covering the most
-OL,13,     Finteresting news stories in
-OL,14,     FScotland.
-OL,15,G0030 As BBC Radio 5 Live
-OL,16,     FJoining Radio 5 Live.
+OL,9,G0000 As BBC Radio 5 Live
+OL,10,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100@

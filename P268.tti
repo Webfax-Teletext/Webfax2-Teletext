@@ -1,16 +1,56 @@
-PN,26800
-SC,0000
+PN,26801
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F268A1783556329
+PS,c008
+OL,0,        ECIMSBWebfax 2   F268A1783574370
 OL,1,Vzssssss{0Ww;js%7+ j jsjj+jsjs"7jsj;
 OL,2,Vupp=wfff5W-.*,%-. *,*,**.*,(. %*,**V(,,
-OL,3,V}yyy5CWednesday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CThursday                G1/2
+OL,5,G0600 Ady Dayman
+OL,6,     FWake up with Ady bringing you
+OL,7,     Fstories, news and something to
+OL,8,     Fmake you smile.
+OL,9,G1000 Ben Jackson
+OL,10,     FStories to make you smile,
+OL,11,     Fmid-morning updates and all the
+OL,12,     Fmusic you love.
+OL,13,G1400 The Afternoon Show on BBC Radio
+OL,14,G     Leicester
+OL,15,     FThe latest news, great music and
+OL,16,     Finspirational people to take you
+OL,17,     Fthrough the afternoon.
+OL,18,G1800 Leicester City: When You're
+OL,19,G     Smiling
+OL,20,     FMichael Morrison joins Jake Garner
+OL,21,     Fbefore City's first pre-season
+OL,22,     Fgame versus Northampton.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,269,250,301,140,0,100
+PN,26802
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F268A1783574370
+OL,1,Vzssssss{0Ww;js%7+ j jsjj+jsjs"7jsj;
+OL,2,Vupp=wfff5W-.*,%-. *,*,**.*,(. %*,**V(,,
+OL,3,V}yyy5CThursday                G2/2
+OL,5,G1900 Upload with Dean Jackson
+OL,6,     FOriginal comedy, podcasts, poetry,
+OL,7,     Ffiction and more on BBC Upload.
+OL,8,G2000 BBC Introducing - East Midlands
+OL,9,     FDeke Hardman and the Beat team
+OL,10,     Fwith new music from across the
+OL,11,     FEast Mids and Lincolnshire.
+OL,12,G2200 The Late Show
+OL,13,     FBecky Want with late-night
+OL,14,     Fconversation, amazing stories and
+OL,15,     Fthe soundtrack to your night.
+OL,16,G0100 Weekday overnights with BBC Radio
+OL,17,G     5 Live
+OL,18,     FLocal BBC Radio joins BBC Radio 5
+OL,19,     FLive through the night on a
+OL,20,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,269,250,301,140,0,100@
