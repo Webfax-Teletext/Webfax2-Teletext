@@ -2,10 +2,10 @@ PN,23801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1783660832
+OL,0,        ECIMSBWebfax 2   F238A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CSaturday                G1/8
+OL,3,V}yyy5CSaturday                G1/7
 OL,5,G0100 As BBC Radio 5 live
 OL,6,     FBBC Radio Ulster joins BBC Radio 5
 OL,7,     Flive.
@@ -30,10 +30,10 @@ PN,23802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1783660832
+OL,0,        ECIMSBWebfax 2   F238A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CSaturday                G2/8
+OL,3,V}yyy5CSaturday                G2/7
 OL,5,G0900 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
@@ -57,10 +57,10 @@ PN,23803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1783660832
+OL,0,        ECIMSBWebfax 2   F238A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CSaturday                G3/8
+OL,3,V}yyy5CSaturday                G3/7
 OL,5,G1100 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
@@ -85,10 +85,10 @@ PN,23804
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1783660832
+OL,0,        ECIMSBWebfax 2   F238A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CSaturday                G4/8
+OL,3,V}yyy5CSaturday                G4/7
 OL,5,G1400 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
@@ -114,10 +114,10 @@ PN,23805
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1783660832
+OL,0,        ECIMSBWebfax 2   F238A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CSaturday                G5/8
+OL,3,V}yyy5CSaturday                G5/7
 OL,5,G1700 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
@@ -131,6 +131,11 @@ OL,14,     Fclassics.
 OL,15,G1900 BBC News NI update
 OL,16,     FThe latest national and
 OL,17,     Finternational news.
+OL,18,G1903 BBC Introducing in Northern...
+OL,19,     F...Ireland with Taylor Johnson.
+OL,20,     FDiscover your new favourite
+OL,21,     Fartist. Listen back and download
+OL,22,     Fanytime on BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,239,200,300,120,0,100
@@ -138,26 +143,27 @@ PN,23806
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1783660832
+OL,0,        ECIMSBWebfax 2   F238A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CSaturday                G6/8
-OL,5,G1903 BBC Introducing in Northern...
-OL,6,     F...Ireland with Taylor Johnson.
-OL,7,     FDiscover your next favourite
-OL,8,     Fartist. From rock to jazz to
-OL,9,     Fhip-hop, Taylor Johnson plays the
-OL,10,     Fbest new artists breaking through
-OL,11,     Fthe BBC Music Introducing
-OL,12,     FUploader.
-OL,13,G2000 BBC News NI update
+OL,3,V}yyy5CSaturday                G6/7
+OL,5,G2000 BBC News NI update
+OL,6,     FThe latest national and
+OL,7,     Finternational news.
+OL,8,G2003 Folk Club
+OL,9,     FFolk and traditional music from
+OL,10,     FIreland and beyond. Presented by
+OL,11,     Facclaimed producer, musician and
+OL,12,     Fcomposer Neil Martin.
+OL,13,G2200 BBC News NI update
 OL,14,     FThe latest national and
 OL,15,     Finternational news.
-OL,16,G2003 Folk Club
-OL,17,     FFolk and traditional music from
-OL,18,     FIreland and beyond. Presented by
-OL,19,     Facclaimed producer, musician and
-OL,20,     Fcomposer Neil Martin.
+OL,16,G2203 The Late Show with Mike Edgar
+OL,17,     FA handpicked mix of pop, jazz,
+OL,18,     Ffolk, soul and more from across
+OL,19,     Fthe eras with our own music
+OL,20,     Faficionado. Enjoy uplifting and
+OL,21,     Fmellow sounds for Saturday night.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,239,200,300,120,0,100
@@ -165,40 +171,20 @@ PN,23807
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1783660832
+OL,0,        ECIMSBWebfax 2   F238A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CSaturday                G7/8
-OL,5,G2200 BBC News NI update
+OL,3,V}yyy5CSaturday                G7/7
+OL,5,G2355 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
-OL,8,G2203 The Late Show with Mike Edgar
-OL,9,     FA handpicked mix of pop, jazz,
-OL,10,     Ffolk, soul and more from across
-OL,11,     Fthe eras with our own music
-OL,12,     Faficionado. Enjoy uplifting and
-OL,13,     Fmellow sounds for Saturday night.
-OL,14,G2355 BBC News NI update
-OL,15,     FThe latest national and
-OL,16,     Finternational news.
-OL,17,G0000 Long Player with Steven Rainey
-OL,18,     FThe Grateful Dead shed psychedelia
-OL,19,     Fto create a rootsy masterpiece,
-OL,20,     FAmerican Beauty.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,239,200,300,120,0,100
-PN,23808
-SC,0008
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F238A1783660832
-OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
-OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
-OL,3,V}yyy5CSaturday                G8/8
-OL,5,G0100 As BBC Radio 5 live
-OL,6,     FBBC Radio Ulster joins BBC Radio 5
-OL,7,     Flive.
+OL,8,G0000 Long Player with Steven Rainey
+OL,9,     FThe Grateful Dead shed psychedelia
+OL,10,     Fto create a rootsy masterpiece,
+OL,11,     FAmerican Beauty.
+OL,12,G0100 As BBC Radio 5 live
+OL,13,     FBBC Radio Ulster joins BBC Radio 5
+OL,14,     Flive.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,239,200,300,120,0,100@

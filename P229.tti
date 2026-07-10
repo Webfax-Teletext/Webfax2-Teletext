@@ -2,10 +2,10 @@ PN,22901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G1/10
+OL,3,V}yyy5CSaturday                G1/11
 OL,5,G0600 News, Weather and Papers
 OL,6,     FNational and international news
 OL,7,     Ffrom BBC Radio 4.
@@ -30,10 +30,10 @@ PN,22902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G2/10
+OL,3,V}yyy5CSaturday                G2/11
 OL,5,G1000 You're Dead to Me
 OL,6,     FGreg Jenner is joined in medieval
 OL,7,     FEurope by Dr Simon Yarrow and
@@ -48,10 +48,6 @@ OL,15,     FGujarati cooking.
 OL,16,G1100 The Week in Westminster
 OL,17,     FRadio 4's assessment of
 OL,18,     Fdevelopments at Westminster.
-OL,19,G1130 From Our Own Correspondent
-OL,20,     FInsight and analysis from BBC
-OL,21,     Fcorrespondents around the world.
-OL,22,G1200 News Summary
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
@@ -59,28 +55,23 @@ PN,22903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G3/10
-OL,5,G1204 Money Box
-OL,6,     FThe latest news from the world of
-OL,7,     Fpersonal finance.
-OL,8,G1230 Dead Ringers
-OL,9,     F5/6. Satirical impressions from
-OL,10,     Fthe team headed up by Jon Culshaw
-OL,11,     Fand Jan Ravens.
-OL,12,G1257 Weather Forecast
-OL,13,G1300 News Bulletin
-OL,14,     FNational and international news
-OL,15,     Ffrom BBC Radio 4.
-OL,16,G1310 Any Questions?
-OL,17,     FAlex Forsyth presents political
-OL,18,     Fdebate from Furze Platt Senior
-OL,19,     FSchool in Maidenhead with Laila
-OL,20,     FCunningham, Baroness Hodge, Mike
-OL,21,     FMartin MP and Sir Andrew Mitchell
-OL,22,     FMP.
+OL,3,V}yyy5CSaturday                G3/11
+OL,5,G1130 From Our Own Correspondent
+OL,6,     FLyse Doucet has been in Tehran as
+OL,7,     Fthrongs of supporters gathered to
+OL,8,     Fmourn the late supreme leader, Ali
+OL,9,     FKhamanei, killed early in the
+OL,10,     FUS-Israeli led attacks on Iran.
+OL,11,G1200 News Summary
+OL,12,G1204 Money Box
+OL,13,     FTime is running out for thousands
+OL,14,     Fof self-employed people and
+OL,15,     Flandlords who must start reporting
+OL,16,     Ftheir income and expenses in a new
+OL,17,     Fway.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
@@ -88,10 +79,38 @@ PN,22904
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G4/10
+OL,3,V}yyy5CSaturday                G4/11
+OL,5,G1230 Dead Ringers
+OL,6,     F5/6. The Dead Ringers team train
+OL,7,     Ftheir vocal firepower on the
+OL,8,     Fweek's news. This week: Trump
+OL,9,     Fturns tricks, and Tuchel talks
+OL,10,     Ftactics.
+OL,11,G1257 Weather Forecast
+OL,12,G1300 News Bulletin
+OL,13,     FNational and international news
+OL,14,     Ffrom BBC Radio 4.
+OL,15,G1310 Any Questions?
+OL,16,     FAlex Forsyth presents political
+OL,17,     Fdebate from Furze Platt Senior
+OL,18,     FSchool in Maidenhead with Laila
+OL,19,     FCunningham, Baroness Hodge, Mike
+OL,20,     FMartin MP and Sir Andrew Mitchell
+OL,21,     FMP.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,230,200,300,120,0,100
+PN,22905
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F229A1783691323
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSaturday                G5/11
 OL,5,G1405 Any Answers?
 OL,6,     FListeners respond to the issues
 OL,7,     Fraised in the preceding edition of
@@ -113,14 +132,14 @@ OL,22,     FFull coverage of the day's news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
-PN,22905
-SC,0005
+PN,22906
+SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G5/10
+OL,3,V}yyy5CSaturday                G6/11
 OL,5,G1730 Political Thinking with Nick
 OL,6,G     Robinson
 OL,7,     FLouise Haigh, former transport
@@ -134,21 +153,21 @@ OL,14,G1800 Six O'Clock News
 OL,15,G1815 Loose Ends
 OL,16,     FStuart Maconie's guests in Salford
 OL,17,     Fare Eastenders star Nigel Harman,
-OL,18,     Fcomedian Andy Hamilton and
+OL,18,     Fcomedian Daliso Chaponda and
 OL,19,     Fnovelist Nikki Smith. Music from
 OL,20,     FLiana Flores and Ibibio Sound
 OL,21,     FMachine.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
-PN,22906
-SC,0006
+PN,22907
+SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G6/10
+OL,3,V}yyy5CSaturday                G7/11
 OL,5,G1900 Profile
 OL,6,     FAn insight into the character of
 OL,7,     Fan influential person making the
@@ -163,14 +182,14 @@ OL,15,     Ffostering privilege.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
-PN,22907
-SC,0007
+PN,22908
+SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G7/10
+OL,3,V}yyy5CSaturday                G8/11
 OL,5,G2000 50 Years of Peter Singer's Animal
 OL,6,G     Liberation
 OL,7,     FAnimal Liberation is the 20th
@@ -189,14 +208,14 @@ OL,19,     Ffrom BBC Radio 4.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
-PN,22908
-SC,0008
+PN,22909
+SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G8/10
+OL,3,V}yyy5CSaturday                G9/11
 OL,5,G2215 The Food Programme
 OL,6,     FPistachio chocolate, pistachio
 OL,7,     Fcake, pistachio latte, pistachio
@@ -218,14 +237,14 @@ OL,22,     Fperiodic table.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
-PN,22909
-SC,0009
+PN,22910
+SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday                G9/10
+OL,3,V}yyy5CSaturday               G10/11
 OL,5,G0000 Midnight News
 OL,6,G0015 Bookclub
 OL,7,     FHistorian and writer Anne Sebba,
@@ -247,14 +266,14 @@ OL,22,     FCourteenhall, Northamptonshire.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
-PN,22910
-SC,0010
+PN,22911
+SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1783660832
+OL,0,        ECIMSBWebfax 2   F229A1783691323
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday               G10/10
+OL,3,V}yyy5CSaturday               G11/11
 OL,5,G0545 In Touch
 OL,6,     FBritain's rail regulator is
 OL,7,     Fconsulting on a framework aimed at
