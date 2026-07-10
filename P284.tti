@@ -1,16 +1,52 @@
-PN,28400
-SC,0000
+PN,28401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F284A1783642758
+PS,c008
+OL,0,        ECIMSBWebfax 2   F284A1783660832
 OL,1,Vzssssss{0Ww;js%7+ jsjjjsjsjkj j:
 OL,2,Vupp=wfff5W-.*,%-. (.*.* * *.*,**V(,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CFriday                  G1/2
+OL,5,G0600 Wayne Bavin
+OL,6,     FWayne wakes up Suffolk with
+OL,7,     Ftopical conversation, plenty of
+OL,8,     Flaughs and some great music.
+OL,9,G1000 Sarah Lilley
+OL,10,     FSarah brings you county stories
+OL,11,     Fthat matter to you, plus a mix of
+OL,12,     Fmusic, fun and chat.
+OL,13,G1400 Louise Hulland on BBC Radio
+OL,14,G     Suffolk
+OL,15,     FLouise is here with the latest
+OL,16,     Fnews, stories, guests and great
+OL,17,     Fmusic.
+OL,18,G1800 BBC Radio Suffolk Sport with
+OL,19,G     Graeme Mac
+OL,20,     FHarvey previews the weekend's
+OL,21,     Fsport across the county.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,285,250,301,140,0,100
+PN,28402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F284A1783660832
+OL,1,Vzssssss{0Ww;js%7+ jsjjjsjsjkj j:
+OL,2,Vupp=wfff5W-.*,%-. (.*.* * *.*,**V(,,,,,
+OL,3,V}yyy5CFriday                  G2/2
+OL,5,G1900 Angelle Joseph
+OL,6,     FAngelle shares an evening of
+OL,7,     Fcommunity conversations and the
+OL,8,     Fbiggest things this week.
+OL,9,G2200 Late Night Jo
+OL,10,     FJo Good with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekend overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,285,250,301,140,0,100@
