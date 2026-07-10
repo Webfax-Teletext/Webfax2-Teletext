@@ -2,24 +2,23 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700332
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G1/11
-OL,5,G1606 Outside Source
+OL,5,G1706 Outside Source
 OL,6,     FA vibrant account of the day's
 OL,7,     Fevents with explanation and
 OL,8,     Freaction from those involved.
-OL,9,G1700 BBC News
+OL,9,G1800 BBC News
 OL,10,     FThe latest five minute news
 OL,11,     Fbulletin from BBC World Service.
-OL,12,G1706 Outside Source
-OL,13,     FA vibrant account of the day's
-OL,14,     Fevents with explanation and
-OL,15,     Freaction from those involved.
-OL,16,G1800 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
+OL,12,G1806 Outlook
+OL,13,     FMicroscopic sculptures, a toy
+OL,14,     Fpiano virtuoso and the world's
+OL,15,     Fmost diminutive porpoise: three
+OL,16,     Ftales of the miniature, the
+OL,17,     Fminiscule and the minute.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -27,28 +26,25 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700332
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G2/11
-OL,5,G1806 Outlook
-OL,6,     FMicroscopic sculptures, a toy
-OL,7,     Fpiano virtuoso and the world's
-OL,8,     Fmost diminutive porpoise: three
-OL,9,     Ftales of the miniature, the
-OL,10,     Fminiscule and the minute.
-OL,11,G1850 Witness History
-OL,12,     FA gem from the archive - Richard
-OL,13,     FHuelsenbeck describes co-founding
-OL,14,     Fan art movement 110 years ago
-OL,15,     Fwhich still influences creativity
-OL,16,     Ftoday.
-OL,17,G1900 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G1906 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,5,G1850 Witness History
+OL,6,     FA gem from the archive - Richard
+OL,7,     FHuelsenbeck describes co-founding
+OL,8,     Fan art movement 110 years ago
+OL,9,     Fwhich still influences creativity
+OL,10,     Ftoday.
+OL,11,G1900 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G1906 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G1930 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -56,27 +52,24 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700332
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G3/11
-OL,5,G1930 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G1932 Sport Today
-OL,9,     FBBC sports correspondents tell the
-OL,10,     Fstory behind today's top sporting
-OL,11,     Fnews, with interviews and reports
-OL,12,     Ffrom across the world.
-OL,13,G2000 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G2006 BBC Conversations
-OL,17,     FTennis pros in the lower rankings
-OL,18,     Fshare their stories of sacrifice.
-OL,19,G2030 BBC News Summary
-OL,20,     FThe latest two minute news summary
-OL,21,     Ffrom BBC World Service.
+OL,5,G1932 Sport Today
+OL,6,     FBBC sports correspondents tell the
+OL,7,     Fstory behind today's top sporting
+OL,8,     Fnews, with interviews and reports
+OL,9,     Ffrom across the world.
+OL,10,G2000 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G2006 BBC Conversations
+OL,14,     FTennis pros in the lower rankings
+OL,15,     Fshare their stories of sacrifice.
+OL,16,G2030 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -84,7 +77,7 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700332
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G4/11
@@ -111,7 +104,7 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700333
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G5/11
@@ -139,7 +132,7 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700333
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G6/11
@@ -168,7 +161,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700333
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G7/11
@@ -195,7 +188,7 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700333
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G8/11
@@ -222,7 +215,7 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700333
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G9/11
@@ -248,7 +241,7 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700333
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G10/11
@@ -273,7 +266,7 @@ PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783696752
+OL,0,        ECIMSBWebfax 2   F211A1783700333
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G11/11
