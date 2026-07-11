@@ -2,22 +2,22 @@ PN,20501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1783799302
+OL,0,        ECIMSBWebfax 2   F205A1783804829
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday                G1/2
-OL,5,G2030 World Cup
-OL,6,     FMark Chapman presents build-up to
-OL,7,     FNorway v England in the
+OL,5,G2155 World Cup
+OL,6,     FLive football commentary of Norway
+OL,7,     Fv England in the third
 OL,8,     Fquarter-final of the 2026 FIFA
 OL,9,     FWorld Cup in Miami.
-OL,10,G2155 World Cup
-OL,11,     FLive football commentary of Norway
-OL,12,     Fv England in the third
-OL,13,     Fquarter-final of the 2026 FIFA
-OL,14,     FWorld Cup in Miami.
-OL,15,G0100 World Cup
-OL,16,     FAaron Paul presents build-up to
+OL,10,G0100 World Cup
+OL,11,     FAaron Paul presents build-up to
+OL,12,     FArgentina v Switzerland in the
+OL,13,     Ffourth quarter-final of the 2026
+OL,14,     FFIFA World Cup in Kansas City.
+OL,15,G0155 World Cup
+OL,16,     FLive football commentary of
 OL,17,     FArgentina v Switzerland in the
 OL,18,     Ffourth quarter-final of the 2026
 OL,19,     FFIFA World Cup in Kansas City.
@@ -28,20 +28,15 @@ PN,20502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1783799302
+OL,0,        ECIMSBWebfax 2   F205A1783804829
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday                G2/2
-OL,5,G0155 World Cup
-OL,6,     FLive football commentary of
-OL,7,     FArgentina v Switzerland in the
-OL,8,     Ffourth quarter-final of the 2026
-OL,9,     FFIFA World Cup in Kansas City.
-OL,10,G0500 Newscast
-OL,11,     FAdam Fleming and friends discuss
-OL,12,     Fthe week's biggest stories, with
-OL,13,     Fhighlights taken from the podcast
-OL,14,     Fthis week.
+OL,5,G0500 Newscast
+OL,6,     FAdam Fleming and friends discuss
+OL,7,     Fthe week's biggest stories, with
+OL,8,     Fhighlights taken from the podcast
+OL,9,     Fthis week.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100@
