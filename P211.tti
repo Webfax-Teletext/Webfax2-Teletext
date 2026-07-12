@@ -2,27 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783826413
+OL,0,        ECIMSBWebfax 2   F211A1783828100
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday                G1/3
-OL,5,G0406 From Our Own Correspondent
-OL,6,     FThe public mourning rituals for
-OL,7,     FIran's former Supreme Leader;
-OL,8,     Ftalking to the motorists of
-OL,9,     FMoscow; trauma treatment in
-OL,10,     FUkraine; the battle to preserve
-OL,11,     Fthe historic Casbah of Algiers.
-OL,12,G0430 BBC News Summary
-OL,13,     FThe latest two minute news summary
-OL,14,     Ffrom BBC World Service.
-OL,15,G0432 BBC Inside Science
-OL,16,     FThe lab-created 'SpudCell' is
-OL,17,     Farguably the most complete
-OL,18,     Fsynthetic cell developed to date.
-OL,19,     FBut is it really the turning point
-OL,20,     Fin synthetic biology that some
-OL,21,     Fpeople think?
+OL,3,V}yyy5CSaturday                G1/2
+OL,5,G0432 BBC Inside Science
+OL,6,     FThe lab-created 'SpudCell' is
+OL,7,     Farguably the most complete
+OL,8,     Fsynthetic cell developed to date.
+OL,9,     FBut is it really the turning point
+OL,10,     Fin synthetic biology that some
+OL,11,     Fpeople think?
+OL,12,G0500 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0506 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0530 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -30,41 +29,21 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783826413
+OL,0,        ECIMSBWebfax 2   F211A1783828100
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday                G2/3
-OL,5,G0500 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0506 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G0530 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G0532 Asia Specific
-OL,15,     FEssential insights and
-OL,16,     Fconversations on the stories
-OL,17,     Fshaping the Asia-Pacific region.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783826413
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday                G3/3
-OL,5,G0550 Sporting Witness
-OL,6,     FIn 2008, Rafael Nadal won
-OL,7,     FWimbledon after a hard-fought
-OL,8,     Ffinal against Roger Federer. Often
-OL,9,     Fseen as one of the best finals
-OL,10,     Fever, it finished just before
-OL,11,     Fnightfall.
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G0532 Asia Specific
+OL,6,     FEssential insights and
+OL,7,     Fconversations on the stories
+OL,8,     Fshaping the Asia-Pacific region.
+OL,9,G0550 Sporting Witness
+OL,10,     FIn 2008, Rafael Nadal won
+OL,11,     FWimbledon after a hard-fought
+OL,12,     Ffinal against Roger Federer. Often
+OL,13,     Fseen as one of the best finals
+OL,14,     Fever, it finished just before
+OL,15,     Fnightfall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
