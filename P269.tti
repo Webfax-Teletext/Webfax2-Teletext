@@ -1,16 +1,52 @@
-PN,26900
-SC,0000
+PN,26901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F269A1783815664
+PS,c008
+OL,0,        ECIMSBWebfax 2   F269A1783833660
 OL,1,Vzssssss{0Ww;js%7+ j jjkj+jkj jkjsjz*js
 OL,2,Vupp=wfff5W-.*,%-. *,****.*.*,**(.** *,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSunday                  G1/2
+OL,5,G0600 Fiona Mills on BBC Radio
+OL,6,G     Lincolnshire
+OL,7,     FFiona has a bright start to your
+OL,8,     Fday with ideas for the weekend.
+OL,9,G1000 Sean Dunderdale on BBC Radio
+OL,10,G     Lincolnshire
+OL,11,     FGeorge livens up your weekend with
+OL,12,     Fgreat guests, conversation and
+OL,13,     Fmusic.
+OL,14,G1400 The Make a Difference Show
+OL,15,     FGaby Roslin talks to some amazing
+OL,16,     Fpeople making a difference where
+OL,17,     Fwe live.
+OL,18,G1800 Lincolnshire Farmwatch
+OL,19,     FYour weekly round-up of rural life
+OL,20,     Fin Lincolnshire with Sean
+OL,21,     FDunderdale.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,270,250,301,140,0,100
+PN,26902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F269A1783833660
+OL,1,Vzssssss{0Ww;js%7+ j jjkj+jkj jkjsjz*js
+OL,2,Vupp=wfff5W-.*,%-. *,****.*.*,**(.** *,
+OL,3,V}yyy5CSunday                  G2/2
+OL,5,G1900 Tim Walker's Folk
+OL,6,     FThe best folk music from
+OL,7,     FLincolnshire and beyond with Tim
+OL,8,     FWalker.
+OL,9,G2200 The Late Show
+OL,10,     FAsma Younus with late-night
+OL,11,     Fconversation, stories and the
+OL,12,     Fsoundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,270,250,301,140,0,100@
