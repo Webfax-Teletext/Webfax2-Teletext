@@ -1,46 +1,28 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783911015
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1783912801
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSunday                  G1/2
-OL,5,G0332 The Fifth Floor
-OL,6,     FWhy Taiwan and Malaysia's luxury
-OL,7,     Ffruit growers have a complex
-OL,8,     Frelationship with China.
-OL,9,G0400 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0406 The Newsroom
-OL,13,     FThe world's Newsroom brings you
-OL,14,     Fglobal events as they happen.
-OL,15,G0430 BBC News Summary
-OL,16,     FThe latest two minute news summary
-OL,17,     Ffrom BBC World Service.
-OL,18,G0432 The Conversation
-OL,19,     FDatshiane Navanayagam on film
-OL,20,     Ffestivals in India and Egypt that
-OL,21,     Fshowcase the women who work behind
-OL,22,     Fthe camera.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783911015
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSunday                  G2/2
-OL,5,G0500 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0506 Newsday
-OL,9,     FLive news, business and sport from
-OL,10,     Faround the world.
+OL,3,V}yyy5CSunday
+OL,5,G0406 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0430 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0432 The Conversation
+OL,12,     FDatshiane Navanayagam on film
+OL,13,     Ffestivals in India and Egypt that
+OL,14,     Fshowcase the women who work behind
+OL,15,     Fthe camera.
+OL,16,G0500 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
+OL,19,G0506 Newsday
+OL,20,     FLive news, business and sport from
+OL,21,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
