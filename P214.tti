@@ -1,13 +1,55 @@
-PN,21400
-SC,0000
+PN,21401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F214A1783894719
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1783920093
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CSunday
-OL,5,G2300 As BBC Radio 5 Live
-OL,6,     FJoining Radio 5 Live.
+OL,3,V}yyy5CMonday                  G1/2
+OL,5,G0600 Radio Scotland Breakfast
+OL,6,     FNews from across Scotland and the
+OL,7,     Fworld, plus sport, weather,
+OL,8,     Fentertainment and big name
+OL,9,     Finterviews.
+OL,10,G0900 Mornings
+OL,11,     FConnie McLaughlin gets to the
+OL,12,     Fheart of the stories making the
+OL,13,     Fnews.
+OL,14,G1200 Lunchtime Live
+OL,15,     FNews updates from Scotland and
+OL,16,     Fbeyond, plus all your lunchtime
+OL,17,     Fsport, travel and weather.
+OL,18,G1330 Radio Scotland Afternoons
+OL,19,     FThe best music, guests and arts
+OL,20,     Fcoverage.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1783920093
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CMonday                  G2/2
+OL,5,G1600 Drivetime
+OL,6,     FBreaking down the day's talking
+OL,7,     Fpoints with comment and opinion,
+OL,8,     Fplus sport, travel and weather.
+OL,9,G1800 Get It On with Bryan Burnett
+OL,10,     FTonight, we want to hear about the
+OL,11,     Fgigs where you felt short-changed
+OL,12,     Fby the brevity or those where your
+OL,13,     Ffeet were killing you as they
+OL,14,     Fplayed a set you thought would
+OL,15,     Fnever end.
+OL,16,G2000 Vic Galloway
+OL,17,     FVic's Triple A album is from Adam
+OL,18,     Fand the Ants, plus classics from
+OL,19,     FThe Clash, Associates and Yeah
+OL,20,     FYeah Yeahs, and Stevie Wonder and
+OL,21,     FCoolio feature in Parallel Lines.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100@
