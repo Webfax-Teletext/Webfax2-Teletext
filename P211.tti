@@ -2,24 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783993684
+OL,0,        ECIMSBWebfax 2   F211A1783995489
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G1/3
-OL,5,G0232 Assignment
-OL,6,     FThe fall-out from the death by
-OL,7,     Feuthanasia of Noelia Castillo in
-OL,8,     FSpain earlier this year.
-OL,9,G0300 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0306 Outlook
-OL,13,     FMiriam Lewin was a 'disappeared'
-OL,14,     Fpolitical prisoner in 1978 when
-OL,15,     FArgentina won its controversial
-OL,16,     FWorld Cup - she was made to cheer
-OL,17,     Fin the streets, then put back in
-OL,18,     Fdetention.
+OL,3,V}yyy5CMonday                  G1/2
+OL,5,G0306 Outlook
+OL,6,     FMiriam Lewin was a 'disappeared'
+OL,7,     Fpolitical prisoner in 1978 when
+OL,8,     FArgentina won its controversial
+OL,9,     FWorld Cup - she was made to cheer
+OL,10,     Fin the streets, then put back in
+OL,11,     Fdetention.
+OL,12,G0350 Witness History
+OL,13,     FIn 1967, an American lineman
+OL,14,     Fclimbed a power pole to give his
+OL,15,     Fcolleague mouth-to-mouth. The
+OL,16,     Fmoment was captured in a
+OL,17,     Fprize-winning photo.
+OL,18,G0400 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -27,45 +29,25 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783993684
+OL,0,        ECIMSBWebfax 2   F211A1783995489
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G2/3
-OL,5,G0350 Witness History
-OL,6,     FIn 1967, an American lineman
-OL,7,     Fclimbed a power pole to give his
-OL,8,     Fcolleague mouth-to-mouth. The
-OL,9,     Fmoment was captured in a
-OL,10,     Fprize-winning photo.
-OL,11,G0400 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0406 The Newsroom
-OL,15,     FThe world's Newsroom brings you
-OL,16,     Fglobal events as they happen.
-OL,17,G0430 BBC News Summary
-OL,18,     FThe latest two minute news summary
-OL,19,     Ffrom BBC World Service.
-OL,20,G0432 In the Studio
-OL,21,     FJordanian director Zain Duraie on
-OL,22,     Fher debut.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1783993684
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G3/3
-OL,5,G0500 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0506 Newsday
-OL,9,     FLive news, business and sport from
-OL,10,     Faround the world.
+OL,3,V}yyy5CMonday                  G2/2
+OL,5,G0406 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0430 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0432 In the Studio
+OL,12,     FJordanian director Zain Duraie on
+OL,13,     Fher debut.
+OL,14,G0500 BBC News
+OL,15,     FThe latest five minute news
+OL,16,     Fbulletin from BBC World Service.
+OL,17,G0506 Newsday
+OL,18,     FLive news, business and sport from
+OL,19,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
