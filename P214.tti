@@ -1,13 +1,77 @@
-PN,21400
-SC,0000
+PN,21401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F214A1784159285
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1784179168
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CWednesday
-OL,5,G0030 As BBC Radio 5 Live
-OL,6,     FJoining Radio 5 Live.
+OL,3,V}yyy5CThursday                G1/3
+OL,5,G0600 Radio Scotland Breakfast
+OL,6,     FNews from across Scotland and the
+OL,7,     Fworld, plus sport, weather,
+OL,8,     Fentertainment and big name
+OL,9,     Finterviews.
+OL,10,G0900 Mornings
+OL,11,     FStephen Jardine gets to the heart
+OL,12,     Fof the stories making the news.
+OL,13,G1200 Lunchtime Live
+OL,14,     FNews updates from Scotland and
+OL,15,     Fbeyond, plus all your lunchtime
+OL,16,     Fsport, travel and weather.
+OL,17,G1330 Radio Scotland Afternoons
+OL,18,     FThe best music, guests and arts
+OL,19,     Fcoverage.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1784179168
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CThursday                G2/3
+OL,5,G1600 Drivetime
+OL,6,     FBreaking down the day's talking
+OL,7,     Fpoints with comment and opinion,
+OL,8,     Fplus sport, travel and weather.
+OL,9,G1800 Get It On with Roddy Hart
+OL,10,     FWho else has dished out good
+OL,11,     Fadvice in a song? Oasis suggest
+OL,12,     Fnot looking back in anger, Jess
+OL,13,     FGlynn warns not to be hard on
+OL,14,     Fyourself, and Kacey suggests we
+OL,15,     Ffollow our own arrow.
+OL,16,G2000 Travelling Folk
+OL,17,     FMaggie MacInnes shares how finding
+OL,18,     Funheard tapes of her mother -
+OL,19,     FQueen of Gaelic singers, Flora
+OL,20,     FMacNeil - turned into a passion
+OL,21,     Fproject.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1784179168
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CThursday                G3/3
+OL,5,G2200 Up Late
+OL,6,     FThe best company to end the day,
+OL,7,     Fwith lively chat and some of your
+OL,8,     Ffavourite tunes.
+OL,9,G0000 Scotcast
+OL,10,     FMartin Geissler and the team bring
+OL,11,     Fyou thoughtful conversation and
+OL,12,     Fexpert analysis covering the most
+OL,13,     Finteresting news stories in
+OL,14,     FScotland.
+OL,15,G0030 As BBC Radio 5 Live
+OL,16,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100@
