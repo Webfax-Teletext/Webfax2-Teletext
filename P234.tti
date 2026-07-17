@@ -2,7 +2,7 @@ PN,23401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1784179168
+OL,0,        ECIMSBWebfax 2   F234A1784251098
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
 OL,3,V}yyy5CFriday                  G1/2
@@ -15,13 +15,15 @@ OL,10,     Fon BBC Sounds.
 OL,11,G1055 T20 Blast Cricket
 OL,12,     FLive ball-by-ball cricket
 OL,13,     Fcommentary of Surrey v The Blaze
-OL,14,     Fin the women's T20 Blast finals
-OL,15,     Fday at the Oval.
-OL,16,G1425 T20 Blast Cricket
-OL,17,     FLive ball-by-ball cricket
-OL,18,     Fcommentary of Hampshire Hawks v
-OL,19,     FDurham in the women's T20 Blast
-OL,20,     Ffinals day at the Oval.
+OL,14,     Fin the 1st semi-final of the
+OL,15,     FWomen's T20 Blast Finals Day at
+OL,16,     Fthe Oval.
+OL,17,G1425 T20 Blast Cricket
+OL,18,     FLive ball-by-ball cricket
+OL,19,     Fcommentary of Hampshire Hawks
+OL,20,     FWomen v Durham Women in the 2nd
+OL,21,     Fsemi-final of the Women's T20
+OL,22,     FBlast Finals Day at the Oval.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,235,200,300,120,0,100
@@ -29,26 +31,27 @@ PN,23402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1784179168
+OL,0,        ECIMSBWebfax 2   F234A1784251098
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
 OL,3,V}yyy5CFriday                  G2/2
-OL,5,G1755 T20 Blast Cricket
+OL,5,G1840 T20 Blast Cricket
 OL,6,     FLive ball-by-ball cricket
-OL,7,     Fcommentary of the women's T20
-OL,8,     FBlast final at the Oval.
-OL,9,G2200 This Is Sports Extra
-OL,10,     FThis is BBC Radio 5 Sports Extra -
-OL,11,     Fbringing you even more live
-OL,12,     Fcommentaries from the world's
-OL,13,     Fgreatest sporting events. Listen
-OL,14,     Fon BBC Sounds.
-OL,15,G0000 This Is Sports Extra
-OL,16,     FThis is BBC Radio 5 Sports Extra -
-OL,17,     Fbringing you even more live
-OL,18,     Fcommentaries from the world's
-OL,19,     Fgreatest sporting events. Listen
-OL,20,     Fon BBC Sounds.
+OL,7,     Fcommentary of the final at the
+OL,8,     FWomen's T20 Blast Finals Day at
+OL,9,     Fthe Oval.
+OL,10,G2200 This Is Sports Extra
+OL,11,     FThis is BBC Radio 5 Sports Extra -
+OL,12,     Fbringing you even more live
+OL,13,     Fcommentaries from the world's
+OL,14,     Fgreatest sporting events. Listen
+OL,15,     Fon BBC Sounds.
+OL,16,G0000 This Is Sports Extra
+OL,17,     FThis is BBC Radio 5 Sports Extra -
+OL,18,     Fbringing you even more live
+OL,19,     Fcommentaries from the world's
+OL,20,     Fgreatest sporting events. Listen
+OL,21,     Fon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,235,200,300,120,0,100@
