@@ -2,24 +2,24 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G1/11
-OL,5,G1606 Outside Source
+OL,3,V}yyy5CFriday                  G1/10
+OL,5,G1706 Outside Source
 OL,6,     FA vibrant account of the day's
 OL,7,     Fevents with explanation and
 OL,8,     Freaction from those involved.
-OL,9,G1700 BBC News
+OL,9,G1800 BBC News
 OL,10,     FThe latest five minute news
 OL,11,     Fbulletin from BBC World Service.
-OL,12,G1706 Outside Source
-OL,13,     FA vibrant account of the day's
-OL,14,     Fevents with explanation and
-OL,15,     Freaction from those involved.
-OL,16,G1800 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
+OL,12,G1806 Outlook
+OL,13,     FPerforming the acrobatic Lindy Hop
+OL,14,     Fdance of the 1930s, crafting
+OL,15,     Fballets inspired by old Irish
+OL,16,     Flegends, and dancing high in the
+OL,17,     FMexican sky: three lives shaped by
+OL,18,     Fmovement.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -27,28 +27,24 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G2/11
-OL,5,G1806 Outlook
-OL,6,     FPerforming the acrobatic Lindy Hop
-OL,7,     Fdance of the 1930s, crafting
-OL,8,     Fballets inspired by old Irish
-OL,9,     Flegends, and dancing high in the
-OL,10,     FMexican sky: three lives shaped by
-OL,11,     Fmovement.
-OL,12,G1850 Witness History
-OL,13,     FA former child refugee of the
-OL,14,     FSpanish Civil War describes
-OL,15,     Freturning home as Franco rose to
-OL,16,     Fpower.
-OL,17,G1900 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G1906 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,3,V}yyy5CFriday                  G2/10
+OL,5,G1850 Witness History
+OL,6,     FA former child refugee of the
+OL,7,     FSpanish Civil War describes
+OL,8,     Freturning home as Franco rose to
+OL,9,     Fpower.
+OL,10,G1900 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G1906 The Newsroom
+OL,14,     FThe world's Newsroom brings you
+OL,15,     Fglobal events as they happen.
+OL,16,G1930 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -56,27 +52,28 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G3/11
-OL,5,G1930 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G1932 Sport Today
-OL,9,     FBBC sports correspondents tell the
-OL,10,     Fstory behind today's top sporting
-OL,11,     Fnews, with interviews and reports
-OL,12,     Ffrom across the world.
-OL,13,G2000 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G2006 BBC Conversations
-OL,17,     FWomen share their experiences of
-OL,18,     Ffertility treatment.
-OL,19,G2030 BBC News Summary
-OL,20,     FThe latest two minute news summary
-OL,21,     Ffrom BBC World Service.
+OL,3,V}yyy5CFriday                  G3/10
+OL,5,G1932 Sport Today
+OL,6,     FBBC sports correspondents tell the
+OL,7,     Fstory behind today's top sporting
+OL,8,     Fnews, with interviews and reports
+OL,9,     Ffrom across the world.
+OL,10,G2000 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G2006 BBC Conversations
+OL,14,     FWomen share their experiences of
+OL,15,     Ffertility treatment.
+OL,16,G2030 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
+OL,19,G2032 CrowdScience
+OL,20,     FSpace missions are looking for
+OL,21,     Flife, but is there a risk we could
+OL,22,     Fbe infected by anything we find?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -84,23 +81,26 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G4/11
-OL,5,G2032 CrowdScience
-OL,6,     FSpace missions are looking for
-OL,7,     Flife, but is there a risk we could
-OL,8,     Fbe infected by anything we find?
-OL,9,G2100 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G2106 Newshour
-OL,13,     FInterviews, news and analysis of
-OL,14,     Fthe day's global events.
-OL,15,G2200 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,3,V}yyy5CFriday                  G4/10
+OL,5,G2100 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G2106 Newshour
+OL,9,     FInterviews, news and analysis of
+OL,10,     Fthe day's global events.
+OL,11,G2200 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G2206 The Interview
+OL,15,     FKatie Razzall speaks to
+OL,16,     FOscar-winning filmmaker
+OL,17,     FChristopher Nolan about his
+OL,18,     Fbig-screen adaptation of Homer's
+OL,19,     Fepic ancient Greek story, The
+OL,20,     FOdyssey.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -108,26 +108,28 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G5/11
-OL,5,G2206 The Interview
-OL,6,     FKatie Razzall speaks to
-OL,7,     FOscar-winning filmmaker
-OL,8,     FChristopher Nolan about his
-OL,9,     Fbig-screen adaptation of Homer's
-OL,10,     Fepic ancient Greek story, The
-OL,11,     FOdyssey.
-OL,12,G2230 BBC News Summary
-OL,13,     FThe latest two minute news summary
-OL,14,     Ffrom BBC World Service.
-OL,15,G2232 Heart and Soul
-OL,16,     FHarry Haft survived more than 70
-OL,17,     Fdeath matches inside Nazi
-OL,18,     Fconcentration camps and went on to
-OL,19,     FUS boxing rings. His son reveals
-OL,20,     Fthe deeper cost of survival.
+OL,3,V}yyy5CFriday                  G5/10
+OL,5,G2230 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G2232 Heart and Soul
+OL,9,     FHarry Haft survived more than 70
+OL,10,     Fdeath matches inside Nazi
+OL,11,     Fconcentration camps and went on to
+OL,12,     FUS boxing rings. His son reveals
+OL,13,     Fthe deeper cost of survival.
+OL,14,G2300 BBC News
+OL,15,     FThe latest five minute news
+OL,16,     Fbulletin from BBC World Service.
+OL,17,G2306 The Newsroom
+OL,18,     FThe world's Newsroom brings you
+OL,19,     Fglobal events as they happen.
+OL,20,G2330 BBC News Summary
+OL,21,     FThe latest two minute news summary
+OL,22,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -135,24 +137,24 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G6/11
-OL,5,G2300 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G2306 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G2330 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G2332 World Business Report
-OL,15,     FThe latest business and finance
-OL,16,     Fnews from around the world, on the
-OL,17,     FBBC.
-OL,18,G0000 BBC News
+OL,3,V}yyy5CFriday                  G6/10
+OL,5,G2332 World Business Report
+OL,6,     FThe latest business and finance
+OL,7,     Fnews from around the world, on the
+OL,8,     FBBC.
+OL,9,G0000 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0006 Unexpected Elements
+OL,13,     FAs a blockbuster adaptation of The
+OL,14,     FOdyssey opens in cinemas around
+OL,15,     Fthe world, we explore the
+OL,16,     Funexpected science inspired by the
+OL,17,     Fepic Greek poem.
+OL,18,G0100 BBC News
 OL,19,     FThe latest five minute news
 OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
@@ -162,25 +164,26 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G7/11
-OL,5,G0006 Unexpected Elements
-OL,6,     FAs a blockbuster adaptation of The
-OL,7,     FOdyssey opens in cinemas around
-OL,8,     Fthe world, we explore the
-OL,9,     Funexpected science inspired by the
-OL,10,     Fepic Greek poem.
-OL,11,G0100 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0106 The Newsroom
-OL,15,     FThe world's Newsroom brings you
-OL,16,     Fglobal events as they happen.
-OL,17,G0130 BBC News Summary
-OL,18,     FThe latest two minute news summary
-OL,19,     Ffrom BBC World Service.
+OL,3,V}yyy5CFriday                  G7/10
+OL,5,G0106 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0130 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0132 The Global Story
+OL,12,     FAs the tournament wraps up, what
+OL,13,     Fdid it mean to the US and did it
+OL,14,     Fchange anything?
+OL,15,G0200 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
+OL,18,G0206 The Newsroom
+OL,19,     FThe world's Newsroom brings you
+OL,20,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -188,28 +191,28 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G8/11
-OL,5,G0132 The Global Story
-OL,6,     FAs the tournament wraps up, what
-OL,7,     Fdid it mean to the US and did it
-OL,8,     Fchange anything?
-OL,9,G0200 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0206 The Newsroom
-OL,13,     FThe world's Newsroom brings you
-OL,14,     Fglobal events as they happen.
-OL,15,G0230 BBC News Summary
-OL,16,     FThe latest two minute news summary
-OL,17,     Ffrom BBC World Service.
-OL,18,G0232 Stumped
-OL,19,     FFormer Leicester City and Austria
-OL,20,     Fcaptain Christian Fuchs discusses
-OL,21,     Fhis new love for hitting sixes,
-OL,22,     Fvillage cricket and sledging.
+OL,3,V}yyy5CFriday                  G8/10
+OL,5,G0230 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G0232 Stumped
+OL,9,     FFormer Leicester City and Austria
+OL,10,     Fcaptain Christian Fuchs discusses
+OL,11,     Fhis new love for hitting sixes,
+OL,12,     Fvillage cricket and sledging.
+OL,13,G0300 BBC News
+OL,14,     FThe latest five minute news
+OL,15,     Fbulletin from BBC World Service.
+OL,16,G0306 Outlook
+OL,17,     FPerforming the acrobatic Lindy Hop
+OL,18,     Fdance of the 1930s, crafting
+OL,19,     Fballets inspired by old Irish
+OL,20,     Flegends, and dancing high in the
+OL,21,     FMexican sky: three lives shaped by
+OL,22,     Fmovement.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -217,28 +220,27 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G9/11
-OL,5,G0300 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0306 Outlook
-OL,9,     FPerforming the acrobatic Lindy Hop
-OL,10,     Fdance of the 1930s, crafting
-OL,11,     Fballets inspired by old Irish
-OL,12,     Flegends, and dancing high in the
-OL,13,     FMexican sky: three lives shaped by
-OL,14,     Fmovement.
-OL,15,G0350 Witness History
-OL,16,     FA former child refugee of the
-OL,17,     FSpanish Civil War describes
-OL,18,     Freturning home as Franco rose to
-OL,19,     Fpower.
-OL,20,G0400 BBC News
-OL,21,     FThe latest five minute news
-OL,22,     Fbulletin from BBC World Service.
+OL,3,V}yyy5CFriday                  G9/10
+OL,5,G0350 Witness History
+OL,6,     FA former child refugee of the
+OL,7,     FSpanish Civil War describes
+OL,8,     Freturning home as Franco rose to
+OL,9,     Fpower.
+OL,10,G0400 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G0406 Unexpected Elements
+OL,14,     FAs a blockbuster adaptation of The
+OL,15,     FOdyssey opens in cinemas around
+OL,16,     Fthe world, we explore the
+OL,17,     Funexpected science inspired by the
+OL,18,     Fepic Greek poem.
+OL,19,G0500 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -246,47 +248,27 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
+OL,0,        ECIMSBWebfax 2   F211A1784305095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                 G10/11
-OL,5,G0406 Unexpected Elements
-OL,6,     FAs a blockbuster adaptation of The
-OL,7,     FOdyssey opens in cinemas around
-OL,8,     Fthe world, we explore the
-OL,9,     Funexpected science inspired by the
-OL,10,     Fepic Greek poem.
-OL,11,G0500 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0506 The Newsroom
-OL,15,     FThe world's Newsroom brings you
-OL,16,     Fglobal events as they happen.
-OL,17,G0530 BBC News Summary
-OL,18,     FThe latest two minute news summary
-OL,19,     Ffrom BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21111
-SC,0011
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784301514
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                 G11/11
-OL,5,G0532 More than the Score
-OL,6,     FDiscus thrower Alex Rose won
-OL,7,     FSamoa's first ever medal at a
-OL,8,     FWorld Athletics Championship,
-OL,9,     Fwhile also working full time. Ade
-OL,10,     FAdedoyin hears how he balances his
-OL,11,     Fmany priorities.
-OL,12,G0550 More or Less
-OL,13,     FTim Harford explains the numbers
-OL,14,     Fand statistics in the news and in
-OL,15,     Flife.
+OL,3,V}yyy5CFriday                 G10/10
+OL,5,G0506 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0530 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0532 More than the Score
+OL,12,     FDiscus thrower Alex Rose won
+OL,13,     FSamoa's first ever medal at a
+OL,14,     FWorld Athletics Championship,
+OL,15,     Fwhile also working full time. Ade
+OL,16,     FAdedoyin hears how he balances his
+OL,17,     Fmany priorities.
+OL,18,G0550 More or Less
+OL,19,     FTim Harford explains the numbers
+OL,20,     Fand statistics in the news and in
+OL,21,     Flife.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
