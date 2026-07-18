@@ -2,23 +2,26 @@ PN,20401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G1/9
-OL,5,G1130 From Our Own Correspondent
-OL,6,     FBangladesh was once a childhood
-OL,7,     Fvaccination success story, but as
-OL,8,     Frates have dropped, measles cases
-OL,9,     Fhave soared and hundreds of
-OL,10,     Fchildren have died as hospitals
-OL,11,     Fstruggle to cope.
-OL,12,G1200 News Summary
-OL,13,G1204 Money Box
-OL,14,     FThe growth in gazundering as more
-OL,15,     Fpeople buying a home slash the
-OL,16,     Fprice they will pay days before
-OL,17,     Fthe contracts are signed.
+OL,5,G1204 Money Box
+OL,6,     FThe growth in gazundering as more
+OL,7,     Fpeople buying a home slash the
+OL,8,     Fprice they will pay days before
+OL,9,     Fthe contracts are signed.
+OL,10,G1230 Dead Ringers
+OL,11,     F6/6. The Dead Ringers team train
+OL,12,     Ftheir vocal firepower on the
+OL,13,     Fweek's news. This week: England
+OL,14,     Fare out, Starmer is out, and
+OL,15,     FKatherine Jenkins has a potty
+OL,16,     Fmouth.
+OL,17,G1257 Weather Forecast
+OL,18,G1300 News Bulletin
+OL,19,     FNational and international news
+OL,20,     Ffrom BBC Radio 4.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -26,28 +29,25 @@ PN,20402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G2/9
-OL,5,G1230 Dead Ringers
-OL,6,     F6/6. The Dead Ringers team train
-OL,7,     Ftheir vocal firepower on the
-OL,8,     Fweek's news. This week: England
-OL,9,     Fare out, Starmer is out, and
-OL,10,     FKatherine Jenkins has a potty
-OL,11,     Fmouth.
-OL,12,G1257 Weather Forecast
-OL,13,G1300 News Bulletin
-OL,14,     FNational and international news
-OL,15,     Ffrom BBC Radio 4.
-OL,16,G1310 Any Questions?
-OL,17,     FAlex Forsyth presents political
-OL,18,     Fdebate from The Constable Memorial
-OL,19,     FHall, East Bergholt, Suffolk, with
-OL,20,     FBaroness Coffey, Baroness Bennett,
-OL,21,     FLiam Halligan and Baroness
-OL,22,     FHazarika.
+OL,5,G1310 Any Questions?
+OL,6,     FAlex Forsyth presents political
+OL,7,     Fdebate from The Constable Memorial
+OL,8,     FHall, East Bergholt, Suffolk, with
+OL,9,     FBaroness Coffey, Baroness Bennett,
+OL,10,     FLiam Halligan and Baroness
+OL,11,     FHazarika.
+OL,12,G1405 Any Answers?
+OL,13,     FListeners respond to the issues
+OL,14,     Fraised in the preceding edition of
+OL,15,     FAny Questions?
+OL,16,G1445 The Archers
+OL,17,     FLynda faces a shocking accusation,
+OL,18,     Fand Kate has a controversial
+OL,19,     Fsuggestion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -55,27 +55,21 @@ PN,20403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G3/9
-OL,5,G1405 Any Answers?
-OL,6,     FListeners respond to the issues
-OL,7,     Fraised in the preceding edition of
-OL,8,     FAny Questions?
-OL,9,G1445 The Archers
-OL,10,     FLynda faces a shocking accusation,
-OL,11,     Fand Kate has a controversial
-OL,12,     Fsuggestion.
-OL,13,G1500 Dangerous Liaisons
-OL,14,     F1/2. Tanya Moodie, Nicola Coughlan
-OL,15,     Fand Ray Fearon star in this dark
-OL,16,     Fand scandalously funny French
-OL,17,     Fmasterpiece, in a brand new
-OL,18,     Fversion by Sian Ejiwunmi-Le Berre.
-OL,19,G1600 Weekend Woman's Hour
-OL,20,     FHighlights from the Woman's Hour
-OL,21,     Fweek.
+OL,5,G1500 Dangerous Liaisons
+OL,6,     F1/2. Tanya Moodie, Nicola Coughlan
+OL,7,     Fand Ray Fearon star in this dark
+OL,8,     Fand scandalously funny French
+OL,9,     Fmasterpiece, in a brand new
+OL,10,     Fversion by Sian Ejiwunmi-Le Berre.
+OL,11,G1600 Weekend Woman's Hour
+OL,12,     FHighlights from the Woman's Hour
+OL,13,     Fweek.
+OL,14,G1700 Saturday PM
+OL,15,     FFull coverage of the day's news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -83,23 +77,27 @@ PN,20404
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G4/9
-OL,5,G1700 Saturday PM
-OL,6,     FFull coverage of the day's news.
-OL,7,G1730 Political Thinking with Nick
-OL,8,G     Robinson
-OL,9,     FReform UK's Robert Jenrick on
-OL,10,     Fwhether calling politicians
-OL,11,     Fracists and traitors is dangerous,
-OL,12,     Fand why being super wealthy
-OL,13,     Fdoesn't make you part of the
-OL,14,     Festablishment.
-OL,15,G1754 Shipping Forecast
-OL,16,G1757 Weather Forecast
-OL,17,G1800 Six O'Clock News
+OL,5,G1730 Political Thinking with Nick
+OL,6,G     Robinson
+OL,7,     FReform UK's Robert Jenrick on
+OL,8,     Fwhether calling politicians
+OL,9,     Fracists and traitors is dangerous,
+OL,10,     Fand why being super wealthy
+OL,11,     Fdoesn't make you part of the
+OL,12,     Festablishment.
+OL,13,G1754 Shipping Forecast
+OL,14,G1757 Weather Forecast
+OL,15,G1800 Six O'Clock News
+OL,16,G1815 Loose Ends
+OL,17,     FRuthie Henshall, Tez Ilyas and Joe
+OL,18,     FPasquale join Kiri
+OL,19,     FPritchard-McLean with music from
+OL,20,     FMica Millar and Dave McCabe (of
+OL,21,     FThe Zutons).
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -107,23 +105,28 @@ PN,20405
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G5/9
-OL,5,G1815 Loose Ends
-OL,6,     FRuthie Henshall, Tez Ilyas and Joe
-OL,7,     FPasquale join Kiri
-OL,8,     FPritchard-McLean with music from
-OL,9,     FMica Millar and Dave McCabe (of
-OL,10,     FThe Zutons).
-OL,11,G1900 Profile
-OL,12,     FThe New Labour old boy was at one
-OL,13,     Ftime a front runner to lead his
-OL,14,     Fparty. But after a scandalous
-OL,15,     Fresignation from Gordon Brown's
-OL,16,     FCabinet, his political career was
-OL,17,     Fover... until now.
+OL,5,G1900 Profile
+OL,6,     FThe New Labour old boy was at one
+OL,7,     Ftime a front runner to lead his
+OL,8,     Fparty. But after a scandalous
+OL,9,     Fresignation from Gordon Brown's
+OL,10,     FCabinet, his political career was
+OL,11,     Fover... until now.
+OL,12,G1915 How Boarding Schools Shaped
+OL,13,G     Britain
+OL,14,     FNicky Campbell explores the codes
+OL,15,     Fof British boarding schools, how
+OL,16,     Fthey shaped leaders, and for some,
+OL,17,     Fleft life-long scars and deep
+OL,18,     Femotional trauma.
+OL,19,G2000 Alan Watts: The Brahman of Bromley
+OL,20,     FJarvis Cocker explores the life,
+OL,21,     Fdeath and digital reincarnation of
+OL,22,     Fphilosopher Alan Watts.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -131,28 +134,24 @@ PN,20406
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G6/9
-OL,5,G1915 How Boarding Schools Shaped
-OL,6,G     Britain
-OL,7,     FNicky Campbell explores the codes
-OL,8,     Fof British boarding schools, how
-OL,9,     Fthey shaped leaders, and for some,
-OL,10,     Fleft life-long scars and deep
-OL,11,     Femotional trauma.
-OL,12,G2000 Alan Watts: The Brahman of Bromley
-OL,13,     FJarvis Cocker explores the life,
-OL,14,     Fdeath and digital reincarnation of
-OL,15,     Fphilosopher Alan Watts.
-OL,16,G2100 Ten Years After Brexit
-OL,17,     FAlex Forsyth and guests examine
-OL,18,     Fthe effects of Brexit, ten years
-OL,19,     Fon.
-OL,20,G2200 News Bulletin
-OL,21,     FNational and international news
-OL,22,     Ffrom BBC Radio 4.
+OL,5,G2100 Ten Years After Brexit
+OL,6,     FAlex Forsyth and guests examine
+OL,7,     Fthe effects of Brexit, ten years
+OL,8,     Fon.
+OL,9,G2200 News Bulletin
+OL,10,     FNational and international news
+OL,11,     Ffrom BBC Radio 4.
+OL,12,G2215 The Food Programme
+OL,13,     FSoaring cacao prices broke all
+OL,14,     Frecords and then they crashed. Dan
+OL,15,     FSaladino explores the fallout, the
+OL,16,     Fimpact on farmers, their
+OL,17,     Fcommunities, industry players and
+OL,18,     Fchocolate lovers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -160,24 +159,25 @@ PN,20407
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G7/9
-OL,5,G2215 The Food Programme
-OL,6,     FSoaring cacao prices broke all
-OL,7,     Frecords and then they crashed. Dan
-OL,8,     FSaladino explores the fallout, the
-OL,9,     Fimpact on farmers, their
-OL,10,     Fcommunities, industry players and
-OL,11,     Fchocolate lovers.
-OL,12,G2300 Parish Matters
-OL,13,     FNew comedy set in an Ulster Parish
-OL,14,     Fsomewhere near the border.
-OL,15,     FChairperson Margot's son Diarmuid
-OL,16,     Fis kidnapped and an Health and
-OL,17,     FWellness officer gets into
-OL,18,     Forganised crime.
+OL,5,G2300 Parish Matters
+OL,6,     FNew comedy set in an Ulster Parish
+OL,7,     Fsomewhere near the border.
+OL,8,     FChairperson Margot's son Diarmuid
+OL,9,     Fis kidnapped and an Health and
+OL,10,     FWellness officer gets into
+OL,11,     Forganised crime.
+OL,12,G2330 Around the World in 80 Ways
+OL,13,     FFrom hidden wine cellars to
+OL,14,     Funlikely sporting challenges and
+OL,15,     Fsome of Europe's strangest
+OL,16,     Fmuseums, Simon Reeve hosts a
+OL,17,     Fgeography quiz where two teams
+OL,18,     Frace across Europe.
+OL,19,G0000 Midnight News
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -185,28 +185,26 @@ PN,20408
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G8/9
-OL,5,G2330 Around the World in 80 Ways
-OL,6,     FFrom hidden wine cellars to
-OL,7,     Funlikely sporting challenges and
-OL,8,     Fsome of Europe's strangest
-OL,9,     Fmuseums, Simon Reeve hosts a
-OL,10,     Fgeography quiz where two teams
-OL,11,     Frace across Europe.
-OL,12,G0000 Midnight News
-OL,13,G0015 Take Four Books
-OL,14,     FPresenter James Crawford speaks to
-OL,15,     Faward-winning American author
-OL,16,     FElizabeth Strout about her new
-OL,17,     Fbook The Things We Never Say and
-OL,18,     Fits three key literary influences.
-OL,19,G0048 Shipping Forecast
-OL,20,G0100 World Service
-OL,21,     FBBC Radio 4 joins the BBC World
-OL,22,     FService.
+OL,5,G0015 Take Four Books
+OL,6,     FPresenter James Crawford speaks to
+OL,7,     Faward-winning American author
+OL,8,     FElizabeth Strout about her new
+OL,9,     Fbook The Things We Never Say and
+OL,10,     Fits three key literary influences.
+OL,11,G0048 Shipping Forecast
+OL,12,G0100 World Service
+OL,13,     FBBC Radio 4 joins the BBC World
+OL,14,     FService.
+OL,15,G0530 News Summary
+OL,16,G0534 Shipping Forecast
+OL,17,G0543 Bells on Sunday
+OL,18,     FBells on Sunday comes from the
+OL,19,     FChurch of St Chad in Pattingham,
+OL,20,     FStaffordshire.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -214,22 +212,16 @@ PN,20409
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1784371691
+OL,0,        ECIMSBWebfax 2   F204A1784373505
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G9/9
-OL,5,G0530 News Summary
-OL,6,G0534 Shipping Forecast
-OL,7,G0543 Bells on Sunday
-OL,8,     FBells on Sunday comes from the
-OL,9,     FChurch of St Chad in Pattingham,
-OL,10,     FStaffordshire.
-OL,11,G0545 In Touch
-OL,12,     FWith the rise of assistive
-OL,13,     Ftechnologies, In Touch discusses
-OL,14,     Fthe future of braille and whether
-OL,15,     Fit is worth today's visually
-OL,16,     Fimpaired youngsters learning it.
+OL,5,G0545 In Touch
+OL,6,     FWith the rise of assistive
+OL,7,     Ftechnologies, In Touch discusses
+OL,8,     Fthe future of braille and whether
+OL,9,     Fit is worth today's visually
+OL,10,     Fimpaired youngsters learning it.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100@
