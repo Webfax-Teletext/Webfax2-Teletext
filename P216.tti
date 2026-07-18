@@ -1,44 +1,29 @@
-PN,21601
-SC,0001
+PN,21600
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F216A1784380723
+PS,8008
+OL,0,        ECIMSBWebfax 2   F216A1784387900
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
-OL,3,V}yyy5CSaturday                G1/2
-OL,5,G1400 The Sport Summer Social
-OL,6,     FGreat music, sporting chat and
-OL,7,     Fcommentary for your Saturday
-OL,8,     Fafternoon.
-OL,9,G1600 Scrum V Live
-OL,10,     FLive commentary of South Africa v
-OL,11,     FWales. Kick-off 4.40pm.
-OL,12,G1900 Molly Palmer
-OL,13,     FMolly is in for Beth with tunes,
-OL,14,     Fclassic and new, for your Saturday
-OL,15,     Fnight. Plus the Wales Mix.
-OL,16,G2100 BBC Introducing with Adam Walton
-OL,17,     FThe best in new Welsh music,
-OL,18,     Fexclusive sessions, interviews and
-OL,19,     Fdemos.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,217,200,300,120,0,100
-PN,21602
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F216A1784380723
-OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
-OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
-OL,3,V}yyy5CSaturday                G2/2
-OL,5,G0000 Relax with Radio Wales
-OL,6,     FRelax, unwind and chill out with
-OL,7,     Fan hour of classic and
-OL,8,     Fcontemporary tunes.
-OL,9,G0100 As BBC Radio 5 Live
-OL,10,     FSee listings for BBC Radio 5 Live
-OL,11,     Fon BBC Sounds.
+OL,3,V}yyy5CSaturday
+OL,5,G1600 Scrum V Live
+OL,6,     FLive commentary of South Africa v
+OL,7,     FWales. Kick-off 4.40pm.
+OL,8,G1900 Molly Palmer
+OL,9,     FMolly is in for Beth with tunes,
+OL,10,     Fclassic and new, for your Saturday
+OL,11,     Fnight. Plus the Wales Mix.
+OL,12,G2100 BBC Introducing with Adam Walton
+OL,13,     FThe best in new Welsh music,
+OL,14,     Fexclusive sessions, interviews and
+OL,15,     Fdemos.
+OL,16,G0000 Relax with Radio Wales
+OL,17,     FRelax, unwind and chill out with
+OL,18,     Fan hour of classic and
+OL,19,     Fcontemporary tunes.
+OL,20,G0100 As BBC Radio 5 Live
+OL,21,     FSee listings for BBC Radio 5 Live
+OL,22,     Fon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,217,200,300,120,0,100@
