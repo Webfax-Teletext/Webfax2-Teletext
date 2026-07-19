@@ -1,16 +1,46 @@
-PN,25500
-SC,0000
+PN,25501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F255A1784420323
+PS,c008
+OL,0,        ECIMSBWebfax 2   F255A1784438368
 OL,1,Vzssssss{0Ww;js%7+ j+jjjj;
 OL,2,Vupp=wfff5W-.*,%-. *.*..**V(,,,,,,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSunday                  G1/2
+OL,5,G0600 Donna Alos on BBC CWR
+OL,6,     FSunday morning news, information,
+OL,7,     Fadvice and great music with Donna.
+OL,8,G1000 Darren Harriott on BBC CWR
+OL,9,     FJoin Darren for fun, laughs and
+OL,10,     Fgreat music for your Sunday
+OL,11,     Flunchtime.
+OL,12,G1400 The Make a Difference Show
+OL,13,     FGaby Roslin talks to some amazing
+OL,14,     Fpeople making a difference where
+OL,15,     Fwe live.
+OL,16,G1800 Dotun Adebayo
+OL,17,     FJacqueline Shepherd brings you the
+OL,18,     Fbest of community programming from
+OL,19,     Facross England.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,256,250,301,140,0,100
+PN,25502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F255A1784438368
+OL,1,Vzssssss{0Ww;js%7+ j+jjjj;
+OL,2,Vupp=wfff5W-.*,%-. *.*..**V(,,,,,,,,,,,,
+OL,3,V}yyy5CSunday                  G2/2
+OL,5,G2200 The Late Show
+OL,6,     FAsma Younus with late-night
+OL,7,     Fconversation, stories and the
+OL,8,     Fsoundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,256,250,301,140,0,100@

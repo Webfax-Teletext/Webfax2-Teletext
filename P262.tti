@@ -1,16 +1,49 @@
-PN,26200
-SC,0000
+PN,26201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F262A1784420323
+PS,c008
+OL,0,        ECIMSBWebfax 2   F262A1784438367
 OL,1,Vzssssss{0Ww;js%7+ jz`tjjj
 OL,2,Vupp=wfff5W-.*,%-. ** !*..V(,,,,,,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSunday                  G1/2
+OL,5,G0600 Paul Shuttleworth on BBC Hereford
+OL,6,G     & Worcester
+OL,7,     FPaul is here with Sunday morning
+OL,8,     Fmusic, conversation and faith
+OL,9,     Fdiscussion.
+OL,10,G1000 Liz Ellis on BBC Hereford &
+OL,11,G     Worcester
+OL,12,     FLiz puts a smile on your face with
+OL,13,     Fgreat guests, big events and all
+OL,14,     Fthe music you love.
+OL,15,G1400 The Make a Difference Show
+OL,16,     FGaby Roslin talks to some amazing
+OL,17,     Fpeople making a difference where
+OL,18,     Fwe live.
+OL,19,G1800 Dotun Adebayo
+OL,20,     FJacqueline Shepherd brings you the
+OL,21,     Fbest of community programming from
+OL,22,     Facross England.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,263,250,301,140,0,100
+PN,26202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F262A1784438367
+OL,1,Vzssssss{0Ww;js%7+ jz`tjjj
+OL,2,Vupp=wfff5W-.*,%-. ** !*..V(,,,,,,,,,,,,
+OL,3,V}yyy5CSunday                  G2/2
+OL,5,G2200 The Late Show
+OL,6,     FAsma Younus with late-night
+OL,7,     Fconversation, stories and the
+OL,8,     Fsoundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,263,250,301,140,0,100@
