@@ -1,16 +1,51 @@
-PN,26500
-SC,0000
+PN,26501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F265A1784512103
+PS,c008
+OL,0,        ECIMSBWebfax 2   F265A1784524761
 OL,1,Vzssssss{0Ww;js%7+ j:jsjk"7
 OL,2,Vupp=wfff5W-.*,%-. ***,** %V,,,,,,,,,,,,
-OL,3,V}yyy5CSunday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CMonday                  G1/2
+OL,5,G0600 Dominic King
+OL,6,     FAll you need for the day ahead,
+OL,7,     FKent's news and great music at
+OL,8,     Fbreakfast with Dom.
+OL,9,G1000 Anna Cookson
+OL,10,     FCelebrating where we live and
+OL,11,     Ftalking about what matters to you.
+OL,12,     FCall 0800 756 11 11.
+OL,13,G1400 Adam Dowling on BBC Radio Kent
+OL,14,     FLucy's here with great guests,
+OL,15,     Fbrilliant music and a look at the
+OL,16,     Fday's news.
+OL,17,G1800 Game Changers
+OL,18,     FYour home of great sporting
+OL,19,     Fstories from across the South
+OL,20,     FEast.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,266,250,301,140,0,100
+PN,26502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F265A1784524761
+OL,1,Vzssssss{0Ww;js%7+ j:jsjk"7
+OL,2,Vupp=wfff5W-.*,%-. ***,** %V,,,,,,,,,,,,
+OL,3,V}yyy5CMonday                  G2/2
+OL,5,G1900 Rena Annobil
+OL,6,     FSpend Monday night with Rena for
+OL,7,     Fstories and great music from Asian
+OL,8,     Fcommunities.
+OL,9,G2200 The Late Show
+OL,10,     FBecky Want with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,266,250,301,140,0,100@
