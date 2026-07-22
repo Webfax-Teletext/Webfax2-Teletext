@@ -1,7 +1,7 @@
 PN,1fc00
 SC,0000
 PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1784760490
+OL,0,        ECIMSBWebfax 2   F1fcA1784762300
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1784760489;
-OL,10,GService: Webfax 2 - 16918 d297679a19
-OL,11,FLast Update: 22/07/2026 23:48:09      
+OL,25,1784762299;
+OL,10,GService: Webfax 2 - 16919 5a7972b145
+OL,11,FLast Update: 23/07/2026 00:18:19      
 OL,13,Ageneric/lottery            G22/07-21:15
 OL,14,Ageneric/tube_status        G22/07-21:15
 OL,15,AitvSport/border            G22/07-21:15
@@ -23,3 +23,5 @@ OL,16,AitvSport/calendar          G22/07-21:15
 OL,17,AitvSport/meridian          G22/07-21:15
 OL,18,AitvSport/wales             G22/07-21:15
 OL,19,AitvSport/westcountry       G22/07-21:15
+OL,20,AiNMS/comments.json         G23/07-00:11
+OL,21,AiNMS/onthisday/            G23/07-00:11
