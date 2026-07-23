@@ -2,10 +2,10 @@ PN,24201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1784769495
+OL,0,        ECIMSBWebfax 2   F242A1784783966
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CThursday                G1/4
+OL,3,V}yyy5CFriday                  G1/4
 OL,5,G0530 John Hardy
 OL,6,     FCerddoriaeth a chwmniaeth ben
 OL,7,     Fbore, gydag Irfon Jones yn sedd
@@ -15,13 +15,15 @@ OL,10,     FJohn Hardy.
 OL,11,G0700 Dros Frecwast
 OL,12,     FY newyddion diweddaraf yng Nghymru
 OL,13,     Fa thu hwnt, gyda Kate Crockett a
-OL,14,     FDylan Ebenezer. The latest news in
-OL,15,     FWales and beyond, presented by
-OL,16,     FKate Crockett and Dylan Ebenezer.
-OL,17,G0900 Aled Hughes
-OL,18,     FStraeon cyfredol, cerddoriaeth, a
-OL,19,     Fholi'r cwestiynau sydd ar feddwl
-OL,20,     Fpawb. Topical stories and music.
+OL,14,     FGwenllian Grigg. The latest news
+OL,15,     Fin Wales and beyond, presented by
+OL,16,     FKate Crockett and Gwenllian Grigg.
+OL,17,G0900 Trystan ac Emma
+OL,18,     FCerddoriaeth ac adloniant gyda
+OL,19,     FTrystan Ellis-Morris ac Emma
+OL,20,     FWalford. Music and entertainment
+OL,21,     Fwith Trystan Ellis-Morris and Emma
+OL,22,     FWalford.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,243,200,300,120,0,100
@@ -29,10 +31,10 @@ PN,24202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1784769495
+OL,0,        ECIMSBWebfax 2   F242A1784783966
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CThursday                G2/4
+OL,3,V}yyy5CFriday                  G2/4
 OL,5,G1100 Bore Cothi
 OL,6,     FCroeso cynnes dros baned gyda Shan
 OL,7,     FCothi. A warm welcome over a cuppa
@@ -42,15 +44,13 @@ OL,10,     FTrin a thrafod Cymru a'r byd, gan
 OL,11,     Fgodi'r pynciau a gofyn y
 OL,12,     Fcwestiynau sy'n bwysig i chi.
 OL,13,     FDiscussing Wales and the world.
-OL,14,G1400 Ifan Jones Evans
-OL,15,     FMarc Griffiths sy'n cyflwyno'r
-OL,16,     Frhaglen yn fyw o'r Sioe Fawr. Marc
-OL,17,     FGriffiths live from the Royal
-OL,18,     FWelsh Showground.
-OL,19,G1700 Post Prynhawn
-OL,20,     FNewyddion y dydd yng Nghymru a thu
-OL,21,     Fhwnt. The day's news in Wales and
-OL,22,     Fbeyond.
+OL,14,G1400 Lisa Angharad
+OL,15,     FDewch i ddechrau'r penwythnos gyda
+OL,16,     Fcherddoriaeth a hwyl yng nghwmni
+OL,17,     FMel Owen yn lle Lisa Angharad.
+OL,18,     FMusic and fun to start the weekend
+OL,19,     Fwith Mel Owen sitting in for Lisa
+OL,20,     FAngharad.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,243,200,300,120,0,100
@@ -58,24 +58,28 @@ PN,24203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1784769495
+OL,0,        ECIMSBWebfax 2   F242A1784783966
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CThursday                G3/4
-OL,5,G1800 Beti a'i Phobol
-OL,6,     FBeti George sydd yn holi Dr Simon
-OL,7,     FBrooks. Beti George interviews Dr
-OL,8,     FSimon Brooks.
-OL,9,G1900 Ifan Davies
-OL,10,     FDwy awr o'r gerddoriaeth orau o
-OL,11,     Ffyd Ifan Davies a'r criw. Two
-OL,12,     Fhours of the best music from Ifan
-OL,13,     FDavies and the crew.
-OL,14,G2100 Caryl
-OL,15,     FY cerddor Owen Powell sy'n ymuno
-OL,16,     Fgyda Caryl Parry Jones i fynd
-OL,17,     FTrwy'r Traciau. Music and fun with
-OL,18,     FCaryl Parry Jones.
+OL,3,V}yyy5CFriday                  G3/4
+OL,5,G1700 Post Prynhawn
+OL,6,     FNewyddion y dydd yng Nghymru a thu
+OL,7,     Fhwnt. The day's news in Wales and
+OL,8,     Fbeyond.
+OL,9,G1800 Lauren Moore
+OL,10,     FCerddoriaeth ar gyfer nos Wener
+OL,11,     Fyng nghwmni Lauren Moore. Friday
+OL,12,     Fnight music with Lauren Moore.
+OL,13,G2100 Ffion Emyr
+OL,14,     FTair awr o gerddoriaeth a
+OL,15,     Fchwmniaeth yng nghwmni Ffion Emyr.
+OL,16,     FThree hours of music and
+OL,17,     Fcompanionship with Ffion Emyr.
+OL,18,G0000 Gweler BBC World Service
+OL,19,     FMae Radio Cymru'n ymuno a'r BBC
+OL,20,     FWorld Service dros nos. Radio
+OL,21,     FCymru joins the BBC World Service
+OL,22,     Fovernight.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,243,200,300,120,0,100
@@ -83,27 +87,17 @@ PN,24204
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1784769495
+OL,0,        ECIMSBWebfax 2   F242A1784783966
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CThursday                G4/4
-OL,5,G2300 Y Clwb PJs
-OL,6,     FYmunwch a Caryl i ymlacio wrth
-OL,7,     Fwrando ar gerddoriaeth hudolus cyn
-OL,8,     Fcysgu. Unwind with Caryl while
-OL,9,     Flistening to soothing music before
-OL,10,     Fsleeping.
-OL,11,G0000 Gweler BBC World Service
-OL,12,     FMae Radio Cymru'n ymuno a'r BBC
-OL,13,     FWorld Service dros nos. Radio
-OL,14,     FCymru joins the BBC World Service
-OL,15,     Fovernight.
-OL,16,G0530 John Hardy
-OL,17,     FCerddoriaeth a chwmniaeth ben
-OL,18,     Fbore, gydag Irfon Jones yn sedd
-OL,19,     FJohn Hardy. Early breakfast show
-OL,20,     Fwith Irfon Jones sitting in for
-OL,21,     FJohn Hardy.
+OL,3,V}yyy5CFriday                  G4/4
+OL,5,G0530 Huw Stephens
+OL,6,     FCerddoriaeth newydd a hen, wedi'i
+OL,7,     Fddewis yn wythnosol gan Huw
+OL,8,     FStephens o'i gasgliad personol.
+OL,9,     FHuw Stephens selects music, old
+OL,10,     Fand new, from his personal
+OL,11,     Fcollection.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,243,200,300,120,0,100@
