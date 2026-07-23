@@ -1,55 +1,29 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784773092
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1784776695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G1/2
-OL,5,G0306 Outlook
-OL,6,     FCasey Donovan had just won a
-OL,7,     Fnational singing contest when her
-OL,8,     Flife was upended by a phone call
-OL,9,     Ffrom an unknown number. Who was
-OL,10,     Fthe voice on the other end of the
-OL,11,     Fline?
-OL,12,G0350 Witness History
-OL,13,     FIn June 1998, the first phase of a
-OL,14,     Fmountain carving of legendary
-OL,15,     FNative American leader Crazy Horse
-OL,16,     Fwas completed in South Dakota.
-OL,17,G0400 BBC News
+OL,3,V}yyy5CWednesday
+OL,5,G0406 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0430 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0432 The Food Chain
+OL,12,     FWhen should you eat dinner? We
+OL,13,     Fexplore the science of meal
+OL,14,     Ftiming, healthy evening meals and
+OL,15,     Fwhy dinner happens at different
+OL,16,     Ftimes around the world.
+OL,17,G0500 BBC News
 OL,18,     FThe latest five minute news
 OL,19,     Fbulletin from BBC World Service.
-OL,20,G0406 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1784773092
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G2/2
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 The Food Chain
-OL,9,     FWhen should you eat dinner? We
-OL,10,     Fexplore the science of meal
-OL,11,     Ftiming, healthy evening meals and
-OL,12,     Fwhy dinner happens at different
-OL,13,     Ftimes around the world.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 Newsday
-OL,18,     FLive news, business and sport from
-OL,19,     Faround the world.
+OL,20,G0506 Newsday
+OL,21,     FLive news, business and sport from
+OL,22,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
