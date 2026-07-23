@@ -2,10 +2,10 @@ PN,23701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1784783966
+OL,0,        ECIMSBWebfax 2   F237A1784812741
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
-OL,3,V}yyy5CFriday                  G1/6
+OL,3,V}yyy5CFriday                  G1/7
 OL,5,G0000 As BBC Radio 5 live
 OL,6,     FBBC Radio Ulster joins BBC Radio 5
 OL,7,     Flive.
@@ -27,10 +27,10 @@ PN,23702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1784783966
+OL,0,        ECIMSBWebfax 2   F237A1784812741
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
-OL,3,V}yyy5CFriday                  G2/6
+OL,3,V}yyy5CFriday                  G2/7
 OL,5,G1030 Vinny & Cate
 OL,6,     FFrom the kitchen to the office,
 OL,7,     Fthe work van and beyond... This is
@@ -52,10 +52,10 @@ PN,23703
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1784783966
+OL,0,        ECIMSBWebfax 2   F237A1784812741
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
-OL,3,V}yyy5CFriday                  G3/6
+OL,3,V}yyy5CFriday                  G3/7
 OL,5,G1203 Talkback
 OL,6,     FJoin the conversation on the news
 OL,7,     Fstories everyone is talking about.
@@ -81,10 +81,10 @@ PN,23704
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1784783966
+OL,0,        ECIMSBWebfax 2   F237A1784812741
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
-OL,3,V}yyy5CFriday                  G4/6
+OL,3,V}yyy5CFriday                  G4/7
 OL,5,G1600 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
@@ -107,14 +107,14 @@ PN,23705
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1784783966
+OL,0,        ECIMSBWebfax 2   F237A1784812741
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
-OL,3,V}yyy5CFriday                  G5/6
+OL,3,V}yyy5CFriday                  G5/7
 OL,5,G1805 The Ticket
 OL,6,     FFrom blockbuster movies to comedy
-OL,7,     Fgigs, Kathy Clugston has just the
-OL,8,     Fticket.
+OL,7,     Fgigs, Kathy Clugston presents the
+OL,8,     Fdefinitive guide to going out.
 OL,9,G1900 BBC News NI update
 OL,10,     FThe latest national and
 OL,11,     Finternational news.
@@ -122,11 +122,13 @@ OL,12,G1904 Stephen McCauley
 OL,13,     FStephen McCauley brings you the
 OL,14,     Fbest in alternative music from
 OL,15,     Fpunk to electronica from home and
-OL,16,     Fabroad featuring live performance,
-OL,17,     Finterviews and more.
-OL,18,G2200 BBC News NI update
-OL,19,     FThe latest national and
-OL,20,     Finternational news.
+OL,16,     Fabroad featuring Beck, De La Soul,
+OL,17,     F7ebra, Westside Cowboy, Sufjan
+OL,18,     FStevens and loads more.
+OL,19,G2100 This is BBC Radio Ulster
+OL,20,     FThis is BBC Radio Ulster
+OL,21,G2130 This is BBC Radio Ulster
+OL,22,     FThis is BBC Radio Ulster
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,238,200,300,120,0,100
@@ -134,27 +136,41 @@ PN,23706
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F237A1784783966
+OL,0,        ECIMSBWebfax 2   F237A1784812741
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
-OL,3,V}yyy5CFriday                  G6/6
-OL,5,G2204 The Late Show with Mickey Bradley
-OL,6,     FRecords by The Black Watch, Big
-OL,7,     FLightnin', Joe South, Gay Skeleton
-OL,8,     FClub, The Klittens, Johnny Moped
-OL,9,     Fand more.
-OL,10,G2355 BBC News NI update
-OL,11,     FThe latest national and
-OL,12,     Finternational news.
-OL,13,G0000 Inna Rhythm with Kwame Daniels
-OL,14,     FDJ Kwame Daniels presents a satnav
-OL,15,     Fto your 'Inna Rhythm' with an
-OL,16,     Fincredible soundtrack of disco to
-OL,17,     Fboogie, electronica to Afro Beat,
-OL,18,     Fjazz to funk.
-OL,19,G0100 As BBC Radio 5 live
-OL,20,     FBBC Radio Ulster joins BBC Radio 5
-OL,21,     Flive.
+OL,3,V}yyy5CFriday                  G6/7
+OL,5,G2200 BBC News NI update
+OL,6,     FThe latest national and
+OL,7,     Finternational news.
+OL,8,G2204 The Late Show with Mickey Bradley
+OL,9,     FRecords by The Black Watch, Big
+OL,10,     FLightnin', Joe South, Gay Skeleton
+OL,11,     FClub, The Klittens, Johnny Moped
+OL,12,     Fand more.
+OL,13,G2355 BBC News NI update
+OL,14,     FThe latest national and
+OL,15,     Finternational news.
+OL,16,G0000 Inna Rhythm with Kwame Daniels
+OL,17,     FDJ Kwame Daniels presents a satnav
+OL,18,     Fto your 'Inna Rhythm' with an
+OL,19,     Fincredible soundtrack of disco to
+OL,20,     Fboogie, electronica to Afro Beat,
+OL,21,     Fjazz to funk.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,238,200,300,120,0,100
+PN,23707
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F237A1784812741
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CFriday                  G7/7
+OL,5,G0100 As BBC Radio 5 live
+OL,6,     FBBC Radio Ulster joins BBC Radio 5
+OL,7,     Flive.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,238,200,300,120,0,100@
