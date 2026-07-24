@@ -1,16 +1,48 @@
-PN,26700
-SC,0000
+PN,26701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F267A1784852329
+PS,c008
+OL,0,        ECIMSBWebfax 2   F267A1784870367
 OL,1,Vzssssss{0Ww;js%7+ j jsjsjijs
 OL,2,Vupp=wfff5W-.*,%-. *,*,*,*&(.V(,,,,,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CFriday                  G1/2
+OL,5,G0600 Rima Ahmed
+OL,6,     FWaking you up this morning, Dixie
+OL,7,     Fsits in for Rima.
+OL,8,G1000 Gayle Lofthouse
+OL,9,     FWest Yorkshire stories to make you
+OL,10,     Fsmile, mid-morning updates and the
+OL,11,     Fmusic you love.
+OL,12,G1400 Toby Foster on BBC Radio Leeds
+OL,13,     FThe day's local and national news,
+OL,14,     Fas well as great music and quizzes
+OL,15,     Fwith Toby.
+OL,16,G1800 West Yorkshire Sport Daily
+OL,17,     FTopical sports issues of the day.
+OL,18,G1900 West Yorkshire Sport: Rugby League
+OL,19,     FBBC Radio Leeds brings you
+OL,20,     Fcoverage of Wakefield v Castleford
+OL,21,     Fin Super League (8pm ko).
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,268,250,301,140,0,100
+PN,26702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F267A1784870367
+OL,1,Vzssssss{0Ww;js%7+ j jsjsjijs
+OL,2,Vupp=wfff5W-.*,%-. *,*,*,*&(.V(,,,,,,,,,
+OL,3,V}yyy5CFriday                  G2/2
+OL,5,G2200 Late Night Jo
+OL,6,     FJo Good with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekend overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,268,250,301,140,0,100@
