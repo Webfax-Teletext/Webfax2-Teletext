@@ -1,41 +1,26 @@
-PN,46301
-SC,0001
+PN,46300
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1784985528
+PS,8008
+OL,0,        ECIMSBWebfax 2   F463A1784999925
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday                G1/2
-OL,5,G1400 Sport an tSathairn
-OL,6,     FFaisneis, tuairisci, torthai,
-OL,7,     Fanailis agus trachtaireacht ar
-OL,8,     Fchursai spoirt an tSathairn.
-OL,9,G1800 Nuacht a Se
-OL,10,     FAn barr is deireanai nuachta
-OL,11,     Fnaisiunta, idirnaisiunta agus
-OL,12,     Faitiuil.
-OL,13,G1830 An Nota Ard
-OL,14,     FCeol clasaiceach le Jo Ni Cheide.
-OL,15,G1900 Chugham Aniar Sibh
-OL,16,     FCraoladh speisialta ar RTE Raidio
-OL,17,     Fna Gaeltachta an oiche roimh an
-OL,18,     Fgcluiche cinniunach idir Maigh Eo
-OL,19,     Fagus Ciarrai.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,464,250,301,140,0,100
-PN,46302
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1784985528
-OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
-OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday                G2/2
-OL,5,G2100 Rianta
-OL,6,     FClar ceoil ar linne, ceol na
-OL,7,     Fcruinne, ceolta nua agus ceolta
-OL,8,     Fnios sine.
+OL,3,V}yyy5CSaturday
+OL,5,G1800 Nuacht a Se
+OL,6,     FAn barr is deireanai nuachta
+OL,7,     Fnaisiunta, idirnaisiunta agus
+OL,8,     Faitiuil.
+OL,9,G1830 An Nota Ard
+OL,10,     FCeol clasaiceach le Jo Ni Cheide.
+OL,11,G1900 Chugham Aniar Sibh
+OL,12,     FCraoladh speisialta ar RTE Raidio
+OL,13,     Fna Gaeltachta an oiche roimh an
+OL,14,     Fgcluiche cinniunach idir Maigh Eo
+OL,15,     Fagus Ciarrai.
+OL,16,G2100 Rianta
+OL,17,     FClar ceoil ar linne, ceol na
+OL,18,     Fcruinne, ceolta nua agus ceolta
+OL,19,     Fnios sine.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100@
