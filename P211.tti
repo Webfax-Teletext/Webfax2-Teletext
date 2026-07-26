@@ -2,24 +2,27 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785030491
+OL,0,        ECIMSBWebfax 2   F211A1785032294
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday                G1/3
-OL,5,G0232 Health Check
-OL,6,     FUnderstanding testosterone and
-OL,7,     Fwhat hormone replacement therapy
-OL,8,     Fcan do to the body.
-OL,9,G0300 BBC News
+OL,5,G0306 The Documentary
+OL,6,     FIsraeli volunteers meeting ill
+OL,7,     FPalestinians at the border to
+OL,8,     Fdrive them to hospital.
+OL,9,G0400 BBC News
 OL,10,     FThe latest five minute news
 OL,11,     Fbulletin from BBC World Service.
-OL,12,G0306 The Documentary
-OL,13,     FIsraeli volunteers meeting ill
-OL,14,     FPalestinians at the border to
-OL,15,     Fdrive them to hospital.
-OL,16,G0400 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
+OL,12,G0406 From Our Own Correspondent
+OL,13,     FThe mass demonstrations which
+OL,14,     Fgripped Delhi; the aftermath of a
+OL,15,     Fmissile strike in Minab, Iran;
+OL,16,     FUkraine's military dilemmas; why
+OL,17,     Fsome Argentineans are looking for
+OL,18,     Fways into Italy.
+OL,19,G0430 BBC News Summary
+OL,20,     FThe latest two minute news summary
+OL,21,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -27,27 +30,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785030491
+OL,0,        ECIMSBWebfax 2   F211A1785032294
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday                G2/3
-OL,5,G0406 From Our Own Correspondent
-OL,6,     FThe mass demonstrations which
-OL,7,     Fgripped Delhi; the aftermath of a
-OL,8,     Fmissile strike in Minab, Iran;
-OL,9,     FUkraine's military dilemmas; why
-OL,10,     Fsome Argentineans are looking for
-OL,11,     Fways into Italy.
-OL,12,G0430 BBC News Summary
-OL,13,     FThe latest two minute news summary
-OL,14,     Ffrom BBC World Service.
-OL,15,G0432 BBC Inside Science
-OL,16,     FSecretary of Defence Peter Hegseth
-OL,17,     Fannounces testosterone therapy for
-OL,18,     Fmale US soldiers, orcas
-OL,19,     Funexpectedly explode a sunfish,
-OL,20,     Fand AI platforms solve
-OL,21,     Fmathematical conjectures.
+OL,5,G0432 BBC Inside Science
+OL,6,     FSecretary of Defence Peter Hegseth
+OL,7,     Fannounces testosterone therapy for
+OL,8,     Fmale US soldiers, orcas
+OL,9,     Funexpectedly explode a sunfish,
+OL,10,     Fand AI platforms solve
+OL,11,     Fmathematical conjectures.
+OL,12,G0500 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0506 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0530 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -55,28 +57,19 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785030491
+OL,0,        ECIMSBWebfax 2   F211A1785032294
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday                G3/3
-OL,5,G0500 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0506 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G0530 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G0532 Asia Specific
-OL,15,     FWhy is the US declining in
-OL,16,     Ffavourability, and how is China
-OL,17,     Fpulling ahead?
-OL,18,G0550 Sporting Witness
-OL,19,     FIn 1991, the National Football
-OL,20,     FLeague decided to create an
-OL,21,     FAmerican football competition in
-OL,22,     FEurope.
+OL,5,G0532 Asia Specific
+OL,6,     FWhy is the US declining in
+OL,7,     Ffavourability, and how is China
+OL,8,     Fpulling ahead?
+OL,9,G0550 Sporting Witness
+OL,10,     FIn 1991, the National Football
+OL,11,     FLeague decided to create an
+OL,12,     FAmerican football competition in
+OL,13,     FEurope.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
