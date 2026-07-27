@@ -1,44 +1,28 @@
-PN,20401
-SC,0001
+PN,20400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1785109701
+PS,8008
+OL,0,        ECIMSBWebfax 2   F204A1785111530
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSunday                  G1/2
-OL,5,G0045 Bells on Sunday
-OL,6,     FBells on Sunday comes from the
-OL,7,     FChurch of St Stephen in Old Radnor
-OL,8,     Fin Powys, Wales.
-OL,9,G0048 Shipping Forecast
-OL,10,G0100 World Service
-OL,11,     FBBC Radio 4 joins the BBC World
-OL,12,     FService.
-OL,13,G0500 News Summary
-OL,14,G0504 Last Word
-OL,15,     FGround-breaking actress Brenda
-OL,16,     FFricker, renowned Vatican
-OL,17,     Fjournalist David Willey, leading
-OL,18,     Frose grower David Austin, and
-OL,19,     Frecord-breaking aviator Wally
-OL,20,     FFunk.
-OL,21,G0534 Shipping Forecast
-OL,22,G0543 Prayer for the Day
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,205,200,300,120,0,100
-PN,20402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1785109701
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSunday                  G2/2
-OL,5,G0545 Farming Today
-OL,6,G0557 Weather for Farmers
-OL,7,     FThe latest weather reports and
-OL,8,     Fforecasts for farmers.
+OL,3,V}yyy5CSunday
+OL,5,G0100 World Service
+OL,6,     FBBC Radio 4 joins the BBC World
+OL,7,     FService.
+OL,8,G0500 News Summary
+OL,9,G0504 Last Word
+OL,10,     FGround-breaking actress Brenda
+OL,11,     FFricker, renowned Vatican
+OL,12,     Fjournalist David Willey, leading
+OL,13,     Frose grower David Austin, and
+OL,14,     Frecord-breaking aviator Wally
+OL,15,     FFunk.
+OL,16,G0534 Shipping Forecast
+OL,17,G0543 Prayer for the Day
+OL,18,G0545 Farming Today
+OL,19,G0557 Weather for Farmers
+OL,20,     FThe latest weather reports and
+OL,21,     Fforecasts for farmers.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100@
