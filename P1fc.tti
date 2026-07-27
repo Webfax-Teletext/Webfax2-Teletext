@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1785151103
+OL,0,        ECIMSBWebfax 2   F1fcA1785152897
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1785151102;
-OL,10,GService: Webfax 2 - 17132 edd5caa440
-OL,11,FLast Update: 27/07/2026 12:18:22  G1/3
+OL,25,1785152896;
+OL,10,GService: Webfax 2 - 17133 7f87505a2b
+OL,11,FLast Update: 27/07/2026 12:48:16  G1/2
 OL,13,CbbcSport/Horse Racing      G22/07-21:15
 OL,14,Ccharts/singles             G25/07-18:32
 OL,15,Cgeneric/championship       G22/07-21:15
@@ -25,12 +25,12 @@ OL,18,Ageneric/lottery            G22/07-21:15
 OL,19,Cgeneric/prem_league        G22/07-21:15
 OL,20,Ageneric/tube_status        G22/07-21:15
 OL,21,Cgeneric/weather_warnings   G22/07-21:15
-OL,22,CitvNews/channel            G25/07-23:17
-OL,23,CitvNews/tyne-tees          G24/07-16:18
+OL,22,CitvNews/tyne-tees          G24/07-16:18
+OL,23,AitvSport/border            G22/07-21:15
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1785151103
+OL,0,        ECIMSBWebfax 2   F1fcA1785152897
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,35 +42,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1785151102;
-OL,10,GService: Webfax 2 - 17132 edd5caa440
-OL,11,FLast Update: 27/07/2026 12:18:22  G2/3
-OL,13,AitvSport/border            G22/07-21:15
-OL,14,AitvSport/calendar          G22/07-21:15
-OL,15,CitvSport/central           G22/07-21:15
-OL,16,CitvSport/channel           G25/07-23:48
-OL,17,CitvSport/london            G22/07-21:15
-OL,18,AitvSport/meridian          G22/07-21:15
-OL,19,CitvSport/tyne-tees         G22/07-21:15
-OL,20,CitvSport/utv               G22/07-21:15
-OL,21,AitvSport/wales             G22/07-21:15
-OL,22,AitvSport/westcountry       G22/07-21:15
-OL,23,CiNMS/comments.json         G23/07-01:25
-PN,1fc03
-SC,0003
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1785151103
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1785151102;
-OL,10,GService: Webfax 2 - 17132 edd5caa440
-OL,11,FLast Update: 27/07/2026 12:18:22  G3/3
+OL,25,1785152896;
+OL,10,GService: Webfax 2 - 17133 7f87505a2b
+OL,11,FLast Update: 27/07/2026 12:48:16  G2/2
+OL,13,AitvSport/calendar          G22/07-21:15
+OL,14,CitvSport/central           G22/07-21:15
+OL,15,CitvSport/channel           G25/07-23:48
+OL,16,CitvSport/london            G22/07-21:15
+OL,17,AitvSport/meridian          G22/07-21:15
+OL,18,CitvSport/tyne-tees         G22/07-21:15
+OL,19,CitvSport/utv               G22/07-21:15
+OL,20,AitvSport/wales             G22/07-21:15
+OL,21,AitvSport/westcountry       G22/07-21:15
+OL,22,CiNMS/comments.json         G23/07-01:25
