@@ -1,15 +1,56 @@
-PN,45400
-SC,0000
+PN,45401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F454A1785122300
+PS,c008
+OL,0,        ECIMSBWebfax 2   F454A1785129570
 OL,1,Vzssssss{0Wuzjs1w{js%#7!
 OL,2,Vupp=wfff5W%**,$%** % %V,,,,,,,,,,,,,,,,
-OL,3,V}yyy5CSunday
+OL,3,V}yyy5CMonday                  G1/2
 OL,5,G0400 Early Breakfast
 OL,6,     FLindsey eases you into the day
 OL,7,     Fwith the best feel good music on
 OL,8,     Fthe weekday Early Breakfast show!
+OL,9,G0630 Heart Breakfast
+OL,10,     FJoin Jamie and Amanda for the UK's
+OL,11,     Fbest Breakfast Show packed with
+OL,12,     Ffeel good moments and chances to
+OL,13,     Fwin!
+OL,14,G1000 Pandora Christie
+OL,15,     FPandora has the best feel good
+OL,16,     Fmusic, and chances to win on our
+OL,17,     Fbrilliant big-money games!
+OL,18,G1300 Matt Wilkinson
+OL,19,     FMatt has the best feel good music,
+OL,20,     Fand chances to win on our
+OL,21,     Fbrilliant big-money games!
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,455,250,301,140,0,100
+PN,45402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F454A1785129570
+OL,1,Vzssssss{0Wuzjs1w{js%#7!
+OL,2,Vupp=wfff5W%**,$%** % %V,,,,,,,,,,,,,,,,
+OL,3,V}yyy5CMonday                  G2/2
+OL,5,G1600 Mark Wright
+OL,6,     FMark Wright gets you home with the
+OL,7,     Fbest feel good music and chat!
+OL,8,G1900 Dev Griffin
+OL,9,     FJoin Dev for the best music,
+OL,10,     Fchances to win and more, on Heart!
+OL,11,G2200 Ben Atkinson
+OL,12,     FTurn up the Feel Good with Ben
+OL,13,     FAtkinson to end the day right.
+OL,14,G0100 Seb Bailey
+OL,15,     FSeb Bailey keeps you company
+OL,16,     Fthrough the night, with music to
+OL,17,     Fturn up the feel good!
+OL,18,G0400 Early Breakfast
+OL,19,     FLindsey eases you into the day
+OL,20,     Fwith the best feel good music on
+OL,21,     Fthe weekday Early Breakfast show!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,455,250,301,140,0,100@

@@ -1,14 +1,84 @@
-PN,21600
-SC,0000
+PN,21601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F216A1785111530
+PS,c008
+OL,0,        ECIMSBWebfax 2   F216A1785129571
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
-OL,3,V}yyy5CSunday
-OL,5,G0100 As BBC Radio 5 Live
-OL,6,     FSee listings for BBC Radio 5 Live
-OL,7,     Fon BBC Sounds.
+OL,3,V}yyy5CMonday                  G1/3
+OL,5,G0605 Wake Up with Radio Wales
+OL,6,     FA lively mix of music to start the
+OL,7,     Fday. Perfect for your pod!
+OL,8,G0631 Radio Wales Arts Show
+OL,9,     FGary and guests take a look at
+OL,10,     Fjust some of the Welsh performers
+OL,11,     Fheading to the Edinburgh Fringe,
+OL,12,     Fthe world's largest performing
+OL,13,     Farts festival.
+OL,14,G0700 Radio Wales Breakfast
+OL,15,     FEverything you need to know as you
+OL,16,     Fwake up.
+OL,17,G0900 Bronwen Lewis
+OL,18,     FBronwen brightens your morning
+OL,19,     Fwith great music and
+OL,20,     Fentertainment. Call 03700 100 110
+OL,21,     FText 81012 or message via X
+OL,22,     F@bbcradiowales.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,217,200,300,120,0,100
+PN,21602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F216A1785129571
+OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
+OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
+OL,3,V}yyy5CMonday                  G2/3
+OL,5,G1200 The Phone In
+OL,6,     FBe part of the nation's
+OL,7,     Fconversation.
+OL,8,G1400 Behnaz Akhgar
+OL,9,     FCelebrity guests, TV Turn Ons, and
+OL,10,     Fwe test your anagram-solving
+OL,11,     Fskills with The Name Game. Call or
+OL,12,     FWhatsApp 03700 100 110 Text 81012.
+OL,13,G1700 Radio Wales Drive
+OL,14,     FEverything you need to know as you
+OL,15,     Fhead home.
+OL,16,G1830 The Aberdovey X-Troopers
+OL,17,     FThe story of a group of Jewish
+OL,18,     Frefugees were trained in Wales in
+OL,19,     Forder to take the fight to Hitler
+OL,20,     Fand the Nazis.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,217,200,300,120,0,100
+PN,21603
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F216A1785129571
+OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
+OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
+OL,3,V}yyy5CMonday                  G3/3
+OL,5,G1900 Huw Stephens
+OL,6,     FHuw Stephens plays classic tracks,
+OL,7,     Fintroduces his Artist of the Week
+OL,8,     Fand features new music from Wales
+OL,9,     Fand beyond.
+OL,10,G2200 Eleri Sion
+OL,11,     FEleri brightens your night-time
+OL,12,     Fwith great music and chat. Call
+OL,13,     F03700 100 110 Text 81012 or via X
+OL,14,     F@bbcradiowales.
+OL,15,G0000 Relax with Radio Wales
+OL,16,     FRelax, unwind and chill out with
+OL,17,     Fan hour of classic and
+OL,18,     Fcontemporary tunes.
+OL,19,G0100 As BBC Radio 5 Live
+OL,20,     FSee listings for BBC Radio 5 Live
+OL,21,     Fon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,217,200,300,120,0,100@
