@@ -1,15 +1,108 @@
-PN,20100
-SC,0000
+PN,20101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F201A1785212293
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1785215971
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday                 G1/4
 OL,5,G0500 Radio 1 Early Breakfast with Dean
 OL,6,G     McCullough
 OL,7,     FDean has Radio 1's Early
 OL,8,     FBreakfast.
+OL,9,G0658 Radio 1 News
+OL,10,     FThe latest news from around the UK
+OL,11,     Fand around the world.
+OL,12,G0700 Radio 1 Breakfast with Greg James
+OL,13,     FLet's celebrate how we're all a
+OL,14,     Fbit rubbish sometimes!
+OL,15,G1100 Rickie, Melvin and Charlie
+OL,16,     FBig hits and the best new music.
+OL,17,G1245 Newsbeat @ 12:45
+OL,18,     FThe latest news from around the UK
+OL,19,     Fand around the world.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1785215971
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CTuesday                 G2/4
+OL,5,G1300 Matt and Jerry
+OL,6,     FIt's time to share all the tasks
+OL,7,     Fthat can be ticked off the to-do
+OL,8,     Flist for Timber Tuesday!
+OL,9,G1530 Radio 1 News
+OL,10,     FThe latest news from around the UK
+OL,11,     Fand around the world.
+OL,12,G1533 Going Home with Katie and Jamie
+OL,13,     FWe bring you the hardest quiz on
+OL,14,     Fthe radio, Complete the Year.
+OL,15,G1745 Newsbeat @ 17:45
+OL,16,     FThe latest news from around the UK
+OL,17,     Fand around the world.
+OL,18,G1800 Radio 1's New Music Show with Jack
+OL,19,G     Saunders
+OL,20,     FThe biggest and best new music in
+OL,21,     Fthe world, including Radio 1's
+OL,22,     FHottest Record.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1785215971
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CTuesday                 G3/4
+OL,5,G2000 Radio 1's Future Artists with Sian
+OL,6,G     Eleri
+OL,7,     FGrace Ives performs live tracks
+OL,8,     Ffrom her latest album, Girlfriend.
+OL,9,G2200 Radio 1's Power Down Playlist with
+OL,10,G     Sian Eleri
+OL,11,     FSongs for when you need to switch
+OL,12,     Foff the world, from kwn, Dusky and
+OL,13,     Fmore.
+OL,14,G2300 Martha
+OL,15,     FMartha takes you on a journey
+OL,16,     Fthrough the latest innovations in
+OL,17,     Felectronic music.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1785215971
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CTuesday                 G4/4
+OL,5,G0100 Radio 1's Drum & Bass Show with
+OL,6,G     Charlie Tee
+OL,7,     FGet ready for Boomtown 2026 as
+OL,8,     FCharlie Tee plays an hour of music
+OL,9,     Ffrom some of the incredible drum &
+OL,10,     Fbass artists performing at this
+OL,11,     Fyear's festival.
+OL,12,G0200 Radio 1 Anthems
+OL,13,     FLauren Redfern with big anthems
+OL,14,     Fand tunes you haven't heard in
+OL,15,     Fages.
+OL,16,G0400 Radio 1 Pop Anthems
+OL,17,     FDean McCullough brings you one
+OL,18,     Fhour of nonstop pop.
+OL,19,G0500 Radio 1 Early Breakfast with Dean
+OL,20,G     McCullough
+OL,21,     FDean has Radio 1's Early
+OL,22,     FBreakfast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100@
