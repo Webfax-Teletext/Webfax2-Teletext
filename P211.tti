@@ -2,24 +2,27 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785203289
+OL,0,        ECIMSBWebfax 2   F211A1785205097
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday                  G1/3
-OL,5,G0232 Assignment
-OL,6,     FWe follow a lawyer and a nurse who
-OL,7,     Fare building this unprecedented
-OL,8,     Fcase.
-OL,9,G0300 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0306 Outlook
-OL,13,     FAfter his brother's suicide, Ben
-OL,14,     FWest asked strangers to write
-OL,15,     Fletters of hope to help others.
-OL,16,     FThe UK mental health campaigner
-OL,17,     Fwants to offer people in crisis
-OL,18,     F'reasons to stay.'.
+OL,5,G0306 Outlook
+OL,6,     FAfter his brother's suicide, Ben
+OL,7,     FWest asked strangers to write
+OL,8,     Fletters of hope to help others.
+OL,9,     FThe UK mental health campaigner
+OL,10,     Fwants to offer people in crisis
+OL,11,     F'reasons to stay.'.
+OL,12,G0350 Witness History
+OL,13,     FIn 1974, Francisco Franco's regime
+OL,14,     Fexecuted two men by garrote, a
+OL,15,     Fmetal collar tightened by a screw
+OL,16,     Fto break the neck. Catalan
+OL,17,     Fanarchist Salvador Puig Antich was
+OL,18,     Fone of them.
+OL,19,G0400 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -27,26 +30,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785203289
+OL,0,        ECIMSBWebfax 2   F211A1785205097
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday                  G2/3
-OL,5,G0350 Witness History
-OL,6,     FIn 1974, Francisco Franco's regime
-OL,7,     Fexecuted two men by garrote, a
-OL,8,     Fmetal collar tightened by a screw
-OL,9,     Fto break the neck. Catalan
-OL,10,     Fanarchist Salvador Puig Antich was
-OL,11,     Fone of them.
-OL,12,G0400 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G0406 The Newsroom
-OL,16,     FThe world's Newsroom brings you
-OL,17,     Fglobal events as they happen.
-OL,18,G0430 BBC News Summary
-OL,19,     FThe latest two minute news summary
-OL,20,     Ffrom BBC World Service.
+OL,5,G0406 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0430 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0432 In the Studio
+OL,12,     FMost artists depict light. James
+OL,13,     FTurrell works with light, that is
+OL,14,     Fthe material for his famous
+OL,15,     FSkyspaces. We join him working on
+OL,16,     Fhis latest, a monumental work in
+OL,17,     FAarhus, Denmark.
+OL,18,G0500 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -54,23 +57,13 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785203289
+OL,0,        ECIMSBWebfax 2   F211A1785205097
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday                  G3/3
-OL,5,G0432 In the Studio
-OL,6,     FMost artists depict light. James
-OL,7,     FTurrell works with light, that is
-OL,8,     Fthe material for his famous
-OL,9,     FSkyspaces. We join him working on
-OL,10,     Fhis latest, a monumental work in
-OL,11,     FAarhus, Denmark.
-OL,12,G0500 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G0506 Newsday
-OL,16,     FLive news, business and sport from
-OL,17,     Faround the world.
+OL,5,G0506 Newsday
+OL,6,     FLive news, business and sport from
+OL,7,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
