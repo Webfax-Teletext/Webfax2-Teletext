@@ -1,41 +1,24 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785208700
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1785210489
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G1/2
-OL,5,G0406 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0430 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0432 In the Studio
-OL,12,     FMost artists depict light. James
-OL,13,     FTurrell works with light, that is
-OL,14,     Fthe material for his famous
-OL,15,     FSkyspaces. We join him working on
-OL,16,     Fhis latest, a monumental work in
-OL,17,     FAarhus, Denmark.
-OL,18,G0500 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785208700
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday                  G2/2
-OL,5,G0506 Newsday
-OL,6,     FLive news, business and sport from
-OL,7,     Faround the world.
+OL,3,V}yyy5CMonday
+OL,5,G0432 In the Studio
+OL,6,     FMost artists depict light. James
+OL,7,     FTurrell works with light, that is
+OL,8,     Fthe material for his famous
+OL,9,     FSkyspaces. We join him working on
+OL,10,     Fhis latest, a monumental work in
+OL,11,     FAarhus, Denmark.
+OL,12,G0500 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0506 Newsday
+OL,16,     FLive news, business and sport from
+OL,17,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
