@@ -2,25 +2,25 @@ PN,29101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F291A1785244739
+OL,0,        ECIMSBWebfax 2   F291A1785259145
 OL,1,Vzssssss{0Ww;js%7+ jzjkj;j:
 OL,2,Vupp=wfff5W-.*,%-. (.*.****V(,,,,,,,,,,,
 OL,3,V}yyy5CTuesday                 G1/2
-OL,5,G1400 Toby Foster on BBC Radio York
-OL,6,     FThe day's local and national news,
-OL,7,     Fas well as great music and quizzes
-OL,8,     Fwith Toby.
-OL,9,G1800 BBC Radio York Sport
-OL,10,     FLocal and national sports news and
-OL,11,     Fupdates, plus great music.
-OL,12,G1900 BBC Radio York Sport: Pre-match
-OL,13,     FYork City's final pre-season match
-OL,14,     Fvs Peterborough United & Paddy
-OL,15,     FMcLaughlin's testimonial
-OL,16,G1930 BBC Radio York Sport: Commentary
-OL,17,     FPre-season friendly commentary of
-OL,18,     FYork City v Peterborough United.
-OL,19,     FKick-off at 7.30pm.
+OL,5,G1800 BBC Radio York Sport
+OL,6,     FLocal and national sports news and
+OL,7,     Fupdates, plus great music.
+OL,8,G1900 BBC Radio York Sport: Pre-match
+OL,9,     FYork City's final pre-season match
+OL,10,     Fvs Peterborough United & Paddy
+OL,11,     FMcLaughlin's testimonial
+OL,12,G1930 BBC Radio York Sport: Commentary
+OL,13,     FPre-season friendly commentary of
+OL,14,     FYork City v Peterborough United.
+OL,15,     FKick-off at 7.30pm.
+OL,16,G2130 BBC Radio York Sport: Post-match
+OL,17,     FMatch reports, results and
+OL,18,     Freaction following today's games.
+OL,19,     FText 81333 (start with York).
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,300,250,301,140,0,100
@@ -28,23 +28,19 @@ PN,29102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F291A1785244739
+OL,0,        ECIMSBWebfax 2   F291A1785259145
 OL,1,Vzssssss{0Ww;js%7+ jzjkj;j:
 OL,2,Vupp=wfff5W-.*,%-. (.*.****V(,,,,,,,,,,,
 OL,3,V}yyy5CTuesday                 G2/2
-OL,5,G2130 BBC Radio York Sport: Post-match
-OL,6,     FMatch reports, results and
-OL,7,     Freaction following today's games.
-OL,8,     FText 81333 (start with York).
-OL,9,G2200 The Late Show
-OL,10,     FBecky Want with late-night
-OL,11,     Fconversation, amazing stories and
-OL,12,     Fthe soundtrack to your night.
-OL,13,G0100 Weekday overnights with BBC Radio
-OL,14,G     5 Live
-OL,15,     FLocal BBC Radio joins BBC Radio 5
-OL,16,     FLive through the night on a
-OL,17,     Fweekday.
+OL,5,G2200 The Late Show
+OL,6,     FBecky Want with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,300,250,301,140,0,100@
