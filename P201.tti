@@ -1,44 +1,29 @@
-PN,20101
-SC,0001
+PN,20100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1785277100
+PS,8008
+OL,0,        ECIMSBWebfax 2   F201A1785284329
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CTuesday                 G1/2
-OL,5,G2300 Martha
-OL,6,     FMartha takes you on a journey
-OL,7,     Fthrough the latest innovations in
-OL,8,     Felectronic music.
-OL,9,G0100 Radio 1's Drum & Bass Show with
-OL,10,G     Charlie Tee
-OL,11,     FGet ready for Boomtown 2026 as
-OL,12,     FCharlie Tee plays an hour of music
-OL,13,     Ffrom some of the incredible drum &
-OL,14,     Fbass artists performing at this
-OL,15,     Fyear's festival.
-OL,16,G0200 Radio 1 Anthems
-OL,17,     FLauren Redfern with big anthems
-OL,18,     Fand tunes you haven't heard in
-OL,19,     Fages.
-OL,20,G0400 Radio 1 Pop Anthems
-OL,21,     FDean McCullough brings you one
-OL,22,     Fhour of nonstop pop.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,202,200,300,120,0,100
-PN,20102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1785277100
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CTuesday                 G2/2
-OL,5,G0500 Radio 1 Early Breakfast with Dean
-OL,6,G     McCullough
-OL,7,     FDean has Radio 1's Early
-OL,8,     FBreakfast.
+OL,3,V}yyy5CTuesday
+OL,5,G0100 Radio 1's Drum & Bass Show with
+OL,6,G     Charlie Tee
+OL,7,     FGet ready for Boomtown 2026 as
+OL,8,     FCharlie Tee plays an hour of music
+OL,9,     Ffrom some of the incredible drum &
+OL,10,     Fbass artists performing at this
+OL,11,     Fyear's festival.
+OL,12,G0200 Radio 1 Anthems
+OL,13,     FLauren Redfern with big anthems
+OL,14,     Fand tunes you haven't heard in
+OL,15,     Fages.
+OL,16,G0400 Radio 1 Pop Anthems
+OL,17,     FDean McCullough brings you one
+OL,18,     Fhour of nonstop pop.
+OL,19,G0500 Radio 1 Early Breakfast with Dean
+OL,20,G     McCullough
+OL,21,     FDean has Radio 1's Early
+OL,22,     FBreakfast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100@
