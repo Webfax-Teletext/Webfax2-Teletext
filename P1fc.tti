@@ -1,7 +1,7 @@
-PN,1fc00
-SC,0000
-PS,8018
-OL,0,        ECIMSBWebfax 2   F1fcA1785397728
+PN,1fc01
+SC,0001
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1785399496
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,13 +13,70 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1785397726;
-OL,10,GService: Webfax 2 - 17263 f2feccfa23
-OL,11,FLast Update: 30/07/2026 08:48:46      
-OL,13,AbbcNewsLive                G30/07-04:43
-OL,14,Ageneric/lottery            G30/07-04:44
-OL,15,Ageneric/tube_status        G30/07-04:44
-OL,16,AitvSport/border            G30/07-04:43
-OL,17,AitvSport/calendar          G30/07-04:43
-OL,18,AitvSport/meridian          G30/07-04:43
-OL,19,AitvSport/westcountry       G30/07-04:43
+OL,25,1785399496;
+OL,10,GService: Webfax 2 - 17264 b1c642de47
+OL,11,FLast Update: 30/07/2026 09:18:16  G1/3
+OL,13,AbbcNews/East Midlands      G30/07-09:10
+OL,14,AbbcNews/Entertainment      G30/07-09:09
+OL,15,AbbcNews/London             G30/07-09:10
+OL,16,AbbcNews/North East         G30/07-09:10
+OL,17,AbbcNews/North West         G30/07-09:10
+OL,18,AbbcNews/Northern Ireland   G30/07-09:10
+OL,19,AbbcNews/Politics           G30/07-09:09
+OL,20,AbbcNews/Scotland           G30/07-09:10
+OL,21,AbbcNews/South              G30/07-09:10
+OL,22,AbbcNews/South East         G30/07-09:10
+OL,23,AbbcNews/Technology         G30/07-09:09
+PN,1fc02
+SC,0002
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1785399496
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1785399496;
+OL,10,GService: Webfax 2 - 17264 b1c642de47
+OL,11,FLast Update: 30/07/2026 09:18:16  G2/3
+OL,13,AbbcNews/Wales              G30/07-09:10
+OL,14,AbbcNews/West & South West  G30/07-09:10
+OL,15,AbbcNews/West Midlands      G30/07-09:10
+OL,16,AbbcNews/Yorkshire & LincolnG30/07-09:10
+OL,17,AbbcSport/Cricket           G30/07-09:09
+OL,18,AbbcSport/Football          G30/07-09:09
+OL,19,AbbcSport/Football Gossip   G30/07-09:09
+OL,20,AbbcSport/Formula 1         G30/07-09:09
+OL,21,AbbcSport/Golf              G30/07-09:09
+OL,22,AbbcSport/Horse Racing      G30/07-09:09
+OL,23,AbbcSport/Northern Ireland SG30/07-09:10
+PN,1fc03
+SC,0003
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1785399496
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1785399496;
+OL,10,GService: Webfax 2 - 17264 b1c642de47
+OL,11,FLast Update: 30/07/2026 09:18:16  G3/3
+OL,13,Ageneric/lottery            G30/07-04:44
+OL,14,Ageneric/tube_status        G30/07-04:44
+OL,15,AitvSport/border            G30/07-04:43
+OL,16,AitvSport/calendar          G30/07-04:43
+OL,17,AitvSport/meridian          G30/07-04:43
+OL,18,AitvSport/westcountry       G30/07-04:43
