@@ -2,10 +2,10 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1785383029
+OL,0,        ECIMSBWebfax 2   F239A1785388769
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G1/3
+OL,3,V}yyy5CFriday                  G1/3
 OL,5,G0600 Radio Scotland Breakfast
 OL,6,     FNews from across Scotland and the
 OL,7,     Fworld, plus sport, weather,
@@ -18,9 +18,12 @@ OL,13,G1200 Lunchtime Live
 OL,14,     FNews updates from Scotland and
 OL,15,     Fbeyond, plus all your lunchtime
 OL,16,     Fsport, travel and weather.
-OL,17,G1330 Radio Scotland Afternoons
-OL,18,     FThe best music, guests and arts
-OL,19,     Fcoverage.
+OL,17,G1330 Breaking the News
+OL,18,     FDes Clarke hosts Scotland's
+OL,19,     Faward-winning satirical news quiz.
+OL,20,G1400 Radio Scotland Afternoons
+OL,21,     FFeel-good music and chat with
+OL,22,     Fcelebrity guests.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -28,24 +31,27 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1785383029
+OL,0,        ECIMSBWebfax 2   F239A1785388769
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G2/3
+OL,3,V}yyy5CFriday                  G2/3
 OL,5,G1600 Drivetime
 OL,6,     FBreaking down the day's talking
 OL,7,     Fpoints with comment and opinion,
 OL,8,     Fplus sport, travel and weather.
-OL,9,G1755 Sportsound
-OL,10,     FWe have all the action from the
-OL,11,     Fsecond round of Conference League
-OL,12,     Fqualifying with HB v Motherwell
-OL,13,     F(18:00) and Hibernian v Malisheva
-OL,14,     F(20:00).
-OL,15,G2230 Up Late
-OL,16,     FThe best company to end the day,
-OL,17,     Fwith lively chat and some of your
-OL,18,     Ffavourite tunes.
+OL,9,G1800 Sportsound
+OL,10,     FFull commentary live from
+OL,11,     FTannadice as Dundee Utd take on
+OL,12,     FRangers in the first Premiership
+OL,13,     Fmatch of the season.
+OL,14,G2200 Sportsound
+OL,15,     FSportsound's coverage of Dundee
+OL,16,     FUtd v Rangers continues with all
+OL,17,     Fthe post-match reaction.
+OL,18,G2230 Up Late
+OL,19,     FThe best company to end the day,
+OL,20,     Fwith lively chat and some of your
+OL,21,     Ffavourite tunes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -53,18 +59,12 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1785383029
+OL,0,        ECIMSBWebfax 2   F239A1785388769
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday                G3/3
-OL,5,G0000 Scotcast
-OL,6,     FMartin Geissler and the team bring
-OL,7,     Fyou thoughtful conversation and
-OL,8,     Fexpert analysis covering the most
-OL,9,     Finteresting news stories in
-OL,10,     FScotland.
-OL,11,G0030 As BBC Radio 5 Live
-OL,12,     FJoining Radio 5 Live.
+OL,3,V}yyy5CFriday                  G3/3
+OL,5,G0000 As BBC Radio 5 Live
+OL,6,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100@

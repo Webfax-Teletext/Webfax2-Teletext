@@ -1,14 +1,513 @@
-PN,21100
-SC,0000
+PN,21101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F211A1785385090
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday
-OL,5,G0506 Newsday
+OL,3,V}yyy5CThursday                G1/19
+OL,5,G0606 Newsday
 OL,6,     FLive news, business and sport from
 OL,7,     Faround the world.
+OL,8,G0700 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G0706 Newsday
+OL,12,     FLive news, business and sport from
+OL,13,     Faround the world.
+OL,14,G0800 BBC News
+OL,15,     FThe latest five minute news
+OL,16,     Fbulletin from BBC World Service.
+OL,17,G0806 The Inquiry
+OL,18,     FCan we adapt to increasingly hot
+OL,19,     Fweather?
+OL,20,G0830 BBC News Summary
+OL,21,     FThe latest two minute news summary
+OL,22,     Ffrom BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday                G2/19
+OL,5,G0832 Business Daily
+OL,6,     FExam leaks, unemployment and
+OL,7,     Fshrinking job opportunities
+OL,8,     Fsparked some of India's biggest
+OL,9,     Fyouth protests in years and turned
+OL,10,     Fyoung Indians into a growing
+OL,11,     Fpolitical force.
+OL,12,G0850 Witness History
+OL,13,     FIn 1964, a group of teenage boys
+OL,14,     Forganised a convention in New
+OL,15,     FYork, now recognised as the first
+OL,16,     Fofficial Comic Con. It kickstarted
+OL,17,     Fwhat's become a worldwide cultural
+OL,18,     Fphenomenon.
+OL,19,G0900 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday                G3/19
+OL,5,G0906 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0930 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0932 The Documentary
+OL,12,     FJordan Dunbar investigates how,
+OL,13,     F110 years on, the Battle of the
+OL,14,     FSomme still affects people and
+OL,15,     Fcommunities, and discovers new
+OL,16,     Finsights about its impact on the
+OL,17,     Fhistory of Ireland.
+OL,18,G1000 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday                G4/19
+OL,5,G1006 The Explanation
+OL,6,     FWhere the world is explained.
+OL,7,     FMaking sense of the big stories -
+OL,8,     Flooking behind the spin.
+OL,9,G1030 BBC News Summary
+OL,10,     FThe latest two minute news summary
+OL,11,     Ffrom BBC World Service.
+OL,12,G1032 Good Bad Billionaire
+OL,13,     FFrom pranks to philanthropy: how
+OL,14,     FJimmy Donaldson, better known as
+OL,15,     FMrBeast, maximised YouTube's
+OL,16,     Falgorithm and built a
+OL,17,     Fbillion-dollar media empire.
+OL,18,G1100 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21105
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday                G5/19
+OL,5,G1106 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G1130 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G1132 The Global Story
+OL,12,     F.
+OL,13,G1200 BBC News
+OL,14,     FThe latest five minute news
+OL,15,     Fbulletin from BBC World Service.
+OL,16,G1206 Outlook
+OL,17,     FHow Copa 71, the first women's
+OL,18,     FWorld Cup, took on football's 'old
+OL,19,     Fmen'. We hear from two Danish
+OL,20,     Ffootballers who played in the most
+OL,21,     Fwatched women's sporting event in
+OL,22,     Fhistory.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21106
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday                G6/19
+OL,5,G1250 Witness History
+OL,6,     FIn 1964, a group of teenage boys
+OL,7,     Forganised a convention in New
+OL,8,     FYork, now recognised as the first
+OL,9,     Fofficial Comic Con. It kickstarted
+OL,10,     Fwhat's become a worldwide cultural
+OL,11,     Fphenomenon.
+OL,12,G1300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G1306 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G1330 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21107
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday                G7/19
+OL,5,G1332 The Food Chain
+OL,6,     FLow-carb diets are popular. But do
+OL,7,     Fyou really need to reduce how much
+OL,8,     Fcarbohydrates you eat?
+OL,9,G1400 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G1406 Newshour
+OL,13,     FInterviews, news and analysis of
+OL,14,     Fthe day's global events.
+OL,15,G1500 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
+OL,18,G1506 The Inquiry
+OL,19,     FCan we adapt to increasingly hot
+OL,20,     Fweather?
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21108
+SC,0008
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday                G8/19
+OL,5,G1530 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G1532 Business Daily
+OL,9,     FExam leaks, unemployment and
+OL,10,     Fshrinking job opportunities
+OL,11,     Fsparked some of India's biggest
+OL,12,     Fyouth protests in years and turned
+OL,13,     Fyoung Indians into a growing
+OL,14,     Fpolitical force.
+OL,15,G1550 World Business Express
+OL,16,     FFinance, economy and business news
+OL,17,     Ffrom BBC journalists around the
+OL,18,     Fworld.
+OL,19,G1600 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21109
+SC,0009
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday                G9/19
+OL,5,G1606 Outside Source
+OL,6,     FA vibrant account of the day's
+OL,7,     Fevents with explanation and
+OL,8,     Freaction from those involved.
+OL,9,G1700 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G1706 Outside Source
+OL,13,     FA vibrant account of the day's
+OL,14,     Fevents with explanation and
+OL,15,     Freaction from those involved.
+OL,16,G1800 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21110
+SC,0010
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G10/19
+OL,5,G1806 Outlook
+OL,6,     FHow Copa 71, the first women's
+OL,7,     FWorld Cup, took on football's 'old
+OL,8,     Fmen'. We hear from two Danish
+OL,9,     Ffootballers who played in the most
+OL,10,     Fwatched women's sporting event in
+OL,11,     Fhistory.
+OL,12,G1850 Witness History
+OL,13,     FIn 1964, a group of teenage boys
+OL,14,     Forganised a convention in New
+OL,15,     FYork, now recognised as the first
+OL,16,     Fofficial Comic Con. It kickstarted
+OL,17,     Fwhat's become a worldwide cultural
+OL,18,     Fphenomenon.
+OL,19,G1900 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21111
+SC,0011
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G11/19
+OL,5,G1906 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G1930 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G1932 Sport Today
+OL,12,     FBBC sports correspondents tell the
+OL,13,     Fstory behind today's top sporting
+OL,14,     Fnews, with interviews and reports
+OL,15,     Ffrom across the world.
+OL,16,G2000 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21112
+SC,0012
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G12/19
+OL,5,G2006 The Documentary
+OL,6,     FJordan Dunbar investigates how,
+OL,7,     F110 years on, the Battle of the
+OL,8,     FSomme still affects people and
+OL,9,     Fcommunities, and discovers new
+OL,10,     Finsights about its impact on the
+OL,11,     Fhistory of Ireland.
+OL,12,G2030 BBC News Summary
+OL,13,     FThe latest two minute news summary
+OL,14,     Ffrom BBC World Service.
+OL,15,G2032 BBC Inside Science
+OL,16,     FA weekly show exploring science,
+OL,17,     Fits mysteries, and the debates it
+OL,18,     Fsparks.
+OL,19,G2100 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21113
+SC,0013
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G13/19
+OL,5,G2106 Newshour
+OL,6,     FInterviews, news and analysis of
+OL,7,     Fthe day's global events.
+OL,8,G2200 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G2206 The Inquiry
+OL,12,     FCan we adapt to increasingly hot
+OL,13,     Fweather?
+OL,14,G2230 BBC News Summary
+OL,15,     FThe latest two minute news summary
+OL,16,     Ffrom BBC World Service.
+OL,17,G2232 The Food Chain
+OL,18,     FLow-carb diets are popular. But do
+OL,19,     Fyou really need to reduce how much
+OL,20,     Fcarbohydrates you eat?
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21114
+SC,0014
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G14/19
+OL,5,G2300 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G2306 The Newsroom
+OL,9,     FThe world's Newsroom brings you
+OL,10,     Fglobal events as they happen.
+OL,11,G2330 BBC News Summary
+OL,12,     FThe latest two minute news summary
+OL,13,     Ffrom BBC World Service.
+OL,14,G2332 World Business Report
+OL,15,     FThe latest business and finance
+OL,16,     Fnews from around the world, on the
+OL,17,     FBBC.
+OL,18,G0000 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21115
+SC,0015
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G15/19
+OL,5,G0006 The Explanation
+OL,6,     FWhere the world is explained.
+OL,7,     FMaking sense of the big stories -
+OL,8,     Flooking behind the spin.
+OL,9,G0030 BBC News Summary
+OL,10,     FThe latest two minute news summary
+OL,11,     Ffrom BBC World Service.
+OL,12,G0032 Happy News
+OL,13,     FDave and Andrea met by chance at
+OL,14,     Fwork. They got on so well they
+OL,15,     Fcould complete each other's
+OL,16,     Fsentences - which made sense when
+OL,17,     Fthey discovered they were actually
+OL,18,     Fsiblings.
+OL,19,G0100 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21116
+SC,0016
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G16/19
+OL,5,G0106 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0130 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0132 The Global Story
+OL,12,     F.
+OL,13,G0200 BBC News
+OL,14,     FThe latest five minute news
+OL,15,     Fbulletin from BBC World Service.
+OL,16,G0206 The Newsroom
+OL,17,     FThe world's Newsroom brings you
+OL,18,     Fglobal events as they happen.
+OL,19,G0230 BBC News Summary
+OL,20,     FThe latest two minute news summary
+OL,21,     Ffrom BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21117
+SC,0017
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G17/19
+OL,5,G0232 Tech Life
+OL,6,     FAI agents carry out tasks
+OL,7,     Fautonomously on behalf of users.
+OL,8,     FBut what are they capable of, and
+OL,9,     Fwhat do we need to know about
+OL,10,     Fthem? With AI agents in the news,
+OL,11,     Fwe speak to an expert.
+OL,12,G0300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0306 Outlook
+OL,16,     FHow Copa 71, the first women's
+OL,17,     FWorld Cup, took on football's 'old
+OL,18,     Fmen'. We hear from two Danish
+OL,19,     Ffootballers who played in the most
+OL,20,     Fwatched women's sporting event in
+OL,21,     Fhistory.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21118
+SC,0018
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G18/19
+OL,5,G0350 Witness History
+OL,6,     FIn 1964, a group of teenage boys
+OL,7,     Forganised a convention in New
+OL,8,     FYork, now recognised as the first
+OL,9,     Fofficial Comic Con. It kickstarted
+OL,10,     Fwhat's become a worldwide cultural
+OL,11,     Fphenomenon.
+OL,12,G0400 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0406 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0430 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21119
+SC,0019
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1785388768
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CThursday               G19/19
+OL,5,G0432 Heart and Soul
+OL,6,     FQuestioning an inherited legacy of
+OL,7,     Fa Rastafarian faith in a family.
+OL,8,G0500 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G0506 Newsday
+OL,12,     FLive news, business and sport from
+OL,13,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
