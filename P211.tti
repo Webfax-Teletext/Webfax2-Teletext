@@ -2,26 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G1/13
-OL,5,G1306 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G1330 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G1332 The Food Chain
-OL,12,     FLow-carb diets are popular. But do
-OL,13,     Fyou really need to reduce how much
-OL,14,     Fcarbohydrates you eat?
-OL,15,G1400 BBC News
+OL,5,G1332 The Food Chain
+OL,6,     FLow-carb diets are popular. But do
+OL,7,     Fyou really need to reduce how much
+OL,8,     Fcarbohydrates you eat?
+OL,9,G1400 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G1406 Newshour
+OL,13,     FInterviews, news and analysis of
+OL,14,     Fthe day's global events.
+OL,15,G1500 BBC News
 OL,16,     FThe latest five minute news
 OL,17,     Fbulletin from BBC World Service.
-OL,18,G1406 Newshour
-OL,19,     FInterviews, news and analysis of
-OL,20,     Fthe day's global events.
+OL,18,G1506 The Inquiry
+OL,19,     FCan we adapt to increasingly hot
+OL,20,     Fweather?
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -29,26 +29,27 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G2/13
-OL,5,G1500 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1506 The Inquiry
-OL,9,     FCan we adapt to increasingly hot
-OL,10,     Fweather?
-OL,11,G1530 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G1532 Business Daily
-OL,15,     FExam leaks, unemployment and
-OL,16,     Fshrinking job opportunities
-OL,17,     Fsparked some of India's biggest
-OL,18,     Fyouth protests in years and turned
-OL,19,     Fyoung Indians into a growing
-OL,20,     Fpolitical force.
+OL,5,G1530 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G1532 Business Daily
+OL,9,     FExam leaks, unemployment and
+OL,10,     Fshrinking job opportunities
+OL,11,     Fsparked some of India's biggest
+OL,12,     Fyouth protests in years and turned
+OL,13,     Fyoung Indians into a growing
+OL,14,     Fpolitical force.
+OL,15,G1550 World Business Express
+OL,16,     FFinance, economy and business news
+OL,17,     Ffrom BBC journalists around the
+OL,18,     Fworld.
+OL,19,G1600 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -56,28 +57,24 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G3/13
-OL,5,G1550 World Business Express
-OL,6,     FFinance, economy and business news
-OL,7,     Ffrom BBC journalists around the
-OL,8,     Fworld.
-OL,9,G1600 BBC News
+OL,5,G1606 Outside Source
+OL,6,     FA vibrant account of the day's
+OL,7,     Fevents with explanation and
+OL,8,     Freaction from those involved.
+OL,9,G1700 BBC News
 OL,10,     FThe latest five minute news
 OL,11,     Fbulletin from BBC World Service.
-OL,12,G1606 Outside Source
+OL,12,G1706 Outside Source
 OL,13,     FA vibrant account of the day's
 OL,14,     Fevents with explanation and
 OL,15,     Freaction from those involved.
-OL,16,G1700 BBC News
+OL,16,G1800 BBC News
 OL,17,     FThe latest five minute news
 OL,18,     Fbulletin from BBC World Service.
-OL,19,G1706 Outside Source
-OL,20,     FA vibrant account of the day's
-OL,21,     Fevents with explanation and
-OL,22,     Freaction from those involved.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -85,27 +82,27 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G4/13
-OL,5,G1800 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1806 Outlook
-OL,9,     FHow Copa 71, the first women's
-OL,10,     FWorld Cup, took on football's 'old
-OL,11,     Fmen'. We hear from two Danish
-OL,12,     Ffootballers who played in the most
-OL,13,     Fwatched women's sporting event in
-OL,14,     Fhistory.
-OL,15,G1850 Witness History
-OL,16,     FIn 1964, a group of teenage boys
-OL,17,     Forganised a convention in New
-OL,18,     FYork, now recognised as the first
-OL,19,     Fofficial Comic Con. It kickstarted
-OL,20,     Fwhat's become a worldwide cultural
-OL,21,     Fphenomenon.
+OL,5,G1806 Outlook
+OL,6,     FHow Copa 71, the first women's
+OL,7,     FWorld Cup, took on football's 'old
+OL,8,     Fmen'. We hear from two Danish
+OL,9,     Ffootballers who played in the most
+OL,10,     Fwatched women's sporting event in
+OL,11,     Fhistory.
+OL,12,G1850 Witness History
+OL,13,     FIn 1964, a group of teenage boys
+OL,14,     Forganised a convention in New
+OL,15,     FYork, now recognised as the first
+OL,16,     Fofficial Comic Con. It kickstarted
+OL,17,     Fwhat's become a worldwide cultural
+OL,18,     Fphenomenon.
+OL,19,G1900 BBC News
+OL,20,     FThe latest five minute news
+OL,21,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -113,27 +110,24 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G5/13
-OL,5,G1900 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1906 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G1930 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G1932 Sport Today
-OL,15,     FBBC sports correspondents tell the
-OL,16,     Fstory behind today's top sporting
-OL,17,     Fnews, with interviews and reports
-OL,18,     Ffrom across the world.
-OL,19,G2000 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,5,G1906 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G1930 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G1932 Sport Today
+OL,12,     FBBC sports correspondents tell the
+OL,13,     Fstory behind today's top sporting
+OL,14,     Fnews, with interviews and reports
+OL,15,     Ffrom across the world.
+OL,16,G2000 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -141,7 +135,7 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G6/13
@@ -169,7 +163,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G7/13
@@ -196,7 +190,7 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G8/13
@@ -223,7 +217,7 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G9/13
@@ -251,7 +245,7 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday               G10/13
@@ -279,7 +273,7 @@ PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday               G11/13
@@ -307,7 +301,7 @@ PN,21112
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday               G12/13
@@ -334,7 +328,7 @@ PN,21113
 SC,0013
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785413907
+OL,0,        ECIMSBWebfax 2   F211A1785415695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday               G13/13
