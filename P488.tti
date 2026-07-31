@@ -2,7 +2,7 @@ PN,48801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1785475170
+OL,0,        ECIMSBWebfax 2   F488A1785480498
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday                G1/3
@@ -28,7 +28,7 @@ PN,48802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1785475170
+OL,0,        ECIMSBWebfax 2   F488A1785480498
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday                G2/3
@@ -41,15 +41,14 @@ OL,10,G1300 Nuacht a hAon
 OL,11,     FAn barr is deireanai nuachta
 OL,12,     Fnaisiunta, idirnaisiunta agus
 OL,13,     Faitiuil.
-OL,14,G1320 Togha agus Rogha
-OL,15,     FCeol agus iarratais a chur i
-OL,16,     Flathair ag Edel Ni Loibhead, beo o
-OL,17,     Fstiuideo Bhaile na nGall i gContae
-OL,18,     FChiarrai.
-OL,19,G1400 Sport an tSathairn
-OL,20,     FFaisneis, tuairisci, torthai,
-OL,21,     Fanailis agus trachtaireacht ar
-OL,22,     Fchursai spoirt an tSathairn.
+OL,14,G1320 Sport an tSathairn
+OL,15,     FFaisneis, tuairisci, torthai,
+OL,16,     Fanailis agus trachtaireacht ar
+OL,17,     Fchursai spoirt an tSathairn.
+OL,18,G1800 Nuacht a Se
+OL,19,     FAn barr is deireanai nuachta
+OL,20,     Fnaisiunta, idirnaisiunta agus
+OL,21,     Faitiuil.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -57,19 +56,19 @@ PN,48803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1785475170
+OL,0,        ECIMSBWebfax 2   F488A1785480498
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday                G3/3
-OL,5,G1800 Nuacht a Se
-OL,6,     FAn barr is deireanai nuachta
-OL,7,     Fnaisiunta, idirnaisiunta agus
-OL,8,     Faitiuil.
-OL,9,G1830 An Nota Ard
-OL,10,     FCeol clasaiceach le Jo Ni Cheide.
-OL,11,G1900 Sport an Trathnona
-OL,12,     FClar spoirt an trathnona a chur i
-OL,13,     Flathair o Bhaile na nGall.
+OL,5,G1815 Sport an Trathnona
+OL,6,     FClar spoirt an trathnona a chur i
+OL,7,     Flathair o Bhaile na nGall.
+OL,8,G2000 An Nota Ard
+OL,9,     FCeol clasaiceach le Jo Ni Cheide.
+OL,10,G2030 Ar Bhruach na Sionainne
+OL,11,     FCloisfear mic leinn Ollscoil
+OL,12,     FLuimnigh i mbun ceoil agus cainte
+OL,13,     Fsa tsraith seo.
 OL,14,G2100 Rianta
 OL,15,     FClar ceoil ar linne, ceol na
 OL,16,     Fcruinne, ceolta nua agus ceolta
