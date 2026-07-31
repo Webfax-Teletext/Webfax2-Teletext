@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1785487698
+OL,0,        ECIMSBWebfax 2   F1fcA1785489533
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1785487696;
-OL,10,GService: Webfax 2 - 17313 a97ef50606
-OL,11,FLast Update: 31/07/2026 09:48:16  G1/2
+OL,25,1785489533;
+OL,10,GService: Webfax 2 - 17314 f6f78ca00b
+OL,11,FLast Update: 31/07/2026 10:18:53  G1/2
 OL,13,Ccharts/singles             G30/07-04:44
 OL,14,Cgeneric/championship       G30/07-04:44
 OL,15,Cgeneric/f1                 G30/07-04:44
@@ -30,7 +30,7 @@ OL,23,AitvSport/calendar          G30/07-04:43
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1785487698
+OL,0,        ECIMSBWebfax 2   F1fcA1785489533
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,15 +42,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1785487696;
-OL,10,GService: Webfax 2 - 17313 a97ef50606
-OL,11,FLast Update: 31/07/2026 09:48:16  G2/2
+OL,25,1785489533;
+OL,10,GService: Webfax 2 - 17314 f6f78ca00b
+OL,11,FLast Update: 31/07/2026 10:18:53  G2/2
 OL,13,CitvSport/central           G30/07-04:43
 OL,14,CitvSport/channel           G30/07-04:43
 OL,15,CitvSport/granada           G30/07-04:43
 OL,16,CitvSport/london            G30/07-04:43
 OL,17,AitvSport/meridian          G30/07-04:43
-OL,18,CitvSport/utv               G30/07-04:43
-OL,19,CitvSport/wales             G30/07-04:43
-OL,20,AitvSport/westcountry       G30/07-04:43
-OL,21,CiNMS/comments.json         G30/07-04:43
+OL,18,CitvSport/tyne-tees         G30/07-09:48
+OL,19,CitvSport/utv               G30/07-04:43
+OL,20,CitvSport/wales             G30/07-04:43
+OL,21,AitvSport/westcountry       G30/07-04:43
+OL,22,CiNMS/comments.json         G30/07-04:43
