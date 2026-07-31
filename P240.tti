@@ -2,7 +2,7 @@ PN,24001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785417549
+OL,0,        ECIMSBWebfax 2   F240A1785460698
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G1/5
@@ -16,9 +16,11 @@ OL,11,     Fis eadar-nC iseanta gach madainn.
 OL,12,     FLocal, national and international
 OL,13,     Fnews each morning.
 OL,14,G0900 Naoi gu Deich
-OL,15,     FComhradh, deasbad, cultar agus
-OL,16,     Fcur-seachadan. Conversation,
-OL,17,     Fdiscussion, culture and lifestyle.
+OL,15,     FTha ar h-aoighean a' toirt suil
+OL,16,     Fair ais air cuid de naidheachdan
+OL,17,     Fna seachdain. Friday's guests look
+OL,18,     Fback on a selection of stories
+OL,19,     Ffrom this week's news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -26,7 +28,7 @@ PN,24002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785417549
+OL,0,        ECIMSBWebfax 2   F240A1785460698
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G2/5
@@ -55,7 +57,7 @@ PN,24003
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785417549
+OL,0,        ECIMSBWebfax 2   F240A1785460698
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G3/5
@@ -79,7 +81,7 @@ PN,24004
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785417549
+OL,0,        ECIMSBWebfax 2   F240A1785460698
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G4/5
@@ -96,10 +98,11 @@ OL,14,     Fsong and fun with your requests.
 OL,15,     F08000 967050.
 OL,16,G2100 Mac 'Ille Mhicheil
 OL,17,     FCuiridh Iain Mac'illeMhicheil agus
-OL,18,     Faoighean an deireadh seachdain air
-OL,19,     Fa chasan. Chat and music with John
-OL,20,     FCarmichael and guests to get your
-OL,21,     Fweekend off to a great start.
+OL,18,     FAonghas MacAonghais an deireadh
+OL,19,     Fseachdain air a chasan. Chat and
+OL,20,     Fmusic with John Carmichael and
+OL,21,     Fguest to get your weekend off to a
+OL,22,     Fgreat start.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -107,18 +110,20 @@ PN,24005
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785417549
+OL,0,        ECIMSBWebfax 2   F240A1785460698
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G5/5
 OL,5,G2300 Naoi gu Deich
-OL,6,     FComhradh, deasbad, cultar agus
-OL,7,     Fcur-seachadan. Conversation,
-OL,8,     Fdiscussion, culture and lifestyle.
-OL,9,G0000 Mar Radio Alba
-OL,10,     FTha BBC Radio nan Gaidheal mar BBC
-OL,11,     FRadio Alba. BBC Radio nan Gaidheal
-OL,12,     Fjoins BBC Radio Scotland.
+OL,6,     FTha ar h-aoighean a' toirt suil
+OL,7,     Fair ais air cuid de naidheachdan
+OL,8,     Fna seachdain. Friday's guests look
+OL,9,     Fback on a selection of stories
+OL,10,     Ffrom this week's news.
+OL,11,G0000 Mar Radio Alba
+OL,12,     FTha BBC Radio nan Gaidheal mar BBC
+OL,13,     FRadio Alba. BBC Radio nan Gaidheal
+OL,14,     Fjoins BBC Radio Scotland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100@
