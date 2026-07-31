@@ -2,26 +2,27 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785460698
+OL,0,        ECIMSBWebfax 2   F211A1785462488
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G1/3
-OL,5,G0206 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0230 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0232 Tech Life
-OL,12,     FAI agents carry out tasks
-OL,13,     Fautonomously on behalf of users.
-OL,14,     FBut what are they capable of, and
-OL,15,     Fwhat do we need to know about
-OL,16,     Fthem? With AI agents in the news,
-OL,17,     Fwe speak to an expert.
-OL,18,G0300 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
+OL,5,G0232 Tech Life
+OL,6,     FAI agents carry out tasks
+OL,7,     Fautonomously on behalf of users.
+OL,8,     FBut what are they capable of, and
+OL,9,     Fwhat do we need to know about
+OL,10,     Fthem? With AI agents in the news,
+OL,11,     Fwe speak to an expert.
+OL,12,G0300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0306 Outlook
+OL,16,     FHow Copa 71, the first women's
+OL,17,     FWorld Cup, took on football's 'old
+OL,18,     Fmen'. We hear from two Danish
+OL,19,     Ffootballers who played in the most
+OL,20,     Fwatched women's sporting event in
+OL,21,     Fhistory.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -29,27 +30,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785460698
+OL,0,        ECIMSBWebfax 2   F211A1785462488
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G2/3
-OL,5,G0306 Outlook
-OL,6,     FHow Copa 71, the first women's
-OL,7,     FWorld Cup, took on football's 'old
-OL,8,     Fmen'. We hear from two Danish
-OL,9,     Ffootballers who played in the most
-OL,10,     Fwatched women's sporting event in
-OL,11,     Fhistory.
-OL,12,G0350 Witness History
-OL,13,     FIn 1964, a group of teenage boys
-OL,14,     Forganised a convention in New
-OL,15,     FYork, now recognised as the first
-OL,16,     Fofficial Comic Con. It kickstarted
-OL,17,     Fwhat's become a worldwide cultural
-OL,18,     Fphenomenon.
-OL,19,G0400 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,5,G0350 Witness History
+OL,6,     FIn 1964, a group of teenage boys
+OL,7,     Forganised a convention in New
+OL,8,     FYork, now recognised as the first
+OL,9,     Fofficial Comic Con. It kickstarted
+OL,10,     Fwhat's become a worldwide cultural
+OL,11,     Fphenomenon.
+OL,12,G0400 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0406 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0430 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -57,25 +57,19 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785460698
+OL,0,        ECIMSBWebfax 2   F211A1785462488
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday                G3/3
-OL,5,G0406 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0430 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0432 Heart and Soul
-OL,12,     FQuestioning an inherited legacy of
-OL,13,     Fa Rastafarian faith in a family.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 Newsday
-OL,18,     FLive news, business and sport from
-OL,19,     Faround the world.
+OL,5,G0432 Heart and Soul
+OL,6,     FQuestioning an inherited legacy of
+OL,7,     Fa Rastafarian faith in a family.
+OL,8,G0500 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G0506 Newsday
+OL,12,     FLive news, business and sport from
+OL,13,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
