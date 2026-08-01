@@ -2,7 +2,7 @@ PN,22901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G1/12
@@ -17,10 +17,11 @@ OL,12,     FWood in Norfolk, a place with
 OL,13,     Fwhich he has a deep personal
 OL,14,     Fconnection.
 OL,15,G0630 Farming Today This Week
-OL,16,     FThe latest news about food,
-OL,17,     Ffarming and the countryside.
-OL,18,G0657 Weather Forecast
-OL,19,G0700 Today
+OL,16,     FHalf of England and all of Wales
+OL,17,     Fare in drought, how's this
+OL,18,     Faffecting farmers?
+OL,19,G0657 Weather Forecast
+OL,20,G0700 Today
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
@@ -28,7 +29,7 @@ PN,22902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G2/12
@@ -52,7 +53,7 @@ PN,22903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G3/12
@@ -79,28 +80,28 @@ PN,22904
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G4/12
 OL,5,G1130 From Our Own Correspondent
-OL,6,     FInsight, and analysis from BBC
-OL,7,     Fcorrespondents around the world.
-OL,8,G1200 News Summary
-OL,9,G1204 Toast
-OL,10,     FWhat went wrong at Wilko? Sean
-OL,11,     FFarrington examines another
-OL,12,     Fsuccessful business that still
-OL,13,     Fended up toast.
-OL,14,G1230 Current-ish
-OL,15,     FLucy Porter is joined by Finlay
-OL,16,     FChristie, Amy Annette and
-OL,17,     FChristopher Macarthur-Boyd to chat
-OL,18,     Fthrough the headlines and beyond.
-OL,19,G1257 Weather Forecast
-OL,20,G1300 News Bulletin
-OL,21,     FNational and international news
-OL,22,     Ffrom BBC Radio 4.
+OL,6,     FAn inferno in the region around
+OL,7,     Fthe city of Bordeaux has burned
+OL,8,     Fmore than 100,000 acres, as
+OL,9,     Ffirefighters and civilian
+OL,10,     Fvolunteers join forces to keep
+OL,11,     Fthem from spreading further.
+OL,12,G1200 News Summary
+OL,13,G1204 Toast
+OL,14,     FWhat went wrong at Wilko? Sean
+OL,15,     FFarrington examines another
+OL,16,     Fsuccessful business that still
+OL,17,     Fended up toast.
+OL,18,G1230 Current-ish
+OL,19,     FLucy Porter talks all things
+OL,20,     Fcurrent-ish with Finlay Christie,
+OL,21,     FAmy Annette and Christopher
+OL,22,     FMacarthur-Boyd.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
@@ -108,24 +109,28 @@ PN,22905
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G5/12
-OL,5,G1310 Any Questions?
-OL,6,     FAlex Forsyth presents political
-OL,7,     Fdebate from St Mark's Church in
-OL,8,     FClerkenwell, London with Miatta
-OL,9,     FFahnbulleh MP, Tom McTague, Tim
-OL,10,     FStanley, and Helen Whately MP.
-OL,11,G1405 Any Answers?
-OL,12,     FListeners respond to the issues
-OL,13,     Fraised in the preceding edition of
-OL,14,     FAny Questions?
-OL,15,G1445 The Archers
-OL,16,     FHarrison doesn't know where to
-OL,17,     Fturn, and Neil attempts to keep
-OL,18,     Fthe peace.
+OL,5,G1257 Weather Forecast
+OL,6,G1300 News Bulletin
+OL,7,     FNational and international news
+OL,8,     Ffrom BBC Radio 4.
+OL,9,G1310 Any Questions?
+OL,10,     FAlex Forsyth presents political
+OL,11,     Fdebate from St Mark's Church in
+OL,12,     FClerkenwell, London with Miatta
+OL,13,     FFahnbulleh MP, Tom McTague, Tim
+OL,14,     FStanley, and Helen Whately MP.
+OL,15,G1405 Any Answers?
+OL,16,     FListeners respond to the issues
+OL,17,     Fraised in the preceding edition of
+OL,18,     FAny Questions?
+OL,19,G1445 The Archers
+OL,20,     FHarrison doesn't know where to
+OL,21,     Fturn, and Neil attempts to keep
+OL,22,     Fthe peace.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
@@ -133,7 +138,7 @@ PN,22906
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G6/12
@@ -145,10 +150,11 @@ OL,9,     Fabout a group of retired actresses
 OL,10,     Fwho find challenging ways of
 OL,11,     Ffacing old age together.
 OL,12,G1630 Weekend Woman's Hour
-OL,13,     FHighlights from the Woman's Hour
-OL,14,     Fweek.
-OL,15,G1700 Saturday PM
-OL,16,     FFull coverage of the day's news.
+OL,13,     FReviews of maternity and neonatal
+OL,14,     Fservices in England and the impact
+OL,15,     Fon morale of midwives.
+OL,16,G1700 Saturday PM
+OL,17,     FFull coverage of the day's news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,230,200,300,120,0,100
@@ -156,7 +162,7 @@ PN,22907
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G7/12
@@ -182,7 +188,7 @@ PN,22908
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G8/12
@@ -210,7 +216,7 @@ PN,22909
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday                G9/12
@@ -236,7 +242,7 @@ PN,22910
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday               G10/12
@@ -260,7 +266,7 @@ PN,22911
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday               G11/12
@@ -287,7 +293,7 @@ PN,22912
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F229A1785503937
+OL,0,        ECIMSBWebfax 2   F229A1785547107
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday               G12/12
