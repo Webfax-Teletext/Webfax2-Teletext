@@ -2,28 +2,27 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1785568697
+OL,0,        ECIMSBWebfax 2   F214A1785572340
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday                G1/3
-OL,5,G0800 Radio Scotland Breakfast
-OL,6,     FNews from across Scotland and the
-OL,7,     Fworld, plus sport, weather,
-OL,8,     Fentertainment and big name
-OL,9,     Finterviews.
-OL,10,G0900 The Saturday Show
-OL,11,     FEilish McColgan, Liam Withnail,
-OL,12,     FJulie Lin and Peter Houston chat
-OL,13,     Fto Amy Irons and Steven Mill as
-OL,14,     Fthey kick-off the weekend in
-OL,15,     Fstyle.
-OL,16,G1200 Off the Ball
-OL,17,     FThe most petty and ill-informed
-OL,18,     Ffootball show on radio.
-OL,19,G1400 Sportsound
-OL,20,     FComprehensive coverage of Scottish
-OL,21,     Fsport, including live and
-OL,22,     Fexclusive commentary.
+OL,5,G0900 The Saturday Show
+OL,6,     FEilish McColgan, Liam Withnail,
+OL,7,     FJulie Lin and Peter Houston chat
+OL,8,     Fto Amy Irons and Steven Mill as
+OL,9,     Fthey kick-off the weekend in
+OL,10,     Fstyle.
+OL,11,G1200 Off the Ball
+OL,12,     FThe most petty and ill-informed
+OL,13,     Ffootball show on radio.
+OL,14,G1400 Sportsound
+OL,15,     FComprehensive coverage of Scottish
+OL,16,     Fsport, including live and
+OL,17,     Fexclusive commentary.
+OL,18,G1700 Sportsound
+OL,19,     FCommentary, analysis and debate.
+OL,20,G1930 Sportsound
+OL,21,     FCommentary, analysis and debate.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -31,24 +30,27 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1785568697
+OL,0,        ECIMSBWebfax 2   F214A1785572340
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday                G2/3
-OL,5,G1700 Sportsound
-OL,6,     FCommentary, analysis and debate.
-OL,7,G1930 Sportsound
-OL,8,     FCommentary, analysis and debate.
-OL,9,G2000 Take the Floor
-OL,10,     FFor the very best in traditional
-OL,11,     Fmusic, join Gary Innes for Take
-OL,12,     Fthe Floor. Our session comes from
-OL,13,     Four archive and features Ron Kerr
-OL,14,     Fand his Scottish Dance Band from
-OL,15,     F2009.
-OL,16,G2100 Piping Sounds
-OL,17,     FThe best in pipe music from
-OL,18,     FScotland and around the world.
+OL,5,G2000 Take the Floor
+OL,6,     FFor the very best in traditional
+OL,7,     Fmusic, join Gary Innes for Take
+OL,8,     Fthe Floor. Our session comes from
+OL,9,     Four archive and features Ron Kerr
+OL,10,     Fand his Scottish Dance Band from
+OL,11,     F2009.
+OL,12,G2100 Piping Sounds
+OL,13,     FThe best in pipe music from
+OL,14,     FScotland and around the world.
+OL,15,G2200 Roddy Hart's Mix Tape
+OL,16,     FRoddy Hart with a playlist full of
+OL,17,     Ftracks to boost your energy and
+OL,18,     Fkeep you going. Featuring
+OL,19,     Fhandpicked favourites from Big
+OL,20,     FCountry, Strawberry Switchblade,
+OL,21,     FHamish Hawk and more.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -56,19 +58,12 @@ PN,21403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1785568697
+OL,0,        ECIMSBWebfax 2   F214A1785572340
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday                G3/3
-OL,5,G2200 Roddy Hart's Mix Tape
-OL,6,     FRoddy Hart with a playlist full of
-OL,7,     Ftracks to boost your energy and
-OL,8,     Fkeep you going. Featuring
-OL,9,     Fhandpicked favourites from Big
-OL,10,     FCountry, Strawberry Switchblade,
-OL,11,     FHamish Hawk and more.
-OL,12,G0000 As BBC Radio 5 Live
-OL,13,     FJoining Radio 5 Live.
+OL,5,G0000 As BBC Radio 5 Live
+OL,6,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100@
