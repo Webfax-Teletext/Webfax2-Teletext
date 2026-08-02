@@ -2,28 +2,28 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785637092
+OL,0,        ECIMSBWebfax 2   F211A1785640695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday                G1/3
-OL,5,G0306 World Book Club
-OL,6,     FHarriett speaks with Kaarina
-OL,7,     FParker about Fulvia.
-OL,8,G0400 BBC News
-OL,9,     FThe latest five minute news
-OL,10,     Fbulletin from BBC World Service.
-OL,11,G0406 From Our Own Correspondent
-OL,12,     FBattling the blazes threatening
-OL,13,     FBordeaux; Ecuador's endless war on
-OL,14,     Fdrugs; exhaustion among Myanmar's
-OL,15,     Fopposition forces; matchmaking
-OL,16,     Fmonks in South Korea.
-OL,17,G0430 BBC News Summary
-OL,18,     FThe latest two minute news summary
-OL,19,     Ffrom BBC World Service.
-OL,20,G0432 BBC Inside Science
-OL,21,     FWhat if the Goldilocks zone is for
-OL,22,     Fidiots?
+OL,3,V}yyy5CSaturday                G1/2
+OL,5,G0406 From Our Own Correspondent
+OL,6,     FBattling the blazes threatening
+OL,7,     FBordeaux; Ecuador's endless war on
+OL,8,     Fdrugs; exhaustion among Myanmar's
+OL,9,     Fopposition forces; matchmaking
+OL,10,     Fmonks in South Korea.
+OL,11,G0430 BBC News Summary
+OL,12,     FThe latest two minute news summary
+OL,13,     Ffrom BBC World Service.
+OL,14,G0432 BBC Inside Science
+OL,15,     FWhat if the Goldilocks zone is for
+OL,16,     Fidiots?
+OL,17,G0500 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
+OL,20,G0506 The Newsroom
+OL,21,     FThe world's Newsroom brings you
+OL,22,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -31,42 +31,25 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785637092
+OL,0,        ECIMSBWebfax 2   F211A1785640695
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday                G2/3
-OL,5,G0500 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0506 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G0530 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G0532 Asia Specific
-OL,15,     FCounterfeit and pirated goods
-OL,16,     Findustry is estimated to be worth
-OL,17,     Falmost half-a-trillion US dollars,
-OL,18,     Fand Vietnam is one of the most
-OL,19,     Fsignificant players in the illicit
-OL,20,     Ftrade.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785637092
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday                G3/3
-OL,5,G0550 Sporting Witness
-OL,6,     FIn 1986, Edinburgh football club
-OL,7,     FHeart of Midlothian, known as
-OL,8,     FHearts, came within touching
-OL,9,     Fdistance of glory.
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G0530 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G0532 Asia Specific
+OL,9,     FCounterfeit and pirated goods
+OL,10,     Findustry is estimated to be worth
+OL,11,     Falmost half-a-trillion US dollars,
+OL,12,     Fand Vietnam is one of the most
+OL,13,     Fsignificant players in the illicit
+OL,14,     Ftrade.
+OL,15,G0550 Sporting Witness
+OL,16,     FIn 1986, Edinburgh football club
+OL,17,     FHeart of Midlothian, known as
+OL,18,     FHearts, came within touching
+OL,19,     Fdistance of glory.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100@
