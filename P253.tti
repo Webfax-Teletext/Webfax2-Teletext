@@ -1,16 +1,52 @@
-PN,25300
-SC,0000
+PN,25301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F253A1785629927
+PS,c008
+OL,0,        ECIMSBWebfax 2   F253A1785647963
 OL,1,Vzssssss{0Ww;js%7+ j+j{jkkj;j;jjijcjs
 OL,2,Vupp=wfff5W-.*,%-. *.******.****&*.*,V(,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSunday                  G1/2
+OL,5,G0600 Babs Michel on BBC Radio
+OL,6,G     Cambridgeshire
+OL,7,     FJoin Babs for a relaxed and
+OL,8,     Fspiritual start to your Sunday.
+OL,9,G1000 Thordis Fridriksson on BBC Radio
+OL,10,G     Cambridgeshire
+OL,11,     FSounds of your mid-morning, with
+OL,12,     Ftop guests, great music and your
+OL,13,     Fdedications.
+OL,14,G1400 BBC Radio Cambridgeshire Special
+OL,15,     FWe are live from Cherry Hinton
+OL,16,     FHall Park with all the latest from
+OL,17,     Fday two of the festival.
+OL,18,G1600 The Make a Difference Show
+OL,19,     FGaby Roslin talks to some amazing
+OL,20,     Fpeople making a difference where
+OL,21,     Fwe live.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,254,250,301,140,0,100
+PN,25302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F253A1785647963
+OL,1,Vzssssss{0Ww;js%7+ j+j{jkkj;j;jjijcjs
+OL,2,Vupp=wfff5W-.*,%-. *.******.****&*.*,V(,
+OL,3,V}yyy5CSunday                  G2/2
+OL,5,G1800 Dotun Adebayo
+OL,6,     FDotun Adebayo brings you the best
+OL,7,     Fof community programming from
+OL,8,     Facross England.
+OL,9,G2200 The Late Show
+OL,10,     FAsma Younus with late-night
+OL,11,     Fconversation, stories and the
+OL,12,     Fsoundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,254,250,301,140,0,100@
