@@ -1,43 +1,28 @@
-PN,21401
-SC,0001
+PN,21400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1785770315
+PS,8008
+OL,0,        ECIMSBWebfax 2   F214A1785777536
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CMonday                  G1/2
-OL,5,G1600 Drivetime
-OL,6,     FBreaking down the day's talking
-OL,7,     Fpoints with comment and opinion,
-OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Sportsound
-OL,10,     FScottish Premiership title holders
-OL,11,     FCeltic kick-off their new season
-OL,12,     Fagainst Dundee, with all the
-OL,13,     Faction live on Sportsound.
-OL,14,G2200 Up Late
-OL,15,     FThe best company to end the day,
-OL,16,     Fwith lively chat and some of your
-OL,17,     Ffavourite tunes.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,215,200,300,120,0,100
-PN,21402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1785770315
-OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
-OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CMonday                  G2/2
-OL,5,G0000 Scotcast
-OL,6,     FMartin Geissler and the team bring
-OL,7,     Fyou thoughtful conversation and
-OL,8,     Fexpert analysis covering the most
-OL,9,     Finteresting news stories in
-OL,10,     FScotland.
-OL,11,G0030 As BBC Radio 5 Live
-OL,12,     FJoining Radio 5 Live.
+OL,3,V}yyy5CMonday
+OL,5,G1800 Sportsound
+OL,6,     FScottish Premiership title holders
+OL,7,     FCeltic kick-off their new season
+OL,8,     Fagainst Dundee, with all the
+OL,9,     Faction live on Sportsound.
+OL,10,G2200 Up Late
+OL,11,     FThe best company to end the day,
+OL,12,     Fwith lively chat and some of your
+OL,13,     Ffavourite tunes.
+OL,14,G0000 Scotcast
+OL,15,     FMartin Geissler and the team bring
+OL,16,     Fyou thoughtful conversation and
+OL,17,     Fexpert analysis covering the most
+OL,18,     Finteresting news stories in
+OL,19,     FScotland.
+OL,20,G0030 As BBC Radio 5 Live
+OL,21,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100@
