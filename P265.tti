@@ -1,16 +1,47 @@
-PN,26500
-SC,0000
+PN,26501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F265A1785802727
+PS,c008
+OL,0,        ECIMSBWebfax 2   F265A1785820767
 OL,1,Vzssssss{0Ww;js%7+ j:jsjk"7
 OL,2,Vupp=wfff5W-.*,%-. ***,** %V,,,,,,,,,,,,
-OL,3,V}yyy5CMonday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CTuesday                 G1/2
+OL,5,G0600 Dominic King
+OL,6,     FAll you need for the day ahead,
+OL,7,     FKent's news and great music at
+OL,8,     Fbreakfast with Dom.
+OL,9,G1000 Anna Cookson
+OL,10,     FCelebrating where we live and
+OL,11,     Ftalking about what matters to you.
+OL,12,     FCall 0800 756 11 11.
+OL,13,G1400 Adam Dowling on BBC Radio Kent
+OL,14,     FBrian Conley and his daughter Lucy
+OL,15,     Fchat to Adam about starring in
+OL,16,     FCelebrity Hunted.
+OL,17,G1800 Stephen Brown
+OL,18,     FStephen Brown brings you evening
+OL,19,     Fupdates, conversation and great
+OL,20,     Fmusic.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,266,250,301,140,0,100
+PN,26502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F265A1785820767
+OL,1,Vzssssss{0Ww;js%7+ j:jsjk"7
+OL,2,Vupp=wfff5W-.*,%-. ***,** %V,,,,,,,,,,,,
+OL,3,V}yyy5CTuesday                 G2/2
+OL,5,G2200 The Late Show
+OL,6,     FBecky Want with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,266,250,301,140,0,100@

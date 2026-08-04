@@ -1,16 +1,49 @@
-PN,27200
-SC,0000
+PN,27201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F272A1785802727
+PS,c008
+OL,0,        ECIMSBWebfax 2   F272A1785820766
 OL,1,Vzssssss{0Ww;js%7+ jkkjsj;jsjsjzjsjjijs
 OL,2,Vupp=wfff5W-.*,%-. ****,**(.*,(.(.**&*,
-OL,3,V}yyy5CMonday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CTuesday                 G1/2
+OL,5,G0600 Kevin Duala
+OL,6,     FWaking up Merseyside with music,
+OL,7,     Flaughter and the day's essential
+OL,8,     Finformation.
+OL,9,G1000 Tony Snell
+OL,10,     FGreat music, interviews, quizzes
+OL,11,     Fand all the weekday talking
+OL,12,     Fpoints.
+OL,13,G1400 Helen Jones
+OL,14,     FNews, great music, fun and the
+OL,15,     Flocal issues that matter to you.
+OL,16,G1800 Total Sport Merseyside
+OL,17,     FThe Fan Phone-In at 6pm, followed
+OL,18,     Fby the latest sports news, updates
+OL,19,     Fand analysis.
+OL,20,G2000 Joel Mitchell
+OL,21,     FJoel celebrates the culture and
+OL,22,     Fcommunities of the north.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,273,250,301,140,0,100
+PN,27202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F272A1785820766
+OL,1,Vzssssss{0Ww;js%7+ jkkjsj;jsjsjzjsjjijs
+OL,2,Vupp=wfff5W-.*,%-. ****,**(.*,(.(.**&*,
+OL,3,V}yyy5CTuesday                 G2/2
+OL,5,G2200 The Late Show
+OL,6,     FBecky Want with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,273,250,301,140,0,100@
