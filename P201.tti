@@ -1,15 +1,106 @@
-PN,20100
-SC,0000
+PN,20101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F201A1785903492
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1785907243
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday               G1/4
 OL,5,G0500 Radio 1 Early Breakfast with Dean
 OL,6,G     McCullough
 OL,7,     FDean has Radio 1's Early
 OL,8,     FBreakfast.
+OL,9,G0658 Radio 1 News
+OL,10,     FThe latest news from around the UK
+OL,11,     Fand around the world.
+OL,12,G0700 Radio 1 Breakfast with Greg James
+OL,13,     FAre you a match for our listener
+OL,14,     For do you think they're talking
+OL,15,     Fnonsense?
+OL,16,G1100 Rickie, Melvin and Charlie
+OL,17,     FRickie and Charlie try and confuse
+OL,18,     FMelvin with their strange facts
+OL,19,     Ffrom around the world.
+OL,20,G1245 Newsbeat @ 12:45
+OL,21,     FThe latest news from around the UK
+OL,22,     Fand around the world.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1785907243
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CWednesday               G2/4
+OL,5,G1300 Matt and Jerry
+OL,6,     FGet your thinking caps on for
+OL,7,     Fanother round of the Maths Quiz!
+OL,8,G1530 Radio 1 News
+OL,9,     FThe latest news from around the UK
+OL,10,     Fand around the world.
+OL,11,G1533 Going Home with Katie and Emil
+OL,12,     FCalling all film fans, it's time
+OL,13,     Ffor a midweek movie game.
+OL,14,G1745 Newsbeat @ 17:45
+OL,15,     FThe latest news from around the UK
+OL,16,     Fand around the world.
+OL,17,G1800 Radio 1's New Music Show with Jack
+OL,18,G     Saunders
+OL,19,     FThe biggest and best new music in
+OL,20,     Fthe world, including Radio 1's
+OL,21,     FHottest Record.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1785907243
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CWednesday               G3/4
+OL,5,G2000 Radio 1's Future Pop with Maia
+OL,6,G     Beth
+OL,7,     FFuture pop classics, right now
+OL,8,     Fwith Maia Beth, with a live
+OL,9,     Fsession from girl group XO.
+OL,10,G2200 Radio 1's Power Down Playlist with
+OL,11,G     Sian Eleri
+OL,12,     FLaidback positivity for a calmer
+OL,13,     Fstate of mind, with music from
+OL,14,     FJuls, Kali Uchis and more.
+OL,15,G2300 Benji B
+OL,16,     FBenji explores future beats from
+OL,17,     Faround the world.
+OL,18,G0100 Radio 1 Dance Presents... Parklife
+OL,19,G     Festival 2026
+OL,20,     FALISHA performs a stellar live set
+OL,21,     Fat Parklife Festival 2026.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1785907243
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CWednesday               G4/4
+OL,5,G0200 Radio 1 Anthems
+OL,6,     FAlice Hopkins with big anthems and
+OL,7,     Ftunes you haven't heard in ages.
+OL,8,G0400 Radio 1 Pop Anthems
+OL,9,     FDean McCullough brings you one
+OL,10,     Fhour of nonstop pop!
+OL,11,G0500 Radio 1 Early Breakfast with Dean
+OL,12,G     McCullough
+OL,13,     FDean has Radio 1's Early
+OL,14,     FBreakfast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100
