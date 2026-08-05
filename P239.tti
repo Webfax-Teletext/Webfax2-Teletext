@@ -2,7 +2,7 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1785907243
+OL,0,        ECIMSBWebfax 2   F239A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CThursday                G1/3
@@ -28,7 +28,7 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1785907243
+OL,0,        ECIMSBWebfax 2   F239A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CThursday                G2/3
@@ -37,18 +37,15 @@ OL,6,     FBreaking down the day's talking
 OL,7,     Fpoints with comment and opinion,
 OL,8,     Fplus sport, travel and weather.
 OL,9,G1630 Sportsound
-OL,10,     FSporting commentary, analysis and
-OL,11,     Fdebate.
-OL,12,G2230 Up Late
-OL,13,     FThe best company to end the day,
-OL,14,     Fwith lively chat and some of your
-OL,15,     Ffavourite tunes.
-OL,16,G0000 Scotcast
-OL,17,     FMartin Geissler and the team bring
-OL,18,     Fyou thoughtful conversation and
-OL,19,     Fexpert analysis covering the most
-OL,20,     Finteresting news stories in
-OL,21,     FScotland.
+OL,10,     FCommentary from Poland, where
+OL,11,     FRangers play Jagiellonia (17:00),
+OL,12,     Ffollowed by Benfica against Hearts
+OL,13,     F(20:00), with updates from Hibs v
+OL,14,     FShkendija and HJK v Motherwell.
+OL,15,G2230 Up Late
+OL,16,     FThe best company to end the day,
+OL,17,     Fwith lively chat and some of your
+OL,18,     Ffavourite tunes.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -56,12 +53,18 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1785907243
+OL,0,        ECIMSBWebfax 2   F239A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CThursday                G3/3
-OL,5,G0030 As BBC Radio 5 Live
-OL,6,     FJoining Radio 5 Live.
+OL,5,G0000 Scotcast
+OL,6,     FMartin Geissler and the team bring
+OL,7,     Fyou thoughtful conversation and
+OL,8,     Fexpert analysis covering the most
+OL,9,     Finteresting news stories in
+OL,10,     FScotland.
+OL,11,G0030 As BBC Radio 5 Live
+OL,12,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100

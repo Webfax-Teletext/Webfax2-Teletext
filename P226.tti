@@ -2,10 +2,10 @@ PN,22601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785907243
+OL,0,        ECIMSBWebfax 2   F226A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CThursday                G1/4
+OL,3,V}yyy5CThursday                G1/5
 OL,5,G0500 Radio 1 Early Breakfast with Dean
 OL,6,G     McCullough
 OL,7,     FDean has Radio 1's Early
@@ -29,10 +29,10 @@ PN,22602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785907243
+OL,0,        ECIMSBWebfax 2   F226A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CThursday                G2/4
+OL,3,V}yyy5CThursday                G2/5
 OL,5,G1300 Matt and Jerry
 OL,6,     FAnother caller takes on the Five
 OL,7,     Fto Two Quiz... at five to two!
@@ -56,18 +56,18 @@ PN,22603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785907243
+OL,0,        ECIMSBWebfax 2   F226A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CThursday                G3/4
+OL,3,V}yyy5CThursday                G3/5
 OL,5,G1800 Radio 1's New Music Show with Jack
 OL,6,G     Saunders
 OL,7,     FThe biggest and best new music in
 OL,8,     Fthe world, including Radio 1's
 OL,9,     FHottest Record.
 OL,10,G1930 Charli xcx on Radio 1
-OL,11,     FCharli xcx joins Jack for a very
-OL,12,     Fspecial performance.
+OL,11,     FCharli xcx joins Jack Saunders for
+OL,12,     Fa very special performance.
 OL,13,G2000 Radio 1's Rave-Up with Arielle
 OL,14,G     Free
 OL,15,     FArielle raves up your Thursday
@@ -84,28 +84,40 @@ PN,22604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785907243
+OL,0,        ECIMSBWebfax 2   F226A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CThursday                G4/4
+OL,3,V}yyy5CThursday                G4/5
 OL,5,G2300 The Residency on Radio 1 Dance -
 OL,6,G     Silva Bumpa
-OL,7,     FThe biggest names in dance music
-OL,8,     Ffrom the underground to the arena.
-OL,9,G0100 Radio 1's Live Lounge
-OL,10,     FAmazing performances from Radio
-OL,11,     F1's world famous Live Lounge.
-OL,12,G0200 Radio 1 Anthems
-OL,13,     FAlice Hopkins with big anthems and
-OL,14,     Ftunes you haven't heard in ages.
-OL,15,G0400 Radio 1's Workout Anthems
-OL,16,     FMotivational tunes to get you
-OL,17,     Fmoving!
-OL,18,G0500 Radio 1 Early Breakfast with Beth
-OL,19,G     Wallace
-OL,20,     FRadio 1 Early Breakfast - for
-OL,21,     Fthose still up and those getting
-OL,22,     Fup!
+OL,7,     FDiscover where it all began for
+OL,8,     FSilva Bumpa as he steps up to the
+OL,9,     FResidency hot seat.
+OL,10,G0100 Radio 1's Live Lounge
+OL,11,     FAmazing performances from Radio
+OL,12,     F1's world famous Live Lounge.
+OL,13,G0200 Radio 1 Anthems
+OL,14,     FAlice Hopkins with big anthems and
+OL,15,     Ftunes you haven't heard in ages.
+OL,16,G0400 Radio 1's Workout Anthems
+OL,17,     FMotivational tunes to get you
+OL,18,     Fmoving!
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,227,200,300,120,0,100
+PN,22605
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F226A1785943113
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CThursday                G5/5
+OL,5,G0500 Radio 1 Early Breakfast with Beth
+OL,6,G     Wallace
+OL,7,     FRadio 1 Early Breakfast - for
+OL,8,     Fthose still up and those getting
+OL,9,     Fup!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100

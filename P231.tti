@@ -2,7 +2,7 @@ PN,23101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1785907242
+OL,0,        ECIMSBWebfax 2   F231A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CThursday                G1/5
@@ -27,7 +27,7 @@ PN,23102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1785907242
+OL,0,        ECIMSBWebfax 2   F231A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CThursday                G2/5
@@ -52,7 +52,7 @@ PN,23103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1785907242
+OL,0,        ECIMSBWebfax 2   F231A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CThursday                G3/5
@@ -79,7 +79,7 @@ PN,23104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1785907242
+OL,0,        ECIMSBWebfax 2   F231A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CThursday                G4/5
@@ -87,20 +87,18 @@ OL,5,G0000 New Music Fix Playlist
 OL,6,     FGet your fix of all the best new
 OL,7,     Freleases in one handy playlist.
 OL,8,G0100 New Album Fix
-OL,9,     FNew Album Fix on 6 Music with Matt
-OL,10,     FEveritt.
-OL,11,G0200 6 Music Jukebox
-OL,12,     FSoundtrack the early hours with
-OL,13,     Fback-to-back music, plus exclusive
-OL,14,     FBBC sessions.
-OL,15,G0300 6 Music's 90s Forever
-OL,16,     F6 Music goes back to the 90s!
-OL,17,G0400 6 Music's 00s Forever
-OL,18,     F6 Music goes back to the 00s!
-OL,19,G0500 The Remix - Chris Hawkins
-OL,20,     FChris Hawkins takes you through 30
-OL,21,     Fminutes of remixed, re-versioned
-OL,22,     Fand reimagined tracks.
+OL,9,     FMatt Everitt reviews the very best
+OL,10,     Fbrand new albums. This week he
+OL,11,     Fhears from Man/Woman/Chainsaw,
+OL,12,     FOvermono and James Ellis Ford.
+OL,13,G0200 6 Music Jukebox
+OL,14,     FSoundtrack the early hours with
+OL,15,     Fback-to-back music, plus exclusive
+OL,16,     FBBC sessions.
+OL,17,G0300 6 Music's 90s Forever
+OL,18,     F6 Music goes back to the 90s!
+OL,19,G0400 6 Music's 00s Forever
+OL,20,     F6 Music goes back to the 00s!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,232,200,300,120,0,100
@@ -108,13 +106,20 @@ PN,23105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1785907242
+OL,0,        ECIMSBWebfax 2   F231A1785943113
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CThursday                G5/5
-OL,5,G0530 Chris Hawkins
-OL,6,     FNew music and the biggest Friday
-OL,7,     Fbangers with Chris Hawkins.
+OL,5,G0500 The Remix - Chris Hawkins
+OL,6,     FChris Hawkins takes you through 30
+OL,7,     Fminutes of iconic remixed,
+OL,8,     Fre-versioned and reimagined 80s
+OL,9,     Ftracks as part of the BBC's The
+OL,10,     FMusic is Black collaboration with
+OL,11,     FV&A East Museum.
+OL,12,G0530 Chris Hawkins
+OL,13,     FNew music and the biggest Friday
+OL,14,     Fbangers with Chris Hawkins.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,232,200,300,120,0,100
