@@ -2,7 +2,7 @@ PN,22601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785943113
+OL,0,        ECIMSBWebfax 2   F226A1785986306
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G1/5
@@ -29,7 +29,7 @@ PN,22602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785943113
+OL,0,        ECIMSBWebfax 2   F226A1785986306
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G2/5
@@ -56,7 +56,7 @@ PN,22603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785943113
+OL,0,        ECIMSBWebfax 2   F226A1785986306
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G3/5
@@ -72,11 +72,6 @@ OL,13,G2000 Radio 1's Rave-Up with Arielle
 OL,14,G     Free
 OL,15,     FArielle raves up your Thursday
 OL,16,     Fnight!
-OL,17,G2200 BBC Introducing on Radio 1 Dance
-OL,18,G     with Jaguar
-OL,19,     FJaguar brings you the most
-OL,20,     Fexciting new dance from BBC
-OL,21,     FIntroducing.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100
@@ -84,24 +79,28 @@ PN,22604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785943113
+OL,0,        ECIMSBWebfax 2   F226A1785986306
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G4/5
-OL,5,G2300 The Residency on Radio 1 Dance -
-OL,6,G     Silva Bumpa
-OL,7,     FDiscover where it all began for
-OL,8,     FSilva Bumpa as he steps up to the
-OL,9,     FResidency hot seat.
-OL,10,G0100 Radio 1's Live Lounge
-OL,11,     FAmazing performances from Radio
-OL,12,     F1's world famous Live Lounge.
-OL,13,G0200 Radio 1 Anthems
-OL,14,     FAlice Hopkins with big anthems and
-OL,15,     Ftunes you haven't heard in ages.
-OL,16,G0400 Radio 1's Workout Anthems
-OL,17,     FMotivational tunes to get you
-OL,18,     Fmoving!
+OL,5,G2200 BBC Introducing on Radio 1 Dance
+OL,6,G     with Jaguar
+OL,7,     FJaguar has a brand new Dancefloor
+OL,8,     FMoment from DJ YUKI. plus tunes
+OL,9,     Ffrom Oscar Farrell & JESHI, niina,
+OL,10,     FJ Wax, Aria SL, Reger & loads
+OL,11,     Fmore.
+OL,12,G2300 The Residency on Radio 1 Dance -
+OL,13,G     Silva Bumpa
+OL,14,     FDiscover where it all began for
+OL,15,     FSilva Bumpa as he steps up to the
+OL,16,     FResidency hot seat.
+OL,17,G0100 Radio 1's Live Lounge
+OL,18,     FAmazing performances from Radio
+OL,19,     F1's world famous Live Lounge.
+OL,20,G0200 Radio 1 Anthems
+OL,21,     FAlice Hopkins with big anthems and
+OL,22,     Ftunes you haven't heard in ages.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100
@@ -109,15 +108,18 @@ PN,22605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F226A1785943113
+OL,0,        ECIMSBWebfax 2   F226A1785986306
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday                G5/5
-OL,5,G0500 Radio 1 Early Breakfast with Beth
-OL,6,G     Wallace
-OL,7,     FRadio 1 Early Breakfast - for
-OL,8,     Fthose still up and those getting
-OL,9,     Fup!
+OL,5,G0400 Radio 1's Workout Anthems
+OL,6,     FMotivational tunes to get you
+OL,7,     Fmoving!
+OL,8,G0500 Radio 1 Early Breakfast with Beth
+OL,9,G     Wallace
+OL,10,     FRadio 1 Early Breakfast - for
+OL,11,     Fthose still up and those getting
+OL,12,     Fup!
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,227,200,300,120,0,100
