@@ -1,41 +1,24 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785986306
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1785988089
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G1/2
-OL,5,G0406 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0430 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0432 The Food Chain
-OL,12,     FWhat can food reveal about the
-OL,13,     Fpast? Historians and
-OL,14,     Farchaeologists uncover ancient
-OL,15,     Fdiets, forgotten recipes and
-OL,16,     Fsurprising clues about how people
-OL,17,     Fonce lived.
-OL,18,G0500 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1785986306
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CWednesday               G2/2
-OL,5,G0506 Newsday
-OL,6,     FLive news, business and sport from
-OL,7,     Faround the world.
+OL,3,V}yyy5CWednesday
+OL,5,G0432 The Food Chain
+OL,6,     FWhat can food reveal about the
+OL,7,     Fpast? Historians and
+OL,8,     Farchaeologists uncover ancient
+OL,9,     Fdiets, forgotten recipes and
+OL,10,     Fsurprising clues about how people
+OL,11,     Fonce lived.
+OL,12,G0500 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0506 Newsday
+OL,16,     FLive news, business and sport from
+OL,17,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
