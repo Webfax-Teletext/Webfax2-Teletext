@@ -1,16 +1,53 @@
-PN,25700
-SC,0000
+PN,25701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F257A1785975529
+PS,c008
+OL,0,        ECIMSBWebfax 2   F257A1785993566
 OL,1,Vzssssss{0Ww;js%7+ jijsj;j;jz
 OL,2,Vupp=wfff5W-.*,%-. *&*,***.(.V(,,,,,,,,,
-OL,3,V}yyy5CWednesday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CThursday                G1/2
+OL,5,G0600 Becky Measures
+OL,6,     FBecky has all you need to know to
+OL,7,     Fstart your day across Derbyshire.
+OL,8,G1000 Ian Skye
+OL,9,     FTalking points and taking on the
+OL,10,     Fday's top stories. Also
+OL,11,     Fcelebrities and music you love.
+OL,12,G1400 The Afternoon Show on BBC Radio
+OL,13,G     Derby
+OL,14,     FThe latest news, great music and
+OL,15,     Finspirational people to take you
+OL,16,     Fthrough the afternoon.
+OL,17,G1800 Sportscene At Six
+OL,18,     FA round-up of the day's local and
+OL,19,     Fnational sport on BBC Radio Derby.
+OL,20,G1900 Upload with Dean Jackson
+OL,21,     FOriginal comedy, podcasts, poetry,
+OL,22,     Ffiction and more on BBC Upload.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,258,250,301,140,0,100
+PN,25702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F257A1785993566
+OL,1,Vzssssss{0Ww;js%7+ jijsj;j;jz
+OL,2,Vupp=wfff5W-.*,%-. *&*,***.(.V(,,,,,,,,,
+OL,3,V}yyy5CThursday                G2/2
+OL,5,G2000 BBC Introducing - East Midlands
+OL,6,     FDeke Hardman and the Beat team
+OL,7,     Fwith new music from across the
+OL,8,     FEast Mids and Lincolnshire.
+OL,9,G2200 The Late Show
+OL,10,     FBecky Want with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,258,250,301,140,0,100
