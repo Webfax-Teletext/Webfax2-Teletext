@@ -2,26 +2,28 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1786027719
+OL,0,        ECIMSBWebfax 2   F214A1786029518
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CThursday                G1/2
-OL,5,G1330 Radio Scotland Afternoons
-OL,6,     FEdinburgh International Festival
-OL,7,     Fartistic director Nicola Benedetti
-OL,8,     Ftalks about this year's programme,
-OL,9,     Fand Texas singer Sharleen Spiteri
-OL,10,     Fis in conversation with Grant.
-OL,11,G1600 Drivetime
-OL,12,     FBreaking down the day's talking
-OL,13,     Fpoints with comment and opinion,
-OL,14,     Fplus sport, travel and weather.
-OL,15,G1630 Sportsound
-OL,16,     FCommentary from Poland, where
-OL,17,     FRangers play Jagiellonia (17:00),
-OL,18,     Ffollowed by Benfica against Hearts
-OL,19,     F(20:00), with updates from Hibs v
-OL,20,     FShkendija and HJK v Motherwell.
+OL,5,G1600 Drivetime
+OL,6,     FBreaking down the day's talking
+OL,7,     Fpoints with comment and opinion,
+OL,8,     Fplus sport, travel and weather.
+OL,9,G1630 Sportsound
+OL,10,     FCommentary from Poland, where
+OL,11,     FRangers play Jagiellonia (17:00),
+OL,12,     Ffollowed by Benfica against Hearts
+OL,13,     F(20:00), with updates from Hibs v
+OL,14,     FShkendija and HJK v Motherwell.
+OL,15,G2230 Up Late
+OL,16,     FThe best company to end the day,
+OL,17,     Fwith lively chat and some of your
+OL,18,     Ffavourite tunes.
+OL,19,G0000 Scotcast
+OL,20,     FPolitical analysis with David
+OL,21,     FWallace Lockhart, Lysney Bews and
+OL,22,     FBernard Ponsonby.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -29,20 +31,12 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1786027719
+OL,0,        ECIMSBWebfax 2   F214A1786029518
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CThursday                G2/2
-OL,5,G2230 Up Late
-OL,6,     FThe best company to end the day,
-OL,7,     Fwith lively chat and some of your
-OL,8,     Ffavourite tunes.
-OL,9,G0000 Scotcast
-OL,10,     FPolitical analysis with David
-OL,11,     FWallace Lockhart, Lysney Bews and
-OL,12,     FBernard Ponsonby.
-OL,13,G0030 As BBC Radio 5 Live
-OL,14,     FJoining Radio 5 Live.
+OL,5,G0030 As BBC Radio 5 Live
+OL,6,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
