@@ -2,7 +2,7 @@ PN,24001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785993566
+OL,0,        ECIMSBWebfax 2   F240A1786027719
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G1/5
@@ -18,9 +18,10 @@ OL,13,     Fnews each morning.
 OL,14,G0900 Coinneach MacIomhair
 OL,15,     FCoignear le bC rdachd mun
 OL,16,     FTransocean Winner a chaidh air na
-OL,17,     Fsgeirean ann an CC rlabhagh san
-OL,18,     FLunastal. Five poets share their
-OL,19,     Fthoughts on the Transocean Winner.
+OL,17,     Fsgeirean bho chionn 10 bliadhna.
+OL,18,     FFive poets on verses composed in
+OL,19,     F2016, about a wrecked oil-rig, off
+OL,20,     Fthe coast of Lewis.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -28,7 +29,7 @@ PN,24002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785993566
+OL,0,        ECIMSBWebfax 2   F240A1786027719
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G2/5
@@ -55,7 +56,7 @@ PN,24003
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785993566
+OL,0,        ECIMSBWebfax 2   F240A1786027719
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G3/5
@@ -83,7 +84,7 @@ PN,24004
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785993566
+OL,0,        ECIMSBWebfax 2   F240A1786027719
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G4/5
@@ -99,12 +100,6 @@ OL,13,     Fseachdain air a chasan. Chat and
 OL,14,     Fmusic with John Carmichael and
 OL,15,     Fguest to get your weekend off to a
 OL,16,     Fgreat start.
-OL,17,G2300 Coinneach MacIomhair
-OL,18,     FCoignear le bC rdachd mun
-OL,19,     FTransocean Winner a chaidh air na
-OL,20,     Fsgeirean ann an CC rlabhagh san
-OL,21,     FLunastal. Five poets share their
-OL,22,     Fthoughts on the Transocean Winner.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -112,14 +107,21 @@ PN,24005
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1785993566
+OL,0,        ECIMSBWebfax 2   F240A1786027719
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CFriday                  G5/5
-OL,5,G0000 Mar Radio Alba
-OL,6,     FTha BBC Radio nan Gaidheal mar BBC
-OL,7,     FRadio Alba. BBC Radio nan Gaidheal
-OL,8,     Fjoins BBC Radio Scotland.
+OL,5,G2300 Coinneach MacIomhair
+OL,6,     FCoignear le bC rdachd mun
+OL,7,     FTransocean Winner a chaidh air na
+OL,8,     Fsgeirean bho chionn 10 bliadhna.
+OL,9,     FFive poets on verses composed in
+OL,10,     F2016, about a wrecked oil-rig, off
+OL,11,     Fthe coast of Lewis.
+OL,12,G0000 Mar Radio Alba
+OL,13,     FTha BBC Radio nan Gaidheal mar BBC
+OL,14,     FRadio Alba. BBC Radio nan Gaidheal
+OL,15,     Fjoins BBC Radio Scotland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
