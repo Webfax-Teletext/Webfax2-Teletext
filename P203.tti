@@ -2,7 +2,7 @@ PN,20301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1786105107
+OL,0,        ECIMSBWebfax 2   F203A1786110503
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday                  G1/3
@@ -28,7 +28,7 @@ PN,20302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1786105107
+OL,0,        ECIMSBWebfax 2   F203A1786110503
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday                  G2/3
@@ -39,16 +39,15 @@ OL,8,     Fconductor Nil Venditti and star
 OL,9,     Fsoloists perform Rossini's Stabat
 OL,10,     FMater. Respighi's Church Windows
 OL,11,     Flight the first half.
-OL,12,G2200 Late Junction
-OL,13,     FVerity Sharp presents a voyage
-OL,14,     Faround the world of ear-bending
-OL,15,     Fexperiments in sound.
-OL,16,G2330 'Round Midnight
-OL,17,     FAlice Zawadzki is back with more
-OL,18,     Fof the best jazz from the UK and
-OL,19,     Faround the world, and she welcomes
-OL,20,     FSwedish singer Frida Touray as her
-OL,21,     FFriday night mixtape guest.
+OL,12,G2130 Classical Mixtape
+OL,13,     FTake time out with a 30-minute
+OL,14,     Fsoundscape of classical
+OL,15,     Ffavourites, including music by
+OL,16,     FRavel, Boulanger and Harris.
+OL,17,G2200 Late Junction
+OL,18,     FVerity Sharp presents a voyage
+OL,19,     Faround the world of ear-bending
+OL,20,     Fexperiments in sound.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -56,17 +55,23 @@ PN,20303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1786105107
+OL,0,        ECIMSBWebfax 2   F203A1786110503
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday                  G3/3
-OL,5,G0030 Through the Night
-OL,6,     FClara Schumann's Piano Concerto
-OL,7,     Fwith star soloist Isata
-OL,8,     FKanneh-Mason and Beethoven's Fifth
-OL,9,     FSymphony take centre stage
-OL,10,     Falongside a world premiere of Ben
-OL,11,     FNobuto's Hallelujah Sim.
+OL,5,G2330 'Round Midnight
+OL,6,     FAlice Zawadzki is back with more
+OL,7,     Fof the best jazz from the UK and
+OL,8,     Faround the world, and she welcomes
+OL,9,     FSwedish singer Frida Touray as her
+OL,10,     FFriday night mixtape guest.
+OL,11,G0030 Through the Night
+OL,12,     FClara Schumann's Piano Concerto
+OL,13,     Fwith star soloist Isata
+OL,14,     FKanneh-Mason and Beethoven's Fifth
+OL,15,     FSymphony take centre stage
+OL,16,     Falongside a world premiere of Ben
+OL,17,     FNobuto's Hallelujah Sim.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
