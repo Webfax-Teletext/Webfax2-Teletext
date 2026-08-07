@@ -2,7 +2,7 @@ PN,48501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786079975
+OL,0,        ECIMSBWebfax 2   F485A1786099694
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday                G1/5
@@ -30,7 +30,7 @@ PN,48502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786079975
+OL,0,        ECIMSBWebfax 2   F485A1786099694
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday                G2/5
@@ -56,7 +56,7 @@ PN,48503
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786079975
+OL,0,        ECIMSBWebfax 2   F485A1786099694
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday                G3/5
@@ -80,7 +80,7 @@ PN,48504
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786079975
+OL,0,        ECIMSBWebfax 2   F485A1786099694
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday                G4/5
@@ -108,7 +108,7 @@ PN,48505
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786079975
+OL,0,        ECIMSBWebfax 2   F485A1786099694
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday                G5/5
@@ -118,8 +118,11 @@ OL,7,     Fpresented by Brian Lally, who'll
 OL,8,     Fdo his best to have something old,
 OL,9,     Fsomething new, something borrowed
 OL,10,     Fand something bluegrass.
-OL,11,G0200 RTE Gold on RTE Radio 1
-OL,12,     FThe greatest hits of all time.
+OL,11,G2359 Late Date
+OL,12,     FThe perfect musical end to the
+OL,13,     Fday, presented by Ray Cuddihy.
+OL,14,G0200 RTE Gold on RTE Radio 1
+OL,15,     FThe greatest hits of all time.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
