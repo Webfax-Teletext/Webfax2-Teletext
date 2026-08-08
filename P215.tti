@@ -1,15 +1,57 @@
-PN,21500
-SC,0000
+PN,21501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F215A1786144699
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1786166361
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday                G1/2
 OL,5,G0000 Mar Radio Alba
 OL,6,     FTha BBC Radio nan Gaidheal mar BBC
 OL,7,     FRadio Alba. BBC Radio nan Gaidheal
 OL,8,     Fjoins BBC Radio Scotland.
+OL,9,G0900 Spors na Seachdain
+OL,10,     FSpors ionadail, nC iseanta agus
+OL,11,     Fbho air feadh an t-saoghail comhla
+OL,12,     Fri Iain Moireasdan. Local,
+OL,13,     Fnational and international sport
+OL,14,     Fpresented by John Morrison.
+OL,15,G1000 FC ilt' air an Duthaich
+OL,16,     FTaghadh de cheol duthchail sean is
+OL,17,     Fur bho leithid Ronnie Milsap agus
+OL,18,     FPatty Loveless. Choice of country
+OL,19,     Fmusic, old and new from Ronnie
+OL,20,     FMilsap, Patty Loveless and many
+OL,21,     Fmore.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1786166361
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G1100 Belladrum
+OL,6,     FLiostaichean-cluiche de
+OL,7,     Fphiosan-ciuil a chaidh an clC radh
+OL,8,     Fbeo aig feis Bhelladrum 2026.
+OL,9,     FPlaylist consisting of music
+OL,10,     Frecorded live during Belladrum
+OL,11,     F2026.
+OL,12,G1200 Beartas Ghuthan
+OL,13,     FMC iri Anna NicUalraig a' cur na
+OL,14,     Fprosbaig air sC r-ghuthan de gach
+OL,15,     Fseorsa agus bho gach cultar. Mary
+OL,16,     FAnn Kennedy celebrates the most
+OL,17,     Funiversal musical instrument: the
+OL,18,     Fhuman voice.
+OL,19,G1300 Mar Radio Alba
+OL,20,     FTha BBC Radio nan Gaidheal mar BBC
+OL,21,     FRadio Alba. BBC Radio nan Gaidheal
+OL,22,     Fjoins BBC Radio Scotland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,216,200,300,120,0,100

@@ -1,16 +1,77 @@
-PN,25300
-SC,0000
+PN,25301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F253A1786148325
+PS,c008
+OL,0,        ECIMSBWebfax 2   F253A1786166361
 OL,1,Vzssssss{0Ww;js%7+ j+j{jkkj;j;jjijcjs
 OL,2,Vupp=wfff5W-.*,%-. *.******.****&*.*,V(,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSaturday                G1/3
+OL,5,G0600 Heidi Secker on BBC Radio
+OL,6,G     Cambridgeshire
+OL,7,     FHeidi has all you need to start
+OL,8,     Fyour weekend, with Saturday
+OL,9,     Fmorning tunes, guests and fun.
+OL,10,G1000 Thordis Fridriksson on BBC Radio
+OL,11,G     Cambridgeshire
+OL,12,     FSounds of your mid-morning, with
+OL,13,     Ftop guests, great music and your
+OL,14,     Fdedications.
+OL,15,G1200 Cambridgeshire Sport: Pre-Match
+OL,16,     FBuild-up/interviews on the opening
+OL,17,     Fday of the new season for
+OL,18,     FPeterborough and Cambridge.
+OL,19,G1300 Cambridgeshire Sport
+OL,20,     FEFL Cup coverage of Cambridge
+OL,21,     FUnited v Barnet. Kick-off at 1pm.
+OL,22,     FNot online.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,254,250,301,140,0,100
+PN,25302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F253A1786166361
+OL,1,Vzssssss{0Ww;js%7+ j+j{jkkj;j;jjijcjs
+OL,2,Vupp=wfff5W-.*,%-. *.******.****&*.*,V(,
+OL,3,V}yyy5CSaturday                G2/3
+OL,5,G1500 Cambridgeshire Sport
+OL,6,     FEFL Cup coverage of Bristol Rovers
+OL,7,     Fv Peterborough United. Kick-off at
+OL,8,     F3pm. Not online.
+OL,9,G1700 Cambridgeshire Sport: The
+OL,10,G     Post-Match
+OL,11,     FPost-match reaction and your
+OL,12,     Fthoughts via 81333 on texts and
+OL,13,     F@BBCCambsSport on Twitter.
+OL,14,G1800 Upload with Rob Jelly
+OL,15,     FCinematographer Michelle Siu,
+OL,16,     Ffilm-maker Richard Jackson and
+OL,17,     Fcomposer Liam Taylor.
+OL,18,G2000 BBC Introducing - Essex &
+OL,19,G     Cambridgeshire
+OL,20,     FMatt Plumb presents TOTW from Ruby
+OL,21,     FPoole.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,254,250,301,140,0,100
+PN,25303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F253A1786166361
+OL,1,Vzssssss{0Ww;js%7+ j+j{jkkj;j;jjijcjs
+OL,2,Vupp=wfff5W-.*,%-. *.******.****&*.*,V(,
+OL,3,V}yyy5CSaturday                G3/3
+OL,5,G2200 Late Night Jo
+OL,6,     FJo Good with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekend overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,254,250,301,140,0,100

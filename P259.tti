@@ -1,16 +1,73 @@
-PN,25900
-SC,0000
+PN,25901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F259A1786148326
+PS,c008
+OL,0,        ECIMSBWebfax 2   F259A1786166362
 OL,1,Vzssssss{0Ww;js%7+ jsjsjsjs*:
 OL,2,Vupp=wfff5W-.*,%-. *,(.(.*,**V(,,,,,,,,,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSaturday                G1/3
+OL,5,G0600 Heidi Secker on BBC Essex
+OL,6,     FHeidi has all you need to start
+OL,7,     Fyour weekend, with Saturday
+OL,8,     Fmorning tunes, guests and fun.
+OL,9,G1000 Sadie Nine
+OL,10,     FJoin Ian for stories to make you
+OL,11,     Fsmile, mid-morning updates and
+OL,12,     Fmusic.
+OL,13,G1400 BBC Essex Sport: Pre-Match
+OL,14,     FBuild-up and interviews ahead of
+OL,15,     FColchester, Southend United and
+OL,16,     FBraintree Town's matches.
+OL,17,G1500 BBC Essex Sport
+OL,18,     FCoverage of Altrincham v Southend
+OL,19,     FUnited in the National League.
+OL,20,     FKick-off at 3pm.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,260,250,301,140,0,100
+PN,25902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F259A1786166362
+OL,1,Vzssssss{0Ww;js%7+ jsjsjsjs*:
+OL,2,Vupp=wfff5W-.*,%-. *,(.(.*,**V(,,,,,,,,,
+OL,3,V}yyy5CSaturday                G2/3
+OL,5,G1700 BBC Essex Sport: Pre-Match
+OL,6,     FBuild-up and interviews ahead of
+OL,7,     FColchester, Southend United and
+OL,8,     FBraintree Town's matches.
+OL,9,G1730 BBC Essex Sport
+OL,10,     FEFL Cup coverage of Colchester
+OL,11,     FUnited v Southampton. Kick-off at
+OL,12,     F5.30pm. NOT online.
+OL,13,G1930 BBC Essex Sport - Post-Match
+OL,14,     FPost-match reports, results and
+OL,15,     Freaction following today's games.
+OL,16,G2000 BBC Introducing - Essex &
+OL,17,G     Cambridgeshire
+OL,18,     FMatt Plumb presents TOTW from Ruby
+OL,19,     FPoole.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,260,250,301,140,0,100
+PN,25903
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F259A1786166362
+OL,1,Vzssssss{0Ww;js%7+ jsjsjsjs*:
+OL,2,Vupp=wfff5W-.*,%-. *,(.(.*,**V(,,,,,,,,,
+OL,3,V}yyy5CSaturday                G3/3
+OL,5,G2200 Late Night Jo
+OL,6,     FJo Good with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekend overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,260,250,301,140,0,100

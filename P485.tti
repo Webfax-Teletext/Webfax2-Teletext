@@ -2,27 +2,25 @@ PN,48501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786128494
+OL,0,        ECIMSBWebfax 2   F485A1786166362
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday                G1/5
+OL,3,V}yyy5CSunday                  G1/6
 OL,5,G0600 Rising Time
 OL,6,     FMornings with melody, featuring
 OL,7,     Fclassic cuts and the best of new
 OL,8,     Fmusic presented by Sheelagh
 OL,9,     FDempsey.
-OL,10,G0800 CountryWide
-OL,11,     FElla McSweeney and the CountryWide
-OL,12,     Fteam feature the events, people
-OL,13,     Fand happenings that bring colour
-OL,14,     Fand life to communities, towns &
-OL,15,     Fvillages across the country.
-OL,16,G0900 Playback
-OL,17,     FSinead Mooney brings you the best
-OL,18,     Fof the week's wireless - from the
-OL,19,     Fbig news stories to the features,
-OL,20,     Fdrama, documentaries, sport and
-OL,21,     Fmusic.
+OL,10,G0800 World Report
+OL,11,     FFrom the unusual to the topical,
+OL,12,     FWorld Report brings you
+OL,13,     Finteresting stories from around
+OL,14,     Fthe world.
+OL,15,G0830 Bowman: Sunday: 08.30
+OL,16,     FJohn Bowman takes a look back
+OL,17,     Fthrough the RTE Radio archives and
+OL,18,     Fpresents some of his favourite
+OL,19,     Frecordings
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -30,25 +28,27 @@ PN,48502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786128494
+OL,0,        ECIMSBWebfax 2   F485A1786166362
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday                G2/5
-OL,5,G1000 Reignite
-OL,6,     FReignite returns for Season 7 with
-OL,7,     Fa mix of well known voices and
-OL,8,     Feveryday people having impact in
-OL,9,     Fthe world of leadership, business,
-OL,10,     Finnovation and beyond.
-OL,11,G1100 Brendan O'Connor
-OL,12,     FBrendan O'Connor presents a live
-OL,13,     Fstimulating mix of news,
-OL,14,     Finterviews, reports and
-OL,15,     Fdiscussion.
-OL,16,G1300 Second Captains Saturday
-OL,17,     FSecond Captains Saturday on RTE
-OL,18,     FRadio 1 is the perfect mix of
-OL,19,     Fculture, sport, comedy and music.
+OL,3,V}yyy5CSunday                  G2/6
+OL,5,G0900 Sunday Miscellany
+OL,6,     FA mix of 'music and musings' from
+OL,7,     Fradio essays to reportage,
+OL,8,     Fappreciations, memory pieces,
+OL,9,     Fpoetry, travel writing to personal
+OL,10,     Faccounts of events and happenings
+OL,11,G1000 Supercharged with Anna Geary
+OL,12,     FAnna opens up the conversation
+OL,13,     Faround our bodies and minds with a
+OL,14,     Fmix of expert advice, impactful
+OL,15,     Fpersonal stories, listener voice
+OL,16,     Fnotes, and practical life hacks.
+OL,17,G1100 Brendan O'Connor
+OL,18,     FBrendan O'Connor presents a live
+OL,19,     Fstimulating mix of news,
+OL,20,     Finterviews, reports and
+OL,21,     Fdiscussion.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -56,23 +56,25 @@ PN,48503
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786128494
+OL,0,        ECIMSBWebfax 2   F485A1786166362
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday                G3/5
-OL,5,G1400 Saturday Sport
-OL,6,     FCoverage of the all the day's
-OL,7,     Fsports news plus reaction and
-OL,8,     Ffeature interviews.
-OL,9,G1800 Mark Feehily's Musical Icons
-OL,10,     FJoin Mark Feehily on RTE Radio 1
-OL,11,     Fas he takes us on a journey
-OL,12,     Fthrough the music that shaped his
-OL,13,     Flife and inspired his career.
-OL,14,G1900 Routes
-OL,15,     FIn this instalment of 'Routes', we
-OL,16,     Fmeet novelist and Waterford native
-OL,17,     FMegan Nolan.
+OL,3,V}yyy5CSunday                  G3/6
+OL,5,G1300 This Week
+OL,6,     FA look at events making the news
+OL,7,     Fin the past week.
+OL,8,G1400 Sunday Sport
+OL,9,     FGaelic Games: Live coverage of All
+OL,10,     FIreland Senior Camogie
+OL,11,     FChampionship final from Croke Park
+OL,12,     Fplus the rest of the day's sports
+OL,13,     Fnews and results.
+OL,14,G1800 Playback
+OL,15,     FSinead Mooney brings you the best
+OL,16,     Fof the week's wireless - from the
+OL,17,     Fbig news stories to the features,
+OL,18,     Fdrama, documentaries, sport and
+OL,19,     Fmusic.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -80,27 +82,24 @@ PN,48504
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786128494
+OL,0,        ECIMSBWebfax 2   F485A1786166362
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday                G4/5
-OL,5,G2000 Cuan an Cheoil
-OL,6,     FSa tsraith seo, taifeadta beo i
-OL,7,     FStiuideo Cuan sa Spideal, beidh
-OL,8,     Fcuid de mhorcheoltoiri na Gaeilge
-OL,9,     Fi mbun ceoil agus comhra le Liam O
-OL,10,     FMaonlai.
-OL,11,G2100 Ceili House
-OL,12,     FTonight Ceili House, presented by
-OL,13,     FTristan Rosenstock, will be coming
-OL,14,     Fto you live from Fleadh Cheoil na
-OL,15,     FhEireann in Belfast.
-OL,16,G2200 Folk on One
-OL,17,     FBroadcaster and singer Muireann
-OL,18,     FNic Amhlaoibh brings us a golden
-OL,19,     Fhour of folk music both old and
-OL,20,     Fnew, acoustic and traditional from
-OL,21,     Facross Ireland and beyond.
+OL,3,V}yyy5CSunday                  G4/6
+OL,5,G1900 The County Measure
+OL,6,     FPresented by writer and
+OL,7,     Fbroadcaster Vincent Woods who
+OL,8,     Ftravels across Ireland exploring
+OL,9,     Fcounty identity under the themes
+OL,10,     Fof community, culture, history,
+OL,11,     Fmusic and sport. (Waterford)
+OL,12,G2000 Drama on One
+OL,13,     FFrom the River of Ghosts is an
+OL,14,     Fintimate love letter commemorating
+OL,15,     Fthe lives of a working family
+OL,16,     Fpursuing their dreams over several
+OL,17,     Fgenerations in America's rust
+OL,18,     Fbelt.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -108,21 +107,42 @@ PN,48505
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1786128494
+OL,0,        ECIMSBWebfax 2   F485A1786166362
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday                G5/5
-OL,5,G2300 Country Time
-OL,6,     FThe best in country music
-OL,7,     Fpresented by Brian Lally, who'll
-OL,8,     Fdo his best to have something old,
-OL,9,     Fsomething new, something borrowed
-OL,10,     Fand something bluegrass.
-OL,11,G2359 Late Date
-OL,12,     FThe perfect musical end to the
-OL,13,     Fday, presented by Ray Cuddihy.
-OL,14,G0200 RTE Gold on RTE Radio 1
-OL,15,     FThe greatest hits of all time.
+OL,3,V}yyy5CSunday                  G5/6
+OL,5,G2100 The Rolling Wave
+OL,6,     FTraditional and Folk Music in
+OL,7,     FIreland with Aoife Nic Cormaic.
+OL,8,     FNamed after a famous traditional
+OL,9,     FIrish tune.
+OL,10,G2200 South Wind Blows
+OL,11,     FThe South Wind Blows is presented
+OL,12,     Fby Philip King every Sunday
+OL,13,     Fevening. The show comes from the
+OL,14,     Fedge of Europe, from the most
+OL,15,     Fwesterly tip of the Dingle
+OL,16,     Fpeninsula.
+OL,17,G2300 Late Date
+OL,18,     FThe perfect musical end to the
+OL,19,     Fday, presented by Ray Cuddihy.
+OL,20,G0200 RTE Gold on RTE Radio 1
+OL,21,     FThe greatest hits of all time.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,486,250,301,140,0,100
+PN,48506
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F485A1786166362
+OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
+OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
+OL,3,V}yyy5CSunday                  G6/6
+OL,5,G0530 Rising Time
+OL,6,     FMornings with melody, featuring
+OL,7,     Fclassic cuts and the best of new
+OL,8,     Fmusic presented by Lilian Smith.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
