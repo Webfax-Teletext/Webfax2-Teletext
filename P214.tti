@@ -2,27 +2,27 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1786173493
+OL,0,        ECIMSBWebfax 2   F214A1786177100
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday                G1/3
-OL,5,G0800 Radio Scotland Breakfast
-OL,6,     FNews from across Scotland and the
-OL,7,     Fworld, plus sport, weather,
-OL,8,     Fentertainment and big name
-OL,9,     Finterviews.
-OL,10,G0900 The Saturday Show
-OL,11,     FJason Byrne, Tom Ballard and Ryan
-OL,12,     FMcGowan join Amy Irons and Steven
-OL,13,     FMill for an Edinburgh Festival
-OL,14,     FFringe special.
-OL,15,G1200 Off the Ball
-OL,16,     FThe most petty and ill-informed
-OL,17,     Ffootball show on radio.
-OL,18,G1400 Sportsound
-OL,19,     FFull commentary of Dundee v
-OL,20,     FAberdeen including updates from
-OL,21,     Facross Scottish football.
+OL,5,G0900 The Saturday Show
+OL,6,     FJason Byrne, Tom Ballard and Ryan
+OL,7,     FMcGowan join Amy Irons and Steven
+OL,8,     FMill for an Edinburgh Festival
+OL,9,     FFringe special.
+OL,10,G1200 Off the Ball
+OL,11,     FThe most petty and ill-informed
+OL,12,     Ffootball show on radio.
+OL,13,G1400 Sportsound
+OL,14,     FFull commentary of Dundee v
+OL,15,     FAberdeen including updates from
+OL,16,     Facross Scottish football.
+OL,17,G1730 Sportsound
+OL,18,     FTom English and Andy Halliday are
+OL,19,     Fjoined by the fans to debate the
+OL,20,     Fimportant issues across the
+OL,21,     FScottish game.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -30,22 +30,24 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1786173493
+OL,0,        ECIMSBWebfax 2   F214A1786177100
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday                G2/3
-OL,5,G1730 Sportsound
-OL,6,     FTom English and Andy Halliday are
-OL,7,     Fjoined by the fans to debate the
-OL,8,     Fimportant issues across the
-OL,9,     FScottish game.
-OL,10,G1900 Take the Floor
-OL,11,     FFor the very best in traditional
-OL,12,     Fmusic and song, join Gary Innes
-OL,13,     Ffor Take the Floor. We share again
-OL,14,     Fa great session from Wayne
-OL,15,     FRobertson and his Scottish Dance
-OL,16,     FBand from last year.
+OL,5,G1900 Take the Floor
+OL,6,     FFor the very best in traditional
+OL,7,     Fmusic and song, join Gary Innes
+OL,8,     Ffor Take the Floor. We share again
+OL,9,     Fa great session from Wayne
+OL,10,     FRobertson and his Scottish Dance
+OL,11,     FBand from last year.
+OL,12,G2100 Piping Sounds
+OL,13,     FEwen Henderson presents a special
+OL,14,     Fprogramme dedicated to the music
+OL,15,     Fof legendary piper and composer GS
+OL,16,     FMacLennan, featuring sets by Gavin
+OL,17,     FStoddart, Anxo Lorenzo and
+OL,18,     FBeolach.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -53,25 +55,18 @@ PN,21403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1786173493
+OL,0,        ECIMSBWebfax 2   F214A1786177100
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday                G3/3
-OL,5,G2100 Piping Sounds
-OL,6,     FEwen Henderson presents a special
-OL,7,     Fprogramme dedicated to the music
-OL,8,     Fof legendary piper and composer GS
-OL,9,     FMacLennan, featuring sets by Gavin
-OL,10,     FStoddart, Anxo Lorenzo and
-OL,11,     FBeolach.
-OL,12,G2200 Roddy Hart's Mix Tape
-OL,13,     FRoddy Hart brings you classic
-OL,14,     Ftracks and new discoveries: Suede,
-OL,15,     FPaulo Nutini and Kate Bush, and
-OL,16,     FLucia Faithfull goes On the Record
-OL,17,     Fwith her musical inspirations.
-OL,18,G0000 As BBC Radio 5 Live
-OL,19,     FJoining Radio 5 Live.
+OL,5,G2200 Roddy Hart's Mix Tape
+OL,6,     FRoddy Hart brings you classic
+OL,7,     Ftracks and new discoveries: Suede,
+OL,8,     FPaulo Nutini and Kate Bush, and
+OL,9,     FLucia Faithfull goes On the Record
+OL,10,     Fwith her musical inspirations.
+OL,11,G0000 As BBC Radio 5 Live
+OL,12,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
