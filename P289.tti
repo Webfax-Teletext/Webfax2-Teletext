@@ -2,28 +2,28 @@ PN,28901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F289A1786166361
+OL,0,        ECIMSBWebfax 2   F289A1786180725
 OL,1,Vzssssss{0Ww;js%7+ jjjjj k!w1u55w%w1
 OL,2,Vupp=wfff5W-.*,%-. *..**,* ,%%%%%%-$V,,,
-OL,3,V}yyy5CSaturday                G1/3
-OL,5,G0600 Caroline Martin on BBC Radio
+OL,3,V}yyy5CSaturday                G1/2
+OL,5,G1000 Andy Bennett on BBC Radio
 OL,6,G     Wiltshire
-OL,7,     FNews, information and advice, plus
-OL,8,     Fgreat music for your Saturday
-OL,9,     Fbreakfast with Caroline.
-OL,10,G1000 Andy Bennett on BBC Radio
-OL,11,G     Wiltshire
-OL,12,     FJoin Andy for a mid-morning with
-OL,13,     Fplenty of laughs along the way.
-OL,14,G1400 BBC Radio Wiltshire Sport:
-OL,15,G     Pre-match
-OL,16,     FAll the pre-match build-up with
-OL,17,     FSwindon Town management, players
-OL,18,     Fand fans.
-OL,19,G1500 BBC Radio Wiltshire Sport
-OL,20,     FEFL Cup coverage of Cardiff City v
-OL,21,     FSwindon Town. Kick-off at 3pm. NOT
-OL,22,     Fonline.
+OL,7,     FJoin Andy for a mid-morning with
+OL,8,     Fplenty of laughs along the way.
+OL,9,G1400 BBC Radio Wiltshire Sport:
+OL,10,G     Pre-match
+OL,11,     FAll the pre-match build-up with
+OL,12,     FSwindon Town management, players
+OL,13,     Fand fans.
+OL,14,G1500 BBC Radio Wiltshire Sport
+OL,15,     FEFL Cup coverage of Cardiff City v
+OL,16,     FSwindon Town. Kick-off at 3pm. NOT
+OL,17,     Fonline.
+OL,18,G1700 BBC Radio Wiltshire Sport:
+OL,19,G     Post-match
+OL,20,     FResults, reports and reaction
+OL,21,     Fafter today's game. Text 81333
+OL,22,     F(start with Wiltshire).
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,290,250,301,140,0,100
@@ -31,42 +31,26 @@ PN,28902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F289A1786166361
+OL,0,        ECIMSBWebfax 2   F289A1786180725
 OL,1,Vzssssss{0Ww;js%7+ jjjjj k!w1u55w%w1
 OL,2,Vupp=wfff5W-.*,%-. *..**,* ,%%%%%%-$V,,,
-OL,3,V}yyy5CSaturday                G2/3
-OL,5,G1700 BBC Radio Wiltshire Sport:
-OL,6,G     Post-match
-OL,7,     FResults, reports and reaction
-OL,8,     Fafter today's game. Text 81333
-OL,9,     F(start with Wiltshire).
-OL,10,G1800 Upload with Adam Crowther
-OL,11,     FOriginal comedy, podcasts, poetry,
-OL,12,     Ffiction and more on BBC Upload
-OL,13,     Fwith Adam Crowther.
-OL,14,G2000 BBC Introducing - The West
-OL,15,     FJames is joined by Gabriel Templar
-OL,16,     Fand POLO LILLI goes In The Mix.
-OL,17,G2200 Late Night Jo
-OL,18,     FJo Good with late-night
-OL,19,     Fconversation, amazing stories and
-OL,20,     Fthe soundtrack to your night.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,290,250,301,140,0,100
-PN,28903
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F289A1786166361
-OL,1,Vzssssss{0Ww;js%7+ jjjjj k!w1u55w%w1
-OL,2,Vupp=wfff5W-.*,%-. *..**,* ,%%%%%%-$V,,,
-OL,3,V}yyy5CSaturday                G3/3
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G1800 Upload with Adam Crowther
+OL,6,     FOriginal comedy, podcasts, poetry,
+OL,7,     Ffiction and more on BBC Upload
+OL,8,     Fwith Adam Crowther.
+OL,9,G2000 BBC Introducing - The West
+OL,10,     FJames is joined by Gabriel Templar
+OL,11,     Fand POLO LILLI goes In The Mix.
+OL,12,G2200 Late Night Jo
+OL,13,     FJo Good with late-night
+OL,14,     Fconversation, amazing stories and
+OL,15,     Fthe soundtrack to your night.
+OL,16,G0100 Weekend overnights with BBC Radio
+OL,17,G     5 Live
+OL,18,     FLocal BBC Radio joins BBC Radio 5
+OL,19,     FLive through the night on a
+OL,20,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,290,250,301,140,0,100
