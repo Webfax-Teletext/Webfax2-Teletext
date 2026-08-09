@@ -2,25 +2,26 @@ PN,21201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G1/9
-OL,5,G0630 Kerry McLean
-OL,6,     FKerry eases you into Sunday with
-OL,7,     Fgreat music, chat and requests.
-OL,8,G0800 BBC News NI update
+OL,5,G0803 Sunday Sequence
+OL,6,     FSpeaking ill of the dead and
+OL,7,     Ftaking time out.
+OL,8,G0900 BBC News NI update
 OL,9,     FThe latest national and
 OL,10,     Finternational news.
-OL,11,G0803 Sunday Sequence
-OL,12,     FSpeaking ill of the dead and
-OL,13,     Ftaking time out.
-OL,14,G0900 BBC News NI update
-OL,15,     FThe latest national and
-OL,16,     Finternational news.
-OL,17,G0903 Morning Service
-OL,18,     FA religious reflection for a
-OL,19,     FSunday morning.
+OL,11,G0903 Morning Service
+OL,12,     FA religious reflection for a
+OL,13,     FSunday morning.
+OL,14,G0945 Thought for the Week
+OL,15,     FPresenter Audrey Carville with a
+OL,16,     Fselection of Radio Ulster's
+OL,17,     FThoughts for the Day.
+OL,18,G1000 BBC News NI update
+OL,19,     FThe latest national and
+OL,20,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -28,28 +29,24 @@ PN,21202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G2/9
-OL,5,G0945 Thought for the Week
-OL,6,     FPresenter Audrey Carville with a
-OL,7,     Fselection of Radio Ulster's
-OL,8,     FThoughts for the Day.
-OL,9,G1000 BBC News NI update
-OL,10,     FThe latest national and
-OL,11,     Finternational news.
-OL,12,G1003 Red Lines
-OL,13,     FMark Carruthers speaks to the
-OL,14,     Fformer Sinn Fein politician and
-OL,15,     FIRA prisoner.
-OL,16,G1033 Borderland - UK or United Ireland?
-OL,17,     FEnglish nationalism and the NHS.
-OL,18,     FChris Buckler, along with former
-OL,19,     FMPs Ian Paisley and Michelle
-OL,20,     FGildernew, explore issues around
-OL,21,     Fthe constitutional future of
-OL,22,     FNorthern Ireland.
+OL,5,G1003 Red Lines
+OL,6,     FMark Carruthers speaks to the
+OL,7,     Fformer Sinn Fein politician and
+OL,8,     FIRA prisoner.
+OL,9,G1033 Borderland - UK or United Ireland?
+OL,10,     FEnglish nationalism and the NHS.
+OL,11,     FChris Buckler, along with former
+OL,12,     FMPs Ian Paisley and Michelle
+OL,13,     FGildernew, explore issues around
+OL,14,     Fthe constitutional future of
+OL,15,     FNorthern Ireland.
+OL,16,G1100 BBC News NI update
+OL,17,     FThe latest national and
+OL,18,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -57,22 +54,26 @@ PN,21203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G3/9
-OL,5,G1100 BBC News NI update
-OL,6,     FThe latest national and
-OL,7,     Finternational news.
-OL,8,G1103 Sunday with Anna Curran
-OL,9,     FBroadcasting Legend Gloria
-OL,10,     FHunniford, Musician Niamh Noade,
-OL,11,     Fthe Fleadh bus sing a long
-OL,12,     Fmusician Tiernan Heffron and
-OL,13,     FCatchphrase star Roy Walker.
-OL,14,G1300 BBC News NI update
-OL,15,     FThe latest national and
-OL,16,     Finternational news.
+OL,5,G1103 Sunday with Anna Curran
+OL,6,     FBroadcasting Legend Gloria
+OL,7,     FHunniford, Musician Niamh Noade,
+OL,8,     Fthe Fleadh bus sing a long
+OL,9,     Fmusician Tiernan Heffron and
+OL,10,     FCatchphrase star Roy Walker.
+OL,11,G1300 BBC News NI update
+OL,12,     FThe latest national and
+OL,13,     Finternational news.
+OL,14,G1305 Your Farm and Mine
+OL,15,     FShannon Porter joins Eve Blair to
+OL,16,     Ftalk farming, exploring the path
+OL,17,     Fto net zero in agri-food and the
+OL,18,     FJustlandz storytelling project
+OL,19,     Fshaping farming's future in
+OL,20,     FFermanagh today.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -80,28 +81,28 @@ PN,21204
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G4/9
-OL,5,G1305 Your Farm and Mine
-OL,6,     FShannon Porter joins Eve Blair to
-OL,7,     Ftalk farming, exploring the path
-OL,8,     Fto net zero in agri-food and the
-OL,9,     FJustlandz storytelling project
-OL,10,     Fshaping farming's future in
-OL,11,     FFermanagh today.
-OL,12,G1330 Storytellers: Twist, by Colum
-OL,13,G     McCann
-OL,14,     FAs the ship approaches the coast
-OL,15,     Fof Ghana, Fennell decides to
-OL,16,     Fconfront Conway about his
-OL,17,     Fsuspicious past.
-OL,18,G1345 Storytellers: Twist, by Colum
-OL,19,G     McCann
-OL,20,     FAfter six weeks at sea, Fennell
-OL,21,     Fadjusts to life back on land and
-OL,22,     Fattempts to finish his article.
+OL,5,G1330 Storytellers: Twist, by Colum
+OL,6,G     McCann
+OL,7,     FAs the ship approaches the coast
+OL,8,     Fof Ghana, Fennell decides to
+OL,9,     Fconfront Conway about his
+OL,10,     Fsuspicious past.
+OL,11,G1345 Storytellers: Twist, by Colum
+OL,12,G     McCann
+OL,13,     FAfter six weeks at sea, Fennell
+OL,14,     Fadjusts to life back on land and
+OL,15,     Fattempts to finish his article.
+OL,16,G1400 BBC News NI update
+OL,17,     FThe latest national and
+OL,18,     Finternational news.
+OL,19,G1403 Long Player with Steven Rainey
+OL,20,     FGlen Hansard and Marketa Irglova
+OL,21,     Ffind a universal language in music
+OL,22,     Ffor Once.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -109,28 +110,26 @@ PN,21205
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G5/9
-OL,5,G1400 BBC News NI update
+OL,5,G1500 BBC News NI update
 OL,6,     FThe latest national and
 OL,7,     Finternational news.
-OL,8,G1403 Long Player with Steven Rainey
-OL,9,     FGlen Hansard and Marketa Irglova
-OL,10,     Ffind a universal language in music
-OL,11,     Ffor Once.
-OL,12,G1500 BBC News NI update
-OL,13,     FThe latest national and
-OL,14,     Finternational news.
-OL,15,G1503 Kaz Hawkins Got The Blues
-OL,16,     FBelfast born singer Kaz Hawkins is
-OL,17,     Fback with another personal
-OL,18,     Fselection of her favourite blues
-OL,19,     Frecords both old and new.
-OL,20,G1600 BBC News NI update
-OL,21,     FThe latest national and
-OL,22,     Finternational news.
+OL,8,G1503 Kaz Hawkins Got The Blues
+OL,9,     FBelfast born singer Kaz Hawkins is
+OL,10,     Fback with another personal
+OL,11,     Fselection of her favourite blues
+OL,12,     Frecords both old and new.
+OL,13,G1600 BBC News NI update
+OL,14,     FThe latest national and
+OL,15,     Finternational news.
+OL,16,G1603 Gardeners' Corner
+OL,17,     FJoin David Maxwell for an hour of
+OL,18,     Fgardening advice for summer. He'll
+OL,19,     Fbe joined in studio by expert Ann
+OL,20,     FFitzsimons.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -138,26 +137,25 @@ PN,21206
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G6/9
-OL,5,G1603 Gardeners' Corner
-OL,6,     FJoin David Maxwell for an hour of
-OL,7,     Fgardening advice for summer. He'll
-OL,8,     Fbe joined in studio by expert Ann
-OL,9,     FFitzsimons.
-OL,10,G1700 BBC News NI update
-OL,11,     FThe latest national and
-OL,12,     Finternational news.
-OL,13,G1703 Sounds Sacred
-OL,14,     FEugene O'Hagan introduces popular,
-OL,15,     Fsacred music performed by local
-OL,16,     Fand internationally acclaimed
-OL,17,     Fperformers.
-OL,18,G1800 BBC News NI update
-OL,19,     FThe latest national and
-OL,20,     Finternational news.
+OL,5,G1700 BBC News NI update
+OL,6,     FThe latest national and
+OL,7,     Finternational news.
+OL,8,G1703 Sounds Sacred
+OL,9,     FEugene O'Hagan introduces popular,
+OL,10,     Fsacred music performed by local
+OL,11,     Fand internationally acclaimed
+OL,12,     Fperformers.
+OL,13,G1800 BBC News NI update
+OL,14,     FThe latest national and
+OL,15,     Finternational news.
+OL,16,G1803 Kintra
+OL,17,     FThe US women who made history in
+OL,18,     FAmerica, and 70 years of the
+OL,19,     FDunloy Accordion Band.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -165,23 +163,26 @@ PN,21207
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G7/9
-OL,5,G1803 Kintra
-OL,6,     FThe US women who made history in
-OL,7,     FAmerica, and 70 years of the
-OL,8,     FDunloy Accordion Band.
-OL,9,G1830 Pipes and Drums
-OL,10,     FMark Wilson presents the best in
-OL,11,     Fpipe band music, featuring
-OL,12,     Fperformances from the local pipe
-OL,13,     Fband scene and highlights from the
-OL,14,     F2026 competition season.
-OL,15,G1900 BBC News NI update
-OL,16,     FThe latest national and
-OL,17,     Finternational news.
+OL,5,G1830 Pipes and Drums
+OL,6,     FMark Wilson presents the best in
+OL,7,     Fpipe band music, featuring
+OL,8,     Fperformances from the local pipe
+OL,9,     Fband scene and highlights from the
+OL,10,     F2026 competition season.
+OL,11,G1900 BBC News NI update
+OL,12,     FThe latest national and
+OL,13,     Finternational news.
+OL,14,G1903 Classical Connections with John
+OL,15,G     Toal
+OL,16,     FJohn chats with Louis Fields from
+OL,17,     FCharles Wood Summer School about
+OL,18,     Fthis year's event, and our Album
+OL,19,     Fof the Week features music from
+OL,20,     FFinland.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
@@ -189,26 +190,26 @@ PN,21208
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G8/9
-OL,5,G1903 Classical Connections with John
-OL,6,G     Toal
-OL,7,     FJohn chats with Louis Fields from
-OL,8,     FCharles Wood Summer School about
-OL,9,     Fthis year's event, and our Album
-OL,10,     Fof the Week features music from
-OL,11,     FFinland.
-OL,12,G2100 BBC News NI update
-OL,13,     FThe latest national and
-OL,14,     Finternational news.
-OL,15,G2103 Sunday with Brian D'Arcy
-OL,16,     FBrian D'Arcy delves into his wide
-OL,17,     Fexperience of all sorts of music
-OL,18,     Fto bring you some tracks just
-OL,19,     Fright for a Sunday evening.
-OL,20,G2200 BBC News NI update
+OL,5,G2100 BBC News NI update
+OL,6,     FThe latest national and
+OL,7,     Finternational news.
+OL,8,G2103 Sunday with Brian D'Arcy
+OL,9,     FBrian D'Arcy delves into his wide
+OL,10,     Fexperience of all sorts of music
+OL,11,     Fto bring you some tracks just
+OL,12,     Fright for a Sunday evening.
+OL,13,G2200 BBC News NI update
+OL,14,     FThe latest national and
+OL,15,     Finternational news.
+OL,16,G2203 Sunday Club
+OL,17,     FKathy Clugston plays her favourite
+OL,18,     Ftracks from the last one hundred
+OL,19,     Fyears.
+OL,20,G2355 BBC News NI update
 OL,21,     FThe latest national and
 OL,22,     Finternational news.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
@@ -218,20 +219,13 @@ PN,21209
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F212A1786254494
+OL,0,        ECIMSBWebfax 2   F212A1786259896
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
 OL,3,V}yyy5CSunday                  G9/9
-OL,5,G2203 Sunday Club
-OL,6,     FKathy Clugston plays her favourite
-OL,7,     Ftracks from the last one hundred
-OL,8,     Fyears.
-OL,9,G2355 BBC News NI update
-OL,10,     FThe latest national and
-OL,11,     Finternational news.
-OL,12,G0000 As BBC Radio 5 live
-OL,13,     FBBC Radio Ulster joins BBC Radio 5
-OL,14,     Flive.
+OL,5,G0000 As BBC Radio 5 live
+OL,6,     FBBC Radio Ulster joins BBC Radio 5
+OL,7,     Flive.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
