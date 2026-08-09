@@ -1,49 +1,29 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786247289
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1786249094
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday                G1/2
-OL,5,G0432 BBC Inside Science
-OL,6,     FHow does relentless heat impact
-OL,7,     Fsoil health? Plus, in the week
-OL,8,     Fthat a total eclipse sweeps
-OL,9,     FEurope, we speak to the scientist
-OL,10,     Fcreating artificial eclipses.
-OL,11,G0500 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0506 The Newsroom
-OL,15,     FThe world's Newsroom brings you
-OL,16,     Fglobal events as they happen.
-OL,17,G0530 BBC News Summary
-OL,18,     FThe latest two minute news summary
-OL,19,     Ffrom BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786247289
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday                G2/2
-OL,5,G0532 Asia Specific
-OL,6,     FRising fuel prices are squeezing
-OL,7,     FAsia's budget airlines - what
-OL,8,     Fhappens next? We speak to aviation
-OL,9,     Fanalysts Shukor Yusof and Brendan
-OL,10,     FSobie about higher fares.
-OL,11,G0550 Sporting Witness
-OL,12,     FIn 1976, forty years after
-OL,13,     Fbasketball was introduced to the
-OL,14,     FOlympic Games, a women's
-OL,15,     Ftournament was included for the
-OL,16,     Ffirst time.
+OL,3,V}yyy5CSaturday
+OL,5,G0506 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0530 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0532 Asia Specific
+OL,12,     FRising fuel prices are squeezing
+OL,13,     FAsia's budget airlines - what
+OL,14,     Fhappens next? We speak to aviation
+OL,15,     Fanalysts Shukor Yusof and Brendan
+OL,16,     FSobie about higher fares.
+OL,17,G0550 Sporting Witness
+OL,18,     FIn 1976, forty years after
+OL,19,     Fbasketball was introduced to the
+OL,20,     FOlympic Games, a women's
+OL,21,     Ftournament was included for the
+OL,22,     Ffirst time.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
