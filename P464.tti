@@ -1,14 +1,48 @@
-PN,46400
-SC,0000
+PN,46401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F464A1786238292
+PS,c008
+OL,0,        ECIMSBWebfax 2   F464A1786252764
 OL,1,Vzssssss{0Ww;"k#js1 7cj#55 j#4
 OL,2,Vupp=wfff5W%* * *,$ -.*,%-,*,!V,,,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0200 Gold on RTE Radio 1
+OL,3,V}yyy5CSunday                  G1/2
+OL,5,G0600 Gold Sunrise
 OL,6,     FPlaying the greatest hits of all
 OL,7,     Ftime.
+OL,8,G1000 Irelands Biggest Jukebox
+OL,9,     FThe greatest hits of all time on
+OL,10,     Fthe No 1 Music show on Sunday.
+OL,11,     FPresented by Michel Cahill
+OL,12,G1300 Al Dunne
+OL,13,     FTwo hours of classic tunes,
+OL,14,     Fpresented by Al Dunne.
+OL,15,G1500 Afternoon Gold
+OL,16,     FThe greatest hits of all time.
+OL,17,G1700 Golden Years
+OL,18,     FPresented by Eric Moore
+OL,19,G1800 20th Century Gold
+OL,20,     FMusic from the 50s, 60s, 70s, 80s
+OL,21,     Fand 90s.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,475,250,301,140,0,100
+PN,46402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F464A1786252764
+OL,1,Vzssssss{0Ww;"k#js1 7cj#55 j#4
+OL,2,Vupp=wfff5W%* * *,$ -.*,%-,*,!V,,,,,,,,,
+OL,3,V}yyy5CSunday                  G2/2
+OL,5,G2200 Gold Nightcap
+OL,6,     FEasy listening and pop classics to
+OL,7,     Fhelp you unwind.
+OL,8,G0200 Gold on RTE Radio 1
+OL,9,     FPlaying the greatest hits of all
+OL,10,     Ftime.
+OL,11,G0530 Gold Sunrise
+OL,12,     FPlaying the greatest hits of all
+OL,13,     Ftime.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,475,250,301,140,0,100
