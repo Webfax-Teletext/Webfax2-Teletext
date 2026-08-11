@@ -1,15 +1,108 @@
-PN,20100
-SC,0000
+PN,20101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F201A1786421894
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1786425567
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday                 G1/4
 OL,5,G0500 Radio 1 Early Breakfast with Dean
 OL,6,G     McCullough
 OL,7,     FDean has Radio 1's Early
 OL,8,     FBreakfast.
+OL,9,G0658 Radio 1 News
+OL,10,     FThe latest news from around the UK
+OL,11,     Fand around the world.
+OL,12,G0700 Radio 1 Breakfast with Greg James
+OL,13,     FSam & Danni need the nations help
+OL,14,     Fwith a very highbrow question
+OL,15,     Fabout pets' middle names.
+OL,16,G1100 Rickie, Melvin and Charlie
+OL,17,     FBig hits and the best new music.
+OL,18,G1245 Newsbeat @ 12:45
+OL,19,     FThe latest news from around the UK
+OL,20,     Fand around the world.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1786425567
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CTuesday                 G2/4
+OL,5,G1300 Matt and Jerry
+OL,6,     FThings are about to get heated in
+OL,7,     Fanother round of Matt v Jerry!
+OL,8,G1530 Radio 1 News
+OL,9,     FThe latest news from around the UK
+OL,10,     Fand around the world.
+OL,11,G1533 Going Home with Vick, Katie and
+OL,12,G     Jamie
+OL,13,     FWe bring you the hardest quiz on
+OL,14,     Fthe radio, Complete the Year.
+OL,15,G1745 Newsbeat @ 17:45
+OL,16,     FThe latest news from around the UK
+OL,17,     Fand around the world.
+OL,18,G1800 Radio 1's New Music Show with Jack
+OL,19,G     Saunders
+OL,20,     FDrum 'n' Bass icon Andy C debuts
+OL,21,     Fnew music as tonight's Hottest
+OL,22,     FRecord.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1786425567
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CTuesday                 G3/4
+OL,5,G2000 Radio 1's Future Artists with Sian
+OL,6,G     Eleri
+OL,7,     FO'Flynn delivers a 5-minute Future
+OL,8,     FFlex Mini Mix!
+OL,9,G2200 Radio 1's Power Down Playlist with
+OL,10,G     Sian Eleri
+OL,11,     FSongs for when you need to switch
+OL,12,     Foff the world, with tunes from
+OL,13,     FDusky, Thundercat, Kehlani and
+OL,14,     Fmore...
+OL,15,G2300 Martha
+OL,16,     FMartha takes you on a journey
+OL,17,     Fthrough the latest innovations in
+OL,18,     Felectronic music.
+OL,19,G0100 Radio 1 Dance Drum & Bass Mix
+OL,20,     FMixed up D&B from Phibes on Radio
+OL,21,     F1 Dance.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1786425567
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CTuesday                 G4/4
+OL,5,G0130 Radio 1 Dance Drum & Bass Mix:
+OL,6,G     Chilled D&B
+OL,7,     FMixed up D&B from Particle on
+OL,8,     FRadio 1 Dance.
+OL,9,G0200 Radio 1 Anthems
+OL,10,     FAlice Hopkins with big anthems and
+OL,11,     Ftunes you haven't heard in ages.
+OL,12,G0400 Radio 1 Pop Anthems
+OL,13,     FHuge pop anthems from Radio 1.
+OL,14,G0500 Radio 1 Early Breakfast with Dean
+OL,15,G     McCullough
+OL,16,     FDean has Radio 1's Early
+OL,17,     FBreakfast.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100
