@@ -1,17 +1,49 @@
-PN,46400
-SC,0000
+PN,46401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F464A1786673894
+PS,c008
+OL,0,        ECIMSBWebfax 2   F464A1786684794
 OL,1,Vzssssss{0Ww;"k#js1 7cj#55 j#4
 OL,2,Vupp=wfff5W%* * *,$ -.*,%-,*,!V,,,,,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G0300 Gold on RTE Radio 1
+OL,3,V}yyy5CFriday                  G1/2
+OL,5,G0530 Gold Sunrise
 OL,6,     FPlaying the greatest hits of all
 OL,7,     Ftime.
-OL,8,G0530 Gold Sunrise
-OL,9,     FPlaying the greatest hits of all
-OL,10,     Ftime.
+OL,8,G0700 Gold Breakfast with Michael Cahill
+OL,9,     FWake up with Michael, live from
+OL,10,     F7am
+OL,11,G1000 Daytime Gold with Erik Threlfall
+OL,12,     FThree hours of great tunes
+OL,13,G1300 Afternoon Gold with Al Dunne
+OL,14,     FAl Dunne delivers the Biggest Hits
+OL,15,     Fof All Time
+OL,16,G1600 More Music Drive
+OL,17,     FGold drive with the music you grew
+OL,18,     Fup with,The Beatles, Stones, Bruce
+OL,19,     F, Jackson & U2 and much more of
+OL,20,     Fthe greatest hits of all time.
+OL,21,G1800 Dave Fanning on Gold
+OL,22,     FPresented by Dave Fanning
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,475,250,301,140,0,100
+PN,46402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F464A1786684794
+OL,1,Vzssssss{0Ww;"k#js1 7cj#55 j#4
+OL,2,Vupp=wfff5W%* * *,$ -.*,%-,*,!V,,,,,,,,,
+OL,3,V}yyy5CFriday                  G2/2
+OL,5,G2000 20th Century Gold
+OL,6,     FMusic from the 50s, 60s, 70s, 80s
+OL,7,     Fand 90s.
+OL,8,G2200 Gold Nightcap
+OL,9,     FEasy listening and pop classics to
+OL,10,     Fhelp you unwind.
+OL,11,G0300 Gold on RTE Radio 1
+OL,12,     FPlaying the greatest hits of all
+OL,13,     Ftime.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,475,250,301,140,0,100

@@ -2,28 +2,28 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1786675702
+OL,0,        ECIMSBWebfax 2   F239A1786684794
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CFriday                  G1/3
-OL,5,G0600 Radio Scotland Breakfast
-OL,6,     FNews from across Scotland and the
-OL,7,     Fworld, plus sport, weather,
-OL,8,     Fentertainment and big name
-OL,9,     Finterviews.
-OL,10,G0900 Mornings
-OL,11,     FStephen Jardine gets to the heart
-OL,12,     Fof the stories making the news.
-OL,13,G1200 Lunchtime Live
-OL,14,     FNews updates from Scotland and
-OL,15,     Fbeyond, plus all your lunchtime
-OL,16,     Fsport, travel and weather.
-OL,17,G1330 Breaking the News
-OL,18,     FDes Clarke hosts Scotland's
-OL,19,     Faward-winning satirical news quiz.
-OL,20,G1400 Radio Scotland Afternoons
-OL,21,     FFeel-good music and chat with
-OL,22,     Fcelebrity guests.
+OL,3,V}yyy5CSaturday                G1/3
+OL,5,G0000 As BBC Radio 5 Live
+OL,6,     FJoining Radio 5 Live.
+OL,7,G0630 Out of Doors
+OL,8,     FMark Stephen and Rachel Stewart
+OL,9,     Fwith stories from the great
+OL,10,     Foutdoors.
+OL,11,G0800 Radio Scotland Breakfast
+OL,12,     FNews from across Scotland and the
+OL,13,     Fworld, plus sport, weather,
+OL,14,     Fentertainment and big name
+OL,15,     Finterviews.
+OL,16,G0900 The Saturday Show
+OL,17,     FAmy Irons and Steven Mill
+OL,18,     Fkick-start your Saturday with lots
+OL,19,     Fof laughs, great guests and
+OL,20,     Ftimeless tunes as we look back on
+OL,21,     Fthe week's news and preview the
+OL,22,     Fday's football fixtures.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -31,25 +31,27 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1786675702
+OL,0,        ECIMSBWebfax 2   F239A1786684794
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CFriday                  G2/3
-OL,5,G1600 Drivetime
-OL,6,     FBreaking down the day's talking
-OL,7,     Fpoints with comment and opinion,
-OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Grant Stott's Vinyl Collective
-OL,10,     FScottish singer-songwriter Sandi
-OL,11,     FThom shares a favourite vinyl
-OL,12,     Frecord. The top 10 albums this
-OL,13,     Fweek in 1980, and Grant pays
-OL,14,     Ftribute to William Orbit.
-OL,15,G1900 Sportsound
-OL,16,     FThe second round of the Scottish
-OL,17,     FLeague Cup kicks off with an
-OL,18,     FAyrshire derby as Kilmarnock host
-OL,19,     FAyr Utd.
+OL,3,V}yyy5CSaturday                G2/3
+OL,5,G1200 Off the Ball
+OL,6,     FThe most petty and ill-informed
+OL,7,     Ffootball show on radio.
+OL,8,G1400 Sportsound
+OL,9,     FComprehensive coverage of Scottish
+OL,10,     Fsport, including live and
+OL,11,     Fexclusive commentary.
+OL,12,G1730 Sportsound
+OL,13,     FSporting commentary, analysis and
+OL,14,     Fdebate.
+OL,15,G2030 Take the Floor
+OL,16,     FFor the very best in traditional
+OL,17,     Fmusic, join Gary Innes for Take
+OL,18,     Fthe Floor. This week, Gary
+OL,19,     Fwelcomes the Crynoch Ceilidh Band
+OL,20,     Fback to Take the Floor with a
+OL,21,     Fbrand new session.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -57,16 +59,25 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1786675702
+OL,0,        ECIMSBWebfax 2   F239A1786684794
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CFriday                  G3/3
-OL,5,G2300 Up Late
-OL,6,     FThe best company to end the day,
-OL,7,     Fwith lively chat and some of your
-OL,8,     Ffavourite tunes.
-OL,9,G0000 As BBC Radio 5 Live
-OL,10,     FJoining Radio 5 Live.
+OL,3,V}yyy5CSaturday                G3/3
+OL,5,G2100 Piping Sounds
+OL,6,     FMicheal Steele with a selection of
+OL,7,     Fthe best in pipe music. This week,
+OL,8,     Fhe features performances from
+OL,9,     FStuart Liddell, Mike Cusack and
+OL,10,     FAllan MacDonald.
+OL,11,G2200 Roddy Hart's Mix Tape
+OL,12,     FThis week on Side A, there's a Mix
+OL,13,     FTape Moment from Glasgow
+OL,14,     Fsinger-songwriter Alex Amor, and
+OL,15,     Fcomedy genius Jack Docherty goes
+OL,16,     FOn the Record with his musical
+OL,17,     Finspirations.
+OL,18,G0000 As BBC Radio 5 Live
+OL,19,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
