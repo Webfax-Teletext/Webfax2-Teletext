@@ -2,23 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786745898
+OL,0,        ECIMSBWebfax 2   F211A1786747707
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G1/6
-OL,5,G2306 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G2330 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G2332 World Business Report
-OL,12,     FThe latest business and finance
-OL,13,     Fnews from around the world, on the
-OL,14,     FBBC.
-OL,15,G0000 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,5,G2332 World Business Report
+OL,6,     FThe latest business and finance
+OL,7,     Fnews from around the world, on the
+OL,8,     FBBC.
+OL,9,G0000 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0006 Unexpected Elements
+OL,13,     FThis week's solar eclipse has
+OL,14,     FUnexpected Elements investigating
+OL,15,     Fthe surprising science of blocking
+OL,16,     Fsunlight, from whispering trees to
+OL,17,     Fgiant space bubbles.
+OL,18,G0100 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -26,25 +29,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786745898
+OL,0,        ECIMSBWebfax 2   F211A1786747707
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G2/6
-OL,5,G0006 Unexpected Elements
-OL,6,     FThis week's solar eclipse has
-OL,7,     FUnexpected Elements investigating
-OL,8,     Fthe surprising science of blocking
-OL,9,     Fsunlight, from whispering trees to
-OL,10,     Fgiant space bubbles.
-OL,11,G0100 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0106 The Newsroom
-OL,15,     FThe world's Newsroom brings you
-OL,16,     Fglobal events as they happen.
-OL,17,G0130 BBC News Summary
-OL,18,     FThe latest two minute news summary
-OL,19,     Ffrom BBC World Service.
+OL,5,G0106 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0130 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0132 The Global Story
+OL,12,     FWhy are men trying unproven
+OL,13,     Fmethods to boost their sperm
+OL,14,     Fcount?
+OL,15,G0200 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
+OL,18,G0206 The Newsroom
+OL,19,     FThe world's Newsroom brings you
+OL,20,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -52,23 +56,22 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786745898
+OL,0,        ECIMSBWebfax 2   F211A1786747707
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G3/6
-OL,5,G0132 The Global Story
-OL,6,     FWhy are men trying unproven
-OL,7,     Fmethods to boost their sperm
-OL,8,     Fcount?
-OL,9,G0200 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0206 The Newsroom
-OL,13,     FThe world's Newsroom brings you
-OL,14,     Fglobal events as they happen.
-OL,15,G0230 BBC News Summary
-OL,16,     FThe latest two minute news summary
-OL,17,     Ffrom BBC World Service.
+OL,5,G0230 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G0232 Stumped
+OL,9,     FScotland and Netherlands have
+OL,10,     Fcriticised the International
+OL,11,     FCricket Council's plans to reduce
+OL,12,     Fthe number of teams for the 2027
+OL,13,     Fmen's Cricket World Cup.
+OL,14,G0300 BBC News
+OL,15,     FThe latest five minute news
+OL,16,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -76,26 +79,26 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786745898
+OL,0,        ECIMSBWebfax 2   F211A1786747707
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G4/6
-OL,5,G0232 Stumped
-OL,6,     FScotland and Netherlands have
-OL,7,     Fcriticised the International
-OL,8,     FCricket Council's plans to reduce
-OL,9,     Fthe number of teams for the 2027
-OL,10,     Fmen's Cricket World Cup.
-OL,11,G0300 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0306 Outlook
-OL,15,     FThree great escapes using a hot
-OL,16,     Fair balloon, words on a page, and
-OL,17,     Ffollowing the spirit of Harry
-OL,18,     FHoudini. Evading borders,
-OL,19,     Fconfounding expectations and
-OL,20,     Ffleeing from reality.
+OL,5,G0306 Outlook
+OL,6,     FThree great escapes using a hot
+OL,7,     Fair balloon, words on a page, and
+OL,8,     Ffollowing the spirit of Harry
+OL,9,     FHoudini. Evading borders,
+OL,10,     Fconfounding expectations and
+OL,11,     Ffleeing from reality.
+OL,12,G0350 Witness History
+OL,13,     FAfter the 2004 tsunami, a baby
+OL,14,     Fhippo rescued off the Kenyan coast
+OL,15,     Fformed an unlikely friendship with
+OL,16,     Fa giant tortoise, capturing hearts
+OL,17,     Faround the world.
+OL,18,G0400 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -103,28 +106,25 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786745898
+OL,0,        ECIMSBWebfax 2   F211A1786747707
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G5/6
-OL,5,G0350 Witness History
-OL,6,     FAfter the 2004 tsunami, a baby
-OL,7,     Fhippo rescued off the Kenyan coast
-OL,8,     Fformed an unlikely friendship with
-OL,9,     Fa giant tortoise, capturing hearts
-OL,10,     Faround the world.
-OL,11,G0400 BBC News
+OL,5,G0406 Unexpected Elements
+OL,6,     FThis week's solar eclipse has
+OL,7,     FUnexpected Elements investigating
+OL,8,     Fthe surprising science of blocking
+OL,9,     Fsunlight, from whispering trees to
+OL,10,     Fgiant space bubbles.
+OL,11,G0500 BBC News
 OL,12,     FThe latest five minute news
 OL,13,     Fbulletin from BBC World Service.
-OL,14,G0406 Unexpected Elements
-OL,15,     FThis week's solar eclipse has
-OL,16,     FUnexpected Elements investigating
-OL,17,     Fthe surprising science of blocking
-OL,18,     Fsunlight, from whispering trees to
-OL,19,     Fgiant space bubbles.
-OL,20,G0500 BBC News
-OL,21,     FThe latest five minute news
-OL,22,     Fbulletin from BBC World Service.
+OL,14,G0506 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0530 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -132,24 +132,18 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786745898
+OL,0,        ECIMSBWebfax 2   F211A1786747707
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G6/6
-OL,5,G0506 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0530 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0532 Dear Daughter
-OL,12,     FA Dear Son episode where Fiona
-OL,13,     Ffrom Kenya talks about raising her
-OL,14,     Fson, the role models in his life,
-OL,15,     Fand what makes a man.
-OL,16,G0550 More or Less
-OL,17,     FThe complexities of calculating
-OL,18,     Flives saved and lives lost.
+OL,5,G0532 Dear Daughter
+OL,6,     FA Dear Son episode where Fiona
+OL,7,     Ffrom Kenya talks about raising her
+OL,8,     Fson, the role models in his life,
+OL,9,     Fand what makes a man.
+OL,10,G0550 More or Less
+OL,11,     FThe complexities of calculating
+OL,12,     Flives saved and lives lost.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
