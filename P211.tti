@@ -2,28 +2,25 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G1/19
-OL,5,G0606 Newsday
+OL,5,G0706 Newsday
 OL,6,     FLive news, business and sport from
 OL,7,     Faround the world.
-OL,8,G0700 BBC News
+OL,8,G0800 BBC News
 OL,9,     FThe latest five minute news
 OL,10,     Fbulletin from BBC World Service.
-OL,11,G0706 Newsday
-OL,12,     FLive news, business and sport from
-OL,13,     Faround the world.
-OL,14,G0800 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0806 The Interview
-OL,18,     FSteve Rosenberg meets Dmitry
-OL,19,     FMuratov, journalist and Nobel
-OL,20,     Flaureate. He reflects on the
-OL,21,     FUkraine war, political repression
-OL,22,     Fin Russia and press freedom.
+OL,11,G0806 The Interview
+OL,12,     FSteve Rosenberg meets Dmitry
+OL,13,     FMuratov, journalist and Nobel
+OL,14,     Flaureate. He reflects on the
+OL,15,     FUkraine war, political repression
+OL,16,     Fin Russia and press freedom.
+OL,17,G0830 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -31,21 +28,103 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G2/19
-OL,5,G0830 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0832 Business Daily
-OL,9,     FHeatwaves are adding pressure on
-OL,10,     Fbusinesses around the world. We
-OL,11,     Flook at the economic impact of
-OL,12,     Fextreme heat and what falling
-OL,13,     Fwater levels on Germany's River
-OL,14,     FRhine mean for trade.
-OL,15,G0850 Witness History
+OL,5,G0832 Business Daily
+OL,6,     FHeatwaves are adding pressure on
+OL,7,     Fbusinesses around the world. We
+OL,8,     Flook at the economic impact of
+OL,9,     Fextreme heat and what falling
+OL,10,     Fwater levels on Germany's River
+OL,11,     FRhine mean for trade.
+OL,12,G0850 Witness History
+OL,13,     FAfter the 2004 tsunami, a baby
+OL,14,     Fhippo rescued off the Kenyan coast
+OL,15,     Fformed an unlikely friendship with
+OL,16,     Fa giant tortoise, capturing hearts
+OL,17,     Faround the world.
+OL,18,G0900 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1786688312
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CFriday                  G3/19
+OL,5,G0906 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0930 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0932 BBC Inside Science
+OL,12,     FAs researchers in the US announce
+OL,13,     Fthe creation of new viruses
+OL,14,     Fdesigned by artificial
+OL,15,     Fintelligence, we investigate
+OL,16,     Fwhether or not we should be
+OL,17,     Fconcerned.
+OL,18,G1000 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1786688312
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CFriday                  G4/19
+OL,5,G1006 Unexpected Elements
+OL,6,     FThis week's solar eclipse has
+OL,7,     FUnexpected Elements investigating
+OL,8,     Fthe surprising science of blocking
+OL,9,     Fsunlight, from whispering trees to
+OL,10,     Fgiant space bubbles.
+OL,11,G1100 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G1106 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G1130 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
+OL,20,G1132 The Global Story
+OL,21,     F.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21105
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1786688312
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CFriday                  G5/19
+OL,5,G1200 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G1206 Outlook
+OL,9,     FThree great escapes using a hot
+OL,10,     Fair balloon, words on a page, and
+OL,11,     Ffollowing the spirit of Harry
+OL,12,     FHoudini. Evading borders,
+OL,13,     Fconfounding expectations and
+OL,14,     Ffleeing from reality.
+OL,15,G1250 Witness History
 OL,16,     FAfter the 2004 tsunami, a baby
 OL,17,     Fhippo rescued off the Kenyan coast
 OL,18,     Fformed an unlikely friendship with
@@ -54,96 +133,11 @@ OL,20,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G3/19
-OL,5,G0900 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0906 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G0930 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G0932 BBC Inside Science
-OL,15,     FAs researchers in the US announce
-OL,16,     Fthe creation of new viruses
-OL,17,     Fdesigned by artificial
-OL,18,     Fintelligence, we investigate
-OL,19,     Fwhether or not we should be
-OL,20,     Fconcerned.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21104
-SC,0004
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G4/19
-OL,5,G1000 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1006 Unexpected Elements
-OL,9,     FThis week's solar eclipse has
-OL,10,     FUnexpected Elements investigating
-OL,11,     Fthe surprising science of blocking
-OL,12,     Fsunlight, from whispering trees to
-OL,13,     Fgiant space bubbles.
-OL,14,G1100 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G1106 The Newsroom
-OL,18,     FThe world's Newsroom brings you
-OL,19,     Fglobal events as they happen.
-OL,20,G1130 BBC News Summary
-OL,21,     FThe latest two minute news summary
-OL,22,     Ffrom BBC World Service.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21105
-SC,0005
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CFriday                  G5/19
-OL,5,G1132 The Global Story
-OL,6,     F.
-OL,7,G1200 BBC News
-OL,8,     FThe latest five minute news
-OL,9,     Fbulletin from BBC World Service.
-OL,10,G1206 Outlook
-OL,11,     FThree great escapes using a hot
-OL,12,     Fair balloon, words on a page, and
-OL,13,     Ffollowing the spirit of Harry
-OL,14,     FHoudini. Evading borders,
-OL,15,     Fconfounding expectations and
-OL,16,     Ffleeing from reality.
-OL,17,G1250 Witness History
-OL,18,     FAfter the 2004 tsunami, a baby
-OL,19,     Fhippo rescued off the Kenyan coast
-OL,20,     Fformed an unlikely friendship with
-OL,21,     Fa giant tortoise, capturing hearts
-OL,22,     Faround the world.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
 PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G6/19
@@ -170,7 +164,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G7/19
@@ -196,7 +190,7 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G8/19
@@ -225,7 +219,7 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                  G9/19
@@ -253,7 +247,7 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G10/19
@@ -279,7 +273,7 @@ PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G11/19
@@ -305,7 +299,7 @@ PN,21112
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G12/19
@@ -330,7 +324,7 @@ PN,21113
 SC,0013
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G13/19
@@ -357,7 +351,7 @@ PN,21114
 SC,0014
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G14/19
@@ -381,7 +375,7 @@ PN,21115
 SC,0015
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G15/19
@@ -409,7 +403,7 @@ PN,21116
 SC,0016
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G16/19
@@ -438,7 +432,7 @@ PN,21117
 SC,0017
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G17/19
@@ -465,7 +459,7 @@ PN,21118
 SC,0018
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G18/19
@@ -491,7 +485,7 @@ PN,21119
 SC,0019
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1786684793
+OL,0,        ECIMSBWebfax 2   F211A1786688312
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday                 G19/19
