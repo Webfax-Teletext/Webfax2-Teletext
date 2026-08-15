@@ -1,16 +1,55 @@
-PN,27200
-SC,0000
+PN,27201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F272A1786753130
+PS,c008
+OL,0,        ECIMSBWebfax 2   F272A1786771169
 OL,1,Vzssssss{0Ww;js%7+ jkkjsj;jsjsjzjsjjijs
 OL,2,Vupp=wfff5W-.*,%-. ****,**(.*,(.(.**&*,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSaturday                G1/2
+OL,5,G0600 Paul Beesley
+OL,6,     FPaul is here with Saturday morning
+OL,7,     Fmusic and features.
+OL,8,G1000 Sean Styles
+OL,9,     FMusic, interviews, quizzes and
+OL,10,     Feverything you need for your
+OL,11,     Fweekend.
+OL,12,G1400 Total Sport Merseyside
+OL,13,     FLocal sport updates and all the
+OL,14,     Fmusic you love for Saturday
+OL,15,     Fafternoon.
+OL,16,G1700 Total Sport Merseyside: Pre-Match
+OL,17,     FAll the build-up, team news and
+OL,18,     Fanalysis right up to kick-off with
+OL,19,     Four sports team.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,273,250,301,140,0,100
+PN,27202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F272A1786771169
+OL,1,Vzssssss{0Ww;js%7+ jkkjsj;jsjsjzjsjjijs
+OL,2,Vupp=wfff5W-.*,%-. ****,**(.*,(.(.**&*,
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G1730 Total Sport Merseyside: Rugby
+OL,6,G     League
+OL,7,     FSuper League coverage of Wakefield
+OL,8,     FTrinity v St Helens. Kick-off at
+OL,9,     F5.30pm.
+OL,10,G2000 BBC Introducing - Merseyside
+OL,11,     FDave Monks presents locally
+OL,12,     Fsourced emerging music from the
+OL,13,     FLiverpool City Region.
+OL,14,G2200 Late Night Jo
+OL,15,     FJo Good with late-night
+OL,16,     Fconversation, amazing stories and
+OL,17,     Fthe soundtrack to your night.
+OL,18,G0100 Weekend overnights with BBC Radio
+OL,19,G     5 Live
+OL,20,     FLocal BBC Radio joins BBC Radio 5
+OL,21,     FLive through the night on a
+OL,22,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,273,250,301,140,0,100

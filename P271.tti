@@ -1,16 +1,77 @@
-PN,27100
-SC,0000
+PN,27101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F271A1786753130
+PS,c008
+OL,0,        ECIMSBWebfax 2   F271A1786771169
 OL,1,Vzssssss{0Ww;js%7+ jkkj{jkj+jzjsjs"7jsj;
 OL,2,Vupp=wfff5W-.*,%-. ********.***,(. %*,**
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSaturday                G1/3
+OL,5,G0600 Simone Riley
+OL,6,     FSaturday morning news, updates and
+OL,7,     Fgreat music.
+OL,8,G1000 Phil Trow
+OL,9,     FStories to make you smile,
+OL,10,     Fmid-morning updates and great
+OL,11,     Fmusic with Phil.
+OL,12,G1200 Manchester Total Sport: Pre-Match
+OL,13,     FAll the build-up and interviews
+OL,14,     Fahead of today's matches involving
+OL,15,     Four local teams.
+OL,16,G1230 Manchester Total Sport: Commentary
+OL,17,     FBolton Wanderers v Preston North
+OL,18,     FEnd in the Championship. Kick-off
+OL,19,     Fat 12.30pm. NOT online.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,272,250,301,140,0,100
+PN,27102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F271A1786771169
+OL,1,Vzssssss{0Ww;js%7+ jkkj{jkj+jzjsjs"7jsj;
+OL,2,Vupp=wfff5W-.*,%-. ********.***,(. %*,**
+OL,3,V}yyy5CSaturday                G2/3
+OL,5,G1430 Manchester Total Sport: Pre-Match
+OL,6,     FAll the build-up and interviews
+OL,7,     Fahead of today's matches involving
+OL,8,     Four local teams.
+OL,9,G1500 Manchester Total Sport: Commentary
+OL,10,     FCoverage of Plymouth Argyle v
+OL,11,     FStockport County in League One.
+OL,12,     FKick-off at 3pm. NOT online.
+OL,13,G1700 Manchester Total Sport: Post-Match
+OL,14,     FReaction from the managers plus
+OL,15,     Fyour chance to have your say by
+OL,16,     Fcalling 0800 218 2255.
+OL,17,G1800 Upload with Joel Mitchell
+OL,18,     FJoel meets the author with a
+OL,19,     Fchildren's book about a pantomime
+OL,20,     Fcow...
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,272,250,301,140,0,100
+PN,27103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F271A1786771169
+OL,1,Vzssssss{0Ww;js%7+ jkkj{jkj+jzjsjs"7jsj;
+OL,2,Vupp=wfff5W-.*,%-. ********.***,(. %*,**
+OL,3,V}yyy5CSaturday                G3/3
+OL,5,G2000 BBC Introducing - Manchester
+OL,6,     FFuneralcare joins Roesh in the
+OL,7,     Fstudio, chatting all about their
+OL,8,     Fupcoming EP, Devoted.
+OL,9,G2200 Late Night Jo
+OL,10,     FJo Good with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekend overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,272,250,301,140,0,100
