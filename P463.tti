@@ -2,25 +2,28 @@ PN,46301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1786877297
+OL,0,        ECIMSBWebfax 2   F463A1786882710
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSunday                  G1/3
-OL,5,G1145 Togha agus Rogha
-OL,6,     FClar iarratais cheoil agus amhrain
-OL,7,     Fa chur i lathair beo o stiuideo
-OL,8,     FChasla gach maidin Domhnaigh.
-OL,9,G1300 Nuacht a hAon
-OL,10,     FAn barr is deireanai nuachta
-OL,11,     Fnaisiunta, idirnaisiunta agus
-OL,12,     Faitiuil.
-OL,13,G1315 Sport an Lae
-OL,14,     FTuairisci, torthai agus anailis ar
-OL,15,     Fchursai spoirt an lae.
-OL,16,G1800 Nuacht a Se
-OL,17,     FAn barr is deireanai nuachta
-OL,18,     Fnaisiunta, idirnaisiunta agus
-OL,19,     Faitiuil.
+OL,3,V}yyy5CSunday                  G1/2
+OL,5,G1315 Sport an Lae
+OL,6,     FTuairisci, torthai agus anailis ar
+OL,7,     Fchursai spoirt an lae.
+OL,8,G1800 Nuacht a Se
+OL,9,     FAn barr is deireanai nuachta
+OL,10,     Fnaisiunta, idirnaisiunta agus
+OL,11,     Faitiuil.
+OL,12,G1815 Tarraingti Chraobhacha Peile Dhun
+OL,13,G     na nGall 2026
+OL,14,     FDeanfar na tarraingti do
+OL,15,     FChraobhacha Peile Dhun na nGall
+OL,16,     F2026 beo ar an gclar seo anocht.
+OL,17,G1830 Udair Taistil
+OL,18,     FTugann Padhraic O Ciardha muid ag
+OL,19,     Ftaisteal an domhain i gcuideachta
+OL,20,     Fna sar-scribhneoiri Gaeilge a
+OL,21,     Fd'fhag cuntais againn ar a gcuid
+OL,22,     Ffanaiochta fein.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -28,48 +31,26 @@ PN,46302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1786877297
+OL,0,        ECIMSBWebfax 2   F463A1786882710
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSunday                  G2/3
-OL,5,G1815 Tarraingti Chraobhacha Peile Dhun
-OL,6,G     na nGall 2026
-OL,7,     FDeanfar na tarraingti do
-OL,8,     FChraobhacha Peile Dhun na nGall
-OL,9,     F2026 beo ar an gclar seo anocht.
-OL,10,G1830 Udair Taistil
-OL,11,     FTugann Padhraic O Ciardha muid ag
-OL,12,     Ftaisteal an domhain i gcuideachta
-OL,13,     Fna sar-scribhneoiri Gaeilge a
-OL,14,     Fd'fhag cuntais againn ar a gcuid
-OL,15,     Ffanaiochta fein.
-OL,16,G1900 Eist le Seo
-OL,17,     FClar ceol agus amhrain Ultacha a
-OL,18,     Fchur i lathair ag Brian Danny
-OL,19,     FMinnie O Domhnaill.
-OL,20,G2000 An Braon Gaelach
-OL,21,     FClar ceoil a chur i lathair ag
-OL,22,     FNicole Ni Dhubhshlaine.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,464,250,301,140,0,100
-PN,46303
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1786877297
-OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
-OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSunday                  G3/3
-OL,5,G2100 Tequila Tire
-OL,6,     FSa tsraith seo cloistear an chuid
-OL,7,     Fis fearr de cheol tire, as Eirinn,
-OL,8,     FMeiricea, Ceanada, an Bhreatain
-OL,9,     Fagus nios faide o bhaile.
-OL,10,G2300 Siulach Scealach
-OL,11,     FSeanchas, scealaiocht agus leargas
-OL,12,     Far oidhreacht na Gaeilge ar Radio
-OL,13,     FEireann on chead la anall.
+OL,3,V}yyy5CSunday                  G2/2
+OL,5,G1900 Eist le Seo
+OL,6,     FClar ceol agus amhrain Ultacha a
+OL,7,     Fchur i lathair ag Brian Danny
+OL,8,     FMinnie O Domhnaill.
+OL,9,G2000 An Braon Gaelach
+OL,10,     FClar ceoil a chur i lathair ag
+OL,11,     FNicole Ni Dhubhshlaine.
+OL,12,G2100 Tequila Tire
+OL,13,     FSa tsraith seo cloistear an chuid
+OL,14,     Fis fearr de cheol tire, as Eirinn,
+OL,15,     FMeiricea, Ceanada, an Bhreatain
+OL,16,     Fagus nios faide o bhaile.
+OL,17,G2300 Siulach Scealach
+OL,18,     FSeanchas, scealaiocht agus leargas
+OL,19,     Far oidhreacht na Gaeilge ar Radio
+OL,20,     FEireann on chead la anall.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
