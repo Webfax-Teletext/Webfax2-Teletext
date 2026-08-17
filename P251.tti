@@ -1,16 +1,52 @@
-PN,25100
-SC,0000
+PN,25101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F251A1786925929
+PS,c008
+OL,0,        ECIMSBWebfax 2   F251A1786943970
 OL,1,Vzssssss{0Ww;js%7+ j;jsj;j:jsjzjj;js
 OL,2,Vupp=wfff5W-.*,%-. *.*,****(.******,V(,,
-OL,3,V}yyy5CSunday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CMonday                  G1/2
+OL,5,G0600 Rich Clarke
+OL,6,     FWaking up Berkshire with music,
+OL,7,     Flaughter and the day's essential
+OL,8,     Finformation.
+OL,9,G1000 Lucy Horobin
+OL,10,     FStories to make you smile, great
+OL,11,     Fmusic and updates for your
+OL,12,     Fmid-morning.
+OL,13,G1400 Bridgitte Tetteh on Radio
+OL,14,G     Berkshire
+OL,15,     FThe very latest local news and
+OL,16,     Fstories with all the music you
+OL,17,     Flove with Bridgitte.
+OL,18,G1800 BBC Radio Berkshire Sport
+OL,19,     FLooking back at the weekend's
+OL,20,     Fsport, and ahead to the next seven
+OL,21,     Fdays.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,252,250,301,140,0,100
+PN,25102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F251A1786943970
+OL,1,Vzssssss{0Ww;js%7+ j;jsj;j:jsjzjj;js
+OL,2,Vupp=wfff5W-.*,%-. *.*,****(.******,V(,,
+OL,3,V}yyy5CMonday                  G2/2
+OL,5,G1900 Rena Annobil
+OL,6,     FSpend Monday night with Gagan for
+OL,7,     Fstories and great music from Asian
+OL,8,     Fcommunities.
+OL,9,G2200 The Late Show
+OL,10,     FBecky Want with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,252,250,301,140,0,100
