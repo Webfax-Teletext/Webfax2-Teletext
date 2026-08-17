@@ -2,27 +2,27 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787005103
+OL,0,        ECIMSBWebfax 2   F211A1787006894
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday                  G1/5
-OL,5,G2306 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G2330 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G2332 World Business Report
-OL,12,     FThe latest business and finance
-OL,13,     Fnews from around the world, on the
-OL,14,     FBBC.
-OL,15,G0000 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0006 The History Hour
-OL,19,     FMax Pearson presents a collection
-OL,20,     Fof the week's Witness History
-OL,21,     Fepisodes focussing on Kenya.
+OL,5,G2332 World Business Report
+OL,6,     FThe latest business and finance
+OL,7,     Fnews from around the world, on the
+OL,8,     FBBC.
+OL,9,G0000 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0006 The History Hour
+OL,13,     FMax Pearson presents a collection
+OL,14,     Fof the week's Witness History
+OL,15,     Fepisodes focussing on Kenya.
+OL,16,G0100 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
+OL,19,G0106 The Newsroom
+OL,20,     FThe world's Newsroom brings you
+OL,21,     Fglobal events as they happen.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -30,28 +30,25 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787005103
+OL,0,        ECIMSBWebfax 2   F211A1787006894
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday                  G2/5
-OL,5,G0100 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0106 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G0130 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G0132 The Global Story
-OL,15,     FCould Gadi Eisenkot really be the
-OL,16,     F'anti-Netanyahu?'.
-OL,17,G0200 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G0206 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,5,G0130 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G0132 The Global Story
+OL,9,     FCould Gadi Eisenkot really be the
+OL,10,     F'anti-Netanyahu?'.
+OL,11,G0200 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0206 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0230 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -59,23 +56,27 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787005103
+OL,0,        ECIMSBWebfax 2   F211A1787006894
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday                  G3/5
-OL,5,G0230 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0232 Assignment
-OL,9,     FMatthew Bogdanos, head of the
-OL,10,     FManhattan District Attorney's
-OL,11,     FAntiquities Trafficking Unit, has
-OL,12,     Fworked for years to return stolen
-OL,13,     Fcultural treasures to their
-OL,14,     Frightful owners.
-OL,15,G0300 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,5,G0232 Assignment
+OL,6,     FMatthew Bogdanos, head of the
+OL,7,     FManhattan District Attorney's
+OL,8,     FAntiquities Trafficking Unit, has
+OL,9,     Fworked for years to return stolen
+OL,10,     Fcultural treasures to their
+OL,11,     Frightful owners.
+OL,12,G0300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0306 Outlook
+OL,16,     FWhen Classics professor Daniel
+OL,17,     FMendelsohn let his outspoken dad
+OL,18,     Fsit in on his class about the
+OL,19,     FOdyssey, a story he'd taught for
+OL,20,     Fyears began to mirror their own
+OL,21,     Fcomplex relationship.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -83,28 +84,24 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787005103
+OL,0,        ECIMSBWebfax 2   F211A1787006894
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday                  G4/5
-OL,5,G0306 Outlook
-OL,6,     FWhen Classics professor Daniel
-OL,7,     FMendelsohn let his outspoken dad
-OL,8,     Fsit in on his class about the
-OL,9,     FOdyssey, a story he'd taught for
-OL,10,     Fyears began to mirror their own
-OL,11,     Fcomplex relationship.
-OL,12,G0350 Witness History
-OL,13,     FIndia's queen of melody Asha
-OL,14,     FBhosle, was officially named the
-OL,15,     Fmost recorded artist in music
-OL,16,     Fhistory in 2011.
-OL,17,G0400 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G0406 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,5,G0350 Witness History
+OL,6,     FIndia's queen of melody Asha
+OL,7,     FBhosle, was officially named the
+OL,8,     Fmost recorded artist in music
+OL,9,     Fhistory in 2011.
+OL,10,G0400 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G0406 The Newsroom
+OL,14,     FThe world's Newsroom brings you
+OL,15,     Fglobal events as they happen.
+OL,16,G0430 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -112,24 +109,21 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787005103
+OL,0,        ECIMSBWebfax 2   F211A1787006894
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday                  G5/5
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 In the Studio
-OL,9,     FAntonia Quirke goes behind the
-OL,10,     Fscenes of Bookish, the murder
-OL,11,     Fmystery series written by Matthew
-OL,12,     FSweet and Mark Gatiss.
-OL,13,G0500 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G0506 Newsday
-OL,17,     FLive news, business and sport from
-OL,18,     Faround the world.
+OL,5,G0432 In the Studio
+OL,6,     FAntonia Quirke goes behind the
+OL,7,     Fscenes of Bookish, the murder
+OL,8,     Fmystery series written by Matthew
+OL,9,     FSweet and Mark Gatiss.
+OL,10,G0500 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G0506 Newsday
+OL,14,     FLive news, business and sport from
+OL,15,     Faround the world.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
