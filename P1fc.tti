@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1786972736
+OL,0,        ECIMSBWebfax 2   F1fcA1786981848
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1786972735;
-OL,10,GService: Webfax 2 - 18143 e8865de57f
-OL,11,FLast Update: 17/08/2026 14:18:55  G1/3
+OL,25,1786981846;
+OL,10,GService: Webfax 2 - 18144 d6006c7268
+OL,11,FLast Update: 17/08/2026 16:50:46  G1/2
 OL,13,CbbcSport/Horse Racing      G14/08-23:04
 OL,14,Ccharts/singles             G15/08-14:03
 OL,15,Cgeneric/f1                 G14/08-23:04
-OL,16,Cgeneric/league-one         G14/08-23:04
-OL,17,Cgeneric/league-two         G14/08-23:04
-OL,18,Ageneric/lottery            G14/08-23:04
-OL,19,Cgeneric/prem_league        G14/08-23:04
-OL,20,Ageneric/tube_status        G14/08-23:04
-OL,21,Ageneric/weather_warnings   G14/08-23:04
-OL,22,CitvNews/border             G15/08-16:47
-OL,23,CitvNews/channel            G15/08-12:48
+OL,16,Cgeneric/league-two         G14/08-23:04
+OL,17,Ageneric/lottery            G14/08-23:04
+OL,18,Cgeneric/prem_league        G14/08-23:04
+OL,19,Ageneric/tube_status        G14/08-23:04
+OL,20,Ageneric/weather_warnings   G14/08-23:04
+OL,21,CitvNews/channel            G15/08-12:48
+OL,22,CitvSport/border            G14/08-23:04
+OL,23,CitvSport/calendar          G15/08-15:18
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1786972736
+OL,0,        ECIMSBWebfax 2   F1fcA1786981848
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,35 +42,15 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1786972735;
-OL,10,GService: Webfax 2 - 18143 e8865de57f
-OL,11,FLast Update: 17/08/2026 14:18:55  G2/3
-OL,13,CitvSport/border            G14/08-23:04
-OL,14,CitvSport/calendar          G15/08-15:18
-OL,15,CitvSport/central           G14/08-23:04
-OL,16,CitvSport/channel           G14/08-23:04
-OL,17,CitvSport/london            G14/08-23:04
-OL,18,AitvSport/meridian          G14/08-23:04
-OL,19,CitvSport/tyne-tees         G14/08-23:04
-OL,20,CitvSport/utv               G14/08-23:04
-OL,21,CitvSport/wales             G14/08-23:04
-OL,22,AitvSport/westcountry       G14/08-23:04
-OL,23,CiNMS/comments.json         G14/08-23:04
-PN,1fc03
-SC,0003
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1786972736
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1786972735;
-OL,10,GService: Webfax 2 - 18143 e8865de57f
-OL,11,FLast Update: 17/08/2026 14:18:55  G3/3
+OL,25,1786981846;
+OL,10,GService: Webfax 2 - 18144 d6006c7268
+OL,11,FLast Update: 17/08/2026 16:50:46  G2/2
+OL,13,CitvSport/central           G14/08-23:04
+OL,14,CitvSport/channel           G14/08-23:04
+OL,15,CitvSport/london            G14/08-23:04
+OL,16,AitvSport/meridian          G14/08-23:04
+OL,17,CitvSport/tyne-tees         G14/08-23:04
+OL,18,CitvSport/utv               G14/08-23:04
+OL,19,CitvSport/wales             G14/08-23:04
+OL,20,AitvSport/westcountry       G14/08-23:04
+OL,21,CiNMS/comments.json         G14/08-23:04
