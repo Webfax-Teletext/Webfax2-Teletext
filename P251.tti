@@ -1,16 +1,58 @@
-PN,25100
-SC,0000
+PN,25101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F251A1787012332
+PS,c008
+OL,0,        ECIMSBWebfax 2   F251A1787030398
 OL,1,Vzssssss{0Ww;js%7+ j;jsj;j:jsjzjj;js
 OL,2,Vupp=wfff5W-.*,%-. *.*,****(.******,V(,,
-OL,3,V}yyy5CMonday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CTuesday                 G1/2
+OL,5,G0600 Rich Clarke
+OL,6,     FWaking up Berkshire with music,
+OL,7,     Flaughter and the day's essential
+OL,8,     Finformation.
+OL,9,G1000 Lucy Horobin
+OL,10,     FStories to make you smile, great
+OL,11,     Fmusic and updates for your
+OL,12,     Fmid-morning.
+OL,13,G1400 Bridgitte Tetteh on Radio
+OL,14,G     Berkshire
+OL,15,     FThe very latest local news and
+OL,16,     Fstories with all the music you
+OL,17,     Flove with Katie.
+OL,18,G1800 Sport on BBC Radio Berkshire:
+OL,19,G     Pre-match
+OL,20,     FAll the pre-match build-up with
+OL,21,     FReading management, players and
+OL,22,     Ffans.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,252,250,301,140,0,100
+PN,25102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F251A1787030398
+OL,1,Vzssssss{0Ww;js%7+ j;jsj;j:jsjzjj;js
+OL,2,Vupp=wfff5W-.*,%-. *.*,****(.******,V(,,
+OL,3,V}yyy5CTuesday                 G2/2
+OL,5,G1900 Sport on BBC Radio Berkshire
+OL,6,     FEFL Trophy coverage of Reading v
+OL,7,     FWycombe Wanderers. Kick-off at
+OL,8,     F7pm. NOT online.
+OL,9,G2100 Sport on BBC Radio Berkshire:
+OL,10,G     Post-match
+OL,11,     FPost-match analysis and reaction
+OL,12,     Fto today's action with Ady
+OL,13,     FWilliams. Call 0808 100 5100.
+OL,14,G2200 The Late Show
+OL,15,     FBecky Want with late-night
+OL,16,     Fconversation, amazing stories and
+OL,17,     Fthe soundtrack to your night.
+OL,18,G0100 Weekday overnights with BBC Radio
+OL,19,G     5 Live
+OL,20,     FLocal BBC Radio joins BBC Radio 5
+OL,21,     FLive through the night on a
+OL,22,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,252,250,301,140,0,100
