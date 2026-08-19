@@ -2,10 +2,10 @@ PN,47701
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F477A1787030397
+OL,0,        ECIMSBWebfax 2   F477A1787116806
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CWednesday               G1/4
+OL,3,V}yyy5CThursday                G1/3
 OL,5,G0600 talkSPORT Breakfast
 OL,6,     FJoin us as we bring you a
 OL,7,     Fbreakfast buffet of sport. Call
@@ -26,11 +26,11 @@ PN,47702
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F477A1787030397
+OL,0,        ECIMSBWebfax 2   F477A1787116806
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CWednesday               G2/4
-OL,5,G1300 Rushden & Baker
+OL,3,V}yyy5CThursday                G2/3
+OL,5,G1300 Hawksbee & Baker
 OL,6,     FA serving of sports news, guests
 OL,7,     Fand a sideways look at the big
 OL,8,     Fstories of the day. Call the show
@@ -43,6 +43,11 @@ OL,14,     Fway home. Call the show on 03717
 OL,15,     F22 33 44 (Calls charged at
 OL,16,     Fnational rate) or text 81089 (50p
 OL,17,     F+ charges).
+OL,18,G1900 Kick Off with Natalie Sawyer
+OL,19,     FA comprehensive preview of the
+OL,20,     F2026-2027 Premier League season.
+OL,21,     FTromso v Brighton is on talkSPORT
+OL,22,     F2.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,478,250,301,140,0,100
@@ -50,44 +55,27 @@ PN,47703
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F477A1787030397
+OL,0,        ECIMSBWebfax 2   F477A1787116806
 OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
 OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CWednesday               G3/4
-OL,5,G1900 The Transfer Insiders
-OL,6,     FThe latest transfer news and
-OL,7,     Finsight from those in the know.
-OL,8,     FCall the show on 08717 22 33 44
-OL,9,     F(13p/min) or text 81089 (50p +
-OL,10,     Fcharges).
-OL,11,G2200 The Sports Bar
-OL,12,     FReaction, analysis and your chance
-OL,13,     Fto have your say on the day's
-OL,14,     Fsport. Call the show on 03717 22
-OL,15,     F33 44 (Calls charged at national
+OL,3,V}yyy5CThursday                G3/3
+OL,5,G2200 The Sports Bar
+OL,6,     FReaction, analysis and your chance
+OL,7,     Fto have your say on the day's
+OL,8,     Fsport. Call the show on 03717 22
+OL,9,     F33 44 (Calls charged at national
+OL,10,     Frate) or text 81089 (50p +
+OL,11,     Fcharges).
+OL,12,G0100 Extra Time with Paul Ross
+OL,13,     FThe perfect excuse to stay up
+OL,14,     Flate. Call the show on 03717 22 33
+OL,15,     F44 (Calls charged at national
 OL,16,     Frate) or text 81089 (50p +
 OL,17,     Fcharges).
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,478,250,301,140,0,100
-PN,47704
-SC,0004
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F477A1787030397
-OL,1,Vzssssss{0W#7!w{j  u:js1w{j#5w;"k#
-OL,2,Vupp=wfff5W % %**,$%*(,%% *,%%* *V(,,,,,
-OL,3,V}yyy5CWednesday               G4/4
-OL,5,G0100 Extra Time with Paul Ross
-OL,6,     FThe perfect excuse to stay up
-OL,7,     Flate. Call the show on 03717 22 33
-OL,8,     F44 (Calls charged at national
-OL,9,     Frate) or text 81089 (50p +
-OL,10,     Fcharges).
-OL,11,G0500 Early Sports Breakfast
-OL,12,     FAn early morning serving of the
-OL,13,     Flatest sports news for when you
-OL,14,     Fwake up.
+OL,18,G0500 Early Sports Breakfast
+OL,19,     FAn early morning serving of the
+OL,20,     Flatest sports news for when you
+OL,21,     Fwake up.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,478,250,301,140,0,100

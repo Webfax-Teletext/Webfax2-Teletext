@@ -1,16 +1,51 @@
-PN,28200
-SC,0000
+PN,28201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F282A1787098732
+PS,c008
+OL,0,        ECIMSBWebfax 2   F282A1787116808
 OL,1,Vzssssss{0Ww;js%7+ jsjkjkkjsj;jsjs"7
 OL,2,Vupp=wfff5W-.*,%-. (.*.****,**(.*, %V,,,
-OL,3,V}yyy5CTuesday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
+OL,3,V}yyy5CWednesday               G1/2
+OL,5,G0600 Charlie Taylor
+OL,6,     FGet your Somerset day underway
+OL,7,     Fwith a giggle. Plus travel,
+OL,8,     Fweather, news and sport.
+OL,9,G1000 Simon Parkin
+OL,10,     FSimon takes your calls plus the
+OL,11,     Fbest gossip from the county.
+OL,12,G1400 Claire Carter on BBC Radio
+OL,13,G     Somerset
+OL,14,     FMel brings you music, news, travel
+OL,15,     Fand sport for your weekday
+OL,16,     Fafternoon.
+OL,17,G1800 Extra Time
+OL,18,     FClaire Carter gives extra time to
+OL,19,     Fpeople with incredible sporting
+OL,20,     Fstories.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,283,250,301,140,0,100
+PN,28202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F282A1787116808
+OL,1,Vzssssss{0Ww;js%7+ jsjkjkkjsj;jsjs"7
+OL,2,Vupp=wfff5W-.*,%-. (.*.****,**(.*, %V,,,
+OL,3,V}yyy5CWednesday               G2/2
+OL,5,G1900 Daniel Pascoe
+OL,6,     FDaniel's here with evening
+OL,7,     Fconversation, updates, the music
+OL,8,     Fyou love and fun.
+OL,9,G2200 The Late Show
+OL,10,     FBecky Want with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,283,250,301,140,0,100
