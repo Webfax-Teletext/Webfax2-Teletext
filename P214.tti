@@ -1,13 +1,70 @@
-PN,21400
-SC,0000
+PN,21401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F214A1787183290
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1787203172
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CWednesday
-OL,5,G0030 As BBC Radio 5 Live
-OL,6,     FJoining Radio 5 Live.
+OL,3,V}yyy5CThursday                G1/3
+OL,5,G0600 Radio Scotland Breakfast
+OL,6,     FNews from across Scotland and the
+OL,7,     Fworld, plus sport, weather,
+OL,8,     Fentertainment and big name
+OL,9,     Finterviews.
+OL,10,G0900 Mornings
+OL,11,     FStephen Jardine gets to the heart
+OL,12,     Fof the stories making the news.
+OL,13,G1200 Lunchtime Live
+OL,14,     FNews updates from Scotland and
+OL,15,     Fbeyond, plus all your lunchtime
+OL,16,     Fsport, travel and weather.
+OL,17,G1330 Radio Scotland Afternoons
+OL,18,     FThe best music, guests and arts
+OL,19,     Fcoverage.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1787203172
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CThursday                G2/3
+OL,5,G1600 Drivetime
+OL,6,     FBreaking down the day's talking
+OL,7,     Fpoints with comment and opinion,
+OL,8,     Fplus sport, travel and weather.
+OL,9,G1800 Sportsound
+OL,10,     FIt's the Uefa Conference League
+OL,11,     Fplay-offs with commentary of
+OL,12,     FRangers v Jablonec and updates
+OL,13,     Ffrom Gent v Hibernian, Hearts v
+OL,14,     FRapid Vienna and Motherwell v
+OL,15,     FFreiburg.
+OL,16,G2300 Up Late
+OL,17,     FThe best company to end the day,
+OL,18,     Fwith lively chat and some of your
+OL,19,     Ffavourite tunes.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1787203172
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CThursday                G3/3
+OL,5,G0000 Scotcast
+OL,6,     FDavid Wallace Lockhart speaks to
+OL,7,     Fthe Scottish Labour MSPs vying to
+OL,8,     Fsucceed Anas Sarwar as party
+OL,9,     Fleader.
+OL,10,G0030 As BBC Radio 5 Live
+OL,11,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
