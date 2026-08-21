@@ -1,13 +1,79 @@
-PN,21400
-SC,0000
+PN,21401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F214A1787269693
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1787289567
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
-OL,5,G0030 As BBC Radio 5 Live
-OL,6,     FJoining Radio 5 Live.
+OL,3,V}yyy5CFriday                  G1/3
+OL,5,G0600 Radio Scotland Breakfast
+OL,6,     FNews from across Scotland and the
+OL,7,     Fworld, plus sport, weather,
+OL,8,     Fentertainment and big name
+OL,9,     Finterviews.
+OL,10,G0900 Mornings
+OL,11,     FStephen Jardine gets to the heart
+OL,12,     Fof the stories making the news.
+OL,13,G1200 Lunchtime Live
+OL,14,     FNews updates from Scotland and
+OL,15,     Fbeyond, plus all your lunchtime
+OL,16,     Fsport, travel and weather.
+OL,17,G1330 Breaking the News
+OL,18,     FDes Clarke hosts Scotland's
+OL,19,     Faward-winning satirical news quiz.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1787289567
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CFriday                  G2/3
+OL,5,G1400 Radio Scotland Afternoons
+OL,6,     FSusie McCabe, mentalist Colin
+OL,7,     FCloud, actor and improv artist
+OL,8,     FKiell Smith-Bynoe, and the cast of
+OL,9,     FDoris, Dolly and the Dressing Room
+OL,10,     FDivas join Arlene live at the
+OL,11,     FEdinburgh Festivals.
+OL,12,G1600 Drivetime
+OL,13,     FBreaking down the day's talking
+OL,14,     Fpoints with comment and opinion,
+OL,15,     Fplus sport, travel and weather.
+OL,16,G1800 Grant Stott's Vinyl Collective
+OL,17,     FActor Hannah Donaldson, from
+OL,18,     FGranite Harbour shares a favourite
+OL,19,     Fvinyl record. The top 10 albums
+OL,20,     Fthis week in 1992 and Grant pays
+OL,21,     Ftribute to Budgie from Siouxsie
+OL,22,     Fand the Banshees.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1787289567
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CFriday                  G3/3
+OL,5,G2000 BBC Introducing in Scotland
+OL,6,     FTonight's featured artist is an
+OL,7,     Faward winner who blends pop, funk
+OL,8,     Fand soul seamlessly. Find out
+OL,9,     Fwhat's so great about Jasmin Jet
+OL,10,     Fwith Stephanie tonight: WhatsApp
+OL,11,     F08085 92 95 00.
+OL,12,G2200 Up Late
+OL,13,     FThe best company to end the day,
+OL,14,     Fwith lively chat and some of your
+OL,15,     Ffavourite tunes.
+OL,16,G0000 As BBC Radio 5 Live
+OL,17,     FJoining Radio 5 Live.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
