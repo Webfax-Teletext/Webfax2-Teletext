@@ -2,7 +2,7 @@ PN,24101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1787289567
+OL,0,        ECIMSBWebfax 2   F241A1787320111
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CSaturday                G1/3
@@ -29,7 +29,7 @@ PN,24102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1787289567
+OL,0,        ECIMSBWebfax 2   F241A1787320111
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CSaturday                G2/3
@@ -55,21 +55,23 @@ PN,24103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F241A1787289567
+OL,0,        ECIMSBWebfax 2   F241A1787320111
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CSaturday                G3/3
 OL,5,G2100 BBC Introducing with Molly Palmer
-OL,6,     FMolly Palmer sits in for Adam
-OL,7,     FWalton to bring you the best in
-OL,8,     Fnew Welsh music.
-OL,9,G0000 Relax with Radio Wales
-OL,10,     FRelax, unwind and chill out with
-OL,11,     Fan hour of classic and
-OL,12,     Fcontemporary tunes.
-OL,13,G0100 As BBC Radio 5 Live
-OL,14,     FSee listings for BBC Radio 5 Live
-OL,15,     Fon BBC Sounds.
+OL,6,     FMolly Palmer brings you the best
+OL,7,     Fin new Welsh music. And she pays
+OL,8,     Fhomage to Green Man Festival, the
+OL,9,     Flargest contemporary music and
+OL,10,     Farts festival in Wales.
+OL,11,G0000 Relax with Radio Wales
+OL,12,     FRelax, unwind and chill out with
+OL,13,     Fan hour of classic and
+OL,14,     Fcontemporary tunes.
+OL,15,G0100 As BBC Radio 5 Live
+OL,16,     FSee listings for BBC Radio 5 Live
+OL,17,     Fon BBC Sounds.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,242,200,300,120,0,100
