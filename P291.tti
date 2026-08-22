@@ -2,25 +2,26 @@ PN,29101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F291A1787397511
+OL,0,        ECIMSBWebfax 2   F291A1787399363
 OL,1,Vzssssss{0Ww;js%7+ jzjkj;j:
 OL,2,Vupp=wfff5W-.*,%-. (.*.****V(,,,,,,,,,,,
-OL,3,V}yyy5CSaturday                G1/3
-OL,5,G1200 BBC Radio York Sport: Pre-match
-OL,6,     FBuild-up and all the interviews
-OL,7,     Fahead of Harrogate Town v Barrow.
-OL,8,G1230 BBC Radio York Sport: Commentary
-OL,9,     FCommentary of Harrogate Town v
-OL,10,     FBarrow in the National League.
-OL,11,     FKick-off at 12.30pm.
-OL,12,G1430 BBC Radio York Sport: Pre-match
-OL,13,     FBuild-up and all the interviews
-OL,14,     Fahead of York City and Scarborough
-OL,15,     FAthletic's matches.
-OL,16,G1500 BBC Radio York Sport: Commentary
-OL,17,     FScarborough Athletic v Chorley in
-OL,18,     FNational League North. Kick-off at
-OL,19,     F3pm.
+OL,3,V}yyy5CSaturday                G1/2
+OL,5,G1230 BBC Radio York Sport: Commentary
+OL,6,     FCommentary of Harrogate Town v
+OL,7,     FBarrow in the National League.
+OL,8,     FKick-off at 12.30pm.
+OL,9,G1430 BBC Radio York Sport: Pre-match
+OL,10,     FBuild-up and all the interviews
+OL,11,     Fahead of York City and Scarborough
+OL,12,     FAthletic's matches.
+OL,13,G1500 BBC Radio York Sport: Commentary
+OL,14,     FScarborough Athletic v Chorley in
+OL,15,     FNational League North. Kick-off at
+OL,16,     F3pm.
+OL,17,G1700 BBC Radio York Sport: Post-match
+OL,18,     FMatch reports, results and
+OL,19,     Freaction following today's games.
+OL,20,     FText 81333 (start with York).
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,300,250,301,140,0,100
@@ -28,43 +29,28 @@ PN,29102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F291A1787397511
+OL,0,        ECIMSBWebfax 2   F291A1787399363
 OL,1,Vzssssss{0Ww;js%7+ jzjkj;j:
 OL,2,Vupp=wfff5W-.*,%-. (.*.****V(,,,,,,,,,,,
-OL,3,V}yyy5CSaturday                G2/3
-OL,5,G1700 BBC Radio York Sport: Post-match
-OL,6,     FMatch reports, results and
-OL,7,     Freaction following today's games.
-OL,8,     FText 81333 (start with York).
-OL,9,G1800 Upload with Hannah
-OL,10,G     Sackville-Bryant
-OL,11,     FOriginal comedy, podcasts, poetry,
-OL,12,     Ffiction and more on BBC Upload.
-OL,13,G2000 BBC Introducing - York &
-OL,14,G     Humberside
-OL,15,     FThe best in unsigned music and
-OL,16,     Fup-and-coming artists from York
-OL,17,     Fand Humberside.
-OL,18,G2200 Late Night Jo
-OL,19,     FNikki Bedi with late-night
-OL,20,     Fconversation, amazing stories and
-OL,21,     Fthe soundtrack to your night.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,300,250,301,140,0,100
-PN,29103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F291A1787397511
-OL,1,Vzssssss{0Ww;js%7+ jzjkj;j:
-OL,2,Vupp=wfff5W-.*,%-. (.*.****V(,,,,,,,,,,,
-OL,3,V}yyy5CSaturday                G3/3
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
+OL,3,V}yyy5CSaturday                G2/2
+OL,5,G1800 Upload with Hannah
+OL,6,G     Sackville-Bryant
+OL,7,     FOriginal comedy, podcasts, poetry,
+OL,8,     Ffiction and more on BBC Upload.
+OL,9,G2000 BBC Introducing - York &
+OL,10,G     Humberside
+OL,11,     FThe best in unsigned music and
+OL,12,     Fup-and-coming artists from York
+OL,13,     Fand Humberside.
+OL,14,G2200 Late Night Jo
+OL,15,     FNikki Bedi with late-night
+OL,16,     Fconversation, amazing stories and
+OL,17,     Fthe soundtrack to your night.
+OL,18,G0100 Weekend overnights with BBC Radio
+OL,19,G     5 Live
+OL,20,     FLocal BBC Radio joins BBC Radio 5
+OL,21,     FLive through the night on a
+OL,22,     Fweekend.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,300,250,301,140,0,100
