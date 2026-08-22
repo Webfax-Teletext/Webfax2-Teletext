@@ -1,42 +1,26 @@
-PN,46301
-SC,0001
+PN,46300
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1787402893
+PS,8008
+OL,0,        ECIMSBWebfax 2   F463A1787404720
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday                G1/2
-OL,5,G1320 Togha agus Rogha
-OL,6,     FCeol agus iarratais a chur i
-OL,7,     Flathair ag Edel Ni Loibhead, beo o
-OL,8,     Fstiuideo Bhaile na nGall i gContae
-OL,9,     FChiarrai.
-OL,10,G1400 Sport an tSathairn
-OL,11,     FFaisneis, tuairisci, torthai,
-OL,12,     Fanailis agus trachtaireacht ar
-OL,13,     Fchursai spoirt an tSathairn.
-OL,14,G1800 Nuacht a Se
-OL,15,     FAn barr is deireanai nuachta
-OL,16,     Fnaisiunta, idirnaisiunta agus
-OL,17,     Faitiuil.
-OL,18,G1820 Sport an Trathnona
-OL,19,     FClar spoirt an trathnona a chur i
-OL,20,     Flathair o Bhaile na nGall.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,464,250,301,140,0,100
-PN,46302
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1787402893
-OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
-OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday                G2/2
-OL,5,G2100 Rianta
-OL,6,     FClar ceoil ar linne, ceol na
-OL,7,     Fcruinne, ceolta nua agus ceolta
-OL,8,     Fnios sine.
+OL,3,V}yyy5CSaturday
+OL,5,G1400 Sport an tSathairn
+OL,6,     FFaisneis, tuairisci, torthai,
+OL,7,     Fanailis agus trachtaireacht ar
+OL,8,     Fchursai spoirt an tSathairn.
+OL,9,G1800 Nuacht a Se
+OL,10,     FAn barr is deireanai nuachta
+OL,11,     Fnaisiunta, idirnaisiunta agus
+OL,12,     Faitiuil.
+OL,13,G1820 Sport an Trathnona
+OL,14,     FClar spoirt an trathnona a chur i
+OL,15,     Flathair o Bhaile na nGall.
+OL,16,G2100 Rianta
+OL,17,     FClar ceoil ar linne, ceol na
+OL,18,     Fcruinne, ceolta nua agus ceolta
+OL,19,     Fnios sine.
 OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
