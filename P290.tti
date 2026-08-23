@@ -1,16 +1,49 @@
-PN,29000
-SC,0000
+PN,29001
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F290A1787444331
+PS,c008
+OL,0,        ECIMSBWebfax 2   F290A1787462408
 OL,1,Vzssssss{0Ww;js%7+ jjjjkk
 OL,2,Vupp=wfff5W-.*,%-. *..***V(,,,,,,,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSunday
+OL,5,G0600 Donna Alos on BBC Radio WM
+OL,6,     FSunday morning news, information,
+OL,7,     Fadvice and great music with Donna.
+OL,8,G1000 Darren Harriott on BBC Radio WM
+OL,9,     FJoin PJ for fun, laughs and great
+OL,10,     Fmusic for your Sunday lunchtime.
+OL,11,G1400 BBC Radio WM Sport
+OL,12,     FBrighton & Hove Albion v Aston
+OL,13,     FVilla in the Premier League.
+OL,14,     FKick-off at 2pm. UK only.
+OL,15,G1600 The Make a Difference Show
+OL,16,     FGaby Roslin talks to some amazing
+OL,17,     Fpeople making a difference where
+OL,18,     Fwe live.
+OL,19,G1800 Dotun Adebayo
+OL,20,     FDotun Adebayo brings you the best
+OL,21,     Fof community programming from
+OL,22,     Facross England.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,291,250,301,140,0,100
+PN,29002
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F290A1787462408
+OL,1,Vzssssss{0Ww;js%7+ jjjjkk
+OL,2,Vupp=wfff5W-.*,%-. *..***V(,,,,,,,,,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G2200 The Late Show
+OL,6,     FAsma Younus with late-night
+OL,7,     Fconversation, stories and the
+OL,8,     Fsoundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,291,250,301,140,0,100

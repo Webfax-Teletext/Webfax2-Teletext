@@ -1,16 +1,73 @@
-PN,28600
-SC,0000
+PN,28601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F286A1787444331
+PS,c008
+OL,0,        ECIMSBWebfax 2   F286A1787462409
 OL,1,Vzssssss{0Ww;js%7+ jsjjjsjsjs*:
 OL,2,Vupp=wfff5W-.*,%-. (.*.(.(.*,**V(,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
+OL,3,V}yyy5CSunday
+OL,5,G0600 Allison Ferns on BBC Radio Sussex
+OL,6,     FJoin Allison for Sunday breakfast
+OL,7,     Fnews, information and great music
+OL,8,     Fwith a focus on faith.
+OL,9,G1000 Pat Marsh on BBC Radio Sussex
+OL,10,     FFun for your Sunday - with
+OL,11,     Fgardening advice, great guests,
+OL,12,     Fand plenty of fantastic music.
+OL,13,G1330 Total Sport - Sussex & Surrey:
+OL,14,G     Build-up
+OL,15,     FAll the pre-match build-up for our
+OL,16,     Flocal teams ahead of today's
+OL,17,     Fmatches.
+OL,18,G1355 Total Sport - Sussex & Surrey:
+OL,19,G     Commentary
+OL,20,     FBrighton & Hove Albion v Aston
+OL,21,     FVilla in the Premier League.
+OL,22,     FKick-off at 2pm. UK only.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,287,250,301,140,0,100
+PN,28602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F286A1787462409
+OL,1,Vzssssss{0Ww;js%7+ jsjjjsjsjs*:
+OL,2,Vupp=wfff5W-.*,%-. (.*.(.(.*,**V(,,,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1600 Total Sport - Sussex & Surrey:
+OL,6,G     Reaction
+OL,7,     FManagers, players and fans
+OL,8,     Freaction to Brighton & Hove Albion
+OL,9,     Fand our other matches.
+OL,10,G1630 The Make a Difference Show
+OL,11,     FGaby Roslin talks to some amazing
+OL,12,     Fpeople making a difference where
+OL,13,     Fwe live.
+OL,14,G1800 Dotun Adebayo
+OL,15,     FDotun Adebayo brings you the best
+OL,16,     Fof community programming from
+OL,17,     Facross England.
+OL,18,G2200 The Late Show
+OL,19,     FAsma Younus with late-night
+OL,20,     Fconversation, stories and the
+OL,21,     Fsoundtrack to your night.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,287,250,301,140,0,100
+PN,28603
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F286A1787462409
+OL,1,Vzssssss{0Ww;js%7+ jsjjjsjsjs*:
+OL,2,Vupp=wfff5W-.*,%-. (.*.(.(.*,**V(,,,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G0100 Weekday overnights with BBC Radio
 OL,6,G     5 Live
 OL,7,     FLocal BBC Radio joins BBC Radio 5
 OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,9,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,287,250,301,140,0,100
