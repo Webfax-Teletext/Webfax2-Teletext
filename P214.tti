@@ -2,22 +2,27 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1787465900
+OL,0,        ECIMSBWebfax 2   F214A1787467692
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSunday
-OL,5,G0700 Scotcast
-OL,6,     FThe best bits from the past seven
-OL,7,     Fdays of the BBC's Scottish news
-OL,8,     Fpodcast, with Laura Miller, Martin
-OL,9,     FGeissler and Natalie Higgins.
-OL,10,G0730 New Every Sunday
-OL,11,     FAn act of worship with the
-OL,12,     FReverend Julie Moody, minister of
-OL,13,     FMilton of Campsie Parish Church of
-OL,14,     FScotland, on the theme of 'the
-OL,15,     FChurch is where praise of God
-OL,16,     Fflows'.
+OL,5,G0730 New Every Sunday
+OL,6,     FAn act of worship with the
+OL,7,     FReverend Julie Moody, minister of
+OL,8,     FMilton of Campsie Parish Church of
+OL,9,     FScotland, on the theme of 'the
+OL,10,     FChurch is where praise of God
+OL,11,     Fflows'.
+OL,12,G0800 Sunday Morning
+OL,13,     FAn Edinburgh Festivals Special
+OL,14,     Fwith unforgettable voices from the
+OL,15,     FFringe; Hasan Al Habib, Matt
+OL,16,     FForde, Elf Lyons, Alan Bissett,
+OL,17,     FBrit Baron, Euan Munro and Tessa
+OL,18,     FParr.
+OL,19,G1000 The Sunday Show
+OL,20,     FNews, discussion and interviews
+OL,21,     Ffrom politics and beyond.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -25,27 +30,26 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1787465900
+OL,0,        ECIMSBWebfax 2   F214A1787467692
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSunday
-OL,5,G0800 Sunday Morning
-OL,6,     FAn Edinburgh Festivals Special
-OL,7,     Fwith unforgettable voices from the
-OL,8,     FFringe; Hasan Al Habib, Matt
-OL,9,     FForde, Elf Lyons, Alan Bissett,
-OL,10,     FBrit Baron, Euan Munro and Tessa
-OL,11,     FParr.
-OL,12,G1000 The Sunday Show
-OL,13,     FNews, discussion and interviews
-OL,14,     Ffrom politics and beyond.
-OL,15,G1200 Off the Ball
-OL,16,     FThe most petty and ill-informed
-OL,17,     Ffootball show on radio.
-OL,18,G1400 Sportsound
-OL,19,     FAll the latest news from across
-OL,20,     FScottish football and beyond, with
-OL,21,     FRichard Gordon.
+OL,5,G1200 Off the Ball
+OL,6,     FThe most petty and ill-informed
+OL,7,     Ffootball show on radio.
+OL,8,G1400 Sportsound
+OL,9,     FAll the latest news from across
+OL,10,     FScottish football and beyond, with
+OL,11,     FRichard Gordon.
+OL,12,G1700 Your Requests with Gary Innes
+OL,13,     FJoin Gary as he shares your
+OL,14,     Fspecial messages and dedications
+OL,15,     Fand plays your favourite Scottish
+OL,16,     FMusic requests.
+OL,17,G1900 Classical Now
+OL,18,     FA Joy-themed programme with music
+OL,19,     Fby Beethoven, Vivaldi, Florence
+OL,20,     FPrice and Sibelius.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -53,27 +57,18 @@ PN,21403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1787465900
+OL,0,        ECIMSBWebfax 2   F214A1787467692
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSunday
-OL,5,G1700 Your Requests with Gary Innes
-OL,6,     FJoin Gary as he shares your
-OL,7,     Fspecial messages and dedications
-OL,8,     Fand plays your favourite Scottish
-OL,9,     FMusic requests.
-OL,10,G1900 Classical Now
-OL,11,     FA Joy-themed programme with music
-OL,12,     Fby Beethoven, Vivaldi, Florence
-OL,13,     FPrice and Sibelius.
-OL,14,G2100 Roddy Hart's Mix Tape
-OL,15,     FFeaturing new music from Katie
-OL,16,     FGregson-MacLeod, Elliot Faber and
-OL,17,     FLaura Veirs, plus Glasgow-based
-OL,18,     Ffolk artist Zoe Bestel goes Off
-OL,19,     FThe Record.
-OL,20,G2300 As BBC Radio 5 Live
-OL,21,     FJoining Radio 5 Live.
+OL,5,G2100 Roddy Hart's Mix Tape
+OL,6,     FFeaturing new music from Katie
+OL,7,     FGregson-MacLeod, Elliot Faber and
+OL,8,     FLaura Veirs, plus Glasgow-based
+OL,9,     Ffolk artist Zoe Bestel goes Off
+OL,10,     FThe Record.
+OL,11,G2300 As BBC Radio 5 Live
+OL,12,     FJoining Radio 5 Live.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
