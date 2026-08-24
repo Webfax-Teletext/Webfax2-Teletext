@@ -1,15 +1,308 @@
-PN,20400
-SC,0000
+PN,20401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1787546891
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSunday
-OL,5,G0545 Farming Today
-OL,6,G0557 Weather for Farmers
-OL,7,     FThe latest weather reports and
-OL,8,     Fforecasts for farmers.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CMonday
+OL,5,G0600 Today
+OL,6,G0900 The Great Crime Mystery
+OL,7,     FPoliticians often talk tough on
+OL,8,     Fcrime, but rarely tell us the
+OL,9,     Fcrime rate has been falling for
+OL,10,     Fyears. Mark Easton looks at the
+OL,11,     Fperception and reality of
+OL,12,     FBritain's drop in crime.
+OL,13,G0930 How Did We Get Here: No World
+OL,14,G     Order
+OL,15,     F5/6. Tristan Redman and guests
+OL,16,     Fdiscuss Obama's Nobel Peace Prize,
+OL,17,     Fthe rise of populism, and the US
+OL,18,     Fwithdrawal from international
+OL,19,     Fagreements.
+OL,23,VppppppppppppppppppppppppppppppppppG1/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G1000 Woman's Hour
+OL,6,     FWomen's voices and women's lives -
+OL,7,     Ftopical conversations to inform,
+OL,8,     Fchallenge and inspire.
+OL,9,G1100 All Kinds of Minds
+OL,10,     F1/4. Nathan Filer explores how the
+OL,11,     Flanguage of neurodiversity has
+OL,12,     Fevolved - offering a sense of
+OL,13,     Fbelonging for many, while raising
+OL,14,     Fdifficult questions about
+OL,15,     Fdifference and diagnosis.
+OL,16,G1145 All the Beauty in the World by
+OL,17,G     Patrick Bringley
+OL,18,     F1/5. A portrait of the
+OL,19,     FMetropolitan Museum of Art in New
+OL,20,     FYork and the moving story of one
+OL,21,     Fguard's quest to find solace and
+OL,22,     Fmeaning in art.
+OL,23,VppppppppppppppppppppppppppppppppppG2/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G1200 News Summary
+OL,6,G1204 You and Yours
+OL,7,     FNews and discussion of consumer
+OL,8,     Faffairs.
+OL,9,G1257 Weather Forecast
+OL,10,G1300 The World at One
+OL,11,G1345 Human Intelligence
+OL,12,     FNaomi Alderman explores Voltaire's
+OL,13,     FEnlightenment mind and his fierce
+OL,14,     Fchallenge to authority,
+OL,15,     Fsuperstition, and intolerance
+OL,16,     Fthrough wit, exile, and relentless
+OL,17,     Fdebate.
+OL,18,G1400 The Archers
+OL,19,     FLily has a confession to make, and
+OL,20,     Fthere is further setback for the
+OL,21,     FSnells.
+OL,23,VppppppppppppppppppppppppppppppppppG3/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20404
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G1415 Fags, Mags & Bags
+OL,6,     F1/6. Comedy set in a Scots-Asian
+OL,7,     Fcorner shop. Sanjay's relationship
+OL,8,     Fwith Grebo has hit the rocks but
+OL,9,     Fcan Malcolm help? Written by and
+OL,10,     Fstarring Sanjeev Kohli and Donald
+OL,11,     FMcLeary.
+OL,12,G1445 Opening Lines
+OL,13,     FThe series that looks at books,
+OL,14,     Fplays and stories and how they
+OL,15,     Fwork. John Yorke examines Midnight
+OL,16,     FCowboy by James Leo Herlihy.
+OL,17,G1500 Great Lives
+OL,18,     FJames Aldred picks wildlife
+OL,19,     Fcameraman and pioneer Eric Ashby,
+OL,20,     Fwith help from Chris Packham.
+OL,23,VppppppppppppppppppppppppppppppppppG4/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20405
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G1530 You're Dead To Me
+OL,6,     FGreg Jenner is joined by Professor
+OL,7,     FViv Gardner and comedian Morgan
+OL,8,     FRees in 19th-century Wales to
+OL,9,     Flearn about the fabulous,
+OL,10,     Ftheatrical life of Henry Cyril
+OL,11,     FPaget.
+OL,12,G1600 The WhatsApp Underground
+OL,13,     FIn June 2026, images of race riots
+OL,14,     Fin Belfast were flashed around the
+OL,15,     Fworld. An underground grassroots
+OL,16,     Fnetwork quickly mobilised on
+OL,17,     FWhatsApp to rescue and shelter
+OL,18,     Fthose at risk.
+OL,23,VppppppppppppppppppppppppppppppppppG5/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20406
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G1630 Soul Music
+OL,6,     FStories of personal connection to
+OL,7,     Fa classic song. How Neil Diamond's
+OL,8,     FSweet Caroline became a song for
+OL,9,     Fthe sports stands.
+OL,10,G1700 PM
+OL,11,G1800 Six O'Clock News
+OL,12,G1830 Just a Minute
+OL,13,     F6/6. Players take on subjects like
+OL,14,     F'What I desperately need fixing'
+OL,15,     Fand Gyles reveals his latest
+OL,16,     Fambassadorial role.
+OL,17,G1900 The Archers
+OL,18,     FGeorge attempts to make a good
+OL,19,     Fimpression and Alice faces a rude
+OL,20,     Finterruption.
+OL,23,VppppppppppppppppppppppppppppppppppG6/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20407
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G1915 Front Row
+OL,6,     FAs the Quentin Blake Centre for
+OL,7,     FIllustration prepares to open in
+OL,8,     FLondon, we find out how
+OL,9,     Fillustrators are adapting to a
+OL,10,     Fchanging world.
+OL,11,G2000 The Briefing Room
+OL,12,     FDavid Aaronovitch and guests
+OL,13,     Fdiscuss how we deal with a huge
+OL,14,     Fprojected water shortfall by the
+OL,15,     Fmiddle of this century and they
+OL,16,     Fexplore the ways we might be able
+OL,17,     Fto fix the problem.
+OL,23,VppppppppppppppppppppppppppppppppppG7/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20408
+SC,0008
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G2030 BBC Inside Science
+OL,6,     FThis week Merck (known as MSD in
+OL,7,     FEurope) and Moderna announced that
+OL,8,     Fa personalised cancer vaccine had
+OL,9,     Fsignificantly improved the
+OL,10,     Foutcomes of melanoma patients.
+OL,11,G2100 The Great Crime Mystery
+OL,12,     FPoliticians often talk tough on
+OL,13,     Fcrime, but rarely tell us the
+OL,14,     Fcrime rate has been falling for
+OL,15,     Fyears. Mark Easton looks at the
+OL,16,     Fperception and reality of
+OL,17,     FBritain's drop in crime.
+OL,23,VppppppppppppppppppppppppppppppppppG8/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20409
+SC,0009
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G2130 How Did We Get Here: No World
+OL,6,G     Order
+OL,7,     F5/6. Tristan Redman and guests
+OL,8,     Fdiscuss Obama's Nobel Peace Prize,
+OL,9,     Fthe rise of populism, and the US
+OL,10,     Fwithdrawal from international
+OL,11,     Fagreements.
+OL,12,G2200 The World Tonight
+OL,13,G2245 Mr Sidhu's Post Office by Amman
+OL,14,G     Brar
+OL,15,     F6/10. It is 2007, and Mr Sidhu is
+OL,16,     Fthe sub-postmaster of a local post
+OL,17,     Foffice in Richmond upon Thames,
+OL,18,     Fbut his world is about to be
+OL,19,     Fshifted on its axis.
+OL,23,VppppppppppppppppppppppppppppppppppG9/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20410
+SC,0010
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G2300 There's Something I Need to Tell
+OL,6,G     You
+OL,7,     F1/5. After agreeing to help a
+OL,8,     Fmysterious stranger, young couple
+OL,9,     FJake and Kayla are implicated in
+OL,10,     Fan assassination at their hotel. A
+OL,11,     Fglobal thriller of espionage,
+OL,12,     Fmoney and murder.
+OL,13,G2330 Everything Is Fake and Nobody
+OL,14,G     Cares
+OL,15,     FPodcasting has made some people
+OL,16,     Ffamous very fast. Look closely at
+OL,17,     Fhow they got there, and you see
+OL,18,     Fsomething revealing about the
+OL,19,     Fworld we now live in. Jamie
+OL,20,     FBartlett investigates.
+OL,21,G0000 Midnight News
+OL,23,VpppppppppppppppppppppppppppppppppG10/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20411
+SC,0011
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G0030 All the Beauty in the World by
+OL,6,G     Patrick Bringley
+OL,7,     F1/5. A portrait of the
+OL,8,     FMetropolitan Museum of Art in New
+OL,9,     FYork and the moving story of one
+OL,10,     Fguard's quest to find solace and
+OL,11,     Fmeaning in art.
+OL,12,G0048 Shipping Forecast
+OL,13,G0100 World Service
+OL,14,     FBBC Radio 4 joins the BBC World
+OL,15,     FService.
+OL,16,G0500 News Summary
+OL,23,VpppppppppppppppppppppppppppppppppG11/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20412
+SC,0012
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1787548774
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CMonday
+OL,5,G0504 The WhatsApp Underground
+OL,6,     FIn June 2026, images of race riots
+OL,7,     Fin Belfast were flashed around the
+OL,8,     Fworld. An underground grassroots
+OL,9,     Fnetwork quickly mobilised on
+OL,10,     FWhatsApp to rescue and shelter
+OL,11,     Fthose at risk.
+OL,12,G0534 Shipping Forecast
+OL,13,G0543 Prayer for the Day
+OL,14,G0545 Farming Today
+OL,23,VpppppppppppppppppppppppppppppppppG12/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100

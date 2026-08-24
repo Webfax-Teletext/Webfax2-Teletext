@@ -1,14 +1,77 @@
-PN,21800
-SC,0000
+PN,21801
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F218A1787527100
+PS,c008
+OL,0,        ECIMSBWebfax 2   F218A1787548774
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
-OL,3,V}yyy5CSunday
+OL,3,V}yyy5CMonday
 OL,5,G0000 Gweler BBC Radio 2
 OL,6,     FMae Radio Cymru 2 yn ymuno a BBC
 OL,7,     FRadio 2 dros nos.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,8,G0700 Sioe Frecwast
+OL,9,     FCerddoriaeth ac adloniant gyda
+OL,10,     FRhydian Bowen Phillips. Music and
+OL,11,     Fentertainment breakfast show with
+OL,12,     FRhydian Bowen Phillips.
+OL,13,G1000 Lisa Gwilym
+OL,14,     FAlistair James sydd yn sedd Lisa
+OL,15,     FGwilym yn chwarae eich hoff
+OL,16,     Ffiwsig. Your favourite music with
+OL,17,     FAlistair James sitting in for Lisa
+OL,18,     FGwilym.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,226,200,300,120,0,100
+PN,21802
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F218A1787548774
+OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
+OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
+OL,3,V}yyy5CMonday
+OL,5,G1400 Ifan Jones Evans
+OL,6,     FDigon o gerddoriaeth, chwerthin a
+OL,7,     Fsgwrsio, yn ogystal a
+OL,8,     Fchystadleuaeth neu ddwy. Music and
+OL,9,     Fchat, plus a competition or two.
+OL,10,G1700 Traciau Radio Cymru 2
+OL,11,     FTiwns trwy'r dydd yn parhau ar
+OL,12,     FRadio Cymru 2. More tunes on Radio
+OL,13,     FCymru 2.
+OL,14,G1900 Rhys Mwyn
+OL,15,     FHelen Williams-Ellis sy'n dewis
+OL,16,     Ftraciau gan ferched cryf. Helen
+OL,17,     FWilliams-Ellis chooses tracks from
+OL,18,     Fstrong women, inspired by her new
+OL,19,     Fbook.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,226,200,300,120,0,100
+PN,21803
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F218A1787548774
+OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
+OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
+OL,3,V}yyy5CMonday
+OL,5,G2100 Caryl
+OL,6,     FCerddoriaeth a hwyl gyda'r hwyr
+OL,7,     Fgyda Marc Griffiths yn sedd Caryl
+OL,8,     FParry Jones. Music and fun with
+OL,9,     FMarc Griffiths sitting in for
+OL,10,     FCaryl Parry Jones.
+OL,11,G2300 Y Clwb PJs
+OL,12,     FYmunwch a Marc Griffiths i ymlacio
+OL,13,     Fwrth wrando ar gerddoriaeth
+OL,14,     Fhudolus cyn cysgu. Unwind with
+OL,15,     FMarc Griffiths while listening to
+OL,16,     Fsoothing music before sleeping.
+OL,17,G0000 Gweler BBC Radio 2
+OL,18,     FMae Radio Cymru 2 yn ymuno a BBC
+OL,19,     FRadio 2 dros nos.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,226,200,300,120,0,100
