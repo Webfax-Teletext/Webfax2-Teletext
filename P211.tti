@@ -2,7 +2,7 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -25,7 +25,7 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -54,7 +54,7 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -81,7 +81,7 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -108,7 +108,7 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -137,7 +137,7 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -166,7 +166,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -192,7 +192,7 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -221,7 +221,7 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -229,16 +229,18 @@ OL,5,G0130 BBC News Summary
 OL,6,     FThe latest two minute news summary
 OL,7,     Ffrom BBC World Service.
 OL,8,G0132 The Global Story
-OL,9,     F.
-OL,10,G0200 BBC News
-OL,11,     FThe latest five minute news
-OL,12,     Fbulletin from BBC World Service.
-OL,13,G0206 The Newsroom
-OL,14,     FThe world's Newsroom brings you
-OL,15,     Fglobal events as they happen.
-OL,16,G0230 BBC News Summary
-OL,17,     FThe latest two minute news summary
-OL,18,     Ffrom BBC World Service.
+OL,9,     FA promising scientific
+OL,10,     Fbreakthrough amid research funding
+OL,11,     Fcuts.
+OL,12,G0200 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0206 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0230 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG9/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -246,7 +248,7 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -273,7 +275,7 @@ PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -300,7 +302,7 @@ PN,21112
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787663933
+OL,0,        ECIMSBWebfax 2   F211A1787665702
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
