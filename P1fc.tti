@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1787777649
+OL,0,        ECIMSBWebfax 2   F1fcA1787779138
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1787777649;
-OL,10,GService: Webfax 2 - 18668 a31fb9bd4c
-OL,11,FLast Update: 26/08/2026 21:54:09  G1/3
+OL,25,1787779138;
+OL,10,GService: Webfax 2 - 18669 e532d3cede
+OL,11,FLast Update: 26/08/2026 22:18:58  G1/3
 OL,13,CbbcSport/Horse Racing      G25/08-01:57
 OL,14,Ccharts/singles             G25/08-01:57
 OL,15,Cgeneric/championship       G25/08-01:57
@@ -30,7 +30,7 @@ OL,23,Ageneric/weather_warnings   G25/08-01:57
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1787777649
+OL,0,        ECIMSBWebfax 2   F1fcA1787779138
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1787777649;
-OL,10,GService: Webfax 2 - 18668 a31fb9bd4c
-OL,11,FLast Update: 26/08/2026 21:54:09  G2/3
+OL,25,1787779138;
+OL,10,GService: Webfax 2 - 18669 e532d3cede
+OL,11,FLast Update: 26/08/2026 22:18:58  G2/3
 OL,13,CitvSport/border            G25/08-01:56
 OL,14,CitvSport/calendar          G25/08-01:56
 OL,15,CitvSport/central           G25/08-01:56
@@ -55,11 +55,11 @@ OL,19,CitvSport/tyne-tees         G25/08-01:56
 OL,20,CitvSport/utv               G25/08-01:57
 OL,21,CitvSport/wales             G25/08-01:57
 OL,22,AitvSport/westcountry       G25/08-01:56
-OL,23,CiNMS/comments.json         G25/08-01:57
+OL,23,Cmet_weather/Dumfries, GalloG25/08-22:02
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1787777649
+OL,0,        ECIMSBWebfax 2   F1fcA1787779138
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,6 +71,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1787777649;
-OL,10,GService: Webfax 2 - 18668 a31fb9bd4c
-OL,11,FLast Update: 26/08/2026 21:54:09  G3/3
+OL,25,1787779138;
+OL,10,GService: Webfax 2 - 18669 e532d3cede
+OL,11,FLast Update: 26/08/2026 22:18:58  G3/3
+OL,13,Cmet_weather/Northern IrelanG25/08-22:02
+OL,14,Cmet_weather/Wales          G25/08-22:02
+OL,15,CiNMS/comments.json         G25/08-01:57
