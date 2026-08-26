@@ -2,7 +2,7 @@ PN,21601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F216A1787750334
+OL,0,        ECIMSBWebfax 2   F216A1787752099
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CWednesday
@@ -15,11 +15,9 @@ OL,10,G1700 Radio Wales Drive
 OL,11,     FEverything you need to know as you
 OL,12,     Fhead home.
 OL,13,G1830 Country Focus
-OL,14,     FProgramme serving everyone living
-OL,15,     Fin the countryside and tackling
-OL,16,     Fthe issues affecting them. With
-OL,17,     Frural, farming and environmental
-OL,18,     Fnews.
+OL,14,     FCountry Focus this week visits
+OL,15,     FDenbigh and Flint Show and goes on
+OL,16,     Fa shopping trip!
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,217,200,300,120,0,100
@@ -27,7 +25,7 @@ PN,21602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F216A1787750334
+OL,0,        ECIMSBWebfax 2   F216A1787752099
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CWednesday
@@ -54,13 +52,25 @@ PN,21603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F216A1787750334
+OL,0,        ECIMSBWebfax 2   F216A1787752099
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CWednesday
-OL,5,G0100 As BBC Radio 5 Live
-OL,6,     FSee listings for BBC Radio 5 Live
-OL,7,     Fon BBC Sounds.
+OL,5,G0100 18 Again (Jonathan Pryce)
+OL,6,     FCerys Matthews talks to
+OL,7,     Faward-winning actor Sir Jonathan
+OL,8,     FPryce about the music, film,
+OL,9,     Ffashions and fads of 1965, the
+OL,10,     Fyear he turned 18.
+OL,11,G0251 18 Again (Tori James)
+OL,12,     FCerys Matthews talks to
+OL,13,     Frecord-breaking mountaineer Tori
+OL,14,     FJames about the music, film,
+OL,15,     Ffashion and fads of 1999, the year
+OL,16,     Fshe turned 18.
+OL,17,G0442 As BBC Radio 5 Live
+OL,18,     FSee listings for BBC Radio 5 Live
+OL,19,     Fon BBC Sounds.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,217,200,300,120,0,100
