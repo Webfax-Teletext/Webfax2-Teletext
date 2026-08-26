@@ -1,16 +1,48 @@
-PN,26000
-SC,0000
+PN,26001
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F260A1787703535
+PS,c008
+OL,0,        ECIMSBWebfax 2   F260A1787721574
 OL,1,Vzssssss{0Ww;js%7+ jcj jkjjj+jsjs"7jsj;
 OL,2,Vupp=wfff5W-.*,%-. *.*,*.*.*.*,(. %*,**
-OL,3,V}yyy5CTuesday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CWednesday
+OL,5,G0600 Jon Smith
+OL,6,     FJoin Jon and the team for the
+OL,7,     Fessential start to your day in
+OL,8,     FGloucestershire.
+OL,9,G1000 Nicky Price
+OL,10,     FNicky's here with stories to make
+OL,11,     Fyou smile, great music and daytime
+OL,12,     Fconversation.
+OL,13,G1400 Graham Rogers on BBC Radio
+OL,14,G     Gloucestershire
+OL,15,     FJonathan is here with
+OL,16,     Fconversation, updates and great
+OL,17,     Fmusic for your weekday afternoon.
+OL,18,G1800 Daniel Pascoe
+OL,19,     FDaniel's here with evening
+OL,20,     Fconversation, updates, the music
+OL,21,     Fyou love and fun.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,261,250,301,140,0,100
+PN,26002
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F260A1787721574
+OL,1,Vzssssss{0Ww;js%7+ jcj jkjjj+jsjs"7jsj;
+OL,2,Vupp=wfff5W-.*,%-. *.*,*.*.*.*,(. %*,**
+OL,3,V}yyy5CWednesday
+OL,5,G2200 The Late Show
+OL,6,     FBecky Want with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,261,250,301,140,0,100
