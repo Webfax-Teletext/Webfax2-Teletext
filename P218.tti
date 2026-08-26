@@ -1,42 +1,27 @@
-PN,21801
-SC,0001
+PN,21800
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F218A1787761099
+PS,8008
+OL,0,        ECIMSBWebfax 2   F218A1787768335
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
 OL,3,V}yyy5CWednesday
-OL,5,G1700 Traciau Radio Cymru 2
-OL,6,     FTiwns trwy'r dydd yn parhau ar
-OL,7,     FRadio Cymru 2. More tunes on Radio
-OL,8,     FCymru 2.
-OL,9,G1900 Mirain Iwerydd
-OL,10,     FCerddoriaeth newydd Cymru. New
-OL,11,     FWelsh music.
-OL,12,G2100 Caryl
-OL,13,     FCerddoriaeth a hwyl gyda'r hwyr
-OL,14,     Fgyda Caryl Parry Jones. Music and
-OL,15,     Ffun with Caryl Parry Jones.
-OL,16,G2300 Y Clwb PJs
-OL,17,     FYmunwch a Caryl i ymlacio wrth
-OL,18,     Fwrando ar gerddoriaeth hudolus cyn
-OL,19,     Fcysgu. Unwind with Caryl while
-OL,20,     Flistening to soothing music before
-OL,21,     Fsleeping.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,226,200,300,120,0,100
-PN,21802
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F218A1787761099
-OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
-OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
-OL,3,V}yyy5CWednesday
-OL,5,G0000 Gweler BBC Radio 2
-OL,6,     FMae Radio Cymru 2 yn ymuno a BBC
-OL,7,     FRadio 2 dros nos.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1900 Mirain Iwerydd
+OL,6,     FCerddoriaeth newydd Cymru. New
+OL,7,     FWelsh music.
+OL,8,G2100 Caryl
+OL,9,     FCerddoriaeth a hwyl gyda'r hwyr
+OL,10,     Fgyda Caryl Parry Jones. Music and
+OL,11,     Ffun with Caryl Parry Jones.
+OL,12,G2300 Y Clwb PJs
+OL,13,     FYmunwch a Caryl i ymlacio wrth
+OL,14,     Fwrando ar gerddoriaeth hudolus cyn
+OL,15,     Fcysgu. Unwind with Caryl while
+OL,16,     Flistening to soothing music before
+OL,17,     Fsleeping.
+OL,18,G0000 Gweler BBC Radio 2
+OL,19,     FMae Radio Cymru 2 yn ymuno a BBC
+OL,20,     FRadio 2 dros nos.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,226,200,300,120,0,100
