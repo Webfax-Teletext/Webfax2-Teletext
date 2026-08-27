@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUnexpected chat between OpenAI agents
@@ -80,7 +80,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUnexpected chat between OpenAI agents
@@ -99,7 +99,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ANvidia revenue doubles on continued AI
@@ -126,7 +126,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ANvidia revenue doubles on continued AI
@@ -142,7 +142,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AMeta to pay up to $18bn to settle
@@ -166,7 +166,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AMeta to pay up to $18bn to settle
@@ -188,11 +188,11 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G161FJapanese avant-garde artist Yayoi
+OL,5,G161FJapanese polka dot artist Yayoi
 OL,6,FKusama dies aged 97A27-Aug
 OL,7,G
 OL,8,G162FSusan Sarandon leads tributes to
@@ -217,21 +217,26 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AJapanese avant-garde artist Yayoi
-OL,4,AKusama dies aged 97
+OL,3,AJapanese polka dot artist Yayoi Kusama
+OL,4,Adies aged 97
 OL,5,
 OL,6,FJapanese avant-garde artist Yayoi
-OL,7,FKusama, who became famous later in life
-OL,8,Ffor her work in sculptures and
-OL,9,Finstallations, has died aged 97, her
-OL,10,Fcompany has confirmed.
-OL,12,FThe statement announced, "with profound
-OL,13,Fsorrow... the passing of Yayoi Kusama
-OL,14,Fat a hospital in Tokyo on August 14,
-OL,15,F2026, at the age of 97".
+OL,7,FKusama, who became famous for her
+OL,8,Fcolourful polka dot-covered sculptures
+OL,9,Fand installations, has died at the age
+OL,10,Fof 97.
+OL,12,FKusama, who had voluntarily lived in a
+OL,13,Fpsychiatric hospital for decades, was
+OL,14,Fknown for her bright red wig and her
+OL,15,Fgiant, quirky creations.
+OL,17,FHer exhibitions drew large crowds to
+OL,18,Fgalleries around the world, and her
+OL,19,Fvibrant works fetched some of the
+OL,20,Fhighest ever prices for a female
+OL,21,Fartist.
 OL,23,APub: 27-AugQpppppppppppppppppppppG10/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
@@ -239,24 +244,20 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AJapanese avant-garde artist Yayoi
-OL,4,AKusama dies aged 97
+OL,3,AJapanese polka dot artist Yayoi Kusama
+OL,4,Adies aged 97
 OL,5,
-OL,6,F"Throughout an extraordinary lifetime
-OL,7,Fdevoted entirely to artistic creation,
-OL,8,FKusama pursued an internationally
-OL,9,Facclaimed career as a pioneering
-OL,10,Favant-garde artist whose creative
-OL,11,Fpractice encompassed visual art,
-OL,12,Fperformance, fiction, and poetry," it
-OL,13,Fsaid.
-OL,15,FKusama, who had voluntarily lived in a
-OL,16,Fpyschiatric hospital for decades, was
-OL,17,Fknown for her bright-red wig and quirky
-OL,18,Fpolka-dot ensembles.
+OL,6,FA statement from her company said:
+OL,7,F"Throughout an extraordinary lifetime
+OL,8,Fdevoted entirely to artistic creation,
+OL,9,FKusama pursued an internationally
+OL,10,Facclaimed career as a pioneering
+OL,11,Favant-garde artist whose creative
+OL,12,Fpractice encompassed visual art,
+OL,13,Fperformance, fiction, and poetry."
 OL,23,APub: 27-AugQpppppppppppppppppppppG11/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
@@ -264,7 +265,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASusan Sarandon leads tributes to Rocky
@@ -291,7 +292,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASusan Sarandon leads tributes to Rocky
@@ -309,26 +310,25 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Angel by my side' - Miley Cyrus pays
 OL,4,Atribute to godmother Dolly Parton
 OL,5,
-OL,6,FMiley Cyrus, Taylor Swift, Beyonce, Sir
-OL,7,FPaul McCartney and Sir Elton John have
-OL,8,Fled an outpouring of tributes from
-OL,9,Fcelebrities and fans to Dolly Parton
-OL,10,Ffollowing the music icon's death at the
-OL,11,Fage of 80.
-OL,13,FCyrus paid an emotional tribute to her
-OL,14,Fgodmother, "Aunt Dolly", describing her
-OL,15,Fas an "angel by my side". "I will
-OL,16,Falways love her and want to make her
-OL,17,Fproud," she wrote on Instagram.
-OL,19,FThe Tennessee-born singer died on
-OL,20,FTuesday after "a brief battle with
-OL,21,Fcancer", her team said in a statement.
+OL,6,FMiley Cyrus, Taylor Swift, Beyonce and
+OL,7,FSir Paul McCartney have led an
+OL,8,Foutpouring of tributes from celebrities
+OL,9,Fand fans to Dolly Parton following the
+OL,10,Fmusic icon's death at the age of 80.
+OL,12,FCyrus paid an emotional tribute to her
+OL,13,Fgodmother, "Aunt Dolly", describing her
+OL,14,Fas an "angel by my side". She wrote on
+OL,15,FInstagram: "I will always love her and
+OL,16,Fwant to make her proud."
+OL,18,FThe Tennessee-born singer died on
+OL,19,FTuesday after "a brief battle with
+OL,20,Fcancer", her team said in a statement.
 OL,23,APub: 26-AugQpppppppppppppppppppppG14/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
@@ -336,7 +336,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Angel by my side' - Miley Cyrus pays
@@ -356,7 +356,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
@@ -383,7 +383,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CThursday
@@ -409,7 +409,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
@@ -436,7 +436,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1787811500
+OL,0,        ECIMSBWebfax 2   F119A1787811851
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CThursday
