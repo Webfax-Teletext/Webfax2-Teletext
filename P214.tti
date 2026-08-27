@@ -2,7 +2,7 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1787818699
+OL,0,        ECIMSBWebfax 2   F214A1787822376
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CThursday
@@ -20,9 +20,6 @@ OL,15,G1600 Drivetime
 OL,16,     FBreaking down the day's talking
 OL,17,     Fpoints with comment and opinion,
 OL,18,     Fplus sport, travel and weather.
-OL,19,G1630 Sportsound
-OL,20,     FSporting commentary, analysis and
-OL,21,     Fdebate.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -30,22 +27,28 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1787818699
+OL,0,        ECIMSBWebfax 2   F214A1787822376
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CThursday
-OL,5,G2300 Up Late
-OL,6,     FThe best company to end the day,
-OL,7,     Fwith lively chat and some of your
-OL,8,     Ffavourite tunes.
-OL,9,G0000 Scotcast
-OL,10,     FMartin Geissler and the team bring
-OL,11,     Fyou thoughtful conversation and
-OL,12,     Fexpert analysis covering the most
-OL,13,     Finteresting news stories in
-OL,14,     FScotland.
-OL,15,G0030 As BBC Radio 5 Live
-OL,16,     FJoining Radio 5 Live.
+OL,5,G1630 Sportsound
+OL,6,     FLive European football with
+OL,7,     FJablonec v Rangers in the Europa
+OL,8,     FLeague qualifiers (1700) followed
+OL,9,     Fby Hibernian v Gent in Conference
+OL,10,     FLeague qualification (2000).
+OL,11,G2300 Up Late
+OL,12,     FThe best company to end the day,
+OL,13,     Fwith lively chat and some of your
+OL,14,     Ffavourite tunes.
+OL,15,G0000 Scotcast
+OL,16,     FMartin Geissler and the team bring
+OL,17,     Fyou thoughtful conversation and
+OL,18,     Fexpert analysis covering the most
+OL,19,     Finteresting news stories in
+OL,20,     FScotland.
+OL,21,G0030 As BBC Radio 5 Live
+OL,22,     FJoining Radio 5 Live.
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
