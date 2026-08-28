@@ -1,45 +1,25 @@
-PN,20401
-SC,0001
+PN,20400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1787874493
+PS,8008
+OL,0,        ECIMSBWebfax 2   F204A1787876335
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CThursday
-OL,5,G0030 All the Beauty in the World by
-OL,6,G     Patrick Bringley
-OL,7,     F4/5. A guard at the Metropolitan
-OL,8,     FMuseum of Art becomes fascinated
-OL,9,     Fby an ancient Greek Kouros figure
-OL,10,     Fof a young man and the magical
-OL,11,     FSimonetti carpet in the Ottoman
-OL,12,     Fgallery.
-OL,13,G0048 Shipping Forecast
-OL,14,G0100 World Service
-OL,15,     FBBC Radio 4 joins the BBC World
-OL,16,     FService.
-OL,17,G0500 News Summary
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,205,200,300,120,0,100
-PN,20402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1787874493
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G0504 The Briefing Room
-OL,6,     FDavid Aaronovitch and guests
-OL,7,     Fdiscuss recent youth protests in
-OL,8,     FIndia, Nepal and Serbia. What are
-OL,9,     FGen Z complaining about, how do
-OL,10,     Fthey mobilise and do they get what
-OL,11,     Fthey want?
-OL,12,G0534 Shipping Forecast
-OL,13,G0543 Prayer for the Day
-OL,14,G0545 Farming Today
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G0100 World Service
+OL,6,     FBBC Radio 4 joins the BBC World
+OL,7,     FService.
+OL,8,G0500 News Summary
+OL,9,G0504 The Briefing Room
+OL,10,     FDavid Aaronovitch and guests
+OL,11,     Fdiscuss recent youth protests in
+OL,12,     FIndia, Nepal and Serbia. What are
+OL,13,     FGen Z complaining about, how do
+OL,14,     Fthey mobilise and do they get what
+OL,15,     Fthey want?
+OL,16,G0534 Shipping Forecast
+OL,17,G0543 Prayer for the Day
+OL,18,G0545 Farming Today
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
