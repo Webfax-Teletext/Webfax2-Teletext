@@ -2,26 +2,28 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787957364
+OL,0,        ECIMSBWebfax 2   F211A1787959161
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G2332 World Business Report
-OL,6,     FThe head of the US Federal
-OL,7,     FReserve, Kevin Warsh, says
-OL,8,     Fpolicymakers 'have work to do' if
-OL,9,     Fthey are not confident
-OL,10,     Fcost-of-living pressures are
-OL,11,     Feasing for Americans.
-OL,12,G0000 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G0006 Unexpected Elements
-OL,16,     FThe lack of rain and relentless
-OL,17,     Fheatwaves across Europe and Asia
-OL,18,     Fhave got the Unexpected Elements
-OL,19,     Fteam thinking about the surprising
-OL,20,     Fscience around droughts.
+OL,5,G0006 Unexpected Elements
+OL,6,     FThe lack of rain and relentless
+OL,7,     Fheatwaves across Europe and Asia
+OL,8,     Fhave got the Unexpected Elements
+OL,9,     Fteam thinking about the surprising
+OL,10,     Fscience around droughts.
+OL,11,G0100 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0106 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0130 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
+OL,20,G0132 The Global Story
+OL,21,     FCan TV shows and movies reshape
+OL,22,     Fthe cities we live in?
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -29,28 +31,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787957364
+OL,0,        ECIMSBWebfax 2   F211A1787959161
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G0100 BBC News
+OL,5,G0200 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
-OL,8,G0106 The Newsroom
+OL,8,G0206 The Newsroom
 OL,9,     FThe world's Newsroom brings you
 OL,10,     Fglobal events as they happen.
-OL,11,G0130 BBC News Summary
+OL,11,G0230 BBC News Summary
 OL,12,     FThe latest two minute news summary
 OL,13,     Ffrom BBC World Service.
-OL,14,G0132 The Global Story
-OL,15,     FCan TV shows and movies reshape
-OL,16,     Fthe cities we live in?
-OL,17,G0200 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G0206 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,14,G0232 Stumped
+OL,15,     FHow cricket is bringing
+OL,16,     Fcommunities together in
+OL,17,     FLancashire, England.
+OL,18,G0300 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -58,26 +58,24 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787957364
+OL,0,        ECIMSBWebfax 2   F211A1787959161
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G0230 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0232 Stumped
-OL,9,     FHow cricket is bringing
-OL,10,     Fcommunities together in
-OL,11,     FLancashire, England.
-OL,12,G0300 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G0306 Outlook
-OL,16,     FOutlook has spoken to Dolly a
-OL,17,     Fcouple of times over the years.
-OL,18,     FFollowing news of her death, we
-OL,19,     Frevisit the songs and stories that
-OL,20,     Fmade up her remarkable life.
+OL,5,G0306 Outlook
+OL,6,     FOutlook has spoken to Dolly a
+OL,7,     Fcouple of times over the years.
+OL,8,     FFollowing news of her death, we
+OL,9,     Frevisit the songs and stories that
+OL,10,     Fmade up her remarkable life.
+OL,11,G0350 Witness History
+OL,12,     FOn the 5 September 1986, a
+OL,13,     FPan-American Airways flight was
+OL,14,     Fheld by hijackers at Karachi
+OL,15,     FAirport for 16 hours.
+OL,16,G0400 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -85,27 +83,25 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787957364
+OL,0,        ECIMSBWebfax 2   F211A1787959161
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G0350 Witness History
-OL,6,     FOn the 5 September 1986, a
-OL,7,     FPan-American Airways flight was
-OL,8,     Fheld by hijackers at Karachi
-OL,9,     FAirport for 16 hours.
-OL,10,G0400 BBC News
-OL,11,     FThe latest five minute news
-OL,12,     Fbulletin from BBC World Service.
-OL,13,G0406 Unexpected Elements
-OL,14,     FThe lack of rain and relentless
-OL,15,     Fheatwaves across Europe and Asia
-OL,16,     Fhave got the Unexpected Elements
-OL,17,     Fteam thinking about the surprising
-OL,18,     Fscience around droughts.
-OL,19,G0500 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,5,G0406 Unexpected Elements
+OL,6,     FThe lack of rain and relentless
+OL,7,     Fheatwaves across Europe and Asia
+OL,8,     Fhave got the Unexpected Elements
+OL,9,     Fteam thinking about the surprising
+OL,10,     Fscience around droughts.
+OL,11,G0500 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0506 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0530 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -113,27 +109,21 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1787957364
+OL,0,        ECIMSBWebfax 2   F211A1787959161
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G0506 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0530 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0532 Dear Daughter
-OL,12,     FA mother from Singapore whose
-OL,13,     Ffirst fostering experience didn't
-OL,14,     Fgo to plan reflects on 23 years of
-OL,15,     Fcaring for 28 children, and the
-OL,16,     Fchallenges and joy that journey
-OL,17,     Fhas brought.
-OL,18,G0550 More or Less
-OL,19,     FInvestigating how much sick leave
-OL,20,     Fis taken on average around the
-OL,21,     Fworld.
+OL,5,G0532 Dear Daughter
+OL,6,     FA mother from Singapore whose
+OL,7,     Ffirst fostering experience didn't
+OL,8,     Fgo to plan reflects on 23 years of
+OL,9,     Fcaring for 28 children, and the
+OL,10,     Fchallenges and joy that journey
+OL,11,     Fhas brought.
+OL,12,G0550 More or Less
+OL,13,     FInvestigating how much sick leave
+OL,14,     Fis taken on average around the
+OL,15,     Fworld.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
