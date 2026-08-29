@@ -1,11 +1,11 @@
-PN,20300
-SC,0000
+PN,20301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F203A1787960952
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1787980841
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday
 OL,5,G0030 Through the Night
 OL,6,     FThe Polish National Radio Symphony
 OL,7,     FOrchestra, Katowice with conductor
@@ -13,6 +13,135 @@ OL,8,     FMarin Alsop, play Bacewicz's
 OL,9,     FSymphony No 1. The concert also
 OL,10,     Ffeatures Mahler's Symphony No 1 in
 OL,11,     FD 'Titan'.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,12,G0630 Breakfast
+OL,13,     FHannah French presents Radio 3's
+OL,14,     FBreakfast show. To get in touch,
+OL,15,     Femail 3breakfast@bbc.co.uk.
+OL,16,G0900 Saturday Morning
+OL,17,     FNicky Spence plays the best
+OL,18,     Fclassical music and meets the
+OL,19,     Fmusicians who make it happen,
+OL,20,     Fincluding rising star
+OL,21,     Fmezzo-soprano Aigul Akhmetshina.
+OL,23,VppppppppppppppppppppppppppppppppppG1/6
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1787980841
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1200 Earlier... with Jools Holland
+OL,6,     FJools is joined by percussionist
+OL,7,     Fand film producer Ray Cooper.
+OL,8,G1300 Key Changes: Radio 3's...
+OL,9,     F...Essential History of Classical
+OL,10,     FMusic. 1814, Vienna. As Europe's
+OL,11,     Fleaders gather for the Congress of
+OL,12,     FVienna, a fashionable new dance is
+OL,13,     Fcapturing the imagination of
+OL,14,     Fballroom crowds.
+OL,15,G1400 Record Review
+OL,16,     FSarah Walker selects the best new
+OL,17,     Fclassical releases and is joined
+OL,18,     Fby Emily MacGregor, who shares her
+OL,19,     F5 favourite recordings of music by
+OL,20,     Fthis week's Proms Composer:
+OL,21,     FProkofiev.
+OL,23,VppppppppppppppppppppppppppppppppppG2/6
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1787980841
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1600 BBC Proms 2026
+OL,6,     FHuw Stephens explores connections
+OL,7,     Fbetween music and literature on
+OL,8,     Fthe theme of Welsh myth and
+OL,9,     Flegend. Live from Theatr Clwyd
+OL,10,     Fwith Sinfonia Cymru, Owen Teale
+OL,11,     Fand Sian-Reese Williams.
+OL,12,G1730 This Classical Life
+OL,13,     FJess Gillam sits down for a
+OL,14,     Flistening party with the Canadian
+OL,15,     Fbaritone Gerald Finley. They share
+OL,16,     Fmusic by Mozart, the King's
+OL,17,     FSingers, Stan Getz, Vivaldi and
+OL,18,     FStacey Kent.
+OL,23,VppppppppppppppppppppppppppppppppppG3/6
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20304
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1787980841
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1830 Music Planet
+OL,6,     FLopa Kothari presents the best in
+OL,7,     Fglobal folk and roots-based music,
+OL,8,     Fwith Turkish psychedelia from BaBa
+OL,9,     FZuLa and sound artist Jim Nollman
+OL,10,     Fduetting the blues with his local
+OL,11,     Forcas.
+OL,12,G1930 BBC Proms 2026
+OL,13,     FLive at the BBC Proms: Mirga
+OL,14,     FGrazinyte-Tyla conducts the Oslo
+OL,15,     FPhilharmonic in Prokofiev's Romeo
+OL,16,     Fand Juliet, and Stravinsky's
+OL,17,     FViolin Concerto with soloist
+OL,18,     FPatricia Kopatchinskaja.
+OL,23,VppppppppppppppppppppppppppppppppppG4/6
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20305
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1787980841
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G2200 New Generation Artists
+OL,6,     FHana Chang plays Edvard Grieg's
+OL,7,     FViolin Sonata no. 2, a work
+OL,8,     Freflecting the happiness of his
+OL,9,     Frecent marriage as well as his
+OL,10,     Flove of the rhythms of Norwegian
+OL,11,     Ffolk music.
+OL,12,G2230 New Music Show
+OL,13,     FKate Molleson presents the latest
+OL,14,     Fin contemporary music, including
+OL,15,     Fmusic from soprano Mimi Doulton
+OL,16,     Fand the Glasgow Improvisers
+OL,17,     FOrchestra.
+OL,23,VppppppppppppppppppppppppppppppppppG5/6
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20306
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1787980841
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G0030 Through the Night
+OL,6,     FIn this recreation of Phileas
+OL,7,     FFogg's itinerary for Jules Verne's
+OL,8,     FAround the World in 80 Days,
+OL,9,     FMichael Seal conducts the WDR
+OL,10,     FRadio Orchestra Cologne.
+OL,23,VppppppppppppppppppppppppppppppppppG6/6
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
