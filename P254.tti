@@ -1,16 +1,45 @@
-PN,25400
-SC,0000
+PN,25401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F254A1788049195
+PS,c008
+OL,0,        ECIMSBWebfax 2   F254A1788067232
 OL,1,Vzssssss{0Ww;js%7+ j+jkj;jkjjjj{j j
 OL,2,Vupp=wfff5W-.*,%-. *.*.*****..***,*,V(,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
+OL,3,V}yyy5CSunday
+OL,5,G0600 Mel Osborne on BBC Radio Cornwall
+OL,6,     FAn exploration of the various
+OL,7,     Ffaiths and ethics with Mel.
+OL,8,G1000 Toby Buckland
+OL,9,     FGardening advice and features, and
+OL,10,     Fall the music you love.
+OL,11,G1400 The Make a Difference Show
+OL,12,     FGaby Roslin talks to some amazing
+OL,13,     Fpeople making a difference where
+OL,14,     Fwe live.
+OL,15,G1800 Dotun Adebayo
+OL,16,     FJumoke Fashola brings you the best
+OL,17,     Fof community programming from
+OL,18,     Facross England.
+OL,19,G2200 The Late Show
+OL,20,     FAsma Younus with late-night
+OL,21,     Fconversation, stories and the
+OL,22,     Fsoundtrack to your night.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,255,250,301,140,0,100
+PN,25402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F254A1788067232
+OL,1,Vzssssss{0Ww;js%7+ j+jkj;jkjjjj{j j
+OL,2,Vupp=wfff5W-.*,%-. *.*.*****..***,*,V(,,
+OL,3,V}yyy5CSunday
+OL,5,G0100 Weekday overnights with BBC Radio
 OL,6,G     5 Live
 OL,7,     FLocal BBC Radio joins BBC Radio 5
 OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,9,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,255,250,301,140,0,100

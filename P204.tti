@@ -1,17 +1,391 @@
-PN,20400
-SC,0000
+PN,20401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F204A1788065352
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0545 In Touch
-OL,6,     FIn Touch has assembled a panel of
-OL,7,     Fguests to provide tips for blind
-OL,8,     Fand partially sighted youngsters
-OL,9,     Fwho are starting university in the
-OL,10,     Fnext couple of months.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSunday
+OL,5,G0605 Heart and Soul
+OL,6,     FJamaica's revivalists keep their
+OL,7,     Fancient living faith alive -
+OL,8,     Fblending healing, ancestry and
+OL,9,     Fspirit in a tradition that is now
+OL,10,     Fgaining long-awaited recognition.
+OL,11,G0635 On Your Farm
+OL,12,     FRose Ferraby visits Gallows Hill
+OL,13,     FFarm on the National Trust's
+OL,14,     FWallington Estate in
+OL,15,     FNorthumberland, to find out how
+OL,16,     Fthe farm has changed and how they
+OL,17,     Fare now farming for nature.
+OL,18,G0657 Weather Forecast
+OL,19,G0700 News and Sunday Papers
+OL,20,     FNational and international news
+OL,21,     Ffrom BBC Radio 4.
+OL,23,VppppppppppppppppppppppppppppppppppG1/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G0710 Sunday
+OL,6,     FThe religious landscape of
+OL,7,     Fflood-hit Nepal; Dolly Parton's
+OL,8,     Finfluence on gay Christians,
+OL,9,     FScottish Cathedral goes into
+OL,10,     Fcommunity ownership.
+OL,11,G0754 The Radio 4 Appeal
+OL,12,     FBroadcaster Carolyn Quinn makes
+OL,13,     Fthe Radio 4 Appeal on behalf of
+OL,14,     FMesothelioma UK.
+OL,15,G0757 Weather Forecast
+OL,16,G0800 News and Sunday Papers
+OL,17,     FNational and international news
+OL,18,     Ffrom BBC Radio 4.
+OL,23,VppppppppppppppppppppppppppppppppppG2/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G0810 Sunday Worship
+OL,6,     FPathways & pilgrimage: Strangford
+OL,7,     FLough in Co. Down & the ancient
+OL,8,     Fmonastic site of Nendrum. Canon
+OL,9,     FSimon Doogan and Father Martin
+OL,10,     FMagill reflect on Ezekiel 41.
+OL,11,G0848 Witness History
+OL,12,     FIn 1942, a team of Norwegian
+OL,13,     Fresistance fighters set out to
+OL,14,     Fblow up a railway used to carry
+OL,15,     Fmaterials crucial to the German
+OL,16,     Fwar machine.
+OL,17,G0858 Tweet of the Day
+OL,18,     FTweet of the Day is a series of
+OL,19,     Ffascinating stories about birds
+OL,20,     Finspired by their calls, songs and
+OL,21,     Fbehaviour.
+OL,23,VppppppppppppppppppppppppppppppppppG3/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20404
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G0900 Broadcasting House
+OL,6,     FThe Sunday morning news magazine
+OL,7,     Fprogramme. Presented by Paddy
+OL,8,     FO'Connell.
+OL,9,G1000 The Reunion
+OL,10,     FWe go back 40 years as the nation
+OL,11,     Fsits down to watch the BBC's
+OL,12,     Flatest medical drama, Casualty.
+OL,13,     FBut critics called it "left-wing
+OL,14,     Fpropaganda which unfairly
+OL,15,     Ftarnished the NHS".
+OL,16,G1100 The Archers Omnibus
+OL,17,     FLily has a confession to make and
+OL,18,     Fthe Snell's find comfort in each
+OL,19,     Fother.
+OL,20,G1215 Profile
+OL,21,     FLabour's new chief whip who has a
+OL,22,     Frich musical past.
+OL,23,VppppppppppppppppppppppppppppppppppG4/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20405
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1230 Just a Minute
+OL,6,     F6/6. Players take on subjects like
+OL,7,     F'What I desperately need fixing'
+OL,8,     Fand Gyles reveals his latest
+OL,9,     Fambassadorial role.
+OL,10,G1257 Weather Forecast
+OL,11,G1300 The World This Weekend
+OL,12,     FA look at the week's big stories
+OL,13,     Fand preview of the week to come.
+OL,14,G1330 The Dictators' Survival Guide
+OL,15,     FCelia Hatton on why China's most
+OL,16,     Fsenior military general has
+OL,17,     Fmysteriously disappeared.
+OL,23,VppppppppppppppppppppppppppppppppppG5/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20406
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1400 Gardeners' Question Time
+OL,6,     FPeter Gibbs and the panel answer
+OL,7,     Fquestions about drought-tolerant
+OL,8,     Fplanting, greening a concreted
+OL,9,     Fgarden, and if changing weather
+OL,10,     Fmeans rethinking when to sow a
+OL,11,     Fwildflower meadow.
+OL,12,G1445 New Storytellers
+OL,13,     F2/40. Thomas Callaghan was one of
+OL,14,     Fthe smallest babies born in the
+OL,15,     FUK. Just 11 inches long he was
+OL,16,     Fsmaller than an action toy
+OL,17,     Fsoldier. This is his, and his
+OL,18,     Ffamily's, battle for survival.
+OL,23,VppppppppppppppppppppppppppppppppppG6/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20407
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1500 Midnight Cowboy
+OL,6,     F2/2. Joe Buck, a naive young
+OL,7,     FTexan, leaves his dead-end job to
+OL,8,     Fbe a hustler in 1960s New York.
+OL,9,     FContains strong language and
+OL,10,     Fscenes of a sexual nature.
+OL,11,G1600 Take Four Books
+OL,12,     FColson Whitehead speaks to Take
+OL,13,     FFour Books about his novel, Cool
+OL,14,     FMachine, and, together with
+OL,15,     Fpresenter James Crawford, they
+OL,16,     Fexplore its connections to three
+OL,17,     Fother works of fiction.
+OL,23,VppppppppppppppppppppppppppppppppppG7/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20408
+SC,0008
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1630 Brain of Britain
+OL,6,     FNationwide general knowledge
+OL,7,     Fcompetition for the title Brain of
+OL,8,     FBritain. Spotlights on Angela
+OL,9,     FMerkel, the Inca Empire, Isambard
+OL,10,     FKingdom Brunel and mustard.
+OL,11,G1700 Witness History
+OL,12,     FIn 1948, filming began on a
+OL,13,     Fpost-war thriller that would
+OL,14,     Fbecome one of the greatest British
+OL,15,     Ffilms of all time.
+OL,16,G1710 All Kinds of Minds
+OL,17,     F1/4. Nathan Filer explores how the
+OL,18,     Flanguage of neurodiversity has
+OL,19,     Fevolved - offering a sense of
+OL,20,     Fbelonging for many, while raising
+OL,21,     Fdifficult questions about
+OL,22,     Fdifference and diagnosis.
+OL,23,VppppppppppppppppppppppppppppppppppG8/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20409
+SC,0009
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1754 Shipping Forecast
+OL,6,G1757 Weather Forecast
+OL,7,G1800 Six O'Clock News
+OL,8,G1815 Pick of the Week
+OL,9,     FJay Hulme presents a weekly
+OL,10,     Fselection of the best bits of
+OL,11,     Faudio across the BBC.
+OL,12,G1900 The Archers
+OL,13,     FFallon feels out of place, and
+OL,14,     FJustin's confidence takes a
+OL,15,     Fbashing.
+OL,16,G1915 Bouncing Off The Walls: A Prison
+OL,17,G     Soundscape
+OL,18,     FRic Renton explores the meaning of
+OL,19,     Fsound in prison, both to inmates
+OL,20,     Fand prison officers.
+OL,23,VppppppppppppppppppppppppppppppppppG9/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20410
+SC,0010
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1945 Just One Thing
+OL,6,     FGrab that skipping rope! That
+OL,7,     Fchildhood pastime can be great
+OL,8,     Ffun, and it's a form of jumping
+OL,9,     Fexercise, which can help
+OL,10,     Fstrengthen your bones and keep you
+OL,11,     Fmoving well as you age.
+OL,12,G2000 Word of Mouth
+OL,13,     FMichael Rosen is in conversation
+OL,14,     Fwith Gaelic language expert Roddy
+OL,15,     FMaclean about the status of Gaelic
+OL,16,     Fin Scotland.
+OL,23,VpppppppppppppppppppppppppppppppppG10/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20411
+SC,0011
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G2030 Last Word
+OL,6,     FMusic icon Dolly Parton; Dierdre
+OL,7,     FMcSharry, the editor who
+OL,8,     Fdiscovered Twiggy; classicist
+OL,9,     FProfessor Pat Easterling; and
+OL,10,     FBilly Boston, who received rugby
+OL,11,     Fleague's first knighthood.
+OL,12,G2100 Money Box
+OL,13,     FAll bailiffs will have to sign up
+OL,14,     Fto a code of practice to ensure
+OL,15,     Fthey're treating people fairly.
+OL,16,G2125 The Radio 4 Appeal
+OL,17,     FBroadcaster Carolyn Quinn makes
+OL,18,     Fthe Radio 4 Appeal on behalf of
+OL,19,     FMesothelioma UK.
+OL,23,VpppppppppppppppppppppppppppppppppG11/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20412
+SC,0012
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G2130 From Our Own Correspondent
+OL,6,     FThe AfD has been polling at over
+OL,7,     F40 per cent in the East German
+OL,8,     Fstate of Saxony-Anhalt with its
+OL,9,     Ffocus on German patriotism as well
+OL,10,     Fas plans to teach children less
+OL,11,     Fabout Hitler.
+OL,12,G2200 The Westminster Hour
+OL,13,     FRadio 4's Sunday night political
+OL,14,     Fdiscussion programme.
+OL,15,G2300 Great Lives
+OL,16,     FComedian Jessica Fostekew
+OL,17,     Fnominates the ancient English
+OL,18,     Fwarrior queen Boudica, who sparked
+OL,19,     Fa brutal and bloody rebellion
+OL,20,     Fagainst Roman rule in the first
+OL,21,     Fcentury AD.
+OL,23,VpppppppppppppppppppppppppppppppppG12/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20413
+SC,0013
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G2330 Hoax
+OL,6,     FDr Tori Herridge explores how a
+OL,7,     Fscientist and his toad collection
+OL,8,     Fended up at the centre of a
+OL,9,     Fscientific culture war. From 2023.
+OL,10,G2345 Short Works
+OL,11,     FTensions rise as a group of actors
+OL,12,     Fwait for an audition. But what are
+OL,13,     Fthey auditioning for?A witty and
+OL,14,     Fsurreal short piece, performed by
+OL,15,     FDebbie Korley, Django Bevan and
+OL,16,     FDavid Holt.
+OL,17,G0000 Midnight News
+OL,23,VpppppppppppppppppppppppppppppppppG13/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20414
+SC,0014
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G0015 Crossing Continents
+OL,6,     FMillions of Brazilians have become
+OL,7,     Fproblem gamblers after an
+OL,8,     Fexplosion in online betting - with
+OL,9,     Fa particularly big increase in
+OL,10,     Fwomen seeking help for betting
+OL,11,     Fproblems.
+OL,12,G0045 Bells on Sunday
+OL,13,     FBells on Sunday comes from All
+OL,14,     FSaints church in Little Cornard,
+OL,15,     FSuffolk.
+OL,16,G0048 Shipping Forecast
+OL,17,G0100 World Service
+OL,18,     FBBC Radio 4 joins the BBC World
+OL,19,     FService.
+OL,20,G0500 News Summary
+OL,23,VpppppppppppppppppppppppppppppppppG14/15
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,205,200,300,120,0,100
+PN,20415
+SC,0015
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F204A1788067231
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G0504 Last Word
+OL,6,     FMusic icon Dolly Parton; Dierdre
+OL,7,     FMcSharry, the editor who
+OL,8,     Fdiscovered Twiggy; classicist
+OL,9,     FProfessor Pat Easterling; and
+OL,10,     FBilly Boston, who received rugby
+OL,11,     Fleague's first knighthood.
+OL,12,G0534 Shipping Forecast
+OL,13,G0543 Prayer for the Day
+OL,14,G0545 Farming Today
+OL,15,G0557 Weather for Farmers
+OL,16,     FThe latest weather reports and
+OL,17,     Fforecasts for farmers.
+OL,23,VpppppppppppppppppppppppppppppppppG15/15
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100

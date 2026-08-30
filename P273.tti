@@ -1,16 +1,54 @@
-PN,27300
-SC,0000
+PN,27301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F273A1788049195
+PS,c008
+OL,0,        ECIMSBWebfax 2   F273A1788067232
 OL,1,Vzssssss{0Ww;js%7+ jkjsjjjj+j{js"7j js
 OL,2,Vupp=wfff5W-.*,%-. ***,*..*.**(. %*,*,V(
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSunday
+OL,5,G0600 Gilly Hope on BBC Radio Newcastle
+OL,6,     FSteffen brings you Sunday morning
+OL,7,     Fmusic, conversation and faith
+OL,8,     Fdiscussion.
+OL,9,G1000 Kelly Scott on BBC Radio Newcastle
+OL,10,     FKelly brings you great music and
+OL,11,     Fconversation for your mid-morning.
+OL,12,G1300 Total Sport - North East Sport:
+OL,13,G     Pre-match
+OL,14,     FAll the build-up and interviews
+OL,15,     Fahead of Sunderland's match.
+OL,16,G1400 Total Sport - North East Sport
+OL,17,     FCoverage of Sunderland v Fulham in
+OL,18,     Fthe Premier League. Kick-off at
+OL,19,     F2pm.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,274,250,301,140,0,100
+PN,27302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F273A1788067232
+OL,1,Vzssssss{0Ww;js%7+ jkjsjjjj+j{js"7j js
+OL,2,Vupp=wfff5W-.*,%-. ***,*..*.**(. %*,*,V(
+OL,3,V}yyy5CSunday
+OL,5,G1600 The Make a Difference Show
+OL,6,     FGaby Roslin talks to some amazing
+OL,7,     Fpeople making a difference where
+OL,8,     Fwe live.
+OL,9,G1800 Dotun Adebayo
+OL,10,     FJumoke Fashola brings you the best
+OL,11,     Fof community programming from
+OL,12,     Facross England.
+OL,13,G2200 The Late Show
+OL,14,     FAsma Younus with late-night
+OL,15,     Fconversation, stories and the
+OL,16,     Fsoundtrack to your night.
+OL,17,G0100 Weekday overnights with BBC Radio
+OL,18,G     5 Live
+OL,19,     FLocal BBC Radio joins BBC Radio 5
+OL,20,     FLive through the night on a
+OL,21,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,274,250,301,140,0,100
