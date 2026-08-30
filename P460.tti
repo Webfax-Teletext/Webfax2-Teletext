@@ -2,24 +2,26 @@ PN,46001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788067232
+OL,0,        ECIMSBWebfax 2   F460A1788074360
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G0600 Rising Time
-OL,6,     FMornings with melody, featuring
-OL,7,     Fclassic cuts and the best of new
-OL,8,     Fmusic presented by Lilian Smith.
-OL,9,G0800 World Report
-OL,10,     FFrom the unusual to the topical,
-OL,11,     FWorld Report brings you
-OL,12,     Finteresting stories from around
-OL,13,     Fthe world.
-OL,14,G0830 Bowman Sunday 8.30
-OL,15,     FJohn Bowman takes a look back
-OL,16,     Fthrough the RTE Radio archives and
-OL,17,     Fpresents some of his favourite
-OL,18,     Frecordings
+OL,5,G0800 World Report
+OL,6,     FFrom the unusual to the topical,
+OL,7,     FWorld Report brings you
+OL,8,     Finteresting stories from around
+OL,9,     Fthe world.
+OL,10,G0830 Bowman Sunday 8.30
+OL,11,     FJohn Bowman takes a look back
+OL,12,     Fthrough the RTE Radio archives and
+OL,13,     Fpresents some of his favourite
+OL,14,     Frecordings
+OL,15,G0900 Sunday Miscellany
+OL,16,     FA mix of 'music and musings' from
+OL,17,     Fradio essays to reportage,
+OL,18,     Fappreciations, memory pieces,
+OL,19,     Fpoetry, travel writing to personal
+OL,20,     Faccounts of events and happenings
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
@@ -27,27 +29,24 @@ PN,46002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788067232
+OL,0,        ECIMSBWebfax 2   F460A1788074360
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G0900 Sunday Miscellany
-OL,6,     FA mix of 'music and musings' from
-OL,7,     Fradio essays to reportage,
-OL,8,     Fappreciations, memory pieces,
-OL,9,     Fpoetry, travel writing to personal
-OL,10,     Faccounts of events and happenings
-OL,11,G1000 Supercharged with Anna Geary
-OL,12,     FAnna opens up the conversation
-OL,13,     Faround our bodies and minds with a
-OL,14,     Fmix of expert advice, impactful
-OL,15,     Fpersonal stories, listener voice
-OL,16,     Fnotes, and practical life hacks.
-OL,17,G1100 Brendan O'Connor
-OL,18,     FBrendan O'Connor presents a live
-OL,19,     Fstimulating mix of news,
-OL,20,     Finterviews, reports and
-OL,21,     Fdiscussion.
+OL,5,G1000 Supercharged with Anna Geary
+OL,6,     FAnna opens up the conversation
+OL,7,     Faround our bodies and minds with a
+OL,8,     Fmix of expert advice, impactful
+OL,9,     Fpersonal stories, listener voice
+OL,10,     Fnotes, and practical life hacks.
+OL,11,G1100 Brendan O'Connor
+OL,12,     FBrendan O'Connor presents a live
+OL,13,     Fstimulating mix of news,
+OL,14,     Finterviews, reports and
+OL,15,     Fdiscussion.
+OL,16,G1300 This Week
+OL,17,     FA look at events making the news
+OL,18,     Fin the past week.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
@@ -55,25 +54,27 @@ PN,46003
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788067232
+OL,0,        ECIMSBWebfax 2   F460A1788074360
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G1300 This Week
-OL,6,     FA look at events making the news
-OL,7,     Fin the past week.
-OL,8,G1400 Sunday Sport
-OL,9,     FSoccer: English Premier League;
-OL,10,     FGolf: Women's Irish Open; Rowing:
-OL,11,     FWorld Championships. Plus
-OL,12,     Freaction, feature interviews and
-OL,13,     Fthe rest of the day's sports news.
-OL,14,G1800 Playback
-OL,15,     FSinead Mooney brings you the best
-OL,16,     Fof the week's wireless - from the
-OL,17,     Fbig news stories to the features,
-OL,18,     Fdrama, documentaries, sport and
-OL,19,     Fmusic.
+OL,5,G1400 Sunday Sport
+OL,6,     FSoccer: English Premier League;
+OL,7,     FGolf: Women's Irish Open; Rowing:
+OL,8,     FWorld Championships. Plus
+OL,9,     Freaction, feature interviews and
+OL,10,     Fthe rest of the day's sports news.
+OL,11,G1800 Playback
+OL,12,     FSinead Mooney brings you the best
+OL,13,     Fof the week's wireless - from the
+OL,14,     Fbig news stories to the features,
+OL,15,     Fdrama, documentaries, sport and
+OL,16,     Fmusic.
+OL,17,G1900 The County Measure
+OL,18,     FThis week on The County Measure
+OL,19,     Fwriter and broadcaster Vincent
+OL,20,     FWoods explores the beauty and
+OL,21,     Fculture of County Cavan.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
@@ -81,24 +82,26 @@ PN,46004
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788067232
+OL,0,        ECIMSBWebfax 2   F460A1788074360
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G1900 The County Measure
-OL,6,     FThis week on The County Measure
-OL,7,     Fwriter and broadcaster Vincent
-OL,8,     FWoods explores the beauty and
-OL,9,     Fculture of County Cavan.
-OL,10,G2000 Drama on One
-OL,11,     FMr Sun by Gillian Grattan with
-OL,12,     FKathy Rose O'Brien as Marie
-OL,13,G2100 The Rolling Wave
-OL,14,     FTonight we remember fiddle player
-OL,15,     FLiam Lewis and fiddle player and
-OL,16,     Fone of the founders of the Armagh
-OL,17,     FPiper's Club, Eithne Vallely who
-OL,18,     Fboth passed away recently.
+OL,5,G2000 Drama on One
+OL,6,     FMr Sun by Gillian Grattan with
+OL,7,     FKathy Rose O'Brien as Marie
+OL,8,G2100 The Rolling Wave
+OL,9,     FTonight we remember fiddle player
+OL,10,     FLiam Lewis and fiddle player and
+OL,11,     Fone of the founders of the Armagh
+OL,12,     FPiper's Club, Eithne Vallely who
+OL,13,     Fboth passed away recently.
+OL,14,G2200 South Wind Blows
+OL,15,     FThe South Wind Blows is presented
+OL,16,     Fby Philip King every Sunday
+OL,17,     Fevening. The show comes from the
+OL,18,     Fedge of Europe, from the most
+OL,19,     Fwesterly tip of the Dingle
+OL,20,     Fpeninsula.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
@@ -106,26 +109,19 @@ PN,46005
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788067232
+OL,0,        ECIMSBWebfax 2   F460A1788074360
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G2200 South Wind Blows
-OL,6,     FThe South Wind Blows is presented
-OL,7,     Fby Philip King every Sunday
-OL,8,     Fevening. The show comes from the
-OL,9,     Fedge of Europe, from the most
-OL,10,     Fwesterly tip of the Dingle
-OL,11,     Fpeninsula.
-OL,12,G2300 Late Date
-OL,13,     FThe perfect musical end to the
-OL,14,     Fday, presented by Ray Cuddihy.
-OL,15,G0200 RTE Gold on RTE Radio 1
-OL,16,     FThe greatest hits of all time.
-OL,17,G0530 Rising Time
-OL,18,     FMornings with melody, featuring
-OL,19,     Fclassic cuts and the best of new
-OL,20,     Fmusic presented by Shay Byrne.
+OL,5,G2300 Late Date
+OL,6,     FThe perfect musical end to the
+OL,7,     Fday, presented by Ray Cuddihy.
+OL,8,G0200 RTE Gold on RTE Radio 1
+OL,9,     FThe greatest hits of all time.
+OL,10,G0530 Rising Time
+OL,11,     FMornings with melody, featuring
+OL,12,     Fclassic cuts and the best of new
+OL,13,     Fmusic presented by Shay Byrne.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
