@@ -2,26 +2,27 @@ PN,25601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F256A1788153669
+OL,0,        ECIMSBWebfax 2   F256A1788168002
 OL,1,Vzssssss{0Ww;js%7+ j+jjjkkj;j;jj{
 OL,2,Vupp=wfff5W-.*,%-. *.*.****.*****V(,,,,,
 OL,3,V}yyy5CMonday
-OL,5,G0600 Joe Wilson on BBC Radio Cumbria
-OL,6,     FTrusted local news, information
-OL,7,     Fand advice, plus great music at
-OL,8,     Fbreakfast with Joe.
-OL,9,G1000 Pete Otway
-OL,10,     FStories to make you smile,
-OL,11,     Fmid-morning updates and The Rewind
-OL,12,     Fat 1pm with Pete.
-OL,13,G1400 BBC Radio Cumbria Sport: Pre-match
-OL,14,     FBuild-up and interviews ahead of
-OL,15,     Ftoday's games featuring Carlisle
-OL,16,     FUnited and Barrow AFC.
-OL,17,G1500 BBC Radio Cumbria Sport
-OL,18,     FCoverage of Carlisle United v
-OL,19,     FScunthorpe United in the National
-OL,20,     FLeague. Kick-off at 3pm.
+OL,5,G1000 Pete Otway
+OL,6,     FStories to make you smile,
+OL,7,     Fmid-morning updates and The Rewind
+OL,8,     Fat 1pm with Pete.
+OL,9,G1400 BBC Radio Cumbria Sport: Pre-match
+OL,10,     FBuild-up and interviews ahead of
+OL,11,     Ftoday's games featuring Carlisle
+OL,12,     FUnited and Barrow AFC.
+OL,13,G1500 BBC Radio Cumbria Sport
+OL,14,     FCoverage of Carlisle United v
+OL,15,     FScunthorpe United in the National
+OL,16,     FLeague. Kick-off at 3pm.
+OL,17,G1700 BBC Radio Cumbria Sport:
+OL,18,G     Post-match
+OL,19,     FWith classified results, match
+OL,20,     Freports, manager and player
+OL,21,     Finterviews and the phone-in.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,257,250,301,140,0,100
@@ -29,27 +30,22 @@ PN,25602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F256A1788153669
+OL,0,        ECIMSBWebfax 2   F256A1788168002
 OL,1,Vzssssss{0Ww;js%7+ j+jjjkkj;j;jj{
 OL,2,Vupp=wfff5W-.*,%-. *.*.****.*****V(,,,,,
 OL,3,V}yyy5CMonday
-OL,5,G1700 BBC Radio Cumbria Sport:
-OL,6,G     Post-match
-OL,7,     FWith classified results, match
-OL,8,     Freports, manager and player
-OL,9,     Finterviews and the phone-in.
-OL,10,G1800 JoJo Hatfield
-OL,11,     FJoJo's here with great music,
-OL,12,     Fconversation and evening updates.
-OL,13,G2200 The Late Show
-OL,14,     FColson Smith with late-night
-OL,15,     Fconversation, great stories and
-OL,16,     Fthe soundtrack to your night.
-OL,17,G0100 Weekday overnights with BBC Radio
-OL,18,G     5 Live
-OL,19,     FLocal BBC Radio joins BBC Radio 5
-OL,20,     FLive through the night on a
-OL,21,     Fweekday.
+OL,5,G1800 JoJo Hatfield
+OL,6,     FJoJo's here with great music,
+OL,7,     Fconversation and evening updates.
+OL,8,G2200 The Late Show
+OL,9,     FColson Smith with late-night
+OL,10,     Fconversation, great stories and
+OL,11,     Fthe soundtrack to your night.
+OL,12,G0100 Weekday overnights with BBC Radio
+OL,13,G     5 Live
+OL,14,     FLocal BBC Radio joins BBC Radio 5
+OL,15,     FLive through the night on a
+OL,16,     Fweekday.
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,257,250,301,140,0,100
