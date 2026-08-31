@@ -1,41 +1,24 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788146359
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1788148149
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSunday
-OL,5,G0406 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0430 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0432 The Conversation
-OL,12,     FWhy it is more difficult for older
-OL,13,     Fwomen to get pregnant? Ella
-OL,14,     FAl-Shamahi asks an embryologist
-OL,15,     Fand a fertility advocate what
-OL,16,     Fwomen need to understand about
-OL,17,     Ftheir bodies.
-OL,18,G0500 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788146359
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSunday
-OL,5,G0506 Newsday
-OL,6,     FLive news, business and sport from
-OL,7,     Faround the world.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G0432 The Conversation
+OL,6,     FWhy it is more difficult for older
+OL,7,     Fwomen to get pregnant? Ella
+OL,8,     FAl-Shamahi asks an embryologist
+OL,9,     Fand a fertility advocate what
+OL,10,     Fwomen need to understand about
+OL,11,     Ftheir bodies.
+OL,12,G0500 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0506 Newsday
+OL,16,     FLive news, business and sport from
+OL,17,     Faround the world.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
