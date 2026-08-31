@@ -2,27 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788216554
+OL,0,        ECIMSBWebfax 2   F211A1788218365
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G2332 World Business Report
-OL,6,     FThe latest business and finance
-OL,7,     Fnews from around the world, on the
-OL,8,     FBBC.
-OL,9,G0000 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0006 The History Hour
-OL,13,     FAn historic vote in Uruguay is
-OL,14,     Fheld to ensure water is free to
-OL,15,     Fall, Hurricane Luis causes mass
-OL,16,     Fdevastation in Antigua, and 40
-OL,17,     Fyears on, the fatal hijacking of
-OL,18,     FPan Am Flight 73.
-OL,19,G0100 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,5,G0006 The History Hour
+OL,6,     FAn historic vote in Uruguay is
+OL,7,     Fheld to ensure water is free to
+OL,8,     Fall, Hurricane Luis causes mass
+OL,9,     Fdevastation in Antigua, and 40
+OL,10,     Fyears on, the fatal hijacking of
+OL,11,     FPan Am Flight 73.
+OL,12,G0100 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0106 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0130 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -30,26 +29,23 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788216554
+OL,0,        ECIMSBWebfax 2   F211A1788218365
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0106 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0130 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0132 The Global Story
-OL,12,     FFive years after the US pullout
-OL,13,     FLyse Doucet visits Afghanistan and
-OL,14,     Fspeaks with the Taliban.
-OL,15,G0200 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0206 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
+OL,5,G0132 The Global Story
+OL,6,     FFive years after the US pullout
+OL,7,     FLyse Doucet visits Afghanistan and
+OL,8,     Fspeaks with the Taliban.
+OL,9,G0200 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0206 The Newsroom
+OL,13,     FThe world's Newsroom brings you
+OL,14,     Fglobal events as they happen.
+OL,15,G0230 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -57,23 +53,26 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788216554
+OL,0,        ECIMSBWebfax 2   F211A1788218365
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0230 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0232 Assignment
-OL,9,     FThe United States is monitored
-OL,10,     Fthrough a growing, high-tech, and
-OL,11,     Fincreasingly interconnected
-OL,12,     Fsurveillance network. But a
-OL,13,     Fbacklash is growing. Ellie House
-OL,14,     Fis in Houston, Texas.
-OL,15,G0300 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,5,G0232 Assignment
+OL,6,     FThe United States is monitored
+OL,7,     Fthrough a growing, high-tech, and
+OL,8,     Fincreasingly interconnected
+OL,9,     Fsurveillance network. But a
+OL,10,     Fbacklash is growing. Ellie House
+OL,11,     Fis in Houston, Texas.
+OL,12,G0300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0306 Outlook
+OL,16,     FSeparated from his family and held
+OL,17,     Fin Russian captivity, Oleksandr
+OL,18,     Ffound hope in the magical world of
+OL,19,     Fwizardry by retelling Harry Potter
+OL,20,     Fstories to his cellmates.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -81,27 +80,24 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788216554
+OL,0,        ECIMSBWebfax 2   F211A1788218365
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0306 Outlook
-OL,6,     FSeparated from his family and held
-OL,7,     Fin Russian captivity, Oleksandr
-OL,8,     Ffound hope in the magical world of
-OL,9,     Fwizardry by retelling Harry Potter
-OL,10,     Fstories to his cellmates.
-OL,11,G0350 Witness History
-OL,12,     FIn 1976, toymaker Jim Swearingen
-OL,13,     Fhad to convince his boss to take a
-OL,14,     Fchance and back the figures and
-OL,15,     Fspaceships for a new movie.
-OL,16,G0400 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
-OL,19,G0406 The Newsroom
-OL,20,     FThe world's Newsroom brings you
-OL,21,     Fglobal events as they happen.
+OL,5,G0350 Witness History
+OL,6,     FIn 1976, toymaker Jim Swearingen
+OL,7,     Fhad to convince his boss to take a
+OL,8,     Fchance and back the figures and
+OL,9,     Fspaceships for a new movie.
+OL,10,G0400 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G0406 The Newsroom
+OL,14,     FThe world's Newsroom brings you
+OL,15,     Fglobal events as they happen.
+OL,16,G0430 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -109,24 +105,21 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788216554
+OL,0,        ECIMSBWebfax 2   F211A1788218365
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 In the Studio
-OL,9,     FBritish record producer Steve
-OL,10,     FLevine embarks on the official
-OL,11,     Fremix of The Beach Boys'
-OL,12,     Fself-titled 1985 album.
-OL,13,G0500 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G0506 Newsday
-OL,17,     FLive news, business and sport from
-OL,18,     Faround the world.
+OL,5,G0432 In the Studio
+OL,6,     FBritish record producer Steve
+OL,7,     FLevine embarks on the official
+OL,8,     Fremix of The Beach Boys'
+OL,9,     Fself-titled 1985 album.
+OL,10,G0500 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G0506 Newsday
+OL,14,     FLive news, business and sport from
+OL,15,     Faround the world.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
