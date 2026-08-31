@@ -1,16 +1,54 @@
-PN,28900
-SC,0000
+PN,28901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F289A1788135617
+PS,c008
+OL,0,        ECIMSBWebfax 2   F289A1788153668
 OL,1,Vzssssss{0Ww;js%7+ jjjjj k!w1u55w%w1
 OL,2,Vupp=wfff5W-.*,%-. *..**,* ,%%%%%%-$V,,,
-OL,3,V}yyy5CSunday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CMonday
+OL,5,G0600 Sue Kinnear
+OL,6,     FTrusted local news and
+OL,7,     Finformation, great music, updates
+OL,8,     Fand stories to make you smile.
+OL,9,G1000 Shaun Hodgetts
+OL,10,     FShaun brings you topical
+OL,11,     Fconversation, mid-morning updates
+OL,12,     Fand Bring Out The Band.
+OL,13,G1400 Jonathan Fido
+OL,14,     FJonathan has your stories and
+OL,15,     Fgreat music to take you through
+OL,16,     Fthe afternoon.
+OL,17,G1800 Swindon Town
+OL,18,     FBilly Kirkman and Joel McGregor v
+OL,19,     FBen Middlemas and Fletcher Holman,
+OL,20,     Fhost Shaun Hodgetts.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,290,250,301,140,0,100
+PN,28902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F289A1788153668
+OL,1,Vzssssss{0Ww;js%7+ jjjjj k!w1u55w%w1
+OL,2,Vupp=wfff5W-.*,%-. *..**,* ,%%%%%%-$V,,,
+OL,3,V}yyy5CMonday
+OL,5,G1835 BBC Radio Wiltshire Special
+OL,6,     FSteven Clements visits eight
+OL,7,     Flandmarks across the county.
+OL,8,G1900 Manny Masih
+OL,9,     FStories and talking points from
+OL,10,     Four South Asian communities across
+OL,11,     Fthe west of England.
+OL,12,G2200 The Late Show
+OL,13,     FColson Smith with late-night
+OL,14,     Fconversation, great stories and
+OL,15,     Fthe soundtrack to your night.
+OL,16,G0100 Weekday overnights with BBC Radio
+OL,17,G     5 Live
+OL,18,     FLocal BBC Radio joins BBC Radio 5
+OL,19,     FLive through the night on a
+OL,20,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,290,250,301,140,0,100

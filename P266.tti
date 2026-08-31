@@ -1,16 +1,47 @@
-PN,26600
-SC,0000
+PN,26601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F266A1788135617
+PS,c008
+OL,0,        ECIMSBWebfax 2   F266A1788153669
 OL,1,Vzssssss{0Ww;js%7+ j j{jkj+j{jsjzjj;js
 OL,2,Vupp=wfff5W-.*,%-. *,*****.**(.******,V(
-OL,3,V}yyy5CSunday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CMonday
+OL,5,G0600 Joe Wilson on BBC Radio Lancashire
+OL,6,     FWaking up the county with the very
+OL,7,     Flatest news, sport and information
+OL,8,     Ffor Lancashire.
+OL,9,G1000 Hayley Kay on BBC Radio Lancashire
+OL,10,     FHayley Kay is here with a look at
+OL,11,     FLancashire life and the Rewind
+OL,12,     Ffrom 1pm to 2pm.
+OL,13,G1400 Fiona Sadler on BBC Radio
+OL,14,G     Lancashire
+OL,15,     FTrusted local news, information
+OL,16,     Fand advice, and great music for
+OL,17,     Fyour afternoon.
+OL,18,G1800 Raees Khan
+OL,19,     FJoin Raees for the latest from our
+OL,20,     FAsian communities.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,267,250,301,140,0,100
+PN,26602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F266A1788153669
+OL,1,Vzssssss{0Ww;js%7+ j j{jkj+j{jsjzjj;js
+OL,2,Vupp=wfff5W-.*,%-. *,*****.**(.******,V(
+OL,3,V}yyy5CMonday
+OL,5,G2200 The Late Show
+OL,6,     FColson Smith with late-night
+OL,7,     Fconversation, great stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,267,250,301,140,0,100

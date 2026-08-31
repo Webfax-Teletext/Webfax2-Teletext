@@ -1,16 +1,50 @@
-PN,27300
-SC,0000
+PN,27301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F273A1788135617
+PS,c008
+OL,0,        ECIMSBWebfax 2   F273A1788153668
 OL,1,Vzssssss{0Ww;js%7+ jkjsjjjj+j{js"7j js
 OL,2,Vupp=wfff5W-.*,%-. ***,*..*.**(. %*,*,V(
-OL,3,V}yyy5CSunday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CMonday
+OL,5,G0600 Kelly Scott on BBC Radio Newcastle
+OL,6,     FKelly starts the bank holiday with
+OL,7,     Fall you need to know and all the
+OL,8,     Fmusic you love.
+OL,9,G1000 Simon Logan
+OL,10,     FSimon takes you into the afternoon
+OL,11,     Fwith your stories and great music.
+OL,12,G1400 Steve Bailey on BBC Radio
+OL,13,G     Newcastle
+OL,14,     FThe latest news, great music and
+OL,15,     Finspirational people to take you
+OL,16,     Fthrough the afternoon.
+OL,17,G1800 Total Sport - North East
+OL,18,     FJoin Harry Roy and former players
+OL,19,     Ffrom Newcastle United and
+OL,20,     FSunderland for Total Sport.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,274,250,301,140,0,100
+PN,27302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F273A1788153668
+OL,1,Vzssssss{0Ww;js%7+ jkjsjjjj+j{js"7j js
+OL,2,Vupp=wfff5W-.*,%-. ***,*..*.**(. %*,*,V(
+OL,3,V}yyy5CMonday
+OL,5,G2000 JoJo Hatfield
+OL,6,     FJoJo's here with great music,
+OL,7,     Fconversation and evening updates.
+OL,8,G2200 The Late Show
+OL,9,     FColson Smith with late-night
+OL,10,     Fconversation, great stories and
+OL,11,     Fthe soundtrack to your night.
+OL,12,G0100 Weekday overnights with BBC Radio
+OL,13,G     5 Live
+OL,14,     FLocal BBC Radio joins BBC Radio 5
+OL,15,     FLive through the night on a
+OL,16,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,274,250,301,140,0,100
