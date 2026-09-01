@@ -1,16 +1,68 @@
-PN,25900
-SC,0000
+PN,25901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F259A1788221995
+PS,c008
+OL,0,        ECIMSBWebfax 2   F259A1788240040
 OL,1,Vzssssss{0Ww;js%7+ jsjsjsjs*:
 OL,2,Vupp=wfff5W-.*,%-. *,(.(.*,**V(,,,,,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
+OL,5,G0600 Sonia Watson
+OL,6,     FTrusted breakfast news,
+OL,7,     Finformation and advice, and great
+OL,8,     Fmusic with Sonia.
+OL,9,G1000 Ben Fryer
+OL,10,     FJoin Ian for stories to make you
+OL,11,     Fsmile, mid-morning updates and
+OL,12,     Fmusic.
+OL,13,G1400 Afternoons on BBC Essex
+OL,14,     FFascinating guests, the news of
+OL,15,     Fthe day and all the music you
+OL,16,     Flove.
+OL,17,G1800 Babs Michel on BBC Essex
+OL,18,     FBabs brings you lighthearted fun
+OL,19,     Fwith upbeat topical stories and
+OL,20,     Fcelebrity guests.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,260,250,301,140,0,100
+PN,25902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F259A1788240040
+OL,1,Vzssssss{0Ww;js%7+ jsjsjsjs*:
+OL,2,Vupp=wfff5W-.*,%-. *,(.(.*,**V(,,,,,,,,,
+OL,3,V}yyy5CTuesday
+OL,5,G1900 BBC Essex Sport: Pre-Match
+OL,6,     FBuild-up and interviews ahead of
+OL,7,     FColchester United's match.
+OL,8,G1945 BBC Essex Sport
+OL,9,     FBristol Rovers v Colchester United
+OL,10,     Fin League Two. Kick-off at 7.45pm.
+OL,11,     FNOT online.
+OL,12,G2145 BBC Essex Sport - Post-Match
+OL,13,     FPost-match reports, results and
+OL,14,     Freaction following today's games.
+OL,15,G2230 The Late Show
+OL,16,     FBecky Want with late-night
+OL,17,     Fconversation, amazing stories and
+OL,18,     Fthe soundtrack to your night.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,260,250,301,140,0,100
+PN,25903
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F259A1788240040
+OL,1,Vzssssss{0Ww;js%7+ jsjsjsjs*:
+OL,2,Vupp=wfff5W-.*,%-. *,(.(.*,**V(,,,,,,,,,
+OL,3,V}yyy5CTuesday
 OL,5,G0100 Weekday overnights with BBC Radio
 OL,6,G     5 Live
 OL,7,     FLocal BBC Radio joins BBC Radio 5
 OL,8,     FLive through the night on a
 OL,9,     Fweekday.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,260,250,301,140,0,100
