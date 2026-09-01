@@ -1,45 +1,29 @@
-PN,26801
-SC,0001
+PN,26800
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F268A1788288582
+PS,8008
+OL,0,        ECIMSBWebfax 2   F268A1788295761
 OL,1,Vzssssss{0Ww;js%7+ j jsjj+jsjs"7jsj;
 OL,2,Vupp=wfff5W-.*,%-. *,*,**.*,(. %*,**V(,,
 OL,3,V}yyy5CTuesday
-OL,5,G1945 BBC Radio Leicester Sport:
-OL,6,G     Commentary
-OL,7,     FLeicester City v Plymouth Argyle
-OL,8,     Fin League One. Kick-off at 7.45pm.
-OL,9,     FNOT online.
-OL,10,G2145 BBC Radio Leicester Sport:
-OL,11,G     Full-Time
-OL,12,     FResults, reaction and have your
-OL,13,     Fsay on 0808 100 1049 or text 81333
-OL,14,     F(start with Leicester).
-OL,15,G2300 BBC Radio Leicester Sport
-OL,16,     FAll the latest news and reaction
-OL,17,     Ffrom our clubs as the summer
-OL,18,     Ftransfer window closes.
-OL,19,G0000 The Late Show
-OL,20,     FBecky Want with late-night
-OL,21,     Fconversation, amazing stories and
-OL,22,     Fthe soundtrack to your night.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,269,250,301,140,0,100
-PN,26802
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F268A1788288582
-OL,1,Vzssssss{0Ww;js%7+ j jsjj+jsjs"7jsj;
-OL,2,Vupp=wfff5W-.*,%-. *,*,**.*,(. %*,**V(,,
-OL,3,V}yyy5CTuesday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G2145 BBC Radio Leicester Sport:
+OL,6,G     Full-Time
+OL,7,     FResults, reaction and have your
+OL,8,     Fsay on 0808 100 1049 or text 81333
+OL,9,     F(start with Leicester).
+OL,10,G2300 BBC Radio Leicester Sport
+OL,11,     FAll the latest news and reaction
+OL,12,     Ffrom our clubs as the summer
+OL,13,     Ftransfer window closes.
+OL,14,G0000 The Late Show
+OL,15,     FBecky Want with late-night
+OL,16,     Fconversation, amazing stories and
+OL,17,     Fthe soundtrack to your night.
+OL,18,G0100 Weekday overnights with BBC Radio
+OL,19,G     5 Live
+OL,20,     FLocal BBC Radio joins BBC Radio 5
+OL,21,     FLive through the night on a
+OL,22,     Fweekday.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,269,250,301,140,0,100
