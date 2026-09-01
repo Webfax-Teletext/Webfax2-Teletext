@@ -1,53 +1,28 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788229162
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1788232759
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0306 Outlook
-OL,6,     FSeparated from his family and held
-OL,7,     Fin Russian captivity, Oleksandr
-OL,8,     Ffound hope in the magical world of
-OL,9,     Fwizardry by retelling Harry Potter
-OL,10,     Fstories to his cellmates.
-OL,11,G0350 Witness History
-OL,12,     FIn 1976, toymaker Jim Swearingen
-OL,13,     Fhad to convince his boss to take a
-OL,14,     Fchance and back the figures and
-OL,15,     Fspaceships for a new movie.
-OL,16,G0400 BBC News
+OL,5,G0406 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0430 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0432 In the Studio
+OL,12,     FBritish record producer Steve
+OL,13,     FLevine embarks on the official
+OL,14,     Fremix of The Beach Boys'
+OL,15,     Fself-titled 1985 album.
+OL,16,G0500 BBC News
 OL,17,     FThe latest five minute news
 OL,18,     Fbulletin from BBC World Service.
-OL,19,G0406 The Newsroom
-OL,20,     FThe world's Newsroom brings you
-OL,21,     Fglobal events as they happen.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788229162
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CMonday
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 In the Studio
-OL,9,     FBritish record producer Steve
-OL,10,     FLevine embarks on the official
-OL,11,     Fremix of The Beach Boys'
-OL,12,     Fself-titled 1985 album.
-OL,13,G0500 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G0506 Newsday
-OL,17,     FLive news, business and sport from
-OL,18,     Faround the world.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,19,G0506 Newsday
+OL,20,     FLive news, business and sport from
+OL,21,     Faround the world.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
