@@ -2,26 +2,27 @@ PN,25201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F252A1788268803
+OL,0,        ECIMSBWebfax 2   F252A1788283214
 OL,1,Vzssssss{0Ww;js%7+ j;j;jjs"7jkj
 OL,2,Vupp=wfff5W-.*,%-. *.***(. %*.*,V(,,,,,,
 OL,3,V}yyy5CTuesday
-OL,5,G1400 Claire Carter on BBC Radio Bristol
-OL,6,     FClaire brings you music, news,
-OL,7,     Ftravel and sport for your weekday
-OL,8,     Fafternoon.
-OL,9,G1800 The Pavilion
-OL,10,     FA show dedicated to cricket in
-OL,11,     FBristol, Somerset, Gloucestershire
-OL,12,     Fand Wiltshire.
-OL,13,G1900 BBC Radio Bristol Sport: Pre-match
-OL,14,     FLocal sporting features, and all
-OL,15,     Fthe pre-match build-up ahead of
-OL,16,     Ftoday's matches.
-OL,17,G1945 BBC Radio Bristol Sport
-OL,18,     FPreston North End v Bristol City
-OL,19,     Fand Bristol Rovers v Colchester
-OL,20,     FUnited. Not online.
+OL,5,G1800 The Pavilion
+OL,6,     FA show dedicated to cricket in
+OL,7,     FBristol, Somerset, Gloucestershire
+OL,8,     Fand Wiltshire.
+OL,9,G1900 BBC Radio Bristol Sport: Pre-match
+OL,10,     FLocal sporting features, and all
+OL,11,     Fthe pre-match build-up ahead of
+OL,12,     Ftoday's matches.
+OL,13,G1945 BBC Radio Bristol Sport
+OL,14,     FPreston North End v Bristol City
+OL,15,     Fand Bristol Rovers v Colchester
+OL,16,     FUnited. Not online.
+OL,17,G2145 BBC Radio Bristol Sport:
+OL,18,G     Post-match
+OL,19,     FAll the post-match reaction and
+OL,20,     Finterviews from your local team.
+OL,21,     FCall 08000 855 949.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,253,250,301,140,0,100
@@ -29,28 +30,23 @@ PN,25202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F252A1788268803
+OL,0,        ECIMSBWebfax 2   F252A1788283214
 OL,1,Vzssssss{0Ww;js%7+ j;j;jjs"7jkj
 OL,2,Vupp=wfff5W-.*,%-. *.***(. %*.*,V(,,,,,,
 OL,3,V}yyy5CTuesday
-OL,5,G2145 BBC Radio Bristol Sport:
-OL,6,G     Post-match
-OL,7,     FAll the post-match reaction and
-OL,8,     Finterviews from your local team.
-OL,9,     FCall 08000 855 949.
-OL,10,G2200 Transfer Deadline Day
-OL,11,     FAll the latest news and reaction
-OL,12,     Ffrom our clubs as the summer
-OL,13,     Ftransfer window closes.
-OL,14,G2330 The Late Show
-OL,15,     FBecky Want with late-night
-OL,16,     Fconversation, amazing stories and
-OL,17,     Fthe soundtrack to your night.
-OL,18,G0100 Weekday overnights with BBC Radio
-OL,19,G     5 Live
-OL,20,     FLocal BBC Radio joins BBC Radio 5
-OL,21,     FLive through the night on a
-OL,22,     Fweekday.
+OL,5,G2200 Transfer Deadline Day
+OL,6,     FAll the latest news and reaction
+OL,7,     Ffrom our clubs as the summer
+OL,8,     Ftransfer window closes.
+OL,9,G2330 The Late Show
+OL,10,     FBecky Want with late-night
+OL,11,     Fconversation, amazing stories and
+OL,12,     Fthe soundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,253,250,301,140,0,100
