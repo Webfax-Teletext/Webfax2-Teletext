@@ -1,44 +1,26 @@
-PN,21401
-SC,0001
+PN,21400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1788369618
+PS,8008
+OL,0,        ECIMSBWebfax 2   F214A1788375029
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CWednesday
-OL,5,G1800 Sportsound
-OL,6,     FWe're live across Scotland with
-OL,7,     Ffive Scottish Premiership matches,
-OL,8,     Fincluding commentary from Falkirk
-OL,9,     Fagainst Rangers and updates from
-OL,10,     FCeltic, Dundee, Kilmarnock and
-OL,11,     FMotherwell.
-OL,12,G1945 Sportsound
-OL,13,     FLive Scottish Premiership football
-OL,14,     Fcommentary with Celtic against
-OL,15,     FAberdeen.
-OL,16,G2300 Up Late
-OL,17,     FThe best company to end the day,
-OL,18,     Fwith lively chat and some of your
-OL,19,     Ffavourite tunes.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,215,200,300,120,0,100
-PN,21402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1788369618
-OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
-OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CWednesday
-OL,5,G0000 Scotcast
-OL,6,     FLaura Miller and John MacKay talk
-OL,7,     Fto an A&E doctor about the state
-OL,8,     Fof our hospitals' emergency
-OL,9,     Fdepartments.
-OL,10,G0030 As BBC Radio 5 Live
-OL,11,     FJoining Radio 5 Live.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1945 Sportsound
+OL,6,     FLive Scottish Premiership football
+OL,7,     Fcommentary with Celtic against
+OL,8,     FAberdeen.
+OL,9,G2300 Up Late
+OL,10,     FThe best company to end the day,
+OL,11,     Fwith lively chat and some of your
+OL,12,     Ffavourite tunes.
+OL,13,G0000 Scotcast
+OL,14,     FLaura Miller and John MacKay talk
+OL,15,     Fto an A&E doctor about the state
+OL,16,     Fof our hospitals' emergency
+OL,17,     Fdepartments.
+OL,18,G0030 As BBC Radio 5 Live
+OL,19,     FJoining Radio 5 Live.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
