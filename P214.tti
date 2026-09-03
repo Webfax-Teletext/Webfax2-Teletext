@@ -1,44 +1,27 @@
-PN,21401
-SC,0001
+PN,21400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1788456008
+PS,8008
+OL,0,        ECIMSBWebfax 2   F214A1788459594
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CThursday
-OL,5,G1800 Get It On with Bryan Burnett
-OL,6,     FWe want to hear your favourite
-OL,7,     Fsongs with a timecheck - Dolly
-OL,8,     Fdetailed her working hours, Maria
-OL,9,     Fwas off to the Oasis at midnight
-OL,10,     Fand for the KLF, 3am felt eternal.
-OL,11,G1900 Sportsound
-OL,12,     FAll the action live from Easter
-OL,13,     FRoad, where Hibernian host
-OL,14,     FEdinburgh rivals Hearts in the
-OL,15,     FScottish Premiership.
-OL,16,G2230 Up Late
-OL,17,     FThe best company to end the day,
-OL,18,     Fwith lively chat and some of your
-OL,19,     Ffavourite tunes.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,215,200,300,120,0,100
-PN,21402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1788456008
-OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
-OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
-OL,5,G0000 Scotcast
-OL,6,     FPolitical analysis with David
-OL,7,     FWallace Lockhart, Lynsey Bews and
-OL,8,     FNicola Sturgeon's former chief of
-OL,9,     Fstaff Liz Lloyd.
-OL,10,G0030 As BBC Radio 5 Live
-OL,11,     FJoining Radio 5 Live.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1900 Sportsound
+OL,6,     FAll the action live from Easter
+OL,7,     FRoad, where Hibernian host
+OL,8,     FEdinburgh rivals Hearts in the
+OL,9,     FScottish Premiership.
+OL,10,G2230 Up Late
+OL,11,     FThe best company to end the day,
+OL,12,     Fwith lively chat and some of your
+OL,13,     Ffavourite tunes.
+OL,14,G0000 Scotcast
+OL,15,     FPolitical analysis with David
+OL,16,     FWallace Lockhart, Lynsey Bews and
+OL,17,     FNicola Sturgeon's former chief of
+OL,18,     Fstaff Liz Lloyd.
+OL,19,G0030 As BBC Radio 5 Live
+OL,20,     FJoining Radio 5 Live.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
