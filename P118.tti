@@ -2,7 +2,7 @@ PN,11801
 SC,0001
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
+OL,0,        ECIMSBWebfax 2   F118A1788527094
 OL,2,R    hhhlhh hlhl <$ 444<4l$<4444<4<$
 OL,3,R    *>jjjj jnj.4=$ 555=5j 5 =555554
 OL,4,R     %*.*. *** %-$ --%%%* -%%%%%%-%
@@ -18,13 +18,13 @@ OL,22,R
 OL,23,B]D Much more at: teletextarchive.com
 OL,24,ARewind BShowreel  CNat Sport FNat Radio
 FL,120,140,300,200,000,100
-OL,1,                                   G1/22
+OL,1,                                   G1/36
 PN,11802
 SC,0002
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,R<,,4Wl$44< (<h$4h$l$<hh(< h$44h$< G2/36
 OL,2,Rwss5Wj =5=  5j$5j$j =bw 5 j$55j$m
 OL,3,R-,,%W* %%-  %*$-*$* -** % * %-*$.
 OL,4,R]D   The past as reported on teletext
@@ -33,8 +33,8 @@ OL,7,T
 OL,9,B1992 CEEFAX RECOVERY by TandCsApply
 OL,10,G181FToday's main news stories
 OL,11,G182FToday on BBC One and BBC Two
-OL,12,G183F
-OL,13,G184F
+OL,12,G183FToday on ITV and Channel 4
+OL,13,G184FToday on National BBC Radio
 OL,23,R]D Much more at: teletextarchive.com
 OL,24,ANext Page BRewind  CShowreel FReg Radio
 FL,200,120,140,250,8ff,100
@@ -42,8 +42,8 @@ PN,11803
 SC,0003
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk5k5# j5        j5,          G3/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5k5# j5        j5,          G3/36
 OL,2,Vk4k4  j7jwbs}h7j5j7}jwhw1
 OL,3,Vz5z5p j5*upjujuj5j5*up`z5
 OL,4,F
@@ -66,8 +66,8 @@ PN,11804
 SC,0004
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4                               G4/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4                               G4/36
 OL,2,Vj5{5jj5~sGITALIAN RELIEF PLANE
 OL,3,Vj5op0ozz5pG"WAS SHOT DOWN"
 OL,5, A relief plane to Sarajevo which
@@ -91,8 +91,8 @@ PN,11805
 SC,0005
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4                               G5/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4                               G5/36
 OL,2,Vj5{5jj5~sGBOSNIA: OWEN WARNS OF
 OL,3,Vj5op0ozz5pGTOUGHER UN ACTION
 OL,4,D
@@ -118,8 +118,8 @@ PN,11806
 SC,0006
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4                               G6/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4                               G6/36
 OL,2,Vj5{5jj5~sGUN LAUNCHES APPEAL TO
 OL,3,Vj5op0ozz5pGPAY FOR YUGOSLAV AID
 OL,4,D
@@ -147,8 +147,8 @@ PN,11807
 SC,0007
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4                               G7/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4                               G7/36
 OL,2,Vj5{5jj5~sGMAJOR DEFENDS CHANCELLOR'S
 OL,3,Vj5op0ozz5pGDECISION TO BORROW
 OL,4,D
@@ -175,8 +175,8 @@ PN,11808
 SC,0008
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4                               G8/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4                               G8/36
 OL,2,Vj5{5jj5~sGCAR SALES CONFIRM
 OL,3,Vj5op0ozz5pGECONOMIC GLOOM
 OL,4,D
@@ -203,8 +203,8 @@ PN,11809
 SC,0009
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4                               G9/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4                               G9/36
 OL,2,Vj5{5jj5~sGMITTERRAND WARNS AGAINST
 OL,3,Vj5op0ozz5pGFRENCH "NO" VOTE
 OL,4,D
@@ -230,8 +230,8 @@ PN,11810
 SC,0010
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4          j7   h4             G10/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4          j7   h4             G10/36
 OL,2,Vj5{5jj5~s j7*u?j?h7`s}GEC FINANCE
 OL,3,Vj5op0ozz5p juj5j5j5juGMEETING
 OL,4,F
@@ -258,8 +258,8 @@ PN,11811
 SC,0011
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4          j7   h4             G11/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4          j7   h4             G11/36
 OL,2,Vj5{5jj5~s j7*u?j?h7`s}GEC FINANCE
 OL,3,Vj5op0ozz5p juj5j5j5juGMEETING
 OL,4,F
@@ -286,8 +286,8 @@ PN,11812
 SC,0012
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4          j7   h4             G12/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4          j7   h4             G12/36
 OL,2,Vj5{5jj5~s j7*u?j?h7`s}GEC FINANCE
 OL,3,Vj5op0ozz5p juj5j5j5juGMEETING
 OL,4,F
@@ -316,8 +316,8 @@ PN,11813
 SC,0013
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4          j7   h4             G13/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4          j7   h4             G13/36
 OL,2,Vj5{5jj5~s j7*u?j?h7`s}GEC FINANCE
 OL,3,Vj5op0ozz5p juj5j5j5juGMEETING
 OL,4,F
@@ -345,8 +345,8 @@ PN,11814
 SC,0014
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4                              G14/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4                              G14/36
 OL,2,Vj5{5jj5~sGFORMER BULGARIAN
 OL,3,Vj5op0ozz5pGLEADER JAILED
 OL,4,F
@@ -374,8 +374,8 @@ PN,11815
 SC,0015
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk4                              G15/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk4                              G15/36
 OL,2,Vj5{5jj5~sGMAN AND BOY IN BELFAST
 OL,3,Vj5op0ozz5pGSHOOTING INCIDENTS
 OL,5, A man has been shot dead by the Army in
@@ -401,8 +401,8 @@ PN,11816
 SC,0016
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk5k5~# k5                      G16/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5k5~# k5                      G16/36
 OL,2,Vk4k4  j5GFRIDAY
 OL,3,Vz5z5p j5G1150-1600
 OL,5,C1150GTHE HISTORYMAN
@@ -429,8 +429,8 @@ PN,11817
 SC,0017
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk5k5~# k5                      G17/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5k5~# k5                      G17/36
 OL,2,Vk4k4  j5GFRIDAY
 OL,3,Vz5z5p j5G1600-2000
 OL,5,C1600GBARNEY BEAR
@@ -457,8 +457,8 @@ PN,11818
 SC,0018
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk5k5~# k5                      G18/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5k5~# k5                      G18/36
 OL,2,Vk4k4  j5GFRIDAY
 OL,3,Vz5z5p j5G2000-0110
 OL,5,C2000GBIRDS OF A FEATHERAEN
@@ -485,8 +485,8 @@ PN,11819
 SC,0019
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk5k5~# #                      G19/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5k5~# #                      G19/36
 OL,2,Vk4k4  #GFRIDAY
 OL,3,Vz5z5p pG0645-1230
 OL,5,C0645-0710GOPEN UNIVERSITY
@@ -513,8 +513,8 @@ PN,11820
 SC,0020
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk5k5~# #                      G20/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5k5~# #                      G20/36
 OL,2,Vk4k4  #GFRIDAY
 OL,3,Vz5z5p pG1230-1600
 OL,5,C1230GBLACK NAPOLEON
@@ -541,8 +541,8 @@ PN,11821
 SC,0021
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk5k5~# #                      G21/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5k5~# #                      G21/36
 OL,2,Vk4k4  #GFRIDAY
 OL,3,Vz5z5p pG1600-2030
 OL,5,C1600GFILM: ONLY THE VALIANT
@@ -569,8 +569,8 @@ PN,11822
 SC,0022
 CT,25,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F118A1788483894
-OL,1,Vk5k5~# #                      G22/22
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5k5~# #                      G22/36
 OL,2,Vk4k4  #GFRIDAY
 OL,3,Vz5z5p pG2030-0040
 OL,5,C2030GATHLETICS
@@ -591,5 +591,398 @@ OL,19,     Fversion of Tubular Bells
 OL,20,C0035-0040GWEATHERVIEW
 OL,22,F]DNICAM StereoEN     D888 SubtitlesA
 OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11823
+SC,0023
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,V"!j5                          G23/36
+OL,2,V  j5 NETWORKED  GFRIDAY
+OL,3,V  oz% PROGRAMMES G0530-1345
+OL,5,C0530GMORNING NEWS
+OL,6,C0600GTV-am
+OL,7,     Fwith guest Catherine Zeta Jones
+OL,8,C0925GTHE WHITE SEAL
+OL,9,     FAnimation based on Jungle Book
+OL,10,C0950GREGIONAL NEWS
+OL,11,C0955GFILM: FREAKY FRIDAY
+OL,12,     FComedy with Jody Foster
+OL,13,C1150GREGIONAL NEWS
+OL,14,C1155GCARTOON TIME
+OL,15,C1210GRAINBOW
+OL,16,     FZippy and chums play at boating
+OL,17,C1230GLUNCHTIME NEWSAGWEATHER
+OL,18,C1305GREGIONAL NEWS
+OL,19,C1315GHOME AND AWAYA
+OL,20,     FSophie is still missing
+OL,22,F]DNICAM StereoEN    DD888 SubtitlesA
+OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11824
+SC,0024
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,V"!j5                          G24/36
+OL,2,V  j5 NETWORKED  GFRIDAY
+OL,3,V  oz% PROGRAMMES G1345-1900
+OL,5,C1345GREGIONAL VARIATIONS
+OL,6,C1510GNEWS; REGIONAL NEWS
+OL,7,C1520GREGIONAL VARIATIONS
+OL,8,C1550GCHILDREN'S ITV:
+OL,9,      THE ADVENTURES OF TEDDY RUXPIN
+OL,10,F     Animated series about a bear
+OL,11,C1615GCARTOON TIME
+OL,12,C1625GART ATTACK
+OL,13,     FSquidge painting, cartoon tips
+OL,14,     Fand a host of new activities
+OL,15,C1445GTHE REAL GHOSTBUSTERS
+OL,16,     FCartoon capers
+OL,17,C1705GCARTOON TIME
+OL,18,C1715GREGIONAL VARIATIONS
+OL,19,C1740GEARLY EVENING NEWSAGWEATHER
+OL,20,C1800GREGIONAL VARIATIONS
+OL,22,F]DNICAM StereoEN    DD888 SubtitlesA
+OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11825
+SC,0025
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,V"!j5                          G25/36
+OL,2,V  j5 NETWORKED  GFRIDAY
+OL,3,V  oz% PROGRAMMES G1900-0530
+OL,5,C1900GFAMILY FORTUNESAEN
+OL,6,     FGame show hosted by Les Dennis
+OL,7,C1930GCORONATION STREETA
+OL,8,     FWhy is Alf handing over his cash?
+OL,9,C2000GYOU BET!EN
+OL,10,     CNew seriesFin which celebrities
+OL,11,     Fface challenges and forfeits to
+OL,12,     Fraise money for charity
+OL,13,C2100GFINE THINGSA
+OL,14,     FMini-series based on the novel
+OL,15,     Fby Danielle Steel about a
+OL,16,     Fmarriage faced with a crisis
+OL,17,C2200GNEWS AT TENAGWEATHER
+OL,18,C2235GREGIONAL NEWS
+OL,19,C2240GFINE THINGSA
+OL,20,C2340-0530GREGIONAL VARIATIONS
+OL,22,F]DNICAM StereoEN    DD888 SubtitlesA
+OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11826
+SC,0026
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,V~#j5             j5             G26/36
+OL,2,V j7}bs}j7}j7}jwj5 xtGFRIDAY
+OL,3,Vpj5juj5j5*upj5  j5G0520-1430
+OL,5,C0520G4-TEL ON VIEW
+OL,6,C0600GCHANNEL 4 DAILY
+OL,7,C0925GRADAR MEN FROM THE MOON
+OL,8,     FAn attack by poison gas is mounted
+OL,9,C0940GFOOFUR
+OL,10,C0955GGET SMART
+OL,11,C1025GFILM: PALMY DAYS
+OL,12,     FEddie Cantor is conned by fake
+OL,13,     Fclairvoyants in a musical comedy
+OL,14,C1145GSLEEPING BEAUTY
+OL,15,C1200GTHE PRODIGIOUS HICKEY
+OL,16,     FHickey has to regain leadership
+OL,17,C1300GSESAME STREET
+OL,18,C1400GI LOVE LUCY
+OL,19,     FLucy has to lend Ricky five
+OL,20,     Fdazzling starlets for publicity
+OL,22,F]DNICAM StereoEN    DD888 SubtitlesA
+OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11827
+SC,0027
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,V~#j5             j5             G27/36
+OL,2,V j7}bs}j7}j7}jwj5 xtGFRIDAY
+OL,3,Vpj5juj5j5*upj5  j5G1430-2030
+OL,5,C1430GCHANNEL 4 RACING
+OL,6,     FFour races from Kempton Park
+OL,7,C1630GCOUNTDOWNEN
+OL,8,     FWords and numbers game
+OL,9,C1700GTRAVELLER'S TALESA
+OL,10,     FMichael Wood explores Bengal
+OL,11,C1800GBLOSSOMEN
+OL,12,     FNick and Blossom play truant
+OL,13,C1830GHAPPY DAYSA
+OL,14,     FMarion and Joanie get tipsy
+OL,15,C1900GCHANNEL 4 NEWSAFandGWEATHER
+OL,16,C1950GFIRST REACTIONEN
+OL,17,     Flooks at how cars got their names
+OL,18,C2000GBROOKSIDEAEN
+OL,19,     FPatricia has something to tell Max
+OL,20,     Fthat will change their lives
+OL,22,F]DNICAM StereoEN    DD888 SubtitlesA
+OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11828
+SC,0028
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,V~#j5             j5             G28/36
+OL,2,V j7}bs}j7}j7}jwj5 xtGFRIDAY
+OL,3,Vpj5juj5j5*upj5  j5G2030-0240
+OL,5,C2030GIN WITH MAVISA
+OL,6,     FProfile of musician Yehudi Menuhin
+OL,7,C2100GGARDEN CLUBA
+OL,8,     FPrivate gardens and allotments
+OL,9,C2130GCHEERSA
+OL,10,     FA lonely Coach tags along with Sam
+OL,11,C2200GNURSESAEN
+OL,12,     FA dying patient tries to help
+OL,13,     FJulie overcome her phobias
+OL,14,C2230GJUST FOR LAUGHS SPECIALEN
+OL,15,     Ffrom Montreal's comedy festival
+OL,16,C0030GFILM: THE SECRET POLICEMAN'S THIRD
+OL,17,      BALLENFConcert in aid of Amnesty
+OL,18,     FInternational recorded in 1987
+OL,19,C0215-0240GTHE TWILIGHT ZONE
+OL,20,     FThe power of the human will
+OL,22,F]DNICAM StereoEN    DD888 SubtitlesA
+OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11829
+SC,0029
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5    j5,    k5                 G29/36
+OL,2,Vk4s{4~k5j7 j5GFRIDAY
+OL,3,Vj5z5z5ju j5G0400-0400
+OL,5,C0400GBruno BrookesCFM
+OL,6,C0600GSimon Mayo
+OL,7,C0900GSimon Bates
+OL,8,C1100GRadio 1 FM RoadshowFfrom The
+OL,9,     FPromenade, Weston-Super-Mare
+OL,10,C1230GNewsbeat
+OL,11,C1245GJakki Brambles
+OL,12,C1500GSteve Wright in the Afternoon
+OL,13,C1800GMark Goodier's Mega Hits
+OL,14,C1830GNews 92
+OL,15,C1900GPete Tong's Essential Selection
+OL,16,     Fincluding the Midweek Dance Chart
+OL,17,C2100GFriday Rock ShowFwith Tommy Vance
+OL,18,C2300GJohn PeelCFMFafterC1200
+OL,19,C0200-0400GPaul GambacciniCFM
+OL,21,FNews: 0400, 0500, half-hourly 0530-2330
+OL,22,F(except 2130) then hourly 0100 to 0400.
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,FFrom 04-09-92
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11830
+SC,0030
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5    j5,    # j7!k7         G30/36
+OL,2,Vk4s{4~k5j7 # j7 j5GFRIDAY
+OL,3,Vj5z5z5ju p j5 j5G0400-1930
+OL,5,C0400GAlex LesterFwith the Early Show
+OL,6,C0630GBrian HayesFwith Good Morning UK!
+OL,7,C0930GKen BruceFincluding atC1000Fan
+OL,8,     Fhour of gold with Pick of the Hits
+OL,9,C1130GJimmy YoungFtalks to the people
+OL,10,     Fmaking the news and Keith Richards
+OL,11,     Fanswers your legal questions
+OL,12,C1400GGloria HunnifordFwelcomes her
+OL,13,     Fguest actress, singer and dancer
+OL,14,     FCatherine Zeta Jones
+OL,15,C1530GEd StewartFwith the winner of this
+OL,16,     Fweek's Accumulator Quiz
+OL,17,C1705GJohn DunnFwith former National
+OL,18,     FHunt jockey and thriller writer
+OL,19,     FDick Francis
+OL,20,C1900GMy MusicFFrank Muir and John Amis
+OL,21,     Fchallenge Denis Norden and Ian
+OL,22,     FWallace in the music quiz
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,FFrom 04-09-92
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11831
+SC,0031
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5    j5,    # j7!k7         G31/36
+OL,2,Vk4s{4~k5j7 # j7 j5GFRIDAY
+OL,3,Vj5z5z5ju p j5 j5G1930-0400
+OL,5,C1930GFriday Night is Music NightFwith
+OL,6,     Fthe BBC Concert Orchestra recorded
+OL,7,     Fat the Hippodrome, Golders Green
+OL,8,C2045GClaire and Antoinette CannFat the
+OL,9,     Fpianos
+OL,10,C2100GListen To The BandFRoy Newsome
+OL,11,     Fpresents the Bodmin Town Band and
+OL,12,     Fpreviews tomorrow's 140th British
+OL,13,     FOpen Brass Band Championship
+OL,14,C2200GRadio 2 Arts ProgrammeFfeaturing
+OL,15,     Fthe Bude Jazz Festival and Tony
+OL,16,     FStaveacre's visit to Cornwall
+OL,17,C0005GJazz ParadeFDigby Fairweather
+OL,18,     Fpresents the BBC Big Band
+OL,19,     Fconducted by Django Bates
+OL,20,C0035-0400GCharles NoveFwithGNight Ride
+OL,22,F]D This Ceefax page is from 04-09-92
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11832
+SC,0032
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5    j5,    #                 G32/36
+OL,2,Vk4s{4~k5j7 "GFRIDAY
+OL,3,Vj5z5z5ju pG0655-1425
+OL,5,C0655GWeather
+OL,6,C0700GOn AirFAndrew Lyle with music by
+OL,7,     FBritten, Mozart, Schubert, Puccini
+OL,8,     Fand atC0845FRavel's La Valse
+OL,9,C0900GComposers of the WeekFDarius
+OL,10,     FMilhaud
+OL,11,C1000GRoger Norrington ConductsFWeber
+OL,12,     Fand Beethoven's Symphony No 3
+OL,13,C1100GEdinburgh Festival 1992FMozart's
+OL,14,     FSonata in F, Schubert's Sonata in
+OL,15,     FC minor and Sonata in B flat plus
+OL,16,     Fpieces by Debussy. Including at
+OL,17,     C1150-1210FFestival Reports
+OL,18,C1300GNews
+OL,19,C1305GBBC Concert OrchestraFNovak and
+OL,20,C    FJanacek's The Fiddler's Child
+OL,21,C1345GViola and PianoFBloch and Schubert
+OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11833
+SC,0033
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5    j5,    #                 G33/36
+OL,2,Vk4s{4~k5j7 "GFRIDAY
+OL,3,Vj5z5z5ju pG1425-0035
+OL,5,C1425GYouth Orchestras of the World
+OL,6,     FRavel, Gerhard, Bartok, Debussy
+OL,7,C1615GTuning UpFSoprano Tracey Chadwell
+OL,8,C1700GIn TuneFwith David Owen Norris
+OL,9,C1930GProms 1992FBerg's Violin Concerto,
+OL,10,     FMahler's Sumphony No 5, plus at
+OL,11,     C2000-2020FTom Paulin looks at
+OL,12,     FShelley
+OL,13,C2145GLandscape of ChildhoodFA poem for
+OL,14,     Ffour voices written for radio by
+OL,15,     FJeremy Hooker
+OL,16,C2215GVanbrugh QuartetFMozart and
+OL,17,     FShostakovich
+OL,18,C2255GVanessa LatarcheFBach, Bartok
+OL,19,C2330GNews
+OL,20,C2335-0035GComposers of the WeekFGliere
+OL,21,     Fand Glazunov
+OL,23,F]DFrom 04-09-92   teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11834
+SC,0034
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5    j5,                      G34/36
+OL,2,Vk4s{4~k5j7 `0GFRIDAY
+OL,3,Vj5z5z5ju #k7G1130-1645
+OL,5,C1130GThe Natural History ProgrammeC
+OL,6,C1200GYou and YoursFwith John Howard
+OL,7,C1225GThe Gardening Quiz
+OL,8,C1300GThe World at One
+OL,9,C1340GThe Archers
+OL,10,C1400GClassic SerialFMiss Marjoribanks
+OL,11,     Fby Margaret Oliphant: Part 3
+OL,12,C1500GSpecial AssignmentFAt home and
+OL,13,     Fabroad with BBC correspondents
+OL,14,C1530GA Good ReadFEdward Blishen with
+OL,15,     Fhis guests Francis Wyndham and
+OL,16,     FAnna Massey
+OL,17,C1600GNewsC
+OL,18,C1605GKaleidoscopeFTim Marlow talks to
+OL,19,     FDick Francis about his latest
+OL,20,     Fthriller, Driving Force
+OL,22,F]D This Ceefax page is from 04-09-92
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11835
+SC,0035
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5    j5,                      G35/36
+OL,2,Vk4s{4~k5j7 `0GFRIDAY
+OL,3,Vj5z5z5ju #k7G1645-2115
+OL,5,C1645GShort StoryFTelling Stories by
+OL,6,     FMaeve Binchy
+OL,7,C1700GPM
+OL,8,C1800GSix O'Clock News
+OL,9,C1830GA Hack Goes WestFDylan Winter
+OL,10,     Fapproaches the end of his American
+OL,11,     Fadventure
+OL,12,C1900GNews
+OL,13,C1905GThe Archers
+OL,14,C1920GPick of The WeekFpresented by
+OL,15,     FChris Serle
+OL,16,C2005GCall to AccountFBritish Rail
+OL,17,     FChairman Sir Bob Reid faces
+OL,18,     Fquestions from a live audience
+OL,19,C2050GStop PressFJohn Diamond presents a
+OL,20,     Fpersonal view of the week's press
+OL,22,F]D This Ceefax page is from 04-09-92
+OL,23,F]D Much more at: teletextarchive.com
+OL,24,ANext PageBT'text FilesCRewindFReg Radio
+FL,119,180,120,250,0,100
+PN,11836
+SC,0036
+CT,25,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F118A1788527094
+OL,1,Vk5    j5,                      G36/36
+OL,2,Vk4s{4~k5j7 `0GFRIDAY
+OL,3,Vj5z5z5ju #k7G2115-0545
+OL,5,C2115GKaleidoscopeFThe stresses of being
+OL,6,     Fpart of a couple within the arts
+OL,7,C2145GLetter from AmericaFby Alistair
+OL,8,     FCooke
+OL,9,C2200GThe World Tonight
+OL,10,C2245GA Book At BedtimeFFinal part of
+OL,11,     FThe Log of a Griffin
+OL,12,C2300GWhen Harry Met AllyFWedding bells
+OL,13,     Fring for Harry Hill and Alistair
+OL,14,     FMcGowan in the last of the series
+OL,15,C2325GThe Financial Week
+OL,16,C2345GGreat Political SpeechesFAneurin
+OL,17,     FBevan's rejection of unilateral
+OL,18,     Fdisarmament speech in 1957
+OL,19,C2400-0030GNews
+OL,20,C0040-0545GWorld ServiceCLW
+OL,22,F]D This Ceefax page is from 04-09-92
+OL,23,F]D Much more at: teletextarchive.com
 OL,24,ANext PageBT'text FilesCRewindFReg Radio
 FL,119,180,120,250,0,100
