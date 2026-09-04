@@ -2,28 +2,26 @@ PN,20901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1788499346
+OL,0,        ECIMSBWebfax 2   F209A1788515359
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
 OL,3,V}yyy5CFriday
-OL,5,G0600 This Is Sports Extra
-OL,6,     FThis is BBC Radio 5 Sports Extra -
-OL,7,     Fbringing you even more live
-OL,8,     Fcommentaries from the world's
-OL,9,     Fgreatest sporting events. Listen
-OL,10,     Fon BBC Sounds.
-OL,11,G1025 County Cricket
-OL,12,     FKevin Howells presents live
-OL,13,     Fball-by-ball cricket commentary
-OL,14,     Ffrom the County Championship.
-OL,15,G1125 Formula 1
-OL,16,     FLive F1 commentary of Practice 1
-OL,17,     Fat the Italian Grand Prix from
-OL,18,     FMonza.
-OL,19,G1235 County Cricket
-OL,20,     FKevin Howells presents live
-OL,21,     Fball-by-ball cricket commentary
-OL,22,     Ffrom the County Championship.
+OL,5,G1025 County Cricket
+OL,6,     FKevin Howells presents live
+OL,7,     Fball-by-ball cricket commentary
+OL,8,     Ffrom the County Championship.
+OL,9,G1125 Formula 1
+OL,10,     FLive F1 commentary of Practice 1
+OL,11,     Fat the Italian Grand Prix from
+OL,12,     FMonza.
+OL,13,G1235 County Cricket
+OL,14,     FKevin Howells presents live
+OL,15,     Fball-by-ball cricket commentary
+OL,16,     Ffrom the County Championship.
+OL,17,G1455 Formula 1
+OL,18,     FLive F1 commentary of Practice 2
+OL,19,     Fat the Italian Grand Prix from
+OL,20,     FMonza.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,210,200,300,120,0,100
@@ -31,24 +29,20 @@ PN,20902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1788499346
+OL,0,        ECIMSBWebfax 2   F209A1788515359
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
 OL,3,V}yyy5CFriday
-OL,5,G1455 Formula 1
-OL,6,     FLive F1 commentary of Practice 2
-OL,7,     Fat the Italian Grand Prix from
-OL,8,     FMonza.
-OL,9,G1605 US Open Tennis
-OL,10,     FLive tennis commentary of the 3rd
-OL,11,     Fround of the US Open from Flushing
-OL,12,     FMeadows, New York.
-OL,13,G0000 This Is Sports Extra
-OL,14,     FThis is BBC Radio 5 Sports Extra -
-OL,15,     Fbringing you even more live
-OL,16,     Fcommentaries from the world's
-OL,17,     Fgreatest sporting events. Listen
-OL,18,     Fon BBC Sounds.
+OL,5,G1605 US Open Tennis
+OL,6,     FLive tennis commentary of the 3rd
+OL,7,     Fround of the US Open from Flushing
+OL,8,     FMeadows, New York.
+OL,9,G0000 This Is Sports Extra
+OL,10,     FThis is BBC Radio 5 Sports Extra -
+OL,11,     Fbringing you even more live
+OL,12,     Fcommentaries from the world's
+OL,13,     Fgreatest sporting events. Listen
+OL,14,     Fon BBC Sounds.
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,210,200,300,120,0,100

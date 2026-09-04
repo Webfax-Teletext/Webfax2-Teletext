@@ -2,7 +2,7 @@ PN,48501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1788499347
+OL,0,        ECIMSBWebfax 2   F485A1788515359
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday
@@ -30,7 +30,7 @@ PN,48502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1788499347
+OL,0,        ECIMSBWebfax 2   F485A1788515359
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday
@@ -59,7 +59,7 @@ PN,48503
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1788499347
+OL,0,        ECIMSBWebfax 2   F485A1788515359
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday
@@ -73,12 +73,10 @@ OL,11,     FOrchestra, through archive
 OL,12,     Frecordings, music, song, memory
 OL,13,     Fand story, we celebrate one
 OL,14,     Fhundred years of radio in Ireland.
-OL,15,G2200 Folk on One
-OL,16,     FBroadcaster and singer Muireann
-OL,17,     FNic Amhlaoibh brings us a golden
-OL,18,     Fhour of folk music both old and
-OL,19,     Fnew, acoustic and traditional from
-OL,20,     Facross Ireland and beyond.
+OL,15,G2145 Radio Moments
+OL,16,     FFeaturing memorable moments on the
+OL,17,     Fair, over the last 100 years of
+OL,18,     Fradio broadcasting.
 OL,23,VppppppppppppppppppppppppppppppppppG3/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -86,21 +84,27 @@ PN,48504
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1788499347
+OL,0,        ECIMSBWebfax 2   F485A1788515359
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G2300 Country Time
-OL,6,     FThe best in country music
-OL,7,     Fpresented by Brian Lally, who'll
-OL,8,     Fdo his best to have something old,
-OL,9,     Fsomething new, something borrowed
-OL,10,     Fand something bluegrass.
-OL,11,G2359 Late Date
-OL,12,     FThe perfect musical end to the
-OL,13,     Fday, presented by Ray Cuddihy.
-OL,14,G0200 RTE Gold on RTE Radio 1
-OL,15,     FThe greatest hits of all time.
+OL,5,G2200 Folk on One
+OL,6,     FBroadcaster and singer Muireann
+OL,7,     FNic Amhlaoibh brings us a golden
+OL,8,     Fhour of folk music both old and
+OL,9,     Fnew, acoustic and traditional from
+OL,10,     Facross Ireland and beyond.
+OL,11,G2300 Country Time
+OL,12,     FThe best in country music
+OL,13,     Fpresented by Brian Lally, who'll
+OL,14,     Fdo his best to have something old,
+OL,15,     Fsomething new, something borrowed
+OL,16,     Fand something bluegrass.
+OL,17,G2359 Late Date
+OL,18,     FThe perfect musical end to the
+OL,19,     Fday, presented by Ray Cuddihy.
+OL,20,G0200 RTE Gold on RTE Radio 1
+OL,21,     FThe greatest hits of all time.
 OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
