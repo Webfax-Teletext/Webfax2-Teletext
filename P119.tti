@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,26 +24,26 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FXbox caps cloud gaming at 15 hours
-OL,6,Fa month for Game Pass subscribers
-OL,7,A04-Sep
+OL,5,G106FOpenAI agents hijacked German
+OL,6,Fwebsite before Hugging Face hack,
+OL,7,Freport claimsA04-Sep
 OL,8,G
-OL,9,G107F'I lost my savings after a job
-OL,10,Finterview scam'A03-Sep
-OL,11,G
-OL,12,G108FAI data centres are booming in
-OL,13,FAustralia - but at what cost?A03-Sep
-OL,14,G
-OL,15,G109FNvidia strikes $12.9bn deal to buy
-OL,16,FAI platform Hugging FaceA03-Sep
-OL,17,G
-OL,18,G110FUber launches UK's first robotaxis
-OL,19,Fwith a driver - here's what it's like
-OL,20,Fto ride in oneA02-Sep
+OL,9,G107FXbox caps cloud gaming at 15 hours
+OL,10,Fa month for Game Pass subscribers
+OL,11,A04-Sep
+OL,12,G
+OL,13,G108F'I lost my savings after a job
+OL,14,Finterview scam'A03-Sep
+OL,15,G
+OL,16,G109FAI data centres are booming in
+OL,17,FAustralia - but at what cost?A03-Sep
+OL,18,G
+OL,19,G110FNvidia strikes $12.9bn deal to buy
+OL,20,FAI platform Hugging FaceA03-Sep
 OL,21,G
 OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
@@ -53,7 +53,53 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AOpenAI agents hijacked German website
+OL,4,Abefore Hugging Face hack, report claims
+OL,5,
+OL,6,FA new report claims a swarm of AI
+OL,7,Fagents, developed by OpenAI, hijacked a
+OL,8,FGerman website - months before the firm
+OL,9,Frevealed its AI had hacked tech
+OL,10,Fplatform Hugging Face.
+OL,12,FThe targeted website, DseWiki, is a
+OL,13,FWikipedia-style site for programmers
+OL,14,Fthat its community can all contribute
+OL,15,Fto.
+OL,17,FThe report is from a group called
+OL,18,FNightingale Collective and claims that
+OL,19,Fin May OpenAI's agents started using
+OL,20,FDseWiki as their own message board,
+OL,21,Fshared tips on how to avoid being
+OL,22,Fdetected and made 15,000 edits to it.
+OL,23,APub: 04-SepQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1788535458
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AOpenAI agents hijacked German website
+OL,4,Abefore Hugging Face hack, report claims
+OL,5,
+OL,6,FOpenAI said it could not "meaningfully
+OL,7,Frespond" to Nightingale Collective's
+OL,8,Ffindings because it hadn't been allowed
+OL,9,Fto review the report, which was first
+OL,10,Fshared with news agency Reuters.
+OL,23,APub: 04-SepQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AXbox caps cloud gaming at 15 hours a
@@ -74,14 +120,14 @@ OL,19,Frising cost of cloud gaming, and they
 OL,20,Fwould allow the firm to "continue to
 OL,21,Finvest" in the service's "reliability
 OL,22,Fand performance".
-OL,23,APub: 04-SepQppppppppppppppppppppppG3/19
+OL,23,APub: 04-SepQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AXbox caps cloud gaming at 15 hours a
@@ -91,14 +137,14 @@ OL,6,FWhile some questioned whether the
 OL,7,Fservice was used by many to begin with,
 OL,8,Fothers called out the additional limits
 OL,9,Ffor subscribers.
-OL,23,APub: 04-SepQppppppppppppppppppppppG4/19
+OL,23,APub: 04-SepQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,A'I lost my savings after a job
@@ -117,14 +163,14 @@ OL,16,Fout to be malicious software.
 OL,18,FWithin hours the hackers had drained
 OL,19,Fhis cryptocurrency accounts of #18,000
 OL,20,Fof savings and disappeared.
-OL,23,APub: 03-SepQppppppppppppppppppppppG5/19
+OL,23,APub: 03-SepQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,A'I lost my savings after a job
@@ -135,53 +181,6 @@ OL,7,Fsubstantial amount - something I
 OL,8,Fwouldn't wish on my worst enemy," the
 OL,9,Fvictim, who wanted to stay anonymous,
 OL,10,Fsaid.
-OL,23,APub: 03-SepQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AAI data centres are booming in
-OL,4,AAustralia - but at what cost?
-OL,5,
-OL,6,FThe sheer size and noise of data
-OL,7,Fcentres are what people tend to notice
-OL,8,Ffirst. Some say they sound like a jet
-OL,9,Fplane about to take off, others
-OL,10,Fcomplain of a high-pitched whine.
-OL,12,FWhen Lucy* puts her child to bed, she
-OL,13,Fhears a constant humming. "I'll hear it
-OL,14,Fand think, 'What is that? What is going
-OL,15,Fon?'," she says.
-OL,17,FAnd then she'll remember that the noise
-OL,18,Fis a data centre just 350m (0.2 miles)
-OL,19,Ffrom her front door in the desirable
-OL,20,Fsuburb of Lane Cove, in Sydney's lower
-OL,21,Fnorth-shore. Another four are in the
-OL,22,Fpipeline at the local industrial park.
-OL,23,APub: 03-SepQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AAI data centres are booming in
-OL,4,AAustralia - but at what cost?
-OL,5,
-OL,6,FAustralia has quickly become a global
-OL,7,Fdestination for data centres, with
-OL,8,Finvestors attracted to the country's
-OL,9,Fabundance of clean energy, natural gas
-OL,10,Freserves, and land to power and house
-OL,11,Ftheir technologies.
 OL,23,APub: 03-SepQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
@@ -189,7 +188,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -218,7 +217,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AMan About the House star Richard
@@ -244,7 +243,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AMan About the House star Richard
@@ -265,7 +264,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ARussell Howard 'devastated' after his
@@ -288,7 +287,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ARussell Howard 'devastated' after his
@@ -306,7 +305,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AHow Oasis fans cracked the Celtic Park
@@ -333,7 +332,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AHow Oasis fans cracked the Celtic Park
@@ -350,7 +349,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
@@ -379,7 +378,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CFriday
@@ -406,7 +405,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday
@@ -433,7 +432,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1788535176
+OL,0,        ECIMSBWebfax 2   F119A1788535458
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CFriday
