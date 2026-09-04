@@ -1,41 +1,24 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788491964
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1788493752
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
-OL,5,G0406 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0430 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0432 Heart and Soul
-OL,12,     FGospel legend Fred Hammond has a
-OL,13,     Fcareer spanning 40 years with 15
-OL,14,     FGrammy awards to his name. Swarzy
-OL,15,     Ffinds out about the man behind the
-OL,16,     Fmusic and how his faith keeps
-OL,17,     Finspiring him.
-OL,18,G0500 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788491964
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CThursday
-OL,5,G0506 Newsday
-OL,6,     FLive news, business and sport from
-OL,7,     Faround the world.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G0432 Heart and Soul
+OL,6,     FGospel legend Fred Hammond has a
+OL,7,     Fcareer spanning 40 years with 15
+OL,8,     FGrammy awards to his name. Swarzy
+OL,9,     Ffinds out about the man behind the
+OL,10,     Fmusic and how his faith keeps
+OL,11,     Finspiring him.
+OL,12,G0500 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0506 Newsday
+OL,16,     FLive news, business and sport from
+OL,17,     Faround the world.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
