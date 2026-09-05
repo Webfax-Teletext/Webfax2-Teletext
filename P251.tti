@@ -1,45 +1,29 @@
-PN,25101
-SC,0001
+PN,25100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F251A1788625121
+PS,8008
+OL,0,        ECIMSBWebfax 2   F251A1788628732
 OL,1,Vzssssss{0Ww;js%7+ j;jsj;j:jsjzjj;js
 OL,2,Vupp=wfff5W-.*,%-. *.*,****(.******,V(,,
 OL,3,V}yyy5CSaturday
-OL,5,G1700 Sport on BBC Radio Berkshire:
-OL,6,G     Post-match
-OL,7,     FPost-match analysis and reaction
-OL,8,     Fto today's action with Ady
-OL,9,     FWilliams. Call 0808 100 5100.
-OL,10,G1800 Upload with Leo Ulph
-OL,11,     FOriginal comedy, podcasts, poetry,
-OL,12,     Ffiction and more on BBC Upload
-OL,13,     Fwith Leo Ulph.
-OL,14,G2000 BBC Introducing - Oxfordshire &
-OL,15,G     Berkshire
-OL,16,     FDave's joined by composer Hugh
-OL,17,     FHolbech to hear about his album
-OL,18,     FNarrowing Winter.
-OL,19,G2200 Late Night Jo
-OL,20,     FJo Good with late-night
-OL,21,     Fconversation, amazing stories and
-OL,22,     Fthe soundtrack to your night.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,252,250,301,140,0,100
-PN,25102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F251A1788625121
-OL,1,Vzssssss{0Ww;js%7+ j;jsj;j:jsjzjj;js
-OL,2,Vupp=wfff5W-.*,%-. *.*,****(.******,V(,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1800 Upload with Leo Ulph
+OL,6,     FOriginal comedy, podcasts, poetry,
+OL,7,     Ffiction and more on BBC Upload
+OL,8,     Fwith Leo Ulph.
+OL,9,G2000 BBC Introducing - Oxfordshire &
+OL,10,G     Berkshire
+OL,11,     FDave's joined by composer Hugh
+OL,12,     FHolbech to hear about his album
+OL,13,     FNarrowing Winter.
+OL,14,G2200 Late Night Jo
+OL,15,     FJo Good with late-night
+OL,16,     Fconversation, amazing stories and
+OL,17,     Fthe soundtrack to your night.
+OL,18,G0100 Weekend overnights with BBC Radio
+OL,19,G     5 Live
+OL,20,     FLocal BBC Radio joins BBC Radio 5
+OL,21,     FLive through the night on a
+OL,22,     Fweekend.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,252,250,301,140,0,100

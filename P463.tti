@@ -1,43 +1,24 @@
-PN,46301
-SC,0001
+PN,46300
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1788614320
+PS,8008
+OL,0,        ECIMSBWebfax 2   F463A1788628732
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1400 Sport an tSathairn
-OL,6,     FFaisneis, tuairisci, torthai,
-OL,7,     Fanailis agus trachtaireacht ar
-OL,8,     Fchursai spoirt an tSathairn.
-OL,9,G1800 Nuacht a Se
-OL,10,     FAn barr is deireanai nuachta
-OL,11,     Fnaisiunta, idirnaisiunta agus
-OL,12,     Faitiuil.
-OL,13,G1815 Sport an Trathnona
-OL,14,     FClar spoirt an trathnona a chur i
-OL,15,     Flathair o Bhaile na nGall.
-OL,16,G2000 An Nota Ard
-OL,17,     FCeol clasaiceach le Jo Ni Cheide.
-OL,18,G2030 Ar Bhruach na Sionainne
-OL,19,     FCloisfear mic leinn Ollscoil
-OL,20,     FLuimnigh i mbun ceoil agus cainte
-OL,21,     Fsa tsraith seo.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,464,250,301,140,0,100
-PN,46302
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1788614320
-OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
-OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G2100 Rianta
-OL,6,     FClar ceoil ar linne, ceol na
-OL,7,     Fcruinne, ceolta nua agus ceolta
-OL,8,     Fnios sine.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1815 Sport an Trathnona
+OL,6,     FClar spoirt an trathnona a chur i
+OL,7,     Flathair o Bhaile na nGall.
+OL,8,G2000 An Nota Ard
+OL,9,     FCeol clasaiceach le Jo Ni Cheide.
+OL,10,G2030 Ar Bhruach na Sionainne
+OL,11,     FCloisfear mic leinn Ollscoil
+OL,12,     FLuimnigh i mbun ceoil agus cainte
+OL,13,     Fsa tsraith seo.
+OL,14,G2100 Rianta
+OL,15,     FClar ceoil ar linne, ceol na
+OL,16,     Fcruinne, ceolta nua agus ceolta
+OL,17,     Fnios sine.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
