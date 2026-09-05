@@ -2,26 +2,25 @@ PN,28201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F282A1788585638
+OL,0,        ECIMSBWebfax 2   F282A1788599991
 OL,1,Vzssssss{0Ww;js%7+ jsjkjkkjsj;jsjs"7
 OL,2,Vupp=wfff5W-.*,%-. (.*.****,**(.*, %V,,,
 OL,3,V}yyy5CSaturday
-OL,5,G0600 Caroline Martin on BBC Radio
-OL,6,G     Somerset
-OL,7,     FNews, information and advice, plus
-OL,8,     Fgreat music for your Saturday
-OL,9,     Fbreakfast with Caroline.
-OL,10,G1000 Andy Bennett on BBC Radio Somerset
-OL,11,     FJoin Andy for a mid-morning with
-OL,12,     Fplenty of laughs along the way.
-OL,13,G1200 BBC Radio Somerset Sport:
-OL,14,G     Pre-match
-OL,15,     FAll the pre-match build-up ahead
-OL,16,     Fof today's game.
-OL,17,G1230 BBC Radio Somerset Sport
-OL,18,     FCoverage of Southend United v
-OL,19,     FYeovil Town in the National
-OL,20,     FLeague. Kick-off at 12.30pm.
+OL,5,G1000 Andy Bennett on BBC Radio Somerset
+OL,6,     FJoin Andy for a mid-morning with
+OL,7,     Fplenty of laughs along the way.
+OL,8,G1200 BBC Radio Somerset Sport:
+OL,9,G     Pre-match
+OL,10,     FAll the pre-match build-up ahead
+OL,11,     Fof today's game.
+OL,12,G1230 BBC Radio Somerset Sport
+OL,13,     FCoverage of Southend United v
+OL,14,     FYeovil Town in the National
+OL,15,     FLeague. Kick-off at 12.30pm.
+OL,16,G1430 BBC Radio Bristol Sport: Pre-match
+OL,17,     FLocal sporting features and all
+OL,18,     Fthe pre-match build-up ahead of
+OL,19,     Ftoday's matches.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,283,250,301,140,0,100
@@ -29,26 +28,26 @@ PN,28202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F282A1788585638
+OL,0,        ECIMSBWebfax 2   F282A1788599991
 OL,1,Vzssssss{0Ww;js%7+ jsjkjkkjsj;jsjs"7
 OL,2,Vupp=wfff5W-.*,%-. (.*.****,**(.*, %V,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1430 BBC Radio Bristol Sport: Pre-match
-OL,6,     FLocal sporting features and all
-OL,7,     Fthe pre-match build-up ahead of
-OL,8,     Ftoday's matches.
-OL,9,G1500 BBC Radio Bristol Sport
-OL,10,     FCoverage of Burnley v Bristol City
-OL,11,     Fand Bristol Rovers v Rotherham
-OL,12,     FUnited. Not online.
-OL,13,G1700 BBC Radio Bristol Sport:
-OL,14,G     Post-match
-OL,15,     FAll the post-match reaction and
-OL,16,     Finterviews from your local team.
-OL,17,     FCall 08000 855 949.
-OL,18,G1800 Upload with Adam Crowther
-OL,19,     FOriginal comedy, podcasts, poetry,
-OL,20,     Ffiction and more on BBC Upload.
+OL,5,G1500 BBC Radio Bristol Sport
+OL,6,     FCoverage of Burnley v Bristol City
+OL,7,     Fand Bristol Rovers v Rotherham
+OL,8,     FUnited. Not online.
+OL,9,G1700 BBC Radio Bristol Sport:
+OL,10,G     Post-match
+OL,11,     FAll the post-match reaction and
+OL,12,     Finterviews from your local team.
+OL,13,     FCall 08000 855 949.
+OL,14,G1800 Upload with Adam Crowther
+OL,15,     FOriginal comedy, podcasts, poetry,
+OL,16,     Ffiction and more on BBC Upload.
+OL,17,G2000 BBC Introducing - The West
+OL,18,     FJames Threlfall brings the best in
+OL,19,     Fnew music from the West and is
+OL,20,     Fjoined by Moy Cohen.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,283,250,301,140,0,100
@@ -56,23 +55,19 @@ PN,28203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F282A1788585638
+OL,0,        ECIMSBWebfax 2   F282A1788599991
 OL,1,Vzssssss{0Ww;js%7+ jsjkjkkjsj;jsjs"7
 OL,2,Vupp=wfff5W-.*,%-. (.*.****,**(.*, %V,,,
 OL,3,V}yyy5CSaturday
-OL,5,G2000 BBC Introducing - The West
-OL,6,     FJames Threlfall brings the best in
-OL,7,     Fnew music from the West and is
-OL,8,     Fjoined by Moy Cohen.
-OL,9,G2200 Late Night Jo
-OL,10,     FJo Good with late-night
-OL,11,     Fconversation, amazing stories and
-OL,12,     Fthe soundtrack to your night.
-OL,13,G0100 Weekend overnights with BBC Radio
-OL,14,G     5 Live
-OL,15,     FLocal BBC Radio joins BBC Radio 5
-OL,16,     FLive through the night on a
-OL,17,     Fweekend.
+OL,5,G2200 Late Night Jo
+OL,6,     FJo Good with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekend overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekend.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,283,250,301,140,0,100
