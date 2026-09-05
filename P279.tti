@@ -1,16 +1,81 @@
-PN,27900
-SC,0000
+PN,27901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F279A1788567611
+PS,c008
+OL,0,        ECIMSBWebfax 2   F279A1788585638
 OL,1,Vzssssss{0Ww;js%7+ jsjzj;jkj{jsjzjj;js
 OL,2,Vupp=wfff5W-.*,%-. (.*****.* (.******,V(
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSaturday
+OL,5,G0600 Susan Hanks on BBC Radio
+OL,6,G     Shropshire
+OL,7,     FSusan starts Saturday with
+OL,8,     Fstories, morning updates and all
+OL,9,     Fthe music you love.
+OL,10,G1000 Liz Ellis on BBC Radio Shropshire
+OL,11,     FLiz puts a smile on your face with
+OL,12,     Fgreat guests, big events and all
+OL,13,     Fthe music you love.
+OL,14,G1200 Sport on BBC Radio Shropshire:
+OL,15,G     Pre-match
+OL,16,     FAll the build-up and interviews
+OL,17,     Fahead of today's matches featuring
+OL,18,     Four local teams.
+OL,19,G1230 Sport on BBC Radio Shropshire
+OL,20,     FFleetwood Town v Shrewsbury Town
+OL,21,     Fin League Two. Kick-off at
+OL,22,     F12.30pm. NOT online.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,280,250,301,140,0,100
+PN,27902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F279A1788585638
+OL,1,Vzssssss{0Ww;js%7+ jsjzj;jkj{jsjzjj;js
+OL,2,Vupp=wfff5W-.*,%-. (.*****.* (.******,V(
+OL,3,V}yyy5CSaturday
+OL,5,G1430 Sport on BBC Radio Shropshire:
+OL,6,G     Pre-match
+OL,7,     FAll the build-up and interviews
+OL,8,     Fahead of today's matches featuring
+OL,9,     Four local teams.
+OL,10,G1500 Sport on BBC Radio Shropshire
+OL,11,     FScarborough Athletic v AFC Telford
+OL,12,     FUnited in National League North.
+OL,13,     FKick-off at 3pm.
+OL,14,G1700 The Verdict
+OL,15,     FHave your say on the day's matches
+OL,16,     Fon 0808 100 9696.
+OL,17,G1800 Upload with Nina Das Gupta
+OL,18,     FA delicious slice of writing from
+OL,19,     Fthe award-winning Worcester poetry
+OL,20,     Fslammer.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,280,250,301,140,0,100
+PN,27903
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F279A1788585638
+OL,1,Vzssssss{0Ww;js%7+ jsjzj;jkj{jsjzjj;js
+OL,2,Vupp=wfff5W-.*,%-. (.*****.* (.******,V(
+OL,3,V}yyy5CSaturday
+OL,5,G2000 BBC Introducing - Shropshire,
+OL,6,G     Stoke, Hereford & Worcester
+OL,7,     FFresh from a Creamfields debut,
+OL,8,     Fthe Stafford duo have the world at
+OL,9,     Ftheir feet.
+OL,10,G2200 Late Night Jo
+OL,11,     FJo Good with late-night
+OL,12,     Fconversation, amazing stories and
+OL,13,     Fthe soundtrack to your night.
+OL,14,G0100 Weekend overnights with BBC Radio
+OL,15,G     5 Live
+OL,16,     FLocal BBC Radio joins BBC Radio 5
+OL,17,     FLive through the night on a
+OL,18,     Fweekend.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,280,250,301,140,0,100

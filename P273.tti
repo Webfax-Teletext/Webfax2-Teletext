@@ -1,16 +1,78 @@
-PN,27300
-SC,0000
+PN,27301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F273A1788567611
+PS,c008
+OL,0,        ECIMSBWebfax 2   F273A1788585637
 OL,1,Vzssssss{0Ww;js%7+ jkjsjjjj+j{js"7j js
 OL,2,Vupp=wfff5W-.*,%-. ***,*..*.**(. %*,*,V(
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSaturday
+OL,5,G0600 Gilly Hope on BBC Radio Newcastle
+OL,6,     FChris starts your weekend the
+OL,7,     Fright way with great music and
+OL,8,     Fconversation.
+OL,9,G1000 Kelly Scott on BBC Radio Newcastle
+OL,10,     FKelly brings you great music and
+OL,11,     Fconversation for your mid-morning.
+OL,12,G1130 Total Sport - North East Sport:
+OL,13,G     Pre-match
+OL,14,     FAll the build-up and interviews
+OL,15,     Fahead of Newcastle United's and
+OL,16,     FSunderland's matches.
+OL,17,G1230 Total Sport - North East Sport
+OL,18,     FNewcastle United v AFC Bournemouth
+OL,19,     Fin the Premier League. Kick-off at
+OL,20,     F12.30pm. NOT online.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,274,250,301,140,0,100
+PN,27302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F273A1788585637
+OL,1,Vzssssss{0Ww;js%7+ jkjsjjjj+j{js"7j js
+OL,2,Vupp=wfff5W-.*,%-. ***,*..*.**(. %*,*,V(
+OL,3,V}yyy5CSaturday
+OL,5,G1430 Total Sport - North East Sport:
+OL,6,G     Pre-match
+OL,7,     FAll the build-up and interviews
+OL,8,     Fahead of Sunderland's match.
+OL,9,G1500 Total Sport - North East Sport
+OL,10,     FCoverage of Brentford v Sunderland
+OL,11,     Fin the Premier League. Kick-off at
+OL,12,     F3pm. NOT online.
+OL,13,G1700 Total Sport - North East Sport:
+OL,14,G     Post-match
+OL,15,     FHave your say on today's football
+OL,16,     Fwith the BBC Radio Newcastle
+OL,17,     Fsports team.
+OL,18,G1800 Upload with Emma Millen
+OL,19,     FOriginal comedy, podcasts, poetry,
+OL,20,     Ffiction and more on BBC Upload
+OL,21,     Fwith Emma Millen.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,274,250,301,140,0,100
+PN,27303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F273A1788585637
+OL,1,Vzssssss{0Ww;js%7+ jkjsjjjj+j{js"7j js
+OL,2,Vupp=wfff5W-.*,%-. ***,*..*.**(. %*,*,V(
+OL,3,V}yyy5CSaturday
+OL,5,G2000 BBC Introducing - North East
+OL,6,     FTrack of the week: Reverie - Fly,
+OL,7,     FZELA, Larches
+OL,8,G2200 Late Night Jo
+OL,9,     FJo Good with late-night
+OL,10,     Fconversation, amazing stories and
+OL,11,     Fthe soundtrack to your night.
+OL,12,G0100 Weekend overnights with BBC Radio
+OL,13,G     5 Live
+OL,14,     FLocal BBC Radio joins BBC Radio 5
+OL,15,     FLive through the night on a
+OL,16,     Fweekend.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,274,250,301,140,0,100

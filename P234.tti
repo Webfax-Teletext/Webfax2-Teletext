@@ -2,76 +2,50 @@ PN,23401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1788540638
+OL,0,        ECIMSBWebfax 2   F234A1788585638
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G0600 This Is Sports Extra
 OL,6,     FThis is BBC Radio 5 Sports Extra -
 OL,7,     Fbringing you even more live
 OL,8,     Fcommentaries from the world's
 OL,9,     Fgreatest sporting events. Listen
 OL,10,     Fon BBC Sounds.
-OL,11,G1025 County Cricket
-OL,12,     FKevin Howells presents live
-OL,13,     Fball-by-ball cricket commentary
-OL,14,     Ffrom the County Championship.
-OL,15,G1125 Formula 1
-OL,16,     FLive F1 commentary of Practice 3
-OL,17,     Fat the Italian Grand Prix from
-OL,18,     FMonza.
-OL,19,G1235 Women's Super League Football
-OL,20,     FLive football commentary of
-OL,21,     FChelsea v Aston Villa in the
-OL,22,     FWomen's Super League.
-OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,11,G1015 Test Match Special
+OL,12,     FLive ball-by-ball cricket
+OL,13,     Fcommentary of England Women v
+OL,14,     FIreland Women in the 3rd ODI at
+OL,15,     FNew Road in Worcester.
+OL,16,G1345 Formula 1: Grand Prix
+OL,17,     FLive F1 commentary of the 2026
+OL,18,     FItalian Grand Prix from Monza.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,235,200,300,120,0,100
 PN,23402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1788540638
+OL,0,        ECIMSBWebfax 2   F234A1788585638
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CSaturday
-OL,5,G1430 Premier League Football
-OL,6,     FLive football commentary of
-OL,7,     FManchester City v Coventry City in
-OL,8,     Fthe Premier League.
-OL,9,G1700 US Open Tennis
-OL,10,     FLive tennis commentary of the 3rd
-OL,11,     Fround of the US Open from Flushing
-OL,12,     FMeadows, New York.
-OL,13,G1900 Boxing
-OL,14,     FLive boxing commentary of Katie
-OL,15,     FTaylor v Flora Pili at Croke Park
-OL,16,     Fin Dublin, in the final fight of
-OL,17,     FTaylor's professional career. Plus
-OL,18,     Ffull coverage of the undercard.
-OL,23,VppppppppppppppppppppppppppppppppppG2/3
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,235,200,300,120,0,100
-PN,23403
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F234A1788540638
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CSaturday
-OL,5,G2330 This Is Sports Extra
-OL,6,     FThis is BBC Radio 5 Sports Extra -
-OL,7,     Fbringing you even more live
-OL,8,     Fcommentaries from the world's
-OL,9,     Fgreatest sporting events. Listen
-OL,10,     Fon BBC Sounds.
-OL,11,G0000 This Is Sports Extra
-OL,12,     FThis is BBC Radio 5 Sports Extra -
-OL,13,     Fbringing you even more live
-OL,14,     Fcommentaries from the world's
-OL,15,     Fgreatest sporting events. Listen
-OL,16,     Fon BBC Sounds.
-OL,23,VppppppppppppppppppppppppppppppppppG3/3
+OL,3,V}yyy5CSunday
+OL,5,G1600 Test Match Special
+OL,6,     FLive ball-by-ball cricket
+OL,7,     Fcommentary of England Women v
+OL,8,     FIreland Women in the 3rd ODI at
+OL,9,     FNew Road in Worcester.
+OL,10,G1830 US Open Tennis
+OL,11,     FLive tennis commentary of the
+OL,12,     Fround of 16 of the US Open from
+OL,13,     FFlushing Meadows, New York.
+OL,14,G0000 This Is Sports Extra
+OL,15,     FThis is BBC Radio 5 Sports Extra -
+OL,16,     Fbringing you even more live
+OL,17,     Fcommentaries from the world's
+OL,18,     Fgreatest sporting events. Listen
+OL,19,     Fon BBC Sounds.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,235,200,300,120,0,100

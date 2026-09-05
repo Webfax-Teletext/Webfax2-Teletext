@@ -1,17 +1,129 @@
-PN,20300
-SC,0000
+PN,20301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F203A1788565754
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1788585638
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday
 OL,5,G0030 Through the Night
 OL,6,     FElim Chan conducts the Finnish
 OL,7,     FRadio Symphony Orchestra and
 OL,8,     Fviolinist Nikita Boriso-Glebsky in
 OL,9,     Fthe premiere of Zinovjev's 'World
 OL,10,     FBearer'.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,11,G0630 Breakfast
+OL,12,     FHannah French presents Radio 3's
+OL,13,     FBreakfast show. To get in touch,
+OL,14,     Femail 3breakfast@bbc.co.uk.
+OL,15,G0900 Saturday Morning
+OL,16,     FTom Service plays the best
+OL,17,     Fclassical music alongside the
+OL,18,     Flatest stories in the arts world,
+OL,19,     Fand meets the versatile conductor,
+OL,20,     Farranger and composer Jules
+OL,21,     FBuckley.
+OL,23,VppppppppppppppppppppppppppppppppppG1/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1788585638
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1200 Earlier... with Jools Holland
+OL,6,     FJools is joined by one of the
+OL,7,     Fworld's most famous classical
+OL,8,     Fmusicians, Lang Lang.
+OL,9,G1300 Key Changes: Radio 3's...
+OL,10,     F...Essential History of Classical
+OL,11,     FMusic. 1816, Bavaria. Maelzel's
+OL,12,     Fnew metronome promises to measure
+OL,13,     Fmusical time with unprecedented
+OL,14,     Fprecision.
+OL,15,G1400 Record Review
+OL,16,     FAndrew McGregor with the best new
+OL,17,     Fclassical releases, joined by
+OL,18,     FHannah French, who picks her top 5
+OL,19,     Frecordings of music by this week's
+OL,20,     FBBC Proms Composer, JS Bach.
+OL,23,VppppppppppppppppppppppppppppppppppG2/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1788585638
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1600 Sound of Cinema
+OL,6,     FEdith Bowman with your weekly
+OL,7,     Fselection of film scores, where
+OL,8,     Fthis week class is in session,
+OL,9,     Fcelebrating the music of classic
+OL,10,     Fschool, college and coming-of-age
+OL,11,     Ffilms.
+OL,12,G1700 This Classical Life
+OL,13,     FJess Gillam shares favourite music
+OL,14,     Fwith the composer Rachel Portman.
+OL,15,G1800 Music Planet
+OL,16,     FKathryn Tickell presents the best
+OL,17,     Fin global roots-based music, and
+OL,18,     FBritish-Kenyan musician John Low
+OL,19,     Fselects three tracks from the
+OL,20,     Facoustic guitar scene of 1950s and
+OL,21,     F60s Nairobi.
+OL,23,VppppppppppppppppppppppppppppppppppG3/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20304
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1788585638
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1900 BBC Proms 2026
+OL,6,     FLive at the BBC Proms: Martha
+OL,7,     FArgerich, the Munich Philharmonic
+OL,8,     Fand Lahav Shani perform Farrenc's
+OL,9,     FOverture No 2, Beethoven's Piano
+OL,10,     FConcerto No 2 and Brahms' Symphony
+OL,11,     FNo 4.
+OL,12,G2130 20th Century Radicals
+OL,13,     FGillian Moore explores the organic
+OL,14,     Faliveness of the music of Betsy
+OL,15,     FJolas, with a focus on her 1977
+OL,16,     Ftrumpet concerto Onze Lieder.
+OL,17,G2230 New Music Show
+OL,18,     FTom Service showcases some of the
+OL,19,     Fnew music heard at this year's BBC
+OL,20,     FProms, including brand new
+OL,21,     Fcommissions from Josephine
+OL,22,     FStephenson and Brett Dean.
+OL,23,VppppppppppppppppppppppppppppppppppG4/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20305
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1788585638
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G0030 Through the Night
+OL,6,     FMessiaen's choral masterpiece Cinq
+OL,7,     FRechants, Wagner's Im Treibhaus,
+OL,8,     Ftwo love songs from Mahler's
+OL,9,     FRuckert-Lieder and three early
+OL,10,     Fsongs by Alma Mahler.
+OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
