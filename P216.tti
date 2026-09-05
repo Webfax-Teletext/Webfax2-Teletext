@@ -2,26 +2,27 @@ PN,21601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F216A1788585638
+OL,0,        ECIMSBWebfax 2   F216A1788589182
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G0100 As BBC Radio 5 Live
-OL,6,     FSee listings for BBC Radio 5 Live
-OL,7,     Fon BBC Sounds.
-OL,8,G0700 Radio Wales Breakfast
-OL,9,     FEverything you need to know as you
-OL,10,     Fwake up.
-OL,11,G0900 Money for Nothing
-OL,12,     FYour dedications and song requests
-OL,13,     Ffrom the 1950s-90s. Can you guess
-OL,14,     Fthe Stuck in the Middle song? Text
-OL,15,     F81012, email
-OL,16,     Fmoneyfornothing@bbc.co.uk or call
-OL,17,     F03700 100 110.
-OL,18,G1200 Lucy Owen
-OL,19,     FLucy Owen brings great music and
-OL,20,     Fguests to your Saturday.
+OL,5,G0700 Radio Wales Breakfast
+OL,6,     FEverything you need to know as you
+OL,7,     Fwake up.
+OL,8,G0900 Money for Nothing
+OL,9,     FYour dedications and song requests
+OL,10,     Ffrom the 1950s-90s. Can you guess
+OL,11,     Fthe Stuck in the Middle song? Text
+OL,12,     F81012, email
+OL,13,     Fmoneyfornothing@bbc.co.uk or call
+OL,14,     F03700 100 110.
+OL,15,G1200 Lucy Owen
+OL,16,     FLucy Owen brings great music and
+OL,17,     Fguests to your Saturday.
+OL,18,G1400 Radio Wales Sport
+OL,19,     FLive commentary, guests and
+OL,20,     Fanalysis. Your home for Welsh
+OL,21,     Fsport.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,217,200,300,120,0,100
@@ -29,26 +30,27 @@ PN,21602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F216A1788585638
+OL,0,        ECIMSBWebfax 2   F216A1788589182
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1400 Radio Wales Sport
-OL,6,     FLive commentary, guests and
-OL,7,     Fanalysis. Your home for Welsh
-OL,8,     Fsport.
-OL,9,G1730 Welsh Wonders (Stereophonics)
-OL,10,     FCelebrating Cwmaman's very own
-OL,11,     FStereophonics, with a collection
-OL,12,     Fof treats from the BBC Archive.
-OL,13,     FEnjoy a carefully curate two hours
-OL,14,     Fof BBC interviews and incredible
-OL,15,     Flive sessions.
-OL,16,G1922 Radio Wales Sport
-OL,17,     FLive commentary of Swansea City v
-OL,18,     FWrexham. Kick-off 8pm. Available
-OL,19,     Fon all frequencies, excluding
-OL,20,     FSounds.
+OL,5,G1730 Welsh Wonders (Stereophonics)
+OL,6,     FCelebrating Cwmaman's very own
+OL,7,     FStereophonics, with a collection
+OL,8,     Fof treats from the BBC Archive.
+OL,9,     FEnjoy a carefully curate two hours
+OL,10,     Fof BBC interviews and incredible
+OL,11,     Flive sessions.
+OL,12,G1922 Radio Wales Sport
+OL,13,     FLive commentary of Swansea City v
+OL,14,     FWrexham. Kick-off 8pm. Available
+OL,15,     Fon all frequencies, excluding
+OL,16,     FSounds.
+OL,17,G2215 BBC Introducing with Adam Walton
+OL,18,     FAfter the big match, Adam
+OL,19,     Fcelebrates great music from both
+OL,20,     FSwansea and Wrexham. Two cities,
+OL,21,     Ftwo excellent soundtracks.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,217,200,300,120,0,100
@@ -56,22 +58,17 @@ PN,21603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F216A1788585638
+OL,0,        ECIMSBWebfax 2   F216A1788589182
 OL,1,Vzssssss{0Ww;js%7+ j 5jjs55 js1ws
 OL,2,Vupp=wfff5W-.*,%-. *,-.* %-,*,$,.V(,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G2215 BBC Introducing with Adam Walton
-OL,6,     FAfter the big match, Adam
-OL,7,     Fcelebrates great music from both
-OL,8,     FSwansea and Wrexham. Two cities,
-OL,9,     Ftwo excellent soundtracks.
-OL,10,G0000 Relax with Radio Wales
-OL,11,     FRelax, unwind and chill out with
-OL,12,     Fan hour of classic and
-OL,13,     Fcontemporary tunes.
-OL,14,G0100 As BBC Radio 5 Live
-OL,15,     FSee listings for BBC Radio 5 Live
-OL,16,     Fon BBC Sounds.
+OL,5,G0000 Relax with Radio Wales
+OL,6,     FRelax, unwind and chill out with
+OL,7,     Fan hour of classic and
+OL,8,     Fcontemporary tunes.
+OL,9,G0100 As BBC Radio 5 Live
+OL,10,     FSee listings for BBC Radio 5 Live
+OL,11,     Fon BBC Sounds.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,217,200,300,120,0,100
