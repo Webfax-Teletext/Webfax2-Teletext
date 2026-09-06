@@ -1,47 +1,26 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788666488
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1788668291
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday
-OL,5,G0432 BBC Inside Science
-OL,6,     FThings just got interesting as
-OL,7,     Fresearchers on an international
-OL,8,     Fproject called the Lux-Zeplin (LZ)
-OL,9,     FDark Matter Experiment may have
-OL,10,     Fdiscovered the signature of a bit
-OL,11,     Fof dark matter.
-OL,12,G0500 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G0506 The Newsroom
-OL,16,     FThe world's Newsroom brings you
-OL,17,     Fglobal events as they happen.
-OL,18,G0530 BBC News Summary
-OL,19,     FThe latest two minute news summary
-OL,20,     Ffrom BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788666488
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G0532 Asia Specific
-OL,6,     FThe city was once one of Asia's
-OL,7,     Fgreat filmmaking capitals but that
-OL,8,     Fcreative energy is drying up.
-OL,9,G0550 Sporting Witness
-OL,10,     FIn 1981, Norway beat England 2-1
-OL,11,     Fin a World Cup qualifier in Oslo.
-OL,12,     FBjC8rge Lillelien's excited
-OL,13,     Fcommentary became legendary.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G0506 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0530 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0532 Asia Specific
+OL,12,     FThe city was once one of Asia's
+OL,13,     Fgreat filmmaking capitals but that
+OL,14,     Fcreative energy is drying up.
+OL,15,G0550 Sporting Witness
+OL,16,     FIn 1981, Norway beat England 2-1
+OL,17,     Fin a World Cup qualifier in Oslo.
+OL,18,     FBjC8rge Lillelien's excited
+OL,19,     Fcommentary became legendary.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
