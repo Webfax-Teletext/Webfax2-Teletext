@@ -1,16 +1,47 @@
-PN,26800
-SC,0000
+PN,26801
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F268A1788653951
+PS,c008
+OL,0,        ECIMSBWebfax 2   F268A1788672045
 OL,1,Vzssssss{0Ww;js%7+ j jsjj+jsjs"7jsj;
 OL,2,Vupp=wfff5W-.*,%-. *,*,**.*,(. %*,**V(,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSunday
+OL,5,G0600 Twiggy on BBC Radio Leicester
+OL,6,     FLooking at some of the big stories
+OL,7,     Fof the week from a faith
+OL,8,     Fperspective.
+OL,9,G1000 Kelly Hinch on BBC Radio Leicester
+OL,10,     FKelly livens up your weekend with
+OL,11,     Fgreat guests, stories,
+OL,12,     Fconversation and music.
+OL,13,G1400 The Make a Difference Show
+OL,14,     FGaby Roslin talks to some amazing
+OL,15,     Fpeople making a difference where
+OL,16,     Fwe live.
+OL,17,G1800 Dotun Adebayo
+OL,18,     FDotun Adebayo brings you the best
+OL,19,     Fof community programming from
+OL,20,     Facross England.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,269,250,301,140,0,100
+PN,26802
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F268A1788672045
+OL,1,Vzssssss{0Ww;js%7+ j jsjj+jsjs"7jsj;
+OL,2,Vupp=wfff5W-.*,%-. *,*,**.*,(. %*,**V(,,
+OL,3,V}yyy5CSunday
+OL,5,G2200 The Late Show
+OL,6,     FAsma Younus with late-night
+OL,7,     Fconversation, stories and the
+OL,8,     Fsoundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,269,250,301,140,0,100

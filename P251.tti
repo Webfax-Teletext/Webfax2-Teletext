@@ -1,16 +1,47 @@
-PN,25100
-SC,0000
+PN,25101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F251A1788653952
+PS,c008
+OL,0,        ECIMSBWebfax 2   F251A1788672046
 OL,1,Vzssssss{0Ww;js%7+ j;jsj;j:jsjzjj;js
 OL,2,Vupp=wfff5W-.*,%-. *.*,****(.******,V(,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSunday
+OL,5,G0600 Phil Mercer
+OL,6,     FPhil's here with stories to uplift
+OL,7,     Fand inspire on your Sunday
+OL,8,     Fmorning.
+OL,9,G1000 Katie Tyler on BBC Radio Berkshire
+OL,10,     FKatie brings you joyful Sunday
+OL,11,     Fmid-morning vibes, big guests and
+OL,12,     Fgreat music.
+OL,13,G1400 The Make a Difference Show
+OL,14,     FGaby Roslin talks to some amazing
+OL,15,     Fpeople making a difference where
+OL,16,     Fwe live.
+OL,17,G1800 Dotun Adebayo
+OL,18,     FDotun Adebayo brings you the best
+OL,19,     Fof community programming from
+OL,20,     Facross England.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,252,250,301,140,0,100
+PN,25102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F251A1788672046
+OL,1,Vzssssss{0Ww;js%7+ j;jsj;j:jsjzjj;js
+OL,2,Vupp=wfff5W-.*,%-. *.*,****(.******,V(,,
+OL,3,V}yyy5CSunday
+OL,5,G2200 The Late Show
+OL,6,     FAsma Younus with late-night
+OL,7,     Fconversation, stories and the
+OL,8,     Fsoundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,252,250,301,140,0,100

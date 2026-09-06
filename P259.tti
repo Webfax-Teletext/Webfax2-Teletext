@@ -1,16 +1,50 @@
-PN,25900
-SC,0000
+PN,25901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F259A1788653952
+PS,c008
+OL,0,        ECIMSBWebfax 2   F259A1788672046
 OL,1,Vzssssss{0Ww;js%7+ jsjsjsjs*:
 OL,2,Vupp=wfff5W-.*,%-. *,(.(.*,**V(,,,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSunday
+OL,5,G0600 Babs Michel on BBC Essex
+OL,6,     FJoin Babs for a relaxed and
+OL,7,     Fspiritual start to your Sunday.
+OL,8,G1000 Sadie Nine
+OL,9,     FJoin Sadie for stories to make you
+OL,10,     Fsmile, mid-morning updates and
+OL,11,     Fmusic.
+OL,12,G1200 Josh Holmes-Bright
+OL,13,     FJoin Josh for stories to make you
+OL,14,     Fsmile, afternoon updates and
+OL,15,     Fmusic.
+OL,16,G1400 The Make a Difference Show
+OL,17,     FGaby Roslin talks to some amazing
+OL,18,     Fpeople making a difference where
+OL,19,     Fwe live.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,260,250,301,140,0,100
+PN,25902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F259A1788672046
+OL,1,Vzssssss{0Ww;js%7+ jsjsjsjs*:
+OL,2,Vupp=wfff5W-.*,%-. *,(.(.*,**V(,,,,,,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1800 Dotun Adebayo
+OL,6,     FDotun Adebayo brings you the best
+OL,7,     Fof community programming from
+OL,8,     Facross England.
+OL,9,G2200 The Late Show
+OL,10,     FAsma Younus with late-night
+OL,11,     Fconversation, stories and the
+OL,12,     Fsoundtrack to your night.
+OL,13,G0100 Weekday overnights with BBC Radio
+OL,14,G     5 Live
+OL,15,     FLocal BBC Radio joins BBC Radio 5
+OL,16,     FLive through the night on a
+OL,17,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,260,250,301,140,0,100
