@@ -2,24 +2,26 @@ PN,46001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788672046
+OL,0,        ECIMSBWebfax 2   F460A1788679118
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G0600 Rising Time
-OL,6,     FMornings with melody, featuring
-OL,7,     Fclassic cuts and the best of new
-OL,8,     Fmusic presented by Lilian Smith.
-OL,9,G0800 World Report
-OL,10,     FFrom the unusual to the topical,
-OL,11,     FWorld Report brings you
-OL,12,     Finteresting stories from around
-OL,13,     Fthe world.
-OL,14,G0830 Bowman Sunday 8.30
-OL,15,     FJohn Bowman takes a look back
-OL,16,     Fthrough the RTE Radio archives and
-OL,17,     Fpresents some of his favourite
-OL,18,     Frecordings
+OL,5,G0800 World Report
+OL,6,     FFrom the unusual to the topical,
+OL,7,     FWorld Report brings you
+OL,8,     Finteresting stories from around
+OL,9,     Fthe world.
+OL,10,G0830 Bowman Sunday 8.30
+OL,11,     FJohn Bowman takes a look back
+OL,12,     Fthrough the RTE Radio archives and
+OL,13,     Fpresents some of his favourite
+OL,14,     Frecordings
+OL,15,G0900 Sunday Miscellany
+OL,16,     FA mix of 'music and musings' from
+OL,17,     Fradio essays to reportage,
+OL,18,     Fappreciations, memory pieces,
+OL,19,     Fpoetry, travel writing to personal
+OL,20,     Faccounts of events and happenings
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
@@ -27,27 +29,28 @@ PN,46002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788672046
+OL,0,        ECIMSBWebfax 2   F460A1788679118
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G0900 Sunday Miscellany
-OL,6,     FA mix of 'music and musings' from
-OL,7,     Fradio essays to reportage,
-OL,8,     Fappreciations, memory pieces,
-OL,9,     Fpoetry, travel writing to personal
-OL,10,     Faccounts of events and happenings
-OL,11,G1000 Sunday with Miriam
-OL,12,     FMiriam O'Callaghan presents a live
-OL,13,     Fstimulating mix of lifestyle,
-OL,14,     Fmusic, human interest and great
-OL,15,     Finterviews, the perfect soundtrack
-OL,16,     Fto your Sunday morning.
-OL,17,G1100 Brendan O'Connor
-OL,18,     FDearbhail McDonald presents a live
-OL,19,     Fstimulating mix of news,
-OL,20,     Finterviews, reports and
-OL,21,     Fdiscussion.
+OL,5,G1000 Sunday with Miriam
+OL,6,     FMiriam O'Callaghan presents a live
+OL,7,     Fstimulating mix of lifestyle,
+OL,8,     Fmusic, human interest and great
+OL,9,     Finterviews, the perfect soundtrack
+OL,10,     Fto your Sunday morning.
+OL,11,G1100 Brendan O'Connor
+OL,12,     FDearbhail McDonald presents a live
+OL,13,     Fstimulating mix of news,
+OL,14,     Finterviews, reports and
+OL,15,     Fdiscussion.
+OL,16,G1300 This Week
+OL,17,     FA look at events making the news
+OL,18,     Fin the past week.
+OL,19,G1400 Sunday Sport
+OL,20,     FFollow all of Sunday afternoon's
+OL,21,     Fsporting action with Des Cahill
+OL,22,     Fand Marie Crowe
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
@@ -55,23 +58,28 @@ PN,46003
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788672046
+OL,0,        ECIMSBWebfax 2   F460A1788679118
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G1300 This Week
-OL,6,     FA look at events making the news
-OL,7,     Fin the past week.
-OL,8,G1400 Sunday Sport
-OL,9,     FFollow all of Sunday afternoon's
-OL,10,     Fsporting action with Des Cahill
-OL,11,     Fand Marie Crowe
-OL,12,G1800 Supercharged with Anna Geary
-OL,13,     FAnna opens up the conversation
-OL,14,     Faround our bodies and minds with a
-OL,15,     Fmix of expert advice, impactful
-OL,16,     Fpersonal stories, listener voice
-OL,17,     Fnotes, and practical life hacks.
+OL,5,G1800 Supercharged with Anna Geary
+OL,6,     FAnna opens up the conversation
+OL,7,     Faround our bodies and minds with a
+OL,8,     Fmix of expert advice, impactful
+OL,9,     Fpersonal stories, listener voice
+OL,10,     Fnotes, and practical life hacks.
+OL,11,G1900 The County Measure
+OL,12,     FVincent Woods explores Co
+OL,13,     FKilkenny, visits the (real)
+OL,14,     FKilkenny Cats, Rothe House & the
+OL,15,     FCastlecomer Coal Mining Museum.
+OL,16,     FWith writing from Niamh Mulvey &
+OL,17,     Fmusic from Annika Kilkenny
+OL,18,G2000 Drama on One
+OL,19,     FThe Last, High King of Ireland by
+OL,20,     FPatrick Fogarty - a snippet of the
+OL,21,     Flife of a forgotten man on the
+OL,22,     Ffringes of society,
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
@@ -79,28 +87,28 @@ PN,46004
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788672046
+OL,0,        ECIMSBWebfax 2   F460A1788679118
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G1900 The County Measure
-OL,6,     FVincent Woods explores Co
-OL,7,     FKilkenny, visits the (real)
-OL,8,     FKilkenny Cats, Rothe House & the
-OL,9,     FCastlecomer Coal Mining Museum.
-OL,10,     FWith writing from Niamh Mulvey &
-OL,11,     Fmusic from Annika Kilkenny
-OL,12,G2000 Drama on One
-OL,13,     FThe Last, High King of Ireland by
-OL,14,     FPatrick Fogarty - a snippet of the
-OL,15,     Flife of a forgotten man on the
-OL,16,     Ffringes of society,
-OL,17,G2100 The Rolling Wave
-OL,18,     FAoife will be joined by legendary
-OL,19,     Fsinger Andy Irvine to talk about
-OL,20,     Fhis new album 'Devoted', an album
-OL,21,     Freimagining the songs of Woody
-OL,22,     FGuthrie.
+OL,5,G2100 The Rolling Wave
+OL,6,     FAoife will be joined by legendary
+OL,7,     Fsinger Andy Irvine to talk about
+OL,8,     Fhis new album 'Devoted', an album
+OL,9,     Freimagining the songs of Woody
+OL,10,     FGuthrie.
+OL,11,G2200 South Wind Blows
+OL,12,     FThe South Wind Blows is presented
+OL,13,     Fby Philip King every Sunday
+OL,14,     Fevening. The show comes from the
+OL,15,     Fedge of Europe, from the most
+OL,16,     Fwesterly tip of the Dingle
+OL,17,     Fpeninsula.
+OL,18,G2300 Late Date
+OL,19,     FThe perfect musical end to the
+OL,20,     Fday, presented by Ray Cuddihy.
+OL,21,G0200 RTE Gold on RTE Radio 1
+OL,22,     FThe greatest hits of all time.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
@@ -108,26 +116,14 @@ PN,46005
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F460A1788672046
+OL,0,        ECIMSBWebfax 2   F460A1788679118
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G2200 South Wind Blows
-OL,6,     FThe South Wind Blows is presented
-OL,7,     Fby Philip King every Sunday
-OL,8,     Fevening. The show comes from the
-OL,9,     Fedge of Europe, from the most
-OL,10,     Fwesterly tip of the Dingle
-OL,11,     Fpeninsula.
-OL,12,G2300 Late Date
-OL,13,     FThe perfect musical end to the
-OL,14,     Fday, presented by Ray Cuddihy.
-OL,15,G0200 RTE Gold on RTE Radio 1
-OL,16,     FThe greatest hits of all time.
-OL,17,G0530 Rising Time
-OL,18,     FMornings with melody, featuring
-OL,19,     Fclassic cuts and the best of new
-OL,20,     Fmusic presented by Shay Byrne.
+OL,5,G0530 Rising Time
+OL,6,     FMornings with melody, featuring
+OL,7,     Fclassic cuts and the best of new
+OL,8,     Fmusic presented by Shay Byrne.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,461,250,301,140,0,100
