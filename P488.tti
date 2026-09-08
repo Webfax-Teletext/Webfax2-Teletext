@@ -2,28 +2,26 @@ PN,48801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1788787133
+OL,0,        ECIMSBWebfax 2   F488A1788844768
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CTuesday
-OL,5,G0100 Scoth an Luain
-OL,6,     FScoth an Luain
-OL,7,G0700 Nead na Fuiseoige
-OL,8,     FClar ceoil a chur i lathair ag
-OL,9,     FGrainne Ni Dhomhnaill.
-OL,10,G0800 Adhmhaidin
-OL,11,     FClar cursai reatha agus nuachta
-OL,12,     Fnaisiunta, idirnaisiunta agus
-OL,13,     Faitiuil le tuairisc spoirt agus
-OL,14,     Ftuairisc ar na nuachtain
-OL,15,G0900 Priomhscealta na Nuachta agus na
-OL,16,G     Gaeltachta
-OL,17,     FPriomhscealta na Nuachta agus na
-OL,18,     FGaeltachta.
-OL,19,G0915 Iris Aniar
-OL,20,     FClar irise a chur i lathair o
-OL,21,     Fcheannaras Raidio na Gaeltachta i
-OL,22,     FgCasla.
+OL,3,V}yyy5CWednesday
+OL,5,G0700 Nead na Fuiseoige
+OL,6,     FClar ceoil a chur i lathair ag
+OL,7,     FGrainne Ni Dhomhnaill.
+OL,8,G0800 Adhmhaidin
+OL,9,     FClar cursai reatha agus nuachta
+OL,10,     Fnaisiunta, idirnaisiunta agus
+OL,11,     Faitiuil le tuairisc spoirt agus
+OL,12,     Ftuairisc ar na nuachtain
+OL,13,G0900 Priomhscealta na Nuachta agus na
+OL,14,G     Gaeltachta
+OL,15,     FPriomhscealta na Nuachta agus na
+OL,16,     FGaeltachta.
+OL,17,G0915 Iris Aniar
+OL,18,     FClar irise a chur i lathair o
+OL,19,     Fcheannaras Raidio na Gaeltachta i
+OL,20,     FgCasla.
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -31,10 +29,10 @@ PN,48802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1788787133
+OL,0,        ECIMSBWebfax 2   F488A1788844768
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G1015 Cuideachta Ceoil
 OL,6,     FClar ceoil a chur i lathair ag
 OL,7,     FEibhlin de Bhailis.
@@ -48,11 +46,8 @@ OL,14,G     Gaeltachta
 OL,15,     FPriomhscealta na Nuachta agus na
 OL,16,     FGaeltachta.
 OL,17,G1208 An Saol o Dheas
-OL,18,     FBeidh clar speisialta ag An Saol O
-OL,19,     FDheas beo o Chleire inniu ait a
-OL,20,     Fbhfuil teacht le cheile bliantuil
-OL,21,     FChomhdhail Oilean na hEireann ar
-OL,22,     Fbun ann.
+OL,18,     FClar irise, a chur i lathair beo o
+OL,19,     FBhaile na nGall.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -60,26 +55,25 @@ PN,48803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1788787133
+OL,0,        ECIMSBWebfax 2   F488A1788844768
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G1300 Nuacht a hAon
 OL,6,     FAn barr is deireanai nuachta
 OL,7,     Fnaisiunta, idirnaisiunta agus
 OL,8,     Faitiuil.
 OL,9,G1400 Tuairisc Spoirt
 OL,10,     FTuairisc Spoirt.
-OL,11,G1405 Leagan Cainte
-OL,12,     FPle ar leaganacha cainte agus ar
-OL,13,     Fsheanfhocail faoi Chathaoirleacht
-OL,14,     FLiam Mhic Con Iomaire. Seo sraith
-OL,15,     Fclaracha a craoladh ar dtus sna
-OL,16,     Fnaochaidi.
-OL,17,G1435 Coisir Cheoil
-OL,18,     FClar ceoil a chur i lathair ag
-OL,19,     FDonall Mac Ruairi o stiuideo na
-OL,20,     FnDoiri Beaga, i nDun na nGall.
+OL,11,G1405 Cartlann Bhothar na Leinsi
+OL,12,     FGlortha o chartlann Bhothar na
+OL,13,     FLeinsi idir chaint, cheol, spoirt,
+OL,14,     Ffiliocht, leachtai agus go leor
+OL,15,     Feile.
+OL,16,G1430 Coisir Cheoil
+OL,17,     FClar ceoil a chur i lathair ag
+OL,18,     FDonall Mac Ruairi o stiuideo na
+OL,19,     FnDoiri Beaga, i nDun na nGall.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -87,10 +81,10 @@ PN,48804
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1788787133
+OL,0,        ECIMSBWebfax 2   F488A1788844768
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G1700 Tus Aite
 OL,6,     FClar cursai reatha agus nuachta a
 OL,7,     Fchur i lathair ag Fachtna O
@@ -115,10 +109,10 @@ PN,48805
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1788787133
+OL,0,        ECIMSBWebfax 2   F488A1788844768
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G2100 Ri-Ra ar RnaG
 OL,6,     FCeol agus amhrain o na cairteanna,
 OL,7,     Far Ri-Ra ar RnaG, ag cur tus
