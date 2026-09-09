@@ -2,26 +2,25 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788994088
+OL,0,        ECIMSBWebfax 2   F211A1788995908
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G2332 World Business Report
-OL,6,     FThe latest business and finance
-OL,7,     Fnews from around the world, on the
-OL,8,     FBBC.
-OL,9,G0000 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0006 Artists at Work
-OL,13,     FAuthor Daniyal Mueenuddin answers
-OL,14,     Fquestions about his debut novel
-OL,15,     FThis is Where the Serpent Lives,
-OL,16,     Fin front of live audience in
-OL,17,     FEdinburgh.
-OL,18,G0100 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
+OL,5,G0006 Artists at Work
+OL,6,     FAuthor Daniyal Mueenuddin answers
+OL,7,     Fquestions about his debut novel
+OL,8,     FThis is Where the Serpent Lives,
+OL,9,     Fin front of live audience in
+OL,10,     FEdinburgh.
+OL,11,G0100 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0106 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0130 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -29,26 +28,23 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788994088
+OL,0,        ECIMSBWebfax 2   F211A1788995908
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0106 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0130 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0132 The Global Story
-OL,12,     FThe UK is banning trade with West
-OL,13,     FBank settlements. How will the US
-OL,14,     Frespond?
-OL,15,G0200 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0206 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
+OL,5,G0132 The Global Story
+OL,6,     FThe UK is banning trade with West
+OL,7,     FBank settlements. How will the US
+OL,8,     Frespond?
+OL,9,G0200 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0206 The Newsroom
+OL,13,     FThe world's Newsroom brings you
+OL,14,     Fglobal events as they happen.
+OL,15,G0230 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -56,23 +52,27 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788994088
+OL,0,        ECIMSBWebfax 2   F211A1788995908
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0230 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0232 The Documentary
-OL,9,     FThere are more than 730 sinkholes
-OL,10,     Fin central Turkey, and their
-OL,11,     Fnumbers are surging, threatening
-OL,12,     Ffarmland and food supplies. They
-OL,13,     Fare nature's response to
-OL,14,     Funsustainable water use.
-OL,15,G0300 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,5,G0232 The Documentary
+OL,6,     FThere are more than 730 sinkholes
+OL,7,     Fin central Turkey, and their
+OL,8,     Fnumbers are surging, threatening
+OL,9,     Ffarmland and food supplies. They
+OL,10,     Fare nature's response to
+OL,11,     Funsustainable water use.
+OL,12,G0300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0306 Outlook
+OL,16,     FMaria Kargbo grew up in Sierra
+OL,17,     FLeone watching Chinese opera on
+OL,18,     Fher friends' TVs. Years later, she
+OL,19,     Fwould find herself performing for
+OL,20,     Fmillions on China's biggest talent
+OL,21,     Fshow.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -80,26 +80,28 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788994088
+OL,0,        ECIMSBWebfax 2   F211A1788995908
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0306 Outlook
-OL,6,     FMaria Kargbo grew up in Sierra
-OL,7,     FLeone watching Chinese opera on
-OL,8,     Fher friends' TVs. Years later, she
-OL,9,     Fwould find herself performing for
-OL,10,     Fmillions on China's biggest talent
-OL,11,     Fshow.
-OL,12,G0350 Witness History
-OL,13,     FIn 1994, a French curator helped
-OL,14,     Frecover documents thought lost
-OL,15,     Fsince World War Two. They came
-OL,16,     Ffrom a Nazi research project
-OL,17,     Ffocused on the Bayeux Tapestry.
-OL,18,G0400 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
+OL,5,G0350 Witness History
+OL,6,     FIn 1994, a French curator helped
+OL,7,     Frecover documents thought lost
+OL,8,     Fsince World War Two. They came
+OL,9,     Ffrom a Nazi research project
+OL,10,     Ffocused on the Bayeux Tapestry.
+OL,11,G0400 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0406 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0430 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
+OL,20,G0432 The Food Chain
+OL,21,     FHow chefs stay fueled whilst
+OL,22,     Fcooking for us.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -107,25 +109,16 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1788994088
+OL,0,        ECIMSBWebfax 2   F211A1788995908
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0406 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0430 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0432 The Food Chain
-OL,12,     FHow chefs stay fueled whilst
-OL,13,     Fcooking for us.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 Newsday
-OL,18,     FLive news, business and sport from
-OL,19,     Faround the world.
+OL,5,G0500 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G0506 Newsday
+OL,9,     FLive news, business and sport from
+OL,10,     Faround the world.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
