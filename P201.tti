@@ -2,25 +2,23 @@ PN,20101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1789051699
+OL,0,        ECIMSBWebfax 2   F201A1789058908
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
-OL,5,G1533 Going Home on Radio 1
-OL,6,     FWe bring you the tunes and laughs
-OL,7,     Ffor your way home.
-OL,8,G1745 Newsbeat @ 17:45
-OL,9,     FThe latest news from around the UK
-OL,10,     Fand around the world.
-OL,11,G1800 Radio 1's New Music Show with Jack
-OL,12,G     Saunders
-OL,13,     FShygirl is on the show with a
-OL,14,     Fbrand new track as tonight's
-OL,15,     FHottest Record.
-OL,16,G1930 Radio 1 Live Lounge Late: Vince
-OL,17,G     Staples
-OL,18,     FAmazing performances from Radio
-OL,19,     F1's Live Lounge.
+OL,5,G1745 Newsbeat @ 17:45
+OL,6,     FThe latest news from around the UK
+OL,7,     Fand around the world.
+OL,8,G1800 Radio 1's New Music Show with Jack
+OL,9,G     Saunders
+OL,10,     FShygirl is on the show with a
+OL,11,     Fbrand new track as tonight's
+OL,12,     FHottest Record.
+OL,13,G2000 Radio 1's Rave-Up with Arielle
+OL,14,G     Free
+OL,15,     FArielle raves up your Thursday
+OL,16,     Fnight with Max Styler in the
+OL,17,     FHero's Mix.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100
@@ -28,27 +26,28 @@ PN,20102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1789051700
+OL,0,        ECIMSBWebfax 2   F201A1789058908
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
-OL,5,G2000 Radio 1's Rave-Up with Arielle
-OL,6,G     Free
-OL,7,     FArielle raves up your Thursday
-OL,8,     Fnight with Max Styler in the
-OL,9,     FHero's Mix.
-OL,10,G2200 BBC Introducing on Radio 1 Dance
-OL,11,G     with Jaguar
-OL,12,     FJaguar has a Dancefloor Moment
-OL,13,     Ffrom Jerome Price, plus new music
-OL,14,     Ffrom Flourish & PRVNA, Rebekah
-OL,15,     FAbdeen, Reimond, Charlie Powell,
-OL,16,     FShaolin Cowboy, Tophe & Yuta,
-OL,17,     FLucine and more.
-OL,18,G2300 The Residency on Radio 1 Dance -
-OL,19,G     Paige Tomlinson
-OL,20,     FLose yourself in the sounds that
-OL,21,     Finspire a Paige Tomlinson party!
+OL,5,G2200 BBC Introducing on Radio 1 Dance
+OL,6,G     with Jaguar
+OL,7,     FJaguar has a Dancefloor Moment
+OL,8,     Ffrom Jerome Price, plus new music
+OL,9,     Ffrom Flourish & PRVNA, Rebekah
+OL,10,     FAbdeen, Reimond, Charlie Powell,
+OL,11,     FShaolin Cowboy, Tophe & Yuta,
+OL,12,     FLucine and more.
+OL,13,G2300 The Residency on Radio 1 Dance -
+OL,14,G     Paige Tomlinson
+OL,15,     FLose yourself in the sounds that
+OL,16,     Finspire a Paige Tomlinson party!
+OL,17,G0100 Radio 1's Workout Anthems
+OL,18,     FMotivational tunes to get you
+OL,19,     Fmoving!
+OL,20,G0200 Radio 1 Anthems
+OL,21,     FLauren Redfern brings you iconic
+OL,22,     Fanthem after iconic anthem.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100
@@ -56,24 +55,18 @@ PN,20103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1789051700
+OL,0,        ECIMSBWebfax 2   F201A1789058908
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
-OL,5,G0100 Radio 1's Workout Anthems
-OL,6,     FMotivational tunes to get you
-OL,7,     Fmoving!
-OL,8,G0200 Radio 1 Anthems
-OL,9,     FLauren Redfern brings you iconic
-OL,10,     Fanthem after iconic anthem.
-OL,11,G0400 Radio 1 Early Breakfast with Mylo
-OL,12,G     and Rosie
-OL,13,     FMylo and Rosie are back for the
-OL,14,     Ffinal time this week to make your
-OL,15,     Fmorning a bit brighter. Week one
-OL,16,     Fof their new show almost done and
-OL,17,     Fwe're celebrating it finally being
-OL,18,     FFriday!
+OL,5,G0400 Radio 1 Early Breakfast with Mylo
+OL,6,G     and Rosie
+OL,7,     FMylo and Rosie are back for the
+OL,8,     Ffinal time this week to make your
+OL,9,     Fmorning a bit brighter. Week one
+OL,10,     Fof their new show almost done and
+OL,11,     Fwe're celebrating it finally being
+OL,12,     FFriday!
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100

@@ -2,7 +2,7 @@ PN,23001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F230A1789017574
+OL,0,        ECIMSBWebfax 2   F230A1789058908
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CFriday
@@ -26,7 +26,7 @@ PN,23002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F230A1789017574
+OL,0,        ECIMSBWebfax 2   F230A1789058908
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CFriday
@@ -36,13 +36,13 @@ OL,7,     Fthe weekend with a good-humoured
 OL,8,     Flook at the latest news, sport and
 OL,9,     Fentertainment. Text 85058 (charged
 OL,10,     Fat your standard message rate).
-OL,11,G1300 Matt Chorley
-OL,12,     FMatt Chorley brings you big
-OL,13,     Fpolitical guests, the key news of
-OL,14,     Fthe day, and your views on the
-OL,15,     Fissues that matter to you. Text
-OL,16,     F85058 (charged at your standard
-OL,17,     Fmessage rate).
+OL,11,G1300 September 11th: 25 years on
+OL,12,     FMatt Chorley presents an hour
+OL,13,     Freflecting on the 9/11 terrorist
+OL,14,     Fattacks, 25 years after they
+OL,15,     Fbegan. With guests and live
+OL,16,     Fcoverage of memorials as they get
+OL,17,     Funderway in the US.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,231,200,300,120,0,100
@@ -50,23 +50,24 @@ PN,23003
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F230A1789017574
+OL,0,        ECIMSBWebfax 2   F230A1789058908
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CFriday
-OL,5,G1600 5 Live Drive
-OL,6,     FA round-up of the day's top news
-OL,7,     Fand sport with Clare McDonnell and
-OL,8,     FChris Warburton. Plus interviews
-OL,9,     Fwith people at the centre of the
-OL,10,     Fstories, and regular travel
-OL,11,     Fupdates.
-OL,12,G1900 5 Live Sport
-OL,13,     FDarren Fletcher is joined by Don
-OL,14,     FHutchison, Paul Robinson and Glenn
-OL,15,     FMurray to preview the weekend's
-OL,16,     Ffootball, plus updates from West
-OL,17,     FHam United v Wrexham.
+OL,5,G1400 Matt Chorley
+OL,6,     FMatt Chorley brings you big
+OL,7,     Fpolitical guests, the key news of
+OL,8,     Fthe day, and your views on the
+OL,9,     Fissues that matter to you. Text
+OL,10,     F85058 (charged at your standard
+OL,11,     Fmessage rate).
+OL,12,G1600 5 Live Drive
+OL,13,     FA round-up of the day's top news
+OL,14,     Fand sport with Clare McDonnell and
+OL,15,     FChris Warburton. Plus interviews
+OL,16,     Fwith people at the centre of the
+OL,17,     Fstories, and regular travel
+OL,18,     Fupdates.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,231,200,300,120,0,100
@@ -74,22 +75,28 @@ PN,23004
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F230A1789017574
+OL,0,        ECIMSBWebfax 2   F230A1789058908
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CFriday
-OL,5,G2100 US Open Tennis
-OL,6,     FLive tennis commentary of the
-OL,7,     Fmen's semi-final of the US Open
-OL,8,     Ffrom Flushing Meadows, New York.
-OL,9,     FListen to full match commentary on
-OL,10,     FSports Extra.
-OL,11,G2200 Stephen Nolan
-OL,12,     FThe day's main news stories,
-OL,13,     Ftopical debate and interviews.
-OL,14,     FCall 08085 909693 (calls are free
-OL,15,     Ffrom mobiles and landlines).
-OL,16,     FEmail: nolan@bbc.co.uk.
+OL,5,G1900 5 Live Sport
+OL,6,     FDarren Fletcher is joined by Don
+OL,7,     FHutchison, Paul Robinson and Glenn
+OL,8,     FMurray to preview the weekend's
+OL,9,     Ffootball, plus updates from West
+OL,10,     FHam United v Wrexham.
+OL,11,G2100 US Open Tennis
+OL,12,     FLive tennis commentary of the
+OL,13,     Fmen's semi-final of the US Open
+OL,14,     Ffrom Flushing Meadows, New York.
+OL,15,     FListen to full match commentary on
+OL,16,     FSports Extra.
+OL,17,G2200 Stephen Nolan
+OL,18,     FThe day's main news stories,
+OL,19,     Ftopical debate and interviews.
+OL,20,     FCall 08085 909693 (calls are free
+OL,21,     Ffrom mobiles and landlines).
+OL,22,     FEmail: nolan@bbc.co.uk.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,231,200,300,120,0,100
@@ -97,7 +104,7 @@ PN,23005
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F230A1789017574
+OL,0,        ECIMSBWebfax 2   F230A1789058908
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CFriday
