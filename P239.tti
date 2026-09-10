@@ -2,10 +2,10 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1788972518
+OL,0,        ECIMSBWebfax 2   F239A1789017574
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G0600 Radio Scotland Breakfast
 OL,6,     FNews from across Scotland and the
 OL,7,     Fworld, plus sport, weather,
@@ -18,9 +18,11 @@ OL,13,G1200 Lunchtime Live
 OL,14,     FNews updates from Scotland and
 OL,15,     Fbeyond, plus all your lunchtime
 OL,16,     Fsport, travel and weather.
-OL,17,G1330 Radio Scotland Afternoons
-OL,18,     FThe best music, guests and arts
-OL,19,     Fcoverage.
+OL,17,G1330 The Good, the Bad and the
+OL,18,G     Unexpected
+OL,19,     FThe show where comedians work out
+OL,20,     Fthe good from the bad, with a few
+OL,21,     Funexpected twists.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -28,27 +30,27 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1788972518
+OL,0,        ECIMSBWebfax 2   F239A1789017574
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
-OL,5,G1600 Drivetime
-OL,6,     FBreaking down the day's talking
-OL,7,     Fpoints with comment and opinion,
-OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Get It On with Bryan Burnett
-OL,10,     FIt's the songs that got you from
-OL,11,     Fthe opening line. We knew Ziggy
-OL,12,     Fplayed guitar from the start,
-OL,13,     FQueen asked is this the real life,
-OL,14,     Fand Gloria told us at first I was
-OL,15,     Fpetrified.
-OL,16,G2000 Travelling Folk
-OL,17,     FRobert Robertson and Ross Wilson
-OL,18,     Freflect on ten years of Tide
-OL,19,     FLines, sharing the music and
-OL,20,     Fstories that have shaped them as a
-OL,21,     Fband.
+OL,3,V}yyy5CFriday
+OL,5,G1400 Radio Scotland Afternoons
+OL,6,     FFeel-good music and chat with
+OL,7,     Fcelebrity guests.
+OL,8,G1600 Drivetime
+OL,9,     FBreaking down the day's talking
+OL,10,     Fpoints with comment and opinion,
+OL,11,     Fplus sport, travel and weather.
+OL,12,G1800 Grant Stott's Vinyl Collective
+OL,13,     FNew and classic cuts all played
+OL,14,     Ffrom 7', 12' and vinyl LPs. Grant
+OL,15,     Fshares the treasures from his own
+OL,16,     Fshopping adventures and discovers
+OL,17,     Fthe stories about your record
+OL,18,     Fcollections.
+OL,19,G1900 Sportsound
+OL,20,     FSporting commentary, analysis and
+OL,21,     Fdebate.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -56,22 +58,16 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1788972518
+OL,0,        ECIMSBWebfax 2   F239A1789017574
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
-OL,5,G2200 Up Late
+OL,3,V}yyy5CFriday
+OL,5,G2300 Up Late
 OL,6,     FThe best company to end the day,
 OL,7,     Fwith lively chat and some of your
 OL,8,     Ffavourite tunes.
-OL,9,G0000 Scotcast
-OL,10,     FMartin Geissler and the team bring
-OL,11,     Fyou thoughtful conversation and
-OL,12,     Fexpert analysis covering the most
-OL,13,     Finteresting news stories in
-OL,14,     FScotland.
-OL,15,G0030 As BBC Radio 5 Live
-OL,16,     FJoining Radio 5 Live.
+OL,9,G0000 As BBC Radio 5 Live
+OL,10,     FJoining Radio 5 Live.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
