@@ -2,21 +2,27 @@ PN,20101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1789139968
+OL,0,        ECIMSBWebfax 2   F201A1789145370
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G1600 The Official Chart on Radio 1 with
-OL,6,G     Jack Saunders
-OL,7,     FJack counts down to the UK's
-OL,8,     FOfficial No.1.
-OL,9,G1745 Newsbeat @ 17:45
-OL,10,     FThe latest news from around the UK
-OL,11,     Fand around the world.
-OL,12,G1800 Radio 1's Dance Party with Danny
-OL,13,G     Howard
-OL,14,     FParty your way into the weekend
-OL,15,     Fwith Danny.
+OL,5,G1745 Newsbeat @ 17:45
+OL,6,     FThe latest news from around the UK
+OL,7,     Fand around the world.
+OL,8,G1800 Radio 1's Dance Party with Danny
+OL,9,G     Howard
+OL,10,     FParty your way into the weekend
+OL,11,     Fwith Danny.
+OL,12,G2000 Radio 1's Future Dance with Sarah
+OL,13,G     Story
+OL,14,     FSarah's joined by two of the most
+OL,15,     Fimportant DJs from Leeds, Burnski
+OL,16,     F& Kepler, to play a game of Mr and
+OL,17,     FMr! And there's new music from
+OL,18,     FDutch DJ Prunk as the Future Dance
+OL,19,     FTrack ID.
+OL,20,G2200 Pete Tong
+OL,21,     FWelcome to Global Dance HQ.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100
@@ -24,28 +30,26 @@ PN,20102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1789139968
+OL,0,        ECIMSBWebfax 2   F201A1789145370
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G2000 Radio 1's Future Dance with Sarah
-OL,6,G     Story
-OL,7,     FSarah's joined by two of the most
-OL,8,     Fimportant DJs from Leeds, Burnski
-OL,9,     F& Kepler, to play a game of Mr and
-OL,10,     FMr! And there's new music from
-OL,11,     FDutch DJ Prunk as the Future Dance
-OL,12,     FTrack ID.
-OL,13,G2200 Pete Tong
-OL,14,     FWelcome to Global Dance HQ.
-OL,15,G0000 Radio 1's Essential Mix - Four Tet
-OL,16,G     @ Boomtown 2026
-OL,17,     FFour Tet recorded live on the
-OL,18,     FHydro XL stage at Boomtown in
-OL,19,     FHampshire.
-OL,20,G0130 Pete Tong's Hot Mix
-OL,21,     FKolsch makes a return to the Hot
-OL,22,     FMix and it's scorchio!!
+OL,5,G0000 Radio 1's Essential Mix - Four Tet
+OL,6,G     @ Boomtown 2026
+OL,7,     FFour Tet recorded live on the
+OL,8,     FHydro XL stage at Boomtown in
+OL,9,     FHampshire.
+OL,10,G0130 Pete Tong's Hot Mix
+OL,11,     FKolsch makes a return to the Hot
+OL,12,     FMix and it's scorchio!!
+OL,13,G0200 Danny Howard's Club Mix
+OL,14,     FDanny goes in with another Club
+OL,15,     FMix with tunes from Alex Mills,
+OL,16,     FBeave, TSHA and more!
+OL,17,G0300 Radio 1's Dance Anthems with
+OL,18,G     Charlie Hedges
+OL,19,     FNonstop classic dance anthems with
+OL,20,     FCharlie Hedges.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100
@@ -53,27 +57,19 @@ PN,20103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F201A1789139968
+OL,0,        ECIMSBWebfax 2   F201A1789145370
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G0200 Danny Howard's Club Mix
-OL,6,     FDanny goes in with another Club
-OL,7,     FMix with tunes from Alex Mills,
-OL,8,     FBeave, TSHA and more!
-OL,9,G0300 Radio 1's Dance Anthems with
-OL,10,G     Charlie Hedges
-OL,11,     FNonstop classic dance anthems with
-OL,12,     FCharlie Hedges.
-OL,13,G0400 Radio 1 Dance Party Starters with
-OL,14,G     Charlie Tee
-OL,15,     FCharlie Tee has an almighty
-OL,16,     Fselection of party anthems for
-OL,17,     FRadio 1 Dance!
-OL,18,G0500 Radio 1's Happy Anthems
-OL,19,     FSunshine songs for your soul
-OL,20,     Fincluding Barry Can't Swim, JADE
-OL,21,     Fand Troye Sivan.
+OL,5,G0400 Radio 1 Dance Party Starters with
+OL,6,G     Charlie Tee
+OL,7,     FCharlie Tee has an almighty
+OL,8,     Fselection of party anthems for
+OL,9,     FRadio 1 Dance!
+OL,10,G0500 Radio 1's Happy Anthems
+OL,11,     FSunshine songs for your soul
+OL,12,     Fincluding Barry Can't Swim, JADE
+OL,13,     Fand Troye Sivan.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100
