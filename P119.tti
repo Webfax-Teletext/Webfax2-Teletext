@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AAnthropic boss Dario Amodei calls for
@@ -68,11 +68,9 @@ OL,12,Fsaid developing AI was not in question,
 OL,13,Fbut the risks associated with it were
 OL,14,F"serious" and companies and governments
 OL,15,Fmust be given time to address them.
-OL,17,FAmodei proposed a three-point plan that
-OL,18,Fincludes independent monitoring of AI
-OL,19,Fmodels as they are developed,
-OL,20,Findustry-wide regulation and global
-OL,21,Fregulation.
+OL,17,FThe heads of two rival AI firms, Sam
+OL,18,FAltman of OpenAI and Elon Musk, have
+OL,19,Fboth said they agree with Amodei.
 OL,23,APub: 12-SepQppppppppppppppppppppppG3/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,107,105,200,160,0,100
@@ -80,7 +78,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AAnthropic boss Dario Amodei calls for
@@ -99,7 +97,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ADramatic insider warnings over AI fall
@@ -123,7 +121,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ADramatic insider warnings over AI fall
@@ -145,7 +143,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,APlayStation gambles with 18-rated
@@ -171,7 +169,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,APlayStation gambles with 18-rated
@@ -188,13 +186,13 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G161FWatch live as Last Night of the
-OL,6,FProms brings curtain down on world's
-OL,7,Fbiggest classical music festivalA12-Sep
+OL,5,G161FWatch Last Night of the Proms as
+OL,6,Fclassical music showpiece to pay
+OL,7,Fspecial tribute to Dolly PartonA12-Sep
 OL,8,G
 OL,9,G162FOscar-winning film producer Jeremy
 OL,10,FThomas dies aged 77A12-Sep
@@ -217,26 +215,27 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AWatch live as Last Night of the Proms
-OL,4,Abrings curtain down on world's biggest
-OL,5,Aclassical music festival
+OL,3,AWatch Last Night of the Proms as
+OL,4,Aclassical music showpiece to pay
+OL,5,Aspecial tribute to Dolly Parton
 OL,6,
 OL,7,FIt's the finale of the world's biggest
 OL,8,Fclassical music festival at the Royal
 OL,9,FAlbert Hall in London, watch the Last
 OL,10,FNight of the Proms above
-OL,12,FPianist Yuja Wang and tenor Nicky
-OL,13,FSpence are among performers joining the
-OL,14,FBBC Symphony Orchestra and Chorus and
-OL,15,FBBC Singers, conducted by Sakari Oramo
-OL,16,F- read more about him
-OL,18,FElgar's Pomp and Circumstance, Parry's
-OL,19,FJerusalem and Sargent's Rule Britannia!
-OL,20,Fare among the classic works listed in
-OL,21,Ftonight's programme
+OL,12,FTonight there will be a special tribute
+OL,13,Fto country legend Dolly Parton - who
+OL,14,Fdied last month - starring Sheridan
+OL,15,FSmith, Beverley Knight and Ward Thomas
+OL,17,FSuperstar pianist Yuja Wang is
+OL,18,Fperforming Barber's epic 26-minute
+OL,19,FPiano Concerto on her return to the
+OL,20,FRoyal Albert Hall - it's the first time
+OL,21,Fthe technical masterpiece has been
+OL,22,Fperformed at the Proms
 OL,23,APub: 12-SepQpppppppppppppppppppppG10/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
@@ -244,17 +243,17 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AWatch live as Last Night of the Proms
-OL,4,Abrings curtain down on world's biggest
-OL,5,Aclassical music festival
+OL,3,AWatch Last Night of the Proms as
+OL,4,Aclassical music showpiece to pay
+OL,5,Aspecial tribute to Dolly Parton
 OL,6,
-OL,7,FThere will also be a tribute to country
-OL,8,Flegend Dolly Parton - who died last
-OL,9,Fmonth - starring Sheridan Smith,
-OL,10,FBeverley Knight and Ward Thomas
+OL,7,FScottish tenor Nicky Spence's rendition
+OL,8,Fof Rusalka is a "triumph of trumpets
+OL,9,Fand drums", writes our reporter at the
+OL,10,FRoyal Albert Hall
 OL,23,APub: 12-SepQpppppppppppppppppppppG11/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
@@ -262,7 +261,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AOscar-winning film producer Jeremy
@@ -290,13 +289,13 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AOscar-winning film producer Jeremy
 OL,4,AThomas dies aged 77
 OL,5,
-OL,6,FHis best known work, Bernardo
+OL,6,FHis best known film, Bernardo
 OL,7,FBertolucci's The Last Emperor, won nine
 OL,8,FAcademy Awards, including best picture,
 OL,9,Fand earned Thomas an Oscar as producer
@@ -308,7 +307,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AFive minutes to steal a Renoir: Why
@@ -331,7 +330,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AFive minutes to steal a Renoir: Why
@@ -357,7 +356,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CSaturday
@@ -380,7 +379,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CSaturday
@@ -403,7 +402,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSaturday
@@ -432,7 +431,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789240728
+OL,0,        ECIMSBWebfax 2   F119A1789241050
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
