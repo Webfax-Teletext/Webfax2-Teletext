@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AAnthropic boss Dario Amodei calls for
@@ -78,7 +78,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AAnthropic boss Dario Amodei calls for
@@ -99,7 +99,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,APlayStation gambles with 18-rated
@@ -125,7 +125,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,APlayStation gambles with 18-rated
@@ -142,7 +142,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK government rejects 'kill switch'
@@ -169,7 +169,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK government rejects 'kill switch'
@@ -186,13 +186,13 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G161FWatch live as Last Night of the
-OL,6,FProms pays tribute to Dolly Parton with
-OL,7,Fmedley of her biggest hitsA12-Sep
+OL,5,G161FLast Night of the Proms pays
+OL,6,Ftribute to Dolly Parton as classical
+OL,7,Fmusic showpiece draws to a closeA12-Sep
 OL,8,G
 OL,9,G162FOscar-winning film producer Jeremy
 OL,10,FThomas dies aged 77A12-Sep
@@ -215,12 +215,12 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AWatch live as Last Night of the Proms
-OL,4,Apays tribute to Dolly Parton with
-OL,5,Amedley of her biggest hits
+OL,3,ALast Night of the Proms pays tribute to
+OL,4,ADolly Parton as classical music
+OL,5,Ashowpiece draws to a close
 OL,6,
 OL,7,FSheridan Smith, Beverley Knight and
 OL,8,FWard Thomas pay tribute to Dolly Parton
@@ -240,18 +240,23 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AWatch live as Last Night of the Proms
-OL,4,Apays tribute to Dolly Parton with
-OL,5,Amedley of her biggest hits
+OL,3,ALast Night of the Proms pays tribute to
+OL,4,ADolly Parton as classical music
+OL,5,Ashowpiece draws to a close
 OL,6,
-OL,7,FSuperstar pianist Yuja Wang performs
-OL,8,FBarber's epic 26-minute Piano Concerto
-OL,9,Fon her return to this venue - it's the
-OL,10,Ffirst time the technical masterpiece
-OL,11,Fhas been performed at the Proms
+OL,7,FScottish tenor Nicky Spence gets the
+OL,8,Fcrowd "roaring with laughter" as he
+OL,9,Fpays many tributes to Scotland - and
+OL,10,Fhis costume changes are equally
+OL,11,Fimpressive
+OL,13,FSuperstar pianist Yuja Wang performs
+OL,14,FBarber's epic 26-minute Piano Concerto
+OL,15,Fon her return to this venue - it's the
+OL,16,Ffirst time the technical masterpiece
+OL,17,Fhas been performed at the Proms
 OL,23,APub: 12-SepQpppppppppppppppppppppG11/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
@@ -259,7 +264,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AOscar-winning film producer Jeremy
@@ -287,7 +292,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AOscar-winning film producer Jeremy
@@ -305,7 +310,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AGrammy-winning US rapper Lil Durk
@@ -332,7 +337,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AGrammy-winning US rapper Lil Durk
@@ -350,7 +355,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CSaturday
@@ -379,7 +384,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CSaturday
@@ -404,7 +409,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSaturday
@@ -433,7 +438,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1789248252
+OL,0,        ECIMSBWebfax 2   F119A1789250050
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
