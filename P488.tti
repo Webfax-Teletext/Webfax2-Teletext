@@ -2,25 +2,28 @@ PN,48801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1789159784
+OL,0,        ECIMSBWebfax 2   F488A1789190465
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0730 Beal Maidine
+OL,3,V}yyy5CSunday
+OL,5,G0800 Beal Maidine
 OL,6,     FClar ceoil a chur i lathair ag
-OL,7,     FCaoimhin O Se.
-OL,8,G0900 Rogha na Seachtaine
-OL,9,     FSuil siar ar scothchraoladh na
-OL,10,     Fseachtaine le Jo Ni Cheide.
-OL,11,G1000 Cas Ceirnin
-OL,12,     FCeol agus iarratais, a chur i
-OL,13,     Flathair ag Padraig O Braonain.
-OL,14,G1100 An tSeachtain le Mairin Ni Ghadhra
-OL,15,     FClar seachtainiuil, a riomhfaidh
-OL,16,     Fscealta na seachtaine: nuacht,
-OL,17,     Fpolaitiocht, cursai reatha go
-OL,18,     Fhaitiuil, go naisiunta agus ar fud
-OL,19,     Fna cruinne, le Mairin Ni Ghadhra
+OL,7,     FNeansai Ni Choisdealbha.
+OL,8,G1000 Priomhscealta na Nuachta agus na
+OL,9,G     Gaeltachta
+OL,10,     FPriomhscealta na Nuachta agus na
+OL,11,     FGaeltachta.
+OL,12,G1008 Cartlann Bhothar na Leinsi
+OL,13,     FGlortha o chartlann Bhothar na
+OL,14,     FLeinsi idir chaint, cheol, spoirt,
+OL,15,     Ffiliocht, leachtai agus go leor
+OL,16,     Feile.
+OL,17,G1040 Focal ar Fhocal
+OL,18,     FAn t-iar chraoltoir Mairtin
+OL,19,     FJaimsie O Flaithearta a leigh on
+OL,20,     Fleabhar 'I mBeal na Farraige' don
+OL,21,     Fsraith 'Focal ar Fhocal' a
+OL,22,     Fcraoladh ar dtus i 1999.
 OL,23,VppppppppppppppppppppppppppppppppppG1/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -28,28 +31,25 @@ PN,48802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1789159784
+OL,0,        ECIMSBWebfax 2   F488A1789190465
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G1200 Priomhscealta na Nuachta agus na
-OL,6,G     Gaeltachta
-OL,7,     FPriomhscealta na Nuachta agus na
-OL,8,     FGaeltachta.
-OL,9,G1208 Togha agus Rogha
-OL,10,     FCeol agus iarratais a chur i
-OL,11,     Flathair ag Dara O Cinneide, beo o
-OL,12,     Fstiuideo Bhaile na nGall i gContae
-OL,13,     FChiarrai.
-OL,14,G1300 Nuacht a hAon
-OL,15,     FAn barr is deireanai nuachta
-OL,16,     Fnaisiunta, idirnaisiunta agus
-OL,17,     Faitiuil.
-OL,18,G1320 Togha agus Rogha
-OL,19,     FCeol agus iarratais a chur i
-OL,20,     Flathair ag Dara O Cinneide, beo o
-OL,21,     Fstiuideo Bhaile na nGall i gContae
-OL,22,     FChiarrai.
+OL,3,V}yyy5CSunday
+OL,5,G1100 Aifreann an Domhnaigh
+OL,6,     FAifreann an Domhnaigh beo o
+OL,7,     FSheipeal Cill Einde, Spideal, Co.
+OL,8,     Fna Gaillimhe.
+OL,9,G1145 Togha agus Rogha
+OL,10,     FClar iarratais cheoil agus amhrain
+OL,11,     Fa chur i lathair beo o stiuideo
+OL,12,     FChasla gach maidin Domhnaigh.
+OL,13,G1300 Nuacht a hAon
+OL,14,     FAn barr is deireanai nuachta
+OL,15,     Fnaisiunta, idirnaisiunta agus
+OL,16,     Faitiuil.
+OL,17,G1325 Sport an Lae
+OL,18,     FTuairisci, torthai agus anailis ar
+OL,19,     Fchursai spoirt an lae.
 OL,23,VppppppppppppppppppppppppppppppppppG2/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -57,25 +57,24 @@ PN,48803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1789159784
+OL,0,        ECIMSBWebfax 2   F488A1789190465
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G1400 Sport an tSathairn
-OL,6,     FFaisneis, tuairisci, torthai,
-OL,7,     Fanailis agus trachtaireacht ar
-OL,8,     Fchursai spoirt an tSathairn.
-OL,9,G1830 Blas
-OL,10,     FScealta beaga agus mora phobal na
-OL,11,     FGaeilge ar fud an tuaiscirt.
-OL,12,     FLeiriu de chuid BBC Gaeilge
-OL,13,G1900 An Cuinne Ceoil
-OL,14,     FClar ceoil a chur i lathair ag
-OL,15,     FTristan Rosenstock.
-OL,16,G1930 Feasta Ceoil an Spideil
-OL,17,     FTaifeadadh an sraith
-OL,18,     Fceolchoirmeacha seo beo i Stiuideo
-OL,19,     FCuan, An Spideal Co. na Gaillimhe.
+OL,3,V}yyy5CSunday
+OL,5,G1830 An Cuinne Dana
+OL,6,     FSpleachadh ar na healaiona le
+OL,7,     FTristan Rosenstock, idir
+OL,8,     Fdhramaiocht, litriocht, scannain
+OL,9,     Fis ceol. Agallaimh le
+OL,10,     Fmorealaiontoiri na tire,
+OL,11,     Fleirmheasanna, agus go leor eile.
+OL,12,G1900 Eist le Seo
+OL,13,     FClar ceol agus amhrain Ultacha a
+OL,14,     Fchur i lathair ag Brian Danny
+OL,15,     FMinnie O Domhnaill.
+OL,16,G2000 An Braon Gaelach
+OL,17,     FClar ceoil a chur i lathair ag
+OL,18,     FNicole Ni Dhubhshlaine.
 OL,23,VppppppppppppppppppppppppppppppppppG3/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -83,14 +82,19 @@ PN,48804
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1789159784
+OL,0,        ECIMSBWebfax 2   F488A1789190465
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G2100 Rianta
-OL,6,     FClar ceoil ar linne, ceol na
-OL,7,     Fcruinne, ceolta nua agus ceolta
-OL,8,     Fnios sine.
+OL,3,V}yyy5CSunday
+OL,5,G2100 Tequila Tire
+OL,6,     FSa tsraith seo cloistear an chuid
+OL,7,     Fis fearr de cheol tire, as Eirinn,
+OL,8,     FMeiricea, Ceanada, an Bhreatain
+OL,9,     Fagus nios faide o bhaile.
+OL,10,G2300 Siulach Scealach
+OL,11,     FSeanchas, scealaiocht agus leargas
+OL,12,     Far oidhreacht na Gaeilge ar Radio
+OL,13,     FEireann on chead la anall.
 OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
