@@ -2,24 +2,25 @@ PN,20301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1789278494
+OL,0,        ECIMSBWebfax 2   F203A1789287594
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G0630 Breakfast
-OL,6,     FMark Forrest presents Radio 3's
-OL,7,     FBreakfast show. To get in touch,
-OL,8,     Femail 3breakfast@bbc.co.uk.
-OL,9,G0900 Sunday Morning
-OL,10,     FSarah Walker with the perfect
-OL,11,     Fplaylist to accompany your Sunday
-OL,12,     Fmorning, and a chance to reflect
-OL,13,     Fon another joyous season of the
-OL,14,     FBBC Proms coming to a close.
-OL,15,G1200 Private Passions
-OL,16,     FMichael Berkeley's guest is the
-OL,17,     FBBC's chief international
-OL,18,     Fcorrespondent, Lyse Doucet.
+OL,5,G0900 Sunday Morning
+OL,6,     FSarah Walker with the perfect
+OL,7,     Fplaylist to accompany your Sunday
+OL,8,     Fmorning, and a chance to reflect
+OL,9,     Fon another joyous season of the
+OL,10,     FBBC Proms coming to a close.
+OL,11,G1200 Private Passions
+OL,12,     FMichael Berkeley's guest is the
+OL,13,     FBBC's chief international
+OL,14,     Fcorrespondent, Lyse Doucet.
+OL,15,G1330 Music Map
+OL,16,     FSara Mohr-Pietsch maps a musical
+OL,17,     Froute to Ralph Vaughan Williams'
+OL,18,     Forchestral setting of the English
+OL,19,     Ffolk song Dives and Lazarus.
 OL,23,VppppppppppppppppppppppppppppppppppG1/6
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -27,22 +28,24 @@ PN,20302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1789278494
+OL,0,        ECIMSBWebfax 2   F203A1789287594
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G1330 Music Map
-OL,6,     FSara Mohr-Pietsch maps a musical
-OL,7,     Froute to Ralph Vaughan Williams'
-OL,8,     Forchestral setting of the English
-OL,9,     Ffolk song Dives and Lazarus.
-OL,10,G1500 Music Matters: Arranging the Air
-OL,11,     FMartin Handley continues his
-OL,12,     Ffour-part series aiming to
-OL,13,     Fdemystify the role of the
-OL,14,     Fconductor. Today, he finds out how
-OL,15,     Fyoung conductors learn the trade
-OL,16,     Fand how they learn a score.
+OL,5,G1500 Music Matters: Arranging the Air
+OL,6,     FMartin Handley continues his
+OL,7,     Ffour-part series aiming to
+OL,8,     Fdemystify the role of the
+OL,9,     Fconductor. Today, he finds out how
+OL,10,     Fyoung conductors learn the trade
+OL,11,     Fand how they learn a score.
+OL,12,G1600 Jazz Record Requests
+OL,13,     FAlyn Shipton presents jazz records
+OL,14,     Fof all styles as requested by you,
+OL,15,     Fincluding Oscar Peterson, The
+OL,16,     FSwingle Sisters, Cleo Laine and a
+OL,17,     FBeatles classic from guitarist
+OL,18,     FJeff Beck.
 OL,23,VppppppppppppppppppppppppppppppppppG2/6
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -50,28 +53,21 @@ PN,20303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1789278494
+OL,0,        ECIMSBWebfax 2   F203A1789287594
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G1600 Jazz Record Requests
-OL,6,     FAlyn Shipton presents jazz records
-OL,7,     Fof all styles as requested by you,
-OL,8,     Fincluding Oscar Peterson, The
-OL,9,     FSwingle Sisters, Cleo Laine and a
-OL,10,     FBeatles classic from guitarist
-OL,11,     FJeff Beck.
-OL,12,G1700 The Early Music Show
-OL,13,     FHannah French looks at the life
-OL,14,     Fand legacy of an extraordinary
-OL,15,     F16th-century polymath, Edward
-OL,16,     FHerbert, Lord Herbert of Cherbury.
-OL,17,G1800 Choral Evensong
-OL,18,     FA Service of Thanksgiving and
-OL,19,     FCelebration for the 2026 BBC
-OL,20,     FProms, live from Holy Sepulchre,
-OL,21,     FLondon, the National Musicians'
-OL,22,     FChurch.
+OL,5,G1700 The Early Music Show
+OL,6,     FHannah French looks at the life
+OL,7,     Fand legacy of an extraordinary
+OL,8,     F16th-century polymath, Edward
+OL,9,     FHerbert, Lord Herbert of Cherbury.
+OL,10,G1800 Choral Evensong
+OL,11,     FA Service of Thanksgiving and
+OL,12,     FCelebration for the 2026 BBC
+OL,13,     FProms, live from Holy Sepulchre,
+OL,14,     FLondon, the National Musicians'
+OL,15,     FChurch.
 OL,23,VppppppppppppppppppppppppppppppppppG3/6
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -79,7 +75,7 @@ PN,20304
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1789278494
+OL,0,        ECIMSBWebfax 2   F203A1789287594
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSunday
@@ -106,7 +102,7 @@ PN,20305
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1789278494
+OL,0,        ECIMSBWebfax 2   F203A1789287594
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSunday
@@ -131,7 +127,7 @@ PN,20306
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1789278494
+OL,0,        ECIMSBWebfax 2   F203A1789287594
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSunday
