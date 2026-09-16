@@ -2,26 +2,23 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789517937
+OL,0,        ECIMSBWebfax 2   F211A1789519691
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0106 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0130 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0132 The Global Story
-OL,12,     FIn Canada's wealthiest province
-OL,13,     FAlberta, voters are deciding
-OL,14,     Fwhether to become independent.
-OL,15,G0200 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0206 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
+OL,5,G0132 The Global Story
+OL,6,     FIn Canada's wealthiest province
+OL,7,     FAlberta, voters are deciding
+OL,8,     Fwhether to become independent.
+OL,9,G0200 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0206 The Newsroom
+OL,13,     FThe world's Newsroom brings you
+OL,14,     Fglobal events as they happen.
+OL,15,G0230 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG1/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -29,23 +26,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789517937
+OL,0,        ECIMSBWebfax 2   F211A1789519691
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0230 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0232 The Climate Question
-OL,9,     FBeijing is investing trillions of
-OL,10,     Fdollars in clean energy as well as
-OL,11,     Fbuilding huge dams and bridges and
-OL,12,     Fa vast high-speed train network.
-OL,13,     FWill that help China fight climate
-OL,14,     Fchange?
-OL,15,G0300 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,5,G0232 The Climate Question
+OL,6,     FBeijing is investing trillions of
+OL,7,     Fdollars in clean energy as well as
+OL,8,     Fbuilding huge dams and bridges and
+OL,9,     Fa vast high-speed train network.
+OL,10,     FWill that help China fight climate
+OL,11,     Fchange?
+OL,12,G0300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0306 Outlook
+OL,16,     FTalented chef Natty found his
+OL,17,     Fcalling in London's fine dining
+OL,18,     Fkitchens. But when drug dealing
+OL,19,     Fled to jail time, he'd have to
+OL,20,     Fchoose between crime and cooking.
 OL,23,VppppppppppppppppppppppppppppppppppG2/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -53,28 +53,25 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789517937
+OL,0,        ECIMSBWebfax 2   F211A1789519691
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0306 Outlook
-OL,6,     FTalented chef Natty found his
-OL,7,     Fcalling in London's fine dining
-OL,8,     Fkitchens. But when drug dealing
-OL,9,     Fled to jail time, he'd have to
-OL,10,     Fchoose between crime and cooking.
-OL,11,G0350 Witness History
-OL,12,     FIn 1991, Iranian-born engineer
-OL,13,     FRouzbeh Yassini, created a
-OL,14,     Ftechnology which enabled millions
-OL,15,     Fof homes across America to access
-OL,16,     Fthe internet for the first time.
-OL,17,G0400 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G0406 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,5,G0350 Witness History
+OL,6,     FIn 1991, Iranian-born engineer
+OL,7,     FRouzbeh Yassini, created a
+OL,8,     Ftechnology which enabled millions
+OL,9,     Fof homes across America to access
+OL,10,     Fthe internet for the first time.
+OL,11,G0400 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0406 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0430 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG3/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -82,23 +79,20 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789517937
+OL,0,        ECIMSBWebfax 2   F211A1789519691
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 The Documentary
-OL,9,     FIn the chaos after the Syrian
-OL,10,     Fregime's downfall, the hunt for
-OL,11,     FAustin Tice is on.
-OL,12,G0500 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G0506 Newsday
-OL,16,     FLive news, business and sport from
-OL,17,     Faround the world.
+OL,5,G0432 The Documentary
+OL,6,     FIn the chaos after the Syrian
+OL,7,     Fregime's downfall, the hunt for
+OL,8,     FAustin Tice is on.
+OL,9,G0500 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0506 Newsday
+OL,13,     FLive news, business and sport from
+OL,14,     Faround the world.
 OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
