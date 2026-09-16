@@ -2,25 +2,25 @@ PN,46301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1789561233
+OL,0,        ECIMSBWebfax 2   F463A1789564735
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CWednesday
-OL,5,G1300 Nuacht a hAon
-OL,6,     FAn barr is deireanai nuachta
-OL,7,     Fnaisiunta, idirnaisiunta agus
-OL,8,     Faitiuil.
-OL,9,G1400 Tuairisc Spoirt
-OL,10,     FTuairisc Spoirt.
-OL,11,G1405 Cartlann Bhothar na Leinsi
-OL,12,     FGlortha o chartlann Bhothar na
-OL,13,     FLeinsi idir chaint, cheol, spoirt,
-OL,14,     Ffiliocht, leachtai agus go leor
-OL,15,     Feile.
-OL,16,G1430 Coisir Cheoil
-OL,17,     FClar ceoil a chur i lathair ag
-OL,18,     FDonall Mac Ruairi o stiuideo na
-OL,19,     FnDoiri Beaga, i nDun na nGall.
+OL,5,G1405 Cartlann Bhothar na Leinsi
+OL,6,     FGlortha o chartlann Bhothar na
+OL,7,     FLeinsi idir chaint, cheol, spoirt,
+OL,8,     Ffiliocht, leachtai agus go leor
+OL,9,     Feile.
+OL,10,G1430 Coisir Cheoil
+OL,11,     FClar ceoil a chur i lathair ag
+OL,12,     FDonall Mac Ruairi o stiuideo na
+OL,13,     FnDoiri Beaga, i nDun na nGall.
+OL,14,G1700 Tus Aite
+OL,15,     FClar cursai reatha agus nuachta a
+OL,16,     Fchur i lathair ag Fachtna O
+OL,17,     FDrisceoil.
+OL,18,G1755 Tuairisc Spoirt
+OL,19,     FTuairisc Spoirt.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -28,23 +28,24 @@ PN,46302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1789561233
+OL,0,        ECIMSBWebfax 2   F463A1789564735
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CWednesday
-OL,5,G1700 Tus Aite
-OL,6,     FClar cursai reatha agus nuachta a
-OL,7,     Fchur i lathair ag Fachtna O
-OL,8,     FDrisceoil.
-OL,9,G1755 Tuairisc Spoirt
-OL,10,     FTuairisc Spoirt.
-OL,11,G1800 Nuacht a Se
-OL,12,     FAn barr is deireanai nuachta
-OL,13,     Fnaisiunta, idirnaisiunta agus
-OL,14,     Faitiuil.
-OL,15,G1830 Fograi an Lae
-OL,16,     FImeachtai agus fograi na
-OL,17,     FGaeltachta.
+OL,5,G1800 Nuacht a Se
+OL,6,     FAn barr is deireanai nuachta
+OL,7,     Fnaisiunta, idirnaisiunta agus
+OL,8,     Faitiuil.
+OL,9,G1830 Fograi an Lae
+OL,10,     FImeachtai agus fograi na
+OL,11,     FGaeltachta.
+OL,12,G1900 Ceol Binn o na Beanna
+OL,13,     FBeidh feasta ceoil o Chuige
+OL,14,     FChonnacht le cloisteail san
+OL,15,     FgCeolchoirm cheiliurtha ar
+OL,16,     FChomhaltas Ceoiltoiri Eireann 75
+OL,17,     Fda chraoladh beo o Ionad Mhichael
+OL,18,     FColeman, Co Shligigh.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -52,25 +53,18 @@ PN,46303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1789561233
+OL,0,        ECIMSBWebfax 2   F463A1789564735
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CWednesday
-OL,5,G1900 Ceol Binn o na Beanna
-OL,6,     FBeidh feasta ceoil o Chuige
-OL,7,     FChonnacht le cloisteail san
-OL,8,     FgCeolchoirm cheiliurtha ar
-OL,9,     FChomhaltas Ceoiltoiri Eireann 75
-OL,10,     Fda chraoladh beo o Ionad Mhichael
-OL,11,     FColeman, Co Shligigh.
-OL,12,G2100 Ri-Ra ar RnaG
-OL,13,     FCeol agus amhrain o na cairteanna,
-OL,14,     Far Ri-Ra ar RnaG, ag cur tus
-OL,15,     Fbriomhar le craoladh Anocht FM i
-OL,16,     Frith na seachtaine.
-OL,17,G2200 An Taobh Tuathail
-OL,18,     FCeol nua eagsuil do chach, a chur
-OL,19,     Fi lathair ag Cian O Ciobhain.
+OL,5,G2100 Ri-Ra ar RnaG
+OL,6,     FCeol agus amhrain o na cairteanna,
+OL,7,     Far Ri-Ra ar RnaG, ag cur tus
+OL,8,     Fbriomhar le craoladh Anocht FM i
+OL,9,     Frith na seachtaine.
+OL,10,G2200 An Taobh Tuathail
+OL,11,     FCeol nua eagsuil do chach, a chur
+OL,12,     Fi lathair ag Cian O Ciobhain.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
