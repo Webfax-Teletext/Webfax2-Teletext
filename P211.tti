@@ -2,25 +2,24 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789674498
+OL,0,        ECIMSBWebfax 2   F211A1789676303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
-OL,5,G2032 BBC Inside Science
-OL,6,     FAre two AI brains better than one?
-OL,7,     FThe UK and US link their AI forces
-OL,8,     Fhelp finally solve nuclear fusion
-OL,9,     Fand model the complex plasma
-OL,10,     Fneeded.
-OL,11,G2100 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G2106 Newshour
-OL,15,     FInterviews, news and analysis of
-OL,16,     Fthe day's global events.
-OL,17,G2200 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
+OL,5,G2106 Newshour
+OL,6,     FInterviews, news and analysis of
+OL,7,     Fthe day's global events.
+OL,8,G2200 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G2206 The Inquiry
+OL,12,     FChina is realising their arctic
+OL,13,     Fambitions by navigating hostile
+OL,14,     Fwaters on new trade journeys to
+OL,15,     FEurope.
+OL,16,G2230 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG1/8
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -28,28 +27,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789674498
+OL,0,        ECIMSBWebfax 2   F211A1789676303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
-OL,5,G2206 The Inquiry
-OL,6,     FChina is realising their arctic
-OL,7,     Fambitions by navigating hostile
-OL,8,     Fwaters on new trade journeys to
-OL,9,     FEurope.
-OL,10,G2230 BBC News Summary
-OL,11,     FThe latest two minute news summary
-OL,12,     Ffrom BBC World Service.
-OL,13,G2232 The Food Chain
-OL,14,     FRuth Alexander learns where in the
-OL,15,     Fworld a nutritious diet costs the
-OL,16,     Fmost, why cooking from scratch is
-OL,17,     Fnot always possible and how to
-OL,18,     Fmake the healthiest choices for
-OL,19,     Fyour budget.
-OL,20,G2300 BBC News
-OL,21,     FThe latest five minute news
-OL,22,     Fbulletin from BBC World Service.
+OL,5,G2232 The Food Chain
+OL,6,     FRuth Alexander learns where in the
+OL,7,     Fworld a nutritious diet costs the
+OL,8,     Fmost, why cooking from scratch is
+OL,9,     Fnot always possible and how to
+OL,10,     Fmake the healthiest choices for
+OL,11,     Fyour budget.
+OL,12,G2300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G2306 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G2330 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/8
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -57,27 +54,24 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789674498
+OL,0,        ECIMSBWebfax 2   F211A1789676303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
-OL,5,G2306 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G2330 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G2332 World Business Report
-OL,12,     FThe latest business and finance
-OL,13,     Fnews from around the world, on the
-OL,14,     FBBC.
-OL,15,G0000 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0006 The Explanation
-OL,19,     FThe impact of social media on the
-OL,20,     Fright of reply and the battle for
-OL,21,     FTV remote buttons.
+OL,5,G2332 World Business Report
+OL,6,     FThe latest business and finance
+OL,7,     Fnews from around the world, on the
+OL,8,     FBBC.
+OL,9,G0000 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0006 The Explanation
+OL,13,     FThe impact of social media on the
+OL,14,     Fright of reply and the battle for
+OL,15,     FTV remote buttons.
+OL,16,G0030 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG3/8
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -85,26 +79,26 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789674498
+OL,0,        ECIMSBWebfax 2   F211A1789676303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
-OL,5,G0030 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0032 Unspun World with John Simpson
-OL,9,     FJohn Simpson analyses the impact
-OL,10,     Fof the latest outbreak of
-OL,11,     Fhostilities in Yemen, and examines
-OL,12,     Fwhether there is any hope for a
-OL,13,     FPalestinian state in the Middle
-OL,14,     FEast.
-OL,15,G0100 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0106 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
+OL,5,G0032 Unspun World with John Simpson
+OL,6,     FJohn Simpson analyses the impact
+OL,7,     Fof the latest outbreak of
+OL,8,     Fhostilities in Yemen, and examines
+OL,9,     Fwhether there is any hope for a
+OL,10,     FPalestinian state in the Middle
+OL,11,     FEast.
+OL,12,G0100 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0106 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0130 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG4/8
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -112,25 +106,22 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789674498
+OL,0,        ECIMSBWebfax 2   F211A1789676303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
-OL,5,G0130 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0132 The Global Story
-OL,9,     FHow the war in Gaza became a
-OL,10,     Fdividing line for pop stars.
-OL,11,G0200 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0206 The Newsroom
-OL,15,     FThe world's Newsroom brings you
-OL,16,     Fglobal events as they happen.
-OL,17,G0230 BBC News Summary
-OL,18,     FThe latest two minute news summary
-OL,19,     Ffrom BBC World Service.
+OL,5,G0132 The Global Story
+OL,6,     FHow the war in Gaza became a
+OL,7,     Fdividing line for pop stars.
+OL,8,G0200 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G0206 The Newsroom
+OL,12,     FThe world's Newsroom brings you
+OL,13,     Fglobal events as they happen.
+OL,14,G0230 BBC News Summary
+OL,15,     FThe latest two minute news summary
+OL,16,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG5/8
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -138,7 +129,7 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789674498
+OL,0,        ECIMSBWebfax 2   F211A1789676303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
@@ -164,7 +155,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789674498
+OL,0,        ECIMSBWebfax 2   F211A1789676303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
@@ -190,7 +181,7 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1789674498
+OL,0,        ECIMSBWebfax 2   F211A1789676303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CThursday
