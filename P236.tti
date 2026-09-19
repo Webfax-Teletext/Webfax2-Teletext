@@ -2,10 +2,10 @@ PN,23601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G0600 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
@@ -31,27 +31,23 @@ PN,23602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G0900 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
-OL,8,G0906 BBC Conversations
-OL,9,     FSharing experiences of tech
-OL,10,     Faddiction and "weirdness" on
-OL,11,     Fsmartphones.
-OL,12,G0930 BBC News Summary
-OL,13,     FThe latest two minute news summary
-OL,14,     Ffrom BBC World Service.
-OL,15,G0932 Americast
-OL,16,     FJoin Americast for insights and
-OL,17,     Fanalysis on what's happening
-OL,18,     Finside Trump's White House.
-OL,19,G1000 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,8,G0906 From Our Own Correspondent
+OL,9,     FWhat Pyongyang gains from helping
+OL,10,     FMoscow in Ukraine; the Houthis
+OL,11,     Fadvance again in Yemen; a tech
+OL,12,     Fbacklash against Flock cameras in
+OL,13,     Fthe USA; a Dutch drug lord in
+OL,14,     FSierra Leone.
+OL,15,G0930 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -59,26 +55,27 @@ PN,23603
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G1006 Not by the Playbook
-OL,6,     FWhat drives people to attempt
-OL,7,     Fchallenges like row across the
-OL,8,     FPacific or run back and forth
-OL,9,     Facross America? The ocean rowing
-OL,10,     FMaclean brothers and the real life
-OL,11,     FForest Gump explain.
-OL,12,G1100 BBC News
+OL,3,V}yyy5CSunday
+OL,5,G0932 The Food Chain
+OL,6,     FRuth Alexander learns where in the
+OL,7,     Fworld a nutritious diet costs the
+OL,8,     Fmost, why cooking from scratch is
+OL,9,     Fnot always possible and how to
+OL,10,     Fmake the healthiest choices for
+OL,11,     Fyour budget.
+OL,12,G1000 BBC News
 OL,13,     FThe latest five minute news
 OL,14,     Fbulletin from BBC World Service.
-OL,15,G1106 The Newsroom
-OL,16,     FThe world's Newsroom brings you
-OL,17,     Fglobal events as they happen.
-OL,18,G1130 BBC News Summary
-OL,19,     FThe latest two minute news summary
-OL,20,     Ffrom BBC World Service.
+OL,15,G1006 People Fixing The World
+OL,16,     FWe look at two solutions that
+OL,17,     Fharness the power of pictures to
+OL,18,     Fhelp disabled people.
+OL,19,G1030 BBC News Summary
+OL,20,     FThe latest two minute news summary
+OL,21,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG3/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -86,27 +83,23 @@ PN,23604
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G1132 Unspun World with John Simpson
-OL,6,     FJohn Simpson analyses the impact
-OL,7,     Fof the latest outbreak of
-OL,8,     Fhostilities in Yemen, and examines
-OL,9,     Fwhether there is any hope for a
-OL,10,     FPalestinian state in the Middle
-OL,11,     FEast.
-OL,12,G1200 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G1206 In Our Time
-OL,16,     FThe origins and lasting influences
-OL,17,     Fof the study of communication in
-OL,18,     Fanimals and machines.
-OL,19,G1300 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,3,V}yyy5CSunday
+OL,5,G1032 The Fifth Floor
+OL,6,     FHow one Bangkok restaurant has
+OL,7,     Fkept its sought-after soup
+OL,8,     Fbubbling for 50 years.
+OL,9,G1100 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G1106 The Newsroom
+OL,13,     FThe world's Newsroom brings you
+OL,14,     Fglobal events as they happen.
+OL,15,G1130 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG4/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -114,26 +107,27 @@ PN,23605
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G1306 Newshour
-OL,6,     FInterviews, news and analysis of
-OL,7,     Fthe day's global events.
-OL,8,G1400 BBC News
-OL,9,     FThe latest five minute news
-OL,10,     Fbulletin from BBC World Service.
-OL,11,G1406 Sportsworld
-OL,12,     FLive sport from around the world
-OL,13,     Fwith news, interviews and
-OL,14,     Fanalysis.
-OL,15,G1800 BBC News
+OL,3,V}yyy5CSunday
+OL,5,G1132 Dear Daughter
+OL,6,     FIn South Sudan, Marco explains why
+OL,7,     Feducating his four daughters
+OL,8,     Fmatters deeply to him, a belief
+OL,9,     Fshaped by his mother who risked
+OL,10,     Feverything to keep him in school.
+OL,11,G1150 More or Less
+OL,12,     FHave crops lost nutrients since
+OL,13,     Fthe 1950s? We dig into the
+OL,14,     Fevidence.
+OL,15,G1200 BBC News
 OL,16,     FThe latest five minute news
 OL,17,     Fbulletin from BBC World Service.
-OL,18,G1806 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
+OL,18,G1206 BBC Conversations
+OL,19,     FSharing experiences of tech
+OL,20,     Faddiction and "weirdness" on
+OL,21,     Fsmartphones.
 OL,23,VppppppppppppppppppppppppppppppppppG5/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -141,24 +135,24 @@ PN,23606
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G1830 BBC News Summary
+OL,3,V}yyy5CSunday
+OL,5,G1230 BBC News Summary
 OL,6,     FThe latest two minute news summary
 OL,7,     Ffrom BBC World Service.
-OL,8,G1832 Dear Daughter
-OL,9,     FIn South Sudan, Marco explains why
-OL,10,     Feducating his four daughters
-OL,11,     Fmatters deeply to him, a belief
-OL,12,     Fshaped by his mother who risked
-OL,13,     Feverything to keep him in school.
-OL,14,G1850 Sporting Witness
-OL,15,     FTrischa Zorn-Hudson was born blind
-OL,16,     Fand has won 55 medals across seven
-OL,17,     FParalympics.
-OL,18,G1900 BBC News
+OL,8,G1232 Assignment
+OL,9,     FFrom jailed mayors to comedians,
+OL,10,     FEmily Wither investigates Turkey's
+OL,11,     Fcrackdown.
+OL,12,G1300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G1306 Newshour
+OL,16,     FInterviews, news and analysis of
+OL,17,     Fthe day's global events.
+OL,18,G1400 BBC News
 OL,19,     FThe latest five minute news
 OL,20,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG6/16
@@ -168,28 +162,27 @@ PN,23607
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G1906 The Inquiry
-OL,6,     FChina is realising their arctic
-OL,7,     Fambitions by navigating hostile
-OL,8,     Fwaters on new trade journeys to
-OL,9,     FEurope.
-OL,10,G1930 BBC News Summary
-OL,11,     FThe latest two minute news summary
-OL,12,     Ffrom BBC World Service.
-OL,13,G1932 Happy News
-OL,14,     FMeena and Minal were born in
-OL,15,     FIndia, but adopted by different
-OL,16,     Ffamilies and raised near each
-OL,17,     Fother in the Netherlands. They met
-OL,18,     Fby chance and couldn't believe
-OL,19,     Ftheir similarities.
-OL,20,G2000 BBC News
-OL,21,     FThe latest five minute news
-OL,22,     Fbulletin from BBC World Service.
+OL,3,V}yyy5CSunday
+OL,5,G1406 The Climate Question
+OL,6,     FPakistan and the Philippines are
+OL,7,     Fleading the world in imports of
+OL,8,     Fsolar panels. Jordan Dunbar finds
+OL,9,     Fout how solar power is
+OL,10,     Ftransforming lives - and cutting
+OL,11,     Fbills.
+OL,12,G1430 BBC News Summary
+OL,13,     FThe latest two minute news summary
+OL,14,     Ffrom BBC World Service.
+OL,15,G1432 Happy News
+OL,16,     FMeena and Minal were born in
+OL,17,     FIndia, but adopted by different
+OL,18,     Ffamilies and raised near each
+OL,19,     Fother in the Netherlands. They met
+OL,20,     Fby chance and couldn't believe
+OL,21,     Ftheir similarities.
 OL,23,VppppppppppppppppppppppppppppppppppG7/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -197,23 +190,26 @@ PN,23608
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G2006 The Arts Hour
-OL,6,     FAustralian movie star Hugh Jackman
-OL,7,     Fon starring in The Death of Robin
-OL,8,     FHood.
-OL,9,G2100 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G2106 Newshour
-OL,13,     FInterviews, news and analysis of
-OL,14,     Fthe day's global events.
-OL,15,G2200 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,3,V}yyy5CSunday
+OL,5,G1500 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G1506 Sportsworld
+OL,9,     FLive sport from around the world
+OL,10,     Fwith news, interviews and
+OL,11,     Fanalysis.
+OL,12,G1900 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G1906 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G1930 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG8/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -221,26 +217,28 @@ PN,23609
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G2206 Not by the Playbook
-OL,6,     FWhat drives people to attempt
-OL,7,     Fchallenges like row across the
-OL,8,     FPacific or run back and forth
-OL,9,     Facross America? The ocean rowing
-OL,10,     FMaclean brothers and the real life
-OL,11,     FForest Gump explain.
-OL,12,G2300 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G2306 The Newsroom
-OL,16,     FThe world's Newsroom brings you
-OL,17,     Fglobal events as they happen.
-OL,18,G2330 BBC News Summary
-OL,19,     FThe latest two minute news summary
-OL,20,     Ffrom BBC World Service.
+OL,3,V}yyy5CSunday
+OL,5,G1932 Over to You
+OL,6,     FHow does the BBC World Service use
+OL,7,     Fwords, sound and music to bring
+OL,8,     Fstories to life?
+OL,9,G2000 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G2006 Unexpected Elements
+OL,13,     FThe UN's endorsement of a new
+OL,14,     Fworld map inspires us to question
+OL,15,     Fhow we view things, from the
+OL,16,     Fmicroscopic to the cosmic.
+OL,17,G2100 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
+OL,20,G2106 Newshour
+OL,21,     FInterviews, news and analysis of
+OL,22,     Fthe day's global events.
 OL,23,VppppppppppppppppppppppppppppppppppG9/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -248,26 +246,27 @@ PN,23610
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G2332 This Is Africa
-OL,6,     FDJ Edu is joined by two of
-OL,7,     FZambia's most groundbreaking
-OL,8,     Fmusicians: Sampa the Great and
-OL,9,     FZamrock legend Emmanuel Jagari
-OL,10,     FChanda, from the band Witch.
-OL,11,G0000 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0006 BBC Conversations
-OL,15,     FSharing experiences of tech
-OL,16,     Faddiction and "weirdness" on
-OL,17,     Fsmartphones.
-OL,18,G0030 BBC News Summary
-OL,19,     FThe latest two minute news summary
-OL,20,     Ffrom BBC World Service.
+OL,3,V}yyy5CSunday
+OL,5,G2200 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G2206 The Climate Question
+OL,9,     FPakistan and the Philippines are
+OL,10,     Fleading the world in imports of
+OL,11,     Fsolar panels. Jordan Dunbar finds
+OL,12,     Fout how solar power is
+OL,13,     Ftransforming lives - and cutting
+OL,14,     Fbills.
+OL,15,G2230 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
+OL,18,G2232 Assignment
+OL,19,     FFrom jailed mayors to comedians,
+OL,20,     FEmily Wither investigates Turkey's
+OL,21,     Fcrackdown.
 OL,23,VpppppppppppppppppppppppppppppppppG10/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -275,23 +274,26 @@ PN,23611
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G0032 The Documentary
-OL,6,     FKaty Watson explores Australia's
-OL,7,     Frelationship with China - partner,
-OL,8,     Frival or 'frenemy'?
-OL,9,G0100 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0106 The Newsroom
-OL,13,     FThe world's Newsroom brings you
-OL,14,     Fglobal events as they happen.
-OL,15,G0130 BBC News Summary
-OL,16,     FThe latest two minute news summary
-OL,17,     Ffrom BBC World Service.
+OL,3,V}yyy5CSunday
+OL,5,G2300 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G2306 The Newsroom
+OL,9,     FThe world's Newsroom brings you
+OL,10,     Fglobal events as they happen.
+OL,11,G2330 BBC News Summary
+OL,12,     FThe latest two minute news summary
+OL,13,     Ffrom BBC World Service.
+OL,14,G2332 The Fifth Floor
+OL,15,     FHow one Bangkok restaurant has
+OL,16,     Fkept its sought-after soup
+OL,17,     Fbubbling for 50 years.
+OL,18,G0000 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,VpppppppppppppppppppppppppppppppppG11/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -299,26 +301,26 @@ PN,23612
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G0132 Dear Daughter
-OL,6,     FIn South Sudan, Marco explains why
-OL,7,     Feducating his four daughters
-OL,8,     Fmatters deeply to him, a belief
-OL,9,     Fshaped by his mother who risked
-OL,10,     Feverything to keep him in school.
-OL,11,G0150 Sporting Witness
-OL,12,     FTrischa Zorn-Hudson was born blind
-OL,13,     Fand has won 55 medals across seven
-OL,14,     FParalympics.
-OL,15,G0200 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0206 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
+OL,3,V}yyy5CSunday
+OL,5,G0006 From Our Own Correspondent
+OL,6,     FWhat Pyongyang gains from helping
+OL,7,     FMoscow in Ukraine; the Houthis
+OL,8,     Fadvance again in Yemen; a tech
+OL,9,     Fbacklash against Flock cameras in
+OL,10,     Fthe USA; a Dutch drug lord in
+OL,11,     FSierra Leone.
+OL,12,G0030 BBC News Summary
+OL,13,     FThe latest two minute news summary
+OL,14,     Ffrom BBC World Service.
+OL,15,G0032 BBC Inside Science
+OL,16,     FAre two AI brains better than one?
+OL,17,     FThe UK and US link their AI forces
+OL,18,     Fhelp finally solve nuclear fusion
+OL,19,     Fand model the complex plasma
+OL,20,     Fneeded.
 OL,23,VpppppppppppppppppppppppppppppppppG12/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -326,27 +328,28 @@ PN,23613
 SC,0013
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G0230 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0232 Health Check
-OL,9,     FAs the Spanish FA announces new
-OL,10,     Ffertility treatment options for
-OL,11,     Ffemale players and refs, we ask
-OL,12,     Fwhat this means for athletes, and
-OL,13,     Fwhat we know about elite sport and
-OL,14,     Freproduction.
-OL,15,G0300 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0306 In Our Time
-OL,19,     FThe origins and lasting influences
-OL,20,     Fof the study of communication in
-OL,21,     Fanimals and machines.
+OL,3,V}yyy5CSunday
+OL,5,G0100 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G0106 The Newsroom
+OL,9,     FThe world's Newsroom brings you
+OL,10,     Fglobal events as they happen.
+OL,11,G0130 BBC News Summary
+OL,12,     FThe latest two minute news summary
+OL,13,     Ffrom BBC World Service.
+OL,14,G0132 Discovery
+OL,15,     FIn a world not designed for women,
+OL,16,     Feveryday products - from clothes
+OL,17,     Fto period care - expose design
+OL,18,     Fflaws and a system that often
+OL,19,     Fignores women's real needs.
+OL,20,G0200 BBC News
+OL,21,     FThe latest five minute news
+OL,22,     Fbulletin from BBC World Service.
 OL,23,VpppppppppppppppppppppppppppppppppG13/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -354,23 +357,25 @@ PN,23614
 SC,0014
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G0400 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0406 From Our Own Correspondent
-OL,9,     FWhat Pyongyang gains from helping
-OL,10,     FMoscow in Ukraine; the Houthis
-OL,11,     Fadvance again in Yemen; a tech
-OL,12,     Fbacklash against Flock cameras in
-OL,13,     Fthe USA; a Dutch drug lord in
-OL,14,     FSierra Leone.
-OL,15,G0430 BBC News Summary
-OL,16,     FThe latest two minute news summary
-OL,17,     Ffrom BBC World Service.
+OL,3,V}yyy5CSunday
+OL,5,G0206 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0230 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0232 CrowdScience
+OL,12,     FHow many email accounts and social
+OL,13,     Fmedia profiles belong to people
+OL,14,     Fwho are no longer with us? Could
+OL,15,     Fthe internet become a giant online
+OL,16,     Fgraveyard?
+OL,17,G0300 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
 OL,23,VpppppppppppppppppppppppppppppppppG14/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -378,26 +383,27 @@ PN,23615
 SC,0015
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G0432 Unspun World with John Simpson
-OL,6,     FJohn Simpson analyses the impact
-OL,7,     Fof the latest outbreak of
-OL,8,     Fhostilities in Yemen, and examines
-OL,9,     Fwhether there is any hope for a
-OL,10,     FPalestinian state in the Middle
-OL,11,     FEast.
-OL,12,G0500 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G0506 The Newsroom
-OL,16,     FThe world's Newsroom brings you
-OL,17,     Fglobal events as they happen.
-OL,18,G0530 BBC News Summary
-OL,19,     FThe latest two minute news summary
-OL,20,     Ffrom BBC World Service.
+OL,3,V}yyy5CSunday
+OL,5,G0306 People Fixing The World
+OL,6,     FWe look at two solutions that
+OL,7,     Fharness the power of pictures to
+OL,8,     Fhelp disabled people.
+OL,9,G0330 BBC News Summary
+OL,10,     FThe latest two minute news summary
+OL,11,     Ffrom BBC World Service.
+OL,12,G0332 The Fifth Floor
+OL,13,     FHow one Bangkok restaurant has
+OL,14,     Fkept its sought-after soup
+OL,15,     Fbubbling for 50 years.
+OL,16,G0400 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
+OL,19,G0406 The Newsroom
+OL,20,     FThe world's Newsroom brings you
+OL,21,     Fglobal events as they happen.
 OL,23,VpppppppppppppppppppppppppppppppppG15/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100
@@ -405,21 +411,26 @@ PN,23616
 SC,0016
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F236A1789791648
+OL,0,        ECIMSBWebfax 2   F236A1789797031
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G0532 Asia Specific
-OL,6,     FHyrox athlete has apologised after
-OL,7,     Fa controversial Beijing race, as
-OL,8,     Fquestions grow over athlete
-OL,9,     Fwelfare, hygiene and the fitness
-OL,10,     Fcraze's rapid expansion across
-OL,11,     FAsia.
-OL,12,G0550 Sporting Witness
-OL,13,     FTrischa Zorn-Hudson was born blind
-OL,14,     Fand has won 55 medals across seven
-OL,15,     FParalympics.
+OL,3,V}yyy5CSunday
+OL,5,G0430 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G0432 The Conversation
+OL,9,     FDatshiane Navanayagam talks to
+OL,10,     Fwomen from India and the UK whose
+OL,11,     Flove of cricket led them to
+OL,12,     Fofficiate international and
+OL,13,     Fdomestic matches for the women's
+OL,14,     Fand men's games.
+OL,15,G0500 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
+OL,18,G0506 Newsday
+OL,19,     FLive news, business and sport from
+OL,20,     Faround the world.
 OL,23,VpppppppppppppppppppppppppppppppppG16/16
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,237,200,300,120,0,100

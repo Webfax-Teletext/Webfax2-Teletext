@@ -1,13 +1,80 @@
-PN,21400
-SC,0000
+PN,21401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F214A1789773512
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1789797032
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CFriday
-OL,5,G0000 As BBC Radio 5 Live
-OL,6,     FJoining Radio 5 Live.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSaturday
+OL,5,G0630 Out of Doors
+OL,6,     FMark Stephen and Rachel Stewart
+OL,7,     Fwith stories from the great
+OL,8,     Foutdoors.
+OL,9,G0800 Radio Scotland Breakfast
+OL,10,     FNews from across Scotland and the
+OL,11,     Fworld, plus sport, weather,
+OL,12,     Fentertainment and big name
+OL,13,     Finterviews.
+OL,14,G0900 The Saturday Show
+OL,15,     FSimon Reeve, Derek Ferguson and
+OL,16,     FMark Nelson join Amy Irons and
+OL,17,     FSteven Mill as they kick-start the
+OL,18,     Fweekend in style.
+OL,19,G1200 Off the Ball
+OL,20,     FThe most petty and ill-informed
+OL,21,     Ffootball show on radio.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1789797032
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CSaturday
+OL,5,G1400 Sportsound
+OL,6,     FLive coverage of the Scottish
+OL,7,     FPremiership and beyond on Open All
+OL,8,     FMics.
+OL,9,G1730 Sportsound
+OL,10,     FLive commentary of Kilmarnock v
+OL,11,     FHearts in the Scottish
+OL,12,     FPremiership.
+OL,13,G2000 Take the Floor
+OL,14,     FJoin Gary Innes for Take the Floor
+OL,15,     Fwith a great session from John
+OL,16,     FBurns and his band, and we
+OL,17,     Fcelebrate legendary fiddler Aly
+OL,18,     FBain's 80th Birthday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1789797032
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CSaturday
+OL,5,G2100 Piping Sounds
+OL,6,     FMicheal Steele selects his
+OL,7,     Ffavourite sets from this year's
+OL,8,     FNorthern Meeting Piping
+OL,9,     FCompetition in Inverness,
+OL,10,     Ffeaturing winners Chris Armstrong,
+OL,11,     FCalum Brown and Stuart Liddell.
+OL,12,G2200 Roddy Hart's Mix Tape
+OL,13,     FNew and classic tracks from
+OL,14,     FSqueeze, Oasis, Tina Turner, Kings
+OL,15,     Fof Leon, Alanis Morissette, Pet
+OL,16,     FShop Boys and more. Plus Beck's
+OL,17,     Fnew album 'Ride Lonesome' is on
+OL,18,     FHeavy Rotation.
+OL,19,G0000 As BBC Radio 5 Live
+OL,20,     FJoining Radio 5 Live.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
