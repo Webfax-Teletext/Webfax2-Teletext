@@ -1,48 +1,23 @@
-PN,46301
-SC,0001
+PN,46300
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1789816884
+PS,8008
+OL,0,        ECIMSBWebfax 2   F463A1789822303
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1208 Togha agus Rogha
-OL,6,     FCeol agus iarratais a chur i
-OL,7,     Flathair ag Edel Ni Loibhead, beo o
-OL,8,     Fstiuideo Bhaile na nGall i gContae
-OL,9,     FChiarrai.
-OL,10,G1300 Nuacht a hAon
-OL,11,     FAn barr is deireanai nuachta
-OL,12,     Fnaisiunta, idirnaisiunta agus
-OL,13,     Faitiuil.
-OL,14,G1320 Togha agus Rogha
-OL,15,     FCeol agus iarratais a chur i
-OL,16,     Flathair ag Edel Ni Loibhead, beo o
-OL,17,     Fstiuideo Bhaile na nGall i gContae
-OL,18,     FChiarrai.
-OL,19,G1345 Sport an tSathairn
-OL,20,     FFaisneis, tuairisci, torthai,
-OL,21,     Fanailis agus trachtaireacht ar
-OL,22,     Fchursai spoirt an tSathairn.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,464,250,301,140,0,100
-PN,46302
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1789816884
-OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
-OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G1930 Feasta Ceoil an Spideil
-OL,6,     FTaifeadadh an sraith
-OL,7,     Fceolchoirmeacha seo beo i Stiuideo
-OL,8,     FCuan, An Spideal Co. na Gaillimhe.
-OL,9,G2100 Rianta
-OL,10,     FClar ceoil ar linne, ceol na
-OL,11,     Fcruinne, ceolta nua agus ceolta
-OL,12,     Fnios sine.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1345 Sport an tSathairn
+OL,6,     FFaisneis, tuairisci, torthai,
+OL,7,     Fanailis agus trachtaireacht ar
+OL,8,     Fchursai spoirt an tSathairn.
+OL,9,G1930 Feasta Ceoil an Spideil
+OL,10,     FTaifeadadh an sraith
+OL,11,     Fceolchoirmeacha seo beo i Stiuideo
+OL,12,     FCuan, An Spideal Co. na Gaillimhe.
+OL,13,G2100 Rianta
+OL,14,     FClar ceoil ar linne, ceol na
+OL,15,     Fcruinne, ceolta nua agus ceolta
+OL,16,     Fnios sine.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
