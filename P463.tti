@@ -2,25 +2,28 @@ PN,46301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1789899498
+OL,0,        ECIMSBWebfax 2   F463A1789901287
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G1100 Aifreann an Domhnaigh
-OL,6,     FAifreann an Domhnaigh o Sheipeal
-OL,7,     FGhobnatan, Baile Mhic Ire, Co.
-OL,8,     FChorcaigh.
-OL,9,G1145 Togha agus Rogha
-OL,10,     FClar iarratais cheoil agus amhrain
-OL,11,     Fa chur i lathair beo o stiuideo
-OL,12,     FChasla gach maidin Domhnaigh.
-OL,13,G1300 Nuacht a hAon
-OL,14,     FAn barr is deireanai nuachta
-OL,15,     Fnaisiunta, idirnaisiunta agus
-OL,16,     Faitiuil.
-OL,17,G1315 Sport an Lae
-OL,18,     FTuairisci, torthai agus anailis ar
-OL,19,     Fchursai spoirt an lae.
+OL,5,G1145 Togha agus Rogha
+OL,6,     FClar iarratais cheoil agus amhrain
+OL,7,     Fa chur i lathair beo o stiuideo
+OL,8,     FChasla gach maidin Domhnaigh.
+OL,9,G1300 Nuacht a hAon
+OL,10,     FAn barr is deireanai nuachta
+OL,11,     Fnaisiunta, idirnaisiunta agus
+OL,12,     Faitiuil.
+OL,13,G1315 Sport an Lae
+OL,14,     FTuairisci, torthai agus anailis ar
+OL,15,     Fchursai spoirt an lae.
+OL,16,G1900 Eist le Seo
+OL,17,     FClar ceol agus amhrain Ultacha a
+OL,18,     Fchur i lathair ag Brian Danny
+OL,19,     FMinnie O Domhnaill.
+OL,20,G2000 An Braon Gaelach
+OL,21,     FClar ceoil a chur i lathair ag
+OL,22,     FNicole Ni Dhubhshlaine.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -28,26 +31,19 @@ PN,46302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1789899498
+OL,0,        ECIMSBWebfax 2   F463A1789901287
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G1900 Eist le Seo
-OL,6,     FClar ceol agus amhrain Ultacha a
-OL,7,     Fchur i lathair ag Brian Danny
-OL,8,     FMinnie O Domhnaill.
-OL,9,G2000 An Braon Gaelach
-OL,10,     FClar ceoil a chur i lathair ag
-OL,11,     FNicole Ni Dhubhshlaine.
-OL,12,G2100 Tequila Tire
-OL,13,     FSa tsraith seo cloistear an chuid
-OL,14,     Fis fearr de cheol tire, as Eirinn,
-OL,15,     FMeiricea, Ceanada, an Bhreatain
-OL,16,     Fagus nios faide o bhaile.
-OL,17,G2300 Siulach Scealach
-OL,18,     FSeanchas, scealaiocht agus leargas
-OL,19,     Far oidhreacht na Gaeilge ar Radio
-OL,20,     FEireann on chead la anall.
+OL,5,G2100 Tequila Tire
+OL,6,     FSa tsraith seo cloistear an chuid
+OL,7,     Fis fearr de cheol tire, as Eirinn,
+OL,8,     FMeiricea, Ceanada, an Bhreatain
+OL,9,     Fagus nios faide o bhaile.
+OL,10,G2300 Siulach Scealach
+OL,11,     FSeanchas, scealaiocht agus leargas
+OL,12,     Far oidhreacht na Gaeilge ar Radio
+OL,13,     FEireann on chead la anall.
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
