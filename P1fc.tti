@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1789942524
+OL,0,        ECIMSBWebfax 2   F1fcA1789942686
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1789942510;
-OL,10,GService: Webfax 2 - 20219 d3ed21071e
-OL,11,FLast Update: 20/09/2026 23:15:10  G1/4
+OL,25,1789942686;
+OL,10,GService: Webfax 2 - 20220 129e60ce9a
+OL,11,FLast Update: 20/09/2026 23:18:06  G1/6
 OL,13,AbbcNews/Business           G20/09-23:14
 OL,14,AbbcNews/Entertainment      G20/09-23:15
 OL,15,AbbcNews/Politics           G20/09-23:14
@@ -26,11 +26,11 @@ OL,19,AbbcSport/Football          G20/09-23:14
 OL,20,AbbcSport/Football Gossip   G20/09-23:14
 OL,21,AbbcSport/Formula 1         G20/09-23:14
 OL,22,AbbcSport/Golf              G20/09-23:14
-OL,23,AbbcSport/Tennis            G20/09-23:14
+OL,23,AbbcSport/Horse Racing      G20/09-23:15
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1789942524
+OL,0,        ECIMSBWebfax 2   F1fcA1789942686
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,24 +42,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1789942510;
-OL,10,GService: Webfax 2 - 20219 d3ed21071e
-OL,11,FLast Update: 20/09/2026 23:15:10  G2/4
-OL,13,AbbcSportFixtures/          G20/09-23:14
-OL,14,AceefaxNews                 G20/09-23:13
-OL,15,AitvSport/border            G20/09-23:14
-OL,16,AitvSport/calendar          G20/09-23:14
-OL,17,AitvSport/central           G20/09-23:14
-OL,18,AitvSport/channel           G20/09-23:14
-OL,19,AitvSport/granada           G20/09-23:14
-OL,20,AitvSport/london            G20/09-23:14
-OL,21,AitvSport/meridian          G20/09-23:14
-OL,22,AitvSport/national          G20/09-23:13
-OL,23,AitvSport/tyne-tees         G20/09-23:14
+OL,25,1789942686;
+OL,10,GService: Webfax 2 - 20220 129e60ce9a
+OL,11,FLast Update: 20/09/2026 23:18:06  G2/6
+OL,13,AbbcSport/Tennis            G20/09-23:14
+OL,14,AbbcSportFixtures/          G20/09-23:14
+OL,15,Abbc_news_papers            G20/09-23:15
+OL,16,AceefaxBusiness             G20/09-23:16
+OL,17,AceefaxNews                 G20/09-23:13
+OL,18,Acharts/singles             G20/09-23:16
+OL,19,Ageneric/championship       G20/09-23:16
+OL,20,Ageneric/f1                 G20/09-23:16
+OL,21,Ageneric/horse_racing       G20/09-23:15
+OL,22,Ageneric/league-one         G20/09-23:16
+OL,23,Ageneric/league-two         G20/09-23:16
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1789942524
+OL,0,        ECIMSBWebfax 2   F1fcA1789942686
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,24 +71,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1789942510;
-OL,10,GService: Webfax 2 - 20219 d3ed21071e
-OL,11,FLast Update: 20/09/2026 23:15:10  G3/4
-OL,13,AitvSport/utv               G20/09-23:15
-OL,14,AitvSport/wales             G20/09-23:15
-OL,15,AitvSport/westcountry       G20/09-23:15
-OL,16,Amet_weather/Central, TaysidG20/09-23:15
-OL,17,Amet_weather/Dumfries, GalloG20/09-23:15
-OL,18,Amet_weather/East           G20/09-23:14
-OL,19,Amet_weather/East Midlands  G20/09-23:13
-OL,20,Amet_weather/Grampian       G20/09-23:15
-OL,21,Amet_weather/Highlands & EilG20/09-23:14
-OL,22,Amet_weather/London & South G20/09-23:14
-OL,23,Amet_weather/North East     G20/09-23:13
+OL,25,1789942686;
+OL,10,GService: Webfax 2 - 20220 129e60ce9a
+OL,11,FLast Update: 20/09/2026 23:18:06  G3/6
+OL,13,Ageneric/lottery            G20/09-23:16
+OL,14,Ageneric/pollen_forecast    G20/09-23:16
+OL,15,Ageneric/prem_league        G20/09-23:16
+OL,16,Ageneric/tube_status        G20/09-23:16
+OL,17,Ageneric/weather_warnings   G20/09-23:16
+OL,18,AitvSport/border            G20/09-23:14
+OL,19,AitvSport/calendar          G20/09-23:14
+OL,20,AitvSport/central           G20/09-23:14
+OL,21,AitvSport/channel           G20/09-23:14
+OL,22,AitvSport/granada           G20/09-23:14
+OL,23,AitvSport/london            G20/09-23:14
 PN,1fc04
 SC,0004
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1789942524
+OL,0,        ECIMSBWebfax 2   F1fcA1789942686
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -100,16 +100,68 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1789942510;
-OL,10,GService: Webfax 2 - 20219 d3ed21071e
-OL,11,FLast Update: 20/09/2026 23:15:10  G4/4
-OL,13,Amet_weather/North West     G20/09-23:13
-OL,14,Amet_weather/Northern IrelanG20/09-23:14
-OL,15,Amet_weather/Orkney & ShetlaG20/09-23:14
-OL,16,Amet_weather/South West     G20/09-23:14
-OL,17,Amet_weather/Strathclyde    G20/09-23:15
-OL,18,Amet_weather/Wales          G20/09-23:14
-OL,19,Amet_weather/West Midlands  G20/09-23:14
-OL,20,Amet_weather/Yorkshire & HumG20/09-23:13
-OL,21,Amet_weather/national_forecaG20/09-23:13
-OL,22,Atv_listings                G20/09-23:15
+OL,25,1789942686;
+OL,10,GService: Webfax 2 - 20220 129e60ce9a
+OL,11,FLast Update: 20/09/2026 23:18:06  G4/6
+OL,13,AitvSport/meridian          G20/09-23:14
+OL,14,AitvSport/national          G20/09-23:13
+OL,15,AitvSport/tyne-tees         G20/09-23:14
+OL,16,AitvSport/utv               G20/09-23:15
+OL,17,AitvSport/wales             G20/09-23:15
+OL,18,AitvSport/westcountry       G20/09-23:15
+OL,19,Amet_weather/Central, TaysidG20/09-23:15
+OL,20,Amet_weather/Dumfries, GalloG20/09-23:15
+OL,21,Amet_weather/East           G20/09-23:14
+OL,22,Amet_weather/East Midlands  G20/09-23:13
+OL,23,Amet_weather/Grampian       G20/09-23:15
+PN,1fc05
+SC,0005
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1789942686
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1789942686;
+OL,10,GService: Webfax 2 - 20220 129e60ce9a
+OL,11,FLast Update: 20/09/2026 23:18:06  G5/6
+OL,13,Amet_weather/Highlands & EilG20/09-23:14
+OL,14,Amet_weather/London & South G20/09-23:14
+OL,15,Amet_weather/North East     G20/09-23:13
+OL,16,Amet_weather/North West     G20/09-23:13
+OL,17,Amet_weather/Northern IrelanG20/09-23:14
+OL,18,Amet_weather/Orkney & ShetlaG20/09-23:14
+OL,19,Amet_weather/South West     G20/09-23:14
+OL,20,Amet_weather/Strathclyde    G20/09-23:15
+OL,21,Amet_weather/Wales          G20/09-23:14
+OL,22,Amet_weather/West Midlands  G20/09-23:14
+OL,23,Amet_weather/Yorkshire & HumG20/09-23:13
+PN,1fc06
+SC,0006
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1789942686
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1789942686;
+OL,10,GService: Webfax 2 - 20220 129e60ce9a
+OL,11,FLast Update: 20/09/2026 23:18:06  G6/6
+OL,13,Amet_weather/national_forecaG20/09-23:13
+OL,14,Atv_listings                G20/09-23:15
+OL,15,AiNMS/comments.json         G20/09-23:15
+OL,16,AiNMS/onthisday/            G20/09-23:15
