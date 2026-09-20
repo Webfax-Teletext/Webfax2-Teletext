@@ -1,13 +1,80 @@
-PN,21400
-SC,0000
+PN,21401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F214A1789859906
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1789881725
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G0000 As BBC Radio 5 Live
 OL,6,     FJoining Radio 5 Live.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,7,G0700 Scotcast
+OL,8,     FThe best bits from the past seven
+OL,9,     Fdays of the BBC's Scottish news
+OL,10,     Fpodcast, with Martin Geissler and
+OL,11,     FLaura Miller.
+OL,12,G0730 New Every Sunday
+OL,13,     FAn act of worship with the Rev Dr
+OL,14,     FNikki Macdonald, minister of Upper
+OL,15,     FClyde Parish, Church of Scotland.
+OL,16,G0800 Sunday Morning
+OL,17,     FTwo hours of music and
+OL,18,     Fconversation with a faith and
+OL,19,     Fethical perspective. Taking the
+OL,20,     Fweek's events to ask what they say
+OL,21,     Fabout our values and beliefs.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1789881725
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CSunday
+OL,5,G1000 The Sunday Show
+OL,6,     FNews, discussion and interviews
+OL,7,     Ffrom politics and beyond.
+OL,8,G1130 Sportsound
+OL,9,     FLive commentary of Celtic v
+OL,10,     FRangers in the Scottish
+OL,11,     FPremiership.
+OL,12,G1500 Off the Ball
+OL,13,     FThe most petty and ill-informed
+OL,14,     Ffootball show on radio.
+OL,15,G1700 Your Requests with Gary Innes
+OL,16,     FJoin Gary as he shares your
+OL,17,     Fspecial messages and dedications
+OL,18,     Fand plays your favourite Scottish
+OL,19,     FMusic requests.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1789881725
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CSunday
+OL,5,G1900 Classical Now
+OL,6,     FJamie MacDougall celebrates
+OL,7,     Fclassical music from Scotland and
+OL,8,     Fbeyond, including and an eclectic
+OL,9,     Fmix of music recorded in Ayrshire,
+OL,10,     FIstanbul, London and beyond!
+OL,11,G2100 Roddy Hart's Mix Tape
+OL,12,     FUS alt-folk legend Bonnie 'Prince'
+OL,13,     FBilly goes Off The Record to share
+OL,14,     Fhis under-the-radar music pick,
+OL,15,     Fand Roddy's got new music from
+OL,16,     FLucy Dacus, The War On Drugs and
+OL,17,     FSarah Irvine.
+OL,18,G2300 As BBC Radio 5 Live
+OL,19,     FJoining Radio 5 Live.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
