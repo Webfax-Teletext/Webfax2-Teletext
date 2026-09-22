@@ -2,26 +2,28 @@ PN,46301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790079515
+OL,0,        ECIMSBWebfax 2   F463A1790083132
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CTuesday
-OL,5,G1300 Nuacht a hAon
-OL,6,     FAn barr is deireanai nuachta
-OL,7,     Fnaisiunta, idirnaisiunta agus
-OL,8,     Faitiuil.
-OL,9,G1400 Tuairisc Spoirt
-OL,10,     FTuairisc Spoirt.
-OL,11,G1405 Leagan Cainte
-OL,12,     FPle ar leaganacha cainte agus ar
-OL,13,     Fsheanfhocail faoi Chathaoirleacht
-OL,14,     FLiam Mhic Con Iomaire. Seo sraith
-OL,15,     Fclaracha a craoladh ar dtus sna
-OL,16,     Fnaochaidi.
-OL,17,G1435 Ar Bhruach na Sionainne
-OL,18,     FCloisfear mic leinn Ollscoil
-OL,19,     FLuimnigh i mbun ceoil agus cainte
-OL,20,     Fsa tsraith seo.
+OL,5,G1405 Leagan Cainte
+OL,6,     FPle ar leaganacha cainte agus ar
+OL,7,     Fsheanfhocail faoi Chathaoirleacht
+OL,8,     FLiam Mhic Con Iomaire. Seo sraith
+OL,9,     Fclaracha a craoladh ar dtus sna
+OL,10,     Fnaochaidi.
+OL,11,G1435 Ar Bhruach na Sionainne
+OL,12,     FCloisfear mic leinn Ollscoil
+OL,13,     FLuimnigh i mbun ceoil agus cainte
+OL,14,     Fsa tsraith seo.
+OL,15,G1505 Coisir Cheoil
+OL,16,     FClar ceoil a chur i lathair ag
+OL,17,     FDonall Mac Ruairi o stiuideo na
+OL,18,     FnDoiri Beaga, i nDun na nGall.
+OL,19,G1700 Tus Aite
+OL,20,     FClar cursai reatha agus nuachta a
+OL,21,     Fchur i lathair ag Fachtna O
+OL,22,     FDrisceoil.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -29,27 +31,28 @@ PN,46302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790079515
+OL,0,        ECIMSBWebfax 2   F463A1790083132
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CTuesday
-OL,5,G1505 Coisir Cheoil
-OL,6,     FClar ceoil a chur i lathair ag
-OL,7,     FDonall Mac Ruairi o stiuideo na
-OL,8,     FnDoiri Beaga, i nDun na nGall.
-OL,9,G1700 Tus Aite
-OL,10,     FClar cursai reatha agus nuachta a
-OL,11,     Fchur i lathair ag Fachtna O
-OL,12,     FDrisceoil.
-OL,13,G1755 Tuairisc Spoirt
-OL,14,     FTuairisc Spoirt.
-OL,15,G1800 Nuacht a Se
-OL,16,     FAn barr is deireanai nuachta
-OL,17,     Fnaisiunta, idirnaisiunta agus
-OL,18,     Faitiuil.
-OL,19,G1830 Fograi an Lae
-OL,20,     FImeachtai agus fograi na
-OL,21,     FGaeltachta.
+OL,5,G1755 Tuairisc Spoirt
+OL,6,     FTuairisc Spoirt.
+OL,7,G1800 Nuacht a Se
+OL,8,     FAn barr is deireanai nuachta
+OL,9,     Fnaisiunta, idirnaisiunta agus
+OL,10,     Faitiuil.
+OL,11,G1830 Fograi an Lae
+OL,12,     FImeachtai agus fograi na
+OL,13,     FGaeltachta.
+OL,14,G1900 Ceol Binn o na Beanna
+OL,15,     FCeol traidisiunta den scoth, idir
+OL,16,     Fsean agus nua a chur i lathair ag
+OL,17,     FNeansai Ni Choisdealbha.
+OL,18,G2100 Ri-Ra ar RnaG
+OL,19,     FCeol agus amhrain o na cairteanna,
+OL,20,     Far Ri-Ra ar RnaG, ag cur tus
+OL,21,     Fbriomhar le craoladh Anocht FM i
+OL,22,     Frith na seachtaine.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -57,22 +60,13 @@ PN,46303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790079515
+OL,0,        ECIMSBWebfax 2   F463A1790083132
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CTuesday
-OL,5,G1900 Ceol Binn o na Beanna
-OL,6,     FCeol traidisiunta den scoth, idir
-OL,7,     Fsean agus nua a chur i lathair ag
-OL,8,     FNeansai Ni Choisdealbha.
-OL,9,G2100 Ri-Ra ar RnaG
-OL,10,     FCeol agus amhrain o na cairteanna,
-OL,11,     Far Ri-Ra ar RnaG, ag cur tus
-OL,12,     Fbriomhar le craoladh Anocht FM i
-OL,13,     Frith na seachtaine.
-OL,14,G2200 An Taobh Tuathail
-OL,15,     FCeol nua eagsuil do chach, a chur
-OL,16,     Fi lathair ag Cian O Ciobhain.
+OL,5,G2200 An Taobh Tuathail
+OL,6,     FCeol nua eagsuil do chach, a chur
+OL,7,     Fi lathair ag Cian O Ciobhain.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
