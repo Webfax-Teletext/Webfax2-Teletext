@@ -2,70 +2,54 @@ PN,46301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790169536
+OL,0,        ECIMSBWebfax 2   F463A1790171293
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CWednesday
-OL,5,G1405 Cartlann Bhothar na Leinsi
-OL,6,     FGlortha o chartlann Bhothar na
-OL,7,     FLeinsi idir chaint, cheol, spoirt,
-OL,8,     Ffiliocht, leachtai agus go leor
-OL,9,     Feile.
-OL,10,G1430 Ar Bhruach na Sionainne
-OL,11,     FCloisfear mic leinn Ollscoil
-OL,12,     FLuimnigh i mbun ceoil agus cainte
-OL,13,     Fsa tsraith seo.
-OL,14,G1500 Coisir Cheoil
-OL,15,     FClar ceoil a chur i lathair ag
-OL,16,     FDonall Mac Ruairi o stiuideo na
-OL,17,     FnDoiri Beaga, i nDun na nGall.
-OL,18,G1700 Tus Aite
-OL,19,     FClar cursai reatha agus nuachta a
-OL,20,     Fchur i lathair ag Fachtna O
-OL,21,     FDrisceoil.
-OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,5,G1430 Ar Bhruach na Sionainne
+OL,6,     FCloisfear mic leinn Ollscoil
+OL,7,     FLuimnigh i mbun ceoil agus cainte
+OL,8,     Fsa tsraith seo.
+OL,9,G1500 Coisir Cheoil
+OL,10,     FClar ceoil a chur i lathair ag
+OL,11,     FDonall Mac Ruairi o stiuideo na
+OL,12,     FnDoiri Beaga, i nDun na nGall.
+OL,13,G1700 Tus Aite
+OL,14,     FClar cursai reatha agus nuachta a
+OL,15,     Fchur i lathair ag Fachtna O
+OL,16,     FDrisceoil.
+OL,17,G1755 Tuairisc Spoirt
+OL,18,     FTuairisc Spoirt.
+OL,19,G1800 Nuacht a Se
+OL,20,     FAn barr is deireanai nuachta
+OL,21,     Fnaisiunta, idirnaisiunta agus
+OL,22,     Faitiuil.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
 PN,46302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790169536
+OL,0,        ECIMSBWebfax 2   F463A1790171293
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CWednesday
-OL,5,G1755 Tuairisc Spoirt
-OL,6,     FTuairisc Spoirt.
-OL,7,G1800 Nuacht a Se
-OL,8,     FAn barr is deireanai nuachta
-OL,9,     Fnaisiunta, idirnaisiunta agus
-OL,10,     Faitiuil.
-OL,11,G1830 Fograi an Lae
-OL,12,     FImeachtai agus fograi na
-OL,13,     FGaeltachta.
-OL,14,G1900 Ceol Binn o na Beanna
-OL,15,     FCeol traidisiunta den scoth, idir
-OL,16,     Fsean agus nua a chur i lathair ag
-OL,17,     FNeansai Ni Choisdealbha.
-OL,18,G2100 Ri-Ra ar RnaG
-OL,19,     FCeol agus amhrain o na cairteanna,
-OL,20,     Far Ri-Ra ar RnaG, ag cur tus
-OL,21,     Fbriomhar le craoladh Anocht FM i
-OL,22,     Frith na seachtaine.
-OL,23,VppppppppppppppppppppppppppppppppppG2/3
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,464,250,301,140,0,100
-PN,46303
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790169536
-OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
-OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday
-OL,5,G2200 An Taobh Tuathail
-OL,6,     FCeol nua eagsuil do chach, a chur
-OL,7,     Fi lathair ag Cian O Ciobhain.
-OL,23,VppppppppppppppppppppppppppppppppppG3/3
+OL,5,G1830 Fograi an Lae
+OL,6,     FImeachtai agus fograi na
+OL,7,     FGaeltachta.
+OL,8,G1900 Ceol Binn o na Beanna
+OL,9,     FCeol traidisiunta den scoth, idir
+OL,10,     Fsean agus nua a chur i lathair ag
+OL,11,     FNeansai Ni Choisdealbha.
+OL,12,G2100 Ri-Ra ar RnaG
+OL,13,     FCeol agus amhrain o na cairteanna,
+OL,14,     Far Ri-Ra ar RnaG, ag cur tus
+OL,15,     Fbriomhar le craoladh Anocht FM i
+OL,16,     Frith na seachtaine.
+OL,17,G2200 An Taobh Tuathail
+OL,18,     FCeol nua eagsuil do chach, a chur
+OL,19,     Fi lathair ag Cian O Ciobhain.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
