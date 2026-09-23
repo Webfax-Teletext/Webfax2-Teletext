@@ -2,10 +2,10 @@ PN,48801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790054369
+OL,0,        ECIMSBWebfax 2   F488A1790140781
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday
+OL,3,V}yyy5CThursday
 OL,5,G0700 Nead na Fuiseoige
 OL,6,     FClar ceoil a chur i lathair ag
 OL,7,     FGrainne Ni Dhomhnaill.
@@ -29,10 +29,10 @@ PN,48802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790054369
+OL,0,        ECIMSBWebfax 2   F488A1790140781
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday
+OL,3,V}yyy5CThursday
 OL,5,G1015 Cuideachta Ceoil
 OL,6,     FClar ceoil a chur i lathair ag
 OL,7,     FEibhlin de Bhailis.
@@ -55,25 +55,27 @@ PN,48803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790054369
+OL,0,        ECIMSBWebfax 2   F488A1790140781
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday
+OL,3,V}yyy5CThursday
 OL,5,G1300 Nuacht a hAon
 OL,6,     FAn barr is deireanai nuachta
 OL,7,     Fnaisiunta, idirnaisiunta agus
 OL,8,     Faitiuil.
 OL,9,G1400 Tuairisc Spoirt
 OL,10,     FTuairisc Spoirt.
-OL,11,G1405 Cartlann Bhothar na Leinsi
-OL,12,     FGlortha o chartlann Bhothar na
-OL,13,     FLeinsi idir chaint, cheol, spoirt,
-OL,14,     Ffiliocht, leachtai agus go leor
-OL,15,     Feile.
-OL,16,G1430 Ar Bhruach na Sionainne
-OL,17,     FCloisfear mic leinn Ollscoil
-OL,18,     FLuimnigh i mbun ceoil agus cainte
-OL,19,     Fsa tsraith seo.
+OL,11,G1405 An Cuinne Dana
+OL,12,     FSpleachadh ar na healaiona le
+OL,13,     FTristan Rosenstock, idir
+OL,14,     Fdhramaiocht, litriocht, scannain
+OL,15,     Fis ceol. Agallaimh le
+OL,16,     Fmorealaiontoiri na tire,
+OL,17,     Fleirmheasanna, agus go leor eile.
+OL,18,G1430 Ar Bhruach na Sionainne
+OL,19,     FCloisfear mic leinn Ollscoil
+OL,20,     FLuimnigh i mbun ceoil agus cainte
+OL,21,     Fsa tsraith seo.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -81,10 +83,10 @@ PN,48804
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790054369
+OL,0,        ECIMSBWebfax 2   F488A1790140781
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday
+OL,3,V}yyy5CThursday
 OL,5,G1500 Coisir Cheoil
 OL,6,     FClar ceoil a chur i lathair ag
 OL,7,     FDonall Mac Ruairi o stiuideo na
@@ -109,22 +111,27 @@ PN,48805
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790054369
+OL,0,        ECIMSBWebfax 2   F488A1790140781
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CWednesday
-OL,5,G1900 Ceol Binn o na Beanna
-OL,6,     FCeol traidisiunta den scoth, idir
-OL,7,     Fsean agus nua a chur i lathair ag
-OL,8,     FNeansai Ni Choisdealbha.
-OL,9,G2100 Ri-Ra ar RnaG
-OL,10,     FCeol agus amhrain o na cairteanna,
-OL,11,     Far Ri-Ra ar RnaG, ag cur tus
-OL,12,     Fbriomhar le craoladh Anocht FM i
-OL,13,     Frith na seachtaine.
-OL,14,G2200 An Taobh Tuathail
-OL,15,     FCeol nua eagsuil do chach, a chur
-OL,16,     Fi lathair ag Cian O Ciobhain.
+OL,3,V}yyy5CThursday
+OL,5,G1900 Foinn Cois Farraige
+OL,6,     FSraith ceolchoirmeacha a bhi in
+OL,7,     FAmharclann Chois Fharraige,
+OL,8,     FIndreabhan, Co. na Gaillimhe in
+OL,9,     FEarrach na bliana seo.
+OL,10,G2000 Eist le Seo
+OL,11,     FClar ceol agus amhrain Ultacha a
+OL,12,     Fchur i lathair ag Brian Danny
+OL,13,     FMinnie O Domhnaill.
+OL,14,G2100 Ri-Ra ar RnaG
+OL,15,     FCeol agus amhrain o na cairteanna,
+OL,16,     Far Ri-Ra ar RnaG, ag cur tus
+OL,17,     Fbriomhar le craoladh Anocht FM i
+OL,18,     Frith na seachtaine.
+OL,19,G2200 An Taobh Tuathail
+OL,20,     FCeol nua eagsuil do chach, a chur
+OL,21,     Fi lathair ag Cian O Ciobhain.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
