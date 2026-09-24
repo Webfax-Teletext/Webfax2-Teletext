@@ -2,10 +2,10 @@ PN,48801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790140781
+OL,0,        ECIMSBWebfax 2   F488A1790227171
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G0700 Nead na Fuiseoige
 OL,6,     FClar ceoil a chur i lathair ag
 OL,7,     FGrainne Ni Dhomhnaill.
@@ -29,10 +29,10 @@ PN,48802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790140781
+OL,0,        ECIMSBWebfax 2   F488A1790227171
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G1015 Cuideachta Ceoil
 OL,6,     FClar ceoil a chur i lathair ag
 OL,7,     FEibhlin de Bhailis.
@@ -55,27 +55,26 @@ PN,48803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790140781
+OL,0,        ECIMSBWebfax 2   F488A1790227171
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G1300 Nuacht a hAon
 OL,6,     FAn barr is deireanai nuachta
 OL,7,     Fnaisiunta, idirnaisiunta agus
 OL,8,     Faitiuil.
 OL,9,G1400 Tuairisc Spoirt
 OL,10,     FTuairisc Spoirt.
-OL,11,G1405 An Cuinne Dana
-OL,12,     FSpleachadh ar na healaiona le
-OL,13,     FTristan Rosenstock, idir
-OL,14,     Fdhramaiocht, litriocht, scannain
-OL,15,     Fis ceol. Agallaimh le
-OL,16,     Fmorealaiontoiri na tire,
-OL,17,     Fleirmheasanna, agus go leor eile.
-OL,18,G1430 Ar Bhruach na Sionainne
-OL,19,     FCloisfear mic leinn Ollscoil
-OL,20,     FLuimnigh i mbun ceoil agus cainte
-OL,21,     Fsa tsraith seo.
+OL,11,G1405 Blas
+OL,12,     FScealta beaga agus mora phobal na
+OL,13,     FGaeilge ar fud an tuaiscirt.
+OL,14,     FLeiriu de chuid BBC Gaeilge
+OL,15,G1430 Focal ar Fhocal
+OL,16,     FAn t-iar chraoltoir Mairtin
+OL,17,     FJaimsie O Flaithearta a leigh on
+OL,18,     Fleabhar 'I mBeal na Farraige' don
+OL,19,     Fsraith 'Focal ar Fhocal' a
+OL,20,     Fcraoladh ar dtus i 1999.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -83,27 +82,27 @@ PN,48804
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790140781
+OL,0,        ECIMSBWebfax 2   F488A1790227171
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G1500 Coisir Cheoil
-OL,6,     FClar ceoil a chur i lathair ag
-OL,7,     FDonall Mac Ruairi o stiuideo na
-OL,8,     FnDoiri Beaga, i nDun na nGall.
-OL,9,G1700 Tus Aite
-OL,10,     FClar cursai reatha agus nuachta a
-OL,11,     Fchur i lathair ag Fachtna O
-OL,12,     FDrisceoil.
-OL,13,G1755 Tuairisc Spoirt
-OL,14,     FTuairisc Spoirt.
-OL,15,G1800 Nuacht a Se
-OL,16,     FAn barr is deireanai nuachta
-OL,17,     Fnaisiunta, idirnaisiunta agus
-OL,18,     Faitiuil.
-OL,19,G1830 Fograi an Lae
-OL,20,     FImeachtai agus fograi na
-OL,21,     FGaeltachta.
+OL,3,V}yyy5CFriday
+OL,5,G1500 Pe Sceal e
+OL,6,     FTa Pe Sceal E ag craoladh beo as
+OL,7,     FDoire inniu agus iad i lar na
+OL,8,     Fcathrach i dteach 'Peadar
+OL,9,     FO'Donnells, beidh ceoil beo agus
+OL,10,     Fpaineal cainte le clos ar clar an
+OL,11,     Flae inniu.
+OL,12,G1700 Tus Aite
+OL,13,     FClar cursai reatha agus nuachta a
+OL,14,     Fchur i lathair ag Fachtna O
+OL,15,     FDrisceoil.
+OL,16,G1755 Tuairisc Spoirt
+OL,17,     FTuairisc Spoirt.
+OL,18,G1800 Nuacht a Se
+OL,19,     FAn barr is deireanai nuachta
+OL,20,     Fnaisiunta, idirnaisiunta agus
+OL,21,     Faitiuil.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
@@ -111,27 +110,26 @@ PN,48805
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790140781
+OL,0,        ECIMSBWebfax 2   F488A1790227171
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G1900 Foinn Cois Farraige
-OL,6,     FSraith ceolchoirmeacha a bhi in
-OL,7,     FAmharclann Chois Fharraige,
-OL,8,     FIndreabhan, Co. na Gaillimhe in
-OL,9,     FEarrach na bliana seo.
-OL,10,G2000 Eist le Seo
-OL,11,     FClar ceol agus amhrain Ultacha a
-OL,12,     Fchur i lathair ag Brian Danny
-OL,13,     FMinnie O Domhnaill.
-OL,14,G2100 Ri-Ra ar RnaG
-OL,15,     FCeol agus amhrain o na cairteanna,
-OL,16,     Far Ri-Ra ar RnaG, ag cur tus
-OL,17,     Fbriomhar le craoladh Anocht FM i
-OL,18,     Frith na seachtaine.
-OL,19,G2200 An Taobh Tuathail
-OL,20,     FCeol nua eagsuil do chach, a chur
-OL,21,     Fi lathair ag Cian O Ciobhain.
+OL,3,V}yyy5CFriday
+OL,5,G1830 Fograi an Lae
+OL,6,     FImeachtai agus fograi na
+OL,7,     FGaeltachta.
+OL,8,G1900 Cuireadh Chun Ceoil
+OL,9,     FIs e an ceoltoir agus an cumadoir
+OL,10,     Faitheanta, Peadar O Riada o Chuil
+OL,11,     FAodha, a chuireann an clar ceoil
+OL,12,     Fseo i lathair.
+OL,13,G2100 Ri-Ra ar RnaG
+OL,14,     FCeol agus amhrain o na cairteanna,
+OL,15,     Far Ri-Ra ar RnaG, ag cur tus
+OL,16,     Fbriomhar le craoladh Anocht FM i
+OL,17,     Frith na seachtaine.
+OL,18,G2200 An Taobh Tuathail
+OL,19,     FCeol nua eagsuil do chach, a chur
+OL,20,     Fi lathair ag Cian O Ciobhain.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
