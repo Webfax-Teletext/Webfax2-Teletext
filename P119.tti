@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FRogue OpenAI agent 'infiltrated'
-OL,6,FAustralian government website in world
-OL,7,FfirstA23-Sep
+OL,5,G106FWhy Australia chose the world's
+OL,6,Fbiggest political stage to reveal
+OL,7,FOpenAI hackA24-Sep
 OL,8,G
-OL,9,G107FWhy did an OpenAI system hack
-OL,10,FAustralia's health system - and can it
-OL,11,Fbe stopped in the future?A24-Sep
+OL,9,G107FRogue OpenAI agent 'infiltrated'
+OL,10,FAustralian government website in world
+OL,11,FfirstA23-Sep
 OL,12,G
-OL,13,G108FFBI investigating claim hackers
-OL,14,Fhave stolen details of all its agents
-OL,15,A23-Sep
+OL,13,G108FWhy did an OpenAI system hack
+OL,14,FAustralia's health system - and can it
+OL,15,Fbe stopped in the future?A24-Sep
 OL,16,G
-OL,17,G109FAre we back in big tech's 'move
-OL,18,Ffast and break things' era?A24-Sep
-OL,19,G
-OL,20,G110FIndians are discovering the thrill
-OL,21,Fof shopping without payingA23-Sep
-OL,22,G
+OL,17,G109FFBI investigating claim hackers
+OL,18,Fhave stolen details of all its agents
+OL,19,A23-Sep
+OL,20,G
+OL,21,F
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
@@ -53,7 +53,54 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhy Australia chose the world's biggest
+OL,4,Apolitical stage to reveal OpenAI hack
+OL,5,
+OL,6,FAustralia made a dramatic revelation on
+OL,7,FWednesday during the United Nations
+OL,8,FGeneral Assembly.
+OL,10,FRogue AI agents had hacked one of its
+OL,11,Fgovernment bodies - the first known
+OL,12,Fincident of its kind in the world.
+OL,13,FPrivate data, but not sensitive
+OL,14,Finformation, was taken from Medicare,
+OL,15,FAustralia's universal healthcare
+OL,16,Fscheme.
+OL,23,APub: 24-SepQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1790274267
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhy Australia chose the world's biggest
+OL,4,Apolitical stage to reveal OpenAI hack
+OL,5,
+OL,6,FThe breach happened in June, but OpenAI
+OL,7,Fsays it only became aware of it in
+OL,8,FAugust - and then took until 10
+OL,9,FSeptember to alert Australia's
+OL,10,Fgovernment, by sending an email to an
+OL,11,Faddress used by researchers and
+OL,12,Facademics to alert authorities to
+OL,13,Fconcerns of vulnerabilities.
+OL,15,FWhile worrying, the timing of the
+OL,16,Fincident is somewhat of a gift for
+OL,17,FAustralia.
+OL,23,APub: 24-SepQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ARogue OpenAI agent 'infiltrated'
@@ -71,14 +118,14 @@ OL,15,Ffrom Australia's universal healthcare
 OL,16,Fscheme Medicare, Prime Minister Anthony
 OL,17,FAlbanese said in New York on Wednesday,
 OL,18,Flocal time.
-OL,23,APub: 23-SepQppppppppppppppppppppppG3/19
+OL,23,APub: 23-SepQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ARogue OpenAI agent 'infiltrated'
@@ -94,14 +141,14 @@ OL,13,Fbreach in August while reviewing
 OL,14,F"misaligned model activity" and emailed
 OL,15,Fa general inbox of an Australian
 OL,16,Fgovernment agency on 10 September.
-OL,23,APub: 23-SepQppppppppppppppppppppppG4/19
+OL,23,APub: 23-SepQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhy did an OpenAI system hack
@@ -119,14 +166,14 @@ OL,16,FThe hack was carried out by an AI agent
 OL,17,F- an autonomous computer program that
 OL,18,Fuses AI to complete a task with minimal
 OL,19,Fhuman oversight.
-OL,23,APub: 24-SepQppppppppppppppppppppppG5/19
+OL,23,APub: 24-SepQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhy did an OpenAI system hack
@@ -140,78 +187,34 @@ OL,10,F"look up answers, and available
 OL,11,Fstatistics for questions about
 OL,12,FAustralia during an internal
 OL,13,Fevaluation".
-OL,23,APub: 24-SepQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AFBI investigating claim hackers have
-OL,4,Astolen details of all its agents
-OL,5,
-OL,6,FThe FBI is investigating a claim by a
-OL,7,Fcyber-crime group that it has stolen
-OL,8,Fsensitive information on all bureau
-OL,9,Fstaff - around 38,000 people.
-OL,11,FThe group, Shiny Hunters, says it has
-OL,12,Fevery agent's name, role, badge number
-OL,13,Fand personal details including home
-OL,14,Faddress, phone numbers and spouse
-OL,15,Finformation.
-OL,17,FProfessor Ciaran Martin, the former
-OL,18,Fhead of the UK's National Cyber
-OL,19,FSecurity Centre, said - if confirmed -
-OL,20,Fit was "as serious as it gets when it
-OL,21,Fcomes to data breaches."
-OL,23,APub: 23-SepQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AFBI investigating claim hackers have
-OL,4,Astolen details of all its agents
-OL,5,
-OL,6,FIn a statement posted on X, the FBI
-OL,7,Fsaid it was aware of the claim and the
-OL,8,Fagency was "actively and aggressively
-OL,9,Finvestigating the matter".
-OL,23,APub: 23-SepQppppppppppppppppppppppG8/19
+OL,23,APub: 24-SepQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
 PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G161FGreek PM urges Burnham to return
 OL,6,FElgin Marbles permanentlyA24-Sep
 OL,7,G
-OL,8,G162FHarry Potter play producer says
-OL,9,Fcost of living made two-part show
-OL,10,F'impossible'A24-Sep
+OL,8,G162FBBC upholds complaints over
+OL,9,FVictoria Beckham slur on Have I Got
+OL,10,FNews For YouA24-Sep
 OL,11,G
-OL,12,G163FTeen rocker Nene Royal becomes
-OL,13,Ffirst Thai to win America's Got Talent
-OL,14,A24-Sep
+OL,12,G163FHarry Potter play producer says
+OL,13,Fcost of living made two-part show
+OL,14,F'impossible'A24-Sep
 OL,15,G
-OL,16,G164FFederal judge delays ruling on
-OL,17,FWhite House media banA23-Sep
-OL,18,G
-OL,19,G165FThe chef turned award-winning
-OL,20,Fauthor unfazed by 'second book
-OL,21,Fsyndrome'A24-Sep
+OL,16,G164FTeen rocker Nene Royal becomes
+OL,17,Ffirst Thai to win America's Got Talent
+OL,18,A24-Sep
+OL,19,G
+OL,20,G165FFederal judge delays ruling on
+OL,21,FWhite House media banA23-Sep
 OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG9/19
 OL,24,ANext PageBTechnologyCNat RadioFShowreel
@@ -220,7 +223,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AGreek PM urges Burnham to return Elgin
@@ -247,7 +250,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AGreek PM urges Burnham to return Elgin
@@ -266,7 +269,55 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,ABBC upholds complaints over Victoria
+OL,4,ABeckham slur on Have I Got News For You
+OL,5,
+OL,6,FComplaints about the broadcast of a
+OL,7,Fswear word in connection with Victoria
+OL,8,FBeckham during an episode of BBC One's
+OL,9,FHave I Got News For You have been
+OL,10,Fupheld, the corporation's executive
+OL,11,Fcomplaints unit (ECU) has ruled.
+OL,13,FThe show from 7 November last year,
+OL,14,Fhosted by comic and presenter Katherine
+OL,15,FRyan, featured an email allegedly sent
+OL,16,Fby Sir David Beckham in which the
+OL,17,Fc-word was used.
+OL,23,APub: 24-SepQpppppppppppppppppppppG12/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,163,160,200,105,0,100
+PN,11913
+SC,0013
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1790274267
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,ABBC upholds complaints over Victoria
+OL,4,ABeckham slur on Have I Got News For You
+OL,5,
+OL,6,FRyan told the show's panellists: "I
+OL,7,Fdon't know that we are allowed to
+OL,8,Fbroadcast the c-word, but you did
+OL,9,Freference Victoria Beckham earlier and
+OL,10,Fwe'll allow that."
+OL,12,FTwo viewers complained that this was
+OL,13,Fgratuitously offensive, and the BBC
+OL,14,Fsaid there was no justification for a
+OL,15,Fcomment which "presented Victoria
+OL,16,FBeckham as equivalent to a particularly
+OL,17,Foffensive word".
+OL,23,APub: 24-SepQpppppppppppppppppppppG13/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,163,160,200,105,0,100
+PN,11914
+SC,0014
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AHarry Potter play producer says cost of
@@ -280,14 +331,14 @@ OL,10,Ftwo parts.
 OL,12,FThe production has been cut down to a
 OL,13,Fsingle three-hour show and is set to
 OL,14,Fre-open in the West End next month.
-OL,23,APub: 24-SepQpppppppppppppppppppppG12/19
+OL,23,APub: 24-SepQpppppppppppppppppppppG14/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,163,160,200,105,0,100
-PN,11913
-SC,0013
+FL,164,160,200,105,0,100
+PN,11915
+SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AHarry Potter play producer says cost of
@@ -305,53 +356,6 @@ OL,14,Finaccessible."
 OL,16,FThe two-part play, a sequel to JK
 OL,17,FRowling's books, premiered in the West
 OL,18,FEnd in 2016 and closed on 20 September.
-OL,23,APub: 24-SepQpppppppppppppppppppppG13/19
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,163,160,200,105,0,100
-PN,11914
-SC,0014
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ATeen rocker Nene Royal becomes first
-OL,4,AThai to win America's Got Talent
-OL,5,
-OL,6,FNene Royal, a 16-year-old rocker, has
-OL,7,Fbeen crowned the latest winner of
-OL,8,FAmerica's Got Talent - making her the
-OL,9,Ffirst ever Thai winner of the
-OL,10,Flong-running talent show.
-OL,12,FFor the show's finals on Tuesday in
-OL,13,FCalifornia, Nene, whose real name is
-OL,14,FRattikarn Amloy, performed a rendition
-OL,15,Fof Seven Nation Army by American rock
-OL,16,Fduo The White Stripes.
-OL,18,FHer heavy metal performances trumped
-OL,19,Fnine other finalists, including
-OL,20,Fmagician acts, canine performers and
-OL,21,Feven a robot dance crew.
-OL,23,APub: 24-SepQpppppppppppppppppppppG14/19
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,164,160,200,105,0,100
-PN,11915
-SC,0015
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ATeen rocker Nene Royal becomes first
-OL,4,AThai to win America's Got Talent
-OL,5,
-OL,6,FMany in Thailand are celebrating her
-OL,7,Fwin, with some saying they were proud
-OL,8,Fthat she had made it to "one of the
-OL,9,Fbiggest stages in the world". The Thai
-OL,10,Fgovernment has called her an
-OL,11,F"inspiration to anyone who dares to
-OL,12,Fdream big".
 OL,23,APub: 24-SepQpppppppppppppppppppppG15/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
@@ -359,7 +363,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
@@ -383,7 +387,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CThursday
@@ -412,7 +416,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
@@ -439,7 +443,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790273930
+OL,0,        ECIMSBWebfax 2   F119A1790274267
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CThursday
