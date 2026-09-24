@@ -2,22 +2,23 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1790212688
+OL,0,        ECIMSBWebfax 2   F211A1790214488
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0206 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0230 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0232 The Documentary
-OL,12,     FJeanny Wasielewsky meets a new
-OL,13,     Fgeneration of feminist activists.
-OL,14,G0300 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
+OL,5,G0232 The Documentary
+OL,6,     FJeanny Wasielewsky meets a new
+OL,7,     Fgeneration of feminist activists.
+OL,8,G0300 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G0306 Outlook
+OL,12,     FSteven Sherrill went from being a
+OL,13,     Fwelder and nude model to
+OL,14,     Fbestselling novelist. A
+OL,15,     Fmusic-obsessive, he then rode a
+OL,16,     Fmotorbike to the US South to play
+OL,17,     Fat his banjo idols' graves.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -25,27 +26,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1790212688
+OL,0,        ECIMSBWebfax 2   F211A1790214488
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0306 Outlook
-OL,6,     FSteven Sherrill went from being a
-OL,7,     Fwelder and nude model to
-OL,8,     Fbestselling novelist. A
-OL,9,     Fmusic-obsessive, he then rode a
-OL,10,     Fmotorbike to the US South to play
-OL,11,     Fat his banjo idols' graves.
-OL,12,G0350 Witness History
-OL,13,     FActivists from around the world
-OL,14,     Fmet at the Fifth Pan-African
-OL,15,     FCongress in Manchester in 1945
-OL,16,     Fhelping shape the struggle against
-OL,17,     Fcolonialism and racial
-OL,18,     Fdiscrimination.
-OL,19,G0400 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,5,G0350 Witness History
+OL,6,     FActivists from around the world
+OL,7,     Fmet at the Fifth Pan-African
+OL,8,     FCongress in Manchester in 1945
+OL,9,     Fhelping shape the struggle against
+OL,10,     Fcolonialism and racial
+OL,11,     Fdiscrimination.
+OL,12,G0400 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0406 The Newsroom
+OL,16,     FThe world's Newsroom brings you
+OL,17,     Fglobal events as they happen.
+OL,18,G0430 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -53,25 +53,19 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1790212688
+OL,0,        ECIMSBWebfax 2   F211A1790214488
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0406 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0430 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0432 The Food Chain
-OL,12,     FHow moving abroad changes what you
-OL,13,     Feat and cook.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 Newsday
-OL,18,     FLive news, business and sport from
-OL,19,     Faround the world.
+OL,5,G0432 The Food Chain
+OL,6,     FHow moving abroad changes what you
+OL,7,     Feat and cook.
+OL,8,G0500 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G0506 Newsday
+OL,12,     FLive news, business and sport from
+OL,13,     Faround the world.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
