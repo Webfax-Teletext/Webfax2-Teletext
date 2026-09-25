@@ -2,28 +2,26 @@ PN,46301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790320685
+OL,0,        ECIMSBWebfax 2   F463A1790324301
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G0800 Adhmhaidin
-OL,6,     FClar cursai reatha agus nuachta
-OL,7,     Fnaisiunta, idirnaisiunta agus
-OL,8,     Faitiuil le tuairisc spoirt agus
-OL,9,     Ftuairisc ar na nuachtain
-OL,10,G0900 Priomhscealta na Nuachta agus na
-OL,11,G     Gaeltachta
-OL,12,     FPriomhscealta na Nuachta agus na
-OL,13,     FGaeltachta.
-OL,14,G0915 Iris Aniar
-OL,15,     FClar irise a chur i lathair o
-OL,16,     Fcheannaras Raidio na Gaeltachta i
-OL,17,     FgCasla.
-OL,18,G1015 Cuideachta Ceoil
-OL,19,     FClar ceoil a chur i lathair ag
-OL,20,     FEibhlin de Bhailis.
-OL,21,G1055 Tuairisc Spoirt
-OL,22,     FTuairisc Spoirt.
+OL,5,G0915 Iris Aniar
+OL,6,     FClar irise a chur i lathair o
+OL,7,     Fcheannaras Raidio na Gaeltachta i
+OL,8,     FgCasla.
+OL,9,G1015 Cuideachta Ceoil
+OL,10,     FClar ceoil a chur i lathair ag
+OL,11,     FEibhlin de Bhailis.
+OL,12,G1055 Tuairisc Spoirt
+OL,13,     FTuairisc Spoirt.
+OL,14,G1100 Barrscealta
+OL,15,     FClar irise a chur i lathair beo o
+OL,16,     Fstiuideo na nDoiri Beaga.
+OL,17,G1200 Priomhscealta na Nuachta agus na
+OL,18,G     Gaeltachta
+OL,19,     FPriomhscealta na Nuachta agus na
+OL,20,     FGaeltachta.
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -31,26 +29,23 @@ PN,46302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790320685
+OL,0,        ECIMSBWebfax 2   F463A1790324301
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G1100 Barrscealta
-OL,6,     FClar irise a chur i lathair beo o
-OL,7,     Fstiuideo na nDoiri Beaga.
-OL,8,G1200 Priomhscealta na Nuachta agus na
-OL,9,G     Gaeltachta
-OL,10,     FPriomhscealta na Nuachta agus na
-OL,11,     FGaeltachta.
-OL,12,G1208 An Saol o Dheas
-OL,13,     FClar irise, a chur i lathair beo o
-OL,14,     FBhaile na nGall.
-OL,15,G1300 Nuacht a hAon
-OL,16,     FAn barr is deireanai nuachta
-OL,17,     Fnaisiunta, idirnaisiunta agus
-OL,18,     Faitiuil.
-OL,19,G1400 Tuairisc Spoirt
-OL,20,     FTuairisc Spoirt.
+OL,5,G1208 An Saol o Dheas
+OL,6,     FClar irise, a chur i lathair beo o
+OL,7,     FBhaile na nGall.
+OL,8,G1300 Nuacht a hAon
+OL,9,     FAn barr is deireanai nuachta
+OL,10,     Fnaisiunta, idirnaisiunta agus
+OL,11,     Faitiuil.
+OL,12,G1400 Tuairisc Spoirt
+OL,13,     FTuairisc Spoirt.
+OL,14,G1405 Blas
+OL,15,     FScealta beaga agus mora phobal na
+OL,16,     FGaeilge ar fud an tuaiscirt.
+OL,17,     FLeiriu de chuid BBC Gaeilge
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -58,27 +53,27 @@ PN,46303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790320685
+OL,0,        ECIMSBWebfax 2   F463A1790324301
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G1405 Blas
-OL,6,     FScealta beaga agus mora phobal na
-OL,7,     FGaeilge ar fud an tuaiscirt.
-OL,8,     FLeiriu de chuid BBC Gaeilge
-OL,9,G1430 Focal ar Fhocal
-OL,10,     FAn t-iar chraoltoir Mairtin
-OL,11,     FJaimsie O Flaithearta a leigh on
-OL,12,     Fleabhar 'I mBeal na Farraige' don
-OL,13,     Fsraith 'Focal ar Fhocal' a
-OL,14,     Fcraoladh ar dtus i 1999.
-OL,15,G1500 Pe Sceal e
-OL,16,     FTa Pe Sceal E ag craoladh beo as
-OL,17,     FDoire inniu agus iad i lar na
-OL,18,     Fcathrach i dteach 'Peadar
-OL,19,     FO'Donnells, beidh ceoil beo agus
-OL,20,     Fpaineal cainte le clos ar clar an
-OL,21,     Flae inniu.
+OL,5,G1430 Focal ar Fhocal
+OL,6,     FAn t-iar chraoltoir Mairtin
+OL,7,     FJaimsie O Flaithearta a leigh on
+OL,8,     Fleabhar 'I mBeal na Farraige' don
+OL,9,     Fsraith 'Focal ar Fhocal' a
+OL,10,     Fcraoladh ar dtus i 1999.
+OL,11,G1500 Pe Sceal e
+OL,12,     FTa Pe Sceal E ag craoladh beo as
+OL,13,     FDoire inniu agus iad i lar na
+OL,14,     Fcathrach i dteach 'Peadar
+OL,15,     FO'Donnells, beidh ceoil beo agus
+OL,16,     Fpaineal cainte le clos ar clar an
+OL,17,     Flae inniu.
+OL,18,G1700 Tus Aite
+OL,19,     FClar cursai reatha agus nuachta a
+OL,20,     Fchur i lathair ag Fachtna O
+OL,21,     FDrisceoil.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -86,28 +81,24 @@ PN,46304
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790320685
+OL,0,        ECIMSBWebfax 2   F463A1790324301
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G1700 Tus Aite
-OL,6,     FClar cursai reatha agus nuachta a
-OL,7,     Fchur i lathair ag Fachtna O
-OL,8,     FDrisceoil.
-OL,9,G1755 Tuairisc Spoirt
-OL,10,     FTuairisc Spoirt.
-OL,11,G1800 Nuacht a Se
-OL,12,     FAn barr is deireanai nuachta
-OL,13,     Fnaisiunta, idirnaisiunta agus
-OL,14,     Faitiuil.
-OL,15,G1830 Fograi an Lae
-OL,16,     FImeachtai agus fograi na
-OL,17,     FGaeltachta.
-OL,18,G1900 Cuireadh Chun Ceoil
-OL,19,     FIs e an ceoltoir agus an cumadoir
-OL,20,     Faitheanta, Peadar O Riada o Chuil
-OL,21,     FAodha, a chuireann an clar ceoil
-OL,22,     Fseo i lathair.
+OL,5,G1755 Tuairisc Spoirt
+OL,6,     FTuairisc Spoirt.
+OL,7,G1800 Nuacht a Se
+OL,8,     FAn barr is deireanai nuachta
+OL,9,     Fnaisiunta, idirnaisiunta agus
+OL,10,     Faitiuil.
+OL,11,G1830 Fograi an Lae
+OL,12,     FImeachtai agus fograi na
+OL,13,     FGaeltachta.
+OL,14,G1900 Cuireadh Chun Ceoil
+OL,15,     FIs e an ceoltoir agus an cumadoir
+OL,16,     Faitheanta, Peadar O Riada o Chuil
+OL,17,     FAodha, a chuireann an clar ceoil
+OL,18,     Fseo i lathair.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
@@ -115,7 +106,7 @@ PN,46305
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790320685
+OL,0,        ECIMSBWebfax 2   F463A1790324301
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CFriday
