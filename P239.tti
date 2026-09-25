@@ -2,7 +2,7 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1790313568
+OL,0,        ECIMSBWebfax 2   F239A1790356751
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday
@@ -29,7 +29,7 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1790313568
+OL,0,        ECIMSBWebfax 2   F239A1790356751
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday
@@ -42,12 +42,14 @@ OL,10,     FLeague campaign away to Slovenia
 OL,11,     Fin Sebastien Pocognoli's first
 OL,12,     Fgame in charge of the national
 OL,13,     Fside.
-OL,14,G1455 Sportsound
-OL,15,     FSporting commentary, analysis and
-OL,16,     Fdebate.
-OL,17,G1700 Off the Ball
-OL,18,     FThe most petty and ill-informed
-OL,19,     Ffootball show on radio.
+OL,14,G1630 Off the Ball
+OL,15,     FThe most petty and ill-informed
+OL,16,     Ffootball show on radio.
+OL,17,G1730 Sportsound
+OL,18,     FDebating Scotland's performance
+OL,19,     Fagainst Slovenia in Sebastien
+OL,20,     FPocognoli's first match in charge
+OL,21,     Fas the fans get their say.
 OL,23,VppppppppppppppppppppppppppppppppppG2/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -55,22 +57,25 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1790313568
+OL,0,        ECIMSBWebfax 2   F239A1790356751
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday
-OL,5,G1730 Sportsound
-OL,6,     FDebating Scotland's performance
-OL,7,     Fagainst Slovenia in Sebastien
-OL,8,     FPocognoli's first match in charge
-OL,9,     Fas the fans get their say.
-OL,10,G1900 Take the Floor
-OL,11,     FTake the Floor celebrates ten
-OL,12,     Fyears of Gary Innes as presenter
-OL,13,     Fof the show. Join us as we look
-OL,14,     Fback on a decade of great music,
-OL,15,     Fwith sounds from brilliant bands
-OL,16,     Fand special guests.
+OL,5,G1900 Take the Floor
+OL,6,     FTake the Floor celebrates ten
+OL,7,     Fyears of Gary Innes as presenter
+OL,8,     Fof the show. Join us as we look
+OL,9,     Fback on a decade of great music,
+OL,10,     Fwith sounds from brilliant bands
+OL,11,     Fand special guests.
+OL,12,G2100 Piping Sounds
+OL,13,     FMicheal Steele shares more
+OL,14,     Fperformances form this year's
+OL,15,     FNorthern Meeting Piping
+OL,16,     FCompetition in Inverness,
+OL,17,     Fincluding sets from Finlay
+OL,18,     FJohnston, Ben Duncan, Ross Connor
+OL,19,     Fand more.
 OL,23,VppppppppppppppppppppppppppppppppppG3/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -78,27 +83,19 @@ PN,23904
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1790313568
+OL,0,        ECIMSBWebfax 2   F239A1790356751
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday
-OL,5,G2100 Piping Sounds
-OL,6,     FMicheal Steele shares more
-OL,7,     Fperformances form this year's
-OL,8,     FNorthern Meeting Piping
-OL,9,     FCompetition in Inverness,
-OL,10,     Fincluding sets from Finlay
-OL,11,     FJohnston, Ben Duncan, Ross Connor
-OL,12,     Fand more.
-OL,13,G2200 Roddy Hart's Mix Tape
-OL,14,     FIf you're setting off on an
-OL,15,     Fadventure or just making your way
-OL,16,     Fhome, Roddy's got you covered with
-OL,17,     Fmusic from Talking Heads, Teenage
-OL,18,     FFanclub, Grace Jones, Camera
-OL,19,     FObscura and more.
-OL,20,G0000 As BBC Radio 5 Live
-OL,21,     FJoining Radio 5 Live.
+OL,5,G2200 Roddy Hart's Mix Tape
+OL,6,     FIf you're setting off on an
+OL,7,     Fadventure or just making your way
+OL,8,     Fhome, Roddy's got you covered with
+OL,9,     Fmusic from Talking Heads, Teenage
+OL,10,     FFanclub, Grace Jones, Camera
+OL,11,     FObscura and more.
+OL,12,G0000 As BBC Radio 5 Live
+OL,13,     FJoining Radio 5 Live.
 OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
