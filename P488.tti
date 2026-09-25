@@ -2,7 +2,7 @@ PN,48801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790313568
+OL,0,        ECIMSBWebfax 2   F488A1790333290
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday
@@ -21,14 +21,14 @@ OL,16,     Fscealta na seachtaine: nuacht,
 OL,17,     Fpolaitiocht, cursai reatha go
 OL,18,     Fhaitiuil, go naisiunta agus ar fud
 OL,19,     Fna cruinne, le Mairin Ni Ghadhra
-OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,23,VppppppppppppppppppppppppppppppppppG1/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
 PN,48802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790313568
+OL,0,        ECIMSBWebfax 2   F488A1790333290
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday
@@ -49,14 +49,14 @@ OL,18,G1315 Sport an tSathairn
 OL,19,     FFaisneis, tuairisci, torthai,
 OL,20,     Fanailis agus trachtaireacht ar
 OL,21,     Fchursai spoirt an tSathairn.
-OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,23,VppppppppppppppppppppppppppppppppppG2/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
 PN,48803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F488A1790313568
+OL,0,        ECIMSBWebfax 2   F488A1790333290
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday
@@ -71,10 +71,25 @@ OL,12,G2000 Blas
 OL,13,     FScealta beaga agus mora phobal na
 OL,14,     FGaeilge ar fud an tuaiscirt.
 OL,15,     FLeiriu de chuid BBC Gaeilge
-OL,16,G2100 Rianta
-OL,17,     FClar ceoil ar linne, ceol na
-OL,18,     Fcruinne, ceolta nua agus ceolta
-OL,19,     Fnios sine.
-OL,23,VppppppppppppppppppppppppppppppppppG3/3
+OL,16,G2030 Ar Bhruach na Sionainne
+OL,17,     FCloisfear mic leinn Ollscoil
+OL,18,     FLuimnigh i mbun ceoil agus cainte
+OL,19,     Fsa tsraith seo.
+OL,23,VppppppppppppppppppppppppppppppppppG3/4
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,489,250,301,140,0,100
+PN,48804
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F488A1790333290
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G2100 Rianta
+OL,6,     FClar ceoil ar linne, ceol na
+OL,7,     Fcruinne, ceolta nua agus ceolta
+OL,8,     Fnios sine.
+OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,489,250,301,140,0,100
