@@ -1,16 +1,69 @@
-PN,25200
-SC,0000
+PN,25201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F252A1790381929
+PS,c008
+OL,0,        ECIMSBWebfax 2   F252A1790399969
 OL,1,Vzssssss{0Ww;js%7+ j;j;jjs"7jkj
 OL,2,Vupp=wfff5W-.*,%-. *.***(. %*.*,V(,,,,,,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday
+OL,5,G0600 Caroline Martin on BBC Radio
+OL,6,G     Bristol
+OL,7,     FNews, information and advice, plus
+OL,8,     Fgreat music for your Saturday
+OL,9,     Fbreakfast with Kate.
+OL,10,G1000 Andy Bennett on BBC Radio Bristol
+OL,11,     FJoin Andy for a mid-morning with
+OL,12,     Fplenty of laughs along the way.
+OL,13,G1400 BBC Radio Bristol Sport: Pre-match
+OL,14,     FLocal sporting features, and all
+OL,15,     Fthe pre-match build-up ahead of
+OL,16,     Ftoday's matches.
+OL,17,G1500 BBC Radio Bristol Sport
+OL,18,     FCoverage of Bristol Rovers v
+OL,19,     FExeter City in League Two.
+OL,20,     FKick-off at 3pm. NOT online.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,253,250,301,140,0,100
+PN,25202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F252A1790399969
+OL,1,Vzssssss{0Ww;js%7+ j;j;jjs"7jkj
+OL,2,Vupp=wfff5W-.*,%-. *.***(. %*.*,V(,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1700 BBC Radio Bristol Sport: Pre-match
+OL,6,     FLocal sporting features, and all
+OL,7,     Fthe pre-match build-up ahead of
+OL,8,     Ftoday's matches.
+OL,9,G1730 BBC Radio Bristol Sport
+OL,10,     FPrem Rugby coverage of Sale Sharks
+OL,11,     Fv Bristol Bears. Kick-off at
+OL,12,     F5.30pm.
+OL,13,G2000 BBC Introducing - The West
+OL,14,     FJames Threlfall brings the best in
+OL,15,     Fnew music from the West.
+OL,16,G2200 Late Night Jo
+OL,17,     FJo Good with late-night
+OL,18,     Fconversation, amazing stories and
+OL,19,     Fthe soundtrack to your night.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,253,250,301,140,0,100
+PN,25203
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F252A1790399969
+OL,1,Vzssssss{0Ww;js%7+ j;j;jjs"7jkj
+OL,2,Vupp=wfff5W-.*,%-. *.***(. %*.*,V(,,,,,,
+OL,3,V}yyy5CSaturday
 OL,5,G0100 Weekend overnights with BBC Radio
 OL,6,G     5 Live
 OL,7,     FLocal BBC Radio joins BBC Radio 5
 OL,8,     FLive through the night on a
 OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,253,250,301,140,0,100

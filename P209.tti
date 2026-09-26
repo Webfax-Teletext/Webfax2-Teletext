@@ -1,17 +1,68 @@
-PN,20900
-SC,0000
+PN,20901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1790378298
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1790399968
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday
+OL,5,G0600 This Is Sports Extra
+OL,6,     FThis is BBC Radio 5 Sports Extra -
+OL,7,     Fbringing you even more live
+OL,8,     Fcommentaries from the world's
+OL,9,     Fgreatest sporting events. Listen
+OL,10,     Fon BBC Sounds.
+OL,11,G1025 County Cricket
+OL,12,     FKevin Howells presents live
+OL,13,     Fball-by-ball cricket commentary
+OL,14,     Ffrom the County Championship.
+OL,15,G1315 Women's Super League Football
+OL,16,     FLive football commentary of
+OL,17,     FCharlton Athletic v Manchester
+OL,18,     FCity in the Women's Super League.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,210,200,300,120,0,100
+PN,20902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1790399968
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
+OL,3,V}yyy5CSaturday
+OL,5,G1530 Rugby Union
+OL,6,     FLive women's rugby union
+OL,7,     Fcommentary from BBC Radio Wales of
+OL,8,     FWales v USA in the WXV Global
+OL,9,     FSeries.
+OL,10,G1715 5 Live Rugby League
+OL,11,     FLive rugby league commentary of
+OL,12,     FWigan Warriors v Wakefield Trinity
+OL,13,     Fin the Super League semi-final.
+OL,14,G1930 This Is Sports Extra
+OL,15,     FThis is BBC Radio 5 Sports Extra -
+OL,16,     Fbringing you even more live
+OL,17,     Fcommentaries from the world's
+OL,18,     Fgreatest sporting events. Listen
+OL,19,     Fon BBC Sounds.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,210,200,300,120,0,100
+PN,20903
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1790399968
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
+OL,3,V}yyy5CSaturday
 OL,5,G0000 This Is Sports Extra
 OL,6,     FThis is BBC Radio 5 Sports Extra -
 OL,7,     Fbringing you even more live
 OL,8,     Fcommentaries from the world's
 OL,9,     Fgreatest sporting events. Listen
 OL,10,     Fon BBC Sounds.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,210,200,300,120,0,100

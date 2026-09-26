@@ -1,16 +1,58 @@
-PN,26200
-SC,0000
+PN,26201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F262A1790381929
+PS,c008
+OL,0,        ECIMSBWebfax 2   F262A1790399967
 OL,1,Vzssssss{0Ww;js%7+ jz`tjjj
 OL,2,Vupp=wfff5W-.*,%-. ** !*..V(,,,,,,,,,,,,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSaturday
+OL,5,G0600 Susan Hanks on BBC Hereford &
+OL,6,G     Worcester
+OL,7,     FRuss starts Saturday with stories,
+OL,8,     Fmorning updates and all the music
+OL,9,     Fyou love.
+OL,10,G1000 Liz Ellis on BBC Hereford &
+OL,11,G     Worcester
+OL,12,     FLiz puts a smile on your face with
+OL,13,     Fgreat guests, big events and all
+OL,14,     Fthe music you love.
+OL,15,G1230 BBC Hereford & Worcester Sport
+OL,16,     FChamp Rugby coverage of Worcester
+OL,17,     FWarriors v Rotherham Titans.
+OL,18,     FKick-off at 1pm.
+OL,19,G1500 BBC Hereford & Worcester Sport
+OL,20,     FCoverage of Kidderminster Harriers
+OL,21,     Fv Yeovil Town in the National
+OL,22,     FLeague. Kick-off at 3pm.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,263,250,301,140,0,100
+PN,26202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F262A1790399967
+OL,1,Vzssssss{0Ww;js%7+ jz`tjjj
+OL,2,Vupp=wfff5W-.*,%-. ** !*..V(,,,,,,,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1800 Upload with Nina Das Gupta
+OL,6,     FThe Avengers, Star Wars, Indiana
+OL,7,     FJones: Stourport's Paul Shipper
+OL,8,     Fhas drawn them all.
+OL,9,G2000 BBC Introducing - Shropshire,
+OL,10,G     Stoke, Hereford & Worcester
+OL,11,     FAlbrighton's rising rock star
+OL,12,     Freturns home with tracks from her
+OL,13,     Fnew album in tow.
+OL,14,G2200 Late Night Jo
+OL,15,     FJo Good with late-night
+OL,16,     Fconversation, amazing stories and
+OL,17,     Fthe soundtrack to your night.
+OL,18,G0100 Weekend overnights with BBC Radio
+OL,19,G     5 Live
+OL,20,     FLocal BBC Radio joins BBC Radio 5
+OL,21,     FLive through the night on a
+OL,22,     Fweekend.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,263,250,301,140,0,100
