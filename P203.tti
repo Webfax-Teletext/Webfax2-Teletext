@@ -2,24 +2,23 @@ PN,20301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1790407093
+OL,0,        ECIMSBWebfax 2   F203A1790414328
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G0800 Where the Light Sings
-OL,6,     FMarking 200 years of Longstone
-OL,7,     FLighthouse, Radio 3 embarks on a
-OL,8,     Flive musical relay around
-OL,9,     FBritain's coast, celebrating our
-OL,10,     Flighthouses through music, stories
-OL,11,     Fand sound.
-OL,12,G1000 Where the Light Sings
-OL,13,     FRadio 3 embarks on a live musical
-OL,14,     Frelay around Britain's coast,
-OL,15,     Fcelebrating our lighthouses
-OL,16,     Fthrough music, stories and sound.
-OL,17,     FTom Service is live from
-OL,18,     FArdnamurchan Lighthouse.
+OL,5,G1000 Where the Light Sings
+OL,6,     FRadio 3 embarks on a live musical
+OL,7,     Frelay around Britain's coast,
+OL,8,     Fcelebrating our lighthouses
+OL,9,     Fthrough music, stories and sound.
+OL,10,     FTom Service is live from
+OL,11,     FArdnamurchan Lighthouse.
+OL,12,G1200 Where the Light Sings
+OL,13,     FMarking 200 years of Longstone
+OL,14,     FLighthouse, Radio 3 celebrates the
+OL,15,     Flighthouses of the British Isles,
+OL,16,     Fas the journey reaches Rathlin's
+OL,17,     Ficonic West Light.
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -27,23 +26,24 @@ PN,20302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1790407093
+OL,0,        ECIMSBWebfax 2   F203A1790414328
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1200 Where the Light Sings
+OL,5,G1400 Where the Light Sings
 OL,6,     FMarking 200 years of Longstone
-OL,7,     FLighthouse, Radio 3 celebrates the
-OL,8,     Flighthouses of the British Isles,
-OL,9,     Fas the journey reaches Rathlin's
-OL,10,     Ficonic West Light.
-OL,11,G1400 Where the Light Sings
-OL,12,     FMarking 200 years of Longstone
-OL,13,     FLighthouse, Radio 3 embarks on a
-OL,14,     Flive musical relay around
-OL,15,     FBritain's coast, celebrating our
-OL,16,     Flighthouses through music, stories
-OL,17,     Fand sound.
+OL,7,     FLighthouse, Radio 3 embarks on a
+OL,8,     Flive musical relay around
+OL,9,     FBritain's coast, celebrating our
+OL,10,     Flighthouses through music, stories
+OL,11,     Fand sound.
+OL,12,G1600 Where the Light Sings
+OL,13,     FMarking 200 years of Longstone
+OL,14,     FLighthouse, Radio 3 embarks on a
+OL,15,     Flive musical relay around
+OL,16,     FBritain's coast, celebrating our
+OL,17,     Flighthouses through music, stories
+OL,18,     Fand sound.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -51,23 +51,28 @@ PN,20303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1790407093
+OL,0,        ECIMSBWebfax 2   F203A1790414328
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1600 Where the Light Sings
-OL,6,     FMarking 200 years of Longstone
-OL,7,     FLighthouse, Radio 3 embarks on a
-OL,8,     Flive musical relay around
-OL,9,     FBritain's coast, celebrating our
-OL,10,     Flighthouses through music, stories
-OL,11,     Fand sound.
-OL,12,G1800 Where the Light Sings
-OL,13,     FFor the final light of the day,
-OL,14,     FPetroc Trelawny concludes his
-OL,15,     Fjourney heading towards the
-OL,16,     Fsetting sun and to where Britain
-OL,17,     Fdissolves into the ocean.
+OL,5,G1800 Where the Light Sings
+OL,6,     FFor the final light of the day,
+OL,7,     FPetroc Trelawny concludes his
+OL,8,     Fjourney heading towards the
+OL,9,     Fsetting sun and to where Britain
+OL,10,     Fdissolves into the ocean.
+OL,11,G2000 100 Years of the Shipping Forecast
+OL,12,     FCaroline Nicholls and Al Ryan
+OL,13,     Fcelebrate the centenary of the
+OL,14,     FShipping Forecast - music and
+OL,15,     Freadings inspired by the sea in an
+OL,16,     Fevent that speaks to the heart of
+OL,17,     Four island nation.
+OL,18,G2050 Classical Mixtape
+OL,19,     FHalf an hour of back to back
+OL,20,     Fclassical music including works by
+OL,21,     FElgar, Bach, Amy Beach and Philip
+OL,22,     FGlass.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -75,28 +80,22 @@ PN,20304
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1790407093
+OL,0,        ECIMSBWebfax 2   F203A1790414328
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G2000 100 Years of the Shipping Forecast
-OL,6,     FCaroline Nicholls and Al Ryan
-OL,7,     Fcelebrate the centenary of the
-OL,8,     FShipping Forecast - music and
-OL,9,     Freadings inspired by the sea in an
-OL,10,     Fevent that speaks to the heart of
-OL,11,     Four island nation.
-OL,12,G2050 Classical Mixtape
-OL,13,     FHalf an hour of back to back
-OL,14,     Fclassical music including works by
-OL,15,     FElgar, Bach, Amy Beach and Philip
-OL,16,     FGlass.
-OL,17,G2130 Music Planet
-OL,18,     FLopa Kothari presents the best in
-OL,19,     Ffolk and roots-based music from
-OL,20,     Faround the world, with Bahamian
-OL,21,     Fharmonies and footstomping rhythms
-OL,22,     Ffrom southern Italy.
+OL,5,G2130 Music Planet
+OL,6,     FLopa Kothari presents the best in
+OL,7,     Ffolk and roots-based music from
+OL,8,     Faround the world, with Bahamian
+OL,9,     Fharmonies and footstomping rhythms
+OL,10,     Ffrom southern Italy.
+OL,11,G2230 New Music Show
+OL,12,     FKate Molleson with live recordings
+OL,13,     Fof music by Martin Arnold,
+OL,14,     FMeredith Monk and Laurence Dunn as
+OL,15,     Fwell as a round-up of the latest
+OL,16,     Fnew releases.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -104,23 +103,17 @@ PN,20305
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1790407093
+OL,0,        ECIMSBWebfax 2   F203A1790414328
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G2230 New Music Show
-OL,6,     FKate Molleson with live recordings
-OL,7,     Fof music by Martin Arnold,
-OL,8,     FMeredith Monk and Laurence Dunn as
-OL,9,     Fwell as a round-up of the latest
-OL,10,     Fnew releases.
-OL,11,G0030 Through the Night
-OL,12,     FThe Vienna Philharmonic Orchestra
-OL,13,     Fand conductor Franz Welser-Most
-OL,14,     Fplay Berg's Lulu Suite and
-OL,15,     FBruckner's spectacular work
-OL,16,     Fdedicated to God: his ninth
-OL,17,     Fsymphony.
+OL,5,G0030 Through the Night
+OL,6,     FThe Vienna Philharmonic Orchestra
+OL,7,     Fand conductor Franz Welser-Most
+OL,8,     Fplay Berg's Lulu Suite and
+OL,9,     FBruckner's spectacular work
+OL,10,     Fdedicated to God: his ninth
+OL,11,     Fsymphony.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
