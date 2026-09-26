@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,27 +24,27 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FOpenAI investigating 'dozens' of
-OL,6,Finstances of agents acting improperly
-OL,7,A25-Sep
-OL,8,G
-OL,9,G107FInside iconic horror game Silent
-OL,10,FHill's Scottish makeoverA25-Sep
-OL,11,G
-OL,12,G108FSpecial agents' blood and urine
-OL,13,Ftest results stolen in FBI hackA25-Sep
-OL,14,G
-OL,15,G109FUS backs Elon Musk's bid to
-OL,16,Foverturn bB,120m EU fine against X
-OL,17,A25-Sep
-OL,18,G
-OL,19,G110FX-planes: Are they needed in the
-OL,20,Fnew era of drones?A24-Sep
-OL,21,G
+OL,5,G106FOpenAI bots meddled with multiple
+OL,6,FUS government agency sitesA25-Sep
+OL,7,G
+OL,8,G107FInside iconic horror game Silent
+OL,9,FHill's Scottish makeoverA25-Sep
+OL,10,G
+OL,11,G108FSpecial agents' blood and urine
+OL,12,Ftest results stolen in FBI hackA25-Sep
+OL,13,G
+OL,14,G109FUS backs Elon Musk's bid to
+OL,15,Foverturn bB,120m EU fine against X
+OL,16,A25-Sep
+OL,17,G
+OL,18,G110FX-planes: Are they needed in the
+OL,19,Fnew era of drones?A24-Sep
+OL,20,G
+OL,21,F
 OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
@@ -53,21 +53,22 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AOpenAI investigating 'dozens' of
-OL,4,Ainstances of agents acting improperly
+OL,3,AOpenAI bots meddled with multiple US
+OL,4,Agovernment agency sites
 OL,5,
-OL,6,FOpenAI said Friday it had alerted
+OL,6,FOpenAI has acknowledged that it alerted
 OL,7,F"dozens" of global institutions that
-OL,8,Ftheir websites may have been impacted
-OL,9,Fby its AI agents acting improperly.
-OL,11,FThe technology attempted to get
-OL,12,Finformation from "governments,
-OL,13,Funiversities, public agencies, and
-OL,14,Fother institutions" through sometimes
-OL,15,Fextreme means, the company said.
+OL,8,Ftheir websites may have been meddled
+OL,9,Fwith by its AI bots acting improperly.
+OL,11,FAI agents attempted to get information
+OL,12,Ffrom "governments, universities, public
+OL,13,Fagencies, and other institutions,"
+OL,14,Fincluding the SEC, Census Bureau and
+OL,15,FDepartment of Education, the company
+OL,16,Fsaid.
 OL,23,APub: 25-SepQppppppppppppppppppppppG3/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,107,105,200,160,0,100
@@ -75,23 +76,22 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AOpenAI investigating 'dozens' of
-OL,4,Ainstances of agents acting improperly
+OL,3,AOpenAI bots meddled with multiple US
+OL,4,Agovernment agency sites
 OL,5,
 OL,6,FWhile some of the activity was due to
-OL,7,Fthe tools working to find
+OL,7,Fthe AI tools working to find
 OL,8,F"authoritative sources of public
-OL,9,Finformation", some went beyond that.
-OL,10,FLike an AI agent taking and
-OL,11,Ftransferring data when it should not
-OL,12,Fhave, OpenAI said.
-OL,14,FSuch activity resulted in at least 53
-OL,15,Fincidents where an OpenAI agent took an
-OL,16,Fimage from ChatGPT user activity and
-OL,17,Ftransferred it elsewhere.
+OL,9,Finformation", some went beyond that
+OL,10,Fwith bots getting around security
+OL,11,Fmeasures on websites.
+OL,13,FWhen attempting to get information from
+OL,14,Fthe Census Bureau, for instance, AI
+OL,15,Fagents used tools reserved for software
+OL,16,Fdevelopers to access it.
 OL,23,APub: 25-SepQppppppppppppppppppppppG4/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,107,105,200,160,0,100
@@ -99,7 +99,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AInside iconic horror game Silent Hill's
@@ -126,7 +126,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AInside iconic horror game Silent Hill's
@@ -144,7 +144,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ASpecial agents' blood and urine test
@@ -172,7 +172,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ASpecial agents' blood and urine test
@@ -191,7 +191,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -220,7 +220,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AEd Sheeran's next US concerts cancelled
@@ -248,7 +248,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AEd Sheeran's next US concerts cancelled
@@ -269,7 +269,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASome BBC channels and radio stations
@@ -294,7 +294,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASome BBC channels and radio stations
@@ -318,7 +318,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AJay-Z rape accuser says her allegation
@@ -342,7 +342,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AJay-Z rape accuser says her allegation
@@ -361,7 +361,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
@@ -384,7 +384,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CFriday
@@ -412,7 +412,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday
@@ -429,7 +429,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790389090
+OL,0,        ECIMSBWebfax 2   F119A1790389448
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CFriday
