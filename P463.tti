@@ -2,74 +2,53 @@ PN,46301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790417899
+OL,0,        ECIMSBWebfax 2   F463A1790421492
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1100 An tSeachtain le Mairin Ni Ghadhra
-OL,6,     FClar seachtainiuil, a riomhfaidh
-OL,7,     Fscealta na seachtaine: nuacht,
-OL,8,     Fpolaitiocht, cursai reatha go
-OL,9,     Fhaitiuil, go naisiunta agus ar fud
-OL,10,     Fna cruinne, le Mairin Ni Ghadhra
-OL,11,G1200 Priomhscealta na Nuachta agus na
-OL,12,G     Gaeltachta
-OL,13,     FPriomhscealta na Nuachta agus na
-OL,14,     FGaeltachta.
-OL,15,G1208 Togha agus Rogha
-OL,16,     FCeol agus iarratais a chur i
-OL,17,     Flathair ag Edel Ni Loibhead, beo o
-OL,18,     Fstiuideo Bhaile na nGall i gContae
-OL,19,     FChiarrai.
-OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,5,G1208 Togha agus Rogha
+OL,6,     FCeol agus iarratais a chur i
+OL,7,     Flathair ag Edel Ni Loibhead, beo o
+OL,8,     Fstiuideo Bhaile na nGall i gContae
+OL,9,     FChiarrai.
+OL,10,G1300 Nuacht a hAon
+OL,11,     FAn barr is deireanai nuachta
+OL,12,     Fnaisiunta, idirnaisiunta agus
+OL,13,     Faitiuil.
+OL,14,G1315 Sport an tSathairn
+OL,15,     FFaisneis, tuairisci, torthai,
+OL,16,     Fanailis agus trachtaireacht ar
+OL,17,     Fchursai spoirt an tSathairn.
+OL,18,G1740 Nuacht a Se
+OL,19,     FAn barr is deireanai nuachta
+OL,20,     Fnaisiunta, idirnaisiunta agus
+OL,21,     Faitiuil.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
 PN,46302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790417899
+OL,0,        ECIMSBWebfax 2   F463A1790421492
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1300 Nuacht a hAon
-OL,6,     FAn barr is deireanai nuachta
-OL,7,     Fnaisiunta, idirnaisiunta agus
-OL,8,     Faitiuil.
-OL,9,G1315 Sport an tSathairn
-OL,10,     FFaisneis, tuairisci, torthai,
-OL,11,     Fanailis agus trachtaireacht ar
-OL,12,     Fchursai spoirt an tSathairn.
-OL,13,G1740 Nuacht a Se
-OL,14,     FAn barr is deireanai nuachta
-OL,15,     Fnaisiunta, idirnaisiunta agus
-OL,16,     Faitiuil.
-OL,17,G1755 Sport an Trathnona
-OL,18,     FClar spoirt an trathnona a chur i
-OL,19,     Flathair o Bhaile na nGall.
-OL,23,VppppppppppppppppppppppppppppppppppG2/3
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,464,250,301,140,0,100
-PN,46303
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1790417899
-OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
-OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G2000 Blas
-OL,6,     FScealta beaga agus mora phobal na
-OL,7,     FGaeilge ar fud an tuaiscirt.
-OL,8,     FLeiriu de chuid BBC Gaeilge
-OL,9,G2030 Ar Bhruach na Sionainne
-OL,10,     FCloisfear mic leinn Ollscoil
-OL,11,     FLuimnigh i mbun ceoil agus cainte
-OL,12,     Fsa tsraith seo.
-OL,13,G2100 Rianta
-OL,14,     FClar ceoil ar linne, ceol na
-OL,15,     Fcruinne, ceolta nua agus ceolta
-OL,16,     Fnios sine.
-OL,23,VppppppppppppppppppppppppppppppppppG3/3
+OL,5,G1755 Sport an Trathnona
+OL,6,     FClar spoirt an trathnona a chur i
+OL,7,     Flathair o Bhaile na nGall.
+OL,8,G2000 Blas
+OL,9,     FScealta beaga agus mora phobal na
+OL,10,     FGaeilge ar fud an tuaiscirt.
+OL,11,     FLeiriu de chuid BBC Gaeilge
+OL,12,G2030 Ar Bhruach na Sionainne
+OL,13,     FCloisfear mic leinn Ollscoil
+OL,14,     FLuimnigh i mbun ceoil agus cainte
+OL,15,     Fsa tsraith seo.
+OL,16,G2100 Rianta
+OL,17,     FClar ceoil ar linne, ceol na
+OL,18,     Fcruinne, ceolta nua agus ceolta
+OL,19,     Fnios sine.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
