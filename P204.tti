@@ -1,45 +1,26 @@
-PN,20401
-SC,0001
+PN,20400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1790464694
+PS,8008
+OL,0,        ECIMSBWebfax 2   F204A1790468345
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G0015 Take Four Books
-OL,6,     FThe Irish writer, Donal Ryan,
-OL,7,     Fspeaks about his latest novel,
-OL,8,     FWhere Are The Kings, and, together
-OL,9,     Fwith presenter James Crawford,
-OL,10,     Fthey explore its connections to
-OL,11,     Fthree other books.
-OL,12,G0048 Shipping Forecast
-OL,13,G0100 World Service
-OL,14,     FBBC Radio 4 joins the BBC World
-OL,15,     FService.
-OL,16,G0530 News Summary
-OL,17,G0534 Shipping Forecast
-OL,18,G0543 Bells on Sunday
-OL,19,     FBells on Sunday comes from the
-OL,20,     Fchurch of St Swithin in Hempsted,
-OL,21,     FGloucestershire.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,205,200,300,120,0,100
-PN,20402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1790464694
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0545 In Touch
-OL,6,     FIn Touch reports on an initiative
-OL,7,     Fthat helps blind and partially
-OL,8,     Fsighted people access one of the
-OL,9,     Fworlds most prestigious fashion
-OL,10,     Fevents: London Fashion Week.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G0100 World Service
+OL,6,     FBBC Radio 4 joins the BBC World
+OL,7,     FService.
+OL,8,G0530 News Summary
+OL,9,G0534 Shipping Forecast
+OL,10,G0543 Bells on Sunday
+OL,11,     FBells on Sunday comes from the
+OL,12,     Fchurch of St Swithin in Hempsted,
+OL,13,     FGloucestershire.
+OL,14,G0545 In Touch
+OL,15,     FIn Touch reports on an initiative
+OL,16,     Fthat helps blind and partially
+OL,17,     Fsighted people access one of the
+OL,18,     Fworlds most prestigious fashion
+OL,19,     Fevents: London Fashion Week.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
