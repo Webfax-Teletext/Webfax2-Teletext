@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -34,17 +34,17 @@ OL,7,G
 OL,8,G107FInside iconic horror game Silent
 OL,9,FHill's Scottish makeoverA25-Sep
 OL,10,G
-OL,11,G108FSpecial agents' blood and urine
-OL,12,Ftest results stolen in FBI hackA25-Sep
-OL,13,G
-OL,14,G109FUS backs Elon Musk's bid to
-OL,15,Foverturn bB,120m EU fine against X
-OL,16,A25-Sep
+OL,11,G108FInside the FBI hack: Agents fearful
+OL,12,Fand angry after 'dangerous' data breach
+OL,13,A25-Sep
+OL,14,G
+OL,15,G109FSpecial agents' blood and urine
+OL,16,Ftest results stolen in FBI hackA25-Sep
 OL,17,G
-OL,18,G110FX-planes: Are they needed in the
-OL,19,Fnew era of drones?A24-Sep
-OL,20,G
-OL,21,F
+OL,18,G110FUS backs Elon Musk's bid to
+OL,19,Foverturn bB,120m EU fine against X
+OL,20,A25-Sep
+OL,21,G
 OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AOpenAI bots meddled with multiple US
@@ -77,7 +77,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AOpenAI bots meddled with multiple US
@@ -100,7 +100,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AInside iconic horror game Silent Hill's
@@ -127,7 +127,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AInside iconic horror game Silent Hill's
@@ -145,27 +145,27 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ASpecial agents' blood and urine test
-OL,4,Aresults stolen in FBI hack
+OL,3,AInside the FBI hack: Agents fearful and
+OL,4,Aangry after 'dangerous' data breach
 OL,5,
-OL,6,FCyber-criminals who hacked the FBI say
-OL,7,Fthey have extremely sensitive medical
-OL,8,Fdata for thousands of its special
-OL,9,Fagents.
-OL,11,FBBC News has seen samples of the stolen
-OL,12,F"fitness-for-work" medical
-OL,13,Fexaminations, which contain information
-OL,14,Fsuch as blood and urine test results,
-OL,15,Fand doctors' notes mentioning
-OL,16,Fconditions such as a "shellfish and
-OL,17,Fbanana allergy".
-OL,19,FThe records include agents' full names
-OL,20,Fand addresses, as well as references to
-OL,21,Fmedical concerns including 'blood in
-OL,22,Fthe urine' and 'high cholesterol'.
+OL,6,FCurrent and former FBI agents have
+OL,7,Fspoken to BBC News of their shock, fear
+OL,8,Fand anger following a hack that appears
+OL,9,Fto have exposed the private and
+OL,10,Fpersonal information of the agency's
+OL,11,Fentire workforce.
+OL,13,F"This is really bad for our undercover
+OL,14,Fagents," says one former FBI agent, who
+OL,15,Ffears for the safety of his colleagues.
+OL,17,FThe former cyber investigator is in a
+OL,18,Fgroup chat with current agents who are
+OL,19,Fworried their personal information
+OL,20,Fcould soon be freely available online
+OL,21,Fto criminals and hostile nation-state
+OL,22,Fhackers.
 OL,23,APub: 25-SepQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
@@ -173,18 +173,17 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ASpecial agents' blood and urine test
-OL,4,Aresults stolen in FBI hack
+OL,3,AInside the FBI hack: Agents fearful and
+OL,4,Aangry after 'dangerous' data breach
 OL,5,
-OL,6,FExperts say the hack - which the FBI is
-OL,7,Finvestigating - could leave agents
-OL,8,Fvulnerable to scams, blackmail and
-OL,9,Ftargeted attacks, as well as help
-OL,10,Fcriminals impersonate law enforcement
-OL,11,Fofficers.
+OL,6,FHe says staff fear they could be
+OL,7,Ftargeted, or that criminals could use
+OL,8,Fthe data to create highly convincing
+OL,9,Fphishing attempts, scams or demands for
+OL,10,Fbribes.
 OL,23,APub: 25-SepQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
@@ -192,26 +191,26 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G161FTaylor Swift breaks record for most
 OL,6,FMTV VMAs as Madonna also winsA28-Sep
 OL,7,G
-OL,8,G162FCelebrity Traitors 2 cast: Who are
-OL,9,Fthis year's 'big dogs' and dark horses?
-OL,10,A26-Sep
-OL,11,G
-OL,12,G163FNews media must stay relevant or
-OL,13,F'society will struggle', says World
-OL,14,FNews Day organiserA27-Sep
-OL,15,G
-OL,16,G164F'All options' considered for
-OL,17,FBanksy's flag statueA28-Sep
+OL,8,G162FAngela Scanlon takes over Sara
+OL,9,FCox's drivetime slot on Radio 2A28-Sep
+OL,10,G
+OL,11,G163FCelebrity Traitors 2 cast: Who are
+OL,12,Fthis year's 'big dogs' and dark horses?
+OL,13,A26-Sep
+OL,14,G
+OL,15,G164FNews media must stay relevant or
+OL,16,F'society will struggle', says World
+OL,17,FNews Day organiserA27-Sep
 OL,18,G
-OL,19,G165FU2 celebrate 50th anniversary at
-OL,20,Fthe school where they formedA25-Sep
+OL,19,G165F'All options' considered for
+OL,20,FBanksy's flag statueA28-Sep
 OL,21,G
 OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG9/19
@@ -221,7 +220,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ATaylor Swift breaks record for most MTV
@@ -244,7 +243,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ATaylor Swift breaks record for most MTV
@@ -253,13 +252,14 @@ OL,5,
 OL,6,FThe original Queen of Pop, Madonna, won
 OL,7,Fartist of the year, best dance and best
 OL,8,Fcollaboration alongside Sabrina
-OL,9,FCarpenter for their track Bring Your
-OL,10,FLove, which was the lead single from
-OL,11,FMadonna's 2026 album Confessions II.
-OL,13,FSwift also received the inaugural award
-OL,14,Ffor artist director, having written and
-OL,15,Fdirected the glitzy and theatrical
-OL,16,FOphelia music video herself.
+OL,9,FCarpenter for their dancefloor-filler
+OL,10,FBring Your Love, which was the lead
+OL,11,Fsingle from Madonna's 2026 album
+OL,12,FConfessions II.
+OL,14,FSwift also received the inaugural award
+OL,15,Ffor artist director, having written and
+OL,16,Fdirected the glitzy and theatrical
+OL,17,FOphelia music video herself.
 OL,23,APub: 28-SepQpppppppppppppppppppppG11/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
@@ -267,7 +267,52 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,AAngela Scanlon takes over Sara Cox's
+OL,4,Adrivetime slot on Radio 2
+OL,5,
+OL,6,FAngela Scanlon is to take over BBC
+OL,7,FRadio 2's drivetime show after Sara Cox
+OL,8,Fmoved to the breakfast slot.
+OL,10,FThe Irish personality said it was
+OL,11,F"properly exciting" to be hosting the
+OL,12,Fstation's 16:00-19:00 show every
+OL,13,Fweekday from November.
+OL,15,FShe said: "Millions of people, all
+OL,16,Fhaving completely different days,
+OL,17,Fpiling into the same conversation for a
+OL,18,Ffew hours - what a strange and lovely
+OL,19,Fthing!"
+OL,23,APub: 28-SepQpppppppppppppppppppppG12/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,163,160,200,105,0,100
+PN,11913
+SC,0013
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1790583863
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,AAngela Scanlon takes over Sara Cox's
+OL,4,Adrivetime slot on Radio 2
+OL,5,
+OL,6,FScanlon, who hosted a Sunday early
+OL,7,Fmorning programme on the station from
+OL,8,F2018 to 2021, was among a number of
+OL,9,Fpeople who filled in after Cox vacated
+OL,10,Fthe drivetime slot in May, including
+OL,11,FJoel Dommett, Jason Manford, Ellie
+OL,12,FTaylor, Alex Jones and Gary Davies.
+OL,23,APub: 28-SepQpppppppppppppppppppppG13/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,163,160,200,105,0,100
+PN,11914
+SC,0014
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ACelebrity Traitors 2 cast: Who are this
@@ -283,14 +328,14 @@ OL,13,Ffamous "faithfuls" attempts to work out
 OL,14,Fwhich among them are - and perhaps,
 OL,15,Falways have been - "traitors", secretly
 OL,16,Fmurdering contestants each night.
-OL,23,APub: 26-SepQpppppppppppppppppppppG12/19
+OL,23,APub: 26-SepQpppppppppppppppppppppG14/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,163,160,200,105,0,100
-PN,11913
-SC,0013
+FL,164,160,200,105,0,100
+PN,11915
+SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ACelebrity Traitors 2 cast: Who are this
@@ -308,65 +353,14 @@ OL,15,Fwho might follow in Jonathan Ross's
 OL,16,Ffootsteps as this year's "big dog", and
 OL,17,Fwho, like singer Cat Burns, could fly
 OL,18,Funder the radar?
-OL,23,APub: 26-SepQpppppppppppppppppppppG13/19
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,163,160,200,105,0,100
-PN,11914
-SC,0014
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ANews media must stay relevant or
-OL,4,A'society will struggle', says World
-OL,5,ANews Day organiser
-OL,6,
-OL,7,FMore than 1,000 news providers around
-OL,8,Fthe world have signed up to support
-OL,9,FWorld News Day on Monday, which aims to
-OL,10,Fpromote the role of journalism at a
-OL,11,Ftime when organisers say the industry
-OL,12,Ffaces an "existential threat".
-OL,14,FParticipating media organisations,
-OL,15,Fincluding the New York Times, Reuters
-OL,16,Fand the Kyiv Independent, are sharing
-OL,17,Feditorials, ads and cartoons to
-OL,18,Fhighlight the value of "trusted
-OL,19,Fjournalism".
-OL,23,APub: 27-SepQpppppppppppppppppppppG14/19
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,164,160,200,105,0,100
-PN,11915
-SC,0015
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ANews media must stay relevant or
-OL,4,A'society will struggle', says World
-OL,5,ANews Day organiser
-OL,6,
-OL,7,FTrust in news dropped to a new low
-OL,8,Fglobally in 2026, according to the
-OL,9,FReuters Institute's latest Digital News
-OL,10,FReport, which noted that people are
-OL,11,Fincreasingly turning to social media
-OL,12,Fand AI chatbots for news.
-OL,14,FBranko Brkic, co-organiser of World
-OL,15,FNews Day, said media organisations that
-OL,16,Fwere once rivals must work together,
-OL,17,Fadding: "If we do not change the game,
-OL,18,Fwe are just not going to exist."
-OL,23,APub: 27-SepQpppppppppppppppppppppG15/19
+OL,23,APub: 26-SepQpppppppppppppppppppppG15/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
 PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CMonday
@@ -394,7 +388,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CMonday
@@ -420,7 +414,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CMonday
@@ -446,7 +440,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790583496
+OL,0,        ECIMSBWebfax 2   F119A1790583863
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CMonday
