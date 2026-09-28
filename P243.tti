@@ -2,10 +2,10 @@ PN,24301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F243A1790486367
+OL,0,        ECIMSBWebfax 2   F243A1790572783
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G0000 Gweler BBC Radio 2
 OL,6,     FMae Radio Cymru 2 yn ymuno a BBC
 OL,7,     FRadio 2 dros nos.
@@ -31,27 +31,26 @@ PN,24302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F243A1790486367
+OL,0,        ECIMSBWebfax 2   F243A1790572783
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G1700 Traciau Radio Cymru 2
 OL,6,     FTiwns trwy'r dydd yn parhau ar
 OL,7,     FRadio Cymru 2. More tunes on Radio
 OL,8,     FCymru 2.
-OL,9,G1900 Rhys Mwyn
-OL,10,     FTrafod cyfrol ar yrfa Paul Weller,
-OL,11,     Falbwm debut Catatonia, a gig
-OL,12,     Fcyntaf Acid Casuals. Discussing
-OL,13,     FPaul Weller's career, Catatonia's
-OL,14,     Fdebut album, and Acid Casuals'
-OL,15,     Ffirst ever gig.
-OL,16,G2100 Caryl
-OL,17,     FCerddoriaeth a hwyl gyda'r hwyr
-OL,18,     Fgyda Marc Griffiths yn sedd Caryl
-OL,19,     FParry Jones. Music and fun with
-OL,20,     FMarc Griffiths sitting in for
-OL,21,     FCaryl Parry Jones.
+OL,9,G1900 Georgia Ruth
+OL,10,     FDewis eclectig o gerddoriaeth o
+OL,11,     Fgasgliad Georgia Ruth, yn cynnwys
+OL,12,     Fcerddoriaeth ryngwladol, byd a
+OL,13,     Fthraciau Cymraeg arbrofol. An
+OL,14,     Feclectic selection of music.
+OL,15,G2100 Caryl
+OL,16,     FCerddoriaeth a hwyl gyda'r hwyr
+OL,17,     Fgyda Marc Griffiths yn sedd Caryl
+OL,18,     FParry Jones. Music and fun with
+OL,19,     FMarc Griffiths sitting in for
+OL,20,     FCaryl Parry Jones.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,250,200,300,120,0,100
@@ -59,19 +58,28 @@ PN,24303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F243A1790486367
+OL,0,        ECIMSBWebfax 2   F243A1790572783
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G2300 Y Clwb PJs
 OL,6,     FYmunwch a Marc Griffiths i ymlacio
 OL,7,     Fwrth wrando ar gerddoriaeth
 OL,8,     Fhudolus cyn cysgu. Unwind with
 OL,9,     FMarc Griffiths while listening to
 OL,10,     Fsoothing music before sleeping.
-OL,11,G0000 Gweler BBC Radio 2
-OL,12,     FMae Radio Cymru 2 yn ymuno a BBC
-OL,13,     FRadio 2 dros nos.
+OL,11,G0000 Gweler BBC World Service
+OL,12,     FMae Radio Cymru'n ymuno a'r BBC
+OL,13,     FWorld Service dros nos. Radio
+OL,14,     FCymru joins the BBC World Service
+OL,15,     Fovernight.
+OL,16,G0530 John Hardy
+OL,17,     FCerddoriaeth a chwmniaeth ben
+OL,18,     Fbore, gyda bwletinau newyddion,
+OL,19,     Fchwaraeon, tywydd a thraffig.
+OL,20,     FHefyd, y bwletin amaeth dyddiol,
+OL,21,     Fyn ogystal a golwg ar y papurau.
+OL,22,     FEarly breakfast show.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,250,200,300,120,0,100
