@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,7 +24,7 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -53,7 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AOpenAI scraps rollout of new model over
@@ -81,7 +81,7 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AOpenAI scraps rollout of new model over
@@ -100,7 +100,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AApple ordered to pay $5.7bn after
@@ -125,7 +125,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AApple ordered to pay $5.7bn after
@@ -141,7 +141,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AOpenAI bots meddled with multiple US
@@ -165,7 +165,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AOpenAI bots meddled with multiple US
@@ -188,25 +188,25 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G161FBlue Lights: The police drama
-OL,6,Fhitting home in Northern IrelandA29-Sep
+OL,5,G161FCeline Dion kicks off Paris Fashion
+OL,6,FWeek with surprise performanceA29-Sep
 OL,7,G
-OL,8,G162FSlipknot fans hit back after
-OL,9,FMarilyn Manson announced as support act
-OL,10,Ffor UK showA28-Sep
-OL,11,G
-OL,12,G163FMistakes to avoid when buying
-OL,13,FGlastonbury ticketsA29-Sep
+OL,8,G162FBlue Lights: The police drama
+OL,9,Fhitting home in Northern IrelandA29-Sep
+OL,10,G
+OL,11,G163FSlipknot fans hit back after
+OL,12,FMarilyn Manson announced as support act
+OL,13,Ffor UK showA28-Sep
 OL,14,G
-OL,15,G164FI paid #30,000 for an 'influencer'
-OL,16,Fdegree. Here's whyA28-Sep
+OL,15,G164FMistakes to avoid when buying
+OL,16,FGlastonbury ticketsA29-Sep
 OL,17,G
-OL,18,G165FTaylor Swift breaks record for most
-OL,19,FMTV VMAs as Madonna also winsA28-Sep
+OL,18,G165FI paid #30,000 for an 'influencer'
+OL,19,Fdegree. Here's whyA28-Sep
 OL,20,G
 OL,21,F
 OL,22,F
@@ -217,7 +217,53 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,ACeline Dion kicks off Paris Fashion
+OL,4,AWeek with surprise performance
+OL,5,
+OL,6,FCeline Dion has opened Paris Fashion
+OL,7,FWeek with a surprise performance of her
+OL,8,F2002 hit I'm Alive, underneath the
+OL,9,Fcity's famous Eiffel Tower.
+OL,11,FThe Canadian star, who was diagnosed
+OL,12,Fwith a rare neurological disease called
+OL,13,Fstiff person syndrome in 2022, took to
+OL,14,Fthe runway at the end of L'Oreal's
+OL,15,Fannual show.
+OL,17,FThe singer, who wore a ruched
+OL,18,Ffull-length velvet black gown, was
+OL,19,Flater joined by famous ambassadors for
+OL,20,Fthe French brand, including Viola
+OL,21,FDavis, Simone Ashley, Aja Naomi King
+OL,22,Fand Eva Longoria.
+OL,23,APub: 29-SepQpppppppppppppppppppppG10/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,162,160,200,105,0,100
+PN,11911
+SC,0011
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1790677456
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,ACeline Dion kicks off Paris Fashion
+OL,4,AWeek with surprise performance
+OL,5,
+OL,6,FDion recently performed a comeback show
+OL,7,Fin the city earlier this month, her
+OL,8,Ffirst since her 2020 concert in New
+OL,9,FJersey - the last before the Covid
+OL,10,Fpandemic cut her tour short.
+OL,23,APub: 29-SepQpppppppppppppppppppppG11/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,162,160,200,105,0,100
+PN,11912
+SC,0012
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABlue Lights: The police drama hitting
@@ -237,14 +283,14 @@ OL,17,Fthey prepared for filming.
 OL,19,FThe Bafta-winning series follows police
 OL,20,Fofficers working at the fictional
 OL,21,FBlackthorn Station in Belfast.
-OL,23,APub: 29-SepQpppppppppppppppppppppG10/19
+OL,23,APub: 29-SepQpppppppppppppppppppppG12/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,162,160,200,105,0,100
-PN,11911
-SC,0011
+FL,163,160,200,105,0,100
+PN,11913
+SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABlue Lights: The police drama hitting
@@ -252,14 +298,14 @@ OL,4,Ahome in Northern Ireland
 OL,5,
 OL,6,FBut, for many watching, the drama feels
 OL,7,Fall too real.
-OL,23,APub: 29-SepQpppppppppppppppppppppG11/19
+OL,23,APub: 29-SepQpppppppppppppppppppppG13/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,162,160,200,105,0,100
-PN,11912
-SC,0012
+FL,163,160,200,105,0,100
+PN,11914
+SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASlipknot fans hit back after Marilyn
@@ -280,14 +326,14 @@ OL,19,FSome fans have reacted angrily to the
 OL,20,Fnews and said they will not attend the
 OL,21,Fshows over past sexual abuse
 OL,22,Faccusations against the 57-year-old.
-OL,23,APub: 28-SepQpppppppppppppppppppppG12/19
+OL,23,APub: 28-SepQpppppppppppppppppppppG14/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,163,160,200,105,0,100
-PN,11913
-SC,0013
+FL,164,160,200,105,0,100
+PN,11915
+SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASlipknot fans hit back after Marilyn
@@ -297,57 +343,14 @@ OL,6,
 OL,7,FManson, real name Brian Warner, has
 OL,8,Falways strongly denied any allegations
 OL,9,Fagainst him.
-OL,23,APub: 28-SepQpppppppppppppppppppppG13/19
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,163,160,200,105,0,100
-PN,11914
-SC,0014
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AMistakes to avoid when buying
-OL,4,AGlastonbury tickets
-OL,5,
-OL,6,FGlastonbury Festival has confirmed that
-OL,7,Ftickets for the 2027 event will go on
-OL,8,Fsale later this week.
-OL,10,FAfter taking a year off in 2026,
-OL,11,Fthousands of festival-goers are
-OL,12,Fpreparing to secure a place at next
-OL,13,Fyear's five-day event.
-OL,15,FCoach and ticket packages are due to go
-OL,16,Fon sale at 18:00 BST on Thursday and
-OL,17,Fgeneral admission tickets a few days
-OL,18,Flater at 09:00 on Sunday.
-OL,23,APub: 29-SepQpppppppppppppppppppppG14/19
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,164,160,200,105,0,100
-PN,11915
-SC,0015
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AMistakes to avoid when buying
-OL,4,AGlastonbury tickets
-OL,5,
-OL,6,FThe festival has introduced an
-OL,7,Fautomatic queuing system on the day of
-OL,8,Fthe sale. But for those anxious about
-OL,9,Fsecuring a place, we have rounded up
-OL,10,Fsome hardened festival-goers' advice on
-OL,11,Fthe biggest pitfalls to avoid.
-OL,23,APub: 29-SepQpppppppppppppppppppppG15/19
+OL,23,APub: 28-SepQpppppppppppppppppppppG15/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
 PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CTuesday
@@ -374,7 +377,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CTuesday
@@ -403,7 +406,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CTuesday
@@ -432,7 +435,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1790677109
+OL,0,        ECIMSBWebfax 2   F119A1790677456
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CTuesday
