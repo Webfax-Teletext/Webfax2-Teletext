@@ -2,7 +2,7 @@ PN,23101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1790831971
+OL,0,        ECIMSBWebfax 2   F231A1790880516
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CFriday
@@ -28,7 +28,7 @@ PN,23102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1790831971
+OL,0,        ECIMSBWebfax 2   F231A1790880516
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CFriday
@@ -50,7 +50,7 @@ PN,23103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1790831971
+OL,0,        ECIMSBWebfax 2   F231A1790880516
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CFriday
@@ -77,7 +77,7 @@ PN,23104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1790831971
+OL,0,        ECIMSBWebfax 2   F231A1790880516
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CFriday
@@ -87,13 +87,12 @@ OL,7,     Fbased South Sudanese and British
 OL,8,     FDJ and producer Mia Koden to the 6
 OL,9,     FMix.
 OL,10,G0000 6 Music's Rave Forever
-OL,11,     FA wall-to-wall celebration of
-OL,12,     Fdance music from across the
-OL,13,     Fdecades.
-OL,14,G0100 Forever Dark
-OL,15,     F6 Music takes you to the dark side
-OL,16,     Fwith the finest goth, electronic
-OL,17,     Fand dark pop music.
+OL,11,     FLyricism layered upon banging
+OL,12,     Fbeats from the wordsmiths of the
+OL,13,     Fdance floor like Benjamin
+OL,14,     FZephaniah, George The Poet, Kae
+OL,15,     FTempest, Antony Szmierek and lots
+OL,16,     Fmore.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,232,200,300,120,0,100
@@ -101,21 +100,28 @@ PN,23105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1790831971
+OL,0,        ECIMSBWebfax 2   F231A1790880516
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CFriday
-OL,5,G0200 Focus Beats
-OL,6,     FThe jazz keyboardist and producer
-OL,7,     Fselects the first hour of this
-OL,8,     Ffocus mix. Featuring tracks from
-OL,9,     FSlum Village, Hiatus Kaiyote,
-OL,10,     FDilla, Madlib and more.
-OL,11,G0400 Ambient Focus
-OL,12,     FSoundtrack your focus time and
-OL,13,     Fenhance your concentration with
-OL,14,     Fthis specially curated ambient
-OL,15,     Fmixtape.
+OL,5,G0100 Forever Dark
+OL,6,     FAmerican electronic duo Boy
+OL,7,     FHarsher guest curate this week's
+OL,8,     Fepisode, featuring tracks from The
+OL,9,     FChills, The Cure, Ethel Cain,
+OL,10,     FDeafheaven, Karen Marks, The
+OL,11,     FSisters Of Mercy and more.
+OL,12,G0200 Focus Beats
+OL,13,     FThe jazz keyboardist and producer
+OL,14,     Fselects the first hour of this
+OL,15,     Ffocus mix. Featuring tracks from
+OL,16,     FSlum Village, Hiatus Kaiyote,
+OL,17,     FDilla, Madlib and more.
+OL,18,G0400 Ambient Focus
+OL,19,     FSoundtrack your focus time and
+OL,20,     Fenhance your concentration with
+OL,21,     Fthis specially curated ambient
+OL,22,     Fmixtape.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,232,200,300,120,0,100
