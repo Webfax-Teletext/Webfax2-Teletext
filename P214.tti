@@ -1,13 +1,95 @@
-PN,21400
-SC,0000
+PN,21401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F214A1790898530
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1790918381
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
-OL,5,G0030 As BBC Radio 5 Live
-OL,6,     FJoining Radio 5 Live.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CFriday
+OL,5,G0600 Radio Scotland Breakfast
+OL,6,     FNews from across Scotland and the
+OL,7,     Fworld, plus sport, weather,
+OL,8,     Fentertainment and big name
+OL,9,     Finterviews.
+OL,10,G0900 Mornings
+OL,11,     FStephen Jardine gets to the heart
+OL,12,     Fof the stories making the news.
+OL,13,G1200 Lunchtime Live
+OL,14,     FNews updates from Scotland and
+OL,15,     Fbeyond, plus all your lunchtime
+OL,16,     Fsport, travel and weather.
+OL,23,VppppppppppppppppppppppppppppppppppG1/4
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1790918381
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CFriday
+OL,5,G1330 The Good, the Bad and the
+OL,6,G     Unexpected
+OL,7,     FMark Nelson leads a panel of some
+OL,8,     Fof the UK's funniest comedians and
+OL,9,     Fpersonalities attempting to
+OL,10,     Fdecipher the good from the bad,
+OL,11,     Fwith a few unexpected twists along
+OL,12,     Fthe way.
+OL,13,G1400 Radio Scotland Afternoons
+OL,14,     FScott Fletcher, Jordan Young and
+OL,15,     FCelebrity Traitors. The weekend
+OL,16,     Fstarts here.
+OL,17,G1600 Drivetime
+OL,18,     FBreaking down the day's talking
+OL,19,     Fpoints with comment and opinion,
+OL,20,     Fplus sport, travel and weather.
+OL,23,VppppppppppppppppppppppppppppppppppG2/4
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1790918381
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CFriday
+OL,5,G1800 Grant Stott's Vinyl Collective
+OL,6,     FGrant Stott brings you the perfect
+OL,7,     Fstart to your weekend - fantastic
+OL,8,     Fmusic, old and new, all played on
+OL,9,     Fglorious vinyl.
+OL,10,G2000 BBC Introducing in Scotland
+OL,11,     FFind out how High Fade made the
+OL,12,     Fleap from busking Scottish street
+OL,13,     Fcorners to international stages:
+OL,14,     Fthey're tonight's Featured Artist.
+OL,15,     FAn EcoAudio certified production.
+OL,16,G2130 BBC Introducing in Scotland
+OL,17,     FPhoebe I-H and Stephanie Cheape
+OL,18,     Fare joined by Mobo Agoro to
+OL,19,     Fcelebrate Black Scottish artists
+OL,20,     Fas part of The Music is Black
+OL,21,     Fseason; featuring Becky Sikasa.
+OL,23,VppppppppppppppppppppppppppppppppppG3/4
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21404
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1790918381
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CFriday
+OL,5,G2200 Up Late
+OL,6,     FThe best company to end the day,
+OL,7,     Fwith lively chat and some of your
+OL,8,     Ffavourite tunes.
+OL,9,G0000 As BBC Radio 5 Live
+OL,10,     FJoining Radio 5 Live.
+OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
