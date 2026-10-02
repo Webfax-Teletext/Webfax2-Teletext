@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1790938095
+OL,0,        ECIMSBWebfax 2   F1fcA1790939904
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1790938095;
-OL,10,GService: Webfax 2 - 20974 03e339ea61
-OL,11,FLast Update: 02/10/2026 11:48:15  G1/3
+OL,25,1790939902;
+OL,10,GService: Webfax 2 - 20975 5f80c2bfb5
+OL,11,FLast Update: 02/10/2026 12:18:22  G1/4
 OL,13,CbbcSport/Horse Racing      G26/09-18:21
 OL,14,Cbbc_news_papers            G01/10-00:29
 OL,15,Ccharts/singles             G26/09-09:30
@@ -30,7 +30,7 @@ OL,23,Ageneric/weather_warnings   G24/09-16:00
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1790938095
+OL,0,        ECIMSBWebfax 2   F1fcA1790939904
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1790938095;
-OL,10,GService: Webfax 2 - 20974 03e339ea61
-OL,11,FLast Update: 02/10/2026 11:48:15  G2/3
+OL,25,1790939902;
+OL,10,GService: Webfax 2 - 20975 5f80c2bfb5
+OL,11,FLast Update: 02/10/2026 12:18:22  G2/4
 OL,13,CitvSport/border            G28/09-18:19
 OL,14,CitvSport/calendar          G24/09-15:59
 OL,15,CitvSport/central           G24/09-15:59
@@ -55,11 +55,11 @@ OL,19,CitvSport/tyne-tees         G24/09-15:59
 OL,20,CitvSport/utv               G24/09-16:00
 OL,21,CitvSport/wales             G24/09-16:00
 OL,22,AitvSport/westcountry       G24/09-15:59
-OL,23,CiNMS/comments.json         G24/09-16:00
+OL,23,Cmet_weather/Central, TaysidG01/10-11:55
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1790938095
+OL,0,        ECIMSBWebfax 2   F1fcA1790939904
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,6 +71,38 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1790938095;
-OL,10,GService: Webfax 2 - 20974 03e339ea61
-OL,11,FLast Update: 02/10/2026 11:48:15  G3/3
+OL,25,1790939902;
+OL,10,GService: Webfax 2 - 20975 5f80c2bfb5
+OL,11,FLast Update: 02/10/2026 12:18:22  G3/4
+OL,13,Cmet_weather/Dumfries, GalloG01/10-11:55
+OL,14,Cmet_weather/East           G01/10-11:55
+OL,15,Cmet_weather/East Midlands  G01/10-11:55
+OL,16,Cmet_weather/Grampian       G01/10-11:55
+OL,17,Cmet_weather/Highlands & EilG01/10-11:55
+OL,18,Cmet_weather/London & South G01/10-11:55
+OL,19,Cmet_weather/North East     G01/10-11:55
+OL,20,Cmet_weather/North West     G01/10-11:55
+OL,21,Cmet_weather/Northern IrelanG01/10-11:55
+OL,22,Cmet_weather/South West     G01/10-11:55
+OL,23,Cmet_weather/Wales          G01/10-11:55
+PN,1fc04
+SC,0004
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1790939904
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1790939902;
+OL,10,GService: Webfax 2 - 20975 5f80c2bfb5
+OL,11,FLast Update: 02/10/2026 12:18:22  G4/4
+OL,13,Cmet_weather/West Midlands  G01/10-11:55
+OL,14,Cmet_weather/Yorkshire & HumG01/10-11:55
+OL,15,CiNMS/comments.json         G24/09-16:00
