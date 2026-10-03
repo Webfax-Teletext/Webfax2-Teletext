@@ -2,21 +2,23 @@ PN,20901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1791038888
+OL,0,        ECIMSBWebfax 2   F209A1791046090
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
 OL,3,V}yyy5CSaturday
-OL,5,G1530 This Is Sports Extra
-OL,6,     FThis is BBC Radio 5 Sports Extra -
-OL,7,     Fbringing you even more live
-OL,8,     Fcommentaries from the world's
-OL,9,     Fgreatest sporting events. Listen
-OL,10,     Fon BBC Sounds.
-OL,11,G1745 5 Live Rugby League
-OL,12,     FLive rugby league commentary of
-OL,13,     FWarrington Wolves v Wakefield
-OL,14,     FTrinity in the 2026 Super League
-OL,15,     FGrand Final.
+OL,5,G1745 5 Live Rugby League
+OL,6,     FLive rugby league commentary of
+OL,7,     FWarrington Wolves v Wakefield
+OL,8,     FTrinity in the 2026 Super League
+OL,9,     FGrand Final.
+OL,10,G2030 Boxing - Live Fight - Whittaker v
+OL,11,G     Wallace
+OL,12,     FLive boxing commentary of Ben
+OL,13,     FWhittaker v Conor Wallace in an
+OL,14,     FIBF light-heavyweight final
+OL,15,     Feliminator at the Utilita Arena
+OL,16,     FBirmingham. Plus full coverage of
+OL,17,     Fthe undercard.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,210,200,300,120,0,100
@@ -24,24 +26,16 @@ PN,20902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F209A1791038888
+OL,0,        ECIMSBWebfax 2   F209A1791046090
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
 OL,3,V}yyy5CSaturday
-OL,5,G2030 Boxing - Live Fight - Whittaker v
-OL,6,G     Wallace
-OL,7,     FLive boxing commentary of Ben
-OL,8,     FWhittaker v Conor Wallace in an
-OL,9,     FIBF light-heavyweight final
-OL,10,     Feliminator at the Utilita Arena
-OL,11,     FBirmingham. Plus full coverage of
-OL,12,     Fthe undercard.
-OL,13,G0100 This Is Sports Extra
-OL,14,     FThis is BBC Radio 5 Sports Extra -
-OL,15,     Fbringing you even more live
-OL,16,     Fcommentaries from the world's
-OL,17,     Fgreatest sporting events. Listen
-OL,18,     Fon BBC Sounds.
+OL,5,G0100 This Is Sports Extra
+OL,6,     FThis is BBC Radio 5 Sports Extra -
+OL,7,     Fbringing you even more live
+OL,8,     Fcommentaries from the world's
+OL,9,     Fgreatest sporting events. Listen
+OL,10,     Fon BBC Sounds.
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,210,200,300,120,0,100
