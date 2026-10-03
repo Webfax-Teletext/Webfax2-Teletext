@@ -2,28 +2,27 @@ PN,20501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1791044314
+OL,0,        ECIMSBWebfax 2   F205A1791051503
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday
-OL,5,G1700 Football
-OL,6,     FLive football commentary of
-OL,7,     FCroatia v England in the UEFA
-OL,8,     FNations League. Listen to the
-OL,9,     FSuper League Grand Final between
-OL,10,     FWarrington and Wakefield on Sports
-OL,11,     FExtra from 6pm.
-OL,12,G1900 5 Live Rugby League
-OL,13,     FLive second-half commentary of
-OL,14,     FWarrington Wolves v Wakefield
-OL,15,     FTrinity in the 2026 Super League
-OL,16,     FGrand Final.
-OL,17,G2000 606
-OL,18,     FYour football calls with Rick
-OL,19,     FEdwards and Chris Sutton. Phone
-OL,20,     F08085 909693 free from mobiles and
-OL,21,     Flandlines. Text 85058 at your
-OL,22,     Fstandard message rate.
+OL,5,G1900 5 Live Rugby League
+OL,6,     FLive second-half commentary of
+OL,7,     FWarrington Wolves v Wakefield
+OL,8,     FTrinity in the 2026 Super League
+OL,9,     FGrand Final.
+OL,10,G2000 606
+OL,11,     FYour football calls with Rick
+OL,12,     FEdwards and Chris Sutton. Phone
+OL,13,     F08085 909693 free from mobiles and
+OL,14,     Flandlines. Text 85058 at your
+OL,15,     Fstandard message rate.
+OL,16,G2100 Stephen Nolan
+OL,17,     FThe day's main news stories,
+OL,18,     Ftopical debate and interviews.
+OL,19,     FCall 08085 909693 (calls are free
+OL,20,     Ffrom mobiles and landlines).
+OL,21,     FEmail: nolan@bbc.co.uk.
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100
@@ -31,23 +30,24 @@ PN,20502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1791044314
+OL,0,        ECIMSBWebfax 2   F205A1791051503
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday
-OL,5,G2100 Stephen Nolan
-OL,6,     FThe day's main news stories,
-OL,7,     Ftopical debate and interviews.
-OL,8,     FCall 08085 909693 (calls are free
-OL,9,     Ffrom mobiles and landlines).
-OL,10,     FEmail: nolan@bbc.co.uk.
-OL,11,G2200 Boxing - Live Fight - Whittaker v
-OL,12,G     Wallace
-OL,13,     FLive boxing commentary of Ben
-OL,14,     FWhittaker v Conor Wallace in an
-OL,15,     FIBF light-heavyweight final
-OL,16,     Feliminator at the Utilita Arena
-OL,17,     FBirmingham.
+OL,5,G2200 Boxing - Live Fight - Whittaker v
+OL,6,G     Wallace
+OL,7,     FLive boxing commentary of Ben
+OL,8,     FWhittaker v Conor Wallace in an
+OL,9,     FIBF light-heavyweight final
+OL,10,     Feliminator at the Utilita Arena
+OL,11,     FBirmingham.
+OL,12,G2330 Stephen Nolan
+OL,13,     FMore from the day's news plus a
+OL,14,     Flook ahead at tomorrow's
+OL,15,     Fnewspapers. Call 08085 909693
+OL,16,     F(calls are free from mobiles and
+OL,17,     Flandlines). Email:
+OL,18,     Fnolan@bbc.co.uk.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100
@@ -55,24 +55,24 @@ PN,20503
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1791044314
+OL,0,        ECIMSBWebfax 2   F205A1791051503
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday
-OL,5,G2330 Stephen Nolan
-OL,6,     FMore from the day's news plus a
-OL,7,     Flook ahead at tomorrow's
-OL,8,     Fnewspapers. Call 08085 909693
-OL,9,     F(calls are free from mobiles and
-OL,10,     Flandlines). Email:
-OL,11,     Fnolan@bbc.co.uk.
-OL,12,G0000 Trouble at the Bottom: Sheffield
+OL,5,G0000 Trouble at the Bottom: Sheffield
+OL,6,G     FC
+OL,7,     FThe world's oldest football club
+OL,8,     Fstarts a season that could define
+OL,9,     Fits future. Sheffield FC battles
+OL,10,     Frelegation fallout, uncertainty
+OL,11,     Fand hopes of promotion.
+OL,12,G0020 Trouble at the Bottom: Sheffield
 OL,13,G     FC
-OL,14,     FThe world's oldest football club
-OL,15,     Fstarts a season that could define
-OL,16,     Fits future. Sheffield FC battles
-OL,17,     Frelegation fallout, uncertainty
-OL,18,     Fand hopes of promotion.
+OL,14,     FPromotion hope is growing at
+OL,15,     FSheffield FC, behind the scenes
+OL,16,     Fvolunteers, finances and a
+OL,17,     Fcontroversial matchday decision
+OL,18,     Freveal a fragile club.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100
@@ -80,24 +80,24 @@ PN,20504
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1791044314
+OL,0,        ECIMSBWebfax 2   F205A1791051503
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday
-OL,5,G0020 Trouble at the Bottom: Sheffield
+OL,5,G0040 Trouble at the Bottom: Sheffield
 OL,6,G     FC
-OL,7,     FPromotion hope is growing at
-OL,8,     FSheffield FC, behind the scenes
-OL,9,     Fvolunteers, finances and a
-OL,10,     Fcontroversial matchday decision
-OL,11,     Freveal a fragile club.
-OL,12,G0040 Trouble at the Bottom: Sheffield
-OL,13,G     FC
-OL,14,     FSheffield FC's true value is
-OL,15,     Frevealed through its women's and
-OL,16,     Finclusive teams as rumours emerge
-OL,17,     Fof a takeover that could change
-OL,18,     Feverything.
+OL,7,     FSheffield FC's true value is
+OL,8,     Frevealed through its women's and
+OL,9,     Finclusive teams as rumours emerge
+OL,10,     Fof a takeover that could change
+OL,11,     Feverything.
+OL,12,G0100 Kathryn Stanczyszyn
+OL,13,     FKathryn Stanczyszyn takes your
+OL,14,     Fcalls through the night. Call
+OL,15,     F08085 909693 (calls are free from
+OL,16,     Fmobiles and landlines). Text 85058
+OL,17,     F(charged at your standard message
+OL,18,     Frate).
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100
@@ -105,22 +105,15 @@ PN,20505
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1791044314
+OL,0,        ECIMSBWebfax 2   F205A1791051503
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday
-OL,5,G0100 Kathryn Stanczyszyn
-OL,6,     FKathryn Stanczyszyn takes your
-OL,7,     Fcalls through the night. Call
-OL,8,     F08085 909693 (calls are free from
-OL,9,     Fmobiles and landlines). Text 85058
-OL,10,     F(charged at your standard message
-OL,11,     Frate).
-OL,12,G0500 Newscast
-OL,13,     FAdam Fleming and friends discuss
-OL,14,     Fthe week's biggest stories, with
-OL,15,     Fhighlights taken from the podcast
-OL,16,     Fthis week.
+OL,5,G0500 Newscast
+OL,6,     FAdam Fleming and friends discuss
+OL,7,     Fthe week's biggest stories, with
+OL,8,     Fhighlights taken from the podcast
+OL,9,     Fthis week.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100
