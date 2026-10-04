@@ -1,14 +1,234 @@
-PN,21200
-SC,0000
+PN,21201
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F212A1791073138
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
 OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
 OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G0100 As BBC Radio 5 live
 OL,6,     FBBC Radio Ulster joins BBC Radio 5
 OL,7,     Flive.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,8,G0630 Kerry McLean
+OL,9,     FKerry eases you into Sunday with
+OL,10,     Fgreat music, chat and requests.
+OL,11,G0800 BBC News NI update
+OL,12,     FThe latest national and
+OL,13,     Finternational news.
+OL,14,G0803 Sunday Sequence
+OL,15,     FA Different Drumcree, Gandhi's
+OL,16,     FLegacy, Padraig O Tuama.
+OL,17,G0900 BBC News NI update
+OL,18,     FThe latest national and
+OL,19,     Finternational news.
+OL,23,VppppppppppppppppppppppppppppppppppG1/9
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,213,200,300,120,0,100
+PN,21202
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CSunday
+OL,5,G0903 Morning Service
+OL,6,     FFrom Fitzroy Presbyterian Church
+OL,7,     Fin Belfast. Led by Rev Steve
+OL,8,     FStockman.
+OL,9,G0945 Thought for the Week
+OL,10,     FPresenter Audrey Carville with a
+OL,11,     Fselection of Radio Ulster's
+OL,12,     FThoughts for the Day.
+OL,13,G1000 Sunday Politics
+OL,14,     FMark Carruthers looks at the
+OL,15,     Fpolitical developments of the week
+OL,16,     Fand questions policy makers on the
+OL,17,     Fkey issues.
+OL,23,VppppppppppppppppppppppppppppppppppG2/9
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,213,200,300,120,0,100
+PN,21203
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1030 The State of Us
+OL,6,     FTara Mills and Declan Harvey react
+OL,7,     Fand reflect on the news stories
+OL,8,     Fthat impact all our lives and
+OL,9,     Fspeak to those who can help us
+OL,10,     Funderstand why we're in the state
+OL,11,     Fwe're in.
+OL,12,G1100 BBC News NI update
+OL,13,     FThe latest national and
+OL,14,     Finternational news.
+OL,15,G1103 Sunday with Anna Curran
+OL,16,     FBig interviews and conversation,
+OL,17,     Flifestyle and entertainment, and
+OL,18,     Fan essential guide to the Sunday
+OL,19,     Fpapers.
+OL,20,G1300 BBC News NI update
+OL,21,     FThe latest national and
+OL,22,     Finternational news.
+OL,23,VppppppppppppppppppppppppppppppppppG3/9
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,213,200,300,120,0,100
+PN,21204
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1305 Assume Nothing: The Regression to
+OL,6,G     Bridie Murphy
+OL,7,     FFacing being 'cancelled'
+OL,8,     F1950s-style, Virginia says she's
+OL,9,     Fhonest, and Morey says 'Bridie' is
+OL,10,     Ftrue. Others say it's a con or
+OL,11,     Fhe's naive. So what was happening
+OL,12,     Fwith 'Bridie Murphy'?
+OL,13,G1330 Lunchtime with Michael Fry
+OL,14,     F5/6. Farcical parody of a magazine
+OL,15,     Fradio show. Rebecca settles into
+OL,16,     Flife as Ulster FM's new owner
+OL,17,     Fwhile Michael desperately tries to
+OL,18,     Fwin back his old job.
+OL,19,G1400 BBC News NI update
+OL,20,     FThe latest national and
+OL,21,     Finternational news.
+OL,23,VppppppppppppppppppppppppppppppppppG4/9
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,213,200,300,120,0,100
+PN,21205
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1403 Long Player with Steven Rainey
+OL,6,     FWith 1984's Diamond Life, Sade
+OL,7,     Fcreates a sophisti-pop classic.
+OL,8,G1500 BBC News NI update
+OL,9,     FThe latest national and
+OL,10,     Finternational news.
+OL,11,G1503 Healing Sounds
+OL,12,     FTyrone athlete Nick Griggs speaks
+OL,13,     Fto Malachi Cush about losing his
+OL,14,     Fbrother Josh, finding strength
+OL,15,     Fthrough running and carrying his
+OL,16,     Fbrother's memory forward.
+OL,17,G1600 BBC News NI update
+OL,18,     FThe latest national and
+OL,19,     Finternational news.
+OL,23,VppppppppppppppppppppppppppppppppppG5/9
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,213,200,300,120,0,100
+PN,21206
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1603 Gardeners' Corner
+OL,6,     FHelen Mark presents the weekly
+OL,7,     Fgardening programme. She is joined
+OL,8,     Fin the studio by expert Mary
+OL,9,     FDoris.
+OL,10,G1700 BBC News NI update
+OL,11,     FThe latest national and
+OL,12,     Finternational news.
+OL,13,G1703 Sounds Sacred
+OL,14,     FRichard Yarr introduces popular
+OL,15,     Fsacred music and plays listeners'
+OL,16,     Frequests.
+OL,17,G1800 BBC News NI update
+OL,18,     FThe latest national and
+OL,19,     Finternational news.
+OL,23,VppppppppppppppppppppppppppppppppppG6/9
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,213,200,300,120,0,100
+PN,21207
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1803 Kintra
+OL,6,     FCelebrating Coleraine's Sam Henry,
+OL,7,     FScottish folk icons Skerryvore and
+OL,8,     Fan adventure in Ballynure.
+OL,9,G1830 The Music Is Black: Roots &
+OL,10,G     Rhythms in NI
+OL,11,     F1/4. Gemma Bradley explores how
+OL,12,     Fblack music has shaped Northern
+OL,13,     FIreland, through conversations
+OL,14,     Fwith artists, DJs and cultural
+OL,15,     Fvoices from across the community.
+OL,16,G1900 BBC News NI update
+OL,17,     FThe latest national and
+OL,18,     Finternational news.
+OL,23,VppppppppppppppppppppppppppppppppppG7/9
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,213,200,300,120,0,100
+PN,21208
+SC,0008
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CSunday
+OL,5,G1903 Classical Connections with John
+OL,6,G     Toal
+OL,7,     FJohn Toal shares another evening
+OL,8,     Fof uplifting classical music,
+OL,9,     Ffeaturing guest Emma Morwood and a
+OL,10,     FTriple Tracker exploring three
+OL,11,     Fmemorable recordings by Yo-Yo Ma.
+OL,12,G2100 BBC News NI update
+OL,13,     FThe latest national and
+OL,14,     Finternational news.
+OL,15,G2103 Sunday with Brian D'Arcy
+OL,16,     FBrian D'Arcy delves into his wide
+OL,17,     Fexperience of all sorts of music
+OL,18,     Fto bring you some tracks just
+OL,19,     Fright for a Sunday evening.
+OL,20,G2200 BBC News NI update
+OL,21,     FThe latest national and
+OL,22,     Finternational news.
+OL,23,VppppppppppppppppppppppppppppppppppG8/9
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,213,200,300,120,0,100
+PN,21209
+SC,0009
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F212A1791091177
+OL,1,Vzssssss{0Ww;js%7+ j 55 js1#7!wsjs%
+OL,2,Vupp=wfff5W-.*,%-. *,%-,(,% % -,* %V,,,,
+OL,3,V}yyy5CSunday
+OL,5,G2203 Sunday Club
+OL,6,     FKathy Clugston plays her favourite
+OL,7,     Ftracks from the last one hundred
+OL,8,     Fyears.
+OL,9,G2355 BBC News NI update
+OL,10,     FThe latest national and
+OL,11,     Finternational news.
+OL,12,G0000 As BBC Radio 5 live
+OL,13,     FBBC Radio Ulster joins BBC Radio 5
+OL,14,     Flive.
+OL,23,VppppppppppppppppppppppppppppppppppG9/9
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,213,200,300,120,0,100
