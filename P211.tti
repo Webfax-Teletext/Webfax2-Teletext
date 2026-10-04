@@ -1,42 +1,25 @@
-PN,21101
-SC,0001
+PN,21100
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791087492
+PS,8008
+OL,0,        ECIMSBWebfax 2   F211A1791089288
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CSaturday
-OL,5,G0506 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0530 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0532 Asia Specific
-OL,12,     FRobusta coffee is holding up far
-OL,13,     Fbetter than arabica as the climate
-OL,14,     Fwarms, and no country grows more
-OL,15,     Fof it than Vietnam. The question
-OL,16,     Fnow is whether Vietnam can
-OL,17,     Factually cash in.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21102
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791087492
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CSaturday
-OL,5,G0550 Sporting Witness
-OL,6,     FJulius Yego became the first
-OL,7,     FKenyan to win a World Championship
-OL,8,     Fgold medal in a field event.
-OL,9,     FNicknamed Mr YouTube Man, Yego
-OL,10,     Ftaught himself the javelin by
-OL,11,     Fwatching online videos.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G0532 Asia Specific
+OL,6,     FRobusta coffee is holding up far
+OL,7,     Fbetter than arabica as the climate
+OL,8,     Fwarms, and no country grows more
+OL,9,     Fof it than Vietnam. The question
+OL,10,     Fnow is whether Vietnam can
+OL,11,     Factually cash in.
+OL,12,G0550 Sporting Witness
+OL,13,     FJulius Yego became the first
+OL,14,     FKenyan to win a World Championship
+OL,15,     Fgold medal in a field event.
+OL,16,     FNicknamed Mr YouTube Man, Yego
+OL,17,     Ftaught himself the javelin by
+OL,18,     Fwatching online videos.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
