@@ -1,42 +1,27 @@
-PN,21501
-SC,0001
+PN,21500
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F215A1791127104
+PS,8008
+OL,0,        ECIMSBWebfax 2   F215A1791145098
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CSunday
-OL,5,G1600 Mar Radio Alba
-OL,6,     FTha BBC Radio nan Gaidheal mar BBC
-OL,7,     FRadio Alba. BBC Radio nan Gaidheal
-OL,8,     Fjoins BBC Radio Scotland.
-OL,9,G2100 Deanamaid Adhradh Tasglann
-OL,10,     FSeirbheis a' Mhoid bho Eaglais
-OL,11,     FNaomh Chaluim Chille ann an
-OL,12,     FGlaschu 1988 Mod. Gaelic service
-OL,13,     Ffrom St Columba Church of Scotland
-OL,14,     Fin Glasgow 1988.
-OL,15,G2145 Rogha is Tagha
-OL,16,     FTaghadh C  programan na seachdain
-OL,17,     Fair a thoirt thugaibh le Anna Nic
-OL,18,     Fna Ceardaich. A selection from the
-OL,19,     Fweek's programmes with Anne
-OL,20,     FSinclair.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,216,200,300,120,0,100
-PN,21502
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F215A1791127104
-OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
-OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CSunday
-OL,5,G2215 Mar Radio Alba
-OL,6,     Fha BBC Radio nan Gaidheal mar BBC
-OL,7,     FRadio Alba. BBC Radio nan Gaidheal
-OL,8,     Fjoins BBC Radio Scotland.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G2100 Deanamaid Adhradh Tasglann
+OL,6,     FSeirbheis a' Mhoid bho Eaglais
+OL,7,     FNaomh Chaluim Chille ann an
+OL,8,     FGlaschu 1988 Mod. Gaelic service
+OL,9,     Ffrom St Columba Church of Scotland
+OL,10,     Fin Glasgow 1988.
+OL,11,G2145 Rogha is Tagha
+OL,12,     FTaghadh C  programan na seachdain
+OL,13,     Fair a thoirt thugaibh le Anna Nic
+OL,14,     Fna Ceardaich. A selection from the
+OL,15,     Fweek's programmes with Anne
+OL,16,     FSinclair.
+OL,17,G2215 Mar Radio Alba
+OL,18,     Fha BBC Radio nan Gaidheal mar BBC
+OL,19,     FRadio Alba. BBC Radio nan Gaidheal
+OL,20,     Fjoins BBC Radio Scotland.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,216,200,300,120,0,100
