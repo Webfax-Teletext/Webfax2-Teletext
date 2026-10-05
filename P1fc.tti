@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1791239049
+OL,0,        ECIMSBWebfax 2   F1fcA1791240541
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,9 +13,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1791239049;
-OL,10,GService: Webfax 2 - 21179 90ceff6cbf
-OL,11,FLast Update: 05/10/2026 23:24:09  G1/2
+OL,25,1791240539;
+OL,10,GService: Webfax 2 - 21180 d07aa0a4f4
+OL,11,FLast Update: 05/10/2026 23:48:59  G1/2
 OL,13,AbbcNewsLive                G05/10-17:03
 OL,14,Ccharts/singles             G03/10-20:02
 OL,15,Cgeneric/championship       G24/09-16:01
@@ -30,7 +30,7 @@ OL,23,CitvSport/border            G28/09-18:19
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1791239049
+OL,0,        ECIMSBWebfax 2   F1fcA1791240541
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1791239049;
-OL,10,GService: Webfax 2 - 21179 90ceff6cbf
-OL,11,FLast Update: 05/10/2026 23:24:09  G2/2
+OL,25,1791240539;
+OL,10,GService: Webfax 2 - 21180 d07aa0a4f4
+OL,11,FLast Update: 05/10/2026 23:48:59  G2/2
 OL,13,CitvSport/calendar          G24/09-15:59
 OL,14,CitvSport/central           G24/09-15:59
 OL,15,CitvSport/channel           G03/10-19:18
@@ -54,5 +54,3 @@ OL,18,CitvSport/tyne-tees         G24/09-15:59
 OL,19,CitvSport/utv               G24/09-16:00
 OL,20,CitvSport/wales             G24/09-16:00
 OL,21,AitvSport/westcountry       G24/09-15:59
-OL,22,AiNMS/comments.json         G05/10-20:23
-OL,23,AiNMS/onthisday/            G05/10-20:23
