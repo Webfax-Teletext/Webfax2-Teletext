@@ -1,42 +1,27 @@
-PN,21401
-SC,0001
+PN,21400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1791299920
+PS,8008
+OL,0,        ECIMSBWebfax 2   F214A1791307141
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CTuesday
-OL,5,G1600 Drivetime
-OL,6,     FBreaking down the day's talking
-OL,7,     Fpoints with comment and opinion,
-OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Sportsound
-OL,10,     FFull commentary of Scotland v
-OL,11,     FSlovenia in the Nations League
-OL,12,     Flive from Hampden (1945 KO).
-OL,13,G2230 Up Late
-OL,14,     FThe best company to end the day,
-OL,15,     Fwith lively chat and some of your
-OL,16,     Ffavourite tunes.
-OL,17,G0000 Scotcast
-OL,18,     FMartin Geissler and the team bring
-OL,19,     Fyou thoughtful conversation and
-OL,20,     Fexpert analysis covering the most
-OL,21,     Finteresting news stories in
-OL,22,     FScotland.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,215,200,300,120,0,100
-PN,21402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1791299920
-OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
-OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CTuesday
-OL,5,G0030 As BBC Radio 5 Live
-OL,6,     FJoining Radio 5 Live.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1800 Sportsound
+OL,6,     FFull commentary of Scotland v
+OL,7,     FSlovenia in the Nations League
+OL,8,     Flive from Hampden (1945 KO).
+OL,9,G2230 Up Late
+OL,10,     FThe best company to end the day,
+OL,11,     Fwith lively chat and some of your
+OL,12,     Ffavourite tunes.
+OL,13,G0000 Scotcast
+OL,14,     FMartin Geissler and the team bring
+OL,15,     Fyou thoughtful conversation and
+OL,16,     Fexpert analysis covering the most
+OL,17,     Finteresting news stories in
+OL,18,     FScotland.
+OL,19,G0030 As BBC Radio 5 Live
+OL,20,     FJoining Radio 5 Live.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
