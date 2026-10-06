@@ -1,16 +1,54 @@
-PN,27700
-SC,0000
+PN,27701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F277A1791245939
+PS,c008
+OL,0,        ECIMSBWebfax 2   F277A1791263989
 OL,1,Vzssssss{0Ww;js%7+ jk*:jsjkj;ji
 OL,2,Vupp=wfff5W-.*,%-. *.*** *.***&V(,,,,,,,
-OL,3,V}yyy5CMonday
-OL,5,G0100 Weekday overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekday.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CTuesday
+OL,5,G0600 Gemma Hill
+OL,6,     FWaking up Oxfordshire with music,
+OL,7,     Flaughter, and the day's essential
+OL,8,     Finformation.
+OL,9,G1000 Adam Ball
+OL,10,     FMore Oxford Half stories!
+OL,11,G1400 Bridgitte Tetteh on BBC Radio
+OL,12,G     Oxford
+OL,13,     FThe very latest local news and
+OL,14,     Fstories with all the music you
+OL,15,     Flove with Bridgitte.
+OL,16,G1800 Danny Cox
+OL,17,     FDanny has the build-up to the
+OL,18,     FOxford United game and plays all
+OL,19,     Fthe music you love.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,278,250,301,140,0,100
+PN,27702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F277A1791263989
+OL,1,Vzssssss{0Ww;js%7+ jk*:jsjkj;ji
+OL,2,Vupp=wfff5W-.*,%-. *.*** *.***&V(,,,,,,,
+OL,3,V}yyy5CTuesday
+OL,5,G1900 BBC Radio Oxford Sport: Commentary
+OL,6,     FEFL Trophy coverage of Exeter City
+OL,7,     Fv Oxford United. Kick-off at 7pm.
+OL,8,     FNOT online.
+OL,9,G2100 Danny Cox
+OL,10,     FDanny has reaction to Oxford
+OL,11,     FUnited's game at Exeter City,
+OL,12,     Fsport updates and music.
+OL,13,G2200 The Late Show
+OL,14,     FBecky Want with late-night
+OL,15,     Fconversation, amazing stories and
+OL,16,     Fthe soundtrack to your night.
+OL,17,G0100 Weekday overnights with BBC Radio
+OL,18,G     5 Live
+OL,19,     FLocal BBC Radio joins BBC Radio 5
+OL,20,     FLive through the night on a
+OL,21,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,278,250,301,140,0,100
