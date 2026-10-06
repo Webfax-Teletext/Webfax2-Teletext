@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -17,20 +17,20 @@ OL,15,                                  ,
 OL,17,MCincluding the latest tech and culture
 OL,20,CM news and a look at what's on radio.
 OL,22,W
-OL,23,ATech headlines follow >>>QppppppppG1/18
+OL,23,ATech headlines follow >>>QppppppppG1/19
 OL,24,ARewind  BCulture  CNat Radio  FShowreel
 FL,120,160,200,140,0,100
 PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FASOS app users receive
-OL,6,Fnotifications from hackers in apparent
-OL,7,FbreachA06-Oct
+OL,5,G106FASOS app users receive push
+OL,6,Fnotifications apparently sent by
+OL,7,FhackersA06-Oct
 OL,8,G
 OL,9,G107FOfcom investigates Meta over
 OL,10,FInstagram Instants featureA06-Oct
@@ -46,41 +46,56 @@ OL,19,G
 OL,20,G110FTrump chooses top spy boss to run
 OL,21,Fnew AI taskforceA05-Oct
 OL,22,G
-OL,23,QppppppppppppppppppppppppppppppppppG2/18
+OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
 PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AASOS app users receive notifications
-OL,4,Afrom hackers in apparent breach
-OL,5,
-OL,6,FAsos users across the UK have been sent
-OL,7,Fpop-up messages from its app that
-OL,8,Fappear to have been sent by hackers
-OL,9,Ftrying to extort the company.
-OL,11,FDozens of people have told the BBC
-OL,12,Fabout receiving a strange message from
-OL,13,Fthe clothing and beauty store's app,
-OL,14,Fappearing on their phone screens.
-OL,16,F"Dear ASOS DPO and IT, we have fully
-OL,17,Fcompromised the Snowflake instance.
-OL,18,FEngage with us, or we will leak it,"
-OL,19,Fthe message reads.
-OL,21,FAsos did not immediately respond to the
-OL,22,FBBC's requests for comment.
-OL,23,APub: 06-OctQppppppppppppppppppppppG3/18
+OL,3,AASOS app users receive push
+OL,4,Anotifications apparently sent by
+OL,5,Ahackers
+OL,6,
+OL,7,FAsos users across the UK have been sent
+OL,8,Fpop-up messages from its app that
+OL,9,Fappear to have been sent by hackers
+OL,10,Ftrying to extort the company.
+OL,12,FDozens of people have told the BBC
+OL,13,Fabout receiving a strange message from
+OL,14,Fthe clothing and beauty store's app,
+OL,15,Fappearing on their phone screens.
+OL,17,F"Dear ASOS DPO and IT, we have fully
+OL,18,Fcompromised the Snowflake instance.
+OL,19,FEngage with us, or we will leak it,"
+OL,20,Fthe message reads.
+OL,23,APub: 06-OctQppppppppppppppppppppppG3/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,107,105,200,160,0,100
 PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AASOS app users receive push
+OL,4,Anotifications apparently sent by
+OL,5,Ahackers
+OL,6,
+OL,7,FAsos did not immediately respond to the
+OL,8,FBBC's requests for comment.
+OL,23,APub: 06-OctQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AOfcom investigates Meta over Instagram
@@ -101,14 +116,14 @@ OL,19,Fgiant had not properly assessed risks
 OL,20,Fposed by the feature prior to launching
 OL,21,Fit - something it is required to do
 OL,22,Funder the UK's Online Safety Act (OSA).
-OL,23,APub: 06-OctQppppppppppppppppppppppG4/18
+OL,23,APub: 06-OctQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,108,105,200,160,0,100
-PN,11905
-SC,0005
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AOfcom investigates Meta over Instagram
@@ -118,14 +133,14 @@ OL,6,FA Meta spokesperson said in a statement
 OL,7,Fthat it "takes its regulatory
 OL,8,Fobligations under the Online Safety Act
 OL,9,Fseriously".
-OL,23,APub: 06-OctQppppppppppppppppppppppG5/18
+OL,23,APub: 06-OctQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ALego fraudster among last year's most
@@ -146,14 +161,14 @@ OL,19,Fcrashes with people they met online and
 OL,20,Fa complex travel insurance scam
 OL,21,Finvolving multiple fake identities and
 OL,22,Fdocuments.
-OL,23,APub: 06-OctQppppppppppppppppppppppG6/18
+OL,23,APub: 06-OctQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
-PN,11907
-SC,0007
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ALego fraudster among last year's most
@@ -163,14 +178,14 @@ OL,6,FThe average value of a fraudulent claim
 OL,7,Freached #14,300 last year, the
 OL,8,Fsecond-highest level on record, the ABI
 OL,9,Fsaid.
-OL,23,APub: 06-OctQppppppppppppppppppppppG7/18
+OL,23,APub: 06-OctQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
-PN,11908
-SC,0008
+PN,11909
+SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -192,14 +207,14 @@ OL,19,G
 OL,20,G166FWhat to do if you missed out on
 OL,21,FGlastonbury ticketsA05-Oct
 OL,22,G
-OL,23,QppppppppppppppppppppppppppppppppppG8/18
+OL,23,QppppppppppppppppppppppppppppppppppG9/19
 OL,24,ANext PageBTechnologyCNat RadioFShowreel
 FL,161,105,200,140,0,100
-PN,11909
-SC,0009
+PN,11910
+SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AAuthor and former politician Jeffrey
@@ -218,14 +233,14 @@ OL,17,FIn a statement, Archer's publisher
 OL,18,FHarperCollins said the author died
 OL,19,F"suddenly and peacefully at home" on
 OL,20,FMonday between writing sessions.
-OL,23,APub: 05-OctQppppppppppppppppppppppG9/18
+OL,23,APub: 05-OctQpppppppppppppppppppppG10/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
-PN,11910
-SC,0010
+PN,11911
+SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AAuthor and former politician Jeffrey
@@ -235,14 +250,14 @@ OL,6,FThe former Conservative MP was jailed
 OL,7,Ffor perjury in 2001 after being found
 OL,8,Fguilty of lying and cheating in his
 OL,9,F1987 libel case against the Daily Star.
-OL,23,APub: 05-OctQpppppppppppppppppppppG10/18
+OL,23,APub: 05-OctQpppppppppppppppppppppG11/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
-PN,11911
-SC,0011
+PN,11912
+SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABritish Museum boss 'sorry' for Bayeux
@@ -261,14 +276,14 @@ OL,17,Fexperience, we're really sorry about
 OL,18,Fthat and we want to put it right,"
 OL,19,FNicholas Cullinan told the BBC's
 OL,20,Fculture and media editor Katie Razzall.
-OL,23,APub: 05-OctQpppppppppppppppppppppG11/18
+OL,23,APub: 05-OctQpppppppppppppppppppppG12/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
-PN,11912
-SC,0012
+PN,11913
+SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABritish Museum boss 'sorry' for Bayeux
@@ -277,14 +292,14 @@ OL,5,
 OL,6,FThe new plans include longer opening
 OL,7,Fhours, an audio guide, additional
 OL,8,Fseating and clearer signage.
-OL,23,APub: 05-OctQpppppppppppppppppppppG12/18
+OL,23,APub: 05-OctQpppppppppppppppppppppG13/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
-PN,11913
-SC,0013
+PN,11914
+SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABlue Planet and Gandhi composer George
@@ -300,14 +315,14 @@ OL,13,FThe prolific musician received five
 OL,14,FOscar nominations for his film scores,
 OL,15,Fincluding those for Dangerous Liasions
 OL,16,Fand Cry Freedom.
-OL,23,APub: 05-OctQpppppppppppppppppppppG13/18
+OL,23,APub: 05-OctQpppppppppppppppppppppG14/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
-PN,11914
-SC,0014
+PN,11915
+SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABlue Planet and Gandhi composer George
@@ -323,14 +338,14 @@ OL,13,FIn a statement, Fenton's family said:
 OL,14,F"We are very sad to announce that
 OL,15,FGeorge Fenton passed away unexpectedly
 OL,16,Ftoday."
-OL,23,APub: 05-OctQpppppppppppppppppppppG14/18
+OL,23,APub: 05-OctQpppppppppppppppppppppG15/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
-PN,11915
-SC,0015
+PN,11916
+SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CTuesday
@@ -352,14 +367,14 @@ OL,19,G     Jamie
 OL,20,     FBash Croft from The Celebrity
 OL,21,     FTraitors plays 2 Truths 1 Lie and
 OL,22,     Fshares his new track!
-OL,23,VpppppppppppppppppppppppppppppppppG15/18
+OL,23,VpppppppppppppppppppppppppppppppppG16/19
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11916
-SC,0016
+PN,11917
+SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CTuesday
@@ -378,14 +393,14 @@ OL,16,     FClara Amfo sits in, bringing you
 OL,17,     Fsome of the best music from across
 OL,18,     Fthe decades to get you through the
 OL,19,     Fafternoon.
-OL,23,VpppppppppppppppppppppppppppppppppG16/18
+OL,23,VpppppppppppppppppppppppppppppppppG17/19
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11917
-SC,0017
+PN,11918
+SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CTuesday
@@ -406,14 +421,14 @@ OL,18,G     School
 OL,19,     F2/5. Donald Macleod examines the
 OL,20,     Finfluence of St Mark on the music
 OL,21,     Fof the Venetian School.
-OL,23,VpppppppppppppppppppppppppppppppppG17/18
+OL,23,VpppppppppppppppppppppppppppppppppG18/19
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11918
-SC,0018
+PN,11919
+SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791281900
+OL,0,        ECIMSBWebfax 2   F119A1791282250
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CTuesday
@@ -435,6 +450,6 @@ OL,19,     FCall You & Yours: What do you do
 OL,20,     Fwith things you've inherited that
 OL,21,     Fyou don't want?
 OL,22,G1257 Weather Forecast
-OL,23,VpppppppppppppppppppppppppppppppppG18/18
+OL,23,VpppppppppppppppppppppppppppppppppG19/19
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
