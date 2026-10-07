@@ -2,26 +2,25 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791413294
+OL,0,        ECIMSBWebfax 2   F211A1791415105
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G2332 World Business Report
-OL,6,     FThe latest business and finance
-OL,7,     Fnews from around the world, on the
-OL,8,     FBBC.
-OL,9,G0000 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0006 Artists at Work
-OL,13,     FJosie Long interviews Paul
-OL,14,     FTremblay about 'A Head Full of
-OL,15,     FGhosts', a novel that explores
-OL,16,     Fdemonic possession, mental illness
-OL,17,     Fand the evils of the media.
-OL,18,G0100 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
+OL,5,G0006 Artists at Work
+OL,6,     FJosie Long interviews Paul
+OL,7,     FTremblay about 'A Head Full of
+OL,8,     FGhosts', a novel that explores
+OL,9,     Fdemonic possession, mental illness
+OL,10,     Fand the evils of the media.
+OL,11,G0100 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0106 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0130 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -29,26 +28,23 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791413294
+OL,0,        ECIMSBWebfax 2   F211A1791415105
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0106 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0130 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0132 The Global Story
-OL,12,     FIsrael's leader is under scrutiny
-OL,13,     Fover alleged security and
-OL,14,     Fintelligence failings.
-OL,15,G0200 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0206 The Newsroom
-OL,19,     FThe world's Newsroom brings you
-OL,20,     Fglobal events as they happen.
+OL,5,G0132 The Global Story
+OL,6,     FIsrael's leader is under scrutiny
+OL,7,     Fover alleged security and
+OL,8,     Fintelligence failings.
+OL,9,G0200 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G0206 The Newsroom
+OL,13,     FThe world's Newsroom brings you
+OL,14,     Fglobal events as they happen.
+OL,15,G0230 BBC News Summary
+OL,16,     FThe latest two minute news summary
+OL,17,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -56,23 +52,27 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791413294
+OL,0,        ECIMSBWebfax 2   F211A1791415105
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0230 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0232 The Documentary
-OL,9,     FHow has a once-a-decade act of
-OL,10,     Fpolitical admin turned into a
-OL,11,     Frolling process of extreme
-OL,12,     Fpolitical partisanship - and what
-OL,13,     Fdoes it mean for the future of
-OL,14,     FAmerican democracy?
-OL,15,G0300 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,5,G0232 The Documentary
+OL,6,     FHow has a once-a-decade act of
+OL,7,     Fpolitical admin turned into a
+OL,8,     Frolling process of extreme
+OL,9,     Fpolitical partisanship - and what
+OL,10,     Fdoes it mean for the future of
+OL,11,     FAmerican democracy?
+OL,12,G0300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0306 Outlook
+OL,16,     FSibylle Baier was horrified when
+OL,17,     Fher son handed out copies of a
+OL,18,     Frecord she'd made in her 20s to
+OL,19,     Fguests at her 60th birthday party.
+OL,20,     FWhat followed was a reaction
+OL,21,     Fneither imagined.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -80,26 +80,25 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791413294
+OL,0,        ECIMSBWebfax 2   F211A1791415105
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0306 Outlook
-OL,6,     FSibylle Baier was horrified when
-OL,7,     Fher son handed out copies of a
-OL,8,     Frecord she'd made in her 20s to
-OL,9,     Fguests at her 60th birthday party.
-OL,10,     FWhat followed was a reaction
-OL,11,     Fneither imagined.
-OL,12,G0350 Witness History
-OL,13,     FIn 2013, people in Rjukan, Norway
-OL,14,     Fexperienced winter sunshine for
-OL,15,     Fthe first time - thanks to three
-OL,16,     Fgiant mirrors that were placed on
-OL,17,     Ftop of a nearby mountain.
-OL,18,G0400 BBC News
-OL,19,     FThe latest five minute news
-OL,20,     Fbulletin from BBC World Service.
+OL,5,G0350 Witness History
+OL,6,     FIn 2013, people in Rjukan, Norway
+OL,7,     Fexperienced winter sunshine for
+OL,8,     Fthe first time - thanks to three
+OL,9,     Fgiant mirrors that were placed on
+OL,10,     Ftop of a nearby mountain.
+OL,11,G0400 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0406 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0430 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -107,27 +106,21 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791413294
+OL,0,        ECIMSBWebfax 2   F211A1791415105
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CWednesday
-OL,5,G0406 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G0430 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G0432 The Food Chain
-OL,12,     FThe Food Chain examines the
-OL,13,     Fbusiness, science and cultural
-OL,14,     Fsignificance of food, and what it
-OL,15,     Ftakes to put food on your plate.
-OL,16,G0500 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
-OL,19,G0506 Newsday
-OL,20,     FLive news, business and sport from
-OL,21,     Faround the world.
+OL,5,G0432 The Food Chain
+OL,6,     FThe Food Chain examines the
+OL,7,     Fbusiness, science and cultural
+OL,8,     Fsignificance of food, and what it
+OL,9,     Ftakes to put food on your plate.
+OL,10,G0500 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G0506 Newsday
+OL,14,     FLive news, business and sport from
+OL,15,     Faround the world.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
