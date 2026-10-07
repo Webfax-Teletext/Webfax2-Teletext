@@ -1,12 +1,132 @@
-PN,46300
-SC,0000
+PN,46301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F463A1791328700
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1791350388
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CTuesday
-OL,5,GThis channel has closed for the day
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CWednesday
+OL,5,G0700 Nead na Fuiseoige
+OL,6,     FClar ceoil a chur i lathair ag
+OL,7,     FGrainne Ni Dhomhnaill.
+OL,8,G0800 Adhmhaidin
+OL,9,     FClar cursai reatha agus nuachta
+OL,10,     Fnaisiunta, idirnaisiunta agus
+OL,11,     Faitiuil le tuairisc spoirt agus
+OL,12,     Ftuairisc ar na nuachtain
+OL,13,G0900 Priomhscealta na Nuachta agus na
+OL,14,G     Gaeltachta
+OL,15,     FPriomhscealta na Nuachta agus na
+OL,16,     FGaeltachta.
+OL,17,G0915 Iris Aniar
+OL,18,     FClar irise a chur i lathair o
+OL,19,     Fcheannaras Raidio na Gaeltachta i
+OL,20,     FgCasla.
+OL,23,VppppppppppppppppppppppppppppppppppG1/5
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1791350388
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G1015 Cuideachta Ceoil
+OL,6,     FClar ceoil a chur i lathair ag
+OL,7,     FEibhlin de Bhailis.
+OL,8,G1055 Tuairisc Spoirt
+OL,9,     FTuairisc Spoirt.
+OL,10,G1100 Barrscealta
+OL,11,     FClar irise a chur i lathair beo o
+OL,12,     Fstiuideo na nDoiri Beaga.
+OL,13,G1200 Priomhscealta na Nuachta agus na
+OL,14,G     Gaeltachta
+OL,15,     FPriomhscealta na Nuachta agus na
+OL,16,     FGaeltachta.
+OL,17,G1208 An Saol o Dheas
+OL,18,     FClar irise, a chur i lathair beo o
+OL,19,     FBhaile na nGall.
+OL,23,VppppppppppppppppppppppppppppppppppG2/5
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1791350388
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G1300 Nuacht a hAon
+OL,6,     FAn barr is deireanai nuachta
+OL,7,     Fnaisiunta, idirnaisiunta agus
+OL,8,     Faitiuil.
+OL,9,G1400 Tuairisc Spoirt
+OL,10,     FTuairisc Spoirt.
+OL,11,G1405 Cartlann Bhothar na Leinsi
+OL,12,     FGlortha o chartlann Bhothar na
+OL,13,     FLeinsi idir chaint, cheol, spoirt,
+OL,14,     Ffiliocht, leachtai agus go leor
+OL,15,     Feile.
+OL,16,G1430 Coisir Cheoil
+OL,17,     FClar ceoil a chur i lathair ag
+OL,18,     FCaoimhin O Se o stiuideo Chasla
+OL,19,G1700 Tus Aite
+OL,20,     FClar cursai reatha agus nuachta a
+OL,21,     Fchur i lathair ag Fachtna O
+OL,22,     FDrisceoil.
+OL,23,VppppppppppppppppppppppppppppppppppG3/5
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46304
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1791350388
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G1755 Tuairisc Spoirt
+OL,6,     FTuairisc Spoirt.
+OL,7,G1800 Nuacht a Se
+OL,8,     FAn barr is deireanai nuachta
+OL,9,     Fnaisiunta, idirnaisiunta agus
+OL,10,     Faitiuil.
+OL,11,G1830 Fograi an Lae
+OL,12,     FImeachtai agus fograi na
+OL,13,     FGaeltachta.
+OL,14,G1900 An Cuinne Ceoil
+OL,15,     FClar ceoil a chur i lathair ag
+OL,16,     FTristan Rosenstock.
+OL,23,VppppppppppppppppppppppppppppppppppG4/5
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46305
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1791350388
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G1930 Coisir Cheoil, An tAmhran is Ansa
+OL,6,G     Linn
+OL,7,     FCeolchoirm speisialta le RTE
+OL,8,     FRaidio na Gaeltachta agus
+OL,9,     FCeolfhoireann Coirme RTE, i
+OL,10,     Fgcomhair le ceoltoiri agus grupai
+OL,11,     Fceoil aitheanta, beo o Theach
+OL,12,     FPobail Chriost Ri i nDun na nGall
+OL,13,G2100 Ri-Ra ar RnaG
+OL,14,     FCeol agus amhrain o na cairteanna,
+OL,15,     Far Ri-Ra ar RnaG, ag cur tus
+OL,16,     Fbriomhar le craoladh Anocht FM i
+OL,17,     Frith na seachtaine.
+OL,18,G2200 An Taobh Tuathail
+OL,19,     FCeol nua eagsuil do chach, a chur
+OL,20,     Fi lathair ag Cian O Ciobhain.
+OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
