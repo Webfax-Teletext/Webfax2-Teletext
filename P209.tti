@@ -1,17 +1,98 @@
-PN,20900
-SC,0000
+PN,20901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1791517692
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1791523187
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G0445 International Cricket
 OL,6,     FLive ball-by-ball cricket
 OL,7,     Fcommentary from ABC Grandstand in
 OL,8,     FAustralia of Australia Women v
 OL,9,     FBangladesh Women in the 1st ODI at
 OL,10,     FAllan Border Field in Brisbane.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,11,G0925 Formula 1
+OL,12,     FLive F1 commentary of Practice 1
+OL,13,     Fat the Singapore Grand Prix from
+OL,14,     Fthe Marina Bay Street Circuit.
+OL,15,G1035 International Cricket
+OL,16,     FLive ball-by-ball cricket
+OL,17,     Fcommentary from ABC Grandstand in
+OL,18,     FAustralia of Australia Women v
+OL,19,     FBangladesh Women in the 1st ODI at
+OL,20,     FAllan Border Field in Brisbane.
+OL,23,VppppppppppppppppppppppppppppppppppG1/4
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,210,200,300,120,0,100
+PN,20902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1791523187
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
+OL,3,V}yyy5CFriday
+OL,5,G1300 This Is Sports Extra
+OL,6,     FThis is BBC Radio 5 Sports Extra -
+OL,7,     Fbringing you even more live
+OL,8,     Fcommentaries from the world's
+OL,9,     Fgreatest sporting events. Listen
+OL,10,     Fon BBC Sounds.
+OL,11,G1325 Formula 1
+OL,12,     FLive F1 commentary of Sprint
+OL,13,     FQualifying at the Singapore Grand
+OL,14,     FPrix from the Marina Bay Street
+OL,15,     FCircuit.
+OL,16,G1430 This Is Sports Extra
+OL,17,     FThis is BBC Radio 5 Sports Extra -
+OL,18,     Fbringing you even more live
+OL,19,     Fcommentaries from the world's
+OL,20,     Fgreatest sporting events. Listen
+OL,21,     Fon BBC Sounds.
+OL,23,VppppppppppppppppppppppppppppppppppG2/4
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,210,200,300,120,0,100
+PN,20903
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1791523187
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
+OL,3,V}yyy5CFriday
+OL,5,G1645 Women's International Football
+OL,6,     FLive football commentary from BBC
+OL,7,     FRadio Wales of Albania v Wales in
+OL,8,     Fthe Women's World Cup play-off
+OL,9,     Fsemi-finals.
+OL,10,G1900 Rugby Union
+OL,11,     FLive rugby union commentary from
+OL,12,     FBBC Radio Leicester of Leicester
+OL,13,     FTigers v Gloucester in the PREM.
+OL,14,G2200 This Is Sports Extra
+OL,15,     FThis is BBC Radio 5 Sports Extra -
+OL,16,     Fbringing you even more live
+OL,17,     Fcommentaries from the world's
+OL,18,     Fgreatest sporting events. Listen
+OL,19,     Fon BBC Sounds.
+OL,23,VppppppppppppppppppppppppppppppppppG3/4
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,210,200,300,120,0,100
+PN,20904
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1791523187
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
+OL,3,V}yyy5CFriday
+OL,5,G0000 This Is Sports Extra
+OL,6,     FThis is BBC Radio 5 Sports Extra -
+OL,7,     Fbringing you even more live
+OL,8,     Fcommentaries from the world's
+OL,9,     Fgreatest sporting events. Listen
+OL,10,     Fon BBC Sounds.
+OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,210,200,300,120,0,100
