@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,27 +24,27 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
 OL,5,G106FNvidia-backed AI data centre firm
-OL,6,Fscraps mega stock market listingA09-Oct
-OL,7,G
-OL,8,G107FWhy are more roofs not made of
-OL,9,Fsolar tiles?A08-Oct
-OL,10,G
-OL,11,G108FWhite House blocks Microsoft from
-OL,12,Fforeign worker hiring programA08-Oct
-OL,13,G
-OL,14,G109FAsos hackers took more personal
-OL,15,Fdetails than first revealed, BBC finds
-OL,16,A08-Oct
-OL,17,G
-OL,18,G110FAI chip boom pushes Samsung profits
-OL,19,Fto record $80bnA08-Oct
-OL,20,G
-OL,21,F
+OL,6,Fscraps mega listing due to market
+OL,7,FvolatilityA09-Oct
+OL,8,G
+OL,9,G107FWhy are more roofs not made of
+OL,10,Fsolar tiles?A08-Oct
+OL,11,G
+OL,12,G108FWhite House blocks Microsoft from
+OL,13,Fforeign worker hiring programA08-Oct
+OL,14,G
+OL,15,G109FAsos hackers took more personal
+OL,16,Fdetails than first revealed, BBC finds
+OL,17,A08-Oct
+OL,18,G
+OL,19,G110FAI chip boom pushes Samsung profits
+OL,20,Fto record $80bnA08-Oct
+OL,21,G
 OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
@@ -53,27 +53,24 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ANvidia-backed AI data centre firm
-OL,4,Ascraps mega stock market listing
-OL,5,
-OL,6,FArtificial intelligence (AI) data
-OL,7,Fcentre company Firmus has scrapped its
-OL,8,Fplans for what would have been one of
-OL,9,FAustralia's biggest-ever stock market
-OL,10,Flistings.
-OL,12,FThe Nvidia-backed firm said it had made
-OL,13,Fthe decision due to "recent market
-OL,14,Fvolatility and prevailing market
-OL,15,Fconditions" and that going public would
-OL,16,Fnot be in the company or shareholders'
-OL,17,Fbest interests.
-OL,19,FFirmus had initially announced plans
-OL,20,Ffor a stock market debut that valued
-OL,21,Fthe company at more than $30bn
-OL,22,F(#22.65bn).
+OL,4,Ascraps mega listing due to market
+OL,5,Avolatility
+OL,6,
+OL,7,FArtificial intelligence (AI) data
+OL,8,Fcentre company Firmus has scrapped its
+OL,9,Fplans for what would have been one of
+OL,10,FAustralia's biggest-ever stock market
+OL,11,Flistings.
+OL,13,FThe Nvidia-backed firm said it had made
+OL,14,Fthe decision due to "recent market
+OL,15,Fvolatility and prevailing market
+OL,16,Fconditions" and that going public would
+OL,17,Fnot be in the company or shareholders'
+OL,18,Fbest interests.
 OL,23,APub: 09-OctQppppppppppppppppppppppG3/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,107,105,200,160,0,100
@@ -81,16 +78,21 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ANvidia-backed AI data centre firm
-OL,4,Ascraps mega stock market listing
-OL,5,
-OL,6,FOne investment firm told the BBC that
-OL,7,Fit had decided not take part in the
-OL,8,Finitial public offering (IPO) over
-OL,9,Fconcerns about its valuation.
+OL,4,Ascraps mega listing due to market
+OL,5,Avolatility
+OL,6,
+OL,7,FFirmus had initially announced plans
+OL,8,Ffor a stock market debut that valued
+OL,9,Fthe company at more than $30bn
+OL,10,F(#22.65bn).
+OL,12,FOne investment firm told the BBC that
+OL,13,Fit had decided not take part in the
+OL,14,Finitial public offering (IPO) over
+OL,15,Fconcerns about its valuation.
 OL,23,APub: 09-OctQppppppppppppppppppppppG4/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,107,105,200,160,0,100
@@ -98,7 +100,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhy are more roofs not made of solar
@@ -125,7 +127,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhy are more roofs not made of solar
@@ -142,7 +144,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhite House blocks Microsoft from
@@ -166,7 +168,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhite House blocks Microsoft from
@@ -188,7 +190,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -217,7 +219,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AEmotions run high at the round table as
@@ -244,7 +246,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AEmotions run high at the round table as
@@ -263,7 +265,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Bold and inventive' Canadian poet Anne
@@ -288,7 +290,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Bold and inventive' Canadian poet Anne
@@ -307,7 +309,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABBC to cut raft of Radio 4 programmes
@@ -334,7 +336,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABBC to cut raft of Radio 4 programmes
@@ -352,7 +354,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
@@ -367,7 +369,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CThursday
@@ -383,7 +385,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
@@ -399,7 +401,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1791521294
+OL,0,        ECIMSBWebfax 2   F119A1791521647
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CThursday
