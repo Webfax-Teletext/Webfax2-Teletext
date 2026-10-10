@@ -1,16 +1,75 @@
-PN,27400
-SC,0000
+PN,27401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F274A1791591541
+PS,c008
+OL,0,        ECIMSBWebfax 2   F274A1791609577
 OL,1,Vzssssss{0Ww;js%7+ jkjkj;jsjkj j:
 OL,2,Vupp=wfff5W-.*,%-. ***.*** *.*,**V(,,,,,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSaturday
+OL,5,G0600 Kev Lawrence on BBC Radio Norfolk
+OL,6,     FKev has all you need to start your
+OL,7,     Fweekend, with Saturday morning
+OL,8,     Ftunes, guests and fun.
+OL,9,G1000 Thordis Fridriksson on BBC Radio
+OL,10,G     Norfolk
+OL,11,     FSounds of your mid-morning, with
+OL,12,     Ftop guests, great music and your
+OL,13,     Fdedications.
+OL,14,G1200 Sport on BBC Radio Norfolk:
+OL,15,G     Pre-Match
+OL,16,     FAll the build-up and interviews
+OL,17,     Fahead of Norwich City's latest
+OL,18,     Fmatch.
+OL,19,G1230 Sport on BBC Radio Norfolk
+OL,20,     FFull live commentary from Phil
+OL,21,     FDaley and Che Wilson. Kick-off at
+OL,22,     F12.30pm. NOT online.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,275,250,301,140,0,100
+PN,27402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F274A1791609577
+OL,1,Vzssssss{0Ww;js%7+ jkjkj;jsjkj j:
+OL,2,Vupp=wfff5W-.*,%-. ***.*** *.*,**V(,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1430 Norwich City
+OL,6,     FChe Wilson and Rob Butler take
+OL,7,     Fyour thoughts on this afternoon's
+OL,8,     Fgame. Call 0800 3897 321.
+OL,9,G1500 Total Sport
+OL,10,     FThe perfect blend of sport,
+OL,11,     Fentertainment and music.
+OL,12,G1800 Upload with Rob Jelly
+OL,13,     FAuthor Sarah J Banham and author
+OL,14,     FNick Ball
+OL,15,G2000 BBC Introducing - Suffolk &
+OL,16,G     Norfolk
+OL,17,     FAngelle Joseph shares the best
+OL,18,     Funder-the-radar musical talent in
+OL,19,     FNorfolk and Suffolk.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,275,250,301,140,0,100
+PN,27403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F274A1791609577
+OL,1,Vzssssss{0Ww;js%7+ jkjkj;jsjkj j:
+OL,2,Vupp=wfff5W-.*,%-. ***.*** *.*,**V(,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G2200 Late Night Jo
+OL,6,     FJo Good with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekend overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekend.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,275,250,301,140,0,100

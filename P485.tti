@@ -2,27 +2,24 @@ PN,48501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1791523188
+OL,0,        ECIMSBWebfax 2   F485A1791609577
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G0600 Rising Time
 OL,6,     FMornings with melody, featuring
 OL,7,     Fclassic cuts and the best of new
 OL,8,     Fmusic presented by Lilian Smith.
-OL,9,G0800 Countrywide
-OL,10,     FPhilip Boucher-Hayes and the
-OL,11,     FCountryWide team feature the
-OL,12,     Fevents, people and happenings that
-OL,13,     Fbring colour and life to
-OL,14,     Fcommunities, towns & villages
-OL,15,     Facross the country.
-OL,16,G0900 Playback
-OL,17,     FSinead Mooney brings you the best
-OL,18,     Fof the week's wireless - from the
-OL,19,     Fbig news stories to the features,
-OL,20,     Fdrama, documentaries, sport and
-OL,21,     Fmusic.
+OL,9,G0800 World Report
+OL,10,     FFrom the unusual to the topical,
+OL,11,     FWorld Report brings you
+OL,12,     Finteresting stories from around
+OL,13,     Fthe world.
+OL,14,G0830 Bowman Sunday 8.30
+OL,15,     FJohn Bowman takes a look back
+OL,16,     Fthrough the RTE Radio archives and
+OL,17,     Fpresents some of his favourite
+OL,18,     Frecordings
 OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -30,25 +27,27 @@ PN,48502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1791523188
+OL,0,        ECIMSBWebfax 2   F485A1791609577
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G1000 The Business
-OL,6,     FA weekly look at the world of
-OL,7,     Fbusiness and personal finance with
-OL,8,     FRichard Curran.
-OL,9,G1100 Brendan O'Connor
-OL,10,     FBrendan O'Connor presents a live
-OL,11,     Fstimulating mix of news,
-OL,12,     Finterviews, reports and
-OL,13,     Fdiscussion.
-OL,14,G1300 Saturday with Cormac O hEadhra
-OL,15,     FAine Kerr unpacks the political
-OL,16,     Fweek with lively debate and fresh
-OL,17,     Fperspectives from those shaping
-OL,18,     Fpolicy - both nationally and
-OL,19,     Fglobally.
+OL,3,V}yyy5CSunday
+OL,5,G0900 Sunday Miscellany
+OL,6,     FA mix of 'music and musings' from
+OL,7,     Fradio essays to reportage,
+OL,8,     Fappreciations, memory pieces,
+OL,9,     Fpoetry, travel writing to personal
+OL,10,     Faccounts of events and happenings
+OL,11,G1000 Sunday with Miriam
+OL,12,     FMiriam O'Callaghan presents a live
+OL,13,     Fstimulating mix of lifestyle,
+OL,14,     Fmusic, human interest and great
+OL,15,     Finterviews, the perfect soundtrack
+OL,16,     Fto your Sunday morning.
+OL,17,G1100 Brendan O'Connor
+OL,18,     FBrendan O'Connor presents a live
+OL,19,     Fstimulating mix of news,
+OL,20,     Finterviews, reports and
+OL,21,     Fdiscussion.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -56,25 +55,25 @@ PN,48503
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1791523188
+OL,0,        ECIMSBWebfax 2   F485A1791609577
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G1400 Saturday Sport
-OL,6,     FCoverage of all the days sporting
-OL,7,     Faction including the FAI Sup
-OL,8,     Fsemi-final, Galway United v Derry
-OL,9,     FCity (15:00).
-OL,10,G1800 Saturday Sounds with Neil Doherty
-OL,11,     FMusic, chat and competitions for a
-OL,12,     FSaturday evening. Presented by
-OL,13,     FNeil Doherty
-OL,14,G2000 Healing Sounds with Malachi Cush
-OL,15,     FSinger Janet Devlin speaks
-OL,16,     Fcandidly to Malachi Cush about her
-OL,17,     Fbattles with addiction, the road
-OL,18,     Fto recovery and the music that
-OL,19,     Fhelped her rediscover hope.
+OL,3,V}yyy5CSunday
+OL,5,G1300 This Week
+OL,6,     FA look at events making the news
+OL,7,     Fin the past week.
+OL,8,G1400 Sunday Sport
+OL,9,     FGaelic Games: Best of the day's
+OL,10,     FClub Championship action; Soccer:
+OL,11,     FEnglish Premier League; plus all
+OL,12,     Fthe rest of the day's sports news
+OL,13,     Fand results.
+OL,14,G1800 Supercharged with Anna Geary
+OL,15,     FAnna opens up the conversation
+OL,16,     Faround our bodies and minds with a
+OL,17,     Fmix of expert advice, impactful
+OL,18,     Fpersonal stories, listener voice
+OL,19,     Fnotes, and practical life hacks.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -82,26 +81,26 @@ PN,48504
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1791523188
+OL,0,        ECIMSBWebfax 2   F485A1791609577
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G2100 Ceili House
-OL,6,     FA preview of the Foxford
-OL,7,     FTraditional Music festival
-OL,8,     Frecorded in Foxford Co Mayo.
-OL,9,G2200 Folk on One
-OL,10,     FBroadcaster and singer Muireann
-OL,11,     FNic Amhlaoibh brings us a golden
-OL,12,     Fhour of folk music both old and
-OL,13,     Fnew, acoustic and traditional from
-OL,14,     Facross Ireland and beyond.
-OL,15,G2300 Country Time
-OL,16,     FThe best in country music
-OL,17,     Fpresented by Brian Lally, who'll
-OL,18,     Fdo his best to have something old,
-OL,19,     Fsomething new, something borrowed
-OL,20,     Fand something bluegrass.
+OL,3,V}yyy5CSunday
+OL,5,G1900 The County Measure
+OL,6,     FThis week on The County Measure
+OL,7,     Fwriter and broadcaster Vincent
+OL,8,     FWoods explores the culture, wit
+OL,9,     Fand landscapes of Co. Tyrone.
+OL,10,G2000 Drama on One
+OL,11,     FOur Autumn Season of new work
+OL,12,     Fcontinues with Wake by Irene
+OL,13,     FKelleher.
+OL,14,G2100 The Rolling Wave
+OL,15,     FMarking the 50th anniversary of
+OL,16,     FFeile na Boinne which took place
+OL,17,     Fat the recent Sean Corcoran Series
+OL,18,     Fin Drogheda, Co Lough with guests
+OL,19,     FPaddy Glackin, Nuala O'Connor and
+OL,20,     FPeter Browne
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -109,15 +108,26 @@ PN,48505
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1791523188
+OL,0,        ECIMSBWebfax 2   F485A1791609577
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G2359 Late Date
-OL,6,     FThe perfect musical end to the
-OL,7,     Fday, presented by Ray Cuddihy.
-OL,8,G0200 RTE Gold on RTE Radio 1
-OL,9,     FThe greatest hits of all time.
+OL,3,V}yyy5CSunday
+OL,5,G2200 South Wind Blows
+OL,6,     FThe South Wind Blows is presented
+OL,7,     Fby Philip King every Sunday
+OL,8,     Fevening. The show comes from the
+OL,9,     Fedge of Europe, from the most
+OL,10,     Fwesterly tip of the Dingle
+OL,11,     Fpeninsula.
+OL,12,G2300 Late Date
+OL,13,     FThe perfect musical end to the
+OL,14,     Fday, presented by Ray Cuddihy.
+OL,15,G0200 RTE Gold on RTE Radio 1
+OL,16,     FThe greatest hits of all time.
+OL,17,G0530 Rising Time
+OL,18,     FMornings with melody, featuring
+OL,19,     Fclassic cuts and the best of new
+OL,20,     Fmusic presented by Shay Byrne.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
