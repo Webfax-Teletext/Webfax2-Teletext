@@ -1,16 +1,70 @@
-PN,27600
-SC,0000
+PN,27601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F276A1791677937
+PS,c008
+OL,0,        ECIMSBWebfax 2   F276A1791695979
 OL,1,Vzssssss{0Ww;js%7+ jkjk"7"7jjkjcjzj{jkk
 OL,2,Vupp=wfff5W-.*,%-. ***. % %****.*******
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
+OL,3,V}yyy5CSunday
+OL,5,G0600 Twiggy on BBC Radio Nottingham
+OL,6,     FLooking at some of the big stories
+OL,7,     Fof the week from a faith
+OL,8,     Fperspective.
+OL,9,G1000 Kelly Hinch on BBC Radio
+OL,10,G     Nottingham
+OL,11,     FDean livens up your weekend with
+OL,12,     Fgreat guests, stories,
+OL,13,     Fconversation and music.
+OL,14,G1300 Pre-match
+OL,15,     FYour essential guide to today's
+OL,16,     Fgames. Expert opinion on Forest,
+OL,17,     FNotts and Mansfield Town.
+OL,18,G1400 Matchday
+OL,19,     FCrystal Palace v Nottingham Forest
+OL,20,     Fin the Premier League. Kick-off at
+OL,21,     F2pm. NOT online.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,277,250,301,140,0,100
+PN,27602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F276A1791695979
+OL,1,Vzssssss{0Ww;js%7+ jkjk"7"7jjkjcjzj{jkk
+OL,2,Vupp=wfff5W-.*,%-. ***. % %****.*******
+OL,3,V}yyy5CSunday
+OL,5,G1600 Post-match
+OL,6,     FAll the post-match interviews and
+OL,7,     Fanalysis that really matter.
+OL,8,G1700 The Make a Difference Show
+OL,9,     FGaby Roslin talks to some amazing
+OL,10,     Fpeople making a difference where
+OL,11,     Fwe live.
+OL,12,G1800 Dotun Adebayo
+OL,13,     FDotun Adebayo brings you the best
+OL,14,     Fof community programming from
+OL,15,     Facross England.
+OL,16,G2200 The Late Show
+OL,17,     FAsma Younus with late-night
+OL,18,     Fconversation, stories and the
+OL,19,     Fsoundtrack to your night.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,277,250,301,140,0,100
+PN,27603
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F276A1791695979
+OL,1,Vzssssss{0Ww;js%7+ jkjk"7"7jjkjcjzj{jkk
+OL,2,Vupp=wfff5W-.*,%-. ***. % %****.*******
+OL,3,V}yyy5CSunday
+OL,5,G0100 Weekday overnights with BBC Radio
 OL,6,G     5 Live
 OL,7,     FLocal BBC Radio joins BBC Radio 5
 OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,9,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,277,250,301,140,0,100
