@@ -1,44 +1,26 @@
-PN,20401
-SC,0001
+PN,20400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1791674306
+PS,8008
+OL,0,        ECIMSBWebfax 2   F204A1791677937
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G0015 Bookclub
-OL,6,     FLed by presenter James Naughtie,
-OL,7,     Fthe American writer, Daniel Mason,
-OL,8,     Ftakes questions from a Bookclub
-OL,9,     Faudience about his 2023 novel,
-OL,10,     FNorth Woods.
-OL,11,G0048 Shipping Forecast
-OL,12,G0100 World Service
-OL,13,     FBBC Radio 4 joins the BBC World
-OL,14,     FService.
-OL,15,G0530 News Summary
-OL,16,G0534 Shipping Forecast
-OL,17,G0543 Bells on Sunday
-OL,18,     FBells on Sunday comes from the
-OL,19,     Fparish church of St John the
-OL,20,     FBaptist, Egham in Surrey.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,205,200,300,120,0,100
-PN,20402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1791674306
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0545 In Touch
-OL,6,     FIn Touch hears about a legal case
-OL,7,     Fbeing brought against the British
-OL,8,     FMuseum over an initial lack of
-OL,9,     Fvisual impairment accessibility to
-OL,10,     Fthe Bayeux Tapestry exhibition.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G0100 World Service
+OL,6,     FBBC Radio 4 joins the BBC World
+OL,7,     FService.
+OL,8,G0530 News Summary
+OL,9,G0534 Shipping Forecast
+OL,10,G0543 Bells on Sunday
+OL,11,     FBells on Sunday comes from the
+OL,12,     Fparish church of St John the
+OL,13,     FBaptist, Egham in Surrey.
+OL,14,G0545 In Touch
+OL,15,     FIn Touch hears about a legal case
+OL,16,     Fbeing brought against the British
+OL,17,     FMuseum over an initial lack of
+OL,18,     Fvisual impairment accessibility to
+OL,19,     Fthe Bayeux Tapestry exhibition.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
