@@ -2,27 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791857896
+OL,0,        ECIMSBWebfax 2   F211A1791861499
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0306 Outlook
-OL,6,     FIn 2016 Janay was a journalist in
-OL,7,     FLondon and needed footage of the
-OL,8,     Fconflict in Syria, so contacted
-OL,9,     Fcameraman Habak in Aleppo. What
-OL,10,     Ffollowed was a love story neither
-OL,11,     Fsaw coming.
-OL,12,G0350 Witness History
-OL,13,     FOn 28 May 1959, the USA sent two
-OL,14,     Fmonkeys, Able and Baker, into
-OL,15,     Fspace and brought them back alive.
-OL,16,G0400 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
-OL,19,G0406 The Newsroom
-OL,20,     FThe world's Newsroom brings you
-OL,21,     Fglobal events as they happen.
+OL,5,G0406 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0430 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0432 In the Studio
+OL,12,     FHildur GuDnadottir is the Oscar
+OL,13,     Fand Emmy-winning composer of
+OL,14,     Fscores for Joker and Chernobyl.
+OL,15,     FHer latest project sees her create
+OL,16,     Fthe music for a new play starring
+OL,17,     FCate Blanchett.
+OL,18,G0500 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -30,26 +29,13 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1791857896
+OL,0,        ECIMSBWebfax 2   F211A1791861499
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0430 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0432 In the Studio
-OL,9,     FHildur GuDnadottir is the Oscar
-OL,10,     Fand Emmy-winning composer of
-OL,11,     Fscores for Joker and Chernobyl.
-OL,12,     FHer latest project sees her create
-OL,13,     Fthe music for a new play starring
-OL,14,     FCate Blanchett.
-OL,15,G0500 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
-OL,18,G0506 Newsday
-OL,19,     FLive news, business and sport from
-OL,20,     Faround the world.
+OL,5,G0506 Newsday
+OL,6,     FLive news, business and sport from
+OL,7,     Faround the world.
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
