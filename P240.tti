@@ -2,10 +2,10 @@ PN,24001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1791854310
+OL,0,        ECIMSBWebfax 2   F240A1791868807
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G0025 Mar Radio Alba
 OL,6,     FTha BBC Radio nan Gaidheal mar BBC
 OL,7,     FRadio Alba. BBC Radio nan Gaidheal
@@ -15,149 +15,111 @@ OL,10,     FNaidheachdan ionadail, nC iseanta
 OL,11,     Fis eadar-nC iseanta gach madainn.
 OL,12,     FLocal, national and international
 OL,13,     Fnews each morning.
-OL,14,G0900 Naoi gu Deich
-OL,15,     FTha ceathrar cuide ri Cathy
-OL,16,     FNicDhomhnaill a' beachdachadh air
-OL,17,     Fcluicheadairean ball-coise. Cathy
-OL,18,     FMacDonald presents a discussion on
-OL,19,     Fthe best footballers we've seen on
-OL,20,     Fthe pitch.
-OL,23,VppppppppppppppppppppppppppppppppppG1/6
+OL,14,G0900 Mod 2026 - Ro-fharpais a' Bhuinn
+OL,15,G     Oir
+OL,16,     FTha na guthan aca air ghleus agus
+OL,17,     Fiad ag iarraidh C ite sna
+OL,18,     Fcuairtean deireannach. The singers
+OL,19,     Fare ready, but will they make it
+OL,20,     Fthrough to the finals?
+OL,23,VppppppppppppppppppppppppppppppppppG1/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
 PN,24002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1791854310
+OL,0,        ECIMSBWebfax 2   F240A1791868807
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CTuesday
-OL,5,G1000 A' Mire ri Moir
-OL,6,     FTha Mor a' Mire aig a' Mhod
-OL,7,     FNC iseanta Rioghail sa mhadainn
-OL,8,     Fan-diugh, beo C  Glaschu. Tune
-OL,9,     Finto Morag this morning as she
-OL,10,     Fbroadcasts live from the Royal
-OL,11,     FNational Mod in Glasgow.
-OL,12,G1200 Feasgar an-diugh
-OL,13,     FTha Emma a' bruidhinn ri daoine a
-OL,14,     Ftha a' frithealadh a' Mhoid
-OL,15,     FNC iseanta Rioghail ann an
-OL,16,     FGlaschu. Emma chats to various
-OL,17,     Fpeople who are in Glasgow at this
-OL,18,     Fyear's Royal National Mod.
-OL,23,VppppppppppppppppppppppppppppppppppG2/6
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,241,200,300,120,0,100
-PN,24003
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1791854310
-OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
-OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CTuesday
-OL,5,G1330 Caithream Ciuil
-OL,6,     FCeol Ceilteach agus fiosrachadh
-OL,7,     Fair na tha dol agaibhse. Gaelic
-OL,8,     Fand Celtic music and a round-up of
-OL,9,     Fwhat's on. Post-d -
-OL,10,     Fdethadol@bbc.co.uk.
-OL,11,G1530 Guthan Binn nam Bonn
-OL,12,     FNa guthan seinn a choisinn buinn
-OL,13,     Foir aig Modan ann an Glaschu agus
-OL,14,     Ffaisg air lC imh. Gold medallists
-OL,15,     Freminisce on their success at
-OL,16,     FNational Mods in Glasgow and
-OL,17,     Fnearby towns.
-OL,23,VppppppppppppppppppppppppppppppppppG3/6
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,241,200,300,120,0,100
-PN,24004
-SC,0004
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1791854310
-OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
-OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CTuesday
-OL,5,G1600 Gleus
-OL,6,     FFuinn, coisirean agus orain bho
-OL,7,     Fshaoghal ceol clasaigeach agus
-OL,8,     Feile, le Iain Moireach. Melodies,
-OL,9,     Fchoirs and songs from the world of
-OL,10,     Fclassical music and beyond with
-OL,11,     FJohn Murray.
-OL,12,G1700 Aithris an Fheasgair
-OL,13,     FNaidheachdan nC iseanta is
-OL,14,     Fionadail. Local, national and
-OL,15,     Finternational news.
-OL,16,G1730 Siubhal gu Seachd le Pluto
-OL,17,     FCeol, fealla-dhC  agus suil air
-OL,18,     Fspors ionadail, nC iseanta agus
-OL,19,     Feadar-nC iseanta. Music and
-OL,20,     Fentertainment with Derek Pluto
-OL,21,     FMurray along with his Musical
-OL,22,     FLinks. Tweet @DerekPluto.
-OL,23,VppppppppppppppppppppppppppppppppppG4/6
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,241,200,300,120,0,100
-PN,24005
-SC,0005
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1791854310
-OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
-OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CTuesday
-OL,5,G1900 Ceol Ur Gun Sgur
-OL,6,     FClC r-cluiche de cheol ur
-OL,7,     FAlbannach comhla ri Megan
-OL,8,     FNicGill-Fhaolain. New Scottish
-OL,9,     Fmusic playlist with Megan
-OL,10,     FMacLellan.
-OL,11,G2000 Anna Dholaidh
-OL,12,     FAnna Dholaidh a bhrosnaich
-OL,13,     Fiomadach seinneadair, inbhich is
-OL,14,     Foigridh, chun an C rd-urlar aig
-OL,15,     Fmodan. Annie MacLeod who took
-OL,16,     Fpride in encouraging traditional
-OL,17,     Fsingers at many Mods.
-OL,18,G2030 Mod 2026 - Mod na Cloinne
-OL,19,     FOigridh a shoirbhich aig Mod na
-OL,20,     FCloinne ann an Glaschu. Highlights
-OL,21,     Ffrom the Children's Mod in
-OL,22,     FGlasgow.
-OL,23,VppppppppppppppppppppppppppppppppppG5/6
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,241,200,300,120,0,100
-PN,24006
-SC,0006
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1791854310
-OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
-OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CTuesday
-OL,5,G2200 Feasgar an-diugh
+OL,3,V}yyy5CWednesday
+OL,5,G1300 Feasgar an-diugh
 OL,6,     FTha Emma a' bruidhinn ri daoine a
 OL,7,     Ftha a' frithealadh a' Mhoid
 OL,8,     FNC iseanta Rioghail ann an
 OL,9,     FGlaschu. Emma chats to various
 OL,10,     Fpeople who are in Glasgow at this
 OL,11,     Fyear's Royal National Mod.
-OL,12,G2325 Naoi gu Deich
-OL,13,     FTha ceathrar cuide ri Cathy
-OL,14,     FNicDhomhnaill a' beachdachadh air
-OL,15,     Fcluicheadairean ball-coise. Cathy
-OL,16,     FMacDonald presents a discussion on
-OL,17,     Fthe best footballers we've seen on
-OL,18,     Fthe pitch.
-OL,19,G0025 Mar Radio Alba
-OL,20,     FTha BBC Radio nan Gaidheal mar BBC
-OL,21,     FRadio Alba. BBC Radio nan Gaidheal
-OL,22,     Fjoins BBC Radio Scotland.
-OL,23,VppppppppppppppppppppppppppppppppppG6/6
+OL,12,G1430 Caithream Ciuil
+OL,13,     FCeol Ceilteach agus fiosrachadh
+OL,14,     Fair na tha dol agaibhse. Gaelic
+OL,15,     Fand Celtic music and a round-up of
+OL,16,     Fwhat's on. Post-d -
+OL,17,     Fdethadol@bbc.co.uk.
+OL,18,G1530 Crunluath
+OL,19,     FMicheal Steele le taghadh de cheol
+OL,20,     Fna pioba. Micheal Steele presents
+OL,21,     Fa selection of pipe music.
+OL,23,VppppppppppppppppppppppppppppppppppG2/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,241,200,300,120,0,100
+PN,24003
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F240A1791868807
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CWednesday
+OL,5,G1700 Aithris an Fheasgair
+OL,6,     FNaidheachdan nC iseanta is
+OL,7,     Fionadail. Local, national and
+OL,8,     Finternational news.
+OL,9,G1730 Siubhal gu Seachd le Pluto
+OL,10,     FCeol, fealla-dhC  agus suil air
+OL,11,     Fspors ionadail, nC iseanta agus
+OL,12,     Feadar-nC iseanta. Music and
+OL,13,     Fentertainment with Derek Pluto
+OL,14,     FMurray along with his Musical
+OL,15,     FLinks. Tweet @DerekPluto.
+OL,16,G1900 Guthan Binn nam Bonn
+OL,17,     FNa guthan seinn a choisinn buinn
+OL,18,     Foir aig Modan ann an Glaschu agus
+OL,19,     Fan sgire timcheall. Gold
+OL,20,     Fmedallists reminisce on their
+OL,21,     Fsuccess at National Mods in
+OL,22,     FGlasgow and nearby towns.
+OL,23,VppppppppppppppppppppppppppppppppppG3/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,241,200,300,120,0,100
+PN,24004
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F240A1791868807
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CWednesday
+OL,5,G1930 Mod 2026 - Cuairt Dheireannach a'
+OL,6,G     Bhuinn Oir
+OL,7,     FCathy NicDhomhnaill le Farpais
+OL,8,     FCriochnachaidh Bhuinn Oir a'
+OL,9,     FChomuinn GhC idhealaich. Cathy
+OL,10,     FMacDonald presents live coverage
+OL,11,     Fof the An Comunn GC idhealach Gold
+OL,12,     FMedal final.
+OL,13,G2200 Feasgar an-diugh
+OL,14,     FTha Emma a' bruidhinn ri daoine a
+OL,15,     Ftha a' frithealadh a' Mhoid
+OL,16,     FNC iseanta Rioghail ann an
+OL,17,     FGlaschu. Emma chats to various
+OL,18,     Fpeople who are in Glasgow at this
+OL,19,     Fyear's Royal National Mod.
+OL,23,VppppppppppppppppppppppppppppppppppG4/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,241,200,300,120,0,100
+PN,24005
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F240A1791868807
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CWednesday
+OL,5,G2325 Mar Radio Alba
+OL,6,     FTha BBC Radio nan Gaidheal mar BBC
+OL,7,     FRadio Alba. BBC Radio nan Gaidheal
+OL,8,     Fjoins BBC Radio Scotland.
+OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
