@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1791929900
+OL,0,        ECIMSBWebfax 2   F1fcA1791931693
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1791929900;
-OL,10,GService: Webfax 2 - 21678 5806c12fec
-OL,11,FLast Update: 13/10/2026 23:18:20  G1/3
+OL,25,1791931692;
+OL,10,GService: Webfax 2 - 21679 96f982b28b
+OL,11,FLast Update: 13/10/2026 23:48:12  G1/2
 OL,13,AbbcNewsLive                G13/10-20:10
-OL,14,Abbc_news_papers            G13/10-23:05
-OL,15,AceefaxBusiness             G13/10-23:05
-OL,16,Acharts/singles             G13/10-23:07
-OL,17,Cgeneric/championship       G11/10-15:04
-OL,18,Ageneric/f1                 G13/10-23:08
-OL,19,Ageneric/horse_racing       G13/10-23:00
-OL,20,Cgeneric/league-one         G12/10-11:14
-OL,21,Cgeneric/league-two         G10/10-19:19
-OL,22,Ageneric/lottery            G13/10-23:08
-OL,23,Ageneric/pollen_forecast    G13/10-23:07
+OL,14,Cgeneric/league-one         G12/10-11:14
+OL,15,Cgeneric/league-two         G10/10-19:19
+OL,16,Ageneric/pollen_forecast    G13/10-23:20
+OL,17,Ageneric/weather_warnings   G24/09-16:00
+OL,18,CitvSport/border            G28/09-18:19
+OL,19,CitvSport/calendar          G24/09-15:59
+OL,20,CitvSport/central           G24/09-15:59
+OL,21,CitvSport/channel           G03/10-19:18
+OL,22,CitvSport/london            G24/09-15:59
+OL,23,CitvSport/meridian          G12/10-12:18
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1791929900
+OL,0,        ECIMSBWebfax 2   F1fcA1791931693
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,38 +42,10 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1791929900;
-OL,10,GService: Webfax 2 - 21678 5806c12fec
-OL,11,FLast Update: 13/10/2026 23:18:20  G2/3
-OL,13,Ageneric/tube_status        G13/10-23:07
-OL,14,Ageneric/weather_warnings   G24/09-16:00
-OL,15,CitvSport/border            G28/09-18:19
-OL,16,CitvSport/calendar          G24/09-15:59
-OL,17,CitvSport/central           G24/09-15:59
-OL,18,CitvSport/channel           G03/10-19:18
-OL,19,CitvSport/london            G24/09-15:59
-OL,20,CitvSport/meridian          G12/10-12:18
-OL,21,CitvSport/tyne-tees         G24/09-15:59
-OL,22,CitvSport/utv               G24/09-16:00
-OL,23,CitvSport/wales             G24/09-16:00
-PN,1fc03
-SC,0003
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1791929900
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1791929900;
-OL,10,GService: Webfax 2 - 21678 5806c12fec
-OL,11,FLast Update: 13/10/2026 23:18:20  G3/3
-OL,13,AitvSport/westcountry       G24/09-15:59
-OL,14,AiNMS/comments.json         G13/10-23:02
-OL,15,AiNMS/onthisday/            G13/10-23:05
+OL,25,1791931692;
+OL,10,GService: Webfax 2 - 21679 96f982b28b
+OL,11,FLast Update: 13/10/2026 23:48:12  G2/2
+OL,13,CitvSport/tyne-tees         G24/09-15:59
+OL,14,CitvSport/utv               G24/09-16:00
+OL,15,CitvSport/wales             G24/09-16:00
+OL,16,AitvSport/westcountry       G24/09-15:59

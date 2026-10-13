@@ -1,44 +1,29 @@
-PN,20401
-SC,0001
+PN,20400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1791929900
+PS,8008
+OL,0,        ECIMSBWebfax 2   F204A1791931693
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CTuesday
-OL,5,G2300 Half-Life
-OL,6,     FJoe follows the opening of a
-OL,7,     Fpublic memorial and engages with a
-OL,8,     Fprivate reckoning.
-OL,9,G2330 Today in Parliament
-OL,10,G0000 Midnight News
-OL,11,G0030 Appetite for Distraction
-OL,12,     FMatthew Syed asks what it means to
-OL,13,     Fbe distracted in a media world
-OL,14,     Fvying for our attention. In this
-OL,15,     Fepisode, he looks into history to
-OL,16,     Funcover different approaches to
-OL,17,     Ffocus.
-OL,18,G0048 Shipping Forecast
-OL,19,G0100 World Service
-OL,20,     FBBC Radio 4 joins the BBC World
-OL,21,     FService.
-OL,22,G0500 News Summary
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,205,200,300,120,0,100
-PN,20402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1791929900
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CTuesday
-OL,5,G0504 Yesterday in Parliament
-OL,6,G0534 Shipping Forecast
-OL,7,G0543 Prayer for the Day
-OL,8,G0545 Farming Today
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G2330 Today in Parliament
+OL,6,G0000 Midnight News
+OL,7,G0030 Appetite for Distraction
+OL,8,     FMatthew Syed asks what it means to
+OL,9,     Fbe distracted in a media world
+OL,10,     Fvying for our attention. In this
+OL,11,     Fepisode, he looks into history to
+OL,12,     Funcover different approaches to
+OL,13,     Ffocus.
+OL,14,G0048 Shipping Forecast
+OL,15,G0100 World Service
+OL,16,     FBBC Radio 4 joins the BBC World
+OL,17,     FService.
+OL,18,G0500 News Summary
+OL,19,G0504 Yesterday in Parliament
+OL,20,G0534 Shipping Forecast
+OL,21,G0543 Prayer for the Day
+OL,22,G0545 Farming Today
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
