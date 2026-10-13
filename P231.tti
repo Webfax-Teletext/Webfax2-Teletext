@@ -2,7 +2,7 @@ PN,23101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1791782380
+OL,0,        ECIMSBWebfax 2   F231A1791854310
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CTuesday
@@ -28,7 +28,7 @@ PN,23102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1791782380
+OL,0,        ECIMSBWebfax 2   F231A1791854310
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CTuesday
@@ -52,7 +52,7 @@ PN,23103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1791782380
+OL,0,        ECIMSBWebfax 2   F231A1791854310
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CTuesday
@@ -81,7 +81,7 @@ PN,23104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1791782380
+OL,0,        ECIMSBWebfax 2   F231A1791854310
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CTuesday
@@ -99,10 +99,6 @@ OL,15,     Fincluding artists such as Fats
 OL,16,     FDomino, Jewel King, Professor
 OL,17,     FLonghair, Huey 'Piano' Smith and
 OL,18,     Fthe Meters.
-OL,19,G0300 This is BBC Radio 6 Music
-OL,20,     FThis is BBC Radio 6 Music
-OL,21,G0330 This is BBC Radio 6 Music
-OL,22,     FThis is BBC Radio 6 Music
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,232,200,300,120,0,100
@@ -110,17 +106,24 @@ PN,23105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F231A1791782380
+OL,0,        ECIMSBWebfax 2   F231A1791854310
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CTuesday
-OL,5,G0400 6 Music Jukebox
-OL,6,     FSoundtrack the early hours with
-OL,7,     Fback-to-back music, plus exclusive
-OL,8,     FBBC sessions.
-OL,9,G0500 Emily Pilbeam
-OL,10,     FEmily Pilbeam sits in with the
-OL,11,     Fearly morning breakfast show.
+OL,5,G0300 6 Music Live hour
+OL,6,     FThe Hank Wangford Band in concert
+OL,7,     Fat the BBC's Paris Theatre in
+OL,8,     FLondon in 1982, a session by
+OL,9,     FMogwai recorded on 31 January in
+OL,10,     F2018, and Stroppies live for Marc
+OL,11,     FRiley.
+OL,12,G0400 6 Music Jukebox
+OL,13,     FSoundtrack the early hours with
+OL,14,     Fback-to-back music, plus exclusive
+OL,15,     FBBC sessions.
+OL,16,G0500 Emily Pilbeam
+OL,17,     FEmily Pilbeam sits in with the
+OL,18,     Fearly morning breakfast show.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,232,200,300,120,0,100
