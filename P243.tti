@@ -2,7 +2,7 @@ PN,24301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F243A1791868807
+OL,0,        ECIMSBWebfax 2   F243A1791897556
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
 OL,3,V}yyy5CWednesday
@@ -31,7 +31,7 @@ PN,24302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F243A1791868807
+OL,0,        ECIMSBWebfax 2   F243A1791897556
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
 OL,3,V}yyy5CWednesday
@@ -47,10 +47,10 @@ OL,13,     FCymru 2.
 OL,14,G1900 Mirain Iwerydd
 OL,15,     FCerddoriaeth newydd Cymru. New
 OL,16,     FWelsh music.
-OL,17,G2100 Caryl
-OL,18,     FCerddoriaeth a hwyl gyda'r hwyr
-OL,19,     Fgyda Caryl Parry Jones. Music and
-OL,20,     Ffun with Caryl Parry Jones.
+OL,17,G2030 Rhestr Chwarae Mirain
+OL,18,     FRhestr chwarae wedi'i churadu gan
+OL,19,     FMirain Iwerydd. A playlist curated
+OL,20,     Fby Mirain Iwerydd.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,250,200,300,120,0,100
@@ -58,19 +58,23 @@ PN,24303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F243A1791868807
+OL,0,        ECIMSBWebfax 2   F243A1791897556
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j bs5
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-. *,$V,,
 OL,3,V}yyy5CWednesday
-OL,5,G2300 Y Clwb PJs
-OL,6,     FYmunwch a Caryl i ymlacio wrth
-OL,7,     Fwrando ar gerddoriaeth hudolus cyn
-OL,8,     Fcysgu. Unwind with Caryl while
-OL,9,     Flistening to soothing music before
-OL,10,     Fsleeping.
-OL,11,G0000 Gweler BBC Radio 2
-OL,12,     FMae Radio Cymru 2 yn ymuno a BBC
-OL,13,     FRadio 2 dros nos.
+OL,5,G2100 Caryl
+OL,6,     FCerddoriaeth a hwyl gyda'r hwyr
+OL,7,     Fgyda Caryl Parry Jones. Music and
+OL,8,     Ffun with Caryl Parry Jones.
+OL,9,G2300 Y Clwb PJs
+OL,10,     FYmunwch a Caryl i ymlacio wrth
+OL,11,     Fwrando ar gerddoriaeth hudolus cyn
+OL,12,     Fcysgu. Unwind with Caryl while
+OL,13,     Flistening to soothing music before
+OL,14,     Fsleeping.
+OL,15,G0000 Gweler BBC Radio 2
+OL,16,     FMae Radio Cymru 2 yn ymuno a BBC
+OL,17,     FRadio 2 dros nos.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,250,200,300,120,0,100
