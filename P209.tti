@@ -1,17 +1,55 @@
-PN,20900
-SC,0000
+PN,20901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1792019909
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1792041589
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CWednesday
-OL,5,G0000 This Is Sports Extra
+OL,3,V}yyy5CThursday
+OL,5,G0600 This Is Sports Extra
 OL,6,     FThis is BBC Radio 5 Sports Extra -
 OL,7,     Fbringing you even more live
 OL,8,     Fcommentaries from the world's
 OL,9,     Fgreatest sporting events. Listen
 OL,10,     Fon BBC Sounds.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,11,G0950 Rugby League World Cup
+OL,12,     FLive commentary of Australia v New
+OL,13,     FZealand in Pool A of the Men's
+OL,14,     FRugby League World Cup at the
+OL,15,     FAllianz Stadium in Sydney.
+OL,16,G1200 This Is Sports Extra
+OL,17,     FThis is BBC Radio 5 Sports Extra -
+OL,18,     Fbringing you even more live
+OL,19,     Fcommentaries from the world's
+OL,20,     Fgreatest sporting events. Listen
+OL,21,     Fon BBC Sounds.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,210,200,300,120,0,100
+PN,20902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1792041589
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
+OL,3,V}yyy5CThursday
+OL,5,G1900 Sportsound
+OL,6,     FLive football commentary live from
+OL,7,     FPortugal as Benfica take on Celtic
+OL,8,     Fin the Europa League.
+OL,9,G2200 This Is Sports Extra
+OL,10,     FThis is BBC Radio 5 Sports Extra -
+OL,11,     Fbringing you even more live
+OL,12,     Fcommentaries from the world's
+OL,13,     Fgreatest sporting events. Listen
+OL,14,     Fon BBC Sounds.
+OL,15,G0000 This Is Sports Extra
+OL,16,     FThis is BBC Radio 5 Sports Extra -
+OL,17,     Fbringing you even more live
+OL,18,     Fcommentaries from the world's
+OL,19,     Fgreatest sporting events. Listen
+OL,20,     Fon BBC Sounds.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,210,200,300,120,0,100
