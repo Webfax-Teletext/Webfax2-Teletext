@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1792279103
+OL,0,        ECIMSBWebfax 2   F1fcA1792280893
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1792279102;
-OL,10,GService: Webfax 2 - 21934 1559d6c38f
-OL,11,FLast Update: 18/10/2026 00:18:22  G1/2
+OL,25,1792280892;
+OL,10,GService: Webfax 2 - 21935 692dad6068
+OL,11,FLast Update: 18/10/2026 00:48:12  G1/3
 OL,13,CbbcNews/Politics           G16/10-20:37
 OL,14,AbbcNewsLive                G17/10-23:03
 OL,15,CbbcSport/Formula 1         G16/10-13:41
-OL,16,Ccharts/singles             G13/10-23:21
-OL,17,Cgeneric/f1                 G13/10-23:21
-OL,18,Cgeneric/league-two         G10/10-19:19
-OL,19,Cgeneric/lottery            G15/10-06:53
-OL,20,Ageneric/pollen_forecast    G13/10-23:20
-OL,21,Cgeneric/prem_league        G12/10-23:46
-OL,22,Ageneric/weather_warnings   G24/09-16:00
-OL,23,CitvSport/border            G28/09-18:19
+OL,16,Cbbc_news_papers            G17/10-00:29
+OL,17,Ccharts/singles             G13/10-23:21
+OL,18,Cgeneric/f1                 G13/10-23:21
+OL,19,Cgeneric/league-two         G10/10-19:19
+OL,20,Cgeneric/lottery            G15/10-06:53
+OL,21,Ageneric/pollen_forecast    G13/10-23:20
+OL,22,Cgeneric/prem_league        G12/10-23:46
+OL,23,Ageneric/weather_warnings   G24/09-16:00
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1792279103
+OL,0,        ECIMSBWebfax 2   F1fcA1792280893
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,16 +42,35 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1792279102;
-OL,10,GService: Webfax 2 - 21934 1559d6c38f
-OL,11,FLast Update: 18/10/2026 00:18:22  G2/2
-OL,13,CitvSport/calendar          G24/09-15:59
-OL,14,CitvSport/central           G24/09-15:59
-OL,15,CitvSport/channel           G03/10-19:18
-OL,16,CitvSport/granada           G14/10-15:18
-OL,17,CitvSport/london            G24/09-15:59
-OL,18,CitvSport/meridian          G12/10-12:18
-OL,19,CitvSport/tyne-tees         G24/09-15:59
-OL,20,CitvSport/utv               G24/09-16:00
-OL,21,CitvSport/wales             G24/09-16:00
-OL,22,AitvSport/westcountry       G24/09-15:59
+OL,25,1792280892;
+OL,10,GService: Webfax 2 - 21935 692dad6068
+OL,11,FLast Update: 18/10/2026 00:48:12  G2/3
+OL,13,CitvSport/border            G28/09-18:19
+OL,14,CitvSport/calendar          G24/09-15:59
+OL,15,CitvSport/central           G24/09-15:59
+OL,16,CitvSport/channel           G03/10-19:18
+OL,17,CitvSport/granada           G14/10-15:18
+OL,18,CitvSport/london            G24/09-15:59
+OL,19,CitvSport/meridian          G12/10-12:18
+OL,20,CitvSport/tyne-tees         G24/09-15:59
+OL,21,CitvSport/utv               G24/09-16:00
+OL,22,CitvSport/wales             G24/09-16:00
+OL,23,AitvSport/westcountry       G24/09-15:59
+PN,1fc03
+SC,0003
+PS,c018
+OL,0,        ECIMSBWebfax 2   F1fcA1792280893
+OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
+OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
+OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
+OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
+OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
+OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
+OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
+OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
+OL,9,T##############
+OL,12,D```````````````````````````````````````
+OL,13,D                                       
+OL,25,1792280892;
+OL,10,GService: Webfax 2 - 21935 692dad6068
+OL,11,FLast Update: 18/10/2026 00:48:12  G3/3
