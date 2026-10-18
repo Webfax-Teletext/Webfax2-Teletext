@@ -1,15 +1,180 @@
-PN,21500
-SC,0000
+PN,21501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F215A1792239507
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792300782
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G1300 Mar Radio Alba
 OL,6,     FTha BBC Radio nan Gaidheal mar BBC
 OL,7,     FRadio Alba. BBC Radio nan Gaidheal
 OL,8,     Fjoins BBC Radio Scotland.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,9,G0900 Deanamaid Adhradh
+OL,10,     FSeirbheis comhla ris an Urr Iain
+OL,11,     FMurchadh Domhnallach, Eaglais na
+OL,12,     Fh-Alba air an Tairbeart. Gaelic
+OL,13,     Fservice conducted by Rev Iain
+OL,14,     FMurdo MacDonald, Tarbert Church of
+OL,15,     FScotland, Harris.
+OL,16,G0930 Seinneamaid a Chliu
+OL,17,     FTaghadh de laoidhean is sailm a
+OL,18,     Fchaidh a chruinneachadh airson
+OL,19,     FBliadhna nan Oran. A selection of
+OL,20,     Fhymns and psalms selected from the
+OL,21,     FBliadhna nan Oran/Year of Gaelic
+OL,22,     FSong project.
+OL,23,VppppppppppppppppppppppppppppppppppG1/7
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792300782
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CSunday
+OL,5,G1000 Anna Dholaidh
+OL,6,     FAnna Dholaidh a bhrosnaich
+OL,7,     Fiomadach seinneadair, inbhich is
+OL,8,     Foigridh, chun an C rd-urlar aig
+OL,9,     Fmodan. Annie MacLeod who took
+OL,10,     Fpride in encouraging traditional
+OL,11,     Fsingers at many Mods.
+OL,12,G1030 Crunluath
+OL,13,     FMicheal Steele le taghadh de cheol
+OL,14,     Fna pioba. Micheal Steele presents
+OL,15,     Fa selection of pipe music.
+OL,16,G1200 Gleus
+OL,17,     FFuinn, coisirean agus orain bho
+OL,18,     Fshaoghal ceol clasaigeach agus
+OL,19,     Feile, le Iain Moireach. Melodies,
+OL,20,     Fchoirs and songs from the world of
+OL,21,     Fclassical music and beyond with
+OL,22,     FJohn Murray.
+OL,23,VppppppppppppppppppppppppppppppppppG2/7
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21503
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792300782
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CSunday
+OL,5,G1300 SpeakGaelic
+OL,6,     FPodcast do luchd-ionnsachaidh na
+OL,7,     FGC idhlig ceangailte ris an
+OL,8,     Ft-sreath SpeakGaelic air BBC ALBA.
+OL,9,     FWeekly podcast for Gaelic
+OL,10,     Flearners, accompanying the BBC
+OL,11,     FALBA series, SpeakGaelic.
+OL,12,G1330 An Litir Bheag
+OL,13,     FLitir Bheag na seachdain sa le
+OL,14,     FRuairidh MacIlleathain. Litir
+OL,15,     FC ireamh 1118. This week's short
+OL,16,     Fletter for GC idhlig learners.
+OL,23,VppppppppppppppppppppppppppppppppppG3/7
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21504
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792300782
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CSunday
+OL,5,G1335 SpeakGaelic Extra
+OL,6,     FPodcast do luchd-ionnsachaidh na
+OL,7,     FGC idhlig ceangailte ris an
+OL,8,     Ft-sreath SpeakGaelic air BBC ALBA.
+OL,9,     FWeekly podcast for Gaelic
+OL,10,     Flearners, accompanying the BBC
+OL,11,     FALBA series SpeakGaelic.
+OL,12,G1355 Litir do Luchd-ionnsachaidh
+OL,13,     FLitir do Luchd-ionnsachaidh le
+OL,14,     FRuairidh MacIlleathain. Litir
+OL,15,     FC ireamh 1422. Roddy Maclean reads
+OL,16,     Fthis week's letter for GC idhlig
+OL,17,     Flearners.
+OL,23,VppppppppppppppppppppppppppppppppppG4/7
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21505
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792300782
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CSunday
+OL,5,G1400 Beartas Ghuthan
+OL,6,     FMC iri Anna NicUalraig a' cur na
+OL,7,     Fprosbaig air sC r-ghuthan de gach
+OL,8,     Fseorsa agus bho gach cultar. Mary
+OL,9,     FAnn Kennedy celebrates the most
+OL,10,     Funiversal musical instrument: the
+OL,11,     Fhuman voice.
+OL,12,G1500 Deanamaid Adhradh
+OL,13,     FSeirbheis comhla ris an Urr Iain
+OL,14,     FMurchadh Domhnallach, Eaglais na
+OL,15,     Fh-Alba air an Tairbeart. Gaelic
+OL,16,     Fservice conducted by Rev Iain
+OL,17,     FMurdo MacDonald, Tarbert Church of
+OL,18,     FScotland, Harris.
+OL,23,VppppppppppppppppppppppppppppppppppG5/7
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21506
+SC,0006
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792300782
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CSunday
+OL,5,G1530 Mod 2026 - Guthan Binn nam Bonn
+OL,6,     FNa guthan seinn a choisinn buinn
+OL,7,     Foir aig Mod Rioghail Ghlaschu ann
+OL,8,     Fan 2019. Gold medallists reminisce
+OL,9,     Fon their success at the Royal
+OL,10,     FNational Mod in Glasgow in 2019.
+OL,11,G1600 Mar Radio Alba
+OL,12,     FTha BBC Radio nan Gaidheal mar BBC
+OL,13,     FRadio Alba. BBC Radio nan Gaidheal
+OL,14,     Fjoins BBC Radio Scotland.
+OL,15,G2100 Deanamaid Adhradh - Tasglann
+OL,16,     FComhla ris an Urr Alasdair
+OL,17,     FDomhnallach (Alasdair Mhurdaig),
+OL,18,     FEaglais na h-Alba Nis. Gaelic
+OL,19,     Fservice conducted by the late Rev
+OL,20,     FAlexander MacDonald, Cross Church
+OL,21,     Fof Scotland.
+OL,23,VppppppppppppppppppppppppppppppppppG6/7
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21507
+SC,0007
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792300782
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CSunday
+OL,5,G2130 Bu Dual a Bhith Seinn
+OL,6,     FMorag Dhomhnallach a' toirt suil
+OL,7,     Fair beatha agus orain Dhomhnaill
+OL,8,     FMhicRath bho 2009. A look at the
+OL,9,     Flife and songs of singer Donald
+OL,10,     FMacRae, presented by Morag
+OL,11,     FMacDonald. From 2009.
+OL,12,G2230 Mar Radio Alba
+OL,13,     Fha BBC Radio nan Gaidheal mar BBC
+OL,14,     FRadio Alba. BBC Radio nan Gaidheal
+OL,15,     Fjoins BBC Radio Scotland.
+OL,23,VppppppppppppppppppppppppppppppppppG7/7
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,216,200,300,120,0,100

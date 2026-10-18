@@ -1,11 +1,11 @@
-PN,20900
-SC,0000
+PN,20901
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F209A1792298886
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1792300782
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G0530 Rugby League World Cup
 OL,6,     FLive commentary from ABC Sport in
 OL,7,     FAustralia of Fiji v Cook Islands
@@ -13,6 +13,66 @@ OL,8,     Fin Pool A of the Men's Rugby
 OL,9,     FLeague World Cup at the McDonald
 OL,10,     FJones Stadium in Newcastle,
 OL,11,     FAustralia.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,12,G0830 This Is Sports Extra
+OL,13,     FThis is BBC Radio 5 Sports Extra -
+OL,14,     Fbringing you even more live
+OL,15,     Fcommentaries from the world's
+OL,16,     Fgreatest sporting events. Listen
+OL,17,     Fon BBC Sounds.
+OL,18,G0845 Test Match Special
+OL,19,     FLive ball-by-ball cricket
+OL,20,     Fcommentary of Pakistan v Sri Lanka
+OL,21,     Fin the Pakistan ODI Tri-Series at
+OL,22,     Fthe Rawalpindi Cricket Stadium.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,210,200,300,120,0,100
+PN,20902
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1792300782
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
+OL,3,V}yyy5CSunday
+OL,5,G1355 Premier League Football
+OL,6,     FLive football commentary of
+OL,7,     FBrighton & Hove Albion Brighton v
+OL,8,     FCrystal Palace in the Premier
+OL,9,     FLeague.
+OL,10,G1600 Test Match Special
+OL,11,     FLive ball-by-ball cricket
+OL,12,     Fcommentary of Pakistan v Sri Lanka
+OL,13,     Fin the Pakistan ODI Tri-Series at
+OL,14,     Fthe Rawalpindi Cricket Stadium.
+OL,15,G1700 Rugby Union
+OL,16,     FLive rugby union commentary from
+OL,17,     FBBC Radio Northampton of
+OL,18,     FNorthampton Saints v Cardiff in
+OL,19,     Fthe European Champions Cup.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,210,200,300,120,0,100
+PN,20903
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F209A1792300782
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! ws*p%
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! ,.* %
+OL,3,V}yyy5CSunday
+OL,5,G2000 This Is Sports Extra
+OL,6,     FThis is BBC Radio 5 Sports Extra -
+OL,7,     Fbringing you even more live
+OL,8,     Fcommentaries from the world's
+OL,9,     Fgreatest sporting events. Listen
+OL,10,     Fon BBC Sounds.
+OL,11,G0000 This Is Sports Extra
+OL,12,     FThis is BBC Radio 5 Sports Extra -
+OL,13,     Fbringing you even more live
+OL,14,     Fcommentaries from the world's
+OL,15,     Fgreatest sporting events. Listen
+OL,16,     Fon BBC Sounds.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,210,200,300,120,0,100
