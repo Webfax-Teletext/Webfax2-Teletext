@@ -2,28 +2,25 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0606 Newsday
+OL,5,G0706 Newsday
 OL,6,     FLive news, business and sport from
 OL,7,     Faround the world.
-OL,8,G0700 BBC News
+OL,8,G0800 BBC News
 OL,9,     FThe latest five minute news
 OL,10,     Fbulletin from BBC World Service.
-OL,11,G0706 Newsday
-OL,12,     FLive news, business and sport from
-OL,13,     Faround the world.
-OL,14,G0800 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0806 People Fixing The World
-OL,18,     FWe travel to the Italian island of
-OL,19,     FSicily to see how Palermo
-OL,20,     Fresidents are fighting back
-OL,21,     Fagainst the influence of the
-OL,22,     FMafia.
+OL,11,G0806 People Fixing The World
+OL,12,     FWe travel to the Italian island of
+OL,13,     FSicily to see how Palermo
+OL,14,     Fresidents are fighting back
+OL,15,     Fagainst the influence of the
+OL,16,     FMafia.
+OL,17,G0830 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG1/18
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -31,26 +28,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0830 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0832 Business Daily
-OL,9,     FSome economies are increasingly
-OL,10,     Fdependent on migrants sending
-OL,11,     Fmoney home. We follow a transfer
-OL,12,     Ffrom London to Manila to find out
-OL,13,     Fwhat it really costs and who gets
-OL,14,     Fpaid.
-OL,15,G0850 Witness History
-OL,16,     FIn 2006, the first feature film
-OL,17,     Fspoken entirely in Aboriginal
-OL,18,     Flanguages was created. Ten Canoes
-OL,19,     Fwas also the first traditional
-OL,20,     FYolngu story on screen.
+OL,5,G0832 Business Daily
+OL,6,     FSome economies are increasingly
+OL,7,     Fdependent on migrants sending
+OL,8,     Fmoney home. We follow a transfer
+OL,9,     Ffrom London to Manila to find out
+OL,10,     Fwhat it really costs and who gets
+OL,11,     Fpaid.
+OL,12,G0850 Witness History
+OL,13,     FIn 2006, the first feature film
+OL,14,     Fspoken entirely in Aboriginal
+OL,15,     Flanguages was created. Ten Canoes
+OL,16,     Fwas also the first traditional
+OL,17,     FYolngu story on screen.
+OL,18,G0900 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/18
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -58,27 +55,24 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0900 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0906 The Newsroom
-OL,9,     FThe world's Newsroom brings you
-OL,10,     Fglobal events as they happen.
-OL,11,G0930 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G0932 Assignment
-OL,15,     FIn the UK, the security services
-OL,16,     Fare warning of a spying threat
-OL,17,     Ffrom China. Paul Kenyon finds out
-OL,18,     Fwhy.
-OL,19,G1000 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,5,G0906 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0930 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0932 Assignment
+OL,12,     FIn the UK, the security services
+OL,13,     Fare warning of a spying threat
+OL,14,     Ffrom China. Paul Kenyon finds out
+OL,15,     Fwhy.
+OL,16,G1000 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG3/18
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -86,7 +80,7 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -114,7 +108,7 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -143,7 +137,7 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -172,7 +166,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -195,7 +189,7 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -224,7 +218,7 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -251,7 +245,7 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -277,7 +271,7 @@ PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -304,7 +298,7 @@ PN,21112
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -333,7 +327,7 @@ PN,21113
 SC,0013
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -362,7 +356,7 @@ PN,21114
 SC,0014
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -389,7 +383,7 @@ PN,21115
 SC,0015
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -417,7 +411,7 @@ PN,21116
 SC,0016
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -442,7 +436,7 @@ PN,21117
 SC,0017
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -468,7 +462,7 @@ PN,21118
 SC,0018
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1792473640
+OL,0,        ECIMSBWebfax 2   F211A1792477104
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
