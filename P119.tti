@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FGoogle says services recovering
-OL,6,Fafter cloud outage hits UK banks and
-OL,7,FwebsitesA20-Oct
-OL,8,G
-OL,9,G107FUK asks Apple to widen access to
-OL,10,Fits payment techA20-Oct
-OL,11,G
-OL,12,G108FEx-OpenAI worker accused of
-OL,13,Fplanting bug had Saudi support, claims
-OL,14,FprosecutorsA19-Oct
-OL,15,G
-OL,16,G109FUS bans China's DeepSeek from
-OL,17,Fgovernment in race for AI dominance
-OL,18,A19-Oct
-OL,19,G
-OL,20,G110FUber wins bid to throw out #200m
-OL,21,Fblack cab claimsA19-Oct
-OL,22,G
+OL,5,G106FGoogle resolves cloud outage
+OL,6,Faffecting UK banks and websitesA20-Oct
+OL,7,G
+OL,8,G107FUK asks Apple to widen access to
+OL,9,Fits payment techA20-Oct
+OL,10,G
+OL,11,G108FEx-OpenAI worker accused of
+OL,12,Fplanting bug had Saudi support, claims
+OL,13,FprosecutorsA19-Oct
+OL,14,G
+OL,15,G109FUS bans China's DeepSeek from
+OL,16,Fgovernment in race for AI dominance
+OL,17,A19-Oct
+OL,18,G
+OL,19,G110FUber wins bid to throw out #200m
+OL,20,Fblack cab claimsA19-Oct
+OL,21,G
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
@@ -53,27 +53,23 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AGoogle says services recovering after
-OL,4,Acloud outage hits UK banks and websites
+OL,3,AGoogle resolves cloud outage affecting
+OL,4,AUK banks and websites
 OL,5,
-OL,6,FGoogle Cloud says services are
-OL,7,Frecovering after a "power event" at its
-OL,8,FUK cloud site caused an outage
-OL,9,Faffecting UK banks, businesses and the
-OL,10,Fcourts.
-OL,12,FThe company, one of a few large cloud
-OL,13,Fcomputing firms whose infrastructure
-OL,14,Fand services underpin many online
-OL,15,Fplatforms, reported an "issue with
-OL,16,Fmultiple services" at its London data
-OL,17,Fcentre complex "europe-west2."
-OL,19,FRevolut, Lloyds Bank and HSBC confirmed
-OL,20,Fdisruption to some services on Tuesday
-OL,21,Fmorning, after thousands of reports of
-OL,22,Fproblems were raised by users online.
+OL,6,FGoogle Cloud says it has resolved
+OL,7,Fdisruption at its UK cloud site which
+OL,8,Fcaused an outage affecting UK banks,
+OL,9,Fbusinesses and the courts.
+OL,11,FThe company, one of a few large cloud
+OL,12,Fcomputing firms whose infrastructure
+OL,13,Fand services underpin many online
+OL,14,Fplatforms, reported an "issue with
+OL,15,Fmultiple services" at its London data
+OL,16,Fcentre complex "europe-west2" early on
+OL,17,FTuesday.
 OL,23,APub: 20-OctQppppppppppppppppppppppG3/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,107,105,200,160,0,100
@@ -81,16 +77,20 @@ PN,11904
 SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AGoogle says services recovering after
-OL,4,Acloud outage hits UK banks and websites
+OL,3,AGoogle resolves cloud outage affecting
+OL,4,AUK banks and websites
 OL,5,
-OL,6,FWhile the banks did not directly link
-OL,7,Fthe issues to the Google Cloud outage,
-OL,8,Fthe company has apologised "to all who
-OL,9,Fare affected by the disruption".
+OL,6,FRevolut, Lloyds Bank and HSBC were
+OL,7,Famong popular UK services that
+OL,8,Fconfirmed disruption on Tuesday
+OL,9,Fmorning, after thousands of reports of
+OL,10,Fproblems were raised by users online.
+OL,12,FThe tech giant apologised to those
+OL,13,Faffected and thanked customers for
+OL,14,Ftheir patience.
 OL,23,APub: 20-OctQppppppppppppppppppppppG4/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,107,105,200,160,0,100
@@ -98,7 +98,7 @@ PN,11905
 SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK asks Apple to widen access to its
@@ -126,7 +126,7 @@ PN,11906
 SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK asks Apple to widen access to its
@@ -143,7 +143,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AEx-OpenAI worker accused of planting
@@ -171,7 +171,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AEx-OpenAI worker accused of planting
@@ -190,7 +190,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -219,7 +219,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABBC Three, BBC Scotland and Radio 4
@@ -246,7 +246,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ABBC Three, BBC Scotland and Radio 4
@@ -265,7 +265,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AChristina Applegate says she was
@@ -292,7 +292,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AChristina Applegate says she was
@@ -312,7 +312,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AWoman says she 'couldn't speak or
@@ -337,7 +337,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AWoman says she 'couldn't speak or
@@ -355,7 +355,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CTuesday
@@ -383,7 +383,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CTuesday
@@ -411,7 +411,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CTuesday
@@ -434,7 +434,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792520364
+OL,0,        ECIMSBWebfax 2   F119A1792520651
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CTuesday
