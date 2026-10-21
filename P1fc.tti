@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1792580062
+OL,0,        ECIMSBWebfax 2   F1fcA1792581510
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1792580061;
-OL,10,GService: Webfax 2 - 22156 f4cd395468
-OL,11,FLast Update: 21/10/2026 11:54:21  G1/3
+OL,25,1792581509;
+OL,10,GService: Webfax 2 - 22157 b5954c615c
+OL,11,FLast Update: 21/10/2026 12:18:29  G1/2
 OL,13,CbbcSport/Formula 1         G20/10-08:49
 OL,14,CbbcSport/Horse Racing      G17/10-18:37
 OL,15,Cgeneric/f1                 G13/10-23:21
-OL,16,Cgeneric/league-one         G17/10-17:12
-OL,17,Cgeneric/lottery            G18/10-22:18
-OL,18,Ageneric/pollen_forecast    G13/10-23:20
-OL,19,Cgeneric/prem_league        G20/10-03:06
-OL,20,Ageneric/tube_status        G19/10-22:06
-OL,21,Ageneric/weather_warnings   G24/09-16:00
-OL,22,CitvSport/border            G28/09-18:19
-OL,23,CitvSport/calendar          G24/09-15:59
+OL,16,Cgeneric/lottery            G18/10-22:18
+OL,17,Ageneric/pollen_forecast    G13/10-23:20
+OL,18,Cgeneric/prem_league        G20/10-03:06
+OL,19,Ageneric/tube_status        G19/10-22:06
+OL,20,Ageneric/weather_warnings   G24/09-16:00
+OL,21,CitvSport/border            G28/09-18:19
+OL,22,CitvSport/calendar          G24/09-15:59
+OL,23,CitvSport/central           G24/09-15:59
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1792580062
+OL,0,        ECIMSBWebfax 2   F1fcA1792581510
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,35 +42,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1792580061;
-OL,10,GService: Webfax 2 - 22156 f4cd395468
-OL,11,FLast Update: 21/10/2026 11:54:21  G2/3
-OL,13,CitvSport/central           G24/09-15:59
-OL,14,CitvSport/channel           G03/10-19:18
-OL,15,CitvSport/granada           G14/10-15:18
-OL,16,CitvSport/london            G24/09-15:59
-OL,17,CitvSport/meridian          G12/10-12:18
-OL,18,CitvSport/national          G19/10-13:20
-OL,19,CitvSport/tyne-tees         G24/09-15:59
-OL,20,CitvSport/utv               G24/09-16:00
-OL,21,CitvSport/wales             G24/09-16:00
-OL,22,AitvSport/westcountry       G24/09-15:59
-OL,23,CiNMS/comments.json         G17/10-15:58
-PN,1fc03
-SC,0003
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1792580062
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1792580061;
-OL,10,GService: Webfax 2 - 22156 f4cd395468
-OL,11,FLast Update: 21/10/2026 11:54:21  G3/3
+OL,25,1792581509;
+OL,10,GService: Webfax 2 - 22157 b5954c615c
+OL,11,FLast Update: 21/10/2026 12:18:29  G2/2
+OL,13,CitvSport/channel           G03/10-19:18
+OL,14,CitvSport/granada           G14/10-15:18
+OL,15,CitvSport/london            G24/09-15:59
+OL,16,CitvSport/meridian          G12/10-12:18
+OL,17,CitvSport/national          G19/10-13:20
+OL,18,CitvSport/tyne-tees         G24/09-15:59
+OL,19,CitvSport/utv               G24/09-16:00
+OL,20,CitvSport/wales             G24/09-16:00
+OL,21,AitvSport/westcountry       G24/09-15:59
+OL,22,CiNMS/comments.json         G17/10-15:58
