@@ -1,15 +1,137 @@
-PN,21500
-SC,0000
+PN,21501
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F215A1792624715
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792646420
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
-OL,3,V}yyy5CWednesday
+OL,3,V}yyy5CThursday
 OL,5,G2350 Mar Radio Alba
 OL,6,     FTha BBC Radio nan Gaidheal mar BBC
 OL,7,     FRadio Alba. BBC Radio nan Gaidheal
 OL,8,     Fjoins BBC Radio Scotland.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,9,G0730 Aithris na Maidne
+OL,10,     FNaidheachdan ionadail, nC iseanta
+OL,11,     Fis eadar-nC iseanta gach madainn.
+OL,12,     FLocal, national and international
+OL,13,     Fnews each morning.
+OL,14,G0900 Naoi gu Deich
+OL,15,     F'S i Cathy NicDhomhnaill a tha sa
+OL,16,     Fchathair is gar stiuireadh tro
+OL,17,     Fiomadach bonn-comhraidh. Cathy
+OL,18,     FMacDonald presents topics from
+OL,19,     Fcolours in fashion to unrest
+OL,20,     Facross Europe.
+OL,23,VppppppppppppppppppppppppppppppppppG1/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21502
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792646420
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CThursday
+OL,5,G1000 A' Mire ri Moir
+OL,6,     FTha i beachdail, tha i beothail
+OL,7,     Fagus tha i feitheamh ribh le
+OL,8,     Ftaghadh ciuil. Morag MacDonald
+OL,9,     Fpresents her great choice of
+OL,10,     Ftraditional Gaelic music.
+OL,11,G1200 Feasgar an-diugh
+OL,12,     FNaidheachdan, comhradh, spors,
+OL,13,     Fceol agus fealla-dhC . Comhla ri
+OL,14,     FNiall Iain Domhnallach. News,
+OL,15,     Fchat, sport, music and
+OL,16,     Fentertainment. With Niall Iain
+OL,17,     FMacdonald.
+OL,23,VppppppppppppppppppppppppppppppppppG2/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21503
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792646421
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CThursday
+OL,5,G1330 Caithream Ciuil
+OL,6,     FCeol Ceilteach agus fiosrachadh
+OL,7,     Fair na tha dol agaibhse. Gaelic
+OL,8,     Fand Celtic music and a round-up of
+OL,9,     Fwhat's on. Post-d -
+OL,10,     Fdethadol@bbc.co.uk.
+OL,11,G1530 Sporscast
+OL,12,     FJaven Houston ann an comhradh le
+OL,13,     FTosgaire ur na GC idhlig, Calum
+OL,14,     FMacFhearghais, mu phlanaichean
+OL,15,     Fairson Alba FA.
+OL,16,G1600 Beartas Ghuthan
+OL,17,     FMC iri Anna NicUalraig a' cur na
+OL,18,     Fprosbaig air sC r-ghuthan de gach
+OL,19,     Fseorsa agus bho gach cultar. Mary
+OL,20,     FAnn Kennedy celebrates the most
+OL,21,     Funiversal musical instrument: the
+OL,22,     Fhuman voice.
+OL,23,VppppppppppppppppppppppppppppppppppG3/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21504
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792646421
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CThursday
+OL,5,G1700 Aithris an Fheasgair
+OL,6,     FNaidheachdan nC iseanta is
+OL,7,     Fionadail. Local, national and
+OL,8,     Finternational news.
+OL,9,G1730 Siubhal gu Seachd le Pluto
+OL,10,     FCeol, fealla-dhC  agus suil air
+OL,11,     Fspors ionadail, nC iseanta agus
+OL,12,     Feadar-nC iseanta. Music and
+OL,13,     Fentertainment with Derek Pluto
+OL,14,     FMurray along with his Musical
+OL,15,     FLinks. Tweet @DerekPluto.
+OL,16,G1900 Rapal
+OL,17,     FProgram sonraichte lC n orain bho
+OL,18,     Fsheinneadairean agus luchd-ciuil
+OL,19,     FC  Alba, comhla ri Megan
+OL,20,     FNicGillFhaolain. Megan Maclellan
+OL,21,     Fhighlights Scottish artists in her
+OL,22,     Fplaylist.
+OL,23,VppppppppppppppppppppppppppppppppppG4/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,216,200,300,120,0,100
+PN,21505
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F215A1792646421
+OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
+OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
+OL,3,V}yyy5CThursday
+OL,5,G2100 A' Mire ri Moir
+OL,6,     FTha i beachdail, tha i beothail
+OL,7,     Fagus tha i feitheamh ribh le
+OL,8,     Ftaghadh ciuil. Morag MacDonald
+OL,9,     Fpresents her great choice of
+OL,10,     Ftraditional Gaelic music.
+OL,11,G2255 Naoi gu Deich
+OL,12,     F'S i Cathy NicDhomhnaill a tha sa
+OL,13,     Fchathair is gar stiuireadh tro
+OL,14,     Fiomadach bonn-comhraidh. Cathy
+OL,15,     FMacDonald presents topics from
+OL,16,     Fcolours in fashion to unrest
+OL,17,     Facross Europe.
+OL,18,G2350 Mar Radio Alba
+OL,19,     FTha BBC Radio nan Gaidheal mar BBC
+OL,20,     FRadio Alba. BBC Radio nan Gaidheal
+OL,21,     Fjoins BBC Radio Scotland.
+OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,216,200,300,120,0,100

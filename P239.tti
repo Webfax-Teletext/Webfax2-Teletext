@@ -2,10 +2,10 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1792560258
+OL,0,        ECIMSBWebfax 2   F239A1792646421
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G0600 Radio Scotland Breakfast
 OL,6,     FNews from across Scotland and the
 OL,7,     Fworld, plus sport, weather,
@@ -18,9 +18,12 @@ OL,13,G1200 Lunchtime Live
 OL,14,     FNews updates from Scotland and
 OL,15,     Fbeyond, plus all your lunchtime
 OL,16,     Fsport, travel and weather.
-OL,17,G1330 Radio Scotland Afternoons
-OL,18,     FThe best music, guests and arts
-OL,19,     Fcoverage.
+OL,17,G1330 Breaking the News
+OL,18,     FDes Clarke hosts Scotland's
+OL,19,     Faward-winning satirical news quiz.
+OL,20,G1400 Radio Scotland Afternoons
+OL,21,     FFeel-good music and chat with
+OL,22,     Fcelebrity guests.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -28,27 +31,28 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1792560258
+OL,0,        ECIMSBWebfax 2   F239A1792646421
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G1600 Drivetime
 OL,6,     FBreaking down the day's talking
 OL,7,     Fpoints with comment and opinion,
 OL,8,     Fplus sport, travel and weather.
-OL,9,G1730 Sportsound
-OL,10,     FLive football commentary of
-OL,11,     FTrabzonspor v Hearts in the Europa
-OL,12,     FConference League.
-OL,13,G1945 Sportsound
-OL,14,     FLive commentary of Celtic v Celta
-OL,15,     FVigo as Martin O'Neill's side look
-OL,16,     Fto secure their first points in
-OL,17,     Fthis season's Europa League.
-OL,18,G2300 Up Late
-OL,19,     FThe best company to end the day,
-OL,20,     Fwith lively chat and some of your
-OL,21,     Ffavourite tunes.
+OL,9,G1800 Grant Stott's Vinyl Collective
+OL,10,     FNew and classic cuts all played
+OL,11,     Ffrom 7', 12' and vinyl LPs. Grant
+OL,12,     Fshares the treasures from his own
+OL,13,     Fshopping adventures and discovers
+OL,14,     Fthe stories about your record
+OL,15,     Fcollections.
+OL,16,G2000 BBC Introducing in Scotland
+OL,17,     FThe Sankaras are alt-rockers with
+OL,18,     Fa vintage vibe and they're
+OL,19,     FPhoebe's Featured Artist tonight.
+OL,20,     FWhatsApp the show on 08085 92 95
+OL,21,     F00. An EcoAudio certified
+OL,22,     Fproduction.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -56,18 +60,23 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1792560258
+OL,0,        ECIMSBWebfax 2   F239A1792646421
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
-OL,5,G0000 Scotcast
-OL,6,     FMartin Geissler and the team bring
-OL,7,     Fyou thoughtful conversation and
-OL,8,     Fexpert analysis covering the most
-OL,9,     Finteresting news stories in
-OL,10,     FScotland.
-OL,11,G0030 As BBC Radio 5 Live
-OL,12,     FJoining Radio 5 Live.
+OL,3,V}yyy5CFriday
+OL,5,G2130 BBC Introducing in Scotland
+OL,6,     FPhoebe I-H and Stephanie Cheape
+OL,7,     Fare joined by Mobo Agoro to
+OL,8,     Fcelebrate Black Scottish artists
+OL,9,     Fas part of The Music is Black
+OL,10,     Fseason. They consider the impact
+OL,11,     Fof Emeli Sande's music.
+OL,12,G2200 Up Late
+OL,13,     FThe best company to end the day,
+OL,14,     Fwith lively chat and some of your
+OL,15,     Ffavourite tunes.
+OL,16,G0000 As BBC Radio 5 Live
+OL,17,     FJoining Radio 5 Live.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
