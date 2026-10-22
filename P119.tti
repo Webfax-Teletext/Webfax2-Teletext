@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -17,43 +17,84 @@ OL,15,                                  ,
 OL,17,MCincluding the latest tech and culture
 OL,20,CM news and a look at what's on radio.
 OL,22,W
-OL,23,ATech headlines follow >>>QppppppppG1/20
+OL,23,ATech headlines follow >>>QppppppppG1/19
 OL,24,ARewind  BCulture  CNat Radio  FShowreel
 FL,120,160,200,140,0,100
 PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FUK working to identify exposure
-OL,6,Fafter global cyber-security warning
-OL,7,A22-Oct
-OL,8,G
-OL,9,G107FWhat is PHP and why did it spark a
-OL,10,Fglobal cyber-security scramble?A22-Oct
+OL,5,G106FZoe Kleinman: PHP is the cyber
+OL,6,Fequivalent of an unexploded bombA22-Oct
+OL,7,G
+OL,8,G107FUK working to identify exposure
+OL,9,Fafter global cyber-security warning
+OL,10,A22-Oct
 OL,11,G
-OL,12,G108FTrump's green card curbs test
-OL,13,FIndian tech workers' American dream
-OL,14,A21-Oct
-OL,15,G
-OL,16,G109FWhy is Elon Musk plotting a
-OL,17,Fmega-merger of SpaceX and Tesla?A21-Oct
+OL,12,G108FWhat is PHP and why did it spark a
+OL,13,Fglobal cyber-security scramble?A22-Oct
+OL,14,G
+OL,15,G109FTrump's green card curbs test
+OL,16,FIndian tech workers' American dream
+OL,17,A21-Oct
 OL,18,G
-OL,19,G110FWebsites taken down worldwide as
-OL,20,Fcritical cyber-security update issued
-OL,21,A21-Oct
-OL,22,G
-OL,23,QppppppppppppppppppppppppppppppppppG2/20
+OL,19,G110FWhy is Elon Musk plotting a
+OL,20,Fmega-merger of SpaceX and Tesla?A21-Oct
+OL,21,G
+OL,22,F
+OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
 PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AZoe Kleinman: PHP is the cyber
+OL,4,Aequivalent of an unexploded bomb
+OL,5,
+OL,6,FI once worked opposite a site where a
+OL,7,Fshopping centre was being built.
+OL,9,FWe were warned there might be
+OL,10,Funexploded bombs from World War Two
+OL,11,Funearthed during the construction.
+OL,13,FIn the end, there were none, but
+OL,14,Fprocedures were put in place as a
+OL,15,Fprecaution and we all had to practice
+OL,16,Ffiling into designated safe zones
+OL,17,Finside our building.
+OL,23,APub: 22-OctQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792664675
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AZoe Kleinman: PHP is the cyber
+OL,4,Aequivalent of an unexploded bomb
+OL,5,
+OL,6,FThe PHP story feels like the cyber
+OL,7,Fequivalent of an unexploded bomb - I
+OL,8,Fhave never seen such a dramatic, public
+OL,9,Fand global response to a cyber event
+OL,10,Fthat hasn't happened yet.
+OL,23,APub: 22-OctQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK working to identify exposure after
@@ -73,14 +114,14 @@ OL,17,Fhackers can exploit the flaws.
 OL,19,FThe flaws were first discovered by AI,
 OL,20,Fafter which governments urged anyone
 OL,21,Fwho uses PHP to address them.
-OL,23,APub: 22-OctQppppppppppppppppppppppG3/20
+OL,23,APub: 22-OctQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK working to identify exposure after
@@ -90,14 +131,14 @@ OL,6,FA UK government spokesperson urged "all
 OL,7,Forganisations, private and public,
 OL,8,Flarge and small" to follow guidance to
 OL,9,Fprotect their systems.
-OL,23,APub: 22-OctQppppppppppppppppppppppG4/20
+OL,23,APub: 22-OctQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhat is PHP and why did it spark a
@@ -113,14 +154,14 @@ OL,14,FThe vulnerabilities lie within a
 OL,15,Fprogramming language called PHP, which
 OL,16,Fhas been used internationally since the
 OL,17,F2000s to build websites.
-OL,23,APub: 22-OctQppppppppppppppppppppppG5/20
+OL,23,APub: 22-OctQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhat is PHP and why did it spark a
@@ -133,151 +174,90 @@ OL,9,FWednesday, and have urged website
 OL,10,Foperators to install a new emergency
 OL,11,Ffix or consider taking their platforms
 OL,12,Foffline.
-OL,23,APub: 22-OctQppppppppppppppppppppppG6/20
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ATrump's green card curbs test Indian
-OL,4,Atech workers' American dream
-OL,5,
-OL,6,FFor millions of Indians, the road to
-OL,7,Fthe ultimate career aspiration had a
-OL,8,Ffamiliar script - an engineering degree
-OL,9,Fto get a tech services job, then a
-OL,10,Fposting in the US, repeated visa
-OL,11,Frenewals and then the green card that
-OL,12,Fgave them permanent residency in the
-OL,13,Fcountry.
-OL,15,FBut that may end soon.
-OL,23,APub: 21-OctQppppppppppppppppppppppG7/20
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ATrump's green card curbs test Indian
-OL,4,Atech workers' American dream
-OL,5,
-OL,6,FEarlier this month, the US announced it
-OL,7,Fwould suspend eight technology firms,
-OL,8,Fincluding Microsoft, India's Infosys,
-OL,9,FTata Consultancy Services, Wipro and
-OL,10,FHCL Technologies, from hiring skilled
-OL,11,Finternational workers on a permanent
-OL,12,Fbasis through a widely used visa
-OL,13,Fpathway.
-OL,23,APub: 21-OctQppppppppppppppppppppppG8/20
+OL,23,APub: 22-OctQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
 PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ATrump's green card curbs test Indian
-OL,4,Atech workers' American dream
-OL,5,
-OL,6,FNew and pending applications under the
-OL,7,FPermanent Labor Certification Program,
-OL,8,For PERM, have been frozen. This is a
-OL,9,Fbig blow to Indians who hold a majority
-OL,10,Fof H-1B visas - a temporary visa for
-OL,11,Fspecialists - which they used to work
-OL,12,Fin the US while relying on PERM to get
-OL,13,Fa green card and, ultimately,
-OL,14,Fcitizenship.
-OL,23,APub: 21-OctQppppppppppppppppppppppG9/20
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
+OL,0,        ECIMSBWebfax 2   F119A1792664675
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,GMAIN STORIESAfrom BBC News
+OL,5,G161FPolice investigate Married at First
+OL,6,FSight Australia after 'inappropriate'
+OL,7,FallegationsA22-Oct
+OL,8,G
+OL,9,G162FDame Judi Dench: 'I can't do a
+OL,10,Fplay, a film or read any more'A22-Oct
+OL,11,G
+OL,12,G163FThe four locations in the running
+OL,13,Fto be UK City of Culture 2029A21-Oct
+OL,14,G
+OL,15,G164FDon't Stop Believin'! - high school
+OL,16,Fmusical Glee set for rebootA21-Oct
+OL,17,G
+OL,18,G165FAli G is back. But is the character
+OL,19,Fpast its sell-by date?A20-Oct
+OL,20,G
+OL,21,F
+OL,22,F
+OL,23,QppppppppppppppppppppppppppppppppppG9/19
+OL,24,ANext PageBTechnologyCNat RadioFShowreel
+FL,161,105,200,140,0,100
 PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G161FThe four locations in the running
-OL,6,Fto be UK City of Culture 2029A21-Oct
-OL,7,G
-OL,8,G162FDame Judi Dench: 'I can't do a
-OL,9,Fplay, a film or read any more'A22-Oct
-OL,10,G
-OL,11,G163FDon't Stop Believin'! - high school
-OL,12,Fmusical Glee set for rebootA21-Oct
-OL,13,G
-OL,14,G164FAli G is back. But is the character
-OL,15,Fpast its sell-by date?A20-Oct
-OL,16,G
-OL,17,G165FActor Noel Clarke pleads not guilty
-OL,18,Fto sexual offence chargesA21-Oct
-OL,19,G
-OL,20,F
-OL,21,F
-OL,22,F
-OL,23,QpppppppppppppppppppppppppppppppppG10/20
-OL,24,ANext PageBTechnologyCNat RadioFShowreel
-FL,161,105,200,140,0,100
+OL,3,APolice investigate Married at First
+OL,4,ASight Australia after 'inappropriate'
+OL,5,Aallegations
+OL,6,
+OL,7,FMarried at First Sight Australia is
+OL,8,Ffacing fresh controversy after police
+OL,9,Flaunched an investigation into the hit
+OL,10,Freality TV show.
+OL,12,FNew South Wales told BBC News that
+OL,13,Finquiries had taken place "following a
+OL,14,Freport of inappropriate content being
+OL,15,Fshared".
+OL,17,FChannel Nine, which broadcasts Married
+OL,18,Fat First Sight Australia, confirmed
+OL,19,Fthat it was "aware of a police
+OL,20,Finvestigation" involving the show's
+OL,21,Fproduction company.
+OL,23,APub: 22-OctQpppppppppppppppppppppG10/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,162,160,200,105,0,100
 PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AThe four locations in the running to be
-OL,4,AUK City of Culture 2029
-OL,5,
-OL,6,FBlackpool, Milton Keynes, Sheffield and
-OL,7,FWrexham have been shortlisted to become
-OL,8,Fthe UK's City of Culture in 2029.
-OL,10,FThe winning location will be announced
-OL,11,Fin May and will be the fifth holder of
-OL,12,Fthe title - following
-OL,13,FDerry-Londonderry, Hull, Coventry and
-OL,14,FBradford.
-OL,16,FA different location is given the City
-OL,17,Fof Culture title every four years. Each
-OL,18,Fshortlisted city will now receive at
-OL,19,Fleast #125,000 from the government to
-OL,20,Fdo further work on their bid.
-OL,23,APub: 21-OctQpppppppppppppppppppppG11/20
+OL,3,APolice investigate Married at First
+OL,4,ASight Australia after 'inappropriate'
+OL,5,Aallegations
+OL,6,
+OL,7,FIt is the latest blow for the show,
+OL,8,Fafter a BBC News investigation earlier
+OL,9,Fthis year into MAFS Australia revealed
+OL,10,Fcast members said they had not been
+OL,11,Ftold their partners had previous drug
+OL,12,Fand violence convictions.
+OL,23,APub: 22-OctQpppppppppppppppppppppG11/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
 PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,AThe four locations in the running to be
-OL,4,AUK City of Culture 2029
-OL,5,
-OL,6,FThe eventual winner will receive #10m
-OL,7,Fto deliver a year of cultural events
-OL,8,Fand activities drawing on its "local
-OL,9,Fstrengths and stories".
-OL,23,APub: 21-OctQpppppppppppppppppppppG12/20
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,162,160,200,105,0,100
-PN,11913
-SC,0013
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ADame Judi Dench: 'I can't do a play, a
@@ -298,14 +278,14 @@ OL,19,F4's Today programme, she said: "I can't
 OL,20,Fbe on stage. I can't do a play any
 OL,21,Fmore. I can't do a film any more. I
 OL,22,Fcan't read any more."
-OL,23,APub: 22-OctQpppppppppppppppppppppG13/20
+OL,23,APub: 22-OctQpppppppppppppppppppppG12/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
-PN,11914
-SC,0014
+PN,11913
+SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ADame Judi Dench: 'I can't do a play, a
@@ -316,57 +296,57 @@ OL,7,Flead to awkward encounters, saying she
 OL,8,Fsometimes approaches the wrong people
 OL,9,F"and give them an almost hug" before
 OL,10,Frealising her mistake.
-OL,23,APub: 22-OctQpppppppppppppppppppppG14/20
+OL,23,APub: 22-OctQpppppppppppppppppppppG13/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
+PN,11914
+SC,0014
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792664675
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,AThe four locations in the running to be
+OL,4,AUK City of Culture 2029
+OL,5,
+OL,6,FBlackpool, Milton Keynes, Sheffield and
+OL,7,FWrexham have been shortlisted to become
+OL,8,Fthe UK's City of Culture in 2029.
+OL,10,FThe winning location will be announced
+OL,11,Fin May and will be the fifth holder of
+OL,12,Fthe title - following
+OL,13,FDerry-Londonderry, Hull, Coventry and
+OL,14,FBradford.
+OL,16,FA different location is given the City
+OL,17,Fof Culture title every four years. Each
+OL,18,Fshortlisted city will now receive at
+OL,19,Fleast #125,000 from the government to
+OL,20,Fdo further work on their bid.
+OL,23,APub: 21-OctQpppppppppppppppppppppG14/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,164,160,200,105,0,100
 PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ADon't Stop Believin'! - high school
-OL,4,Amusical Glee set for reboot
+OL,3,AThe four locations in the running to be
+OL,4,AUK City of Culture 2029
 OL,5,
-OL,6,FWe never stopped believin'... now it's
-OL,7,Fofficial: Glee, the Emmy-winning US
-OL,8,Fhigh school musical comedy drama, is
-OL,9,Fset to return.
-OL,11,FRyan Murphy's series, which chronicled
-OL,12,Fthe highs and lows of choir members
-OL,13,Ffrom Ohio, premiered on Fox in 2009 and
-OL,14,Fran for six seasons until 2015.
-OL,16,FThe original cast included Lea Michele,
-OL,17,FAmber Riley, the late Cory Monteith,
-OL,18,FJane Lynch and Matthew Morrison as Will
-OL,19,FSchuester, the optimistic teacher
-OL,20,Fleading the fictional McKinley High's
-OL,21,Fglee club.
-OL,23,APub: 21-OctQpppppppppppppppppppppG15/20
+OL,6,FThe eventual winner will receive #10m
+OL,7,Fto deliver a year of cultural events
+OL,8,Fand activities drawing on its "local
+OL,9,Fstrengths and stories".
+OL,23,APub: 21-OctQpppppppppppppppppppppG15/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
 PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ADon't Stop Believin'! - high school
-OL,4,Amusical Glee set for reboot
-OL,5,
-OL,6,FThe reboot was announced by Disney and
-OL,7,FHulu via the show's social media team
-OL,8,Fon Wednesday.
-OL,23,APub: 21-OctQpppppppppppppppppppppG16/20
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,164,160,200,105,0,100
-PN,11917
-SC,0017
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
@@ -387,14 +367,14 @@ OL,18,     FAnthems.
 OL,19,G1530 Radio 1 News
 OL,20,     FThe latest news from around the UK
 OL,21,     Fand around the world.
-OL,23,VpppppppppppppppppppppppppppppppppG17/20
+OL,23,VpppppppppppppppppppppppppppppppppG16/19
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11918
-SC,0018
+PN,11917
+SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CThursday
@@ -416,14 +396,14 @@ OL,19,G1600 Radio 2 Drivetime with Gary Davies
 OL,20,     FGary Davies with amazing tunes
 OL,21,     Fplus the latest news and travel to
 OL,22,     Fhelp you home.
-OL,23,VpppppppppppppppppppppppppppppppppG18/20
+OL,23,VpppppppppppppppppppppppppppppppppG17/19
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11919
-SC,0019
+PN,11918
+SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
@@ -443,14 +423,14 @@ OL,17,G1600 Composer of the Week: Verdi
 OL,18,     F4/5. Kate Molleson explores
 OL,19,     FVerdi's battles with authority and
 OL,20,     Fsocietal expectations.
-OL,23,VpppppppppppppppppppppppppppppppppG19/20
+OL,23,VpppppppppppppppppppppppppppppppppG18/19
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11920
-SC,0020
+PN,11919
+SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792664307
+OL,0,        ECIMSBWebfax 2   F119A1792664675
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CThursday
@@ -470,6 +450,6 @@ OL,17,     Foperations into Albania, but
 OL,18,     FPhilby is watching from the inside
 OL,19,     Fand has Stalin's ear.
 OL,20,G1200 News Summary
-OL,23,VpppppppppppppppppppppppppppppppppG20/20
+OL,23,VpppppppppppppppppppppppppppppppppG19/19
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
