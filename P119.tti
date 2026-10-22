@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,27 +24,27 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FMeta strikes deal to stop Mark
-OL,6,FZuckerberg leaving California over
-OL,7,Fbillionaire taxA22-Oct
+OL,5,G106FRace to update services' computer
+OL,6,Fsystems after cyber-security flaw found
+OL,7,A22-Oct
 OL,8,G
-OL,9,G107FWhat is PHP and why did it spark a
-OL,10,Fglobal cyber-security scramble?A22-Oct
-OL,11,G
-OL,12,G108FZoe Kleinman: PHP is the cyber
-OL,13,Fequivalent of an unexploded bombA22-Oct
-OL,14,G
-OL,15,G109FUK working to identify exposure
-OL,16,Fafter global cyber-security warning
-OL,17,A22-Oct
+OL,9,G107FMeta strikes deal to stop Mark
+OL,10,FZuckerberg leaving California over
+OL,11,Fbillionaire taxA22-Oct
+OL,12,G
+OL,13,G108FWhat is PHP and why did it spark a
+OL,14,Fglobal cyber-security scramble?A22-Oct
+OL,15,G
+OL,16,G109FZoe Kleinman: PHP is the cyber
+OL,17,Fequivalent of an unexploded bombA22-Oct
 OL,18,G
-OL,19,G110FTrump's green card curbs test
-OL,20,FIndian tech workers' American dream
-OL,21,A21-Oct
+OL,19,G110FUK working to identify exposure
+OL,20,Fafter global cyber-security warning
+OL,21,A22-Oct
 OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
@@ -53,7 +53,54 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,ARace to update services' computer
+OL,4,Asystems after cyber-security flaw found
+OL,5,
+OL,6,FOrganisations and businesses are still
+OL,7,Fscrambling to update their systems
+OL,8,Fafter cyber-security flaws were
+OL,9,Frevealed in a widely-used programming
+OL,10,Flanguage, PHP.
+OL,12,FWebsites around the world were taken
+OL,13,Foffline on Wednesday and Thursday after
+OL,14,Fthe developers of PHP said "critical
+OL,15,Fvulnerabilities" were found in the
+OL,16,Fback-end language, used in web
+OL,17,Fdevelopment for decades.
+OL,23,APub: 22-OctQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792689884
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,ARace to update services' computer
+OL,4,Asystems after cyber-security flaw found
+OL,5,
+OL,6,FResearchers warned the "severe" flaws
+OL,7,Fcould expose millions of sites using it
+OL,8,Fto potential hacks if left unpatched -
+OL,9,Fand the UK government was among those
+OL,10,Fto take some sites offline as a
+OL,11,Fprecaution.
+OL,13,FThere have been no successful attacks
+OL,14,Freported so far, but experts say any
+OL,15,Fimpact may take time - even months - to
+OL,16,Fbecome fully apparent.
+OL,23,APub: 22-OctQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AMeta strikes deal to stop Mark
@@ -72,14 +119,14 @@ OL,16,Fpeople - to sell shares in Meta without
 OL,17,Flosing control of the Californian-based
 OL,18,Fcompany if he needs to pay a large tax
 OL,19,Fbill.
-OL,23,APub: 22-OctQppppppppppppppppppppppG3/19
+OL,23,APub: 22-OctQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AMeta strikes deal to stop Mark
@@ -95,14 +142,14 @@ OL,13,FNevertheless, Zuckerberg secured a deal
 OL,14,Fwith a special committee at Meta after
 OL,15,F"robust", and "at several points,
 OL,16,Fcontentious" negotiations.
-OL,23,APub: 22-OctQppppppppppppppppppppppG4/19
+OL,23,APub: 22-OctQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhat is PHP and why did it spark a
@@ -117,14 +164,14 @@ OL,13,FThe vulnerabilities lie within a
 OL,14,Fprogramming language called PHP, which
 OL,15,Fhas been used internationally since the
 OL,16,F2000s to build websites.
-OL,23,APub: 22-OctQppppppppppppppppppppppG5/19
+OL,23,APub: 22-OctQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhat is PHP and why did it spark a
@@ -137,47 +184,6 @@ OL,9,FWednesday, and have urged website
 OL,10,Foperators to install a new emergency
 OL,11,Ffix or consider taking their platforms
 OL,12,Foffline.
-OL,23,APub: 22-OctQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AZoe Kleinman: PHP is the cyber
-OL,4,Aequivalent of an unexploded bomb
-OL,5,
-OL,6,FI once worked opposite a site where a
-OL,7,Fshopping centre was being built.
-OL,9,FWe were warned there might be
-OL,10,Funexploded bombs from World War Two
-OL,11,Funearthed during the construction.
-OL,13,FIn the end, there were none, but
-OL,14,Fprocedures were put in place as a
-OL,15,Fprecaution and we all had to practice
-OL,16,Ffiling into designated safe zones
-OL,17,Finside our building.
-OL,23,APub: 22-OctQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AZoe Kleinman: PHP is the cyber
-OL,4,Aequivalent of an unexploded bomb
-OL,5,
-OL,6,FThe PHP story feels like the cyber
-OL,7,Fequivalent of an unexploded bomb - I
-OL,8,Fhave never seen such a dramatic, public
-OL,9,Fand global response to a cyber event
-OL,10,Fthat hasn't happened yet.
 OL,23,APub: 22-OctQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
@@ -185,25 +191,25 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G161FRussell Brand accuser said alleged
-OL,6,Frape 'really hurt', court hearsA22-Oct
+OL,5,G161FTrump ordered to answer questions
+OL,6,Funder oath in BBC lawsuitA22-Oct
 OL,7,G
-OL,8,G162FPolice investigate Married at First
-OL,9,FSight Australia after 'inappropriate'
-OL,10,FallegationsA22-Oct
-OL,11,G
-OL,12,G163FDame Judi Dench: 'I can't do a
-OL,13,Fplay, a film or read anymore'A22-Oct
+OL,8,G162FRussell Brand accuser said alleged
+OL,9,Frape 'really hurt', court hearsA22-Oct
+OL,10,G
+OL,11,G163FPolice investigate Married at First
+OL,12,FSight Australia after 'inappropriate'
+OL,13,FallegationsA22-Oct
 OL,14,G
-OL,15,G164FThe four locations in the running
-OL,16,Fto be UK City of Culture 2029A21-Oct
+OL,15,G164FDame Judi Dench: 'I can't do a
+OL,16,Fplay, a film or read anymore'A22-Oct
 OL,17,G
-OL,18,G165FLegendary video game studio BioWare
-OL,19,Fcloses after 31 yearsA22-Oct
+OL,18,G165FThe four locations in the running
+OL,19,Fto be UK City of Culture 2029A21-Oct
 OL,20,G
 OL,21,F
 OL,22,F
@@ -214,7 +220,51 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,ATrump ordered to answer questions under
+OL,4,Aoath in BBC lawsuit
+OL,5,
+OL,6,FA US judge has ordered President Donald
+OL,7,FTrump to answer questions under oath in
+OL,8,Fhis defamation lawsuit against the BBC
+OL,9,Fby 11 December.
+OL,11,FTrump is suing the BBC over an episode
+OL,12,Fof Panorama that edited together two
+OL,13,Fdifferent sections of a speech he gave
+OL,14,Fbefore the riot at the US Capitol in
+OL,15,F2021.
+OL,17,FCharles Tobin, a lawyer representing
+OL,18,Fthe BBC, said in court that "we still
+OL,19,Fhaven't been able to depose the
+OL,20,Fplaintiff" with two months left in the
+OL,21,Fdiscovery period.
+OL,23,APub: 22-OctQpppppppppppppppppppppG10/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,162,160,200,105,0,100
+PN,11911
+SC,0011
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792689884
+OL,1,W5j 5Q7+j 55"k#j 5w;js1
+OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
+OL,3,ATrump ordered to answer questions under
+OL,4,Aoath in BBC lawsuit
+OL,5,
+OL,6,FTrump cancelled a previous deposition
+OL,7,Fon 16 October, citing "matters of
+OL,8,Fnational importance" while he was
+OL,9,Fcampaigning in Georgia.
+OL,23,APub: 22-OctQpppppppppppppppppppppG11/19
+OL,24,ANext PageBCultureC Nat RadioFTechnology
+FL,162,160,200,105,0,100
+PN,11912
+SC,0012
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ARussell Brand accuser said alleged rape
@@ -234,14 +284,14 @@ OL,18,Fwith the alleged victim in 2009, where
 OL,19,Fthey had been invited to the
 OL,20,Fdefendant's dressing room after his
 OL,21,Fcomedy show.
-OL,23,APub: 22-OctQpppppppppppppppppppppG10/19
+OL,23,APub: 22-OctQpppppppppppppppppppppG12/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,162,160,200,105,0,100
-PN,11911
-SC,0011
+FL,163,160,200,105,0,100
+PN,11913
+SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ARussell Brand accuser said alleged rape
@@ -252,14 +302,14 @@ OL,7,Fwere also heard in court, saying their
 OL,8,Fdaughter had told them about the
 OL,9,Falleged attack, and that she had been
 OL,10,F"very worried about HIV".
-OL,23,APub: 22-OctQpppppppppppppppppppppG11/19
+OL,23,APub: 22-OctQpppppppppppppppppppppG13/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,162,160,200,105,0,100
-PN,11912
-SC,0012
+FL,163,160,200,105,0,100
+PN,11914
+SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,APolice investigate Married at First
@@ -279,14 +329,14 @@ OL,18,Fat First Sight Australia, confirmed
 OL,19,Fthat it was "aware of a police
 OL,20,Finvestigation" involving the show's
 OL,21,Fproduction company.
-OL,23,APub: 22-OctQpppppppppppppppppppppG12/19
+OL,23,APub: 22-OctQpppppppppppppppppppppG14/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,163,160,200,105,0,100
-PN,11913
-SC,0013
+FL,164,160,200,105,0,100
+PN,11915
+SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,APolice investigate Married at First
@@ -299,52 +349,6 @@ OL,9,Fthis year into MAFS Australia revealed
 OL,10,Fcast members said they had not been
 OL,11,Ftold their partners had previous drug
 OL,12,Fand violence convictions.
-OL,23,APub: 22-OctQpppppppppppppppppppppG13/19
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,163,160,200,105,0,100
-PN,11914
-SC,0014
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ADame Judi Dench: 'I can't do a play, a
-OL,4,Afilm or read anymore'
-OL,5,
-OL,6,FOscar-winning actress Dame Judi Dench
-OL,7,Fsays her eye condition has left her
-OL,8,Funable to perform on stage or read,
-OL,9,Fmore than a decade after she was
-OL,10,Fdiagnosed.
-OL,12,FDench was diagnosed with age-related
-OL,13,Fmacular degeneration (AMD) in 2012, a
-OL,14,Fcondition that affects her vision and
-OL,15,Fhas made it incredibly difficult to
-OL,16,Feven recognise faces.
-OL,18,FSpeaking to Emma Barnett on BBC Radio
-OL,19,F4's Today programme, she said: "I can't
-OL,20,Fbe on stage. I can't do a play anymore.
-OL,21,FI can't do a film anymore. I can't read
-OL,22,Fanymore."
-OL,23,APub: 22-OctQpppppppppppppppppppppG14/19
-OL,24,ANext PageBCultureC Nat RadioFTechnology
-FL,164,160,200,105,0,100
-PN,11915
-SC,0015
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
-OL,1,W5j 5Q7+j 55"k#j 5w;js1
-OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ADame Judi Dench: 'I can't do a play, a
-OL,4,Afilm or read anymore'
-OL,5,
-OL,6,FShe also revealed how her condition can
-OL,7,Flead to awkward encounters, saying she
-OL,8,Fsometimes approaches the wrong people
-OL,9,F"and give them an almost hug" before
-OL,10,Frealising her mistake.
 OL,23,APub: 22-OctQpppppppppppppppppppppG15/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
@@ -352,7 +356,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
@@ -381,7 +385,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CThursday
@@ -407,7 +411,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
@@ -435,7 +439,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792689613
+OL,0,        ECIMSBWebfax 2   F119A1792689884
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CThursday
