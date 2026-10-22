@@ -2,24 +2,27 @@ PN,20301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1792682350
+OL,0,        ECIMSBWebfax 2   F203A1792685918
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
-OL,5,G1600 Composer of the Week: Verdi
-OL,6,     F4/5. Kate Molleson explores
-OL,7,     FVerdi's battles with authority and
-OL,8,     Fsocietal expectations.
-OL,9,G1700 In Tune
-OL,10,     FClassical guitarist Tohi Harada
-OL,11,     Fplays live. Mark Simpson and
-OL,12,     FTamara Stefanovich chat to Petroc
-OL,13,     Fabout the world premiere of Mark's
-OL,14,     Fpiano concerto.
-OL,15,G1900 Classical Mixtape
-OL,16,     FTake time out with a 30-minute
-OL,17,     Fsoundscape of classical
-OL,18,     Ffavourites.
+OL,5,G1700 In Tune
+OL,6,     FClassical guitarist Tohi Harada
+OL,7,     Fplays live. Mark Simpson and
+OL,8,     FTamara Stefanovich chat to Petroc
+OL,9,     Fabout the world premiere of Mark's
+OL,10,     Fpiano concerto.
+OL,11,G1900 Classical Mixtape
+OL,12,     FTake time out with a 30-minute
+OL,13,     Fsoundscape of classical
+OL,14,     Ffavourites.
+OL,15,G1930 Radio 3 in Concert
+OL,16,     FJerome Kuhn conducts soloists and
+OL,17,     Fthe BBC Concert Orchestra in a
+OL,18,     Fmythologically themed programme,
+OL,19,     Fincluding a semi-staged
+OL,20,     Fperformance of David Buckley's
+OL,21,     Fone-act opera Oracle.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -27,24 +30,28 @@ PN,20302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1792682350
+OL,0,        ECIMSBWebfax 2   F203A1792685918
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
-OL,5,G1930 Radio 3 in Concert
-OL,6,     FJerome Kuhn conducts soloists and
-OL,7,     Fthe BBC Concert Orchestra in a
-OL,8,     Fmythologically themed programme,
-OL,9,     Fincluding a semi-staged
-OL,10,     Fperformance of David Buckley's
-OL,11,     Fone-act opera Oracle.
-OL,12,G2145 The Essay: John Foxx - Key Moments
-OL,13,     FJohn Foxx takes us through the
-OL,14,     Fhistory of the five pianos which
-OL,15,     Fhave shaped his music. As the lead
-OL,16,     Fsinger of Ultravox and a solo
-OL,17,     Fartist, pianos have been his
-OL,18,     Flife-long obsession.
+OL,5,G2145 The Essay: John Foxx - Key Moments
+OL,6,     FJohn Foxx takes us through the
+OL,7,     Fhistory of the five pianos which
+OL,8,     Fhave shaped his music. As the lead
+OL,9,     Fsinger of Ultravox and a solo
+OL,10,     Fartist, pianos have been his
+OL,11,     Flife-long obsession.
+OL,12,G2200 Night Tracks
+OL,13,     FHannah Peel presents an
+OL,14,     Fadventurous, immersive soundtrack
+OL,15,     Ffor late-night listening, from
+OL,16,     Fclassical to contemporary and
+OL,17,     Feverything in between.
+OL,18,G2330 'Round Midnight
+OL,19,     FTonight, saxophonist Immanuel
+OL,20,     FWilkins is back to share his
+OL,21,     Ffourth and final jazz record that
+OL,22,     Finspires him, for 4/4.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
@@ -52,28 +59,17 @@ PN,20303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F203A1792682350
+OL,0,        ECIMSBWebfax 2   F203A1792685918
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
-OL,5,G2200 Night Tracks
-OL,6,     FHannah Peel presents an
-OL,7,     Fadventurous, immersive soundtrack
-OL,8,     Ffor late-night listening, from
-OL,9,     Fclassical to contemporary and
-OL,10,     Feverything in between.
-OL,11,G2330 'Round Midnight
-OL,12,     FTonight, saxophonist Immanuel
-OL,13,     FWilkins is back to share his
-OL,14,     Ffourth and final jazz record that
-OL,15,     Finspires him, for 4/4.
-OL,16,G0030 Through the Night
-OL,17,     FRomanian pianist Andrei Licaret
-OL,18,     Fconducts and performs with the
-OL,19,     F'Magic Summer' Festival Orchestra
-OL,20,     Fin a concert from Bucharest
-OL,21,     Ffeaturing Beethoven's 2nd, 3rd and
-OL,22,     F4th piano concertos.
+OL,5,G0030 Through the Night
+OL,6,     FRomanian pianist Andrei Licaret
+OL,7,     Fconducts and performs with the
+OL,8,     F'Magic Summer' Festival Orchestra
+OL,9,     Fin a concert from Bucharest
+OL,10,     Ffeaturing Beethoven's 2nd, 3rd and
+OL,11,     F4th piano concertos.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
