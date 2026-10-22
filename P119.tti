@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,16 +24,16 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FWhat is PHP and why did it spark a
-OL,6,Fglobal cyber-security scramble?A22-Oct
-OL,7,G
-OL,8,G107FUK working to identify exposure
-OL,9,Fafter global cyber-security warning
-OL,10,A22-Oct
+OL,5,G106FUK working to identify exposure
+OL,6,Fafter global cyber-security warning
+OL,7,A22-Oct
+OL,8,G
+OL,9,G107FWhat is PHP and why did it spark a
+OL,10,Fglobal cyber-security scramble?A22-Oct
 OL,11,G
 OL,12,G108FTrump's green card curbs test
 OL,13,FIndian tech workers' American dream
@@ -53,50 +53,7 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AWhat is PHP and why did it spark a
-OL,4,Aglobal cyber-security scramble?
-OL,5,
-OL,6,FFor more than a decade, serious flaws
-OL,7,Fhad gone undetected in the technology
-OL,8,Funderpinning much of the internet.
-OL,10,FIt took artificial intelligence (AI) to
-OL,11,Fbring them to light and caused a global
-OL,12,Fcyber-security alert.
-OL,14,FThe vulnerabilities lie within a
-OL,15,Fprogramming language called PHP, which
-OL,16,Fhas been used internationally since the
-OL,17,F2000s to build websites.
-OL,23,APub: 22-OctQppppppppppppppppppppppG3/20
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AWhat is PHP and why did it spark a
-OL,4,Aglobal cyber-security scramble?
-OL,5,
-OL,6,FGovernments and cyber-security agencies
-OL,7,Faround the world are scrambling to
-OL,8,Fcontain the fallout of the discovery on
-OL,9,FWednesday, and have urged website
-OL,10,Foperators to install a new emergency
-OL,11,Ffix or consider taking their platforms
-OL,12,Foffline.
-OL,23,APub: 22-OctQppppppppppppppppppppppG4/20
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK working to identify exposure after
@@ -117,14 +74,14 @@ OL,18,Fflaws.
 OL,20,FThe flaws were first discovered by AI,
 OL,21,Fafter which governments urged anyone
 OL,22,Fwho uses PHP to address them.
-OL,23,APub: 22-OctQppppppppppppppppppppppG5/20
+OL,23,APub: 22-OctQppppppppppppppppppppppG3/20
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK working to identify exposure after
@@ -135,6 +92,49 @@ OL,7,Fattempts, which it said occurred before
 OL,8,Fan embargo on the warning was lifted.
 OL,9,FIt added that it was unclear how actors
 OL,10,Fknew about the vulnerabilities.
+OL,23,APub: 22-OctQppppppppppppppppppppppG4/20
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792655645
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhat is PHP and why did it spark a
+OL,4,Aglobal cyber-security scramble?
+OL,5,
+OL,6,FFor more than a decade, serious flaws
+OL,7,Fhad gone undetected in the technology
+OL,8,Funderpinning much of the internet.
+OL,10,FIt took artificial intelligence (AI) to
+OL,11,Fbring them to light and caused a global
+OL,12,Fcyber-security alert.
+OL,14,FThe vulnerabilities lie within a
+OL,15,Fprogramming language called PHP, which
+OL,16,Fhas been used internationally since the
+OL,17,F2000s to build websites.
+OL,23,APub: 22-OctQppppppppppppppppppppppG5/20
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792655645
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhat is PHP and why did it spark a
+OL,4,Aglobal cyber-security scramble?
+OL,5,
+OL,6,FGovernments and cyber-security agencies
+OL,7,Faround the world are scrambling to
+OL,8,Fcontain the fallout of the discovery on
+OL,9,FWednesday, and have urged website
+OL,10,Foperators to install a new emergency
+OL,11,Ffix or consider taking their platforms
+OL,12,Foffline.
 OL,23,APub: 22-OctQppppppppppppppppppppppG6/20
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,108,105,200,160,0,100
@@ -142,7 +142,7 @@ PN,11907
 SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ATrump's green card curbs test Indian
@@ -164,7 +164,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ATrump's green card curbs test Indian
@@ -185,7 +185,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ATrump's green card curbs test Indian
@@ -207,7 +207,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -236,7 +236,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AThe four locations in the running to be
@@ -262,7 +262,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AThe four locations in the running to be
@@ -279,7 +279,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ADame Judi Dench: 'I can't do a play, a
@@ -290,16 +290,16 @@ OL,7,Fsays her eye condition has left her
 OL,8,Funable to perform on stage or read,
 OL,9,Fmore than a decade after she was
 OL,10,Fdiagnosed.
-OL,12,FDench was diagnosed with age-related
-OL,13,Fmacular degeneration (AMD) in 2012, a
-OL,14,Fcondition that affects her vision and
-OL,15,Fhas made it incredibly difficult to
-OL,16,Feven recognise faces.
+OL,12,FDame Judi was diagnosed with
+OL,13,Fage-related macular degeneration (AMD)
+OL,14,Fin 2012, a condition that affects her
+OL,15,Fvision and has made it incredibly
+OL,16,Fdifficult to even recognise faces.
 OL,18,FSpeaking to Emma Barnett on BBC Radio
 OL,19,F4's Today programme, she said: "I can't
-OL,20,Fbe on stage. I can't do a play anymore.
-OL,21,FI can't do a film anymore. I can't read
-OL,22,Fanymore."
+OL,20,Fbe on stage. I can't do a play any
+OL,21,Fmore. I can't do a film any more. I
+OL,22,Fcan't read any more."
 OL,23,APub: 22-OctQpppppppppppppppppppppG13/20
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
@@ -307,7 +307,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ADame Judi Dench: 'I can't do a play, a
@@ -325,7 +325,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ADon't Stop Believin'! - high school
@@ -352,7 +352,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ADon't Stop Believin'! - high school
@@ -368,7 +368,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
@@ -396,7 +396,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CThursday
@@ -424,7 +424,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
@@ -451,7 +451,7 @@ PN,11920
 SC,0020
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792653845
+OL,0,        ECIMSBWebfax 2   F119A1792655645
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CThursday
