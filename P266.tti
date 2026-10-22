@@ -1,23 +1,48 @@
-PN,26600
-SC,0000
+PN,26601
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F266A1792680551
+PS,c008
+OL,0,        ECIMSBWebfax 2   F266A1792682350
 OL,1,Vzssssss{0Ww;js%7+ j j{jkj+j{jsjzjj;js
 OL,2,Vupp=wfff5W-.*,%-. *,*****.**(.******,V(
 OL,3,V}yyy5CThursday
-OL,5,G1400 Nishma Hindocha
-OL,6,G1800 Sport
-OL,7,     FCoverage of the day's local sport
-OL,8,     Faction
-OL,9,G1900 Upload
-OL,10,G2000 BBC Introducing
-OL,11,     FUnsigned, undiscovered and under
-OL,12,     Fthe radar music
-OL,13,G2200 The Late Show
-OL,14,G0100 As Radio 5 Live
-OL,15,     FA simulcast with the BBC's news
-OL,16,     Fand sport network Radio 5 Live
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,5,G1400 Nishma Hindocha on BBC Radio
+OL,6,G     Lancashire
+OL,7,     FTrusted local news, information
+OL,8,     Fand advice, and great music for
+OL,9,     Fyour afternoon.
+OL,10,G1800 Lancashire Sport
+OL,11,     FDaily sports coverage bringing you
+OL,12,     Fthe latest news affecting your
+OL,13,     Fclub and our county.
+OL,14,G1900 Upload with Joel Mitchell
+OL,15,     FJoel meets the comedian who's
+OL,16,     Fputting on comedy in a car park!
+OL,17,G2000 BBC Introducing - Lancashire &
+OL,18,G     Cumbria
+OL,19,     FFay Corkin shares the best
+OL,20,     Funder-the-radar local musical
+OL,21,     Ftalent.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,267,250,301,140,0,100
+PN,26602
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F266A1792682350
+OL,1,Vzssssss{0Ww;js%7+ j j{jkj+j{jsjzjj;js
+OL,2,Vupp=wfff5W-.*,%-. *,*****.**(.******,V(
+OL,3,V}yyy5CThursday
+OL,5,G2200 The Late Show
+OL,6,     FBecky Want with late-night
+OL,7,     Fconversation, amazing stories and
+OL,8,     Fthe soundtrack to your night.
+OL,9,G0100 Weekday overnights with BBC Radio
+OL,10,G     5 Live
+OL,11,     FLocal BBC Radio joins BBC Radio 5
+OL,12,     FLive through the night on a
+OL,13,     Fweekday.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,267,250,301,140,0,100
