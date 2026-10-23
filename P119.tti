@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,27 +24,27 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106F'It's been relentless' say IT
-OL,6,Fworkers on frontline of PHP
-OL,7,Fcyber-security scrambleA23-Oct
-OL,8,G
-OL,9,G107FThe Indian workers filming their
-OL,10,Fwork to train AIA23-Oct
+OL,5,G106FWhat is PHP and why did it spark a
+OL,6,Fglobal cyber-security scramble?A22-Oct
+OL,7,G
+OL,8,G107F'It's been relentless' say IT
+OL,9,Fworkers on frontline of PHP
+OL,10,Fcyber-security scrambleA23-Oct
 OL,11,G
-OL,12,G108FZuckerberg wins Meta deal to help
-OL,13,Fhim foot bill for possible California
-OL,14,Fbillionaire taxA22-Oct
-OL,15,G
-OL,16,G109FRace to update services' computer
-OL,17,Fsystems after cyber-security flaw found
-OL,18,A22-Oct
-OL,19,G
-OL,20,G110FWhat is PHP and why did it spark a
-OL,21,Fglobal cyber-security scramble?A22-Oct
+OL,12,G108FThe Indian workers filming their
+OL,13,Fwork to train AIA23-Oct
+OL,14,G
+OL,15,G109FZuckerberg wins Meta deal to help
+OL,16,Fhim foot bill for possible California
+OL,17,Fbillionaire taxA22-Oct
+OL,18,G
+OL,19,G110FRace to update services' computer
+OL,20,Fsystems after cyber-security flaw found
+OL,21,A22-Oct
 OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
@@ -53,7 +53,50 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhat is PHP and why did it spark a
+OL,4,Aglobal cyber-security scramble?
+OL,5,
+OL,6,FFor more than a decade, serious flaws
+OL,7,Fhad gone undetected in the technology
+OL,8,Funderpinning much of the internet.
+OL,10,FIt took AI to bring them to light and
+OL,11,Fcaused a global cyber-security alert.
+OL,13,FResearchers who helped surface the
+OL,14,Fvulnerabilities in PHP - a popular
+OL,15,Fserver-side programming language used
+OL,16,Fin web development for decades - warned
+OL,17,Fplatforms which use it could be exposed
+OL,18,Fto potential hacks.
+OL,23,APub: 22-OctQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792760052
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhat is PHP and why did it spark a
+OL,4,Aglobal cyber-security scramble?
+OL,5,
+OL,6,FGovernments and cyber-security agencies
+OL,7,Frushed to contain the fallout, urging
+OL,8,Fwebsite owners to check if their sites
+OL,9,Fwere affected and, if so, install
+OL,10,Fupdates to patch the issue or consider
+OL,11,Fgoing offline.
+OL,23,APub: 22-OctQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,A'It's been relentless' say IT workers
@@ -69,14 +112,14 @@ OL,13,Fin millions of websites, he told a
 OL,14,Fconference "it was a long day and a
 OL,15,Flong night, I know, for all the IT and
 OL,16,Fsecurity folks".
-OL,23,APub: 23-OctQppppppppppppppppppppppG3/19
+OL,23,APub: 23-OctQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,A'It's been relentless' say IT workers
@@ -92,14 +135,14 @@ OL,12,FBut also highlight how misinformation
 OL,13,Fand panic has made things a lot worse.
 OL,15,F"It's been relentless," says UK-based
 OL,16,Fsystem administrator Adam Mudd.
-OL,23,APub: 23-OctQppppppppppppppppppppppG4/19
+OL,23,APub: 23-OctQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AThe Indian workers filming their work
@@ -114,14 +157,14 @@ OL,12,Frecord his work.
 OL,14,FThe camera only records his hands and
 OL,15,Ffingers - his client's faces are
 OL,16,Fblurred out.
-OL,23,APub: 23-OctQppppppppppppppppppppppG5/19
+OL,23,APub: 23-OctQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AThe Indian workers filming their work
@@ -134,63 +177,14 @@ OL,9,Falways have to stay cleanly inside the
 OL,10,Fframe, the lighting has to be sharp,
 OL,11,Fand I can't tilt my head too abruptly
 OL,12,Fwhile working."
-OL,23,APub: 23-OctQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AZuckerberg wins Meta deal to help him
-OL,4,Afoot bill for possible California
-OL,5,Abillionaire tax
-OL,6,
-OL,7,FMeta has agreed to a new deal with
-OL,8,Fchief executive Mark Zuckerberg to
-OL,9,Fprevent him from leaving California
-OL,10,Fover a proposed state tax on
-OL,11,Fbillionaires.
-OL,13,FThe agreement gives Zuckerberg, whose
-OL,14,Fwealth is estimated to exceed $200bn
-OL,15,F(#149bn), even more shares in Meta to
-OL,16,Fmake up for the fraction of his fortune
-OL,17,Fhe may lose if the tax wins voter
-OL,18,Fapproval in November.
-OL,23,APub: 22-OctQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AZuckerberg wins Meta deal to help him
-OL,4,Afoot bill for possible California
-OL,5,Abillionaire tax
-OL,6,
-OL,7,FThe measure would impose a one-time 5%
-OL,8,Ftax on residents with a net worth of
-OL,9,Fmore than $1bn. It would likely see the
-OL,10,FFacebook co-founder pay around $10bn in
-OL,11,Fadditional state taxes.
-OL,13,FHe secured the deal with a special
-OL,14,Fcommittee of Meta after "robust" and
-OL,15,F"at several points, contentious"
-OL,16,Fnegotiations, according to a Wednesday
-OL,17,Ffinancial disclosure.
-OL,23,APub: 22-OctQppppppppppppppppppppppG8/19
+OL,23,APub: 23-OctQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
 PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -219,7 +213,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AFinal James Bond screen tests to take
@@ -245,7 +239,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AFinal James Bond screen tests to take
@@ -264,7 +258,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ACelebrity Traitors - paranoia deepens
@@ -288,7 +282,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ACelebrity Traitors - paranoia deepens
@@ -307,7 +301,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AUS actor Tom Skerritt, star of Top Gun,
@@ -331,7 +325,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AUS actor Tom Skerritt, star of Top Gun,
@@ -354,7 +348,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
@@ -383,7 +377,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CFriday
@@ -410,7 +404,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday
@@ -436,7 +430,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1792759709
+OL,0,        ECIMSBWebfax 2   F119A1792760052
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CFriday
