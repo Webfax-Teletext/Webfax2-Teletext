@@ -1,44 +1,29 @@
-PN,25201
-SC,0001
+PN,25200
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F252A1792860500
+PS,8008
+OL,0,        ECIMSBWebfax 2   F252A1792867702
 OL,1,Vzssssss{0Ww;js%7+ j;j;jjs"7jkj
 OL,2,Vupp=wfff5W-.*,%-. *.***(. %*.*,V(,,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1730 BBC Radio Bristol Sport
-OL,6,     FPrem Rugby coverage of Bristol
-OL,7,     FBears v Exeter Chiefs. Kick-off at
-OL,8,     F7.45pm.
-OL,9,G1930 BBC Radio Bristol Sport:
-OL,10,G     Post-match
-OL,11,     FAll the post-match reaction and
-OL,12,     Finterviews from your local team.
-OL,13,     FCall 08000 855 949.
-OL,14,G2000 BBC Introducing - The West
-OL,15,     FJack Woolcomb sits in for James,
-OL,16,     Fbringing the best in new music
-OL,17,     Ffrom the West.
-OL,18,G2200 Late Night Jo
-OL,19,     FKath with late-night conversation,
-OL,20,     Famazing stories and the soundtrack
-OL,21,     Fto your night.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,253,250,301,140,0,100
-PN,25202
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F252A1792860500
-OL,1,Vzssssss{0Ww;js%7+ j;j;jjs"7jkj
-OL,2,Vupp=wfff5W-.*,%-. *.***(. %*.*,V(,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1930 BBC Radio Bristol Sport:
+OL,6,G     Post-match
+OL,7,     FAll the post-match reaction and
+OL,8,     Finterviews from your local team.
+OL,9,     FCall 08000 855 949.
+OL,10,G2000 BBC Introducing - The West
+OL,11,     FJack Woolcomb sits in for James,
+OL,12,     Fbringing the best in new music
+OL,13,     Ffrom the West.
+OL,14,G2200 Late Night Jo
+OL,15,     FKath with late-night conversation,
+OL,16,     Famazing stories and the soundtrack
+OL,17,     Fto your night.
+OL,18,G0100 Weekend overnights with BBC Radio
+OL,19,G     5 Live
+OL,20,     FLocal BBC Radio joins BBC Radio 5
+OL,21,     FLive through the night on a
+OL,22,     Fweekend.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,253,250,301,140,0,100
