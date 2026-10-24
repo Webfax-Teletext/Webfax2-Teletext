@@ -1,16 +1,79 @@
-PN,29100
-SC,0000
+PN,29101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F291A1792801154
+PS,c008
+OL,0,        ECIMSBWebfax 2   F291A1792819204
 OL,1,Vzssssss{0Ww;js%7+ jzjkj;j:
 OL,2,Vupp=wfff5W-.*,%-. (.*.****V(,,,,,,,,,,,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSaturday
+OL,5,G0600 Kat Cowan on BBC Radio York
+OL,6,     FKat kicks off your weekend off
+OL,7,     Fwith stories and laughs, music and
+OL,8,     Fconversation.
+OL,9,G1000 Colson Smith on BBC Radio York
+OL,10,     FThe latest on big events, great
+OL,11,     Fstories and all the music you
+OL,12,     Flove.
+OL,13,G1200 BBC Radio York Sport: Pre-match
+OL,14,     FBuild-up and all the interviews
+OL,15,     Fahead of Harrogate Town v Sutton
+OL,16,     FUnited.
+OL,17,G1230 BBC Radio York Sport: Commentary
+OL,18,     FCoverage of Harrogate Town v
+OL,19,     FSutton United in the National
+OL,20,     FLeague. Kick-off at 12.30pm.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,300,250,301,140,0,100
+PN,29102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F291A1792819204
+OL,1,Vzssssss{0Ww;js%7+ jzjkj;j:
+OL,2,Vupp=wfff5W-.*,%-. (.*.****V(,,,,,,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1430 BBC Radio York Sport: Pre-match
+OL,6,     FBuild-up and all the interviews
+OL,7,     Fahead of York City's and
+OL,8,     FScarborough Athletic's matches.
+OL,9,G1500 BBC Radio York Sport: Commentary
+OL,10,     FCoverage of Scarborough Athletic v
+OL,11,     FBedford Town in National League
+OL,12,     FNorth. Kick-off at 3pm.
+OL,13,G1700 BBC Radio York Sport: Post-match
+OL,14,     FMatch reports, results and
+OL,15,     Freaction following today's games.
+OL,16,     FText 81333 (start with York).
+OL,17,G1800 Upload with Hannah
+OL,18,G     Sackville-Bryant
+OL,19,     FOriginal comedy, podcasts, poetry,
+OL,20,     Ffiction and more on BBC Upload.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,300,250,301,140,0,100
+PN,29103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F291A1792819204
+OL,1,Vzssssss{0Ww;js%7+ jzjkj;j:
+OL,2,Vupp=wfff5W-.*,%-. (.*.****V(,,,,,,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G2000 BBC Introducing - York &
+OL,6,G     Humberside
+OL,7,     FThe best in unsigned music and
+OL,8,     Fup-and-coming artists from York
+OL,9,     Fand Humberside.
+OL,10,G2200 Late Night Jo
+OL,11,     FKath with late-night conversation,
+OL,12,     Famazing stories and the soundtrack
+OL,13,     Fto your night.
+OL,14,G0100 Weekend overnights with BBC Radio
+OL,15,G     5 Live
+OL,16,     FLocal BBC Radio joins BBC Radio 5
+OL,17,     FLive through the night on a
+OL,18,     Fweekend.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,300,250,301,140,0,100
