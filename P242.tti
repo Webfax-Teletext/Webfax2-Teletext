@@ -2,10 +2,10 @@ PN,24201
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1792909204
+OL,0,        ECIMSBWebfax 2   F242A1792995615
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G0530 John Hardy
 OL,6,     FCerddoriaeth a chwmniaeth ben
 OL,7,     Fbore, gyda bwletinau newyddion,
@@ -15,10 +15,10 @@ OL,10,     Fyn ogystal a golwg ar y papurau.
 OL,11,     FEarly breakfast show.
 OL,12,G0700 Dros Frecwast
 OL,13,     FY newyddion diweddaraf yng Nghymru
-OL,14,     Fa thu hwnt, gyda Dafydd Morgan ac
-OL,15,     FAlun Thomas. The latest news in
+OL,14,     Fa thu hwnt, gyda Cennydd Davies a
+OL,15,     FDafydd Morgan. The latest news in
 OL,16,     FWales and beyond, presented by
-OL,17,     FDafydd Morgan and Alun Thomas.
+OL,17,     FCennydd Davies and Dafydd Morgan.
 OL,18,G0900 Aled Hughes
 OL,19,     FStraeon cyfredol, cerddoriaeth, a
 OL,20,     Fholi'r cwestiynau sydd ar feddwl
@@ -30,10 +30,10 @@ PN,24202
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1792909204
+OL,0,        ECIMSBWebfax 2   F242A1792995615
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G1100 Bore Cothi
 OL,6,     FCroeso cynnes dros baned gyda Shan
 OL,7,     FCothi. A warm welcome over a cuppa
@@ -59,27 +59,25 @@ PN,24203
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1792909204
+OL,0,        ECIMSBWebfax 2   F242A1792995615
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CMonday
-OL,5,G1800 Llwyfan gyda Manon Steffan Ros
-OL,6,     FManon Steffan Ros a'i gwesteion yn
-OL,7,     Ftrafod y byd celfyddydol yn ei
-OL,8,     Fholl amrywiaeth yng Nghymru a thu
-OL,9,     Fhwnt. A look at the arts scene in
-OL,10,     FWales and beyond with Manon
-OL,11,     FSteffan Ros.
-OL,12,G1900 Rhys Mwyn
-OL,13,     FMartha a Jona Owen sy'n son am
-OL,14,     Fhyrwyddo gigs Cymraeg drwy ap
-OL,15,     FAwni. Martha and Jona Owen chat
-OL,16,     Fabout promoting Welsh language
-OL,17,     Fgigs through their new app, Awni.
-OL,18,G2100 Caryl
-OL,19,     FCerddoriaeth a hwyl gyda'r hwyr
-OL,20,     Fgyda Caryl Parry Jones. Music and
-OL,21,     Ffun with Caryl Parry Jones.
+OL,3,V}yyy5CTuesday
+OL,5,G1800 Dei Tomos
+OL,6,     FGolwg ar gyfansoddiadau llenyddol
+OL,7,     FEisteddfod Genedlaethol Y Garreg
+OL,8,     FLas 2026. Reviewing the literary
+OL,9,     Fcompositions from this year's
+OL,10,     FNational Eisteddfod.
+OL,11,G1900 Georgia Ruth
+OL,12,     FWrth ryddhau ei halbym solo
+OL,13,     Fcyntaf, Gwenllian Anthony sy'n
+OL,14,     Ftrafod rhyddid creadigol newydd.
+OL,15,     FAn eclectic selection of music.
+OL,16,G2100 Caryl
+OL,17,     FCerddoriaeth a hwyl gyda'r hwyr
+OL,18,     Fgyda Caryl Parry Jones. Music and
+OL,19,     Ffun with Caryl Parry Jones.
 OL,23,VppppppppppppppppppppppppppppppppppG3/4
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,243,200,300,120,0,100
@@ -87,10 +85,10 @@ PN,24204
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F242A1792909204
+OL,0,        ECIMSBWebfax 2   F242A1792995615
 OL,1,Vzssssss{0Ww;js%7+ j#%uzj#7kjs%5j
 OL,2,Vupp=wfff5W-.*,%-. *,%,.* %** %-.V(,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G2300 Y Clwb PJs
 OL,6,     FYmunwch a Caryl i ymlacio wrth
 OL,7,     Fwrando ar gerddoriaeth hudolus cyn

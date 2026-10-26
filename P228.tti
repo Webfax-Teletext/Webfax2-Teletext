@@ -2,17 +2,17 @@ PN,22801
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F228A1792909204
+OL,0,        ECIMSBWebfax 2   F228A1792995615
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G0030 Through the Night
-OL,6,     FConcerto Copenhagen with director
-OL,7,     Fand harpsichordist Lars Ulrik
-OL,8,     FMortensen and vocalist Marc
-OL,9,     FMauillon perform music by Rore,
-OL,10,     FMarini, Strozzi, Peri, Castello,
-OL,11,     FCaccini and Monteverdi.
+OL,6,     FCristian Macelaru conducts the WDR
+OL,7,     FSymphony Orchestra, Cologne with
+OL,8,     Fsoloists Jamie Barton, John Findon
+OL,9,     Fand Derek Walton, with the WDR
+OL,10,     FRadio Choir and Berlin Radio
+OL,11,     FChoir.
 OL,12,G0630 Breakfast
 OL,13,     FAl Ryan presents Radio 3's
 OL,14,     FBreakfast show. To get in touch,
@@ -29,25 +29,27 @@ PN,22802
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F228A1792909204
+OL,0,        ECIMSBWebfax 2   F228A1792995615
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G1300 Classical Live
-OL,6,     FThe Orsino Ensemble play wind
-OL,7,     Fmusic by Barber, Nielsen and a UK
-OL,8,     Fpremiere of Mark Simpson's The
-OL,9,     FDictionary of Obscure Sorrows.
-OL,10,     FPlus, Gabriela Montero's 'Latin
-OL,11,     FConcerto'.
-OL,12,G1600 Composer of the Week: Clara
-OL,13,G     Schumann and her Circle
-OL,14,     FDonald Macleod meets the friends
-OL,15,     F(and foes) of composer Clara
-OL,16,     FSchumann. Today, we hear how her
-OL,17,     Fhusband Robert was entranced from
-OL,18,     Fthe moment he first heard her
-OL,19,     Fplay.
+OL,6,     FGemma New conducts the BBC
+OL,7,     FPhilharmonic Orchestra in
+OL,8,     FSibelius's 2nd Symphony plus
+OL,9,     Fchamber music from the New Ross
+OL,10,     FPiano Festival in Ireland.
+OL,11,G1600 Composer of the Week: Clara
+OL,12,G     Schumann and her Circle
+OL,13,     FDonald Macleod meets the friends
+OL,14,     F(and foes) of composer Clara
+OL,15,     FSchumann. Today, her peer and
+OL,16,     Ffierce rival: Franz Liszt.
+OL,17,G1700 In Tune
+OL,18,     FKatie introduces live music from
+OL,19,     Ftwo star performers - Theotime
+OL,20,     FLanglois de Swarte and Jasdeep
+OL,21,     FSingh Degun.
 OL,23,VppppppppppppppppppppppppppppppppppG2/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,229,200,300,120,0,100
@@ -55,26 +57,26 @@ PN,22803
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F228A1792909204
+OL,0,        ECIMSBWebfax 2   F228A1792995615
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CMonday
-OL,5,G1700 In Tune
-OL,6,     FCharles Owen and Katya Apekisheva
-OL,7,     Fon the London piano festival.
-OL,8,     FJames Baillieu on his appointment
-OL,9,     Fas Artistic Director of the Two
-OL,10,     FMoors Festival from 2028.
-OL,11,G1900 Classical Mixtape
-OL,12,     FTake time out with a 30-minute
-OL,13,     Fsoundscape of classical
-OL,14,     Ffavourites.
-OL,15,G1930 Radio 3 in Concert
-OL,16,     FThe celebrated Italian pianist
-OL,17,     FBeatrice Rana performs works by
-OL,18,     FDebussy, Prokofiev and Tchaikovsky
-OL,19,     Fin a recital from the Sala
-OL,20,     FSinopoli in Rome.
+OL,3,V}yyy5CTuesday
+OL,5,G1900 Classical Mixtape
+OL,6,     FTake time out with a 30-minute
+OL,7,     Fsoundscape of classical music.
+OL,8,G1930 Radio 3 in Concert
+OL,9,     FAdam Hickox conducts the Royal
+OL,10,     FLiverpool Philharmonic Orchestra
+OL,11,     Fin a concert that features
+OL,12,     FStravinsky's groundbreaking ballet
+OL,13,     FThe Rite of Spring and a new work
+OL,14,     Fby Gavin Higgins.
+OL,15,G2145 The Essay: Solo
+OL,16,     FA soloist prepares to play a
+OL,17,     Fcelebrated piece of classical
+OL,18,     Frepertoire. Guitarist Sean Shibe
+OL,19,     Frehearses Rodrigo's Three Spanish
+OL,20,     FPieces.
 OL,23,VppppppppppppppppppppppppppppppppppG3/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,229,200,300,120,0,100
@@ -82,27 +84,23 @@ PN,22804
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F228A1792909204
+OL,0,        ECIMSBWebfax 2   F228A1792995615
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CMonday
-OL,5,G2145 The Essay: Solo
-OL,6,     FFive musicians offer an intimate,
-OL,7,     Fsoloist's-eye-view of some of
-OL,8,     Fclassical music's masterpieces.
-OL,9,G2200 Night Tracks
-OL,10,     FSara Mohr-Pietsch presents an
-OL,11,     Fadventurous, immersive soundtrack
-OL,12,     Ffor late-night listening, from
-OL,13,     Fclassical to contemporary and
-OL,14,     Feverything in between.
-OL,15,G2330 'Round Midnight
-OL,16,     FBroadcaster, jazz singer and actor
-OL,17,     FJumoke Fashola is sitting in for
-OL,18,     FSoweto Kinch this week, and
-OL,19,     Ftonight she welcomes her Flowers
-OL,20,     Fguest, cellist and singer Ayanna
-OL,21,     FWitter-Johnson.
+OL,3,V}yyy5CTuesday
+OL,5,G2200 Night Tracks
+OL,6,     FSara Mohr-Pietsch presents an
+OL,7,     Fadventurous, immersive soundtrack
+OL,8,     Ffor late-night listening, from
+OL,9,     Fclassical to contemporary and
+OL,10,     Feverything in between.
+OL,11,G2330 'Round Midnight
+OL,12,     FJumoke Fashola, sitting in for
+OL,13,     FSoweto Kinch, is back with another
+OL,14,     Fhour of the best in jazz, and her
+OL,15,     FFlowers guest Ayanna
+OL,16,     FWitter-Johnson has another
+OL,17,     Ffavourite artist to share.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,229,200,300,120,0,100
@@ -110,17 +108,17 @@ PN,22805
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F228A1792909204
+OL,0,        ECIMSBWebfax 2   F228A1792995615
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CMonday
+OL,3,V}yyy5CTuesday
 OL,5,G0030 Through the Night
-OL,6,     FCristian Macelaru conducts the WDR
-OL,7,     FSymphony Orchestra, Cologne with
-OL,8,     Fsoloists Jamie Barton, John Findon
-OL,9,     Fand Derek Walton, with the WDR
-OL,10,     FRadio Choir and Berlin Radio
-OL,11,     FChoir.
+OL,6,     FViolinist Leila Josefowicz with
+OL,7,     Fthe Berlin Radio Symphony
+OL,8,     FOrchestra in Stravinsky's
+OL,9,     Fconcerto. Also performed are Helix
+OL,10,     Fby Esa-Pekka Salonen and
+OL,11,     FTchaikovsky's Fourth Symphony.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,229,200,300,120,0,100
