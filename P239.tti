@@ -2,10 +2,10 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1792995616
+OL,0,        ECIMSBWebfax 2   F239A1793082003
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G0600 Radio Scotland Breakfast
 OL,6,     FNews from across Scotland and the
 OL,7,     Fworld, plus sport, weather,
@@ -19,9 +19,6 @@ OL,14,G1200 Lunchtime Live
 OL,15,     FNews updates from Scotland and
 OL,16,     Fbeyond, plus all your lunchtime
 OL,17,     Fsport, travel and weather.
-OL,18,G1330 Radio Scotland Afternoons
-OL,19,     FThe best music, guests and arts
-OL,20,     Fcoverage.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -29,27 +26,27 @@ PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1792995616
+OL,0,        ECIMSBWebfax 2   F239A1793082003
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CTuesday
-OL,5,G1600 Drivetime
-OL,6,     FBreaking down the day's talking
-OL,7,     Fpoints with comment and opinion,
-OL,8,     Fplus sport, travel and weather.
-OL,9,G1800 Get It On with Bryan Burnett
-OL,10,     FIt's the songs that are all about
-OL,11,     Fhaving the confidence to show your
-OL,12,     Ftrue colours. Madonna expressed
-OL,13,     Fherself, and George Benson found
-OL,14,     Fthe greatest love of all.
-OL,15,G2000 Another Country with Ricky Ross
-OL,16,     FRicky explores the songbook of
-OL,17,     FLori McKenna. As well as being an
-OL,18,     Fartist in her own right, Lori's
-OL,19,     Fsongs have been recorded by Little
-OL,20,     FBig Town, Tim McGraw, George
-OL,21,     FStrait and more.
+OL,3,V}yyy5CWednesday
+OL,5,G1330 Radio Scotland Afternoons
+OL,6,     FGrant Stott welcomes well known
+OL,7,     Fand emerging Scottish artists for
+OL,8,     Fa live music session where they
+OL,9,     Fperform three tracks showcasing
+OL,10,     Ftheir music.
+OL,11,G1600 Drivetime
+OL,12,     FBreaking down the day's talking
+OL,13,     Fpoints with comment and opinion,
+OL,14,     Fplus sport, travel and weather.
+OL,15,G1800 Sportsound
+OL,16,     FLive Premiership football action
+OL,17,     Fin Open All Mics.
+OL,18,G1945 Sportsound
+OL,19,     FLive football commentary of Hearts
+OL,20,     Fv Rangers in the Scottish
+OL,21,     FPremiership.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
@@ -57,22 +54,25 @@ PN,23903
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1792995616
+OL,0,        ECIMSBWebfax 2   F239A1793082003
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CTuesday
-OL,5,G2200 Up Late
-OL,6,     FThe best company to end the day,
-OL,7,     Fwith lively chat and some of your
-OL,8,     Ffavourite tunes.
-OL,9,G0000 Scotcast
-OL,10,     FMartin Geissler and the team bring
-OL,11,     Fyou thoughtful conversation and
-OL,12,     Fexpert analysis covering the most
-OL,13,     Finteresting news stories in
-OL,14,     FScotland.
-OL,15,G0030 As BBC Radio 5 Live
-OL,16,     FJoining Radio 5 Live.
+OL,3,V}yyy5CWednesday
+OL,5,G2200 Sportsound
+OL,6,     FLive Premiership football action
+OL,7,     Fin Open All Mics.
+OL,8,G2230 Up Late
+OL,9,     FThe best company to end the day,
+OL,10,     Fwith lively chat and some of your
+OL,11,     Ffavourite tunes.
+OL,12,G0000 Scotcast
+OL,13,     FMartin Geissler and the team bring
+OL,14,     Fyou thoughtful conversation and
+OL,15,     Fexpert analysis covering the most
+OL,16,     Finteresting news stories in
+OL,17,     FScotland.
+OL,18,G0030 As BBC Radio 5 Live
+OL,19,     FJoining Radio 5 Live.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
