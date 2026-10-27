@@ -2,61 +2,36 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G1206 Outlook
-OL,6,     FTrue stories of ordinary people
-OL,7,     Fand the extraordinary events that
-OL,8,     Fhave shaped their lives.
-OL,9,G1250 Witness History
-OL,10,     FIn 1989, the Berlin Wall fell and
-OL,11,     FGermany had to decide which city
-OL,12,     Fwould be its new capital. The
-OL,13,     Fcontenders were the West German
-OL,14,     Fcity of Bonn and the East German
-OL,15,     Fcity of Berlin.
-OL,16,G1300 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
-OL,19,G1306 The Newsroom
-OL,20,     FThe world's Newsroom brings you
-OL,21,     Fglobal events as they happen.
-OL,23,VppppppppppppppppppppppppppppppppppG1/13
+OL,5,G1306 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G1330 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G1332 In the Studio
+OL,12,     FNeil McCarthy meets Japanese
+OL,13,     Fartist Yuko Mohri.
+OL,14,G1400 BBC News
+OL,15,     FThe latest five minute news
+OL,16,     Fbulletin from BBC World Service.
+OL,17,G1406 Newshour
+OL,18,     FInterviews, news and analysis of
+OL,19,     Fthe day's global events.
+OL,20,G1500 BBC News
+OL,21,     FThe latest five minute news
+OL,22,     Fbulletin from BBC World Service.
+OL,23,VppppppppppppppppppppppppppppppppppG1/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CTuesday
-OL,5,G1330 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G1332 In the Studio
-OL,9,     FNeil McCarthy meets Japanese
-OL,10,     Fartist Yuko Mohri.
-OL,11,G1400 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G1406 Newshour
-OL,15,     FInterviews, news and analysis of
-OL,16,     Fthe day's global events.
-OL,17,G1500 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG2/13
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -78,14 +53,14 @@ OL,19,G1550 World Business Express
 OL,20,     FFinance, economy and business news
 OL,21,     Ffrom BBC journalists around the
 OL,22,     Fworld.
-OL,23,VppppppppppppppppppppppppppppppppppG3/13
+OL,23,VppppppppppppppppppppppppppppppppppG2/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21104
-SC,0004
+PN,21103
+SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -106,205 +81,211 @@ OL,18,     Freaction from those involved.
 OL,19,G1800 BBC News
 OL,20,     FThe latest five minute news
 OL,21,     Fbulletin from BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG4/13
+OL,23,VppppppppppppppppppppppppppppppppppG3/12
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,212,200,300,120,0,100
+PN,21104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F211A1793107133
+OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
+OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
+OL,3,V}yyy5CTuesday
+OL,5,G1806 Outlook
+OL,6,     FThe search is called off after
+OL,7,     FMick Doleman's ship sinks.
+OL,8,     FPresumed dead, he spends 11 days
+OL,9,     Ffighting to get home to the girl
+OL,10,     Fhe loves.
+OL,11,G1850 Witness History
+OL,12,     FIn 1989, the Berlin Wall fell and
+OL,13,     FGermany had to decide which city
+OL,14,     Fwould be its new capital. The
+OL,15,     Fcontenders were the West German
+OL,16,     Fcity of Bonn and the East German
+OL,17,     Fcity of Berlin.
+OL,18,G1900 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
+OL,23,VppppppppppppppppppppppppppppppppppG4/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G1806 Outlook
-OL,6,     FTrue stories of ordinary people
-OL,7,     Fand the extraordinary events that
-OL,8,     Fhave shaped their lives.
-OL,9,G1850 Witness History
-OL,10,     FIn 1989, the Berlin Wall fell and
-OL,11,     FGermany had to decide which city
-OL,12,     Fwould be its new capital. The
-OL,13,     Fcontenders were the West German
-OL,14,     Fcity of Bonn and the East German
-OL,15,     Fcity of Berlin.
-OL,16,G1900 BBC News
+OL,5,G1906 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G1930 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G1932 Sport Today
+OL,12,     FBBC sports correspondents tell the
+OL,13,     Fstory behind today's top sporting
+OL,14,     Fnews, with interviews and reports
+OL,15,     Ffrom across the world.
+OL,16,G2000 BBC News
 OL,17,     FThe latest five minute news
 OL,18,     Fbulletin from BBC World Service.
-OL,19,G1906 The Newsroom
-OL,20,     FThe world's Newsroom brings you
-OL,21,     Fglobal events as they happen.
-OL,23,VppppppppppppppppppppppppppppppppppG5/13
+OL,19,G2006 Assignment
+OL,20,     FThe story of Jan and Els who chose
+OL,21,     Feuthanasia, and died together in
+OL,22,     Fthe Netherlands.
+OL,23,VppppppppppppppppppppppppppppppppppG5/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G1930 BBC News Summary
+OL,5,G2030 BBC News Summary
 OL,6,     FThe latest two minute news summary
 OL,7,     Ffrom BBC World Service.
-OL,8,G1932 Sport Today
-OL,9,     FBBC sports correspondents tell the
-OL,10,     Fstory behind today's top sporting
-OL,11,     Fnews, with interviews and reports
-OL,12,     Ffrom across the world.
-OL,13,G2000 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G2006 Assignment
-OL,17,     FThe story of Jan and Els who chose
-OL,18,     Feuthanasia, and died together in
-OL,19,     Fthe Netherlands.
-OL,20,G2030 BBC News Summary
-OL,21,     FThe latest two minute news summary
-OL,22,     Ffrom BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG6/13
+OL,8,G2032 Tech Life
+OL,9,     FHow tech is transforming the way
+OL,10,     Fthe world works, learns and plays.
+OL,11,G2100 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G2106 Newshour
+OL,15,     FInterviews, news and analysis of
+OL,16,     Fthe day's global events.
+OL,17,G2200 BBC News
+OL,18,     FThe latest five minute news
+OL,19,     Fbulletin from BBC World Service.
+OL,20,G2206 The Newsroom
+OL,21,     FThe world's Newsroom brings you
+OL,22,     Fglobal events as they happen.
+OL,23,VppppppppppppppppppppppppppppppppppG6/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G2032 Tech Life
-OL,6,     FHow tech is transforming the way
-OL,7,     Fthe world works, learns and plays.
-OL,8,G2100 BBC News
-OL,9,     FThe latest five minute news
-OL,10,     Fbulletin from BBC World Service.
-OL,11,G2106 Newshour
-OL,12,     FInterviews, news and analysis of
-OL,13,     Fthe day's global events.
-OL,14,G2200 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G2206 The Newsroom
-OL,18,     FThe world's Newsroom brings you
-OL,19,     Fglobal events as they happen.
-OL,20,G2230 BBC News Summary
+OL,5,G2230 BBC News Summary
+OL,6,     FThe latest two minute news summary
+OL,7,     Ffrom BBC World Service.
+OL,8,G2232 World Business Report
+OL,9,     FThe latest business and finance
+OL,10,     Fnews from around the world, on the
+OL,11,     FBBC.
+OL,12,G2300 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G2306 People Fixing The World
+OL,16,     FHow one Colombian scientist and
+OL,17,     Fhis team are racing to protect
+OL,18,     Ficonic pink river dolpins as a
+OL,19,     Fpowerful El Nino approaches.
+OL,20,G2330 BBC News Summary
 OL,21,     FThe latest two minute news summary
 OL,22,     Ffrom BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG7/13
+OL,23,VppppppppppppppppppppppppppppppppppG7/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G2232 World Business Report
-OL,6,     FThe latest business and finance
-OL,7,     Fnews from around the world, on the
-OL,8,     FBBC.
-OL,9,G2300 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G2306 People Fixing The World
-OL,13,     FHow one Colombian scientist and
-OL,14,     Fhis team are racing to protect
-OL,15,     Ficonic pink river dolpins as a
-OL,16,     Fpowerful El Nino approaches.
-OL,17,G2330 BBC News Summary
-OL,18,     FThe latest two minute news summary
-OL,19,     Ffrom BBC World Service.
-OL,20,G2332 In the Studio
-OL,21,     FNeil McCarthy meets Japanese
-OL,22,     Fartist Yuko Mohri.
-OL,23,VppppppppppppppppppppppppppppppppppG8/13
+OL,5,G2332 In the Studio
+OL,6,     FNeil McCarthy meets Japanese
+OL,7,     Fartist Yuko Mohri.
+OL,8,G0000 BBC News
+OL,9,     FThe latest five minute news
+OL,10,     Fbulletin from BBC World Service.
+OL,11,G0006 The Arts Hour
+OL,12,     FNikki Bedi talks to the
+OL,13,     FTurkish-born author about In One
+OL,14,     FBrief Moment All Eternity, her new
+OL,15,     Fnovel exploring Gustave Flaubert,
+OL,16,     Fthe women in his life and the
+OL,17,     Fbirth of Madame Bovary.
+OL,18,G0100 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
+OL,23,VppppppppppppppppppppppppppppppppppG8/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0000 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0006 The Arts Hour
-OL,9,     FNikki Bedi talks to the
-OL,10,     FTurkish-born author about In One
-OL,11,     FBrief Moment All Eternity, her new
-OL,12,     Fnovel exploring Gustave Flaubert,
-OL,13,     Fthe women in his life and the
-OL,14,     Fbirth of Madame Bovary.
-OL,15,G0100 BBC News
+OL,5,G0106 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0130 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0132 The Global Story
+OL,12,     FA fierce election campaign ended
+OL,13,     Fin the defeat of another
+OL,14,     FBolsonaro.
+OL,15,G0200 BBC News
 OL,16,     FThe latest five minute news
 OL,17,     Fbulletin from BBC World Service.
-OL,18,G0106 The Newsroom
+OL,18,G0206 The Newsroom
 OL,19,     FThe world's Newsroom brings you
 OL,20,     Fglobal events as they happen.
-OL,23,VppppppppppppppppppppppppppppppppppG9/13
+OL,23,VppppppppppppppppppppppppppppppppppG9/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0130 BBC News Summary
+OL,5,G0230 BBC News Summary
 OL,6,     FThe latest two minute news summary
 OL,7,     Ffrom BBC World Service.
-OL,8,G0132 The Global Story
-OL,9,     F.
-OL,10,G0200 BBC News
-OL,11,     FThe latest five minute news
-OL,12,     Fbulletin from BBC World Service.
-OL,13,G0206 The Newsroom
-OL,14,     FThe world's Newsroom brings you
-OL,15,     Fglobal events as they happen.
-OL,16,G0230 BBC News Summary
-OL,17,     FThe latest two minute news summary
-OL,18,     Ffrom BBC World Service.
-OL,23,VpppppppppppppppppppppppppppppppppG10/13
+OL,8,G0232 The Climate Question
+OL,9,     FGraihagh Jackson talks to two
+OL,10,     Fdoctors from Malaysia and Egypt
+OL,11,     Fabout the challenges for the
+OL,12,     Fmedical sector from a warmer
+OL,13,     Fworld,.
+OL,14,G0300 BBC News
+OL,15,     FThe latest five minute news
+OL,16,     Fbulletin from BBC World Service.
+OL,17,G0306 Outlook
+OL,18,     FThe search is called off after
+OL,19,     FMick Doleman's ship sinks.
+OL,20,     FPresumed dead, he spends 11 days
+OL,21,     Ffighting to get home to the girl
+OL,22,     Fhe loves.
+OL,23,VpppppppppppppppppppppppppppppppppG10/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CTuesday
-OL,5,G0232 The Climate Question
-OL,6,     FGraihagh Jackson talks to two
-OL,7,     Fdoctors from Malaysia and Egypt
-OL,8,     Fabout the challenges for the
-OL,9,     Fmedical sector from a warmer
-OL,10,     Fworld,.
-OL,11,G0300 BBC News
-OL,12,     FThe latest five minute news
-OL,13,     Fbulletin from BBC World Service.
-OL,14,G0306 Outlook
-OL,15,     FTrue stories of ordinary people
-OL,16,     Fand the extraordinary events that
-OL,17,     Fhave shaped their lives.
-OL,23,VpppppppppppppppppppppppppppppppppG11/13
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21112
-SC,0012
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -324,14 +305,14 @@ OL,17,     Fglobal events as they happen.
 OL,18,G0430 BBC News Summary
 OL,19,     FThe latest two minute news summary
 OL,20,     Ffrom BBC World Service.
-OL,23,VpppppppppppppppppppppppppppppppppG12/13
+OL,23,VpppppppppppppppppppppppppppppppppG11/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
-PN,21113
-SC,0013
+PN,21112
+SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793103499
+OL,0,        ECIMSBWebfax 2   F211A1793107133
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
@@ -345,6 +326,6 @@ OL,11,     Fbulletin from BBC World Service.
 OL,12,G0506 Newsday
 OL,13,     FLive news, business and sport from
 OL,14,     Faround the world.
-OL,23,VpppppppppppppppppppppppppppppppppG13/13
+OL,23,VpppppppppppppppppppppppppppppppppG12/12
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
