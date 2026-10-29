@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1793301885
+OL,0,        ECIMSBWebfax 2   F1fcA1793303305
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,24 +13,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1793301882;
-OL,10,GService: Webfax 2 - 22704 d7dfcb862e
-OL,11,FLast Update: 29/10/2026 19:24:42  G1/3
-OL,13,AbbcNewsLive                G29/10-18:29
-OL,14,CbbcSport/Horse Racing      G28/10-12:08
-OL,15,Ccharts/singles             G24/10-10:30
-OL,16,Cgeneric/championship       G24/10-17:05
-OL,17,Cgeneric/f1                 G25/10-11:09
-OL,18,Cgeneric/league-one         G28/10-18:34
-OL,19,Cgeneric/league-two         G27/10-22:14
-OL,20,Ageneric/pollen_forecast    G13/10-23:20
-OL,21,Cgeneric/prem_league        G25/10-18:52
-OL,22,Cgeneric/weather_warnings   G27/10-19:10
-OL,23,CitvSport/border            G28/09-18:19
+OL,25,1793303305;
+OL,10,GService: Webfax 2 - 22705 aecc4eac22
+OL,11,FLast Update: 29/10/2026 19:48:25  G1/3
+OL,13,CbbcSport/Horse Racing      G28/10-12:08
+OL,14,Ccharts/singles             G24/10-10:30
+OL,15,Cgeneric/championship       G24/10-17:05
+OL,16,Cgeneric/f1                 G25/10-11:09
+OL,17,Cgeneric/league-one         G28/10-18:34
+OL,18,Cgeneric/league-two         G27/10-22:14
+OL,19,Ageneric/pollen_forecast    G13/10-23:20
+OL,20,Cgeneric/prem_league        G25/10-18:52
+OL,21,Cgeneric/weather_warnings   G27/10-19:10
+OL,22,CitvSport/border            G28/09-18:19
+OL,23,CitvSport/calendar          G24/09-15:59
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1793301885
+OL,0,        ECIMSBWebfax 2   F1fcA1793303305
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,24 +42,24 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1793301882;
-OL,10,GService: Webfax 2 - 22704 d7dfcb862e
-OL,11,FLast Update: 29/10/2026 19:24:42  G2/3
-OL,13,CitvSport/calendar          G24/09-15:59
-OL,14,CitvSport/central           G24/09-15:59
-OL,15,CitvSport/channel           G03/10-19:18
-OL,16,CitvSport/granada           G28/10-01:19
-OL,17,CitvSport/london            G24/09-15:59
-OL,18,CitvSport/meridian          G12/10-12:18
-OL,19,CitvSport/national          G28/10-15:48
-OL,20,CitvSport/tyne-tees         G24/09-15:59
-OL,21,CitvSport/utv               G28/10-15:18
-OL,22,CitvSport/wales             G24/09-16:00
-OL,23,AitvSport/westcountry       G24/09-15:59
+OL,25,1793303305;
+OL,10,GService: Webfax 2 - 22705 aecc4eac22
+OL,11,FLast Update: 29/10/2026 19:48:25  G2/3
+OL,13,CitvSport/central           G24/09-15:59
+OL,14,CitvSport/channel           G03/10-19:18
+OL,15,CitvSport/granada           G28/10-01:19
+OL,16,CitvSport/london            G24/09-15:59
+OL,17,CitvSport/meridian          G12/10-12:18
+OL,18,CitvSport/national          G28/10-15:48
+OL,19,CitvSport/tyne-tees         G24/09-15:59
+OL,20,CitvSport/utv               G28/10-15:18
+OL,21,CitvSport/wales             G24/09-16:00
+OL,22,AitvSport/westcountry       G24/09-15:59
+OL,23,CiNMS/comments.json         G17/10-15:58
 PN,1fc03
 SC,0003
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1793301885
+OL,0,        ECIMSBWebfax 2   F1fcA1793303305
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -71,7 +71,6 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1793301882;
-OL,10,GService: Webfax 2 - 22704 d7dfcb862e
-OL,11,FLast Update: 29/10/2026 19:24:42  G3/3
-OL,13,CiNMS/comments.json         G17/10-15:58
+OL,25,1793303305;
+OL,10,GService: Webfax 2 - 22705 aecc4eac22
+OL,11,FLast Update: 29/10/2026 19:48:25  G3/3
