@@ -2,27 +2,26 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1793434710
+OL,0,        ECIMSBWebfax 2   F214A1793438356
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday
-OL,5,G0800 Radio Scotland Breakfast
-OL,6,     FNews from across Scotland and the
-OL,7,     Fworld, plus sport, weather,
-OL,8,     Fentertainment and big name
-OL,9,     Finterviews.
-OL,10,G0900 The Saturday Show
-OL,11,     FJohn Hannah, Lucy Beaumont and
-OL,12,     FEilidh Doyle join Amy Irons and
-OL,13,     FSteven Mill as they kick-off the
-OL,14,     Fweekend in style.
-OL,15,G1200 Off the Ball
-OL,16,     FThe most petty and ill-informed
-OL,17,     Ffootball show on radio.
-OL,18,G1400 Sportsound
-OL,19,     FLive commentary of Motherwell v St
-OL,20,     FMirren in the Scottish
-OL,21,     FPremiership.
+OL,5,G0900 The Saturday Show
+OL,6,     FJohn Hannah, Lucy Beaumont and
+OL,7,     FEilidh Doyle join Amy Irons and
+OL,8,     FSteven Mill as they kick-off the
+OL,9,     Fweekend in style.
+OL,10,G1200 Off the Ball
+OL,11,     FThe most petty and ill-informed
+OL,12,     Ffootball show on radio.
+OL,13,G1400 Sportsound
+OL,14,     FLive commentary of Motherwell v St
+OL,15,     FMirren in the Scottish
+OL,16,     FPremiership.
+OL,17,G1730 Sportsound
+OL,18,     FLive football commentary of
+OL,19,     FRangers v Aberdeen in the Scottish
+OL,20,     FLeague Cup semi-final.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -30,24 +29,27 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1793434710
+OL,0,        ECIMSBWebfax 2   F214A1793438356
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday
-OL,5,G1730 Sportsound
-OL,6,     FLive football commentary of
+OL,5,G1930 Sportsound
+OL,6,     FReaction to the commentary of
 OL,7,     FRangers v Aberdeen in the Scottish
 OL,8,     FLeague Cup semi-final.
-OL,9,G1930 Sportsound
-OL,10,     FReaction to the commentary of
-OL,11,     FRangers v Aberdeen in the Scottish
-OL,12,     FLeague Cup semi-final.
-OL,13,G2100 Piping Sounds
-OL,14,     FEwen Henderson with a selection of
-OL,15,     Fthe best in pipe music. This week,
-OL,16,     Fhe features sets from Greg Wilson,
-OL,17,     FSeonaidh MacIntyre and PM Alasdair
-OL,18,     FGillies.
+OL,9,G2100 Piping Sounds
+OL,10,     FEwen Henderson with a selection of
+OL,11,     Fthe best in pipe music. This week,
+OL,12,     Fhe features sets from Greg Wilson,
+OL,13,     FSeonaidh MacIntyre and PM Alasdair
+OL,14,     FGillies.
+OL,15,G2200 Roddy Hart's Mix Tape
+OL,16,     FRoddy Hart with a mix of spooky
+OL,17,     Fdelights to celebrate Halloween.
+OL,18,     FFeaturing music from Biffy Clyro,
+OL,19,     FNina Simone, ELO and more. And
+OL,20,     FEels are on Heavy Rotation with
+OL,21,     Ftheir new album.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -55,19 +57,12 @@ PN,21403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1793434710
+OL,0,        ECIMSBWebfax 2   F214A1793438356
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSaturday
-OL,5,G2200 Roddy Hart's Mix Tape
-OL,6,     FRoddy Hart with a mix of spooky
-OL,7,     Fdelights to celebrate Halloween.
-OL,8,     FFeaturing music from Biffy Clyro,
-OL,9,     FNina Simone, ELO and more. And
-OL,10,     FEels are on Heavy Rotation with
-OL,11,     Ftheir new album.
-OL,12,G0000 As BBC Radio 5 Live
-OL,13,     FJoining Radio 5 Live.
+OL,5,G0000 As BBC Radio 5 Live
+OL,6,     FJoining Radio 5 Live.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
