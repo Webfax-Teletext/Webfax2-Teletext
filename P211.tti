@@ -2,26 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0706 Newsday
-OL,6,     FLive news, business and sport from
-OL,7,     Faround the world.
-OL,8,G0800 BBC News
-OL,9,     FThe latest five minute news
-OL,10,     Fbulletin from BBC World Service.
-OL,11,G0806 The Interview
-OL,12,     FExplorer and climate scientist
-OL,13,     FKlaus Thymann on the cultural
-OL,14,     Fheritage disappearing with
-OL,15,     FIndonesia's melting glaciers and
-OL,16,     Fhis work to record the landscape
-OL,17,     Ffor future generations.
-OL,18,G0830 BBC News Summary
-OL,19,     FThe latest two minute news summary
-OL,20,     Ffrom BBC World Service.
+OL,5,G0806 The Interview
+OL,6,     FExplorer and climate scientist
+OL,7,     FKlaus Thymann on the cultural
+OL,8,     Fheritage disappearing with
+OL,9,     FIndonesia's melting glaciers and
+OL,10,     Fhis work to record the landscape
+OL,11,     Ffor future generations.
+OL,12,G0830 BBC News Summary
+OL,13,     FThe latest two minute news summary
+OL,14,     Ffrom BBC World Service.
+OL,15,G0832 Business Daily
+OL,16,     FFrom law firms to consultants,
+OL,17,     Fbusinesses are grappling with the
+OL,18,     Frisks of AI hallucinations. What's
+OL,19,     Fcausing them, and can they be
+OL,20,     Fprevented?
 OL,23,VppppppppppppppppppppppppppppppppppG1/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -29,27 +29,24 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0832 Business Daily
-OL,6,     FFrom law firms to consultants,
-OL,7,     Fbusinesses are grappling with the
-OL,8,     Frisks of AI hallucinations. What's
-OL,9,     Fcausing them, and can they be
-OL,10,     Fprevented?
-OL,11,G0850 Witness History
-OL,12,     FOn 29 October 2016, Mexico City
-OL,13,     Fheld the first Dia de los Muertos
-OL,14,     Fparade, inspired by the 2015 James
-OL,15,     FBond film, Spectre.
-OL,16,G0900 BBC News
-OL,17,     FThe latest five minute news
-OL,18,     Fbulletin from BBC World Service.
-OL,19,G0906 The Newsroom
-OL,20,     FThe world's Newsroom brings you
-OL,21,     Fglobal events as they happen.
+OL,5,G0850 Witness History
+OL,6,     FOn 29 October 2016, Mexico City
+OL,7,     Fheld the first Dia de los Muertos
+OL,8,     Fparade, inspired by the 2015 James
+OL,9,     FBond film, Spectre.
+OL,10,G0900 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G0906 The Newsroom
+OL,14,     FThe world's Newsroom brings you
+OL,15,     Fglobal events as they happen.
+OL,16,G0930 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG2/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -57,22 +54,26 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G0930 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G0932 CrowdScience
-OL,9,     FListener Nyok in South Sudan wants
-OL,10,     Fto know if people can be
-OL,11,     F'right-brained' or 'left-brained',
-OL,12,     Fand whether this affects our
-OL,13,     Fpersonalities.
-OL,14,G1000 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
+OL,5,G0932 CrowdScience
+OL,6,     FListener Nyok in South Sudan wants
+OL,7,     Fto know if people can be
+OL,8,     F'right-brained' or 'left-brained',
+OL,9,     Fand whether this affects our
+OL,10,     Fpersonalities.
+OL,11,G1000 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G1006 The History Hour
+OL,15,     FA survivor's archive account of
+OL,16,     Fthe Siege of Paris in 1870; the
+OL,17,     Fworld's first public earthquake
+OL,18,     Fwarning system launches; and
+OL,19,     FGerman football signs its first
+OL,20,     Fshirt sponsor in 1973.
 OL,23,VppppppppppppppppppppppppppppppppppG3/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -80,28 +81,28 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G1006 The History Hour
-OL,6,     FA survivor's archive account of
-OL,7,     Fthe Siege of Paris in 1870; the
-OL,8,     Fworld's first public earthquake
-OL,9,     Fwarning system launches; and
-OL,10,     FGerman football signs its first
-OL,11,     Fshirt sponsor in 1973.
-OL,12,G1100 BBC News
-OL,13,     FThe latest five minute news
-OL,14,     Fbulletin from BBC World Service.
-OL,15,G1106 The Newsroom
-OL,16,     FThe world's Newsroom brings you
-OL,17,     Fglobal events as they happen.
-OL,18,G1130 BBC News Summary
-OL,19,     FThe latest two minute news summary
-OL,20,     Ffrom BBC World Service.
-OL,21,G1132 The Global Story
-OL,22,     F.
+OL,5,G1100 BBC News
+OL,6,     FThe latest five minute news
+OL,7,     Fbulletin from BBC World Service.
+OL,8,G1106 The Newsroom
+OL,9,     FThe world's Newsroom brings you
+OL,10,     Fglobal events as they happen.
+OL,11,G1130 BBC News Summary
+OL,12,     FThe latest two minute news summary
+OL,13,     Ffrom BBC World Service.
+OL,14,G1132 The Global Story
+OL,15,     F.
+OL,16,G1200 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
+OL,19,G1206 Outlook
+OL,20,     FTrue stories of ordinary people
+OL,21,     Fand the extraordinary events that
+OL,22,     Fhave shaped their lives.
 OL,23,VppppppppppppppppppppppppppppppppppG4/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -109,28 +110,24 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G1200 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G1206 Outlook
-OL,9,     FTrue stories of ordinary people
-OL,10,     Fand the extraordinary events that
-OL,11,     Fhave shaped their lives.
-OL,12,G1250 Witness History
-OL,13,     FOn 29 October 2016, Mexico City
-OL,14,     Fheld the first Dia de los Muertos
-OL,15,     Fparade, inspired by the 2015 James
-OL,16,     FBond film, Spectre.
-OL,17,G1300 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G1306 The Newsroom
-OL,21,     FThe world's Newsroom brings you
-OL,22,     Fglobal events as they happen.
+OL,5,G1250 Witness History
+OL,6,     FOn 29 October 2016, Mexico City
+OL,7,     Fheld the first Dia de los Muertos
+OL,8,     Fparade, inspired by the 2015 James
+OL,9,     FBond film, Spectre.
+OL,10,G1300 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G1306 The Newsroom
+OL,14,     FThe world's Newsroom brings you
+OL,15,     Fglobal events as they happen.
+OL,16,G1330 BBC News Summary
+OL,17,     FThe latest two minute news summary
+OL,18,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG5/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -138,27 +135,24 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
-OL,5,G1330 BBC News Summary
-OL,6,     FThe latest two minute news summary
-OL,7,     Ffrom BBC World Service.
-OL,8,G1332 A History Of The United States In
-OL,9,G     100 Objects
-OL,10,     FA tiny screw. A precise angle. How
-OL,11,     FAmerica built a hidden empire, one
-OL,12,     Fstandard at a time.
-OL,13,G1400 BBC News
-OL,14,     FThe latest five minute news
-OL,15,     Fbulletin from BBC World Service.
-OL,16,G1406 Newshour
-OL,17,     FInterviews, news and analysis of
-OL,18,     Fthe day's global events.
-OL,19,G1500 BBC News
-OL,20,     FThe latest five minute news
-OL,21,     Fbulletin from BBC World Service.
+OL,5,G1332 A History Of The United States In
+OL,6,G     100 Objects
+OL,7,     FA tiny screw. A precise angle. How
+OL,8,     FAmerica built a hidden empire, one
+OL,9,     Fstandard at a time.
+OL,10,G1400 BBC News
+OL,11,     FThe latest five minute news
+OL,12,     Fbulletin from BBC World Service.
+OL,13,G1406 Newshour
+OL,14,     FInterviews, news and analysis of
+OL,15,     Fthe day's global events.
+OL,16,G1500 BBC News
+OL,17,     FThe latest five minute news
+OL,18,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG6/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -166,7 +160,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -193,7 +187,7 @@ PN,21108
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -222,7 +216,7 @@ PN,21109
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603909
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -251,7 +245,7 @@ PN,21110
 SC,0010
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603910
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -280,7 +274,7 @@ PN,21111
 SC,0011
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603910
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -307,7 +301,7 @@ PN,21112
 SC,0012
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603910
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -334,7 +328,7 @@ PN,21113
 SC,0013
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603910
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -363,7 +357,7 @@ PN,21114
 SC,0014
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603910
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -392,7 +386,7 @@ PN,21115
 SC,0015
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603910
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -418,7 +412,7 @@ PN,21116
 SC,0016
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603910
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
@@ -447,7 +441,7 @@ PN,21117
 SC,0017
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793603910
+OL,0,        ECIMSBWebfax 2   F211A1793607497
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CMonday
