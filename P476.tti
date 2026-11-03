@@ -2,10 +2,10 @@ PN,47601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F476A1793625531
+OL,0,        ECIMSBWebfax 2   F476A1793686823
 OL,1,Vzssssss{0W5 js%7+ j#5wsj 5jjs1
 OL,2,Vupp=wfff5W-,*,%-. * %-,*,-.(,%V,,,,,,,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G0600 Pip Tomson
 OL,6,     FWhere the news never stops. Pip
 OL,7,     FTomson has the latest from LBC
@@ -20,17 +20,17 @@ OL,15,G1300 Jim Diamond
 OL,16,     FWhere the news never stops. Jim
 OL,17,     FDiamond has the latest
 OL,18,     Fdevelopments.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,477,250,301,140,0,100
 PN,47602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F476A1793625531
+OL,0,        ECIMSBWebfax 2   F476A1793686823
 OL,1,Vzssssss{0W5 js%7+ j#5wsj 5jjs1
 OL,2,Vupp=wfff5W-,*,%-. * %-,*,-.(,%V,,,,,,,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G1600 Vanessa Baffoe
 OL,6,     FWhere the news never stops.
 OL,7,     FVanessa Baffoe has the latest from
@@ -41,12 +41,31 @@ OL,11,     FWhere the news never stops. James
 OL,12,     FHanson has the latest from LBC
 OL,13,     FNews reporters across the UK and
 OL,14,     Faround the world.
-OL,15,G2200 America Decides
-OL,16,     FLBC's non-stop coverage of the US
-OL,17,     Fmid-term elections.
-OL,18,G0200 America Decides
-OL,19,     FLBC's non-stop coverage of the US
-OL,20,     Fmid-term elections.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,15,G2200 Mike Hughes
+OL,16,     FWhere the news never stops. Mike
+OL,17,     FHughes has the latest from LBC
+OL,18,     FNews reporters across the UK and
+OL,19,     Faround the world.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,477,250,301,140,0,100
+PN,47603
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F476A1793686823
+OL,1,Vzssssss{0W5 js%7+ j#5wsj 5jjs1
+OL,2,Vupp=wfff5W-,*,%-. * %-,*,-.(,%V,,,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G0100 Non-stop News
+OL,6,     FWhere the news never stops. The
+OL,7,     Flatest from LBC News reporters
+OL,8,     Facross the UK and around the
+OL,9,     Fworld.
+OL,10,G0300 Non-stop News
+OL,11,     FWhere The News Never Stops. The
+OL,12,     Flatest from LBC News reporters
+OL,13,     Faround the world.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,477,250,301,140,0,100
