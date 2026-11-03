@@ -2,24 +2,24 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793744354
+OL,0,        ECIMSBWebfax 2   F211A1793746095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G2206 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G2230 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G2232 World Business Report
-OL,12,     FThe latest business and finance
-OL,13,     Fnews from around the world, on the
-OL,14,     FBBC.
-OL,15,G2300 BBC News
+OL,5,G2232 World Business Report
+OL,6,     FThe latest business and finance
+OL,7,     Fnews from around the world, on the
+OL,8,     FBBC.
+OL,9,G2300 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G2306 BBC News US Election Special
+OL,13,     FCoverage of the US midterm
+OL,14,     Felections.
+OL,15,G0000 BBC News
 OL,16,     FThe latest five minute news
 OL,17,     Fbulletin from BBC World Service.
-OL,18,G2306 BBC News US Election Special
+OL,18,G0006 BBC News US Election Special
 OL,19,     FCoverage of the US midterm
 OL,20,     Felections.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
@@ -29,26 +29,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793744354
+OL,0,        ECIMSBWebfax 2   F211A1793746095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0000 BBC News
+OL,5,G0100 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
-OL,8,G0006 BBC News US Election Special
+OL,8,G0106 BBC News US Election Special
 OL,9,     FCoverage of the US midterm
 OL,10,     Felections.
-OL,11,G0100 BBC News
+OL,11,G0200 BBC News
 OL,12,     FThe latest five minute news
 OL,13,     Fbulletin from BBC World Service.
-OL,14,G0106 BBC News US Election Special
+OL,14,G0206 BBC News US Election Special
 OL,15,     FCoverage of the US midterm
 OL,16,     Felections.
-OL,17,G0200 BBC News
+OL,17,G0300 BBC News
 OL,18,     FThe latest five minute news
 OL,19,     Fbulletin from BBC World Service.
-OL,20,G0206 BBC News US Election Special
+OL,20,G0306 BBC News US Election Special
 OL,21,     FCoverage of the US midterm
 OL,22,     Felections.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
@@ -58,28 +58,22 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793744354
+OL,0,        ECIMSBWebfax 2   F211A1793746095
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0300 BBC News
+OL,5,G0400 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
-OL,8,G0306 BBC News US Election Special
+OL,8,G0406 BBC News US Election Special
 OL,9,     FCoverage of the US midterm
 OL,10,     Felections.
-OL,11,G0400 BBC News
+OL,11,G0500 BBC News
 OL,12,     FThe latest five minute news
 OL,13,     Fbulletin from BBC World Service.
-OL,14,G0406 BBC News US Election Special
-OL,15,     FCoverage of the US midterm
-OL,16,     Felections.
-OL,17,G0500 BBC News
-OL,18,     FThe latest five minute news
-OL,19,     Fbulletin from BBC World Service.
-OL,20,G0506 Newsday
-OL,21,     FLive news, business and sport from
-OL,22,     Faround the world.
+OL,14,G0506 Newsday
+OL,15,     FLive news, business and sport from
+OL,16,     Faround the world.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
