@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FUK meat industry hit by
-OL,6,Fcyber-attack which targeted European
-OL,7,Fsupermarket freezersA03-Nov
+OL,5,G106FBinance says fake job interviews
+OL,6,Fused as part of $6.3bn crypto hack
+OL,7,A03-Nov
 OL,8,G
-OL,9,G107FApple unsure when it will get more
-OL,10,Ffoldable iPhones ahead of Christmas
-OL,11,A03-Nov
+OL,9,G107FUK meat industry hit by
+OL,10,Fcyber-attack which targeted European
+OL,11,Fsupermarket freezersA03-Nov
 OL,12,G
-OL,13,G108FNorth Korea denies being behind
-OL,14,Frecord $6.3bn Binance hackA03-Nov
-OL,15,G
-OL,16,G109FIf hackers can take control of a
-OL,17,Fsupermarket freezer, how vulnerable is
-OL,18,Fother tech?A02-Nov
+OL,13,G108FApple unsure when it will get more
+OL,14,Ffoldable iPhones ahead of Christmas
+OL,15,A03-Nov
+OL,16,G
+OL,17,G109FNorth Korea denies being behind
+OL,18,Frecord $6.3bn Binance hackA03-Nov
 OL,19,G
-OL,20,G110FBinance users withdraw $3.6bn after
-OL,21,Flargest-ever crypto hackA02-Nov
-OL,22,G
+OL,20,F
+OL,21,F
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
@@ -53,7 +53,53 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,ABinance says fake job interviews used
+OL,4,Aas part of $6.3bn crypto hack
+OL,5,
+OL,6,FHackers who stole a record $6.3bn
+OL,7,F(#4.7bn) from Binance used fake job
+OL,8,Finterviews and a compromised internal
+OL,9,FAI tool, the firm has revealed.
+OL,11,FInitial findings published by the
+OL,12,Fcompany, which operates the world's
+OL,13,Flargest cryptocurrency exchange, said
+OL,14,Fhackers gained access to its systems
+OL,15,Fthrough "sophisticated, multi-stage
+OL,16,Fcampaign".
+OL,23,APub: 03-NovQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1793723067
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,ABinance says fake job interviews used
+OL,4,Aas part of $6.3bn crypto hack
+OL,5,
+OL,6,FIt said they used a range of techniques
+OL,7,Fsuch as malicious software downloads to
+OL,8,Fcompromise the computers of Binance
+OL,9,Fengineers and gain control over tools
+OL,10,Fto drain its wallet of billions of
+OL,11,Fdollars worth of crypto.
+OL,13,FBinance called it a "serious and highly
+OL,14,Fsophisticated security incident" and
+OL,15,Fapologised, saying "this should not
+OL,16,Fhave happened".
+OL,23,APub: 03-NovQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK meat industry hit by cyber-attack
@@ -74,14 +120,14 @@ OL,19,FHorne told the Today programme, on BBC
 OL,20,FRadio Four, that it had "worked through
 OL,21,Fthe night" to alert potentially
 OL,22,Faffected organisations in the UK.
-OL,23,APub: 03-NovQppppppppppppppppppppppG3/19
+OL,23,APub: 03-NovQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AUK meat industry hit by cyber-attack
@@ -93,14 +139,14 @@ OL,8,FMeat Suppliers (AIMS) told the BBC some
 OL,9,Fof its more than 300 members had
 OL,10,Funexpectedly become what it called
 OL,11,F"collateral" as part of the hacks.
-OL,23,APub: 03-NovQppppppppppppppppppppppG4/19
+OL,23,APub: 03-NovQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AApple unsure when it will get more
@@ -119,14 +165,14 @@ OL,17,FThe company warned of "constraints" in
 OL,18,Fsourcing key components and admitted it
 OL,19,Fwas "really hard to predict when supply
 OL,20,Fand demand will be in balance".
-OL,23,APub: 03-NovQppppppppppppppppppppppG5/19
+OL,23,APub: 03-NovQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AApple unsure when it will get more
@@ -139,52 +185,6 @@ OL,9,Fcosts, including chips, as the
 OL,10,Fartificial intelligence (AI) industry
 OL,11,Fcontinues to invest billions of dollars
 OL,12,Fin building data centres.
-OL,23,APub: 03-NovQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ANorth Korea denies being behind record
-OL,4,A$6.3bn Binance hack
-OL,5,
-OL,6,FNorth Korea has denied claims that it
-OL,7,Fwas behind the record $6.3bn (#4.7bn)
-OL,8,Fhack of cryptocurrency exchange
-OL,9,FBinance, calling the allegations
-OL,10,F"absurd rhetoric".
-OL,12,FKim Yo Jong, a top Democratic People's
-OL,13,FRepublic of Korea official and the
-OL,14,Fsister of leader Kim Jong Un, said on
-OL,15,FTuesday that the accusations are
-OL,16,Fanother "sinister attempt" by the US to
-OL,17,Fdamage Pyongyang's public image.
-OL,23,APub: 03-NovQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ANorth Korea denies being behind record
-OL,4,A$6.3bn Binance hack
-OL,5,
-OL,6,FThe US Federal Bureau of Investigation
-OL,7,F(FBI), the Secret Service and cyber
-OL,8,Fanalysts have said North Korea
-OL,9,Forchestrated the hack, which has been
-OL,10,Fdescribed as the largest in history.
-OL,12,FThis is the latest hack to be linked to
-OL,13,FNorth Korea, which has been accused of
-OL,14,Frelying on cyber-crime to help finance
-OL,15,Fits sanctioned economy.
 OL,23,APub: 03-NovQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
@@ -192,7 +192,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -221,7 +221,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ACelebrity loses injunction bid but will
@@ -250,7 +250,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ACelebrity loses injunction bid but will
@@ -275,7 +275,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AJury in Russell Brand rape trial begins
@@ -301,7 +301,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AJury in Russell Brand rape trial begins
@@ -320,7 +320,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AJames Blunt on Traitors: I tried - and
@@ -346,7 +346,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AJames Blunt on Traitors: I tried - and
@@ -361,7 +361,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CTuesday
@@ -388,7 +388,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CTuesday
@@ -412,7 +412,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CTuesday
@@ -441,7 +441,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793722722
+OL,0,        ECIMSBWebfax 2   F119A1793723067
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CTuesday
