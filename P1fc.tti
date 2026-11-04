@@ -1,7 +1,7 @@
 PN,1fc01
 SC,0001
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1793749689
+OL,0,        ECIMSBWebfax 2   F1fcA1793751545
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,16 +13,16 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1793749688;
-OL,10,GService: Webfax 2 - 23051 7e84d68054
-OL,11,FLast Update: 03/11/2026 23:48:08  G1/2
+OL,25,1793751545;
+OL,10,GService: Webfax 2 - 23052 d892d705da
+OL,11,FLast Update: 04/11/2026 00:19:05  G1/2
 OL,13,Ccharts/singles             G31/10-20:07
 OL,14,Cgeneric/championship       G31/10-17:41
 OL,15,Ageneric/f1                 G31/10-11:37
-OL,16,Cgeneric/league-one         G01/11-16:47
-OL,17,Cgeneric/league-two         G31/10-17:41
-OL,18,Cgeneric/lottery            G01/11-00:07
-OL,19,Ageneric/pollen_forecast    G31/10-11:56
+OL,16,Cgeneric/league-two         G31/10-17:41
+OL,17,Cgeneric/lottery            G01/11-00:07
+OL,18,Ageneric/pollen_forecast    G31/10-11:56
+OL,19,Cgeneric/prem_league        G02/11-23:46
 OL,20,Cgeneric/tube_status        G02/11-03:06
 OL,21,CitvSport/border            G31/10-11:48
 OL,22,CitvSport/calendar          G31/10-11:48
@@ -30,7 +30,7 @@ OL,23,CitvSport/central           G31/10-11:48
 PN,1fc02
 SC,0002
 PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1793749689
+OL,0,        ECIMSBWebfax 2   F1fcA1793751545
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -42,9 +42,9 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1793749688;
-OL,10,GService: Webfax 2 - 23051 7e84d68054
-OL,11,FLast Update: 03/11/2026 23:48:08  G2/2
+OL,25,1793751545;
+OL,10,GService: Webfax 2 - 23052 d892d705da
+OL,11,FLast Update: 04/11/2026 00:19:05  G2/2
 OL,13,CitvSport/channel           G31/10-11:48
 OL,14,CitvSport/granada           G31/10-11:48
 OL,15,CitvSport/london            G31/10-11:48

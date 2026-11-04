@@ -2,71 +2,54 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793747905
+OL,0,        ECIMSBWebfax 2   F211A1793751545
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G2306 BBC News US Election Special
+OL,5,G0006 BBC News US Election Special
 OL,6,     FCoverage of the US midterm
 OL,7,     Felections.
-OL,8,G0000 BBC News
+OL,8,G0100 BBC News
 OL,9,     FThe latest five minute news
 OL,10,     Fbulletin from BBC World Service.
-OL,11,G0006 BBC News US Election Special
+OL,11,G0106 BBC News US Election Special
 OL,12,     FCoverage of the US midterm
 OL,13,     Felections.
-OL,14,G0100 BBC News
+OL,14,G0200 BBC News
 OL,15,     FThe latest five minute news
 OL,16,     Fbulletin from BBC World Service.
-OL,17,G0106 BBC News US Election Special
+OL,17,G0206 BBC News US Election Special
 OL,18,     FCoverage of the US midterm
 OL,19,     Felections.
-OL,20,G0200 BBC News
+OL,20,G0300 BBC News
 OL,21,     FThe latest five minute news
 OL,22,     Fbulletin from BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
 PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793747905
+OL,0,        ECIMSBWebfax 2   F211A1793751545
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CTuesday
-OL,5,G0206 BBC News US Election Special
+OL,5,G0306 BBC News US Election Special
 OL,6,     FCoverage of the US midterm
 OL,7,     Felections.
-OL,8,G0300 BBC News
+OL,8,G0400 BBC News
 OL,9,     FThe latest five minute news
 OL,10,     Fbulletin from BBC World Service.
-OL,11,G0306 BBC News US Election Special
+OL,11,G0406 BBC News US Election Special
 OL,12,     FCoverage of the US midterm
 OL,13,     Felections.
-OL,14,G0400 BBC News
+OL,14,G0500 BBC News
 OL,15,     FThe latest five minute news
 OL,16,     Fbulletin from BBC World Service.
-OL,17,G0406 BBC News US Election Special
-OL,18,     FCoverage of the US midterm
-OL,19,     Felections.
-OL,20,G0500 BBC News
-OL,21,     FThe latest five minute news
-OL,22,     Fbulletin from BBC World Service.
-OL,23,VppppppppppppppppppppppppppppppppppG2/3
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,212,200,300,120,0,100
-PN,21103
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1793747905
-OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
-OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
-OL,3,V}yyy5CTuesday
-OL,5,G0506 Newsday
-OL,6,     FLive news, business and sport from
-OL,7,     Faround the world.
-OL,23,VppppppppppppppppppppppppppppppppppG3/3
+OL,17,G0506 Newsday
+OL,18,     FLive news, business and sport from
+OL,19,     Faround the world.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
