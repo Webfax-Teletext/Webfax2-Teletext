@@ -1,16 +1,125 @@
-PN,20100
-SC,0000
+PN,20101
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F201A1793765931
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1793773239
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
-OL,3,V}yyy5CTuesday
+OL,3,V}yyy5CWednesday
 OL,5,G0400 Radio 1 Early Breakfast with Mylo
 OL,6,G     and Rosie
 OL,7,     FYou've made it to the halfway
 OL,8,     Fpoint. Let Mylo & Rosie know
 OL,9,     Fwhat's getting you through!
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,10,G0658 Radio 1 News
+OL,11,     FThe latest news from around the UK
+OL,12,     Fand around the world.
+OL,13,G0700 Radio 1 Breakfast with Greg James
+OL,14,     FGreg's been dunking his biscuits
+OL,15,     Finto other people's tea and we
+OL,16,     Fneed to know if it's okay.
+OL,17,G1030 Radio 1 News
+OL,18,     FThe latest news from around the UK
+OL,19,     Fand around the world.
+OL,23,VppppppppppppppppppppppppppppppppppG1/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20102
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1793773239
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G1033 Charlie and Jerry
+OL,6,     FCharlie and Jerry get you over
+OL,7,     Fhump day by celebrating your
+OL,8,     FWednesday Wins!
+OL,9,G1245 Newsbeat @ 12:45
+OL,10,     FThe latest news from around the UK
+OL,11,     Fand around the world.
+OL,12,G1300 Matt and Mollie
+OL,13,     FMollie is back with another game,
+OL,14,     Fbut can you answer quick enough
+OL,15,     Ffor a podium finish?
+OL,16,G1530 Radio 1 News
+OL,17,     FThe latest news from around the UK
+OL,18,     Fand around the world.
+OL,19,G1533 Going Home with Vick, Katie and
+OL,20,G     Jamie
+OL,21,     FCalling all film fans, it's time
+OL,22,     Ffor a midweek movie game.
+OL,23,VppppppppppppppppppppppppppppppppppG2/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20103
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1793773239
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G1745 Newsbeat @ 17:45
+OL,6,     FThe latest news from around the UK
+OL,7,     Fand around the world.
+OL,8,G1800 Radio 1's New Music Show with Jack
+OL,9,G     Saunders
+OL,10,     FThe boys are back for another huge
+OL,11,     FHottest Record!
+OL,12,G2000 Radio 1's Future Pop with Mollie
+OL,13,G     King
+OL,14,     FJodie Bryant presents the future
+OL,15,     Fof pop music with a Future Bop
+OL,16,     Ffrom King Kenny and Alyssa Grace
+OL,17,     Flive in session!
+OL,18,G2200 Radio 1's Power Down Playlist with
+OL,19,G     Sian Eleri
+OL,20,     FRAYE, Disclosure and more to bring
+OL,21,     Flaid-back positivity for a calmer
+OL,22,     Fstate of mind.
+OL,23,VppppppppppppppppppppppppppppppppppG3/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20104
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1793773239
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G2300 Benji B
+OL,6,     FPaying tribute to the Godfather of
+OL,7,     FTechno, Juan Atkins. Benji
+OL,8,     Frevisits his iconic show from 2008
+OL,9,     Fto hear Juan talking about his
+OL,10,     Fcareer, aliases, technology and
+OL,11,     Finfluences.
+OL,12,G0100 Danny Howard's Club Mix
+OL,13,     FDanny goes in with another Club
+OL,14,     FMix featuring Jennifer Loveless,
+OL,15,     FJoshwa and Groove Armada.
+OL,16,G0200 Radio 1 Anthems
+OL,17,     FLauren Redfern with big anthems
+OL,18,     Fand tunes you haven't heard in
+OL,19,     Fages.
+OL,23,VppppppppppppppppppppppppppppppppppG4/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,202,200,300,120,0,100
+PN,20105
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F201A1793773239
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
+OL,3,V}yyy5CWednesday
+OL,5,G0400 Radio 1 Early Breakfast with Mylo
+OL,6,G     and Rosie
+OL,7,     FFun, games and great music to
+OL,8,     Fstart the day with Mylo and Rosie.
+OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,202,200,300,120,0,100
