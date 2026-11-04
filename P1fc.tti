@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1793787511
+PN,1fc00
+SC,0000
+PS,8018
+OL,0,        ECIMSBWebfax 2   F1fcA1793793916
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,44 +13,7 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1793787509;
-OL,10,GService: Webfax 2 - 23077 7530415766
-OL,11,FLast Update: 04/11/2026 10:18:29  G1/2
-OL,13,CbbcSport/Horse Racing      G03/11-07:31
-OL,14,Ccharts/singles             G31/10-20:07
-OL,15,Ageneric/f1                 G31/10-11:37
-OL,16,Cgeneric/league-two         G31/10-17:41
-OL,17,Cgeneric/lottery            G01/11-00:07
-OL,18,Ageneric/pollen_forecast    G31/10-11:56
-OL,19,Cgeneric/prem_league        G02/11-23:46
-OL,20,Cgeneric/tube_status        G02/11-03:06
-OL,21,CitvSport/border            G31/10-11:48
-OL,22,CitvSport/calendar          G31/10-11:48
-OL,23,CitvSport/central           G31/10-11:48
-PN,1fc02
-SC,0002
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1793787511
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1793787509;
-OL,10,GService: Webfax 2 - 23077 7530415766
-OL,11,FLast Update: 04/11/2026 10:18:29  G2/2
-OL,13,CitvSport/channel           G31/10-11:48
-OL,14,CitvSport/granada           G31/10-11:48
-OL,15,CitvSport/london            G31/10-11:48
-OL,16,CitvSport/meridian          G31/10-11:48
-OL,17,CitvSport/tyne-tees         G31/10-11:48
-OL,18,CitvSport/utv               G01/11-20:48
-OL,19,CitvSport/wales             G31/10-11:48
-OL,20,AitvSport/westcountry       G31/10-11:36
-OL,21,CiNMS/comments.json         G31/10-11:56
+OL,25,1793793912;
+OL,10,GService: Webfax 2 - 23078 fc21a78b16
+OL,11,FLast Update: 04/11/2026 12:05:12      
+OL,13,AitvSport/westcountry       G04/11-12:05
