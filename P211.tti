@@ -2,23 +2,26 @@ PN,21101
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1794003543
+OL,0,        ECIMSBWebfax 2   F211A1794005303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G2206 The Newsroom
-OL,6,     FThe world's Newsroom brings you
-OL,7,     Fglobal events as they happen.
-OL,8,G2230 BBC News Summary
-OL,9,     FThe latest two minute news summary
-OL,10,     Ffrom BBC World Service.
-OL,11,G2232 World Business Report
-OL,12,     FThe latest business and finance
-OL,13,     Fnews from around the world, on the
-OL,14,     FBBC.
-OL,15,G2300 BBC News
-OL,16,     FThe latest five minute news
-OL,17,     Fbulletin from BBC World Service.
+OL,5,G2232 World Business Report
+OL,6,     FThe latest business and finance
+OL,7,     Fnews from around the world, on the
+OL,8,     FBBC.
+OL,9,G2300 BBC News
+OL,10,     FThe latest five minute news
+OL,11,     Fbulletin from BBC World Service.
+OL,12,G2306 The Interview
+OL,13,     FMark Savage meets Irish rock band
+OL,14,     FU2 as they mark their 50th
+OL,15,     Fanniversary with Carnaval de Luz,
+OL,16,     Ftheir 16th studio album and first
+OL,17,     Fin nearly a decade.
+OL,18,G2330 BBC News Summary
+OL,19,     FThe latest two minute news summary
+OL,20,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG1/7
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -26,26 +29,26 @@ PN,21102
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1794003543
+OL,0,        ECIMSBWebfax 2   F211A1794005303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G2306 The Interview
-OL,6,     FMark Savage meets Irish rock band
-OL,7,     FU2 as they mark their 50th
-OL,8,     Fanniversary with Carnaval de Luz,
-OL,9,     Ftheir 16th studio album and first
-OL,10,     Fin nearly a decade.
-OL,11,G2330 BBC News Summary
-OL,12,     FThe latest two minute news summary
-OL,13,     Ffrom BBC World Service.
-OL,14,G2332 Heart and Soul
-OL,15,     FIn 2005, Michelle Vanek
-OL,16,     Fdisappeared on Colorado's Mount of
-OL,17,     Fthe Holy Cross without a trace. In
-OL,18,     F2024, a female rescue team set up
-OL,19,     Fby Pastor Scott Beebe are
-OL,20,     Fdetermined to find her.
+OL,5,G2332 Heart and Soul
+OL,6,     FIn 2005, Michelle Vanek
+OL,7,     Fdisappeared on Colorado's Mount of
+OL,8,     Fthe Holy Cross without a trace. In
+OL,9,     F2024, a female rescue team set up
+OL,10,     Fby Pastor Scott Beebe are
+OL,11,     Fdetermined to find her.
+OL,12,G0000 BBC News
+OL,13,     FThe latest five minute news
+OL,14,     Fbulletin from BBC World Service.
+OL,15,G0006 Unexpected Elements
+OL,16,     FThe Unexpected Elements team are
+OL,17,     Fscience-maxxing, following the
+OL,18,     Fheadline that "maxxing" has been
+OL,19,     Fnamed 2026's word of the year by
+OL,20,     Fdictionary.com.
 OL,23,VppppppppppppppppppppppppppppppppppG2/7
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -53,28 +56,26 @@ PN,21103
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1794003543
+OL,0,        ECIMSBWebfax 2   F211A1794005303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G0000 BBC News
+OL,5,G0100 BBC News
 OL,6,     FThe latest five minute news
 OL,7,     Fbulletin from BBC World Service.
-OL,8,G0006 Unexpected Elements
-OL,9,     FThe Unexpected Elements team are
-OL,10,     Fscience-maxxing, following the
-OL,11,     Fheadline that "maxxing" has been
-OL,12,     Fnamed 2026's word of the year by
-OL,13,     Fdictionary.com.
-OL,14,G0100 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0106 The Newsroom
-OL,18,     FThe world's Newsroom brings you
-OL,19,     Fglobal events as they happen.
-OL,20,G0130 BBC News Summary
-OL,21,     FThe latest two minute news summary
-OL,22,     Ffrom BBC World Service.
+OL,8,G0106 The Newsroom
+OL,9,     FThe world's Newsroom brings you
+OL,10,     Fglobal events as they happen.
+OL,11,G0130 BBC News Summary
+OL,12,     FThe latest two minute news summary
+OL,13,     Ffrom BBC World Service.
+OL,14,G0132 The Global Story
+OL,15,     FThe comedian and actor was found
+OL,16,     Fguilty of rape and three sexual
+OL,17,     Fassaults.
+OL,18,G0200 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG3/7
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -82,27 +83,23 @@ PN,21104
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1794003543
+OL,0,        ECIMSBWebfax 2   F211A1794005303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G0132 The Global Story
-OL,6,     FThe comedian and actor was found
-OL,7,     Fguilty of rape and three sexual
-OL,8,     Fassaults.
-OL,9,G0200 BBC News
-OL,10,     FThe latest five minute news
-OL,11,     Fbulletin from BBC World Service.
-OL,12,G0206 The Newsroom
-OL,13,     FThe world's Newsroom brings you
-OL,14,     Fglobal events as they happen.
-OL,15,G0230 BBC News Summary
-OL,16,     FThe latest two minute news summary
-OL,17,     Ffrom BBC World Service.
-OL,18,G0232 Stumped
-OL,19,     FRashid Khan is the first bowler to
-OL,20,     Freach 200 T20I wickets, is he the
-OL,21,     Fgreatest T20 bowler of all time?
+OL,5,G0206 The Newsroom
+OL,6,     FThe world's Newsroom brings you
+OL,7,     Fglobal events as they happen.
+OL,8,G0230 BBC News Summary
+OL,9,     FThe latest two minute news summary
+OL,10,     Ffrom BBC World Service.
+OL,11,G0232 Stumped
+OL,12,     FRashid Khan is the first bowler to
+OL,13,     Freach 200 T20I wickets, is he the
+OL,14,     Fgreatest T20 bowler of all time?
+OL,15,G0300 BBC News
+OL,16,     FThe latest five minute news
+OL,17,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG4/7
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -110,26 +107,26 @@ PN,21105
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1794003543
+OL,0,        ECIMSBWebfax 2   F211A1794005303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G0300 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0306 Outlook
-OL,9,     FFrom Judge Judy's courtroom to
-OL,10,     FPakistan's Jirgas - stories about
-OL,11,     Fwomen navigating power, prejudice
-OL,12,     Fand the law. Plus, an unexpected
-OL,13,     Fally at the witness stand.
-OL,14,G0350 Witness History
-OL,15,     FIn 1985, a small rural town
-OL,16,     Fwelcomed a group of Catholic
-OL,17,     Fmissionaries, unaware one would
-OL,18,     Fone day be Pope. Among the altar
-OL,19,     Fboys was a teenager who would go
-OL,20,     Fon to be his friend.
+OL,5,G0306 Outlook
+OL,6,     FFrom Judge Judy's courtroom to
+OL,7,     FPakistan's Jirgas - stories about
+OL,8,     Fwomen navigating power, prejudice
+OL,9,     Fand the law. Plus, an unexpected
+OL,10,     Fally at the witness stand.
+OL,11,G0350 Witness History
+OL,12,     FIn 1985, a small rural town
+OL,13,     Fwelcomed a group of Catholic
+OL,14,     Fmissionaries, unaware one would
+OL,15,     Fone day be Pope. Among the altar
+OL,16,     Fboys was a teenager who would go
+OL,17,     Fon to be his friend.
+OL,18,G0400 BBC News
+OL,19,     FThe latest five minute news
+OL,20,     Fbulletin from BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG5/7
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -137,28 +134,25 @@ PN,21106
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1794003543
+OL,0,        ECIMSBWebfax 2   F211A1794005303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
-OL,5,G0400 BBC News
-OL,6,     FThe latest five minute news
-OL,7,     Fbulletin from BBC World Service.
-OL,8,G0406 Unexpected Elements
-OL,9,     FThe Unexpected Elements team are
-OL,10,     Fscience-maxxing, following the
-OL,11,     Fheadline that "maxxing" has been
-OL,12,     Fnamed 2026's word of the year by
-OL,13,     Fdictionary.com.
-OL,14,G0500 BBC News
-OL,15,     FThe latest five minute news
-OL,16,     Fbulletin from BBC World Service.
-OL,17,G0506 The Newsroom
-OL,18,     FThe world's Newsroom brings you
-OL,19,     Fglobal events as they happen.
-OL,20,G0530 BBC News Summary
-OL,21,     FThe latest two minute news summary
-OL,22,     Ffrom BBC World Service.
+OL,5,G0406 Unexpected Elements
+OL,6,     FThe Unexpected Elements team are
+OL,7,     Fscience-maxxing, following the
+OL,8,     Fheadline that "maxxing" has been
+OL,9,     Fnamed 2026's word of the year by
+OL,10,     Fdictionary.com.
+OL,11,G0500 BBC News
+OL,12,     FThe latest five minute news
+OL,13,     Fbulletin from BBC World Service.
+OL,14,G0506 The Newsroom
+OL,15,     FThe world's Newsroom brings you
+OL,16,     Fglobal events as they happen.
+OL,17,G0530 BBC News Summary
+OL,18,     FThe latest two minute news summary
+OL,19,     Ffrom BBC World Service.
 OL,23,VppppppppppppppppppppppppppppppppppG6/7
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,212,200,300,120,0,100
@@ -166,7 +160,7 @@ PN,21107
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F211A1794003543
+OL,0,        ECIMSBWebfax 2   F211A1794005303
 OL,1,Vzssssss{0Ww;js%7+ j 5jj#5w;j  7i js1
 OL,2,Vupp=wfff5W-.*,%-. *,-.*,%%**,$-& (,%V,,
 OL,3,V}yyy5CFriday
