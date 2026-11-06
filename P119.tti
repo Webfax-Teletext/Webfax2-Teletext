@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FMajor tech stocks plunge as US
-OL,6,Fmidterms add to fears of AI slowdown
-OL,7,A05-Nov
-OL,8,G
-OL,9,G107FElon Musk's millions failed to
-OL,10,Fdeliver Republican wins in fierce
-OL,11,FmidtermsA04-Nov
-OL,12,G
-OL,13,G108FFrench blood storage impacted by
-OL,14,Ffreezer hacks as theories swirl about
-OL,15,FculpritsA04-Nov
-OL,16,G
-OL,17,G109FGraduates are managing AI - but are
-OL,18,Fthey learning much else?A04-Nov
+OL,5,G106FThe engine parts that 'fight the
+OL,6,Flaws of the universe'A06-Nov
+OL,7,G
+OL,8,G107FMajor tech stocks plunge as US
+OL,9,Fmidterms add to fears of AI slowdown
+OL,10,A05-Nov
+OL,11,G
+OL,12,G108FElon Musk's millions failed to
+OL,13,Fdeliver Republican wins in fierce
+OL,14,FmidtermsA04-Nov
+OL,15,G
+OL,16,G109FFrench blood storage impacted by
+OL,17,Ffreezer hacks as theories swirl about
+OL,18,FculpritsA04-Nov
 OL,19,G
-OL,20,F
-OL,21,F
-OL,22,F
+OL,20,G110FGraduates are managing AI - but are
+OL,21,Fthey learning much else?A04-Nov
+OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
@@ -53,7 +53,53 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AThe engine parts that 'fight the laws
+OL,4,Aof the universe'
+OL,5,
+OL,6,FEvery time you fly, an extraordinary
+OL,7,Ffeat of endurance occurs inside the
+OL,8,Faircraft's engines.
+OL,10,FHidden from view inside the sleek outer
+OL,11,Fnacelle are hundreds of little turbine
+OL,12,Fblades that can shrug off enormous
+OL,13,Fmechanical stresses and temperatures
+OL,14,Fexceeding 1,500C.
+OL,16,FIt is a true engineering marvel. And
+OL,17,Fthese hardy blades are not sculpted or
+OL,18,Fcut from their material ` they are
+OL,19,Fgrown.
+OL,23,APub: 06-NovQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1793924659
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AThe engine parts that 'fight the laws
+OL,4,Aof the universe'
+OL,5,
+OL,6,FDuring the 1960s, engineers worked out
+OL,7,Fhow to take a molten metal alloy, cast
+OL,8,Fit into the shape of a turbine blade,
+OL,9,Fand then cool it very carefully from
+OL,10,Fone end to the other over a matter of
+OL,11,Fhours. A single crystal or grain of
+OL,12,Fmetal alloy forms during this process
+OL,13,Fof gradual, delicate solidification.
+OL,23,APub: 06-NovQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AMajor tech stocks plunge as US midterms
@@ -65,19 +111,19 @@ OL,8,Ftech firms in a stock market rout after
 OL,9,Fthe US midterm elections sparked
 OL,10,Fconcerns of a slowdown in AI
 OL,11,Fdevelopment.
-OL,13,FFollowing Democratic wins after
-OL,14,Felection campaigns run on slowing AI,
-OL,15,Fshares in firms across the tech and
-OL,16,Fartificial intelligence sectors
-OL,17,Fplummeted.
-OL,23,APub: 05-NovQppppppppppppppppppppppG3/19
+OL,13,FShares in firms across the tech and
+OL,14,Fartificial intelligence sectors
+OL,15,Fplummeted following Democratic wins
+OL,16,Fafter election campaigns run on slowing
+OL,17,FAI.
+OL,23,APub: 05-NovQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AMajor tech stocks plunge as US midterms
@@ -85,22 +131,22 @@ OL,4,Aadd to fears of AI slowdown
 OL,5,
 OL,6,FThe tech-heavy Nasdaq composite stock
 OL,7,Findex closed down by more than 5.5% to
-OL,8,Flose an estimated $2.5tn in market
-OL,9,Fcapitalisation, according to Dow Jones
-OL,10,Fdata, while other key US stock indexes
-OL,11,Falso saw big losses in their worst days
-OL,12,Fsince 2025.
+OL,8,Flose an estimated $2.5tn (#1.9tn) in
+OL,9,Fmarket capitalisation, according to Dow
+OL,10,FJones data, while other key US stock
+OL,11,Findexes also saw big losses in their
+OL,12,Fworst days since 2025.
 OL,14,FThe sell-off comes on top of broader
 OL,15,Fconcerns about whether the huge amounts
 OL,16,Fbeing spent on AI will pay off.
-OL,23,APub: 05-NovQppppppppppppppppppppppG4/19
+OL,23,APub: 05-NovQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AElon Musk's millions failed to deliver
@@ -118,14 +164,14 @@ OL,15,FRepublican Ken Paxton for a US Senate
 OL,16,Fseat in Texas. Musk spent at least $45m
 OL,17,Fin support of Paxton, according to a
 OL,18,FBBC analysis of campaign finance data.
-OL,23,APub: 04-NovQppppppppppppppppppppppG5/19
+OL,23,APub: 04-NovQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AElon Musk's millions failed to deliver
@@ -139,50 +185,6 @@ OL,11,FBy Tuesday night, Musk seemed to admit
 OL,12,Fdefeat, joking on X that his
 OL,13,F"election-interfering space lasers
 OL,14,Fdidn't work."
-OL,23,APub: 04-NovQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AFrench blood storage impacted by
-OL,4,Afreezer hacks as theories swirl about
-OL,5,Aculprits
-OL,6,
-OL,7,FFrench authorities say that fridges
-OL,8,Fused in medical facilities to store
-OL,9,Fblood for donations were impacted by
-OL,10,Frecent cyber-attacks by unknown
-OL,11,Fhackers.
-OL,13,FThe French Blood Establishment (EFS)
-OL,14,Fsaid cold rooms storing blood were
-OL,15,Fimpacted by hackers, with temperatures
-OL,16,Fset to rise - but staff intervened to
-OL,17,Fprotect blood supplies.
-OL,19,F"No health impact has been identified
-OL,20,Fand no loss of blood products is to be
-OL,21,Freported," the EFS said.
-OL,23,APub: 04-NovQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AFrench blood storage impacted by
-OL,4,Afreezer hacks as theories swirl about
-OL,5,Aculprits
-OL,6,
-OL,7,FUp until now, only supermarkets were
-OL,8,Fknown to have been impacted by the
-OL,9,Fhacks.
 OL,23,APub: 04-NovQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
@@ -190,7 +192,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -219,7 +221,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ARussell Brand found guilty of rape and
@@ -245,7 +247,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ARussell Brand found guilty of rape and
@@ -262,7 +264,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AMarried at First Sight UK cancelled
@@ -287,7 +289,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AMarried at First Sight UK cancelled
@@ -310,7 +312,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AThe Russell Brand I saw in court was
@@ -337,7 +339,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AThe Russell Brand I saw in court was
@@ -357,7 +359,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CThursday
@@ -386,7 +388,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CThursday
@@ -415,7 +417,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CThursday
@@ -439,7 +441,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1793924309
+OL,0,        ECIMSBWebfax 2   F119A1793924659
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CThursday
