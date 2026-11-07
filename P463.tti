@@ -1,13 +1,100 @@
-PN,46300
-SC,0000
+PN,46301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F463A1794010704
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1794032401
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday
 OL,5,G0000 Scoth na hAoine
 OL,6,     FScoth na hAoine
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,7,G0730 Beal Maidine
+OL,8,     FClar ceoil a chur i lathair ag
+OL,9,     FCaoimhin O Se.
+OL,10,G0900 Rogha na Seachtaine
+OL,11,     FSuil siar ar scothchraoladh na
+OL,12,     Fseachtaine le Jo Ni Cheide.
+OL,13,G1000 Cas Ceirnin
+OL,14,     FCeol agus iarratais, a chur i
+OL,15,     Flathair ag Padraig O Braonain.
+OL,16,G1100 An tSeachtain le Mairin Ni Ghadhra
+OL,17,     FCraolfar clar an lae inniu beo o
+OL,18,     FColaiste na hOllscoile Corcaigh
+OL,19,     Fagus Ard Fheis Fine Gael ar siul.
+OL,23,VppppppppppppppppppppppppppppppppppG1/4
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1794032401
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1200 Priomhscealta na Nuachta agus na
+OL,6,G     Gaeltachta
+OL,7,     FPriomhscealta na Nuachta agus na
+OL,8,     FGaeltachta.
+OL,9,G1208 Togha agus Rogha
+OL,10,     FCeol agus iarratais a chur i
+OL,11,     Flathair ag Edel Ni Loibhead, beo o
+OL,12,     Fstiuideo Bhaile na nGall i gContae
+OL,13,     FChiarrai.
+OL,14,G1300 Nuacht a hAon
+OL,15,     FAn barr is deireanai nuachta
+OL,16,     Fnaisiunta, idirnaisiunta agus
+OL,17,     Faitiuil.
+OL,18,G1320 Togha agus Rogha
+OL,19,     FCeol agus iarratais a chur i
+OL,20,     Flathair ag Edel Ni Loibhead, beo o
+OL,21,     Fstiuideo Bhaile na nGall i gContae
+OL,22,     FChiarrai.
+OL,23,VppppppppppppppppppppppppppppppppppG2/4
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1794032401
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1400 Sport an tSathairn
+OL,6,     FFaisneis, tuairisci, torthai,
+OL,7,     Fanailis agus trachtaireacht ar
+OL,8,     Fchursai spoirt an tSathairn.
+OL,9,G1830 Blas
+OL,10,     FScealta beaga agus mora phobal na
+OL,11,     FGaeilge ar fud an tuaiscirt.
+OL,12,     FLeiriu de chuid BBC Gaeilge
+OL,13,G1900 Cuan an Cheoil
+OL,14,     FSa tsraith seo, taifeadta beo i
+OL,15,     FStiuideo Cuan sa Spideal, beidh
+OL,16,     Fcuid de mhorcheoltoiri na Gaeilge
+OL,17,     Fi mbun ceoil agus comhra le Liam O
+OL,18,     FMaonlai.
+OL,19,G2030 An Cuinne Ceoil
+OL,20,     FClar ceoil a chur i lathair ag
+OL,21,     FTristan Rosenstock.
+OL,23,VppppppppppppppppppppppppppppppppppG3/4
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,464,250,301,140,0,100
+PN,46304
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F463A1794032401
+OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
+OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G2100 Rianta
+OL,6,     FClar ceoil ar linne, ceol na
+OL,7,     Fcruinne, ceolta nua agus ceolta
+OL,8,     Fnios sine.
+OL,9,G0000 Scoth na Seachtaine
+OL,10,     FScoth na Seachtaine
+OL,23,VppppppppppppppppppppppppppppppppppG4/4
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
