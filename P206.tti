@@ -2,26 +2,28 @@ PN,20601
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F206A1794352700
+OL,0,        ECIMSBWebfax 2   F206A1794356309
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CTuesday
-OL,5,G2300 6 Music Artist in Residence
-OL,6,     FPhoebe takes you on a journey into
-OL,7,     Fthe beautiful lyrics of some of
-OL,8,     Fher favourite tracks.
-OL,9,G0000 6 Music's Indie Forever
-OL,10,     FEmily Pilbeam celebrates classic
-OL,11,     Findie T-shirts, with Joy Division,
-OL,12,     FThe Hives and Sleeper!
-OL,13,G0100 Hitsville USA - The Story of
+OL,5,G0000 6 Music's Indie Forever
+OL,6,     FEmily Pilbeam celebrates classic
+OL,7,     Findie T-shirts, with Joy Division,
+OL,8,     FThe Hives and Sleeper!
+OL,9,G0100 Hitsville USA - The Story of
+OL,10,G     Motown
+OL,11,     FThe story of the record label,
+OL,12,     Fpresented by Stuart Grundy.
+OL,13,G0200 Hitsville USA - The Story of
 OL,14,G     Motown
-OL,15,     FThe story of the record label,
-OL,16,     Fpresented by Stuart Grundy.
-OL,17,G0200 Hitsville USA - The Story of
-OL,18,G     Motown
-OL,19,     FStuart Grundy tells the story of
-OL,20,     Fthe Motown label.
+OL,15,     FStuart Grundy tells the story of
+OL,16,     Fthe Motown label.
+OL,17,G0300 6 Music Live hour
+OL,18,     FFountains of Wayne at the Reading
+OL,19,     FFestival in 1997, plus a session
+OL,20,     Fby Wolf People recorded on 3
+OL,21,     FFebruary 2011 and one by John &
+OL,22,     FJehn from April 2010.
 OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,207,200,300,120,0,100
@@ -29,24 +31,18 @@ PN,20602
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F206A1794352700
+OL,0,        ECIMSBWebfax 2   F206A1794356309
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k js1 7k#5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,% %* %
 OL,3,V}yyy5CTuesday
-OL,5,G0300 6 Music Live hour
-OL,6,     FFountains of Wayne at the Reading
-OL,7,     FFestival in 1997, plus a session
-OL,8,     Fby Wolf People recorded on 3
-OL,9,     FFebruary 2011 and one by John &
-OL,10,     FJehn from April 2010.
-OL,11,G0400 6 Music Jukebox
-OL,12,     FSoundtrack the early hours with
-OL,13,     Fback-to-back music, plus exclusive
-OL,14,     FBBC sessions.
-OL,15,G0500 Chris Hawkins
-OL,16,     FNames in Songs returns, can you
-OL,17,     Fhear your name in a well-known
-OL,18,     Fsong?
+OL,5,G0400 6 Music Jukebox
+OL,6,     FSoundtrack the early hours with
+OL,7,     Fback-to-back music, plus exclusive
+OL,8,     FBBC sessions.
+OL,9,G0500 Chris Hawkins
+OL,10,     FNames in Songs returns, can you
+OL,11,     Fhear your name in a well-known
+OL,12,     Fsong?
 OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,207,200,300,120,0,100
