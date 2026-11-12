@@ -2,10 +2,10 @@ PN,23901
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1794446364
+OL,0,        ECIMSBWebfax 2   F239A1794464407
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G0600 Radio Scotland Breakfast
 OL,6,     FNews from across Scotland and the
 OL,7,     Fworld, plus sport, weather,
@@ -18,63 +18,37 @@ OL,13,G1200 Lunchtime Live
 OL,14,     FNews updates from Scotland and
 OL,15,     Fbeyond, plus all your lunchtime
 OL,16,     Fsport, travel and weather.
-OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,17,G1330 Breaking the News
+OL,18,     FDes Clarke hosts Scotland's
+OL,19,     Faward-winning satirical news quiz.
+OL,20,G1400 Radio Scotland Afternoons
+OL,21,     FThe best music, guests and arts
+OL,22,     Fcoverage.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100
 PN,23902
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1794446364
+OL,0,        ECIMSBWebfax 2   F239A1794464407
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
-OL,5,G1330 Radio Scotland Afternoons
-OL,6,     FTwinnie discusses Love Actually
-OL,7,     FLive In Concert Tour where she and
-OL,8,     Fan orchestra will perform Craig
-OL,9,     FArmstrong's score, and Fiona
-OL,10,     FStalker talks about the film that
-OL,11,     Fshaped her.
-OL,12,G1600 Drivetime
-OL,13,     FBreaking down the day's talking
-OL,14,     Fpoints with comment and opinion,
-OL,15,     Fplus sport, travel and weather.
-OL,16,G1800 Get It On with Lynne Hoggan
-OL,17,     FFrom gym fanatics and bookworms to
-OL,18,     Ffly fishers and collectors, we're
-OL,19,     Fcelebrating your obsessions and
-OL,20,     Fthe songs that perfectly capture
-OL,21,     Fthem.
-OL,23,VppppppppppppppppppppppppppppppppppG2/3
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,240,200,300,120,0,100
-PN,23903
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F239A1794446364
-OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
-OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CThursday
-OL,5,G2000 Travelling Folk
-OL,6,     FAnna shares live music highlights
-OL,7,     Ffrom Travelling Folk at Celtic
-OL,8,     FConnections 2026, while looking
-OL,9,     Fahead to the jam-packed programme
-OL,10,     Ffor Celtic Connections 2027.
-OL,11,G2200 Up Late
-OL,12,     FThe best company to end the day,
-OL,13,     Fwith lively chat and some of your
-OL,14,     Ffavourite tunes.
-OL,15,G0000 Scotcast
-OL,16,     FMartin Geissler and the team bring
-OL,17,     Fyou thoughtful conversation and
-OL,18,     Fexpert analysis covering the most
-OL,19,     Finteresting news stories in
-OL,20,     FScotland.
-OL,21,G0030 As BBC Radio 5 Live
-OL,22,     FJoining Radio 5 Live.
-OL,23,VppppppppppppppppppppppppppppppppppG3/3
+OL,3,V}yyy5CFriday
+OL,5,G1600 Drivetime
+OL,6,     FBreaking down the day's talking
+OL,7,     Fpoints with comment and opinion,
+OL,8,     Fplus sport, travel and weather.
+OL,9,G1800 Sportsound
+OL,10,     FFull commentary of Scotland v
+OL,11,     FNorth Macedonia in the Nations
+OL,12,     FLeague.
+OL,13,G2230 Up Late
+OL,14,     FThe best company to end the day,
+OL,15,     Fwith lively chat and some of your
+OL,16,     Ffavourite tunes.
+OL,17,G0000 As BBC Radio 5 Live
+OL,18,     FJoining Radio 5 Live.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,240,200,300,120,0,100

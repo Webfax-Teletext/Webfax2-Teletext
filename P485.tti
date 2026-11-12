@@ -2,10 +2,10 @@ PN,48501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1794378003
+OL,0,        ECIMSBWebfax 2   F485A1794464407
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G0530 Rising Time
 OL,6,     FMornings with melody, featuring
 OL,7,     Fclassic cuts and the best of new
@@ -30,10 +30,10 @@ PN,48502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1794378003
+OL,0,        ECIMSBWebfax 2   F485A1794464407
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G1300 News At One
 OL,6,     FNews, sport, business and
 OL,7,     Finterviews presented by Rachael
@@ -57,17 +57,17 @@ PN,48503
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1794378003
+OL,0,        ECIMSBWebfax 2   F485A1794464407
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G1600 Drivetime
-OL,6,     FColm O Mongain keeps you company
-OL,7,     Fon your evening commute with top
-OL,8,     Fstories, expert analysis, and
-OL,9,     Fin-depth conversations on news,
-OL,10,     Fpolitics, entertainment and
-OL,11,     Fculture.
+OL,6,     FColm O Mongain and Claire Brock
+OL,7,     Fkeep you company on your evening
+OL,8,     Fcommute with top stories, expert
+OL,9,     Fanalysis, and in-depth
+OL,10,     Fconversations on news, politics,
+OL,11,     Fentertainment and culture.
 OL,12,G1800 Inside Sport
 OL,13,     FA dive into the biggest stories in
 OL,14,     Fsport, from national to
@@ -86,26 +86,28 @@ PN,48504
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1794378003
+OL,0,        ECIMSBWebfax 2   F485A1794464407
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CThursday
+OL,3,V}yyy5CFriday
 OL,5,G2000 The John Creedon Show
 OL,6,     FFrom our Cork studios, John
 OL,7,     FCreedon curates a two-hour blend
 OL,8,     Fof music's finest and weaves the
 OL,9,     Fperfect soundtrack to your
 OL,10,     Fevening.
-OL,11,G2200 The Late Debate
-OL,12,     FCormac O hEadhra brings you live
-OL,13,     Fdebate, in-depth interviews and
-OL,14,     Fanalysis of the political stories
-OL,15,     Fof the day.
-OL,16,G2300 Late Date
-OL,17,     FThe perfect musical end to the
-OL,18,     Fday, presented by Cathal Murray.
-OL,19,G0200 RTE Gold on RTE Radio 1
-OL,20,     FThe greatest hits of all time.
+OL,11,G2200 Callans Kicks
+OL,12,     FComedy with Oliver Callan as he
+OL,13,     Ftakes on some well-known voices in
+OL,14,     Fthe worlds of entertainment,
+OL,15,     Fpolitics and sport!
+OL,16,G2230 Irish Imperial Lives
+OL,17,     FKate O'Malley and Abie Philbin
+OL,18,     FBowman learn about Teresa Ball,
+OL,19,     Ffounder of schools that educated
+OL,20,     FCatholic girls across the British
+OL,21,     FEmpire from Canada to India and
+OL,22,     Fbeyond.
 OL,23,VppppppppppppppppppppppppppppppppppG4/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
@@ -113,14 +115,15 @@ PN,48505
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F485A1794378003
+OL,0,        ECIMSBWebfax 2   F485A1794464407
 OL,1,Vzssssss{0Ww;"k#js1 w;js57ijj#5 k
 OL,2,Vupp=wfff5W%* * *,$ %** %-&**,% *V(,,,,,
-OL,3,V}yyy5CThursday
-OL,5,G0530 Rising Time
-OL,6,     FMornings with melody, featuring
-OL,7,     Fclassic cuts and the best of new
-OL,8,     Fmusic presented by Neil Doherty.
+OL,3,V}yyy5CFriday
+OL,5,G2300 Late Date
+OL,6,     FThe perfect musical end to the
+OL,7,     Fday, presented by Ray Cuddihy.
+OL,8,G0200 RTE Gold on RTE Radio 1
+OL,9,     FThe greatest hits of all time.
 OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,486,250,301,140,0,100
