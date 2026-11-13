@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -17,43 +17,90 @@ OL,15,                                  ,
 OL,17,MCincluding the latest tech and culture
 OL,20,CM news and a look at what's on radio.
 OL,22,W
-OL,23,ATech headlines follow >>>QppppppppG1/17
+OL,23,ATech headlines follow >>>QppppppppG1/18
 OL,24,ARewind  BCulture  CNat Radio  FShowreel
 FL,120,160,200,140,0,100
 PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FMicrosoft 'deeply sorry' for global
-OL,6,Foutage after almost 24 hours of
-OL,7,FdisruptionA13-Nov
-OL,8,G
-OL,9,G107FPressure grows on Trump's Commerce
-OL,10,FSecretary Lutnick in fallout from
-OL,11,FNvidia scandalA13-Nov
-OL,12,G
-OL,13,G108FWhy is Microsoft's outage lasting
-OL,14,Fso long and will emails be lost?A13-Nov
+OL,5,G106FMicrosoft outage 'stark reminder'
+OL,6,Fof how much we rely on techA13-Nov
+OL,7,G
+OL,8,G107FMicrosoft 'deeply sorry' for global
+OL,9,Foutage after almost 24 hours of
+OL,10,FdisruptionA13-Nov
+OL,11,G
+OL,12,G108FPressure grows on Trump's Commerce
+OL,13,FSecretary Lutnick in fallout from
+OL,14,FNvidia scandalA13-Nov
 OL,15,G
-OL,16,G109FMicrosoft outage 'stark reminder'
-OL,17,Fof how much we rely on techA13-Nov
+OL,16,G109FWhy is Microsoft's outage lasting
+OL,17,Fso long and will emails be lost?A13-Nov
 OL,18,G
 OL,19,G110FCourts, spies and MPs: How the
 OL,20,FMicrosoft outage has been felt around
 OL,21,Fthe worldA13-Nov
 OL,22,G
-OL,23,QppppppppppppppppppppppppppppppppppG2/17
+OL,23,QppppppppppppppppppppppppppppppppppG2/18
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
 PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AMicrosoft outage 'stark reminder' of
+OL,4,Ahow much we rely on tech
+OL,5,
+OL,6,FA critical Microsoft outage lasting
+OL,7,Fmore than 22 hours has raised questions
+OL,8,Fabout how heavily vital services rely
+OL,9,Fon a handful of major tech firms.
+OL,11,FThe disruption, which affected
+OL,12,FMicrosoft 365 services such as Outlook,
+OL,13,Fwas caused by routine automated checks
+OL,14,Fthat took some servers offline,
+OL,15,Foverloading the remaining ones with
+OL,16,Ftraffic.
+OL,18,FThe recovery took nearly a full day
+OL,19,Fwhile engineers gradually restored
+OL,20,Fservices, highlighting how embedded the
+OL,21,Ftech giant's services are in modern
+OL,22,Fsociety.
+OL,23,APub: 13-NovQppppppppppppppppppppppG3/18
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794605051
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AMicrosoft outage 'stark reminder' of
+OL,4,Ahow much we rely on tech
+OL,5,
+OL,6,FFlora Hamilton, executive director of
+OL,7,Fthe Small Business Charter, said the
+OL,8,Foutage was a "stark reminder" of how
+OL,9,Fmuch firms "rely on digital systems" -
+OL,10,Flike Microsoft Outlook - "to keep their
+OL,11,Foperations running".
+OL,23,APub: 13-NovQppppppppppppppppppppppG4/18
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AMicrosoft 'deeply sorry' for global
@@ -66,18 +113,18 @@ OL,9,Fincluding Outlook and Teams, which has
 OL,10,Fcaused disruption around the world.
 OL,12,FServices were broadly recovering by
 OL,13,FFriday afternoon, nearly 24 hours after
-OL,14,Fissues first began, as Microsoft said
-OL,15,Fit was making "encouraging progress"
-OL,16,Fand email queues were nearing normal
-OL,17,Flevels.
-OL,23,APub: 13-NovQppppppppppppppppppppppG3/17
+OL,14,Fissues began. Microsoft said it was
+OL,15,Fmaking "encouraging progress", but
+OL,16,Fadded it does not know when services
+OL,17,Fwill fully recover.
+OL,23,APub: 13-NovQppppppppppppppppppppppG5/18
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AMicrosoft 'deeply sorry' for global
@@ -90,19 +137,18 @@ OL,9,Foperations to government services and
 OL,10,Fpersonal users. More than 430 million
 OL,11,Fpeople use the affected products
 OL,12,Fworldwide.
-OL,14,FMicrosoft said the problem was a
-OL,15,Ftechnical issue introduced during a
-OL,16,F"network capacity upgrade" and not
-OL,17,Frelated to cyber or artificial
-OL,18,Fintelligence agents.
-OL,23,APub: 13-NovQppppppppppppppppppppppG4/17
+OL,14,FMicrosoft said it was a technical issue
+OL,15,Fintroduced during a "network capacity
+OL,16,Fupgrade" and not related to cyber or
+OL,17,Fartificial intelligence agents.
+OL,23,APub: 13-NovQppppppppppppppppppppppG6/18
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,APressure grows on Trump's Commerce
@@ -123,14 +169,14 @@ OL,19,FJensen Huang was ousted as Nvidia CEO
 OL,20,Fafter revelations he had an affair with
 OL,21,Fa businesswoman who was also allegedly
 OL,22,Fa Chinese spy.
-OL,23,APub: 13-NovQppppppppppppppppppppppG5/17
+OL,23,APub: 13-NovQppppppppppppppppppppppG7/18
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,APressure grows on Trump's Commerce
@@ -143,41 +189,14 @@ OL,9,Fover suspicions it was smuggling Nvidia
 OL,10,Fchips into China, reports said, but it
 OL,11,Fis not on a list of firms US companies
 OL,12,Fare prevented from working with.
-OL,23,APub: 13-NovQppppppppppppppppppppppG6/17
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AWhy is Microsoft's outage lasting so
-OL,4,Along and will emails be lost?
-OL,5,
-OL,6,FA major Microsoft outage has impacted
-OL,7,Fschools, healthcare systems,
-OL,8,Fbusinesses, courts and governments
-OL,9,Faround the world.
-OL,11,FServices including Teams, Outlook and
-OL,12,FAI software Copilot, are being restored
-OL,13,Falmost 24 hours since issues first
-OL,14,Fsurfaced.
-OL,16,FMicrosoft said the outage was not a
-OL,17,Fcyber-security incident and was caused
-OL,18,Fby a technical issue. It has apologised
-OL,19,Ffor the disruption.
-OL,21,FHere's what we know about the services
-OL,22,Faffected and what went wrong.
-OL,23,APub: 13-NovQppppppppppppppppppppppG7/17
+OL,23,APub: 13-NovQppppppppppppppppppppppG8/18
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
-PN,11908
-SC,0008
+PN,11909
+SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -199,14 +218,14 @@ OL,19,G165FRosalia scoops historic third best
 OL,20,Falbum award at Latin GrammysA13-Nov
 OL,21,G
 OL,22,F
-OL,23,QppppppppppppppppppppppppppppppppppG8/17
+OL,23,QppppppppppppppppppppppppppppppppppG9/18
 OL,24,ANext PageBTechnologyCNat RadioFShowreel
 FL,161,105,200,140,0,100
-PN,11909
-SC,0009
+PN,11910
+SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,APolice investigating David Walliams
@@ -221,14 +240,14 @@ OL,12,FIt comes after ITV News and the
 OL,13,FGuardian published reports alleging
 OL,14,Fthat Walliams had been accused of
 OL,15,Fsexual misconduct by several women.
-OL,23,APub: 13-NovQppppppppppppppppppppppG9/17
+OL,23,APub: 13-NovQpppppppppppppppppppppG10/18
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
-PN,11910
-SC,0010
+PN,11911
+SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,APolice investigating David Walliams
@@ -247,14 +266,14 @@ OL,16,FWhen those allegations were first
 OL,17,Freported, Walliams said he was "not a
 OL,18,Fsexual predator" and had not "broken
 OL,19,Fthe law".
-OL,23,APub: 13-NovQpppppppppppppppppppppG10/17
+OL,23,APub: 13-NovQpppppppppppppppppppppG11/18
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
-PN,11911
-SC,0011
+PN,11912
+SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Hardest challenge of my life' - Owain
@@ -274,14 +293,14 @@ OL,18,FScotland and over the next five days,
 OL,19,FOwain rode through Northern Ireland,
 OL,20,FEngland and Wales and raised #3,853,530
 OL,21,Fin the process.
-OL,23,APub: 13-NovQpppppppppppppppppppppG11/17
+OL,23,APub: 13-NovQpppppppppppppppppppppG12/18
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
-PN,11912
-SC,0012
+PN,11913
+SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Hardest challenge of my life' - Owain
@@ -291,14 +310,14 @@ OL,6,
 OL,7,FReflecting on his journey, he said:
 OL,8,F"This has been the hardest challenge of
 OL,9,Fmy life, 100%.
-OL,23,APub: 13-NovQpppppppppppppppppppppG12/17
+OL,23,APub: 13-NovQpppppppppppppppppppppG13/18
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
-PN,11913
-SC,0013
+PN,11914
+SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AMore women make allegations against
@@ -318,14 +337,14 @@ OL,19,FAllegations against him first emerged
 OL,20,Fafter an investigation by the Times,
 OL,21,Fthe Sunday Times and Channel 4's
 OL,22,FDispatches in 2023.
-OL,23,APub: 13-NovQpppppppppppppppppppppG13/17
+OL,23,APub: 13-NovQpppppppppppppppppppppG14/18
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
-PN,11914
-SC,0014
+PN,11915
+SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
@@ -345,14 +364,14 @@ OL,17,G0200 Danny Howard's Club Mix
 OL,18,     FDanny goes in with another Club
 OL,19,     FMix, featuring Florentia, Cam
 OL,20,     FStockman, DJ MINX and more...
-OL,23,VpppppppppppppppppppppppppppppppppG14/17
+OL,23,VpppppppppppppppppppppppppppppppppG15/18
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11915
-SC,0015
+PN,11916
+SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CFriday
@@ -369,14 +388,14 @@ OL,14,     FShaun revisits the Rock God choice
 OL,15,     Fof Owain Wyn Evans to celebrate
 OL,16,     Fhis Children In Need Four Nations
 OL,17,     Fchallenge.
-OL,23,VpppppppppppppppppppppppppppppppppG15/17
+OL,23,VpppppppppppppppppppppppppppppppppG16/18
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11916
-SC,0016
+PN,11917
+SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday
@@ -392,14 +411,14 @@ OL,13,     Fconversation between Neil Dudgeon
 OL,14,     Fand Ralph Fiennes. Here they talk
 OL,15,     Fabout directing for theatre and
 OL,16,     Fopera.
-OL,23,VpppppppppppppppppppppppppppppppppG16/17
+OL,23,VpppppppppppppppppppppppppppppppppG17/18
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11917
-SC,0017
+PN,11918
+SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794604711
+OL,0,        ECIMSBWebfax 2   F119A1794605051
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CFriday
@@ -421,6 +440,6 @@ OL,19,     Fanalysis on what's happening
 OL,20,     Finside Trump's White House.
 OL,21,G2330 Today in Parliament
 OL,22,G0000 Midnight News
-OL,23,VpppppppppppppppppppppppppppppppppG17/17
+OL,23,VpppppppppppppppppppppppppppppppppG18/18
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
