@@ -2,26 +2,27 @@ PN,21301
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1794590348
+OL,0,        ECIMSBWebfax 2   F213A1794593966
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G1700 Evening Extra
-OL,6,     FAll the day's news and analysis
-OL,7,     Fwith Richard Morgan. Discussing
-OL,8,     Fstories that matter to you and
-OL,9,     Fasking the questions you want
-OL,10,     Fanswered.
-OL,11,G1800 BBC News NI update
-OL,12,     FThe latest national and
-OL,13,     Finternational news.
-OL,14,G1805 The Ticket
-OL,15,     FFrom blockbuster movies to comedy
-OL,16,     Fgigs, Kathy Clugston presents the
-OL,17,     Fdefinitive guide to going out.
-OL,18,G1900 BBC News NI update
-OL,19,     FThe latest national and
-OL,20,     Finternational news.
+OL,5,G1805 The Ticket
+OL,6,     FFrom blockbuster movies to comedy
+OL,7,     Fgigs, Kathy Clugston presents the
+OL,8,     Fdefinitive guide to going out.
+OL,9,G1900 BBC News NI update
+OL,10,     FThe latest national and
+OL,11,     Finternational news.
+OL,12,G1904 Stephen McCauley
+OL,13,     FThe Northern Ireland Music Prize
+OL,14,     Freturns to the Ulster Hall for
+OL,15,     F2026, with performances from Neil
+OL,16,     FMartin, Philomena Begley and some
+OL,17,     Fof the country's most exciting
+OL,18,     Fmusical talent.
+OL,19,G2100 BBC News NI update
+OL,20,     FThe latest national and
+OL,21,     Finternational news.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -29,27 +30,25 @@ PN,21302
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1794590348
+OL,0,        ECIMSBWebfax 2   F213A1794593966
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G1904 Stephen McCauley
-OL,6,     FThe Northern Ireland Music Prize
-OL,7,     Freturns to the Ulster Hall for
-OL,8,     F2026, with performances from Neil
-OL,9,     FMartin, Philomena Begley and some
-OL,10,     Fof the country's most exciting
-OL,11,     Fmusical talent.
-OL,12,G2100 BBC News NI update
-OL,13,     FThe latest national and
-OL,14,     Finternational news.
-OL,15,G2104 Stephen McCauley
-OL,16,     FA dazzling array of alternative
-OL,17,     Fmusic featuring Lael Neale, Duke
-OL,18,     FSpecial and Alana Henderson.
-OL,19,G2200 BBC News NI update
-OL,20,     FThe latest national and
-OL,21,     Finternational news.
+OL,5,G2104 Stephen McCauley
+OL,6,     FA dazzling array of alternative
+OL,7,     Fmusic featuring Lael Neale, Duke
+OL,8,     FSpecial and Alana Henderson.
+OL,9,G2200 BBC News NI update
+OL,10,     FThe latest national and
+OL,11,     Finternational news.
+OL,12,G2204 The Late Show with Mickey Bradley
+OL,13,     FMusic from Los Plantronics, Jack
+OL,14,     FNitzsche, Amelia & The Housewives,
+OL,15,     FThe Jam, Divine Comedy, Madness
+OL,16,     Fand more.
+OL,17,G2355 BBC News NI update
+OL,18,     FThe latest national and
+OL,19,     Finternational news.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
@@ -57,28 +56,20 @@ PN,21303
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F213A1794590348
+OL,0,        ECIMSBWebfax 2   F213A1794593966
 OL,1,Vzssssss{0Ww;js%7+ js17kjp55 js1
 OL,2,Vupp=wfff5W-.*,%-. *  -.(,%-,*,$V,,,,,,,
 OL,3,V}yyy5CFriday
-OL,5,G2204 The Late Show with Mickey Bradley
-OL,6,     FMusic from Los Plantronics, Jack
-OL,7,     FNitzsche, Amelia & The Housewives,
-OL,8,     FThe Jam, Divine Comedy, Madness
-OL,9,     Fand more.
-OL,10,G2355 BBC News NI update
-OL,11,     FThe latest national and
-OL,12,     Finternational news.
-OL,13,G0000 Sleep and Dream with Vinny & Cate
-OL,14,     FGP Louise Robinson talks us
-OL,15,     Fthrough what sundowning is, and
-OL,16,     Fhow it impacts sleep.
-OL,17,G0030 Sleep and Dream with Vinny & Cate
-OL,18,     FShare your slumber journeys
-OL,19,     FMeTime@bbc.co.uk.
-OL,20,G0100 As BBC Radio 5 live
-OL,21,     FBBC Radio Ulster joins BBC Radio 5
-OL,22,     Flive.
+OL,5,G0000 Sleep and Dream with Vinny & Cate
+OL,6,     FGP Louise Robinson talks us
+OL,7,     Fthrough what sundowning is, and
+OL,8,     Fhow it impacts sleep.
+OL,9,G0030 Sleep and Dream with Vinny & Cate
+OL,10,     FShare your slumber journeys
+OL,11,     FMeTime@bbc.co.uk.
+OL,12,G0100 As BBC Radio 5 live
+OL,13,     FBBC Radio Ulster joins BBC Radio 5
+OL,14,     Flive.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,214,200,300,120,0,100
