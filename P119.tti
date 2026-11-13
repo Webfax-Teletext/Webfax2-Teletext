@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,20 +24,20 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FCourts, spies and MPs: How the
-OL,6,FMicrosoft outage has been felt around
-OL,7,Fthe worldA13-Nov
-OL,8,G
-OL,9,G107FBessent blames Lutnick's Commerce
-OL,10,FDepartment for failing to block
-OL,11,FMegaspeedA13-Nov
-OL,12,G
-OL,13,G108FWhy is the Microsoft outage lasting
-OL,14,Fso long?A13-Nov
+OL,5,G106FWhy is Microsoft's outage lasting
+OL,6,Fso long and will emails be lost?A13-Nov
+OL,7,G
+OL,8,G107FCourts, spies and MPs: How the
+OL,9,FMicrosoft outage has been felt around
+OL,10,Fthe worldA13-Nov
+OL,11,G
+OL,12,G108FBessent blames Lutnick's Commerce
+OL,13,FDepartment for failing to block
+OL,14,FMegaspeedA13-Nov
 OL,15,G
 OL,16,G109FNHS, schools and police forces hit
 OL,17,Fby Microsoft outageA13-Nov
@@ -53,7 +53,34 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhy is Microsoft's outage lasting so
+OL,4,Along and will emails be lost?
+OL,5,
+OL,6,FA major Microsoft outage has impacted
+OL,7,Fschools, healthcare systems,
+OL,8,Fbusinesses, courts and governments
+OL,9,Faround the world.
+OL,11,FServices including Teams, Outlook and
+OL,12,FAI software Copilot, are being restored
+OL,13,Falmost 24 hours since issues first
+OL,14,Fsurfaced.
+OL,16,FMicrosoft said the outage was not a
+OL,17,Fcyber-security incident and was caused
+OL,18,Fby a technical issue. It has apologised
+OL,19,Ffor the disruption.
+OL,21,FHere's what we know about the services
+OL,22,Faffected and what went wrong.
+OL,23,APub: 13-NovQppppppppppppppppppppppG3/17
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ACourts, spies and MPs: How the
@@ -74,14 +101,14 @@ OL,19,Fseeing "encouraging recovery progress
 OL,20,Fin Europe" while Japan remained
 OL,21,F"comparatively more stable" and North
 OL,22,FAmerica was "also improving".
-OL,23,APub: 13-NovQppppppppppppppppppppppG3/17
+OL,23,APub: 13-NovQppppppppppppppppppppppG4/17
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11905
+SC,0005
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ACourts, spies and MPs: How the
@@ -92,14 +119,14 @@ OL,7,FFrom city governments in the US to
 OL,8,FAustralian spy agencies, the disruption
 OL,9,Fhas been widespread. Here's what's been
 OL,10,Fhappening around the world.
-OL,23,APub: 13-NovQppppppppppppppppppppppG4/17
+OL,23,APub: 13-NovQppppppppppppppppppppppG5/17
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ABessent blames Lutnick's Commerce
@@ -117,14 +144,14 @@ OL,15,Frevelations he had an affair with a
 OL,16,Fformer Megaspeed executive who was also
 OL,17,Fallegedly a Chinese spy. The firm had
 OL,18,Fbeen buying advanced chips from Nvidia.
-OL,23,APub: 13-NovQppppppppppppppppppppppG5/17
+OL,23,APub: 13-NovQppppppppppppppppppppppG6/17
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ABessent blames Lutnick's Commerce
@@ -140,31 +167,6 @@ OL,12,Fprevented from working with.
 OL,14,FBessent told CNBC several agencies
 OL,15,F"were in favour of putting Megaspeed on
 OL,16,Fthe entity list for months".
-OL,23,APub: 13-NovQppppppppppppppppppppppG6/17
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AWhy is the Microsoft outage lasting so
-OL,4,Along?
-OL,5,
-OL,6,FA major Microsoft outage has impacted
-OL,7,Fschools, healthcare systems, courts and
-OL,8,Fgovernments around the world, with
-OL,9,Fusers struggling to access emails and
-OL,10,Fartificial intelligence products.
-OL,12,FEfforts to completely resume services
-OL,13,Fremain ongoing after issues were first
-OL,14,Fexperienced on Thursday.
-OL,16,FMicrosoft said the outage was not
-OL,17,Fcaused by a cyber-security incident.
-OL,19,FHere's what we know about the services
-OL,20,Faffected and what went wrong.
 OL,23,APub: 13-NovQppppppppppppppppppppppG7/17
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
@@ -172,7 +174,7 @@ PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -201,7 +203,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,APolice investigating David Walliams
@@ -223,7 +225,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,APolice investigating David Walliams
@@ -232,7 +234,7 @@ OL,5,Aoffences
 OL,6,
 OL,7,FThe Met said that the allegations being
 OL,8,Finvestigated are separate from those
-OL,9,Freported by ITN and The Guardian, but
+OL,9,Freported by ITV and the Guardian, but
 OL,10,Fas "part of their investigation,
 OL,11,Fdetectives are also proactively
 OL,12,Freviewing that reporting to establish
@@ -249,7 +251,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Hardest challenge of my life' - Owain
@@ -276,7 +278,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Hardest challenge of my life' - Owain
@@ -293,7 +295,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AMore women make allegations against
@@ -320,7 +322,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
@@ -349,7 +351,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590347
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CFriday
@@ -376,7 +378,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590348
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday
@@ -401,7 +403,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794590348
+OL,0,        ECIMSBWebfax 2   F119A1794590660
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CFriday
