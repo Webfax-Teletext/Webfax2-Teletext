@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,27 +24,27 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FEx-Nvidia CEO Jensen Huang summoned
-OL,6,Fto testify before Congress about affair
-OL,7,Fwith alleged Chinese spyA12-Nov
-OL,8,G
-OL,9,G107FGlobal Microsoft outage affecting
-OL,10,Ftens of thousands of usersA12-Nov
+OL,5,G106FWhat we know about the global
+OL,6,FMicrosoft outageA13-Nov
+OL,7,G
+OL,8,G107FEx-Nvidia CEO Jensen Huang summoned
+OL,9,Fto testify before Congress about affair
+OL,10,Fwith alleged Chinese spyA12-Nov
 OL,11,G
-OL,12,G108FThe rise of 'housefishing' - when
-OL,13,Fdoes using AI go from enhancing to
-OL,14,Fmisleading?A13-Nov
-OL,15,G
-OL,16,G109FThe rise and fall of Jensen Huang -
-OL,17,Fhow the tech superstar became mired in
-OL,18,FscandalA12-Nov
-OL,19,G
-OL,20,G110FHow AI visionary Jensen Huang was
-OL,21,Fundone by his own bad decisionsA12-Nov
+OL,12,G108FGlobal Microsoft outage affecting
+OL,13,Ftens of thousands of usersA12-Nov
+OL,14,G
+OL,15,G109FThe rise of 'housefishing' - when
+OL,16,Fdoes using AI go from enhancing to
+OL,17,Fmisleading?A13-Nov
+OL,18,G
+OL,19,G110FThe rise and fall of Jensen Huang -
+OL,20,Fhow the tech superstar became mired in
+OL,21,FscandalA12-Nov
 OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
@@ -53,7 +53,49 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhat we know about the global Microsoft
+OL,4,Aoutage
+OL,5,
+OL,6,FA major global Microsoft outage has
+OL,7,Fcaused problems, or in some cases
+OL,8,Fdisabled entire services. including
+OL,9,Femails and artificial intelligence
+OL,10,Fproducts.
+OL,12,FReports of problems with the email
+OL,13,Fprovider Outlook peaked globally at
+OL,14,Fnearly 140,000 around 18:00 GMT on
+OL,15,FThursday, according to monitoring
+OL,16,Fwebsite Downdetector.
+OL,18,FMicrosoft has said the outage was not
+OL,19,Fcaused by a cyber-security incident,
+OL,20,Fbut efforts to fix the issues have so
+OL,21,Ffar been largely unsuccessful.
+OL,23,APub: 13-NovQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794554684
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AWhat we know about the global Microsoft
+OL,4,Aoutage
+OL,5,
+OL,6,FHere's what we know about the services
+OL,7,Faffected and what went wrong.
+OL,23,APub: 13-NovQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AEx-Nvidia CEO Jensen Huang summoned to
@@ -71,14 +113,14 @@ OL,15,Fcompanies after revelations of alleged
 OL,16,Fextramarital affairs, in a stunning
 OL,17,Ffall from grace that sent shockwaves
 OL,18,Fthrough Silicon Valley.
-OL,23,APub: 12-NovQppppppppppppppppppppppG3/19
+OL,23,APub: 12-NovQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AEx-Nvidia CEO Jensen Huang summoned to
@@ -93,14 +135,14 @@ OL,11,FSenate Banking Committee in December.
 OL,13,FNvidia has lost $550bn (#415bn) in
 OL,14,Fstock market value in just five days as
 OL,15,Fthe scandal dominated headlines.
-OL,23,APub: 12-NovQppppppppppppppppppppppG4/19
+OL,23,APub: 12-NovQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AGlobal Microsoft outage affecting tens
@@ -119,14 +161,14 @@ OL,17,Fon X that it was seeing "positive
 OL,18,Fresults" with its efforts to restore
 OL,19,Fservices and that it was rushing to fix
 OL,20,Fthe problem.
-OL,23,APub: 12-NovQppppppppppppppppppppppG5/19
+OL,23,APub: 12-NovQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AGlobal Microsoft outage affecting tens
@@ -139,78 +181,35 @@ OL,9,Fmonitoring website Downdetector. The
 OL,10,FBBC understands there is no indication
 OL,11,Fthe outage was caused by a
 OL,12,Fcyber-attack.
-OL,23,APub: 12-NovQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AThe rise of 'housefishing' - when does
-OL,4,Ausing AI go from enhancing to
-OL,5,Amisleading?
-OL,6,
-OL,7,FHave you ever been impressed by the
-OL,8,Fpictures of a property on an estate
-OL,9,Fagent's website, only to find the place
-OL,10,Flooks completely different when you
-OL,11,Fview it in person?
-OL,13,FThen there's a chance that AI was used
-OL,14,Fto enhance the images you saw.
-OL,16,FFrom repainted walls to imaginary
-OL,17,Flawns, estate agents are increasingly
-OL,18,Fusing the technology to make homes seem
-OL,19,Fmore appealing, arguing it helps buyers
-OL,20,Fvisualise the potential of a place.
-OL,23,APub: 13-NovQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AThe rise of 'housefishing' - when does
-OL,4,Ausing AI go from enhancing to
-OL,5,Amisleading?
-OL,6,
-OL,7,FBut experts warn it can go too far and
-OL,8,Fmislead prospective buyers - a trend
-OL,9,Fdubbed "housefishing".
-OL,23,APub: 13-NovQppppppppppppppppppppppG8/19
+OL,23,APub: 12-NovQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
 PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G161FTimothee Chalamet among Hollywood
-OL,6,Fstars and charity heroes stepping up
-OL,7,Ffor BBC Children In NeedA13-Nov
-OL,8,G
-OL,9,G162FSkye Newman gets 'goosebumps' over
-OL,10,Frecord-breaking Brixton Academy run
-OL,11,A13-Nov
-OL,12,G
-OL,13,G163FSchools, libraries and parents face
-OL,14,F'difficult decision' over David
-OL,15,FWalliams booksA12-Nov
-OL,16,G
-OL,17,G164FRussell Brand's social media
-OL,18,Faccounts disabled by MetaA12-Nov
-OL,19,G
-OL,20,G165FDuran Duran drummer quits band due
-OL,21,Fto tinnitusA12-Nov
-OL,22,G
+OL,5,G161FTimothee Chalamet and Zendaya prank
+OL,6,FRylan Clark for Children in NeedA13-Nov
+OL,7,G
+OL,8,G162FSkye Newman gets 'goosebumps' over
+OL,9,Frecord-breaking Brixton Academy run
+OL,10,A13-Nov
+OL,11,G
+OL,12,G163FSchools, libraries and parents face
+OL,13,F'difficult decision' over David
+OL,14,FWalliams booksA12-Nov
+OL,15,G
+OL,16,G164FRussell Brand's social media
+OL,17,Faccounts disabled by MetaA12-Nov
+OL,18,G
+OL,19,G165FDuran Duran drummer quits band due
+OL,20,Fto tinnitusA12-Nov
+OL,21,G
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG9/19
 OL,24,ANext PageBTechnologyCNat RadioFShowreel
 FL,161,105,200,140,0,100
@@ -218,26 +217,24 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ATimothee Chalamet among Hollywood stars
-OL,4,Aand charity heroes stepping up for BBC
-OL,5,AChildren In Need
-OL,6,
-OL,7,FThis year's BBC Children In Need show
-OL,8,Fis taking place on Friday, with
-OL,9,Fhighlights including Timothee Chalamet
-OL,10,Fpranking Rylan Clark, and a "challenge
-OL,11,Fsquad" of young people completing feats
-OL,12,Fin the name of charity.
-OL,14,FOscar-nominated actor Chalamet and
-OL,15,Fco-stars Zendaya, Jason Momoa and Anya
-OL,16,FTaylor-Joy will be seen making Rylan
-OL,17,Fsweat during an interview for their new
-OL,18,Ffilm Dune: Part Three, with the help of
-OL,19,Fthree children, hidden behind the
-OL,20,Fscenes.
+OL,3,ATimothee Chalamet and Zendaya prank
+OL,4,ARylan Clark for Children in Need
+OL,5,
+OL,6,FTimothee Chalamet and his Dune co-stars
+OL,7,Fwill be seen pranking Rylan Clark
+OL,8,Fduring this year's Children in Need on
+OL,9,FFriday.
+OL,11,FThe Oscar-nominated actor will be seen
+OL,12,Fmaking the presenter sweat with
+OL,13,Fsuggestions from children
+OL,14,Fbehind-the-scenes in an Impractical
+OL,15,FJokers-style set-up, during an
+OL,16,Finterview with Zendaya, Jason Momoa and
+OL,17,FAnya Taylor-Joy about the third
+OL,18,Finstallment of the film franchise.
 OL,23,APub: 13-NovQpppppppppppppppppppppG10/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
@@ -245,22 +242,21 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
-OL,3,ATimothee Chalamet among Hollywood stars
-OL,4,Aand charity heroes stepping up for BBC
-OL,5,AChildren In Need
-OL,6,
-OL,7,FThe show will also feature Radio 2
-OL,8,Fpresenter Owain Wyn Evans, on a
-OL,9,F400-mile cycle challenge through
-OL,10,FScotland, Northern Ireland, England and
-OL,11,FWales.
-OL,13,FLast year's appeal raised more than
-OL,14,F#45m to help children and young people
-OL,15,Facross the UK, and this year's TV event
-OL,16,Fwill be broadcast from 19:00 GMT.
+OL,3,ATimothee Chalamet and Zendaya prank
+OL,4,ARylan Clark for Children in Need
+OL,5,
+OL,6,FThis year's Children in Need show will
+OL,7,Falso feature Radio 2 presenter Owain
+OL,8,FWyn Evans and a "challenge squad" of
+OL,9,Fyoung people completing feats in the
+OL,10,Fname of charity.
+OL,12,FLast year's appeal raised more than
+OL,13,F#45m to help children and young people
+OL,14,Facross the UK, and this year's TV event
+OL,15,Fwill be broadcast from 19:00 GMT.
 OL,23,APub: 13-NovQpppppppppppppppppppppG11/19
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
@@ -268,7 +264,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASkye Newman gets 'goosebumps' over
@@ -293,7 +289,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASkye Newman gets 'goosebumps' over
@@ -313,7 +309,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASchools, libraries and parents face
@@ -339,7 +335,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ASchools, libraries and parents face
@@ -361,7 +357,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
@@ -388,7 +384,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CFriday
@@ -414,7 +410,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday
@@ -441,7 +437,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794554310
+OL,0,        ECIMSBWebfax 2   F119A1794554684
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CFriday
