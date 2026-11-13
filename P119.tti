@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -17,43 +17,89 @@ OL,15,                                  ,
 OL,17,MCincluding the latest tech and culture
 OL,20,CM news and a look at what's on radio.
 OL,22,W
-OL,23,ATech headlines follow >>>QppppppppG1/18
+OL,23,ATech headlines follow >>>QppppppppG1/17
 OL,24,ARewind  BCulture  CNat Radio  FShowreel
 FL,120,160,200,140,0,100
 PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FBessent blames Lutnick's Commerce
-OL,6,FDepartment for failing to block
-OL,7,FMegaspeedA13-Nov
+OL,5,G106FCourts, spies and MPs: How the
+OL,6,FMicrosoft outage has been felt around
+OL,7,Fthe worldA13-Nov
 OL,8,G
-OL,9,G107FWhy is the Microsoft outage lasting
-OL,10,Fso long?A13-Nov
-OL,11,G
-OL,12,G108FNHS, schools and police forces hit
-OL,13,Fby Microsoft outageA13-Nov
-OL,14,G
-OL,15,G109FCourts, spies and MPs: How the
-OL,16,FMicrosoft outage has been felt around
-OL,17,Fthe worldA13-Nov
+OL,9,G107FBessent blames Lutnick's Commerce
+OL,10,FDepartment for failing to block
+OL,11,FMegaspeedA13-Nov
+OL,12,G
+OL,13,G108FWhy is the Microsoft outage lasting
+OL,14,Fso long?A13-Nov
+OL,15,G
+OL,16,G109FNHS, schools and police forces hit
+OL,17,Fby Microsoft outageA13-Nov
 OL,18,G
 OL,19,G110FHow a sex scandal at Nvidia is
 OL,20,Fputting pressure on the White House
 OL,21,A13-Nov
 OL,22,G
-OL,23,QppppppppppppppppppppppppppppppppppG2/18
+OL,23,QppppppppppppppppppppppppppppppppppG2/17
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
 PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,ACourts, spies and MPs: How the
+OL,4,AMicrosoft outage has been felt around
+OL,5,Athe world
+OL,6,
+OL,7,FAt least 74 countries have been
+OL,8,Faffected by the Microsoft outage since
+OL,9,Fit was detected after midday US Eastern
+OL,10,FTime (17:00 GMT) on Thursday.
+OL,12,FMicrosoft 365 Services, including
+OL,13,FTeams, Outlook and artificial
+OL,14,Fintelligence software Copilot, were
+OL,15,Fexperiencing "connectivity problems",
+OL,16,Fthe company said.
+OL,18,FAs of 12:00 GMT on Friday, it reported
+OL,19,Fseeing "encouraging recovery progress
+OL,20,Fin Europe" while Japan remained
+OL,21,F"comparatively more stable" and North
+OL,22,FAmerica was "also improving".
+OL,23,APub: 13-NovQppppppppppppppppppppppG3/17
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794585252
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,ACourts, spies and MPs: How the
+OL,4,AMicrosoft outage has been felt around
+OL,5,Athe world
+OL,6,
+OL,7,FFrom city governments in the US to
+OL,8,FAustralian spy agencies, the disruption
+OL,9,Fhas been widespread. Here's what's been
+OL,10,Fhappening around the world.
+OL,23,APub: 13-NovQppppppppppppppppppppppG4/17
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ABessent blames Lutnick's Commerce
@@ -63,22 +109,22 @@ OL,6,
 OL,7,FUS Treasury Secretary Scott Bessent has
 OL,8,Fblamed the Commerce Department, run by
 OL,9,FHoward Lutnick, of failing to properly
-OL,10,Foversee the export of
-OL,11,Fhigh-specification Nvidia chips, as the
-OL,12,Ffallout from the scandal widens.
-OL,14,FJensen Huang left the company he
-OL,15,Fco-founded after revelations he had an
-OL,16,Faffair a former Megaspeed executive.
-OL,17,FThe firm had been buying advanced chips
-OL,18,Ffrom Nvidia.
-OL,23,APub: 13-NovQppppppppppppppppppppppG3/18
+OL,10,Foversee the export of high-spec Nvidia
+OL,11,Fchips, as the fallout from the scandal
+OL,12,Fwidens.
+OL,14,FJensen Huang left Nvidia after
+OL,15,Frevelations he had an affair with a
+OL,16,Fformer Megaspeed executive who was also
+OL,17,Fallegedly a Chinese spy. The firm had
+OL,18,Fbeen buying advanced chips from Nvidia.
+OL,23,APub: 13-NovQppppppppppppppppppppppG5/17
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ABessent blames Lutnick's Commerce
@@ -87,22 +133,21 @@ OL,5,AMegaspeed
 OL,6,
 OL,7,FMegaspeed had been probed by US
 OL,8,Fgovernment agencies over suspicions it
-OL,9,Fhad been smuggling those chips into
-OL,10,FChina, reports said, but it is not on a
-OL,11,Flist of firms that US companies are
+OL,9,Fhad been smuggling chips into China,
+OL,10,Freports said, but it is not on a list
+OL,11,Fof firms that US companies are
 OL,12,Fprevented from working with.
-OL,14,FBessent told CNBC several government
-OL,15,Fagencies "were in favour of putting
-OL,16,FMegaspeed on the entity list for
-OL,17,Fmonths".
-OL,23,APub: 13-NovQppppppppppppppppppppppG4/18
+OL,14,FBessent told CNBC several agencies
+OL,15,F"were in favour of putting Megaspeed on
+OL,16,Fthe entity list for months".
+OL,23,APub: 13-NovQppppppppppppppppppppppG6/17
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhy is the Microsoft outage lasting so
@@ -113,80 +158,20 @@ OL,7,Fcaused problems, or in some cases
 OL,8,Fdisabled entire services, including
 OL,9,Femails and artificial intelligence
 OL,10,Fproducts.
-OL,12,FMicrosoft has said the outage was not
-OL,13,Fcaused by a cyber-security incident,
-OL,14,Fbut efforts to fully fix the issues are
-OL,15,Fstill ongoing.
-OL,17,FHere's what we know about the services
-OL,18,Faffected and what went wrong.
-OL,23,APub: 13-NovQppppppppppppppppppppppG5/18
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AWhy is the Microsoft outage lasting so
-OL,4,Along?
-OL,5,
-OL,6,FMicrosoft 365 Services, including
-OL,7,FTeams, Outlook and Microsoft's
-OL,8,Fartificial intelligence software
-OL,9,FCopilot, have been affected by
-OL,10,F"connectivity problems".
-OL,23,APub: 13-NovQppppppppppppppppppppppG6/18
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ANHS, schools and police forces hit by
-OL,4,AMicrosoft outage
-OL,5,
-OL,6,FKey services across the UK, including
-OL,7,Fthe NHS, GPs and schools, have been
-OL,8,Faffected by a global Microsoft outage.
-OL,10,FPharmacies and businesses have also
-OL,11,Fbeen hit after email and messaging
-OL,12,Fservices went down.
-OL,14,FNHS England said patients should still
-OL,15,Fattend appointments unless told
-OL,16,Fotherwise, while several large police
-OL,17,Fforces are urging the public to call if
-OL,18,Fthey want to report a crime.
-OL,23,APub: 13-NovQppppppppppppppppppppppG7/18
+OL,12,FEfforts to completely resume services
+OL,13,Fremain ongoing.
+OL,15,FMicrosoft said the outage was not
+OL,16,Fcaused by a cyber-security incident.
+OL,18,FHere's what we know about the services
+OL,19,Faffected and what went wrong.
+OL,23,APub: 13-NovQppppppppppppppppppppppG7/17
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
 PN,11908
 SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,ANHS, schools and police forces hit by
-OL,4,AMicrosoft outage
-OL,5,
-OL,6,FMicrosoft said services were now
-OL,7,Fgradually being restored globally after
-OL,8,Fa problem caused by a higher-than-usual
-OL,9,Fstress on its servers, but users could
-OL,10,Fstill experience disruption.
-OL,23,APub: 13-NovQppppppppppppppppppppppG8/18
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11909
-SC,0009
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -208,14 +193,14 @@ OL,19,Frecord-breaking Brixton Academy run
 OL,20,A13-Nov
 OL,21,G
 OL,22,F
-OL,23,QppppppppppppppppppppppppppppppppppG9/18
+OL,23,QppppppppppppppppppppppppppppppppppG8/17
 OL,24,ANext PageBTechnologyCNat RadioFShowreel
 FL,161,105,200,140,0,100
-PN,11910
-SC,0010
+PN,11909
+SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AMore women make allegations against
@@ -235,14 +220,14 @@ OL,19,FAllegations against him first emerged
 OL,20,Fafter an investigation by the Times,
 OL,21,Fthe Sunday Times and Channel 4's
 OL,22,FDispatches in 2023.
-OL,23,APub: 13-NovQpppppppppppppppppppppG10/18
+OL,23,APub: 13-NovQppppppppppppppppppppppG9/17
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,162,160,200,105,0,100
-PN,11911
-SC,0011
+PN,11910
+SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Hardest challenge of my life' - Owain
@@ -262,14 +247,14 @@ OL,18,FScotland and over the next five days,
 OL,19,FOwain rode through Northern Ireland,
 OL,20,FEngland and Wales and raised #3,853,530
 OL,21,Fin the process.
-OL,23,APub: 13-NovQpppppppppppppppppppppG11/18
+OL,23,APub: 13-NovQpppppppppppppppppppppG10/17
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
-PN,11912
-SC,0012
+PN,11911
+SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'Hardest challenge of my life' - Owain
@@ -279,14 +264,14 @@ OL,6,
 OL,7,FReflecting on his journey, he said:
 OL,8,F"This has been the hardest challenge of
 OL,9,Fmy life, 100%.
-OL,23,APub: 13-NovQpppppppppppppppppppppG12/18
+OL,23,APub: 13-NovQpppppppppppppppppppppG11/17
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,163,160,200,105,0,100
-PN,11913
-SC,0013
+PN,11912
+SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ATimothee Chalamet and Zendaya prank
@@ -304,14 +289,14 @@ OL,15,FJokers-style set-up, during an
 OL,16,Finterview with Zendaya, Jason Momoa and
 OL,17,FAnya Taylor-Joy about the third
 OL,18,Finstallment of the film franchise.
-OL,23,APub: 13-NovQpppppppppppppppppppppG13/18
+OL,23,APub: 13-NovQpppppppppppppppppppppG12/17
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
-PN,11914
-SC,0014
+PN,11913
+SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ATimothee Chalamet and Zendaya prank
@@ -326,14 +311,14 @@ OL,12,FLast year's appeal raised more than
 OL,13,F#45m to help children and young people
 OL,14,Facross the UK, and this year's TV event
 OL,15,Fwill be broadcast from 19:00 GMT.
-OL,23,APub: 13-NovQpppppppppppppppppppppG14/18
+OL,23,APub: 13-NovQpppppppppppppppppppppG13/17
 OL,24,ANext PageBCultureC Nat RadioFTechnology
 FL,164,160,200,105,0,100
-PN,11915
-SC,0015
+PN,11914
+SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
@@ -352,14 +337,14 @@ OL,16,G1800 Radio 1's Dance Party with Danny
 OL,17,G     Howard
 OL,18,     FParty your way into the weekend
 OL,19,     Fwith Danny.
-OL,23,VpppppppppppppppppppppppppppppppppG15/18
+OL,23,VpppppppppppppppppppppppppppppppppG14/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11916
-SC,0016
+PN,11915
+SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CFriday
@@ -379,14 +364,14 @@ OL,17,G1900 Michelle Visage
 OL,18,     FMichelle's boptastic Fabulous
 OL,19,     FFriday party for anyone who likes
 OL,20,     Fto move it, move it.
-OL,23,VpppppppppppppppppppppppppppppppppG16/18
+OL,23,VpppppppppppppppppppppppppppppppppG15/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11917
-SC,0017
+PN,11916
+SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday
@@ -405,14 +390,14 @@ OL,16,     Frise.
 OL,17,G1700 In Tune
 OL,18,     FPianist David Kadouch plays live.
 OL,19,     FJonathan Coe on his new book.
-OL,23,VpppppppppppppppppppppppppppppppppG17/18
+OL,23,VpppppppppppppppppppppppppppppppppG16/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
-PN,11918
-SC,0018
+PN,11917
+SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794584894
+OL,0,        ECIMSBWebfax 2   F119A1794585252
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CFriday
@@ -429,6 +414,6 @@ OL,14,     Fimprisoned for his poetry, Dr
 OL,15,     FBeverly Whipple - author of The G
 OL,16,     FSpot, and Ursula von Rydingsvard -
 OL,17,     Flarge for sculptor.
-OL,23,VpppppppppppppppppppppppppppppppppG18/18
+OL,23,VpppppppppppppppppppppppppppppppppG17/17
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,120,200,300,120,0,100
