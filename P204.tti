@@ -2,24 +2,26 @@ PN,20401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1100 The Week in Westminster
-OL,6,     FAilbhe Rea of The New Statesman
-OL,7,     Fanalyses the latest developments
-OL,8,     Fat Westminster.
-OL,9,G1130 From Our Own Correspondent
-OL,10,     FTens of thousands of protesters
-OL,11,     Fgathered across Spain for the
-OL,12,     Ffirst general strike in 14 years,
-OL,13,     Fin response to the country's
-OL,14,     Fgrowing housing crisis and
-OL,15,     Fspiralling cost of living.
-OL,16,G1200 Money Box
-OL,17,     FHow much cash should you have at
-OL,18,     Fhome in case of an emergency?
+OL,5,G1130 From Our Own Correspondent
+OL,6,     FTens of thousands of protesters
+OL,7,     Fgathered across Spain for the
+OL,8,     Ffirst general strike in 14 years,
+OL,9,     Fin response to the country's
+OL,10,     Fgrowing housing crisis and
+OL,11,     Fspiralling cost of living.
+OL,12,G1200 Money Box
+OL,13,     FHow much cash should you have at
+OL,14,     Fhome in case of an emergency?
+OL,15,G1230 The Naked Week
+OL,16,     F2/6. From host Andrew Hunter
+OL,17,     FMurray and The Skewer's Jon
+OL,18,     FHolmes, The Naked Week team are
+OL,19,     Fback with their mischievous
+OL,20,     Fmachinations on the week's news.
 OL,23,VppppppppppppppppppppppppppppppppppG1/9
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -27,26 +29,28 @@ PN,20402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1230 The Naked Week
-OL,6,     F2/6. From host Andrew Hunter
-OL,7,     FMurray and The Skewer's Jon
-OL,8,     FHolmes, The Naked Week team are
-OL,9,     Fback with their mischievous
-OL,10,     Fmachinations on the week's news.
-OL,11,G1300 News Bulletin
-OL,12,     FNational and international news
-OL,13,     Ffrom BBC Radio 4.
-OL,14,G1310 Any Questions?
-OL,15,     FAlex Forsyth presents political
-OL,16,     Fdebate from Yelvertoft in
-OL,17,     FNorthamptonshire with Dame Meg
-OL,18,     FHillier MP, Richard Holden MP,
-OL,19,     FRachel Millward and Richard Tice
-OL,20,     FMP.
+OL,5,G1300 News Bulletin
+OL,6,     FNational and international news
+OL,7,     Ffrom BBC Radio 4.
+OL,8,G1310 Any Questions?
+OL,9,     FAlex Forsyth presents political
+OL,10,     Fdebate from Yelvertoft in
+OL,11,     FNorthamptonshire with Dame Meg
+OL,12,     FHillier MP, Richard Holden MP,
+OL,13,     FRachel Millward and Richard Tice
+OL,14,     FMP.
+OL,15,G1405 Any Answers?
+OL,16,     FListeners respond to the issues
+OL,17,     Fraised in the preceding edition of
+OL,18,     FAny Questions?
+OL,19,G1445 The Archers
+OL,20,     FKirsty faces a terrible
+OL,21,     Frealisation, and Usha struggles to
+OL,22,     Faccept her new situation.
 OL,23,VppppppppppppppppppppppppppppppppppG2/9
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -54,28 +58,22 @@ PN,20403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1405 Any Answers?
-OL,6,     FListeners respond to the issues
-OL,7,     Fraised in the preceding edition of
-OL,8,     FAny Questions?
-OL,9,G1445 The Archers
-OL,10,     FKirsty faces a terrible
-OL,11,     Frealisation, and Usha struggles to
-OL,12,     Faccept her new situation.
-OL,13,G1500 Fork in the Road: Heat, Dust and
-OL,14,G     Celluloid
-OL,15,     FBefore A Room with a View,
-OL,16,     FMerchant Ivory had to survive Heat
-OL,17,     Fand Dust. A story of chaos and
-OL,18,     Fbluff, imagined from the memories
-OL,19,     Fof those who were there.
-OL,20,G1600 Weekend Woman's Hour
-OL,21,     FThe women behind the Kyiv
-OL,22,     FIndependent, five years on.
+OL,5,G1500 Fork in the Road: Heat, Dust and
+OL,6,G     Celluloid
+OL,7,     FBefore A Room with a View,
+OL,8,     FMerchant Ivory had to survive Heat
+OL,9,     Fand Dust. A story of chaos and
+OL,10,     Fbluff, imagined from the memories
+OL,11,     Fof those who were there.
+OL,12,G1600 Weekend Woman's Hour
+OL,13,     FThe women behind the Kyiv
+OL,14,     FIndependent, five years on.
+OL,15,G1700 Saturday PM
+OL,16,     FFull coverage of the day's news.
 OL,23,VppppppppppppppppppppppppppppppppppG3/9
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -83,27 +81,25 @@ PN,20404
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1700 Saturday PM
-OL,6,     FFull coverage of the day's news.
-OL,7,G1730 Political Thinking with Nick
-OL,8,G     Robinson
-OL,9,     FHow do 'middle powers' like Canada
-OL,10,     Fand the UK respond to a 'ruptured'
-OL,11,     Fworld order? Canada's foreign
-OL,12,     Fminister Anita Anand joins Nick in
-OL,13,     Fthe studio.
-OL,14,G1755 Shipping Forecast
-OL,15,G1800 Six O'Clock News
-OL,16,G1815 Loose Ends
-OL,17,     FEdith Bowman is joined by comedian
-OL,18,     FSusan Calman, writer Mairi Kidd
-OL,19,     Fand stand-up Mark Black. Plus
-OL,20,     Fmusic from Teenage Fanclub, and
-OL,21,     FMiwa Nagato-Apthorp.
+OL,5,G1730 Political Thinking with Nick
+OL,6,G     Robinson
+OL,7,     FHow do 'middle powers' like Canada
+OL,8,     Fand the UK respond to a 'ruptured'
+OL,9,     Fworld order? Canada's foreign
+OL,10,     Fminister Anita Anand joins Nick in
+OL,11,     Fthe studio.
+OL,12,G1755 Shipping Forecast
+OL,13,G1800 Six O'Clock News
+OL,14,G1815 Loose Ends
+OL,15,     FEdith Bowman is joined by comedian
+OL,16,     FSusan Calman, writer Mairi Kidd
+OL,17,     Fand stand-up Mark Black. Plus
+OL,18,     Fmusic from Teenage Fanclub, and
+OL,19,     FMiwa Nagato-Apthorp.
 OL,23,VppppppppppppppppppppppppppppppppppG4/9
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
@@ -111,7 +107,7 @@ PN,20405
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
@@ -140,7 +136,7 @@ PN,20406
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
@@ -168,7 +164,7 @@ PN,20407
 SC,0007
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
@@ -192,7 +188,7 @@ PN,20408
 SC,0008
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
@@ -219,7 +215,7 @@ PN,20409
 SC,0009
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794655101
+OL,0,        ECIMSBWebfax 2   F204A1794656892
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
