@@ -1,17 +1,125 @@
-PN,20300
-SC,0000
+PN,20301
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F203A1794617325
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1794637229
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
-OL,3,V}yyy5CFriday
+OL,3,V}yyy5CSaturday
 OL,5,G0030 Through the Night
 OL,6,     FThe Lithuanian State Symphony
 OL,7,     FOrchestra and conductor Luis Toro
 OL,8,     FAraya perform Mendelssohn's Violin
 OL,9,     FConcerto, Brahms's Tragic Overture
 OL,10,     Fand Dvorak's 7th Symphony.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,11,G0630 Breakfast
+OL,12,     FHannah French presents Radio 3's
+OL,13,     FBreakfast show. To get in touch,
+OL,14,     Femail 3breakfast@bbc.co.uk.
+OL,15,G0900 Saturday Morning
+OL,16,     FTom talks to legendary violinist,
+OL,17,     FChristian Tetzlaff about his
+OL,18,     Fcareer as a violinist and his
+OL,19,     Fmission, not to entertain, but to
+OL,20,     Freveal the beauty and innate depth
+OL,21,     Fof music.
+OL,23,VppppppppppppppppppppppppppppppppppG1/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20302
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1794637229
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1200 Earlier... with Jools Holland
+OL,6,     FJools is joined by the jazz singer
+OL,7,     Fand lyricist Norma Winstone.
+OL,8,G1300 Key Changes: Radio 3's...
+OL,9,     F...Essential History of Classical
+OL,10,     FMusic. 1875, Paris. Two
+OL,11,     Fgroundbreaking operas pull the
+OL,12,     Fartform in radically different
+OL,13,     Fdirections.
+OL,14,G1400 Record Review
+OL,15,     FAndrew McGregor with a look at the
+OL,16,     Fweek's classical music releases
+OL,17,     Fand recommendations from Sarah
+OL,18,     FWalker.
+OL,23,VppppppppppppppppppppppppppppppppppG2/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20303
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1794637229
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1600 Sound of Cinema
+OL,6,     FEdith Bowman presents your weekly
+OL,7,     Fshowcases of striking screen
+OL,8,     Fmusic. This week, composer Chris
+OL,9,     FRoe joins to discuss the
+OL,10,     Fsoundtrack to Austin Powers in
+OL,11,     F'Harmonising Hollywood'.
+OL,12,G1700 This Classical Life
+OL,13,     FJess Gillam is joined by the
+OL,14,     Fpianist, band leader and composer
+OL,15,     FJames Pearson for a listening
+OL,16,     Fparty.
+OL,23,VppppppppppppppppppppppppppppppppppG3/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20304
+SC,0004
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1794637229
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1800 Opera on 3: Don Giovanni
+OL,6,     FMozart's Don Giovanni: murder,
+OL,7,     Frevenge and the supernatural in a
+OL,8,     Fdazzling performance featuring the
+OL,9,     FScottish Chamber Orchestra from
+OL,10,     Fthe 2026 Edinburgh International
+OL,11,     FFestival.
+OL,12,G2130 Music Planet
+OL,13,     FLopa Kothari presents the best in
+OL,14,     Ffolk and roots-based music from
+OL,15,     Faround the world, with picks from
+OL,16,     FKronos Quartet founder David
+OL,17,     FHarrington.
+OL,23,VppppppppppppppppppppppppppppppppppG4/5
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,204,200,300,120,0,100
+PN,20305
+SC,0005
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F203A1794637229
+OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
+OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G2230 New Music Show
+OL,6,     FNew European Ensemble perform
+OL,7,     Fworks by four female composers
+OL,8,     Finspired by the four Seasons
+OL,9,     Fnovels by Scottish author Ali
+OL,10,     FSmith, recorded at Aberdeen Sound
+OL,11,     FFestival.
+OL,12,G0030 Through the Night
+OL,13,     FAnastasia Kobekina is the soloist
+OL,14,     Fin Dvorak's Cello Concerto with
+OL,15,     Fthe NDR Elbphilharmonie Orchestra
+OL,16,     Fand conductor Karina Canellakis
+OL,17,     Ffrom the Schleswig-Holstein Music
+OL,18,     FFestival.
+OL,23,VppppppppppppppppppppppppppppppppppG5/5
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,204,200,300,120,0,100
