@@ -1,41 +1,26 @@
-PN,46301
-SC,0001
+PN,46300
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1794682090
+PS,8008
+OL,0,        ECIMSBWebfax 2   F463A1794683912
 OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
 OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
 OL,3,V}yyy5CSaturday
-OL,5,G1830 Blas
-OL,6,     FScealta beaga agus mora phobal na
-OL,7,     FGaeilge ar fud an tuaiscirt.
-OL,8,     FLeiriu de chuid BBC Gaeilge
-OL,9,G1900 Cuan an Cheoil
-OL,10,     FSa tsraith seo, taifeadta beo i
-OL,11,     FStiuideo Cuan sa Spideal, beidh
-OL,12,     Fcuid de mhorcheoltoiri na Gaeilge
-OL,13,     Fi mbun ceoil agus comhra le Liam O
-OL,14,     FMaonlai.
-OL,15,G2030 An Cuinne Ceoil
-OL,16,     FClar ceoil a chur i lathair ag
-OL,17,     FTristan Rosenstock.
-OL,18,G2100 Rianta
-OL,19,     FClar ceoil ar linne, ceol na
-OL,20,     Fcruinne, ceolta nua agus ceolta
-OL,21,     Fnios sine.
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext PageBReg Radio CReg SportFShowreel
-FL,464,250,301,140,0,100
-PN,46302
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F463A1794682090
-OL,1,Vzssssss{0Ww;"k#js1 w; j#5w{ j#1
-OL,2,Vupp=wfff5W%* * *,$ %* * %%* *,%V,,,,,,,
-OL,3,V}yyy5CSaturday
-OL,5,G0000 Scoth na Seachtaine
-OL,6,     FScoth na Seachtaine
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G1900 Cuan an Cheoil
+OL,6,     FSa tsraith seo, taifeadta beo i
+OL,7,     FStiuideo Cuan sa Spideal, beidh
+OL,8,     Fcuid de mhorcheoltoiri na Gaeilge
+OL,9,     Fi mbun ceoil agus comhra le Liam O
+OL,10,     FMaonlai.
+OL,11,G2030 An Cuinne Ceoil
+OL,12,     FClar ceoil a chur i lathair ag
+OL,13,     FTristan Rosenstock.
+OL,14,G2100 Rianta
+OL,15,     FClar ceoil ar linne, ceol na
+OL,16,     Fcruinne, ceolta nua agus ceolta
+OL,17,     Fnios sine.
+OL,18,G0000 Scoth na Seachtaine
+OL,19,     FScoth na Seachtaine
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,464,250,301,140,0,100
