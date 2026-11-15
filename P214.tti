@@ -1,13 +1,79 @@
-PN,21400
-SC,0000
+PN,21401
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F214A1794701903
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1794723599
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
-OL,3,V}yyy5CSaturday
+OL,3,V}yyy5CSunday
 OL,5,G0000 As BBC Radio 5 Live
 OL,6,     FJoining Radio 5 Live.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,7,G0700 Scotcast
+OL,8,     FThe best bits from the past seven
+OL,9,     Fdays of the BBC's Scottish news
+OL,10,     Fpodcast, with Martin Geissler.
+OL,11,G0730 New Every Sunday
+OL,12,     FAn act of worship with the Very
+OL,13,     FReverend Sally Foster-Fulton,
+OL,14,     Fformer moderator of the General
+OL,15,     FAssembly of the Church of
+OL,16,     FScotland.
+OL,17,G0800 Sunday Morning
+OL,18,     FTwo hours of music and
+OL,19,     Fconversation with a faith and
+OL,20,     Fethical perspective. Taking the
+OL,21,     Fweek's events to ask what they say
+OL,22,     Fabout our values and beliefs.
+OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21402
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1794723599
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CSunday
+OL,5,G1000 The Sunday Show
+OL,6,     FNews, discussion and interviews
+OL,7,     Ffrom politics and beyond.
+OL,8,G1200 Off the Ball
+OL,9,     FThe most petty and ill-informed
+OL,10,     Ffootball show on radio.
+OL,11,G1400 Sportsound Rugby
+OL,12,     FLive rugby commentary of Scotland
+OL,13,     Fv Australia in the Nations
+OL,14,     FChampionship.
+OL,15,G1730 Your Requests with Gary Innes
+OL,16,     FJoin Gary as he shares your
+OL,17,     Fspecial messages and dedications
+OL,18,     Fand plays your favourite Scottish
+OL,19,     FMusic requests.
+OL,23,VppppppppppppppppppppppppppppppppppG2/3
+OL,24,ANext Page BNat Radio CNat Sport FRewind
+FL,215,200,300,120,0,100
+PN,21403
+SC,0003
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F214A1794723599
+OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
+OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
+OL,3,V}yyy5CSunday
+OL,5,G1900 Classical Now
+OL,6,     FA Joy-themed programme with music
+OL,7,     Fby Beethoven, Vivaldi, Florence
+OL,8,     FPrice and Sibelius.
+OL,9,G2100 Roddy Hart's Mix Tape
+OL,10,     FKatie Gregson-MacLeod is in
+OL,11,     Fconversation with Roddy. She talks
+OL,12,     Fabout her debut album, Albatross,
+OL,13,     Fher remarkable journey in the
+OL,14,     Fmusic industry, and shares the
+OL,15,     Fsongs she loves most.
+OL,16,G2300 As BBC Radio 5 Live
+OL,17,     FJoining Radio 5 Live.
+OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
