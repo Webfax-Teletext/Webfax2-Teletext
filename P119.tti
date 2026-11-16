@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FSuspected China spy linked to
-OL,6,FNvidia's ex-boss left in 2025,
-OL,7,FMegaspeed saysA15-Nov
-OL,8,G
-OL,9,G107FSouth Korea's top scorer in tax
-OL,10,Faccountancy exam admits cheatingA15-Nov
+OL,5,G106FInvestors sue chip giant Intel
+OL,6,Fafter 29% stock plungeA16-Nov
+OL,7,G
+OL,8,G107FSuspected China spy linked to
+OL,9,FNvidia's ex-boss left in 2025,
+OL,10,FMegaspeed saysA15-Nov
 OL,11,G
-OL,12,G108FItaly fines Meta bB,805m over
-OL,13,Faccessing users' photosA14-Nov
+OL,12,G108FSouth Korea's top scorer in tax
+OL,13,Faccountancy exam admits cheatingA15-Nov
 OL,14,G
-OL,15,G109FMicrosoft says services fully
-OL,16,Frestored after day-long global outage
-OL,17,A13-Nov
-OL,18,G
-OL,19,G110FEven Grand Theft Auto's original
-OL,20,Fcreators haven't been able to play GTA
-OL,21,F6A14-Nov
-OL,22,G
+OL,15,G109FItaly fines Meta bB,805m over
+OL,16,Faccessing users' photosA14-Nov
+OL,17,G
+OL,18,G110FMicrosoft says services fully
+OL,19,Frestored after day-long global outage
+OL,20,A13-Nov
+OL,21,G
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/18
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
@@ -53,7 +53,52 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AInvestors sue chip giant Intel after
+OL,4,A29% stock plunge
+OL,5,
+OL,6,FShareholders have sued US chip giant
+OL,7,FIntel, accusing it of hiding the
+OL,8,Fseverity of a slump in personal
+OL,9,Fcomputer (PC) sales, which they say led
+OL,10,Fto a nearly 29% one-day collapse in the
+OL,11,Ffirm's stock.
+OL,13,FA proposed class action lawsuit in San
+OL,14,FJose, California said Intel was too
+OL,15,Flate to alert shareholders about how
+OL,16,Fslowing sales could impact its
+OL,17,Fearnings, allegedly artificially
+OL,18,Finflating its stock price.
+OL,23,APub: 16-NovQppppppppppppppppppppppG3/18
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794799475
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AInvestors sue chip giant Intel after
+OL,4,A29% stock plunge
+OL,5,
+OL,6,FIntel shares plunged on 30 October,
+OL,7,Ferasing tens of billions of dollars off
+OL,8,Fits market value the day after it
+OL,9,Fforecasted disappointing revenue in its
+OL,10,Fcoming earnings report.
+OL,12,FThe BBC has contacted Intel for
+OL,13,Fcomment.
+OL,23,APub: 16-NovQppppppppppppppppppppppG4/18
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ASuspected China spy linked to Nvidia's
@@ -69,14 +114,14 @@ OL,13,Fexecutive of the AI chip-making giant
 OL,14,FNvidia after it emerged he had
 OL,15,Fallegedly had affairs with Alice Huang
 OL,16,Fas well as with one of his employees.
-OL,23,APub: 15-NovQppppppppppppppppppppppG3/18
+OL,23,APub: 15-NovQppppppppppppppppppppppG5/18
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ASuspected China spy linked to Nvidia's
@@ -91,14 +136,14 @@ OL,11,Fdespite US export restrictions.
 OL,13,FThe Singapore-based company said on
 OL,14,FSunday it had launched an internal
 OL,15,Finvestigation into its business.
-OL,23,APub: 15-NovQppppppppppppppppppppppG4/18
+OL,23,APub: 15-NovQppppppppppppppppppppppG6/18
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ASouth Korea's top scorer in tax
@@ -119,14 +164,14 @@ OL,19,Fpoints in the first round, getting just
 OL,20,Fone of 160 questions wrong, which
 OL,21,Finitially raised suspicions and sparked
 OL,22,Fonline speculation.
-OL,23,APub: 15-NovQppppppppppppppppppppppG5/18
+OL,23,APub: 15-NovQppppppppppppppppppppppG7/18
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,ASouth Korea's top scorer in tax
@@ -137,56 +182,14 @@ OL,7,Foutsized role in career trajectories
 OL,8,Ffor South Koreans, making their results
 OL,9,F- and efforts to unduly inflate those
 OL,10,Fresults - of great importance.
-OL,23,APub: 15-NovQppppppppppppppppppppppG6/18
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AItaly fines Meta bB,805m over accessing
-OL,4,Ausers' photos
-OL,5,
-OL,6,FItalian regulators have fined social
-OL,7,Fmedia giant Meta bB,805m (#670m; $887m)
-OL,8,Ffor accessing Android users' photos
-OL,9,Fwithout their specific consent.
-OL,11,FItaly's Data Protection Authority said
-OL,12,FMeta did not properly inform about 20
-OL,13,Fmillion smartphone users that it had
-OL,14,Faccess to their photos and videos via a
-OL,15,Ffeature of the Facebook app.
-OL,17,FIt has given Meta, which also runs
-OL,18,FWhatsApp and Instagram, 60 days to
-OL,19,Fdisable the feature by default and seek
-OL,20,Fusers' consent separately.
-OL,23,APub: 14-NovQppppppppppppppppppppppG7/18
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AItaly fines Meta bB,805m over accessing
-OL,4,Ausers' photos
-OL,5,
-OL,6,FThe fine is among the largest an
-OL,7,FItalian authority has ever imposed on a
-OL,8,Ftech company.
-OL,23,APub: 14-NovQppppppppppppppppppppppG8/18
+OL,23,APub: 15-NovQppppppppppppppppppppppG8/18
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
 PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -215,7 +218,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AHolly Humberstone: People can't connect
@@ -242,7 +245,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AHannah Fry feels 'unbelievably lucky'
@@ -267,7 +270,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AHannah Fry feels 'unbelievably lucky'
@@ -285,7 +288,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AAlleged Russell Brand rape victim wants
@@ -313,7 +316,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AAlleged Russell Brand rape victim wants
@@ -329,7 +332,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CSunday
@@ -352,7 +355,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CSunday
@@ -374,7 +377,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSunday
@@ -391,7 +394,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1794799100
+OL,0,        ECIMSBWebfax 2   F119A1794799475
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSunday
