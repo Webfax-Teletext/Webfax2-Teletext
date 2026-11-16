@@ -1,46 +1,28 @@
-PN,20401
-SC,0001
+PN,20400
+SC,0000
 CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794788307
+PS,8008
+OL,0,        ECIMSBWebfax 2   F204A1794790095
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSunday
-OL,5,G0015 Inside Health
-OL,6,     FThe UK government has committed
-OL,7,     F#100 million to speed up the
-OL,8,     Frollout of robotic surgery in
-OL,9,     FEngland. Laura Foster heads to the
-OL,10,     Foperating theatre to see what it
-OL,11,     Fmeans for patients.
-OL,12,G0045 Bells on Sunday
-OL,13,     FBells on Sunday comes from the
-OL,14,     FChapel of Merton College, Oxford.
-OL,15,G0048 Shipping Forecast
-OL,16,G0100 World Service
-OL,17,     FBBC Radio 4 joins the BBC World
-OL,18,     FService.
-OL,19,G0500 News and Papers
-OL,20,     FNational and international news
-OL,21,     Ffrom BBC Radio 4.
-OL,22,G0505 Yesterday in Parliament
-OL,23,VppppppppppppppppppppppppppppppppppG1/2
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,205,200,300,120,0,100
-PN,20402
-SC,0002
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F204A1794788307
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
-OL,3,V}yyy5CSunday
-OL,5,G0534 Shipping Forecast
-OL,6,G0543 Prayer for the Day
-OL,7,G0545 Farming Today
-OL,8,G0557 Weather for Farmers
-OL,9,     FThe latest weather reports and
-OL,10,     Fforecasts for farmers.
-OL,23,VppppppppppppppppppppppppppppppppppG2/2
+OL,5,G0045 Bells on Sunday
+OL,6,     FBells on Sunday comes from the
+OL,7,     FChapel of Merton College, Oxford.
+OL,8,G0048 Shipping Forecast
+OL,9,G0100 World Service
+OL,10,     FBBC Radio 4 joins the BBC World
+OL,11,     FService.
+OL,12,G0500 News and Papers
+OL,13,     FNational and international news
+OL,14,     Ffrom BBC Radio 4.
+OL,15,G0505 Yesterday in Parliament
+OL,16,G0534 Shipping Forecast
+OL,17,G0543 Prayer for the Day
+OL,18,G0545 Farming Today
+OL,19,G0557 Weather for Farmers
+OL,20,     FThe latest weather reports and
+OL,21,     Fforecasts for farmers.
+OL,23,Vppppppppppppppppppppppppppppppppppppppp
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,205,200,300,120,0,100
