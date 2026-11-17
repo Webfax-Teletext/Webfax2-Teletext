@@ -2,7 +2,7 @@ PN,24001
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1794810025
+OL,0,        ECIMSBWebfax 2   F240A1794878361
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CTuesday
@@ -17,8 +17,10 @@ OL,12,     FLocal, national and international
 OL,13,     Fnews each morning.
 OL,14,G0900 Naoi gu Deich
 OL,15,     FComhradh, deasbad, cultar agus
-OL,16,     Fcur-seachadan. Conversation,
-OL,17,     Fdiscussion, culture and lifestyle.
+OL,16,     Fcur-seachadan le Coinneach Mac a'
+OL,17,     FGhobhainn. Conversation,
+OL,18,     Fdiscussion, culture and lifestyle
+OL,19,     Fwith Coinneach Smith.
 OL,23,VppppppppppppppppppppppppppppppppppG1/6
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -26,7 +28,7 @@ PN,24002
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1794810025
+OL,0,        ECIMSBWebfax 2   F240A1794878361
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CTuesday
@@ -53,7 +55,7 @@ PN,24003
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1794810025
+OL,0,        ECIMSBWebfax 2   F240A1794878361
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CTuesday
@@ -82,7 +84,7 @@ PN,24004
 SC,0004
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1794810025
+OL,0,        ECIMSBWebfax 2   F240A1794878361
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CTuesday
@@ -109,7 +111,7 @@ PN,24005
 SC,0005
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1794810025
+OL,0,        ECIMSBWebfax 2   F240A1794878361
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CTuesday
@@ -126,10 +128,6 @@ OL,14,     Fagus tha i feitheamh ribh le
 OL,15,     Ftaghadh ciuil. Morag MacDonald
 OL,16,     Fpresents her great choice of
 OL,17,     Ftraditional Gaelic music.
-OL,18,G2255 Naoi gu Deich
-OL,19,     FComhradh, deasbad, cultar agus
-OL,20,     Fcur-seachadan. Conversation,
-OL,21,     Fdiscussion, culture and lifestyle.
 OL,23,VppppppppppppppppppppppppppppppppppG5/6
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
@@ -137,14 +135,20 @@ PN,24006
 SC,0006
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F240A1794810025
+OL,0,        ECIMSBWebfax 2   F240A1794878361
 OL,1,Vzssssss{0Ww;js%7+ j#1w{jj#4uzjs5wsj
 OL,2,Vupp=wfff5W-.*,%-. *,%%***,!%** %-,*,$V,
 OL,3,V}yyy5CTuesday
-OL,5,G2350 Mar Radio Alba
-OL,6,     FTha BBC Radio nan Gaidheal mar BBC
-OL,7,     FRadio Alba. BBC Radio nan Gaidheal
-OL,8,     Fjoins BBC Radio Scotland.
+OL,5,G2255 Naoi gu Deich
+OL,6,     FComhradh, deasbad, cultar agus
+OL,7,     Fcur-seachadan le Coinneach Mac a'
+OL,8,     FGhobhainn. Conversation,
+OL,9,     Fdiscussion, culture and lifestyle
+OL,10,     Fwith Coinneach Smith.
+OL,11,G2350 Mar Radio Alba
+OL,12,     FTha BBC Radio nan Gaidheal mar BBC
+OL,13,     FRadio Alba. BBC Radio nan Gaidheal
+OL,14,     Fjoins BBC Radio Scotland.
 OL,23,VppppppppppppppppppppppppppppppppppG6/6
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,241,200,300,120,0,100
