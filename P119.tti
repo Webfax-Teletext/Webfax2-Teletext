@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FWhite House removes cyber-security
-OL,6,Fchief after series of tech outages
-OL,7,A20-Nov
-OL,8,G
-OL,9,G107FGTA 6 drives spike in download
-OL,10,Fdemand, as estimated sales top $2.3bn
-OL,11,A20-Nov
-OL,12,G
-OL,13,G108FShould AI be judging our credit
-OL,14,Fworthiness?A20-Nov
+OL,5,G106FAnthropic shares fall a day after
+OL,6,Fblockbuster openingA20-Nov
+OL,7,G
+OL,8,G107FWhite House removes cyber-security
+OL,9,Fchief after series of tech outages
+OL,10,A20-Nov
+OL,11,G
+OL,12,G108FGTA 6 drives spike in download
+OL,13,Fdemand, as estimated sales top $2.3bn
+OL,14,A20-Nov
 OL,15,G
-OL,16,G109FTens of thousands of UK fridges
-OL,17,Fsecured from hackers in secret
-OL,18,Fnationwide operationA20-Nov
-OL,19,G
-OL,20,F
-OL,21,F
-OL,22,F
+OL,16,G109FShould AI be judging our credit
+OL,17,Fworthiness?A20-Nov
+OL,18,G
+OL,19,G110FTens of thousands of UK fridges
+OL,20,Fsecured from hackers in secret
+OL,21,Fnationwide operationA20-Nov
+OL,22,G
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
@@ -53,7 +53,52 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AAnthropic shares fall a day after
+OL,4,Ablockbuster opening
+OL,5,
+OL,6,FAnthropic's share price has dropped to
+OL,7,Fnear $88, back towards its initial
+OL,8,Fpublic offering price of of $83, after
+OL,9,Fa soaring market debut.
+OL,11,FThe artificial intelligence (AI)
+OL,12,Fcompany's debut on the Nasdaq stock
+OL,13,Fexchange on Thursday was a crucial test
+OL,14,Ffor the industry, and was largely seen
+OL,15,Fas a success with trading beginning at
+OL,16,F$111.50 and peaking at $115.
+OL,18,FBut while Anthropic's shares flew past
+OL,19,Fthe allocation price on Thursday, other
+OL,20,Ftech stocks suffered.
+OL,23,APub: 20-NovQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1795186468
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AAnthropic shares fall a day after
+OL,4,Ablockbuster opening
+OL,5,
+OL,6,FThose falls continued into Friday, with
+OL,7,Fthe tech-heavy Nasdaq Composite Index
+OL,8,Fopening down 1.3%. The S&P 500 also
+OL,9,Fopened down 0.4% while the Dow Jones
+OL,10,FIndustrial Average opened slightly
+OL,11,Fhigher.
+OL,23,APub: 20-NovQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhite House removes cyber-security
@@ -72,14 +117,14 @@ OL,16,Fstaff Stephen Miller.
 OL,18,FIt comes after a string of tech outages
 OL,19,Fwhich hit banking, air traffic control
 OL,20,Fand other sectors.
-OL,23,APub: 20-NovQppppppppppppppppppppppG3/19
+OL,23,APub: 20-NovQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AWhite House removes cyber-security
@@ -90,14 +135,14 @@ OL,7,Fcaused by cyberattacks but the
 OL,8,Fblackouts had sparked scrutiny from
 OL,9,Fmembers of Congress who demanded a
 OL,10,Fclearer explanation of what went wrong.
-OL,23,APub: 20-NovQppppppppppppppppppppppG4/19
+OL,23,APub: 20-NovQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AGTA 6 drives spike in download demand,
@@ -116,14 +161,14 @@ OL,16,Ffirst available, saw a 14.8-fold spike
 OL,17,Ffour hours before, suggesting some
 OL,18,Fplayers switched regions for early
 OL,19,Faccess.
-OL,23,APub: 20-NovQppppppppppppppppppppppG5/19
+OL,23,APub: 20-NovQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AGTA 6 drives spike in download demand,
@@ -137,48 +182,6 @@ OL,11,FIn comparison, this year's
 OL,12,Fhighest-grossing movie so far,
 OL,13,FSpider-Man: Brand New Day, made $2.5bn
 OL,14,Fover its entire run in cinemas.
-OL,23,APub: 20-NovQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AShould AI be judging our credit
-OL,4,Aworthiness?
-OL,5,
-OL,6,FGetting approval for a mortgage, a car
-OL,7,Floan or even a mobile phone contract
-OL,8,Fcan rest on a credit score.
-OL,10,FSophie Hope was on the sharp end of
-OL,11,Fjust such a decision.
-OL,13,F"When I first checked my credit score,
-OL,14,Fit was excellent. But then my mortgage
-OL,15,Fapplication was suddenly denied by the
-OL,16,Flender because of my credit report. It
-OL,17,Fwas a massive shock as I'd never had
-OL,18,Fbad credit. When I looked into it, my
-OL,19,Fscore had gone to 'very poor'," she
-OL,20,Fsays.
-OL,23,APub: 20-NovQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AShould AI be judging our credit
-OL,4,Aworthiness?
-OL,5,
-OL,6,FIt turns out, the Brighton-based nail
-OL,7,Ftechnician and content creator, had
-OL,8,Fbeen the victim of identity fraud.
 OL,23,APub: 20-NovQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
@@ -186,7 +189,7 @@ PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -215,7 +218,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ANew Hunger Games cast say joining the
@@ -239,7 +242,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ANew Hunger Games cast say joining the
@@ -263,7 +266,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AGTA 6 drives spike in download demand,
@@ -289,7 +292,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AGTA 6 drives spike in download demand,
@@ -310,7 +313,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ANext round of BBC cuts will be more
@@ -337,7 +340,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ANext round of BBC cuts will be more
@@ -354,7 +357,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CFriday
@@ -383,7 +386,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CFriday
@@ -409,7 +412,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CFriday
@@ -438,7 +441,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795186091
+OL,0,        ECIMSBWebfax 2   F119A1795186468
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CFriday
