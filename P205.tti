@@ -2,69 +2,55 @@ PN,20501
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1795281525
+OL,0,        ECIMSBWebfax 2   F205A1795283297
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday
-OL,5,G1700 Sports Report
-OL,6,     FReports, results and reaction to
-OL,7,     Fthe day's big sports stories.
-OL,8,G1730 Premier League Football
-OL,9,     FLive football commentary of
-OL,10,     FNewcastle United v Arsenal in the
-OL,11,     FPremier League.
-OL,12,G1930 606
-OL,13,     FYour football calls with Natalie
-OL,14,     FPike and Chris Sutton. Phone 08085
-OL,15,     F909693 free from mobiles and
-OL,16,     Flandlines. Text 85058 at your
-OL,17,     Fstandard message rate.
-OL,23,VppppppppppppppppppppppppppppppppppG1/3
+OL,5,G1730 Premier League Football
+OL,6,     FLive football commentary of
+OL,7,     FNewcastle United v Arsenal in the
+OL,8,     FPremier League.
+OL,9,G1930 606
+OL,10,     FYour football calls with Natalie
+OL,11,     FPike and Chris Sutton. Phone 08085
+OL,12,     F909693 free from mobiles and
+OL,13,     Flandlines. Text 85058 at your
+OL,14,     Fstandard message rate.
+OL,15,G2100 Stephen Nolan
+OL,16,     FThe day's main news stories,
+OL,17,     Ftopical debate and interviews.
+OL,18,     FCall 08085 909693 (calls are free
+OL,19,     Ffrom mobiles and landlines).
+OL,20,     FEmail: nolan@bbc.co.uk.
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100
 PN,20502
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1795281525
+OL,0,        ECIMSBWebfax 2   F205A1795283297
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
 OL,3,V}yyy5CSaturday
-OL,5,G2100 Stephen Nolan
-OL,6,     FThe day's main news stories,
-OL,7,     Ftopical debate and interviews.
-OL,8,     FCall 08085 909693 (calls are free
-OL,9,     Ffrom mobiles and landlines).
-OL,10,     FEmail: nolan@bbc.co.uk.
-OL,11,G0000 Football Daily
-OL,12,     FThe team look at Mauricio
-OL,13,     FPochettino's opening match as
-OL,14,     FManchester United head coach.
-OL,15,G0030 Elis James and John Robins
-OL,16,     FJohn's off to give a big talk
-OL,17,     Fabout resilience at an unnamed
-OL,18,     Ffinancial institute.
-OL,23,VppppppppppppppppppppppppppppppppppG2/3
-OL,24,ANext Page BNat Radio CNat Sport FRewind
-FL,206,200,300,120,0,100
-PN,20503
-SC,0003
-CT,8,T
-PS,c008
-OL,0,        ECIMSBWebfax 2   F205A1795281525
-OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k *s! 5
-OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,! -,V(,
-OL,3,V}yyy5CSaturday
-OL,5,G0100 Kathryn Stanczyszyn
-OL,6,     FKathryn Stanczyszyn takes your
-OL,7,     Fcalls through the night. Call
-OL,8,     F08085 909693 (calls are free from
-OL,9,     Fmobiles and landlines). Text 85058
-OL,10,     F(charged at your standard message
-OL,11,     Frate).
-OL,12,G0330 Formula 1
-OL,13,     FLive F1 commentary of the 2026 Las
-OL,14,     FVegas Grand Prix.
-OL,23,VppppppppppppppppppppppppppppppppppG3/3
+OL,5,G0000 Football Daily
+OL,6,     FThe team look at Mauricio
+OL,7,     FPochettino's opening match as
+OL,8,     FManchester United head coach.
+OL,9,G0030 Elis James and John Robins
+OL,10,     FJohn's off to give a big talk
+OL,11,     Fabout resilience at an unnamed
+OL,12,     Ffinancial institute.
+OL,13,G0100 Kathryn Stanczyszyn
+OL,14,     FKathryn Stanczyszyn takes your
+OL,15,     Fcalls through the night. Call
+OL,16,     F08085 909693 (calls are free from
+OL,17,     Fmobiles and landlines). Text 85058
+OL,18,     F(charged at your standard message
+OL,19,     Frate).
+OL,20,G0330 Formula 1
+OL,21,     FLive F1 commentary of the 2026 Las
+OL,22,     FVegas Grand Prix.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,206,200,300,120,0,100
