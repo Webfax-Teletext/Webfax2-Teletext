@@ -2,26 +2,28 @@ PN,21401
 SC,0001
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1795331907
+OL,0,        ECIMSBWebfax 2   F214A1795333691
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSunday
-OL,5,G0700 Scotcast
-OL,6,     FThe best bits from the past seven
-OL,7,     Fdays of the BBC's Scottish news
-OL,8,     Fpodcast, with Martin Geissler.
-OL,9,G0730 New Every Sunday
-OL,10,     FAn act of worship with the Very
-OL,11,     FReverend Sally Foster-Fulton,
-OL,12,     Fformer moderator of the General
-OL,13,     FAssembly Of The Church of
-OL,14,     FScotland.
-OL,15,G0800 Sunday Morning
-OL,16,     FAward-winning comedian Susie
-OL,17,     FMcCabe is Tony's This Spiritual
-OL,18,     FLife guest. She talks faith,
-OL,19,     Ffamily and the dare that
-OL,20,     Ftransformed her life.
+OL,5,G0730 New Every Sunday
+OL,6,     FAn act of worship with the Very
+OL,7,     FReverend Sally Foster-Fulton,
+OL,8,     Fformer moderator of the General
+OL,9,     FAssembly Of The Church of
+OL,10,     FScotland.
+OL,11,G0800 Sunday Morning
+OL,12,     FAward-winning comedian Susie
+OL,13,     FMcCabe is Tony's This Spiritual
+OL,14,     FLife guest. She talks faith,
+OL,15,     Ffamily and the dare that
+OL,16,     Ftransformed her life.
+OL,17,G1000 The Sunday Show
+OL,18,     FNews, discussion and interviews
+OL,19,     Ffrom politics and beyond.
+OL,20,G1200 Off the Ball
+OL,21,     FThe most petty and ill-informed
+OL,22,     Ffootball show on radio.
 OL,23,VppppppppppppppppppppppppppppppppppG1/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -29,25 +31,26 @@ PN,21402
 SC,0002
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1795331907
+OL,0,        ECIMSBWebfax 2   F214A1795333691
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSunday
-OL,5,G1000 The Sunday Show
-OL,6,     FNews, discussion and interviews
-OL,7,     Ffrom politics and beyond.
-OL,8,G1200 Off the Ball
-OL,9,     FThe most petty and ill-informed
-OL,10,     Ffootball show on radio.
-OL,11,G1400 Sportsound
-OL,12,     FComprehensive coverage of Scottish
-OL,13,     Fsport, including live and
-OL,14,     Fexclusive commentary.
-OL,15,G1700 Your Requests with Gary Innes
-OL,16,     FJoin Anna Massie as she shares
-OL,17,     Fyour special messages and
-OL,18,     Fdedications and plays your
-OL,19,     Ffavourite Scottish music requests.
+OL,5,G1400 Sportsound
+OL,6,     FComprehensive coverage of Scottish
+OL,7,     Fsport, including live and
+OL,8,     Fexclusive commentary.
+OL,9,G1700 Your Requests with Gary Innes
+OL,10,     FJoin Anna Massie as she shares
+OL,11,     Fyour special messages and
+OL,12,     Fdedications and plays your
+OL,13,     Ffavourite Scottish music requests.
+OL,14,G1900 Classical Now
+OL,15,     FJamie MacDougall features the
+OL,16,     Fdebut disc from violinist Geneva
+OL,17,     FLewis and the BBC Scottish
+OL,18,     FSymphony Orchestra, plus classics
+OL,19,     Ffrom Evelyn Glennie, Lang Lang and
+OL,20,     FPavarotti.
 OL,23,VppppppppppppppppppppppppppppppppppG2/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
@@ -55,25 +58,18 @@ PN,21403
 SC,0003
 CT,8,T
 PS,c008
-OL,0,        ECIMSBWebfax 2   F214A1795331907
+OL,0,        ECIMSBWebfax 2   F214A1795333691
 OL,1,Vzssssss{0Ww;js%7+ js17+j#5#7!5 js57kj#4
 OL,2,Vupp=wfff5W-.*,%-. (,%-.*,% % -,* %%**,!
 OL,3,V}yyy5CSunday
-OL,5,G1900 Classical Now
-OL,6,     FJamie MacDougall features the
-OL,7,     Fdebut disc from violinist Geneva
-OL,8,     FLewis and the BBC Scottish
-OL,9,     FSymphony Orchestra, plus classics
-OL,10,     Ffrom Evelyn Glennie, Lang Lang and
-OL,11,     FPavarotti.
-OL,12,G2100 Roddy Hart's Mix Tape
-OL,13,     FNew music from Tamzene, Anna
-OL,14,     FMeredith and Wolf and the Weaver,
-OL,15,     Fplus a celebration of The Beatles'
-OL,16,     FThe White Album to close out the
-OL,17,     Fweekend.
-OL,18,G2300 As BBC Radio 5 Live
-OL,19,     FJoining Radio 5 Live.
+OL,5,G2100 Roddy Hart's Mix Tape
+OL,6,     FNew music from Tamzene, Anna
+OL,7,     FMeredith and Wolf and the Weaver,
+OL,8,     Fplus a celebration of The Beatles'
+OL,9,     FThe White Album to close out the
+OL,10,     Fweekend.
+OL,11,G2300 As BBC Radio 5 Live
+OL,12,     FJoining Radio 5 Live.
 OL,23,VppppppppppppppppppppppppppppppppppG3/3
 OL,24,ANext Page BNat Radio CNat Sport FRewind
 FL,215,200,300,120,0,100
