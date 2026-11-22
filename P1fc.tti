@@ -1,7 +1,7 @@
-PN,1fc01
-SC,0001
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1795312086
+PN,1fc00
+SC,0000
+PS,8018
+OL,0,        ECIMSBWebfax 2   F1fcA1795312975
 OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
 OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
 OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
@@ -13,73 +13,8 @@ OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
 OL,9,T##############
 OL,12,D```````````````````````````````````````
 OL,13,D                                       
-OL,25,1795312085;
-OL,10,GService: Webfax 2 - 24285 dd0297d90a
-OL,11,FLast Update: 22/11/2026 01:48:05  G1/3
-OL,13,AbbcNews/Business           G21/11-22:31
-OL,14,AbbcNews/Entertainment      G21/11-22:32
-OL,15,AbbcNews/Politics           G21/11-22:31
-OL,16,AbbcNews/Technology         G21/11-22:31
-OL,17,AbbcNewsLive                G21/11-20:02
-OL,18,AbbcSport/Cricket           G21/11-22:31
-OL,19,AbbcSport/Football          G21/11-22:31
-OL,20,AbbcSport/Football Gossip   G21/11-22:31
-OL,21,AbbcSport/Formula 1         G21/11-22:32
-OL,22,AbbcSport/Golf              G21/11-22:32
-OL,23,AbbcSport/Horse Racing      G21/11-22:32
-PN,1fc02
-SC,0002
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1795312086
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1795312085;
-OL,10,GService: Webfax 2 - 24285 dd0297d90a
-OL,11,FLast Update: 22/11/2026 01:48:05  G2/3
-OL,13,AbbcSport/Tennis            G21/11-22:32
-OL,14,AbbcSportFixtures/          G21/11-22:31
-OL,15,Abbc_news_papers            G21/11-22:32
-OL,16,AceefaxBusiness             G21/11-22:33
-OL,17,AceefaxNews                 G21/11-22:31
-OL,18,Acharts/singles             G21/11-22:33
-OL,19,Ageneric/championship       G21/11-22:33
-OL,20,Ageneric/f1                 G17/11-12:32
-OL,21,Ageneric/horse_racing       G21/11-22:32
-OL,22,Ageneric/league-one         G21/11-22:33
-OL,23,Ageneric/league-two         G21/11-22:33
-PN,1fc03
-SC,0003
-PS,c018
-OL,0,        ECIMSBWebfax 2   F1fcA1795312086
-OL,1,T||||||||||||||     T<,,,,,,,,,,,,,,,,,l
-OL,2,D]W `x||t     A\   T<,,,,,,,,,,,,,,,,,lj
-OL,3,D]W`?!  "%    A\  T<,,,,,,,,,,,,,,,,,ljj
-OL,4,D]W~!  5=85f3 A\T <,,,,,,,,,,,,,,,,,ljjj
-OL,5,D]Wo0  55 5d: G\T 5C Inserter Info Tjjj.
-OL,6,D]W"}0  `4    G\T 5G%%%%%%%%%%%%%%nTjj.
-OL,7,D]W "+//'     G\T 5GVersion: %%%%%VTj.
-OL,8,T]G  Indium    \T -,,,,,,,,,,,,,,,,,.
-OL,9,T##############
-OL,12,D```````````````````````````````````````
-OL,13,D                                       
-OL,25,1795312085;
-OL,10,GService: Webfax 2 - 24285 dd0297d90a
-OL,11,FLast Update: 22/11/2026 01:48:05  G3/3
-OL,13,Ageneric/lottery            G17/11-12:32
-OL,14,Ageneric/pollen_forecast    G21/11-22:33
-OL,15,Ageneric/prem_league        G21/11-22:33
-OL,16,Ageneric/tube_status        G21/11-22:33
-OL,17,Ageneric/weather_warnings   G21/11-22:33
-OL,18,AitvSport/westcountry       G17/11-12:32
-OL,19,Atv_listings                G21/11-22:32
-OL,20,CiNMS/comments.json         G17/11-12:32
-OL,21,AiNMS/onthisday/            G17/11-12:32
+OL,25,1795312962;
+OL,10,GService: Webfax 2 - 24286 8e34cfcb34
+OL,11,FLast Update: 22/11/2026 02:02:42      
+OL,13,AbbcNewsLive                G22/11-02:02
+OL,14,AitvSport/westcountry       G22/11-02:02
