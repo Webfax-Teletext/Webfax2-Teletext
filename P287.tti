@@ -1,16 +1,55 @@
-PN,28700
-SC,0000
+PN,28701
+SC,0001
 CT,8,T
-PS,8008
-OL,0,        ECIMSBWebfax 2   F287A1795828761
+PS,c008
+OL,0,        ECIMSBWebfax 2   F287A1795846799
 OL,1,Vzssssss{0Ww;js%7+ "7jsjsjs
 OL,2,Vupp=wfff5W-.*,%-.  %*,*,(.V(,,,,,,,,,,,
-OL,3,V}yyy5CFriday
-OL,5,G0100 Weekend overnights with BBC Radio
-OL,6,G     5 Live
-OL,7,     FLocal BBC Radio joins BBC Radio 5
-OL,8,     FLive through the night on a
-OL,9,     Fweekend.
-OL,23,Vppppppppppppppppppppppppppppppppppppppp
+OL,3,V}yyy5CSaturday
+OL,5,G0600 Gilly Hope on BBC Radio Tees
+OL,6,     FGilly starts your weekend the
+OL,7,     Fright way with great music and
+OL,8,     Fconversation.
+OL,9,G1000 Kelly Scott on BBC Radio Tees
+OL,10,     FKelly brings you great music and
+OL,11,     Fconversation for your mid-morning.
+OL,12,G1400 Total Sport
+OL,13,     FThe perfect blend of sport,
+OL,14,     Fentertainment and music.
+OL,15,G1700 BBC Radio Tees Sport: Pre-match
+OL,16,     FMatty Nixon with all the build-up
+OL,17,     Fand interviews ahead of Hartlepool
+OL,18,     FUnited's match.
+OL,19,G1730 BBC Radio Tees Sport: Commentary
+OL,20,     FHartlepool v Southend in the
+OL,21,     FNational League (95FM, DAB,
+OL,22,     FFreeview 714 & BBC Sounds).
+OL,23,VppppppppppppppppppppppppppppppppppG1/2
+OL,24,ANext PageBReg Radio CReg SportFShowreel
+FL,288,250,301,140,0,100
+PN,28702
+SC,0002
+CT,8,T
+PS,c008
+OL,0,        ECIMSBWebfax 2   F287A1795846799
+OL,1,Vzssssss{0Ww;js%7+ "7jsjsjs
+OL,2,Vupp=wfff5W-.*,%-.  %*,*,(.V(,,,,,,,,,,,
+OL,3,V}yyy5CSaturday
+OL,5,G1930 BBC Radio Tees Sport: Post-match
+OL,6,     FMatch reaction and interviews
+OL,7,     Ffollowing today's games.
+OL,8,G2000 BBC Introducing - North East
+OL,9,     FTrack of the week: Ivies - Free
+OL,10,     FFall, Jaded Halos, Pearly Gates.
+OL,11,G2200 Late Night Jo
+OL,12,     FJo Good with late-night
+OL,13,     Fconversation, amazing stories and
+OL,14,     Fthe soundtrack to your night.
+OL,15,G0100 Weekend overnights with BBC Radio
+OL,16,G     5 Live
+OL,17,     FLocal BBC Radio joins BBC Radio 5
+OL,18,     FLive through the night on a
+OL,19,     Fweekend.
+OL,23,VppppppppppppppppppppppppppppppppppG2/2
 OL,24,ANext PageBReg Radio CReg SportFShowreel
 FL,288,250,301,140,0,100
