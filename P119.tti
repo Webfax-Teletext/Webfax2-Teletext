@@ -2,7 +2,7 @@ PN,11901
 SC,0001
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W|4|h4|||h||4|||h||4|4|
 OL,2,W5j5u3jz%u3jz5ou?C        Teletext
 OL,3,W5j57qjk47!jk5~7}C      on the web
@@ -24,28 +24,28 @@ PN,11902
 SC,0002
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,GMAIN STORIESAfrom BBC News
-OL,5,G106FPensions and benefits services
-OL,6,Fstill down after 'cyber incident'
-OL,7,A28-Nov
-OL,8,G
-OL,9,G107FHow gamers are using AI and leaked
-OL,10,Ffiles to clone Grand Theft Auto 6
-OL,11,A28-Nov
-OL,12,G
-OL,13,G108FWhy is there a shortage of 'wizard'
-OL,14,Felevator mechanics?A27-Nov
+OL,5,G106FOpenAI counter-sues Apple over
+OL,6,Falleged theft of trade secretsA28-Nov
+OL,7,G
+OL,8,G107FPensions and benefits services
+OL,9,Fstill down after 'cyber incident'
+OL,10,A28-Nov
+OL,11,G
+OL,12,G108FHow gamers are using AI and leaked
+OL,13,Ffiles to clone Grand Theft Auto 6
+OL,14,A28-Nov
 OL,15,G
-OL,16,G109FAsia made a big AI bet on Nvidia.
-OL,17,FWhat happens now?A26-Nov
+OL,16,G109FWhy is there a shortage of 'wizard'
+OL,17,Felevator mechanics?A27-Nov
 OL,18,G
-OL,19,G110FMusk's plan to send a million
-OL,20,FSpaceX data satellites into space
-OL,21,FapprovedA26-Nov
-OL,22,G
+OL,19,G110FAsia made a big AI bet on Nvidia.
+OL,20,FWhat happens now?A26-Nov
+OL,21,G
+OL,22,F
 OL,23,QppppppppppppppppppppppppppppppppppG2/19
 OL,24,ANext PageB  CultureC Nat RadioF  Rewind
 FL,106,160,200,120,0,100
@@ -53,7 +53,54 @@ PN,11903
 SC,0003
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AOpenAI counter-sues Apple over alleged
+OL,4,Atheft of trade secrets
+OL,5,
+OL,6,FChatGPT-maker OpenAI has counter-sued
+OL,7,FApple, alleging that the iPhone maker
+OL,8,Fstole trade secrets through a former
+OL,9,Femployee.
+OL,11,FIn a federal lawsuit filed in July,
+OL,12,FApple sued the artificial intelligence
+OL,13,F(AI) company and two of its employees
+OL,14,Fwho previously worked for Apple,
+OL,15,Fclaiming it had engaged in a "pattern
+OL,16,Fof theft" of proprietary information.
+OL,23,APub: 28-NovQppppppppppppppppppppppG3/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11904
+SC,0004
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1795866857
+OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
+OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
+OL,3,AOpenAI counter-sues Apple over alleged
+OL,4,Atheft of trade secrets
+OL,5,
+OL,6,FA countersuit, filed in California on
+OL,7,FFriday, alleged that Apple gained
+OL,8,Fconfidential information through the
+OL,9,Fhiring of a former OpenAI employee and
+OL,10,Faccuses it of discouraging hardware
+OL,11,Fsuppliers from working on future OpenAI
+OL,12,Fdevices.
+OL,14,FApple denied the counterclaims,
+OL,15,Fdescribing them as "a transparent
+OL,16,Fattempt to distract from the substance"
+OL,17,Fof its own case.
+OL,23,APub: 28-NovQppppppppppppppppppppppG4/19
+OL,24,ANext PageBTechnologyC Nat RadioFCulture
+FL,107,105,200,160,0,100
+PN,11905
+SC,0005
+CT,25,T
+PS,c000
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,APensions and benefits services still
@@ -69,14 +116,14 @@ OL,13,F(DWP) has not specified what triggered
 OL,14,Fit to shut down access late on Thursday
 OL,15,Fbut has not ruled out that it was hit
 OL,16,Fby hackers.
-OL,23,APub: 28-NovQppppppppppppppppppppppG3/19
+OL,23,APub: 28-NovQppppppppppppppppppppppG5/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11904
-SC,0004
+FL,108,105,200,160,0,100
+PN,11906
+SC,0006
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,APensions and benefits services still
@@ -94,14 +141,14 @@ OL,15,Fofficer David Knott told BBC Newsnight
 OL,16,Fhis "strong suspicion" was that the
 OL,17,Fdepartment had been targeted by
 OL,18,Fhackers.
-OL,23,APub: 28-NovQppppppppppppppppppppppG4/19
+OL,23,APub: 28-NovQppppppppppppppppppppppG6/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,107,105,200,160,0,100
-PN,11905
-SC,0005
+FL,108,105,200,160,0,100
+PN,11907
+SC,0007
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AHow gamers are using AI and leaked
@@ -121,14 +168,14 @@ OL,18,FThe developer has typically released
 OL,19,FGrand Theft Auto on PC long after its
 OL,20,Finitial console launch ` 19 months
 OL,21,Flater in the case of GTA 5.
-OL,23,APub: 28-NovQppppppppppppppppppppppG5/19
+OL,23,APub: 28-NovQppppppppppppppppppppppG7/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11906
-SC,0006
+FL,109,105,200,160,0,100
+PN,11908
+SC,0008
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
 OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
 OL,3,AHow gamers are using AI and leaked
@@ -139,62 +186,14 @@ OL,7,Fin part because of an apparent leak of
 OL,8,Ffiles from an Xbox development build of
 OL,9,Fthe game, but also due to the rapid
 OL,10,Fadvance of AI coding platforms.
-OL,23,APub: 28-NovQppppppppppppppppppppppG6/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,108,105,200,160,0,100
-PN,11907
-SC,0007
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AWhy is there a shortage of 'wizard'
-OL,4,Aelevator mechanics?
-OL,5,
-OL,6,FSome of them are angry. Nerves are
-OL,7,Ffrayed. Many of them are just relieved
-OL,8,Fthat he's here.
-OL,10,FWhen a lift stops working in Chicago,
-OL,11,Ffrazzled building managers might get a
-OL,12,Fvisit from Jim Lembesis. For more than
-OL,13,F47 years, Lembesis has repaired and
-OL,14,Fupgraded lifts. He says he understands
-OL,15,Fwhy staff and residents are so anxious
-OL,16,Fto have things working again.
-OL,23,APub: 27-NovQppppppppppppppppppppppG7/19
-OL,24,ANext PageBTechnologyC Nat RadioFCulture
-FL,109,105,200,160,0,100
-PN,11908
-SC,0008
-CT,25,T
-PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
-OL,1,W5j 5Q#7!wsj#%uzj#57kj  7kjc1uz
-OL,2,W//%*// //%Q % -,*,%%** %-.*,$-.*,%,. (,
-OL,3,AWhy is there a shortage of 'wizard'
-OL,4,Aelevator mechanics?
-OL,5,
-OL,6,F"They wait and they wait," says
-OL,7,FLembesis, a field technician for
-OL,8,FParkway Elevators. "There's a lot of
-OL,9,Ffrustration. Sometimes it's a repeat
-OL,10,Fissue. It's a never-ending cycle, you
-OL,11,Fknow what I mean?"
-OL,13,FThe widely reported shortage of lift
-OL,14,Fand escalator mechanics in the US,
-OL,15,Fwhich is also a problem in many other
-OL,16,Fcountries, has got worse over time, he
-OL,17,Fadds: "It's been like night and day
-OL,18,Fcompared to when I started."
-OL,23,APub: 27-NovQppppppppppppppppppppppG8/19
+OL,23,APub: 28-NovQppppppppppppppppppppppG8/19
 OL,24,ANext PageBTechnologyC Nat RadioFCulture
 FL,109,105,200,160,0,100
 PN,11909
 SC,0009
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,GMAIN STORIESAfrom BBC News
@@ -223,7 +222,7 @@ PN,11910
 SC,0010
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ACarly Rae Jepsen's viral hit proves
@@ -249,7 +248,7 @@ PN,11911
 SC,0011
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,ACarly Rae Jepsen's viral hit proves
@@ -268,7 +267,7 @@ PN,11912
 SC,0012
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AActor and comedian PJ Gallagher dies
@@ -296,7 +295,7 @@ PN,11913
 SC,0013
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,AActor and comedian PJ Gallagher dies
@@ -314,7 +313,7 @@ PN,11914
 SC,0014
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'We have no interest in hearing from
@@ -339,7 +338,7 @@ PN,11915
 SC,0015
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,W5j 5Q7+j 55"k#j 5w;js1
 OL,2,W//%*// //%Q-.*,%-,* *,%%**,$ ,,,,,,,,,,
 OL,3,A'We have no interest in hearing from
@@ -361,7 +360,7 @@ PN,11916
 SC,0016
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k "5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.  %V,,,,,,
 OL,3,V}yyy5CSaturday
@@ -389,7 +388,7 @@ PN,11917
 SC,0017
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. *,$V,,,,,
 OL,3,V}yyy5CSaturday
@@ -412,7 +411,7 @@ PN,11918
 SC,0018
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k bs5
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-. (,%V,,,,,
 OL,3,V}yyy5CSaturday
@@ -435,7 +434,7 @@ PN,11919
 SC,0019
 CT,25,T
 PS,c000
-OL,0,        ECIMSBWebfax 2   F119A1795866490
+OL,0,        ECIMSBWebfax 2   F119A1795866857
 OL,1,Vzssssss{0Ww;js%7+ js%w{j#457k jp4
 OL,2,Vupp=wfff5W-.*,%-. * %%**,!%-.   %V,,,,,
 OL,3,V}yyy5CSaturday
